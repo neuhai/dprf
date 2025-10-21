@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's good to be with them."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, you had an exchange with Mr. Tillerson about sanctions on Russia, but Mr. Tillerson says he does favor maintaining current sanctions. Are you satisfied with that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm not, because I'm worried about his views on sanctions in general. Russia, for the moment, we just introduced a bipartisan package of extending sanctions on Russia. He wouldn't express himself on that. He says that he didn't even know that his company was lobbying against sanctions against Russia and Iran, and yet I produced lobby reports that showed that his company had. And he said that in his one meeting or two meetings with the president-elect, he didn't even discuss Russia, which is, you know, beyond my imagination. And so, you know, these are all parts of elements that are going to be concerning as we have to decide on Mr. Tillerson's nomination."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, as you know, Mr. Tillerson broke with President-elect Trump on the defense alliance, saying he has full support for its mutual defense guarantee. What's your response to that?"
+      }
+    ],
+    "speakername": "Bob Menendez",
+    "ground_truth": "Well, listen, if that is the president-elect's position, then I am happy to hear it. That's one item that I am happy to hear. I think that that provision of the defense alliance is the linchpin of our relationship throughout Europe, the linchpin of the alliance, and critically necessary. As a matter of fact, that article was invoked when we were struck on that tragic day on September 11th, and the alliance countries sought to engage with us in response to that attack. So the reality is that's a critical element, and that's good news if that's the president-elect's views that Mr. Tillerson is going to carry out. But based upon his remarks that he had, it doesn't seem like he had a very substantive global trough, so to speak, in terms of his conversations with the president-elect. I don't know how he's going to get to speak for him unless he knows what positions and views he has.",
+    "bio": "The speaker is a lawyer and politician serving as a senior Senator from a northeastern state, a seat held since 2006. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm not, because I'm worried about his views on sanctions in general. For the moment, we just introduced a bipartisan package of extending sanctions. He wouldn't express himself on that. He says that he didn't even know that the company was lobbying against sanctions, and yet I produced lobby reports that showed that the company had. And he said that in his one meeting or two meetings with the president-elect, he didn't even discuss the matter, which is, you know, beyond my imagination. And so, you know, these are all parts of elements that are going to be concerning as we have to decide on the nomination."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, as you know, the nominee broke with the president-elect on the international alliance, saying he has full support for its mutual defense guarantee. What's your response to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, if that is the president-elect's position, then I am happy to hear it. That's one item that I am happy to hear. I think that that provision of the alliance is the linchpin of our relationship throughout the region, the linchpin of the alliance, and critically necessary. As a matter of fact, that article was invoked when we were struck on that tragic day on September 11th, and the other member countries sought to engage with us in response to that attack. So the reality is that's a critical element, and that's good news if that's the president-elect's views that the nominee is going to carry out. But based upon his remarks that he had, it doesn't seem like he had a very substantive global trough, so to speak, in terms of his conversations with the president-elect. I don't know how he's going to get to speak for him unless he knows what positions and views he has."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, the president-elect conceded for the first time that the foreign power was behind the hacking. Is that the end of the story for you?"
+      }
+    ],
+    "speakername": "Bob Menendez",
+    "ground_truth": "No. The next phase of the story is, what do we do in response to a violation of the international order, in this case the foreign power, hacking not only the organization, but more importantly, trying to affect the national elections for president. If any foreign country, through cyber attacks or any other effort, tries to affect the national elections, we should all - Republicans, Democrats and the Independents - be appalled, and we will have to respond to it strongly. Because in the absence of doing that, then you will not just have certain nations do it to us in future elections - the president-elect could actually be the victim or we have elections going on in allied nations. Their attempts to do that there, there must be a response to this. Thank you. Thank you. Thank you. violation of trying to affect elections in another country by a foreign government.",
+    "bio": "A lawyer and politician serving as the senior Senator from a northeastern state, a seat held since 2006. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, if that is the president-elect's position, then I am happy to hear it. That's one item that I am happy to hear. I think that that provision of [international alliance] is the linchpin of our relationship throughout Europe, the linchpin of the alliance, and critically necessary. As a matter of fact, that article was invoked when we were struck on that tragic day on September 11th, and the rest of [international alliance] countries sought to engage with us in response to that attack. So the reality is that's a critical element, and that's good news if that's the president-elect's views that Mr. Tillerson is going to carry out. But based upon his remarks that he had, it doesn't seem like he had a very substantive global trough, so to speak, in terms of his conversations with the president-elect. I don't know how he's going to get to speak for him unless he knows what positions and views he has."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, Mr. Trump conceded for the first time that Russia was behind the hacking of the DNC. Is that the end of the story for you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No. The next phase of the story is, what do we do in response to a violation of the international order, in this case Russia, hacking not only the DNC, but more importantly, trying to affect the national elections for president of the United States. If any foreign country, through cyber attacks or any other effort, tries to affect the national elections of the United States, we should all â Republicans, Democrats and the Independents â be appalled, and we will have to respond to it strongly. Because in the absence of doing that, then you will not just have Russia or China or North Korea do it to us in future elections â Mr. Trump could actually be the victim or we have elections going on in Europe, incredibly important allies in France and Germany. Russia's attempts to do that there, there must be a response to this. Thank you. Thank you. Thank you. violation of trying to affect elections in another country by a foreign government."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Bob Menendez",
+    "ground_truth": "because he's had a press conference after the charges now he's spoken on the [government building] floor saying there's an easy explanation for why wads of cash were stuffed into his congressional jacket and why there were gold bars and his wife was researching how much a gold bar is worth",
+    "bio": "A lawyer and politician serving as the senior United States Senator from [state], a seat held since 2006. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No. The next phase of the story is, what do we do in response to a violation of the international order, in this case a foreign nation, hacking not only the political organization, but more importantly, trying to affect the national elections for president. If any foreign country, through cyber attacks or any other effort, tries to affect the national elections, we should all - members of different political parties and the Independents - be appalled, and we will have to respond to it strongly. Because in the absence of doing that, then you will not just have various foreign nations do it to us in future elections - the candidate could actually be the victim or we have elections going on in allied nations. Their attempts to do that there, there must be a response to this. Thank you. Thank you. Thank you. violation of trying to affect elections in another country by a foreign government."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "because he's had a press conference after the charges now he's spoken on the legislative chamber floor saying there's an easy explanation for why wads of cash were stuffed into his official jacket and why there were gold bars and his wife was researching how much a gold bar is worth"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, what? But I'm ready for the explanation. And that's so we'll take him at his word that assuming this does go to trial in May is scheduled, that he does plan to offer a defense, no doubt. But we'll be interested in in what it is. Yeah."
+      }
+    ],
+    "speakername": "Bob Menendez",
+    "ground_truth": "ready for the explanation. And that's, so we'll take him at his word that assuming this does go to trial in May as scheduled, that he does plan to offer a defense, no doubt. But we'll be interested in what it is. Yeah. Jay, [target] has refused to step down amid all of this. Now that he's given this official response there on the floor, what are you hearing from lawmakers about his defiance and what he's saying today?",
+    "bio": "A senior United States Senator representing a northeastern state, a seat held since 2006. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well let me say Dave that first of all the government presented this in the most salacious way possible the most sensational way possible in order to have the desired effect that they have temporarily achieved. You know the reality is is that we presented information to the government on those issues and others. That clearly explains a different rationale for its existence which is something the government just simply decided not to acknowledge and use. And so while I can't get into every specific of the charges that the government has alleged because I need to be able to preserve that for my defense. You know this this is an example of how in fact we did give the government information and how in fact they chose not to use it and how I look forward to both the process in motions and a trial if we get to a trial that ultimately will show people in this state what the truth really is."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean it just sounds frantic. Why not put the cash in a safe for instance and the gold bars in a safe in the home if the point is to safeguard them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well again I can't get into all the specifics. But as I've said you know I have drawn from my personal credit union savings account for the better part of 30 years. Four hundred dollars every week in cash. And while that may seem old fashioned some people may think of it as crazy. The reality is is that the government has those records. They have the accounts that show that and they chose not to use it. So you know this is why I look forward to being in a position to actually speak to these issues so that people from this state will have a different set of facts than the ones they have right now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right. Your wife is a co-defendant in this. You have separate attorneys. Can you describe your relationship during the period that's in this indictment? Were you partners in your political and other endeavors?"
+      }
+    ],
+    "speakername": "Bob Menendez",
+    "ground_truth": "We were husband and wife. We are husband and wife. I love her dearly. And in fact, you know, we do what everybody else who's a husband and wife do together. And so that's the relationship that we've had over the three years that we've been married. And I look forward to a long relationship.",
+    "bio": "The subject is an American lawyer and politician serving as a senior United States Senator from a northeastern state, a seat held since 2006. The speaker's MBTI type is ESTJ"
+  }
+]

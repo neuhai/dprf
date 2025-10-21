@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "First one is [country] to cover the island countries and second is [country] to cover the whole mainland countries."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I see. So [country] will become your hub."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What will you bring to [country]? What kind of activities?"
+      }
+    ],
+    "speakername": "Richard Liu (Liu Qiangdong)",
+    "ground_truth": "First of all, I think it's our experience. We have done economic business in [country] from zero until today.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And second, in the past 13 years, we invested huge money on technology."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So we will bring our best and new technology to [country]."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Like,"
+      }
+    ],
+    "speakername": "Richard Liu (Liu Qiangdong)",
+    "ground_truth": "our people-free warehouse like a drone like the last mile delivery robotic and unless our search system recommendations and system big data you know technology and cloud computing technology yeah every the latest technology we will bring to [country]",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "our people-free warehouse like a drone like the last mile delivery robotic and unless our search system recommendations and system big data you know technology and cloud computing technology yeah every the latest technology we will bring to the region"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But also very competitive because major e-commerce companies are there, now another major company wants to join the battle so to say. What is the main benefit or what is it that your company has that others don't have?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think we have created the best user experience in the region."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Mm."
+      }
+    ],
+    "speakername": "Richard Liu (Liu Qiangdong)",
+    "ground_truth": "Even globally, if you look at our delivery speed, our post service, and our quality control system, they are always the best in the world. So I think young talent is also our weapon.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh, uh, authority."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and we will offer regional consumers the best user experience."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "yes but as you know this region is a different market from this country this country is more sort of you know one market that you understand because you have grown up in this country you started in this country but this region is a different region 10 countries different cultures different levels of development and also you are a late comer"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How can you catch up and how can you understand the local market better than the others?"
+      }
+    ],
+    "speakername": "Richard Liu (Liu Qiangdong)",
+    "ground_truth": "Yeah, it's a very good question. I think if you look at this country, it's a huge country, west, east, south, and north. I think too many difference between the culture, the behavior, the tasting of food, everything is different. So I think in this region,",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and we will offer regional consumers the best user experience."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "yes but as you know this region is a different market from this country this country is more sort of you know one market that you understand because you have grown up in this country you started in this country but this region is a different region 10 countries different cultures different levels of development and also you are a late comer"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How can you catch up and how can you understand the local market better than the others?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it's a very good question. I think if you look at this country, it's a huge country, west, east, south, and north. I think too many difference between the culture, the behavior, the tasting of food, everything is different. So I think in Southeast region,"
+      }
+    ],
+    "speakername": "Richard Liu (Liu Qiangdong)",
+    "ground_truth": "We will use the local best people to do it, not by ourselves. We will find the best people, trust them, give them, you know, enough.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

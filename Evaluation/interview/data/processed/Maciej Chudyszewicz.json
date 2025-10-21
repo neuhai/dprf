@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm from Zestro."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm from [country], so..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm a local."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I've never been in your city. Is it a good city to visit?"
+      }
+    ],
+    "speakername": "Maciej Chudyszewicz",
+    "ground_truth": "And it's called one of the most secure, safest cities in [country]. One of the cleanest. You definitely should go there. It's a little bit smaller than [city], but it has its own soul, it has its own character. Where do you live? The biggest adventure in my life was to move from one [country] city to another. It was like two hours from one to another.",
+    "bio": " The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I've never been in your city. Is it a good city to visit?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And it's called one of the most secure, safest cities in [region]. One of the cleanest. You definitely should go there. It's a little bit smaller than [city], but it has its own soul, it has its own character. Where do you live? The biggest adventure in my life was to move from one [region] city to another. It was like two hours from one to another."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right now I'm living in the beautiful city of [city]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Why did you decide to move here?"
+      }
+    ],
+    "speakername": "Maciej Chudyszewicz",
+    "ground_truth": "came here for my studies and it wasn't really my own decision at least it wasn't very serious decision because it's a very natural thing that young people after their high school move from smaller towns to bigger ones and people in [city] have really two real choices between [city] and [city] so most of the people split between those two places the biggest percentage of my colleagues went to [city] so I just followed the traffic I went where they went",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right now I'm living in the beautiful city of [city1]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Why did you decide to move here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "came here for my studies and it wasn't really my own decision at least it wasn't very serious decision because it's a very natural thing that young people after their high school move from smaller towns to bigger ones and people in [city2] have really two real choices between [city3] and [city1] so most of the people split between those two places the biggest percentage of my colleagues went to [city1] so I just followed the traffic I went where they went"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "of the traffic. What is your favorite city in Poland?"
+      }
+    ],
+    "speakername": "Maciej Chudyszewicz",
+    "ground_truth": "I don't mind living in [city1], I don't mind spending my whole life here. The only point is that we need to get rid of smog and then we will be fine.",
+    "bio": " The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The rest of the year I'm mostly complaining about the weather, so the answer is no."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So do you like traditional food? Which is your favorite dish?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's part of me, and I don't have any kind of the best traditional food."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "one. Do you like raw meat dishes?"
+      }
+    ],
+    "speakername": "Maciej Chudyszewicz",
+    "ground_truth": "I've never eaten raw meat dishes and I don't think I will ever be able to. Awesome. I hate it. So I don't get the concept of raw meat.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's part of me, and I don't have any kind of the best local food."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "one. Do you like Tatar?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I've never eaten Tatar and I don't think I will ever be able to. Awesome. I hate it. So I don't get the concept of raw meat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And what do you do in your country now? Are you still studying, working? What are you doing?"
+      }
+    ],
+    "speakername": "Maciej Chudyszewicz",
+    "ground_truth": "I'm still a student, I still have one year of my studies. What do you study? I study linguistics, native language linguistics, and that's my real advantage because I hope that...",
+    "bio": "The speaker's MBTI type is ENFP"
+  }
+]

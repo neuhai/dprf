@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Donald Trump and his administration having a mandate, and we have to be super mindful and careful of this because he does not have a mandate. And what I mean by that is if you look at the numbers, just look at the facts, he won with the smallest margin of the popular vote since the 19th century. There was no coattail, meaning that the house is at a razor thin, razor thin, and he's about, he's on his way in the first hundred days to be the most unpopular president in their first hundred days. That is not a mandate. In 70 years. In 70 years, man, it's in there."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That is not a mandate. It's 70 years."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well. That's questionable. But I guess."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The question is, does it matter if he has both houses of Congress and the [federal building]? It does matter because-"
+      }
+    ],
+    "speakername": "Karine Jean-Pierre",
+    "ground_truth": "Because right now we have, what we're seeing in this administration is he's taking a wrecking ball to the government.",
+    "bio": "[target] (born August 13, 1977) is an American political campaign organizer, activist, political commentator, and author. She has been [federal building] Principal Deputy Press Secretary since 2021. She served as the chief of staff for Democratic vice presidential nominee Kamala Harris during the 2020 presidential campaign, becoming the first black woman and first lesbian to hold that position. She is set to become the 35th [federal building] Press Secretary on May 13, 2022, following the expected departure of Jen Psaki, making her the first black person and the first openly gay person to be Press Secretary. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That is not a mandate. It's 70 years."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well. That's questionable. But I guess."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The question is, does it matter if he has both houses of Congress and the [government building]? It does matter because-"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because right now we have, what we're seeing in this administration is he's taking a wrecking ball to the government."
+      }
+    ],
+    "speakername": "Karine Jean-Pierre",
+    "ground_truth": "And what that means and so that people really understand as folks are sitting here and watching He is there are folks who have been fired from the federal government and now is our water safe",
+    "bio": "[target] (born August 13, 1977) is an American political campaign organizer, activist, political commentator, and author. They have been [government building] Principal Deputy Press Secretary since 2021. They served as the chief of staff for Democratic vice presidential nominee [senior politician] during the 2020 presidential campaign, becoming the first black woman and first lesbian to hold that position. They are set to become the 35th [government building] Press Secretary on May 13, 2022, following the expected departure of [predecessor], making them the first black person and the first openly gay person to be Press Secretary. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And what that means and so that people really understand as folks are sitting here and watching He is there are folks who have been fired from the federal government and now is our water safe"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right? Mm-hmm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Is our food safe?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The skies. The skies. What about the skies?"
+      }
+    ],
+    "speakername": "Karine Jean-Pierre",
+    "ground_truth": "right in the skies right we have to worry about getting on a plane is that going to be safe is there going to be a pandemic and not only that folks who need their social security check yeah",
+    "bio": "[target] (born August 13, 1977) is an American political campaign organizer, activist, political commentator, and author. They have been [government building] Principal Deputy Press Secretary since 2021. They served as the chief of staff for Democratic vice presidential nominee during the 2020 presidential campaign, becoming the first black woman and first lesbian to hold that position. They are set to become the 35th [government building] Press Secretary on May 13, 2022, following the expected departure of the previous secretary, making them the first black person and the first openly gay person to be Press Secretary. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I mean, that is real. And they're doing it without concern of the fallout. Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "They don't care."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that is something that we, and look, I understand."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But people didn't vote for those things."
+      }
+    ],
+    "speakername": "Karine Jean-Pierre",
+    "ground_truth": "right because where's the economy what happened to oh we're going to bring prices down we saw what he did with the tariffs yesterday yeah the american people are going to be paying for that and it's going to increase if you look at car prices if you could look at food prices all of that is going to go up that's and foreign countries are not paying for that we are paying for that it's like look it's going to be part of nato are we going to be and look it's a moronic policy it is but let's be clear he said he was going to do that during his election yeah and he's doing it and this is the look the strategy is chaos it's truly chaos but we cannot forget and we have to start asking the hard questions as to what is happening right now this is a five alarm fire so five alone let me follow up on with something else who we're talking about then do you think the democrats should walk out tonight",
+    "bio": "[target] (born August 13, 1977) is an American political campaign organizer, activist, political commentator, and author. She has been [Government Building] Principal Deputy Press Secretary since 2021. She served as the chief of staff for Democratic vice presidential nominee [Senior Political Figure] during the 2020 presidential campaign, becoming the first black woman and first lesbian to hold that position. She is set to become the 35th [Government Building] Press Secretary on May 13, 2022, following the expected departure of [Previous Press Secretary], making her the first black person and the first openly gay person to be Press Secretary. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "right because where's the economy what happened to oh we're going to bring prices down we saw what he did with the tariffs yesterday yeah the american people are going to be paying for that and it's going to increase if you look at car prices if you could look at food prices all of that is going to go up that's and foreign countries are not paying for that we are paying for that it's like look it's going to be part of international alliance are we going to be and look it's a moronic policy it is but let's be clear he said he was going to do that during his election yeah and he's doing it and this is the look the strategy is chaos it's truly chaos but we cannot forget and we have to start asking the hard questions as to what is happening right now this is a five alarm fire so five alone let me follow up on with something else who we're talking about then do you think the democrats should walk out tonight"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, and he's doing it. And this is, look, the strategy is chaos. It's truly chaos, but we cannot forget, and we have to start asking the hard questions as to what is happening right now. This is a five alarm fire."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "A five alarm fire."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, the Democrats have a couple of questions that they need to ask themselves. The one is, who are they? Who are we as a party?"
+      }
+    ],
+    "speakername": "Karine Jean-Pierre",
+    "ground_truth": "What are we fighting for? And are we meeting the moment? Because these moments are not normal. This is not normal. We have to have a sense of urgency as we move forward. And we cannot do it the way that we've had in the past. We just cannot. That's right, because this is not normal. This is not normal. And it's a five alarm, as you say. It is a five alarm fire. And if we do not act as if it is a five alarm fire, look, he's not just coming after vulnerable communities anymore. That was obviously something that is incredibly problematic. He's trying to make every other community outside of the vulnerable community vulnerable themselves.",
+    "bio": "The speaker (born August 13, 1977) is an American political campaign organizer, activist, political commentator, and author. They have been Government Administrative Building Principal Deputy Press Secretary since 2021. They served as the chief of staff for Democratic vice presidential nominee during the 2020 presidential campaign, becoming the first black woman and first lesbian to hold that position. They are set to become the 35th Government Administrative Building Press Secretary on May 13, 2022, following the expected departure of the previous Press Secretary, making them the first black person and the first openly gay person to be Press Secretary. The speaker's MBTI type is ISTJ"
+  }
+]

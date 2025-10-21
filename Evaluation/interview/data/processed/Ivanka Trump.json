@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your father has now been impeached. He is now only the third U.S. president to go through this. What has been the impact? Has he made peace with it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He's energized, as are 63 million-plus voters who elected him to office. This is historic, as you note, in many ways, including the fact that it is the first purely partisan impeachment. In fact, the only thing bipartisan was the vote against proceeding forward, which several Democrats came along to reject the articles both that were introduced and that voted against last night's vote. So what's, I think, deeply unfortunate and disappointing is the amount of work that we could be doing to further the shared goals that we have and that the American people want us to be finding common ground on. If you think about this past week and what has been accomplished by this administration, despite unprecedented resistance and a climate of just tremendous raw politics, it's been remarkable from the passage of the defense bill, which secured for millions of Americans paid family leave, to the creation of a new military branch, to the largest pay raise for our service members in a decade. That plus the trade agreement. Plus... Plus tier one of the international trade deal. It is incredible. We passed permanent, permanent funding for minority institutions. Something that people have..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "minority serving institutions, something that people have been trying to get done for ages. The amount of work that we've accomplished in a very short period of time is just remarkable. And that's where our focus is. That's where our priorities are leading us to deliver on promise after promise."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm surprised to hear you say energized, because when I read the letter that your father sent to the House Leader, he seemed angry. And in fact, he wrote, you do not know nor do you care the great damage and hurt you've inflicted upon wonderful and loving members of my family. Was that a reference to you? I don't think."
+      }
+    ],
+    "speakername": "Ivanka Trump",
+    "ground_truth": "The words are mutually exclusive. You can be angry at a process that is unjust. And I think you heard from all the Republicans in the legislature yesterday their anger, their disbelief that this process was proceeding forward, when just several months ago the leader herself said she would not advance impeachment without bipartisan agreement and consent. So there can be anger. Anger at the opportunity cost to the Americans we're all here serving. And what could have gotten done. Angry at the waste of time. Angry at the collateral damage. Angry.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm surprised to hear you say energized, because when I read the letter that your father sent to the senior legislative leader, he seemed angry. And in fact, he wrote, you do not know nor do you care the great damage and hurt you've inflicted upon wonderful and loving members of my family. Was that a reference to you? I don't think."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The words are mutually exclusive. You can be angry at a process that is unjust. And I think you heard from all the party members in the chamber yesterday their anger, their disbelief that this process was proceeding forward, when just several months ago the leader herself said she would not advance impeachment without bipartisan agreement and consent. So there can be anger. Anger at the opportunity cost to the Americans we're all here serving. And what could have gotten done. Angry at the waste of time. Angry at the collateral damage. Angry."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But it's still energizing, and it focuses you on really and draws into relief the stark contrast in priorities between Republicans and Democrats today. That could change in the future, but today we are focused on delivering historic wins, and sadly we can't define the priorities of anyone but ourselves. So we know what the administration is committed to doing, and we are delivering time after time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "when he says damage and hurt what is your what is your dad's mood right now I mean he's talking about hurt to your family is that the way you feel it do you feel it in a personal way"
+      }
+    ],
+    "speakername": "Ivanka Trump",
+    "ground_truth": "Well, I think you saw his mood last night, and so did everyone watching. At the public event. He said it didn't even feel like he was being impeached. There is tremendous energy on his side. Look, it is pretty unprecedented that support for impeachment has decreased.",
+    "bio": " The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "when he says damage and hurt what is your what is your dad's mood right now I mean he's talking about hurt to your family is that the way you feel it do you feel it in a personal way"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think you saw his mood last night, and so did everyone watching. At the public event. He said it didn't even feel like he was being impeached. There is tremendous energy on his side. Look, it is pretty unprecedented that support for impeachment has decreased."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Over time, as more information was presented to the public, it's decreased, not increased. So with all of this time spent, with all of these witnesses who didn't have firsthand knowledge, with all of these people that have been paraded in front of the public, support for this action has decreased. So, you know, I think he sees it for what it is, which is really just raw partisan politics."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You are an advisor to your dad. It looks like this impeachment will head towards, or at least it's supposed to head towards a Senate trial. Do you advise him on that? Do you think that this should be a trial with witnesses and new evidence? I leave that to the lawyer."
+      }
+    ],
+    "speakername": "Ivanka Trump",
+    "ground_truth": "in terms of procedurally how to move forward. You haven't given your own advice? I give my perspective and opinion, but many people are very well informed about process and how to move forward, and I would defer to them.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Over time, as more information was presented to the people, it's decreased, not increased. So with all of this time spent, with all of these witnesses who didn't have firsthand knowledge, with all of these people that have been paraded in front of the people, support for this action has decreased. So, you know, I think he sees it for what it is, which is really just raw partisan politics."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You are an advisor to your dad. It looks like this impeachment will head towards, or at least it's supposed to head towards a trial. Do you advise him on that? Do you think that this should be a trial with witnesses and new evidence? I leave that to the lawyer."
+      },
+      {
+        "speaker": "[target]",
+        "text": "in terms of procedurally how to move forward. You haven't given your own advice? I give my perspective and opinion, but many people are very well informed about process and how to move forward, and I would defer to them."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "them on that. In your opinion, do you think he's getting good counsel from [redacted], the personal attorney?"
+      }
+    ],
+    "speakername": "Ivanka Trump",
+    "ground_truth": "I know [redacted] in a very different context, as one of the greatest mayors in the history of this city and a real hero in this region. So that is the experience I have had with [redacted] for a very long period of time. He's smart and thoughtful and a real warrior, and was a great mayor.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "in terms of procedurally how to move forward. You haven't given your own advice? I give my perspective and opinion, but many people are very well informed about process and how to move forward, and I would defer to them."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "them on that. In your opinion, do you think he's getting good counsel from [name], the president's personal attorney?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I know [name] in a very different context, as one of the greatest mayors in the history of this country and a real hero in [city]. So that is the experience I have had with [name] for a very long period of time. He's smart and thoughtful and a real warrior, and was a great mayor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I ask you about that because, of course, it was his actions in [country] and the investigation and his continued claim that he is working on behalf of your father on these projects. And it's created a lot of news and new storylines that the [government building] has had to respond to that have only complicated in many ways moving on."
+      }
+    ],
+    "speakername": "Ivanka Trump",
+    "ground_truth": "That's your assessment. So I don't know that I want to validate that comment. It is what it is. We're here. More than 50 percent of America thinks that we shouldn't be in this position and that the president shouldn't have been impeached. And we have the agreement of every single Republican member of Congress and a handful of Democrats as well.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  }
+]

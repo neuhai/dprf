@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Speak up. Speak up."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Don't shout, don't shout."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, no, okay, okay, don't worry. No, that's good. All good."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So welcome [target]. Thank you for joining us. I hope you're feeling better. I understand you're in [location] and you got a cold"
+      }
+    ],
+    "speakername": "Fabian Thylmann",
+    "ground_truth": "I was in [location], I am back home, but I do feel better now. I felt horrible, so I decided to sleep. It would be better to get up at 5 a.m. to get to you guys, so I'm sorry that I'm not there.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was in [location], I am back home, but I do feel better now. I felt horrible, so I decided to sleep. It would be better to get up at 5 a.m. to get to you guys, so I'm sorry that I'm not there."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I'm just going to log into this PC that's not mine, so I can... Does anyone want to know Soren's password for his systems, because he's just told me and I'm about to put it on Facebook for everybody."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It seems to be quite easy considering the fact that you don't have a note or something."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And the first, it gave me the wrong password. All right, so we're going to do this with questions spontaneously. Tell us a bit about how you got into the business initially. Right back in the beginning, what was your thinking, the opportunity that you saw, and what were those first steps to move in that direction?"
+      }
+    ],
+    "speakername": "Fabian Thylmann",
+    "ground_truth": "So I started in 97 in the business itself, not necessarily as an owner of anything, but as a developer. That's how I got in. And I relatively soon started working with lots of different people and I got to know the industry quite well.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It seems to be quite easy considering the fact that you don't have a note or something."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And the first, it gave me the wrong password. All right, so we're going to do this with questions spontaneously. Tell us a bit about how you got into the business initially. Right back in the beginning, what was your thinking, the opportunity that you saw, and what were those first steps to move in that direction?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I started in 97 in the business itself, not necessarily as an owner of anything, but as a developer. That's how I got in. And I relatively soon started working with lots of different people and I got to know the industry quite well."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "When you say the industry, are we talking the hosting industry or the other industry?"
+      }
+    ],
+    "speakername": "Fabian Thylmann",
+    "ground_truth": "uh the in general the adult entertainment industry okay just to be clear yes yes um and sorry so what was that like uh interesting interesting",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I started in 97 in the business itself, not necessarily as an owner of anything, but as a developer. That's how I got in. And I relatively soon started working with lots of different people and I got to know the industry quite well."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "When you say the industry, are we talking the hosting industry or the other industry?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh the in general the adult entertainment industry okay just to be clear yes yes um and sorry so what was that like uh interesting interesting"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Okay, we can spend some time on interesting."
+      }
+    ],
+    "speakername": "Fabian Thylmann",
+    "ground_truth": "Yes, exactly. No, but we, I relatively quickly saw inefficiencies in lots of different things, mainly in the tech, and in the way that they build certain things. And I decided to see if I can buy some well working assets, and see if I can optimize them and make more money with them. And the first ones I bought that worked quite well. This was not necessarily related to any differences in the way it was hosted or anything like that, but more in a feature and programming way, but obviously always somehow related to bandwidth and things like that, since this is the main driver of the business is content.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Features. Now my mind's boggling. We're talking about the end user experience?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, so in this case it was live cam business, for example."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "which was just- And with intensity."
+      }
+    ],
+    "speakername": "Fabian Thylmann",
+    "ground_truth": "and bandwidth intensive and making that work well and things like that. That was the initial kickstart of my starting really as an owner in this business.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The very next day, [target] was randomly assigned to the mass shooting death penalty trial. When you got noticed that you were the..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "judge."
+      },
+      {
+        "speaker": "[target]",
+        "text": "what did you think? I was going through my docket and my secretary came in and she was like in a full panic. I need to talk to you. I need to talk to you. And I said, what's the matter? She said, you got to sign the mass shooting case. And I said, okay, okay. You know, it was a big shock, but not so much. I don't know. I can't explain it. I had a feeling that case was coming to me."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The case lasted five years, and with it came cameras that captured courtroom drama in real time before a live nationwide audience."
+      }
+    ],
+    "speakername": "Elizabeth Scherer",
+    "ground_truth": "We have another day wasted. I just, I honestly, I have never experienced a level of unprofessionalism.",
+    "bio": "The target is an American lawyer who served as a judge in a state judicial circuit court from 2012 until resignation in 2023. The target gained national attention in 2022 after being randomly assigned to preside over a high-profile mass shooting trial. The target's conduct during the trial was later found to be in violation of rules governing judicial conduct and biased towards the prosecution, resulting in a formal reprimand from the state supreme court. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "what did you think? I was going through my docket and my secretary came in and she was like in a full panic. I need to talk to you. I need to talk to you. And I said, what's the matter? She said, you got to sign the major criminal case. And I said, okay, okay. You know, it was a big shock, but not so much. I don't know. I can't explain it. I had a feeling that case was coming to me."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The case lasted five years, and with it came cameras that captured courtroom drama in real time before a live nationwide audience."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We have another day wasted. I just, I honestly, I have never experienced a level of unprofessionalism."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "my career some of the courtroom sparring though do you feel like it took away from the trial"
+      }
+    ],
+    "speakername": "Elizabeth Scherer",
+    "ground_truth": "Well, anytime I had to, I guess, reprimand or censor an attorney, it was outside the presence of the jury.",
+    "bio": "A legal professional who served as a judge in a state judicial circuit court from 2012 until resignation in 2023. The individual gained national attention in 2022 after being randomly assigned to preside over a major criminal trial. Their conduct during the trial was later found to be in violation of rules governing judicial conduct and biased towards the prosecution, resulting in a formal reprimand from the state supreme court. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Keep that track."
+      },
+      {
+        "speaker": "[target]",
+        "text": "moving in a way"
+      },
+      {
+        "speaker": "[target]",
+        "text": "that was fair to all parties."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "[target] says her initial hesitation to discuss certain details stems from her agreement to receive a public reprimand from the state supreme court and an acknowledgment that her conduct during trial was at times not patient, dignified or courteous. But critics argue some of the actions by the defense team were shocking."
+      }
+    ],
+    "speakername": "Elizabeth Scherer",
+    "ground_truth": "When these people are upset about specific things that have gone on from that table, like shooting the middle finger up at this court and laughing and joking, Ms. McNeil, be quiet.",
+    "bio": "A legal professional who served as a judge in a state circuit court from 2012 until resignation in 2023. The individual gained national attention in 2022 after being randomly assigned to preside over a significant criminal trial involving a school shooting incident. Their conduct during the trial was later found to be in violation of rules governing judicial conduct and biased towards the prosecution, resulting in a formal reprimand from the state supreme court. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You would."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You need to sit down right now. You're out of line. In fact, you're excused."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "To try to threaten my children and bring up my children is inappropriate. Looking back on that, do you still feel that your child was threatened?"
+      }
+    ],
+    "speakername": "Elizabeth Scherer",
+    "ground_truth": "so i'm very protective of my daughter and looking back i i may have overreacted in other words maybe that's not what the attorney meant but i i don't i don't feel it's ever ever appropriate to look at a judge and say well if this was your kid what i mean that is just so far out of line that i i will tell you he found the right button to push i i try to to uh maintain a level of you know calmness and take a deep breath when somebody's trying to sort of bait me",
+    "bio": "A legal professional who served as a judge in a regional judicial circuit from 2012 until resignation in 2023. The individual gained national attention in 2022 after being randomly assigned to preside over a significant criminal trial. Their conduct during the trial was later found to be in violation of rules governing judicial conduct and biased towards the prosecution, resulting in a formal reprimand from the state supreme court. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "we the jury unanimously find"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The trial was over, but the courtroom cameras were still rolling. When presiding Judge [target] hugged the victims' families and even members of the prosecution, backlash came quickly. Do you feel like you showed a bias?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "when I stepped down and hugged the victims. So the prosecutor came up to me and said, Judge, the victim's families would like to meet you. And the defendant had already been sentenced and the trial was over. There's no appeal because he was sentenced to life in prison based upon the recommendation of the jury. There's no appeal. So I said, sure, they can come up. And they came up and started to, including the prosecution, started to shake my hand over the bench. And I was having a hard time like leaning over. And I thought, well, you know what, I'm gonna come down. And I came down and at that moment, it felt like we have all been through so much. And as a human being, I'm gonna give a hug. I don't feel, shaking hands is awkward. And I just, I wanna hug these people. And they hugged me and I hugged them. And I think it offered a sense of, closure and peace, not only to me, but to those families. And I understand that people think a judge shouldn't do that. But I don't think that any other judge has in the world has ever sat through a trial where children were shredded with bullets."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "At any moment during those hugs, did it dawn on you that, wow, this may be perceived as a bias?"
+      }
+    ],
+    "speakername": "Elizabeth Scherer",
+    "ground_truth": "I mean, I knew I was on camera. It wasn't like I tried to hide it. I knew that this was going to be on national television. But I thought at the time that because I offered the same to the defense, that it would be okay. In hindsight, perhaps I should have just hugged the families and shaken the hands of the prosecution. But again, it was an emotional time, and I was probably thinking with my heart and not my head.",
+    "bio": "A former lawyer who served as a judge in a state judicial circuit from 2012 until resignation in 2023. The individual gained national attention in 2022 after being randomly assigned to preside over a significant criminal trial involving a school shooting incident. Their conduct during the trial was later found to be in violation of rules governing judicial conduct and biased towards the prosecution, resulting in a formal reprimand from the state supreme court. The speaker's MBTI type is ENTJ"
+  }
+]

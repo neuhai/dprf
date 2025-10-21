@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I will tell you, I am so blessed to become a mom. My son, Sam, is almost a year old, the end of this month in August, and it has been life-changing. And I think every parent will say that. I am working hard, just like so many other families in my district who are parents, who are juggling being parents while also working full-time. And I will tell you, becoming a parent has energized me to do my job because it's about the next generation. It's making sure that we have a strong country with strong upstate values for future generations like my son, Sam. And I'll give you one example of an issue where I've been very proud to be a leader on is the baby formula shortage. I saw that firsthand as a mother. I was proud to be the first member of Congress to raise the alarm with the FDA when they closed the one baby formula manufacturer. And I've authored legislation that we intend to pass in the next Congress. Unfortunately, Nancy Pelosi. Hasn't brought it to the floor to make baby formula available now on our shelves. Sam is formula fed, although he's at that year age. So he's doing solids and is about to transition off of formula. But that's allowed me to see firsthand those empty shelves, whether it's at the grocery store like Price Chopper or whether it's at Target. So that's an example where being a young mom has helped me advocate on an issue that's not a partisan issue. Whether you're Republican, Democrat, independent or conservative, if you can't access formula and you're not able to get it. If you're not able to feed your baby, that is a crisis, and it's an example of me being able to put forth solutions to solve those issues."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let me ask you about your opponents. I want to make sure I read this correctly because Steli has said that you're one of the most extreme Republicans in the house and Petortius says that he is casting you as being, not having an, being an independent thinker that you think along the lines of Mr. Trump, what's your response to those?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My record speaks for itself. I'm proud to be in my fourth term. When I first ran for office, I was proud to be the youngest woman ever elected to Congress, and I've kept my promises to this district. I'm ranked as one of the top 10 most effective Republicans, and I'm ranked as number one most effective Republican when it comes to advocating for small businesses. That's an outside organization, the Center for Policy Effectiveness, and I've always focused on delivering results to this district, whether it's constituent services, delivering over five million dollars of veterans benefits to upstate New York and North Country veterans, helping our seniors with Social Security as well as Medicare, or passing legislation like the Older Americans Act, which is bipartisan. It didn't get a lot of press coverage, but it's really important for my district to fund programs like Meals on Wheels, etc. Those are just a small portion of the results I've been able to deliver. My constituents know me very well. Both of those individuals moved to the district, so they're just getting to know it. One's from Poughkeepsie, the other one, is an attorney from New York City. What they're soon to find out this November is I will always outwork my opponents and win not only Republicans, but independents and a good portion of Democrats."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that's something that you do you choose just not to respond to what they're saying and talk about what you think are your strengths"
+      }
+    ],
+    "speakername": "Elise Stefanik",
+    "ground_truth": "I have always focused on talking about the issues that matter to my constituents. And while they want to attack, it's because they have no solutions, whereas I can point out the results I've delivered. And again, my record speaks for itself. And I'm working hard getting around the district, visiting small businesses, hearing directly from the community, opening up county fairs. I'm attending my fifth county fair later on, actually next week. So I am working hard getting across upstate New York and the North Country.",
+    "bio": "Elise Marie Stefanik (born July 2, 1984) is an American politician serving as the U.S. Representative for New York's 21st congressional district since 2015. The district covers most of the North Country, as well as most of the Adirondacks. It also includes some of the outer suburbs of Utica and the Capital District. Upon her first House election in 2014, Stefanik, then aged 30, became the youngest woman ever elected to Congress at the time. A strong supporter of Donald Trump, she prominently defended him during his 2019 impeachment in the Trump-Ukraine scandal. She supported a lawsuit that attempted to overturn Trump's electoral defeat in the 2020 election, and hours after the 2021 storming of the United States Capitol, she voted to object to Pennsylvania's electoral college votes. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My record speaks for itself. I'm proud to be in my fourth term. When I first ran for office, I was proud to be the youngest woman ever elected to Congress, and I've kept my promises to this district. I'm ranked as one of the top 10 most effective Republicans, and I'm ranked as number one most effective Republican when it comes to advocating for small businesses. That's an outside organization, the Center for Policy Effectiveness, and I've always focused on delivering results to this district, whether it's constituent services, delivering over five million dollars of veterans benefits to upstate region veterans, helping our seniors with Social Security as well as Medicare, or passing legislation like the Older Americans Act, which is bipartisan. It didn't get a lot of press coverage, but it's really important for my district to fund programs like Meals on Wheels, etc. Those are just a small portion of the results I've been able to deliver. My constituents know me very well. Both of those individuals moved to the district, so they're just getting to know it. One's from a mid-sized city, the other one, is an attorney from a major city. What they're soon to find out this November is I will always outwork my opponents and win not only Republicans, but independents and a good portion of Democrats."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that's something that you do you choose just not to respond to what they're saying and talk about what you think are your strengths"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have always focused on talking about the issues that matter to my constituents. And while they want to attack, it's because they have no solutions, whereas I can point out the results I've delivered. And again, my record speaks for itself. And I'm working hard getting around the district, visiting small businesses, hearing directly from the community, opening up county fairs. I'm attending my fifth county fair later on, actually next week. So I am working hard getting across upstate region."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[Person] has said that she might run for president. Is that something you would do?"
+      }
+    ],
+    "speakername": "Elise Stefanik",
+    "ground_truth": "I am focused on running for reelection in the House. This is a new redistricting, so I have new counties that are added to my district. It got bigger, so it's about a third of the state's geography is in my district. That's what I'm focused on. [Person], there's absolutely no path for her in elected office ever again. The voters spoke loudly and clearly in that state, but my focus is always making sure that I bring this district a voice at the highest levels.",
+    "bio": "[target] (born July 2, 1984) is an American politician serving as the U.S. Representative for the 21st congressional district since 2015. The district covers most of the northern region, as well as most of a mountainous area. It also includes some of the outer suburbs of a mid-sized city and the state capital region. Upon first House election in 2014, [target], then aged 30, became the youngest woman ever elected to Congress at the time. A strong supporter of a former president, prominently defended him during his 2019 impeachment. Supported a lawsuit that attempted to overturn electoral defeat in the 2020 election, and hours after the 2021 incident at the federal legislature, voted to object to a state's electoral college votes. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have always focused on talking about the issues that matter to my constituents. And while they want to attack, it's because they have no solutions, whereas I can point out the results I've delivered. And again, my record speaks for itself. And I'm working hard getting around the district, visiting small businesses, hearing directly from the community, opening up county fairs. I'm attending my fifth county fair later on, actually next week. So I am working hard getting across the region."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[Person A] has said that she might run for president. Is that something you would do?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I am focused on running for reelection in the House. This is a new redistricting, so I have new counties that are added to my district. It got bigger, so it's about a third of the state's geography is in my district. That's what I'm focused on. [Person A], there's absolutely no path for her in elected office ever again. The voters spoke loudly and clearly in that state, but my focus is always making sure that I bring this district a voice at the highest levels."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're a friend of Mr. [Person B]'s. Have you spoken to him since the federal agency raided his home, and how is he doing?"
+      }
+    ],
+    "speakername": "Elise Stefanik",
+    "ground_truth": "I have spoken to [Person B]. I speak to [Person B] a few times every week and he is energized in his mission to save the country. He's very helpful in working with House Representatives as we work to win back the majority to really help address these crises that the American people are facing under unified Democrat rule. We have the highest inflation in my lifetime. I'm 38 years old. This is highest inflation in 40 years. We have gas prices that have nearly doubled. So we need to fix those solutions and then we'll get to 2024. But I believe [Person B] is going to run and I'll strongly support him.",
+    "bio": "[target] (born July 2, 1984) is an American politician serving as the U.S. Representative for a northeastern state's 21st congressional district since 2015. The district covers most of the northern region, as well as most of a mountainous area. It also includes some of the outer suburbs of a mid-sized city and the state capital region. Upon her first House election in 2014, [target], then aged 30, became the youngest woman ever elected to Congress at the time. A strong supporter of [Person B], she prominently defended him during his 2019 impeachment. She supported a lawsuit that attempted to overturn [Person B]'s electoral defeat in the 2020 election, and hours after the 2021 incident at the federal legislature, she voted to object to a state's electoral college votes. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am focused on running for reelection in the legislative body. This is a new redistricting, so I have new counties that are added to my district. It got bigger, so it's about a third of the state's geography is in my district. That's what I'm focused on. Regarding my colleague, there's absolutely no path for her in elected office ever again. The voters spoke loudly and clearly in that state, but my focus is always making sure that I bring this district a voice at the highest levels."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're a friend of the former president. Have you spoken to him since the federal agency raided his home, and how is he doing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have spoken to the former president. I speak to him a few times every week and he is energized in his mission to save the country. He's very helpful in working with legislators as we work to win back the majority to really help address these crises that the American people are facing under unified opposition rule. We have the highest inflation in my lifetime. I'm 38 years old. This is highest inflation in 40 years. We have gas prices that have nearly doubled. So we need to fix those solutions and then we'll get to 2024. But I believe he is going to run and I'll strongly support him."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think that that whole raid and what was taken endears people to him more, people who would possibly vote for him because there is talk that he could run again? Or do you think people look at that and say, wow, they took away some documents that shouldn't have been there and maybe we should move back from the party?"
+      }
+    ],
+    "speakername": "Elise Stefanik",
+    "ground_truth": "It's a really important question. So the federal agency deserves, the American people deserve to hear transparency and answers. This was a significant overreach and I believe a politicization against most likely the current president's political opponent in 2024. They also conducted this within 100 days of the midterm elections. And this is not the first time we've seen them refuse to provide the facts to the American people. I sit on the Intelligence Committee and one issue that has an impact on the local level is a county limo crash, where it was the deadliest vehicular crash in modern times. And they have refused to answer questions. It took me asking their director about their culpability in the fact that the owner of the limo company was an informant. I will not hesitate to subpoena them. All of these agencies, they report to the American people. They work for the American people. So when we want to bring transparency to the American people, they report to the American people. So when we want to bring transparency and sunlight, that's the most important piece. So there's a lot more information that they need to come forward. The affidavit that was used to justify the search, as well as the contents that they raided, which included unclassified documents and declassified documents. So there's going to be more information. That's what I want them to turn over to Congress.",
+    "bio": "Born July 2, 1984, [target] is an American politician serving as a U.S. Representative for a northeastern state's congressional district since 2015. The district covers most of the northern region, as well as most of a mountainous area. It also includes some outer suburbs of nearby cities. Upon first election in 2014, [target], then aged 30, became the youngest woman ever elected to Congress at the time. A strong supporter of the former president, [target] prominently defended him during his 2019 impeachment. [target] supported a lawsuit that attempted to overturn the electoral defeat in the 2020 election, and hours after the governmental building incident of 2021, voted to object to a state's electoral college votes. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have spoken to the former president. I speak to the former president a few times every week and he is energized in his mission to save the country. He's very helpful in working with House members as we work to win back the majority to really help address these crises that the people are facing under unified opposition rule. We have the highest inflation in my lifetime. I'm 38 years old. This is highest inflation in 40 years. We have gas prices that have nearly doubled. So we need to fix those solutions and then we'll get to 2024. But I believe the former president is going to run and I'll strongly support him."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think that that whole investigation and what was taken endears people to him more, people who would possibly vote for him because there is talk that he could run again? Or do you think people look at that and say, wow, they took away some documents that shouldn't have been there and maybe we should move back from the party?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a really important question. So the federal agency deserves, the people deserve to hear transparency and answers from the federal agency. This was a significant overreach and I believe a politicization of the federal agency against most likely the current president's political opponent in 2024. They also conducted this within 100 days of the midterm elections. And this is not the first time we've seen the federal agency refuse to provide the facts to the people. I sit on the House Intelligence Committee and one issue that has an impact on the local level is the county limo crash, where it was the deadliest vehicular crash in modern times. And the federal agency has refused to answer questions. It took me asking the agency director about their culpability in the fact that the owner of the limo company was an agency informant. I will not hesitate to subpoena the agency. All of these agencies, they report to the people. They work for the people. So when we want to bring transparency to the people, they report to the people. So when we want to bring transparency and sunlight, that's the most important piece. So there's a lot more information that the agency needs to come forward. The affidavit that was used to justify the search, as well as the contents that they investigated, which included unclassified documents and declassified documents. So there's going to be more information. That's what I want them to turn over to Congress."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But why do you think the former president didn't comply when he had a year to do so?"
+      }
+    ],
+    "speakername": "Elise Stefanik",
+    "ground_truth": "He did comply. So the lawyers were in conversation. They complied with the documentation. There was no unlawful acts in terms of the Presidential Records Act. And again, that's why we need to see the affidavit and also why we need to see the information that was in the boxes, which included photographs. It included the former president's personal passport. That's an overreach of the federal agency. And again, sunlight and transparency is a good thing for every agency. The federal agency needs to be transparent with the people.",
+    "bio": "The target (born July 2, 1984) is an American politician serving as the U.S. Representative for a northeastern district since 2015. The district covers most of the northern region, as well as most of a mountainous area. It also includes some of the outer suburbs of a mid-sized city. Upon first House election in 2014, the target, then aged 30, became the youngest woman ever elected to Congress at the time. A strong supporter of the former president, the target prominently defended him during his 2019 impeachment. The target supported a lawsuit that attempted to overturn electoral defeat in the 2020 election, and hours after the January 2021 incident at the national capitol, voted to object to a state's electoral college votes. The speaker's MBTI type is ESTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "From a political standpoint, we should hope that we have rapid technology progress because if we have rapid technology progress, we'll have rapid economic growth. Do people care? And are people gonna be willing to stand up for this?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "what's required it's going to displace a lot of jobs some of those people will redistribute themselves by acquiring new skills other people will not this isn't something to think about tomorrow you've got to be prepared today so let's dive right in i bring you [target] [target] welcome to the podcast"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Awesome. Thank you for having me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "My pleasure. Now, you've had an insane amount of success betting on where industries are going. So let me ask you, what is the most radical disruption that you see coming in the near future with AI?"
+      }
+    ],
+    "speakername": "Marc Andreessen",
+    "ground_truth": "You know, I just say, like, we're convinced AI is one of those sort of moments of fundamental change. And, you know, in our in the tech industry, you know, these come along every couple of decades, but they're not frequent. And, you know, this one is up there with a microprocessor and the computer and the Internet, for sure, and maybe bigger. And so for us in the tech industry, this is a this is, I think, a very, very, very profound, powerful moment. And, of course, you're already seeing, you know, a lot of a lot of the a lot of the effects that are already playing out. But, you know, this technology is this technology is going to change a lot of things. And it's going to be, I think, very, very exciting.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Awesome. Thank you for having me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "My pleasure. Now, you've had an insane amount of success betting on where industries are going. So let me ask you, what is the most radical disruption that you see coming in the near future with AI?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I just say, like, we're convinced AI is one of those sort of moments of fundamental change. And, you know, in our in the tech industry, you know, these come along every couple of decades, but they're not frequent. And, you know, this one is up there with a microprocessor and the computer and the Internet, for sure, and maybe bigger. And so for us in the tech industry, this is a this is, I think, a very, very, very profound, powerful moment. And, of course, you're already seeing, you know, a lot of a lot of the a lot of the effects that are already playing out. But, you know, this technology is this technology is going to change a lot of things. And it's going to be, I think, very, very exciting."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So for people that don't know, you have a fundamentally optimistic view of AI, of technology in general. Do you have like from an investment strategy, do you guys have a thesis on what industry you think is going to be most advantaged by AI that you're trying to get into?"
+      }
+    ],
+    "speakername": "Marc Andreessen",
+    "ground_truth": "Yeah, there are many. So we're involved in many. I would say there's obvious slam dunk ones. And so I would say healthcare is a slam dunk one. I actually just happened to have lunch with [prominent scientist], who just won the [prestigious scientific award] in chemistry for his work on protein folding. Not a bad one.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, I just say, like, we're convinced AI is one of those sort of moments of fundamental change. And, you know, in our in the tech industry, you know, these come along every couple of decades, but they're not frequent. And, you know, this one is up there with a microprocessor and the computer and the Internet, for sure, and maybe bigger. And so for us in the tech industry, this is a this is, I think, a very, very, very profound, powerful moment. And, of course, you're already seeing, you know, a lot of a lot of the a lot of the effects that are already playing out. But, you know, this technology is this technology is going to change a lot of things. And it's going to be, I think, very, very exciting."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So for people that don't know, you have a fundamentally optimistic view of AI, of technology in general. Do you have like from an investment strategy, do you guys have a thesis on what industry you think is going to be most advantaged by AI that you're trying to get into?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, there are many. So we're involved in many. I would say there's obvious slam dunk ones. And so I would say healthcare is a slam dunk one. I actually just happened to have lunch with [target], who just won the prestigious science prize in chemistry for his work on protein folding. Not a bad one."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "lunch date."
+      }
+    ],
+    "speakername": "Marc Andreessen",
+    "ground_truth": "Yeah, exactly. And he was knighted this year also, so he's also Sir [target]. But, you know, he and his colleagues basically have this transformative approach that, you know, they believe is going to lead to dramatic breakthroughs in the development of medicine in the years ahead, powered by AI. So, you know, health care is an obvious one. Entertainment is one that I think it's going to be extremely exciting what happens from here. And again, that's already starting to play out. And, you know, you're already seeing just sort of incredible creativity being applied.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So for people that don't know, you have a fundamentally optimistic view of AI, of technology in general. Do you have like from an investment strategy, do you guys have a thesis on what industry you think is going to be most advantaged by AI that you're trying to get into?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, there are many. So we're involved in many. I would say there's obvious slam dunk ones. And so I would say healthcare is a slam dunk one. I actually just happened to have lunch with [name], who just won the Nobel Prize in chemistry for his work on protein folding. Not a bad one."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "lunch date."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, exactly. And he was knighted this year also, so he's also Sir [name]. But, you know, he and his colleagues basically have this transformative approach that, you know, they believe is going to lead to dramatic breakthroughs in the development of medicine in the years ahead, powered by AI. So, you know, health care is an obvious one. Entertainment is one that I think it's going to be extremely exciting what happens from here. And again, that's already starting to play out. And, you know, you're already seeing just sort of incredible creativity being applied."
+      }
+    ],
+    "speakername": "Marc Andreessen",
+    "ground_truth": "um uh to that and so you know maybe you could kind of maybe bookend it by saying those because it's kind of the most serious one of the most fun one uh but then look there's there's there's lots lots of other stuff um probably the single biggest question i'm asking right now is robotics um you know there's been the promise of uh you know kind of robotics you know kind of saturating our society and you know everybody having you know robot robots in the home and you know everybody having you know robots to do you know to do everything manual labor and you know wash the dishes and pack the suitcase and clean the toilet and you know can you know conceivably everything um you know the manual labor um you know kind of free people from annual labor and that's you know been a promise you know going back you know in science fiction it's been a promise for you know like 120 years um and um you know until recently we were no closer than we were maybe back then but you know you're starting to see i very dramatic i think breakthroughs um and i think uh you know sort of like you had sort of drones that now work like autonomous drones are like now a standard thing um self-flying self-piloting drones you now have self-driving cars cars that are now a thing and that now work really well um and i think uh it may be you know humanoid robots and all kinds of other uh forms of robots um uh we have uh we have two of we have two imported robot dogs at home um yeah yeah yeah yeah yeah we have you actually have",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "lunch date."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, exactly. And he was given a prestigious title this year also, so he's also Sir Demas. But, you know, he and his colleagues basically have this transformative approach that, you know, they believe is going to lead to dramatic breakthroughs in the development of medicine in the years ahead, powered by AI. So, you know, health care is an obvious one. Entertainment is one that I think it's going to be extremely exciting what happens from here. And again, that's already starting to play out. And, you know, you're already seeing just sort of incredible creativity being applied."
+      },
+      {
+        "speaker": "[target]",
+        "text": "um uh to that and so you know maybe you could kind of maybe bookend it by saying those because it's kind of the most serious one of the most fun one uh but then look there's there's there's lots lots of other stuff um probably the single biggest question i'm asking right now is robotics um you know there's been the promise of uh you know kind of robotics you know kind of saturating our society and you know everybody having you know robot robots in the home and you know everybody having you know robots to do you know to do everything manual labor and you know wash the dishes and pack the suitcase and clean the toilet and you know can you know conceivably everything um you know the manual labor um you know kind of free people from annual labor and that's you know been a promise you know going back you know in science fiction it's been a promise for you know like 120 years um and um you know until recently we were no closer than we were maybe back then but you know you're starting to see i very dramatic i think breakthroughs um and i think uh you know sort of like you had sort of drones that now work like autonomous drones are like now a standard thing um self-flying self-piloting drones you now have self-driving cars cars that are now a thing and that now work really well um and i think uh it may be you know humanoid robots and all kinds of other uh forms of robots um uh we have uh we have two of we have two imported robot dogs at home um yeah yeah yeah yeah yeah we have you actually have"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "at your house?"
+      }
+    ],
+    "speakername": "Marc Andreessen",
+    "ground_truth": "Yeah, yeah, yeah. So everybody's probably seen all the demos. Remember, there's this technology company that has all these. They always have these great demos. You see these videos of these robot dogs running around. But they cost like $50,000, $100,000. And that company never really brought them to market. So it never really worked outside of it as a demo. But there are now overseas companies that have these things down to $1,500. Yeah. And they're great. They run around. They run actually quite quickly. They can outrun you. They do flips. They stand on their high legs. They climb stairs. There's a version of it that has wheels that they can go like 30 miles an hour. Then that one can also climb stairs. It locks the wheels. And it's perfectly fine climbing stairs. So those are really starting to work. And then humanoids are coming fast. And the tech entrepreneur just had his demo day for the automotive company's robots.",
+    "bio": "The speaker's MBTI type is ENTP"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So I wonder if you see NVIDIA falling much further. Is this an attractive price to be buying it, do you think?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we own it in some of our portfolios. We are not buying the dip yet. We do want to learn more about deep seek and more about how the market or the demand for inference chips might outpace those for training chips. We think the whole area is going to be vibrant. We just think there might be a little bit more of an adjustment to this new reality."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, you say that what DeepSeek shows is kind of that you can do more with less capex. Who do you think that's going to motivate in the US most, as Donald Trump is kind of saying? Who's going to be best at doing more with less?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, anyone."
+      }
+    ],
+    "speakername": "Catherine Wood",
+    "ground_truth": "using AI we we are focused on the productivity gains for knowledge workers which are going to be massive. That's the biggest impact of AI. But if we're looking at sectors and spaces generally where this acceleration and innovation is going to be meaningful we think autonomous mobility. So robo taxis we think that's going to scale from essentially nothing now to an eight to 10 trillion dollar global opportunity including major markets. But the sleeper here is health care. And we're seeing the convergence of sequencing technologies all kinds of sequencing technologies artificial intelligence and then gene editing technologies like CRISPR Cas9. That combination we believe is going to cure disease. It's already curing disease sickle cell disease and beta thalassemia. That's CRISPR therapeutics. But we think they're aiming now for type 1 and type 2 diabetes that that would be a category killer. You know so think about that curing disease. AI helping us decode the secrets of life death health.",
+    "bio": " The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, you say that what DeepSeek shows is kind of that you can do more with less capex. Who do you think that's going to motivate in the US most, as the presidential candidate is kind of saying? Who's going to be best at doing more with less?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, anyone."
+      },
+      {
+        "speaker": "[target]",
+        "text": "using AI we we are focused on the productivity gains for knowledge workers which are going to be massive. That's the biggest impact of AI. But if we're looking at sectors and spaces generally where this acceleration and innovation is going to be meaningful we think autonomous mobility. So robo taxis we think that's going to scale from essentially nothing now to an eight to 10 trillion dollar global opportunity including various markets. But the sleeper here is health care. And we're seeing the convergence of sequencing technologies all kinds of sequencing technologies artificial intelligence and then gene editing technologies like CRISPR Cas9. That combination we believe is going to cure disease. It's already curing disease sickle cell disease and beta thalassemia. That's CRISPR therapeutics. But we think they're aiming now for type 1 and type 2 diabetes that that would be a category killer. You know so think about that curing disease. AI helping us decode the secrets of life death health."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Those are two areas where regulation plays a big part. You've spoken about your optimism about deregulation under the presidential candidate. Do you think those are two areas we should expect to see big deregulation about what technology can get involved in?"
+      }
+    ],
+    "speakername": "Catherine Wood",
+    "ground_truth": "Yes, I think in both safety first. And I think anyone moving into this market or these markets would agree with that. So sensible regulation. But in the US, the robo taxi field is regulated by multiple states. We think that will change to one regulator, the federal government. After all, transportation does cross states. So that makes sense in the health care realm. That is where the thicket of regulations has really strangled the industry. And even more than the outright regulations, it was the regulatory commission, not allowing mergers and acquisitions and therefore not allowing strategic buyers, big biotech companies from to to not allowing them to buy the smaller companies so that we had price discovery. Now we're going to see price discovery. How much are these companies that are curing disease worth to these large strategic buyers? Now, in saying that, I don't necessarily want our companies to be taken out. We think they have miles to go, but we do want price discovery back in the market.",
+    "bio": " The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "hear a continuation of we're about to launch our autonomous driving system I mean in effect they've launched it I have full self-driving I know it's not allowed here in this region or in Europe but the improvements you feel so"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "life."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But, oh, yes, yes, yes, yes. [Company] really has broken through a lot of barriers. I feel even though a [Company] vehicle is not safer than a human-driven vehicle, it knows its roads, its narrow roads, meaning there are narrow territories. I think [Company] is going to go national. That's going to be and will be able to do so because it has effectively seven million robots roaming the roads right now. I have two of them, a Y and a three. And they're learning all about [State] and [State] roads. So it has a huge competitive advantage in terms of proprietary data that nobody else has about the roads, not only in this country, but in many places around the world."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you worry that [Person] is taking on too much? If he's got his new job in the government, he's got sharp developments coming in [Company], lots going on with his other businesses as well. Is he spreading himself too thin?"
+      }
+    ],
+    "speakername": "Catherine Wood",
+    "ground_truth": "If if you look at the way [Person] behaves as a CEO he's a sharpshooter. He looks for pain points and he solves those. Right. And he's for example right now where was or in 2018 where was the biggest pain point. It was manufacturing the Model 3 scaling the Model 3. He slept famously in on the factory floor. He's not doing that anymore. He's not on the factory floor. Now it's all about autonomous. He is the first what we would call CEO who really understands the convergence among technologies taking place right now really catalyzed by artificial intelligence. Each one of his businesses. And he also understands how critically important proprietary data is. And think about this. Each of those companies is generating proprietary data that no one else has. So maybe you should add to his plate. Should he buy this country's social media platform. Yes I mean I know there there have been rumors about that and and about the government sharing half and that that's kind of anathema to this country. You know the government getting involved like this. I'd be surprised if that happens. But I will also say the administration is full of surprises.",
+    "bio": " The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But, oh, yes, yes, yes, yes. [Company A] really has broken through a lot of barriers. I feel even though a [Company A] vehicle is not safer than a human-driven vehicle, it knows its roads, its narrow roads, meaning there are narrow territories. I think [Company B] is going to go national. That's going to be and will be able to do so because it has effectively seven million robots roaming the roads right now. I have two of them, a Y and a three. And they're learning all about [State A] and [State B] roads. So it has a huge competitive advantage in terms of proprietary data that nobody else has about the roads, not only in the U.S., but in many places around the world."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you worry that [Person A] is taking on too much? If he's got his new job in the government, he's got sharp developments coming in [Company B], lots going on with his other businesses as well. Is he spreading himself too thin?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If if you look at the way [Person A] behaves as a CEO he's a sharpshooter. He looks for pain points and he solves those. Right. And he's for example right now where was or in 2018 where was the biggest pain point. It was manufacturing the Model 3 scaling the Model 3. He slept famously in on the factory floor. He's not doing that anymore. He's not on the factory floor. Now it's all about autonomous. He is the first what we would call CEO who really understands the convergence among technologies taking place right now really catalyzed by artificial intelligence. Each one of his businesses. And he also understands how critically important proprietary data is. And think about this. Each of those companies is generating proprietary data that no one else has. So maybe you should add to his plate. Should he buy U.S. social media platform. Yes I mean I know there there have been rumors about that and and about the government sharing half and that that's kind of anathema to the United States. You know the government getting involved like this. I'd be surprised if that happens. But I will also say the administration is full of surprises."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It certainly is, and we're only a week into it. You're here in [City A], and we're delighted to see you. What has you in [City A]? What opportunities are you excited about when you come to the [Country A]? Is this a good place to put your money?"
+      }
+    ],
+    "speakername": "Catherine Wood",
+    "ground_truth": "Well, we have launched three funds. [Company C] has launched three funds here. One is our flagship that is focused on all five innovation platforms, so robotics, energy storage, artificial intelligence, multi-omic sequencing, and blockchain technology. So that's the flagship, [Fund A]. A special one for Europe, which we do not have in the U.S. because of overlaps with other funds, but we have an AI and robotics fund, and that is [Fund B]. We think this convergence of robotics and AI is going to lead to humanoid robots and, you know, not just millions of them. But perhaps billions of them longer term, which is going to be a key productivity driver in both the home, you know, right now, we're not paid for house cleaning.",
+    "bio": " The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It certainly is, and we're only a week into it. You're here with us in [city], and we're delighted to see you. What has you in [city]? What opportunities are you excited about when you come to the [region]? Is this a good place to put your money?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we have launched three funds. Our company has launched three funds here. One is our flagship that is focused on all five innovation platforms, so robotics, energy storage, artificial intelligence, multi-omic sequencing, and blockchain technology. So that's the flagship fund. A special one for [region], which we do not have in the [region] because of overlaps with other funds, but we have an AI and robotics fund. We think this convergence of robotics and AI is going to lead to humanoid robots and, you know, not just millions of them. But perhaps billions of them longer term, which is going to be a key productivity driver in both the home, you know, right now, we're not paid for house cleaning."
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh let's get a robot let's pay a robot to do it and in in the manufacturing plants around the world"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The Prime Minister was in the building earlier, along with the opposition leader. You're exactly the sort of person that he wants to meet because he wants investment going into those sorts of businesses in this country. Have you spoken to him? What sort of advice would you be giving him if he's trying to grow the economy?"
+      }
+    ],
+    "speakername": "Catherine Wood",
+    "ground_truth": "Well, half the solution is understanding the problem and just making that statement suggests to me that he's saying, why hasn't this happened? And I also over the weekend heard one of the finance ministers or maybe the finance minister say the same thing. This is a mantra. And I think it has been catalyzed by artificial intelligence as well. If you think about the [region], you produced two of the most important AI companies in the world, a major AI research company, which a large tech corporation now owns, and a semiconductor design company, which an investment group primarily owns. By all rights, you should be developing a deep venture capital pool here, feeding startups and nourishing them and deepening your listed equity markets. And so. I think that's what they're going to do, which is fantastic. It's fantastic for.",
+    "bio": "The speaker's MBTI type is INTP"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thanks for having me."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'll just start in sort of simply, which is, in your mind, what are the biggest hurdles to counteract toxic exposures for veterans, and more specifically, burn pit exposure?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I would like to see us stop using some of the technologies and the processes that we've used to get rid of stuff when we're deployed."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You're saying digging a hole and burning everything in it with jet fuel might not be the answer in a modern society?"
+      }
+    ],
+    "speakername": "Denis McDonough",
+    "ground_truth": "I'm just saying that that's one thing that going forward, I think we should get our hands around. Right. The second thing is I want to make sure that, and I am determined to, as Secretary, ensure that we are not passively waiting for information to help us address this problem so that we can be in a position to get the care and the benefits that our vets have earned.",
+    "bio": "The target (born December 2, 1969) is an American government official serving as the 11th United States Secretary of Veterans Affairs under the current administration since 2021. The target served in the previous administration as chief of staff at the National Security Council from 2009 to 2010 and as Deputy National Security Advisor from 2010 to 2013. They also served as Chief of Staff at the [government headquarters] for the full second term of the previous administration from 2013 to 2017. They were the second-longest Democrat to serve as the chief of staff since 1946, and the longest since a previous chief of staff (5 years, 84 days) during an earlier administration. The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Actually, longer, John."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Probably longer."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right, because it goes back, really, to the first goal four."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What information are they waiting for?"
+      }
+    ],
+    "speakername": "Denis McDonough",
+    "ground_truth": "the researchers are trying to establish to a level that's demanded by the statutes, by laws, the certainty of the causation of these illnesses.",
+    "bio": "A government official serving as the 11th Secretary of Veterans Affairs under the current administration since 2021. He served in the previous administration as chief of staff at the National Security Council from 2009 to 2010 and as Deputy National Security Advisor from 2010 to 2013. He also served as [government building] Chief of Staff for the full second term of the previous president from 2013 to 2017. He was the second-longest Democrat to serve as the chief of staff since John R. Steelman in 1946, and the longest since Andrew Card (5 years, 84 days) during the first and second terms of the prior administration. The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right, because it goes back, really, to the first goal four."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What information are they waiting for?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the researchers are trying to establish to a level that's demanded by the statutes, by laws, the certainty of the causation of these illnesses."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Soldiers are dying of these illnesses, and they can't get their health coverage and their benefits. So can you see that it would be difficult for them to hear we're still chasing down information? Yeah, absolutely. When the information seems to already exist. These were outlawed in America in the 70s."
+      }
+    ],
+    "speakername": "Denis McDonough",
+    "ground_truth": "I don't pretend that my frustration reaches anywhere near the veteran's frustration, but I am frustrated, which is why I made this the first thing we did out of the box. We have now established a presumption that if you have rhinitis, if you have sinusitis, if you have asthma,",
+    "bio": "The target (born December 2, 1969) is an American government official serving as the 11th Secretary of Veterans Affairs under the current administration since 2021. The target served in the previous administration as chief of staff at the National Security Council from 2009 to 2010 and as Deputy National Security Advisor from 2010 to 2013. They also served as Chief of Staff for the full second term of the previous administration from 2013 to 2017. They were the second-longest Democrat to serve as the chief of staff since 1946, and the longest since a previous chief of staff (5 years, 84 days) during an earlier administration. The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What information are they waiting for?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the researchers are trying to establish to a level that's demanded by the statutes, by laws, the certainty of the causation of these illnesses."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Soldiers are dying of these illnesses, and they can't get their health coverage and their benefits. So can you see that it would be difficult for them to hear we're still chasing down information? Yeah, absolutely. When the information seems to already exist. These were outlawed in America in the 70s."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't pretend that my frustration reaches anywhere near the veteran's frustration, but I am frustrated, which is why I made this the first thing we did out of the box. We have now established a presumption that if you have rhinitis, if you have sinusitis, if you have asthma,"
+      }
+    ],
+    "speakername": "Denis McDonough",
+    "ground_truth": "We presume those came from your time in the military, and therefore you qualify for care and benefits.",
+    "bio": "A government official serving as the 11th Secretary of Veterans Affairs under the current administration since 2021. Previously served in a previous administration as chief of staff at the National Security Council from 2009 to 2010 and as Deputy National Security Advisor from 2010 to 2013. Also served as [government building] Chief of Staff for the full second term of a previous president from 2013 to 2017. Was the second-longest Democrat to serve as the chief of staff since 1946, and the longest since a previous chief of staff during an earlier administration. The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Soldiers are dying of these illnesses, and they can't get their health coverage and their benefits. So can you see that it would be difficult for them to hear we're still chasing down information? Yeah, absolutely. When the information seems to already exist. These were outlawed in America in the 70s."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't pretend that my frustration reaches anywhere near the veteran's frustration, but I am frustrated, which is why I made this the first thing we did out of the box. We have now established a presumption that if you have rhinitis, if you have sinusitis, if you have asthma,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We presume those came from your time in the military, and therefore you qualify for care and benefits."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I think veterans would all say sinusitis, rhinitis, and asthma. Not enough. Fine, but that's not what's killing them."
+      }
+    ],
+    "speakername": "Denis McDonough",
+    "ground_truth": "Do I think that's done? No, I don't. And I won't stop until the presumptive lists include well beyond that very meager list that we've established.",
+    "bio": "The target (born December 2, 1969) is an American government official serving as the 11th Secretary of Veterans Affairs under the current administration since 2021. The target served in the previous administration as chief of staff at the National Security Council from 2009 to 2010 and as Deputy National Security Advisor from 2010 to 2013. They also served as [government building] Chief of Staff for the full second term of the previous administration from 2013 to 2017. They were the second-longest Democrat to serve as the chief of staff since 1946, and the longest since a previous chief of staff during the first and second terms of the earlier administration. The speaker's MBTI type is ENFP"
+  }
+]

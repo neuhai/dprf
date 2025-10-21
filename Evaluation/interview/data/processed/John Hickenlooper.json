@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's pretty impressive. I like it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Change of the times, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is. Everything moves forward."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And so first of all, how are you feeling?"
+      }
+    ],
+    "speakername": "John Hickenlooper",
+    "ground_truth": "Well, I'm almost back to a normal diurnal cycle. I got some pretty good sleep last night and the night before. But I tell you, the last 10 weeks, 12 weeks of 95 hours a week, it takes a lot out of you.",
+    "bio": "An American politician and businessman who served as the governor of a western state from 2011 to 2019. In 2019, he announced that he is running for the Democratic nomination for President of the United States in 2020. The speaker's MBTI type is INFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It is. Everything moves forward."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And so first of all, how are you feeling?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm almost back to a normal diurnal cycle. I got some pretty good sleep last night and the night before. But I tell you, the last 10 weeks, 12 weeks of 95 hours a week, it takes a lot out of you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Would you ever have thunk, who would have thunk it, I think we were saying, that it would have been such a fight?"
+      }
+    ],
+    "speakername": "John Hickenlooper",
+    "ground_truth": "Yeah. Well, we knew it was going to be a fight. I mean, with the gun safety issues and the criminal justice matters, there were a lot of issues that touched different people in different ways. And that's what makes, you know, politics, right?",
+    "bio": "An American politician and businessman who served as the governor of a western state from 2011 to 2019. In 2019, they announced their candidacy for the Democratic nomination for President of the United States in 2020. The speaker's MBTI type is INFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm almost back to a normal diurnal cycle. I got some pretty good sleep last night and the night before. But I tell you, the last 10 weeks, 12 weeks of 95 hours a week, it takes a lot out of you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Would you ever have thunk, who would have thunk it, I think we were saying, that it would have been such a fight?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. Well, we knew it was going to be a fight. I mean, with the gun safety issues and the capital punishment, there were a lot of issues that touched different people in different ways. And that's what makes, you know, politics, right?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you kind of recovered now from the election hangover, as I call it?"
+      }
+    ],
+    "speakername": "John Hickenlooper",
+    "ground_truth": "Well, we didn't really have a hangover. I mean, there is an energy change where you've just been working so hard and you've been so driven, you have such a sense of urgency. And now you can kind of step back and look at the landscape a little bit and say, all right, who do we need to have where? Where do we get people together? What's first? What's second? So now we've got all those plans in place.",
+    "bio": "The subject is an American politician and businessman who served as the governor of a western state from 2011 to 2019. In 2019, they announced their candidacy for the Democratic nomination for President of the United States in 2020. The speaker's MBTI type is INFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. Well, we knew it was going to be a fight. I mean, with the gun safety issues and the capital punishment, there were a lot of issues that touched different people in different ways. And that's what makes, you know, politics, right?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you kind of recovered now from the election hangover, as I call it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we didn't really have a hangover. I mean, there is an energy change where you've just been working so hard and you've been so driven, you have such a sense of urgency. And now you can kind of step back and look at the landscape a little bit and say, all right, who do we need to have where? Where do we get people together? What's first? What's second? So now we've got all those plans in place."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And, you know, it did seem neck and neck there for a while, and even at your victory speech, I think I saw you do a little one of these. But actually, the margin, as more ballots have come in, has widened and widened. Tell us about that."
+      }
+    ],
+    "speakername": "John Hickenlooper",
+    "ground_truth": "Well, we knew that a lot of the urban areas were the last to come in, so they'd never been counted. A lot of the rural areas came in very early. So it looked more bleak than it really was. And so now, I mean, we're at almost a 3% margin of victory. Our margin of victory is more than [target]'s, and we got more votes than [target]. I can't wait to see [target] so I can tell him that, hey, we out-polled you. Although he did call the morning after the election on Wednesday morning. You know, I look forward to working with him. I'm a big fan of [target]. I think he did a great job in the Senate. But, you know, this is American democracy. And I think [target] is going to reach out, and we're going to be a good partnership together. We're going to continue to move our state up.",
+    "bio": "The speaker is an American politician and businessman who served as the governor of a western state from 2011 to 2019. In 2019, they announced their candidacy for the Democratic nomination for President of the United States in 2020. The speaker's MBTI type is INFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we didn't really have a hangover. I mean, there is an energy change where you've just been working so hard and you've been so driven, you have such a sense of urgency. And now you can kind of step back and look at the landscape a little bit and say, all right, who do we need to have where? Where do we get people together? What's first? What's second? So now we've got all those plans in place."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And, you know, it did seem neck and neck there for a while, and even at your victory speech, I think I saw you do a little one of these. But actually, the margin, as more ballots have come in, has widened and widened. Tell us about that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we knew that a lot of the [city1] and [city2] were the last to come in, so they'd never been counted. A lot of the rural areas, [county] came in very early. So it looked more bleak than it really was. And so now, I mean, we're at almost a 3% margin of victory. Our margin of victory is more than [person1]'s, and we got more votes than [person1]. I can't wait to see [person1] so I can tell him that, hey, we out-polled you. Although he did call the morning after the election on Wednesday morning. You know, I look forward to working with him. I'm a big fan of [person2]. I think he did a great job in the Senate. But, you know, this is American democracy. And I think [person1] is going to reach out, and we're going to be a good partnership together. We're going to continue to move [state] up."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And do you get the sense, I mean, I think it's no argument, that the voters have spoken loud and clear that change needs to come, right? And many seats, you know, that were Democratic have turned Republican."
+      }
+    ],
+    "speakername": "John Hickenlooper",
+    "ground_truth": "I think what the voters are saying, hey, put the partisan stuff aside. The election's over. Let's everybody work together, and how do we get more jobs? How do we get better jobs? How do we get people to be able to live the life they dream, right? That's the whole point of [state], right? A place where you can live a life that you dreamed.",
+    "bio": "The speaker (born February 7, 1952) is an American politician and businessman who served as the 42nd Governor of a western state from 2011 to 2019. In 2019, they announced running for the Democratic nomination for President of the United States in 2020. The speaker's MBTI type is INFP"
+  }
+]

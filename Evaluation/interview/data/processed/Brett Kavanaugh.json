@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I've never sexually assaulted anyone, not in high school, not ever. I've always treated women with dignity and respect. Listen to the people who've known me best through my whole life, the women who've known me since high school, the 65 who overnight signed a letter from high school saying I always treated them with dignity and respect."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "But with regards to 15-4, do you know her?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I may have met her. We did not travel in the same social circles. She was not a friend, not someone I knew."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I don't remember ever being at parties with her, ever."
+      }
+    ],
+    "speakername": "Brett Kavanaugh",
+    "ground_truth": "I do not. And this is an allegation about a party in the summer of 1982 at a house near [location] with five people present. I was never at any such party. The other people who are alleged to be present have said they do not remember any such party. A woman who was present, another woman who was present, who is Dr. Ford's lifelong friend.",
+    "bio": "[target] (born February 12, 1965) is an associate justice of the [national judicial institution]. He was nominated by President [former president] on July 9, 2018, and has served since October 6, 2018. He was previously a United States circuit judge of the [federal appeals court] and worked as a staff lawyer for various offices of the federal government of the United States. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "She doesn't know me and never remembers being at a party with me at any time in her life. All I'm asking for is a fair process where I can be heard."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Where I can be heard. And to this date, no one has corroborated the story that she has told, as you accurately point out. So there's no chance that there was something between the two of you that maybe she misunderstood the exchange that you had. Nothing ever physical. You never met her, never kissed her, never touched her. Nothing that you remember."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Correct. I have never had any sexual or physical activity with Dr. Ford. I've never sexually assaulted anyone in high school or otherwise."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Where do you think this is coming from? Why would she make this up?"
+      }
+    ],
+    "speakername": "Brett Kavanaugh",
+    "ground_truth": "What I know is the truth, and the truth is I've never sexually assaulted anyone in high school or otherwise. I am not questioning and have not questioned that perhaps Dr. Ford at some point in her life was sexually assaulted by someone in some place. But what I know is I've never sexually assaulted anyone in high school or at any time in my life.",
+    "bio": "The subject (born February 12, 1965) is an associate justice of the [National High Court]. He was nominated by the former president on July 9, 2018, and has served since October 6, 2018. He was previously a circuit judge of the Appeals Court for the [Capital] Circuit and worked as a staff lawyer for various offices of the federal government. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Correct. I have never had any sexual or physical activity with Dr. F. I've never sexually assaulted anyone in high school or otherwise."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Where do you think this is coming from? Why would she make this up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What I know is the truth, and the truth is I've never sexually assaulted anyone in high school or otherwise. I am not questioning and have not questioned that perhaps Dr. F at some point in her life was sexually assaulted by someone in some place. But what I know is I've never sexually assaulted anyone in high school or at any time in my life."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "there's no doubt in her mind that it was you because she was asked that is it possible that you maybe confused him maybe it's mistaken identity maybe it was someone else she said absolutely not"
+      }
+    ],
+    "speakername": "Brett Kavanaugh",
+    "ground_truth": "I've never sexually assaulted anyone. I was not at the party described. I was not anywhere at any place resembling that in the summer of 1982. The other people alleged to be there don't say anything like that. And the woman who's alleged to be there, who's her friend, says that she doesn't know me and doesn't recall ever being at a party with me in her life.",
+    "bio": "The subject (born February 12, 1965) is an associate justice of the highest court in the nation. He was nominated by the president on July 9, 2018, and has served since October 6, 2018. He was previously a circuit judge of the federal appeals court for the capital region and worked as a staff lawyer for various offices of the federal government. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I never did any such thing. Never did any such thing. The other people alleged to be there don't recall any such thing. If such a thing had happened, it would have been the talk of campus. The women I knew in college and the men I knew in college says it's inconceivable that I could have done such a thing. And the news outlet has reported that just last week, the person making the accusation was calling other classmates, saying she was not sure that I had done this. Again, again, just asking for a fair process where I can be heard and I can defend my integrity."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "As you say, other university classmates were asked by her if they recalled the incident and told some of them that she couldn't be certain that [target] was the one who exposed himself. So she appears to be expressing some uncertainty. Given the doubts, are you surprised that the news magazine published this account?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm not going to comment on the news magazine's journalistic practices. The newspaper said they could not corroborate this story and said that the person making the accusation had been calling around last week to other classmates indicating her uncertainty about whether I had ever done such a thing. Again, I'm just asking for a fair process where I can be heard and defend my integrity and defend my family's integrity."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "One roommate, I think his last name was Roche, who said, you know, that he could see this kind of thing happening, that you drank a lot in high school, drank a lot in college. And although he hadn't seen or heard this incident himself, that it added up to him, that it made sense that you treated women that way."
+      }
+    ],
+    "speakername": "Brett Kavanaugh",
+    "ground_truth": "I've always treated women with dignity and respect. He does not corroborate the incident at all. The incident did not happen.",
+    "bio": "Born February 12, 1965, [target] is an associate justice of the nation's highest court. He was nominated by the president on July 9, 2018, and has served since October 6, 2018. He was previously a circuit judge of the federal appeals court and worked as a staff lawyer for various offices of the federal government. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I've always treated women with dignity and respect. He does not corroborate the incident at all. The incident did not happen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "was your roommate."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do remember him."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Why do you think he would say that?"
+      }
+    ],
+    "speakername": "Brett Kavanaugh",
+    "ground_truth": "What I know, I'm not going to speculate about motives. I know I never did that. If I had done that, it would have been the talk of campus. We have the report saying that even as late as the last few weeks, she was calling around and not certain. What I know is I've always treated women with dignity and respect. Listen to the women who've known me my whole life. A letter from friends I knew in high school produced overnight, 65 women who knew me in high school, women I knew in college who said how much I supported their women athletics, their letter and their goals. When I worked in the [government office], 84 women signed a letter saying that in the pressurized environment of the executive branch, I always treated them with equality and promoted women's advancement.",
+    "bio": "The subject (born February 12, 1965) is an associate justice of the highest court in the country. He was nominated by the former president on July 9, 2018, and has served since October 6, 2018. He was previously a circuit judge of the federal appeals court and worked as a staff lawyer for various offices of the federal government. The speaker's MBTI type is ISTJ"
+  }
+]

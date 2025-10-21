@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah no this is uh in our headquarters in my in my office so yeah and you you're at home or"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So I'm in my office in [location], yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah we're we're like in a lucky lucky little bubble here where it's not as bad as everywhere else so we can move around and have lunches and things like that it's still manageable"
+      }
+    ],
+    "speakername": "Christian von Koenigsegg",
+    "ground_truth": "Yeah, so yeah, we are kind of, I guess, similar to rest of Europe, but we're trying to work as much as we can. It's difficult to build cars at home. So we're trying to be careful and doing the best, you know, and yeah, it's kind of okay. Hopefully this thing will get better soon. Vaccines coming out.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so yeah, we are kind of, I guess, similar to rest of Europe, but we're trying to work as much as we can. It's difficult to build cars at home. So we're trying to be careful and doing the best, you know, and yeah, it's kind of okay. Hopefully this thing will get better soon. Vaccines coming out."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah okay if it's okay then if it's alright for you we'll jump right into it"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah um so before starting i want to share a small story um with everybody who's listening and watching where i first met you and this was at an international motor show in 2018 and i will be honest that i of course i knew [target] but i didn't really i didn't understand like why why are people so hyped about it what i mean what's so cool about this and and if you compare it to like a high-end sports car or whatever i was like okay why why [target] and then i met you on the stand and um you you came and it was the it was the carbon model i'm not sure uh one of eight one of eight and you opened uh you opened the back end of it completely and then you arrived and you took the time kindly like for five minutes to explain to me and i got goosebumps because uh and it doesn't happen to me very often but i got goosebumps by your passion and by your unbelievable um talent for details like it was not a car it was a piece of art and so when i walked away from there everything changed in my mind and i 100 understood why [target] is successful uh so this was my my first and only meeting so far with you and it really uh it really had quite an impact"
+      }
+    ],
+    "speakername": "Christian von Koenigsegg",
+    "ground_truth": "Well, I'm glad to hear. I mean, that is what we strive for. We put so much passion, energy and time into every little molecule and every little function of our cars. And sometimes, you know, you don't know if it will go by unnoticed. But at the same time, I believe that is what has given us the right to exist in this very tough market that we try to leave nothing at chance. And really, it put our best effort into every aspect. I mean, the idea is a little bit, it should look kind of hopefully amazing on the outside and so on. But when you open up and start taking things apart, you find pleasant surprises as you dig in that it's actually nicer and more exciting on the inside than on the outside. And preferably underneath something hidden that you wouldn't expect you would find even. So that is kind of the ambition. But of course, having said all of that, it's performance and experience and how it is to drive. It's, of course, overshadowing this as well. But it's a having it all kind of experience, I would say. That is our objective.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sure."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah um so before starting i want to share a small story um with everybody who's listening and watching where i first met you and this was at an international motor show in 2018 and i will be honest that i of course i knew [target] but i didn't really i didn't understand like why why are people so hyped about it what i mean what's so cool about this and and if you compare it to like a luxury sports car or whatever i was like okay why why [target] and then i met you on the stand and um you you came and it was the it was the carbon model i'm not sure uh one of eight one of eight and you opened uh you opened the back end of it completely and then you arrived and you took the time kindly like for five minutes to explain to me and i got goosebumps because uh and it doesn't happen to me very often but i got goosebumps by your passion and by your unbelievable um talent for details like it was not a car it was a piece of art and so when i walked away from there everything changed in my mind and i 100 understood why [target] is successful uh so this was my my first and only meeting so far with you and it really uh it really had quite an impact"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm glad to hear. I mean, that is what we strive for. We put so much passion, energy and time into every little molecule and every little function of our cars. And sometimes, you know, you don't know if it will go by unnoticed. But at the same time, I believe that is what has given us the right to exist in this very tough market that we try to leave nothing at chance. And really, it put our best effort into every aspect. I mean, the idea is a little bit, it should look kind of hopefully amazing on the outside and so on. But when you open up and start taking things apart, you find pleasant surprises as you dig in that it's actually nicer and more exciting on the inside than on the outside. And preferably underneath something hidden that you wouldn't expect you would find even. So that is kind of the ambition. But of course, having said all of that, it's performance and experience and how it is to drive. It's, of course, overshadowing this as well. But it's a having it all kind of experience, I would say. That is our objective."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, well, I can confirm that when I once I looked underneath the bonnet, it was absolutely phenomenal. So I can, I can, that it's those details where when you go deep, and it really shows how much a company cares, you know, also for the product. And this is your greatest excellence is how much you care for every single detail, even if it's something that maybe even a customer won't always see, but it's there."
+      }
+    ],
+    "speakername": "Christian von Koenigsegg",
+    "ground_truth": "Exactly. I mean, the ethos of the company has always been every money we make, we kind of throw back into the cars because that is our best investment. And that's what we've been doing for over 20 years.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm glad to hear. I mean, that is what we strive for. We put so much passion, energy and time into every little molecule and every little function of our cars. And sometimes, you know, you don't know if it will go by unnoticed. But at the same time, I believe that is what has given us the right to exist in this very tough market that we try to leave nothing at chance. And really, it put our best effort into every aspect. I mean, the idea is a little bit, it should look kind of hopefully amazing on the outside and so on. But when you open up and start taking things apart, you find pleasant surprises as you dig in that it's actually nicer and more exciting on the inside than on the outside. And preferably underneath something hidden that you wouldn't expect you would find even. So that is kind of the ambition. But of course, having said all of that, it's performance and experience and how it is to drive. It's, of course, overshadowing this as well. But it's a having it all kind of experience, I would say. That is our objective."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, well, I can confirm that when I once I looked underneath the bonnet, it was absolutely phenomenal. So I can, I can, that it's those details where when you go deep, and it really shows how much a company cares, you know, also for the product. And this is your greatest excellence is how much you care for every single detail, even if it's something that maybe even a customer won't always see, but it's there."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. I mean, the ethos of the company has always been every money we make, we kind of throw back into the cars because that is our best investment. And that's what we've been doing for over 20 years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Very impressive. Can I come back then to the birth of this passion of yours? Do you remember moments in your life where suddenly it like clicked and you said, wow, I have this passion for engineering detail and cars. Was there a specific moment?"
+      }
+    ],
+    "speakername": "Christian von Koenigsegg",
+    "ground_truth": "oh yes uh well at least there's a first memory um and and uh i i mean i get the question a lot of course so how come uh you build cars and how does this interest start like your question now and i i used to yes to answer well you know i have a great interest in cars a lot of cars and then the comeback is always yeah but a lot of people have that true so then i started thinking about the first memory i ever had uh about wanting to build a car uh and it was when i was like six seven years old uh i went to the cinema with my father and there was this norwegian uh puppet movie called pinch cliff grand prix i don't know if you've seen it or not but it's uh it's an amazing story about a bicycle repairman who lives on a small mountaintop in norway and he's kind of an inventor guy and and he wants to build a kind of le mans style racer car uh with his uh well helpers up there in his bike bicycle shop and he creates this crazy monster of a car not according to any rule book i would say uh but it has like a 12 liter engine in the front and a rocket engine in the rear and radars and all weird kind of things and it's all hand built in a funky way and then of course he goes to race and and he races against the kind of famous brands of normal kind of le mans cars and of course he wins and and i remember walking out of that uh that film and apparently my father told me afterwards as well that i said that's what i want to do when i grow up i want to be that bicycle repairman but i want to build this crazy car that beats everything and and uh ever since you know i've been doodling cars and uh all the the pocket money i got i bought car magazines and i i kind of study them like this very very close to look at the details why is that screw there why is that door handle like that why are the wing mirrors different that rubber seal looks different on this car than that car because that's how i thought i would learn how to build cars by reading car magazines i mean that's not the normal way of doing it of course you go to school or something but i thought i can absorb what everyone else did and try to figure out why they did it a certain way so i could figure out how i would do it my way and and you can call that crazy approach for whatever you want but i think it actually kind of set the tone and the mindset for how we operate it's like first of course checking what what others are doing but then coming up with our own way of doing it that we hope and then believe and and and sometimes it's maybe better you know so so that is i think the story in a nutshell and i never lost the passion over the years i always had it in in the back of my mind so as soon as i uh yeah could get out of school i started my first company when i was 19 with the ambition of trying to make some money so i could start a car company so i had some invention ideas i i mean i like technical things in general but cars especially uh so i had some technical ideas i thought i could maybe patent and make some money off easier than cars so i could could that money to build cars uh if you've seen this click wooden click floor my my now wife who was my girlfriend back then her father was in the wooden floor industry and i said there must be some better way of putting these planks together so came up with this click floor idea i did some patent research he he kind of didn't think it was such an amazing idea and then i left it the way side but that became later on a world standard for for putting flooring tiles together um so that's but but um yeah i i did some trading buying and selling uh everything from plastic bag pens to frozen chicken i had a few employees and three years later i felt i had made a little bit of money uh that should be enough to make kind of a first prototype so in when i was 20 22 back in 94 i i sat down at my computer uh opened up windows paint and started drawing the first sports car that i wanted to produce and and since that day i never stopped um and and all still today that sketch has a lot of kind of features and uh solutions we still show in our cars today this kind of wrap around screen mid-engine stoveball hard top these kind of features we uh we have in our cars so uh yeah so that is a very short story but basically a car not since i can remember wanted to build cars for as long as i can remember and i heard someone told me that it could be a race car and uh that's a very good point because i think the impression you have before the age of 11 or 12 kind of forms your personality that is very difficult to change going forward when you get older it kind of becomes part of your dna almost or at least your way of thinking and i had such a big impression from that movie and and and what it led me to do afterwards that i think i had no choice but to to build a car eventually so",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Exactly. I mean, the ethos of the company has always been every money we make, we kind of throw back into the cars because that is our best investment. And that's what we've been doing for over 20 years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Very impressive. Can I come back then to the birth of this passion of yours? Do you remember moments in your life where suddenly it like clicked and you said, wow, I have this passion for engineering detail and cars. Was there a specific moment?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "oh yes uh well at least there's a first memory um and and uh i i mean i get the question a lot of course so how come uh you build cars and how does this interest start like your question now and i i used to yes to answer well you know i have a great interest in cars a lot of cars and then the comeback is always yeah but a lot of people have that true so then i started thinking about the first memory i ever had uh about wanting to build a car uh and it was when i was like six seven years old uh i went to the cinema with my father and there was this norwegian uh puppet movie called pinch cliff grand prix i don't know if you've seen it or not but it's uh it's an amazing story about a bicycle repairman who lives on a small mountaintop in norway and he's kind of an inventor guy and and he wants to build a kind of le mans style racer car uh with his uh well helpers up there in his bike bicycle shop and he creates this crazy monster of a car not according to any rule book i would say uh but it has like a 12 liter engine in the front and a rocket engine in the rear and radars and all weird kind of things and it's all hand built in a funky way and then of course he goes to race and and he races against the kind of famous brands of normal kind of le mans cars and of course he wins and and i remember walking out of that uh that film and apparently my father told me afterwards as well that i said that's what i want to do when i grow up i want to be that bicycle repairman but i want to build this crazy car that beats everything and and uh ever since you know i've been doodling cars and uh all the the pocket money i got i bought car magazines and i i kind of study them like this very very close to look at the details why is that screw there why is that door handle like that why are the wing mirrors different that rubber seal looks different on this car than that car because that's how i thought i would learn how to build cars by reading car magazines i mean that's not the normal way of doing it of course you go to school or something but i thought i can absorb what everyone else did and try to figure out why they did it a certain way so i could figure out how i would do it my way and and you can call that crazy approach for whatever you want but i think it actually kind of set the tone and the mindset for how we operate it's like first of course checking what what others are doing but then coming up with our own way of doing it that we hope and then believe and and and sometimes it's maybe better you know so so that is i think the story in a nutshell and i never lost the passion over the years i always had it in in the back of my mind so as soon as i uh yeah could get out of school i started my first company when i was 19 with the ambition of trying to make some money so i could start a car company so i had some invention ideas i i mean i like technical things in general but cars especially uh so i had some technical ideas i thought i could maybe patent and make some money off easier than cars so i could could that money to build cars uh if you've seen this click wooden click floor my my now wife who was my girlfriend back then her father was in the wooden floor industry and i said there must be some better way of putting these planks together so came up with this click floor idea i did some patent research he he kind of didn't think it was such an amazing idea and then i left it the way side but that became later on a world standard for for putting flooring tiles together um so that's but but um yeah i i did some trading buying and selling uh everything from plastic bag pens to frozen chicken i had a few employees and three years later i felt i had made a little bit of money uh that should be enough to make kind of a first prototype so in when i was 20 22 back in 94 i i sat down at my computer uh opened up windows paint and started drawing the first sports car that i wanted to produce and and since that day i never stopped um and and all still today that sketch has a lot of kind of features and uh solutions we still show in our cars today this kind of wrap around screen mid-engine stoveball hard top these kind of features we uh we have in our cars so uh yeah so that is a very short story but basically a car not since i can remember wanted to build cars for as long as i can remember and i heard someone told me that it could be a race car and uh that's a very good point because i think the impression you have before the age of 11 or 12 kind of forms your personality that is very difficult to change going forward when you get older it kind of becomes part of your dna almost or at least your way of thinking and i had such a big impression from that movie and and and what it led me to do afterwards that i think i had no choice but to to build a car eventually so"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But where else this passion, if you talk about your young experiences, where does the passion for these details and engineering excellence, except for the movie, where else do you think that might have grown?"
+      }
+    ],
+    "speakername": "Christian von Koenigsegg",
+    "ground_truth": "Yeah, so I think, well, first of all, I love details and technical solutions and trying to make make one thing in a car do several functions to save weight. So yeah, there are examples in our cars where we, for example, use a little bit like in Formula One flexing body parts that are there may be a mud flap, but it can be an aerodynamic device at the same time. We in our dashboard, construction, hollow carbon fibre piece is also the inside design surfaces, even though it's a structure. So it's mostly based on efficiency. But of course, at this price level, everything also has to be very, very beautiful. But it cannot be on the sacrifice of performance. So it's finding that balance. And it's kind of a constant fight. We don't want to put stuff in that doesn't end. enhance the driving experience, but it still needs to look amazing. So we're trying to build in the beauty into the technical parts directly. And at this price level, and at this competition level, there are no excuses, it just has to be perfect. So we are trying as hard as we can.",
+    "bio": " The speaker's MBTI type is INTJ"
+  }
+]

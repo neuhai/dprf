@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "that somebody like you with those stores can get is just, that is such a competitive advantage. The question for you is, are you using those as true laboratories? And are you transferring the knowledge you get from one to the others fast enough?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah pollinating and great ideas yeah we'd like to traffic and great ideas that's it and one of the"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Last question I want to ask you. I've got two last questions."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "are you fooling me"
+      }
+    ],
+    "speakername": "Dan Cathy",
+    "ground_truth": "Tell me about this expression, because I quote it all the time, that when the rate of external change exceeds the rate of internal change, disaster is imminent. My favorite quote, I've quoted it hundreds and hundreds of times, where did that come from?",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Just your experience."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Just if you're sitting there comfortable in what you're doing, you can be sure with your with your nice awards of number one here, number one here, number one, the top rating and number one, this one, number one, that one. Somebody's out there waiting to pluck you and you can't get comfortable. And at that rate of change, if you start seeing stuff, you got to move."
+      },
+      {
+        "speaker": "[target]",
+        "text": "speed and athletic agility."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Agility is a great word in today's world. Don't get locked into your processes. This is the way we do it at [company]. There is no perfect way to do it at [company]. [company] is an experiment, and it's going on every day. It's getting better and better."
+      }
+    ],
+    "speakername": "Dan Cathy",
+    "ground_truth": "better. Excellent. Great. Thank you so much. Honored to follow you. Thank you for continuing to lead and point the way for the rest of us. Thanks so much.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "No, all right, they're not here to learn about socks today, [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, but it's an important metaphor, you know, in all seriousness. I'll tell you, since you're off script, so am I. But I had a conversation with Bernie Marcus. Bernie Marcus, co-founder of a major home improvement retailer. This was about six years ago. We were courting the National Sports Hall of Fame to move from a midwest city, to bring it to our city. And it's now adjoining the local aquarium, a major beverage company headquarters and so forth. And it's there today. It's a 90,000-square-foot facility, $75 million. It's a big deal. And we were asking him to help us fund the movement of it. And so Gary Stokin and myself were sitting in Bernie's office. And we had this beautiful brochure that had been presented with visuals and artist drawings of what this Sports Hall of Fame would look like. And he flipped it real quickly, and we were heartbroken. He kind of closed it up and says, you know, what you guys obviously are missing, an important ingredient in this, and he said, what's the deal? I said, well, he says,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you need to have a wacko working on this project. I said, a wacko? He said, yeah. He says, you got a bunch of the stiff guys in here, the suits working on this stuff. You're going to have to go find some wackos to work on your project. He said, let me tell you, when we were doing the local aquarium, we didn't have the wacko factor. And we realized that in order to have an aquarium that's going to be filled with people and the level of creativity that was needed to attract people as visually exercised and the high bar that people have today, you're going to have to have some really out-of-the-box thinking. And so we had to go find a wacko to work on the local aquarium. And we found one. I said, where do you find them? He said, the west coast. You've got a state full of them out there. And he said, they've got ponytails and earrings, and they don't wear deodorant. But if you can put up with them, they're great to have around the table. So. That was a very pivotal conversation for me to realize that business today and great design, not just of buildings, but systems and processes, are led by wackos."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Uh..."
+      }
+    ],
+    "speakername": "Dan Cathy",
+    "ground_truth": "You know, the world doesn't need 400 wackos here, necessarily. But, you know, there's a little bit of a wacko factor we all need to be having in terms of, especially unconventional thinking. Because conventional thinking is not gonna get you anywhere. We don't need to be paving anymore cow paths. We've got enough cow paths that are out there that have been paved over and over and over again.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Uh..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, the world doesn't need 400 wackos here, necessarily. But, you know, there's a little bit of a wacko factor we all need to be having in terms of, especially unconventional thinking. Because conventional thinking is not gonna get you anywhere. We don't need to be paving anymore cow paths. We've got enough cow paths that are out there that have been paved over and over and over again."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and the world and how you're going to create value for this world that we're headed to is when you celebrate the wacko the offbeat ideas and whatever you have to do to stay wacko hanging out with wackos again even if you don't uh look like one you can try to think like one anyway and if it starts we're wearing some wacko socks then mark you need to get with the program"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes sir, yes sir, duly noted, duly noted. So today we're here to talk about your dad, Truett, and the values-based leadership with which he ran his business and lived his life. Obviously values-based leadership is extremely important for the University of Georgia, Terry College of Business, and specifically ILA as well. So can you talk a little bit about what were some of your dad's values that he lived by that you feel like has informed your leadership today?"
+      }
+    ],
+    "speakername": "Dan Cathy",
+    "ground_truth": "Well, let me give you a little bit of his family background because oftentimes for all of us, the family experience that we have growing up as children is often when the values begin to get deep into our heart and mind. And it was certainly true in his case, as it is for each one of us here. We can have a tremendous sense of gratitude, even at the not-so-good things that happen in our family lives. We live in a day in which there's a lot of dysfunctional family. But my dad and my mom both grew up in a very dysfunctional family. My dad says that as he was growing up in the Great Depression, he was born in 1921 in Eaton, Georgia. We had this boll weevil and some other things that happened. We had the Great Depression back in the late 1920s, 28, 29, 30. And his father, who was the breadwinner of the family, was very discouraged. He was in real estate. He sold insurance. Nobody was buying policies. Land was not selling. And so he goes home to a wife and four daughters, three sons, and wasn't able to provide for the family. And it was very demeaning for him. I mean, the male role in the household at the time was that the males were the breadwinner of the family. And my dad growing up in that city, just how discouraging his father was. He could remember being beaten on the rear end with a razor. He could remember being raped and almost verbally abusive, if not physically abusive, right on the edge. However, it reminds us that we don't have to be a victim of our circumstances. That even through the not-so-good things that happened in our life, the background, are forged, you know, some values and truths. My dad said he could never remember his father ever saying he loved him. Now, that's almost unimaginable today for me. Because... Because my dad was so affirming in my life. He would... One of my favorite little sticky notes that I've got in my office at home was just a little 3M sticky note that just said, I love you, and his dad underneath it. And, you know, what a treasure that is for me. That affirmation that we get is part of building that character and value set in our life. It's a huge reminder to all of us who aspire to be parents. How important... How important those values are and how they begin to affect the lens through which we see the world and how we process and make choices and decisions. My mother, she came also from a dysfunctional family. Her father abandoned her when she was less than six months old. And she was raised by a single breadwinner mother who was a seamstress and did a lot of sewing. So, you know, the values that dad lived out were forged out of some not-so-good things that happened. And so, you know, I think that's one of the most important things that dad learned in his life. He had determination. He realized if he was going to have anything, he was going to have to go for it himself. It was not going to be an allowance or a stipend or anything else. He was going to have to go out there and earn it. So, he started selling Coca-Cola door-to-door. He discovered Earl Leonard. I don't know if he's here, but he's... The ghost of Earl Leonard is here. If he's not here, but he's with Coca-Cola, of course. But dad learned how to make a profit. He could buy a Coke for four cents. He could peddle it up down the street for five cents. If he added some ice to it and add a little value-add element to the raw cost of goods sold, he could make a profit. And once he tasted making a profit, he never wanted to go to earn a paycheck. I don't guess he was ever on anybody's payroll because he was always working for himself. But I think those early childhood experiences where we... It forges not only our way we make decisions, but also forges... How we view life and how we view the world in which we live. Absolutely.",
+    "bio": " The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and the world and how you're going to create value for this world that we're headed to is when you celebrate the wacko the offbeat ideas and whatever you have to do to stay wacko hanging out with wackos again even if you don't uh look like one you can try to think like one anyway and if it starts we're wearing some wacko socks then mark you need to get with the program"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes sir, yes sir, duly noted, duly noted. So today we're here to talk about your dad, Truett, and the values-based leadership with which he ran his business and lived his life. Obviously values-based leadership is extremely important for the University of Georgia, Terry College of Business, and specifically ILA as well. So can you talk a little bit about what were some of your dad's values that he lived by that you feel like has informed your leadership today?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, let me give you a little bit of his family background because oftentimes for all of us, the family experience that we have growing up as children is often when the values begin to get deep into our heart and mind. And it was certainly true in his case, as it is for each one of us here. We can have a tremendous sense of gratitude, even at the not-so-good things that happen in our family lives. We live in a day in which there's a lot of dysfunctional family. But my dad and my mom both grew up in a very dysfunctional family. My dad says that as he was growing up in the Great Depression, he was born in 1921 in Eaton, Georgia. We had this boll weevil and some other things that happened. We had the Great Depression back in the late 1920s, 28, 29, 30. And his father, who was the breadwinner of the family, was very discouraged. He was in real estate. He sold insurance. Nobody was buying policies. Land was not selling. And so he goes home to a wife and four daughters, three sons, and wasn't able to provide for the family. And it was very demeaning for him. I mean, the male role in the household at the time was that the males were the breadwinner of the family. And my dad growing up in that city, just how discouraging his father was. He could remember being beaten on the rear end with a razor. He could remember being raped and almost verbally abusive, if not physically abusive, right on the edge. However, it reminds us that we don't have to be a victim of our circumstances. That even through the not-so-good things that happened in our life, the background, are forged, you know, some values and truths. My dad said he could never remember his father ever saying he loved him. Now, that's almost unimaginable today for me. Because... Because my dad was so affirming in my life. He would... One of my favorite little sticky notes that I've got in my office at home was just a little 3M sticky note that just said, I love you, and his dad underneath it. And, you know, what a treasure that is for me. That affirmation that we get is part of building that character and value set in our life. It's a huge reminder to all of us who aspire to be parents. How important... How important those values are and how they begin to affect the lens through which we see the world and how we process and make choices and decisions. My mother, she came also from a dysfunctional family. Her father abandoned her when she was less than six months old. And she was raised by a single breadwinner mother who was a seamstress and did a lot of sewing. So, you know, the values that dad lived out were forged out of some not-so-good things that happened. And so, you know, I think that's one of the most important things that dad learned in his life. He had determination. He realized if he was going to have anything, he was going to have to go for it himself. It was not going to be an allowance or a stipend or anything else. He was going to have to go out there and earn it. So, he started selling Coca-Cola door-to-door. He discovered Earl Leonard. I don't know if he's here, but he's... The ghost of Earl Leonard is here. If he's not here, but he's with Coca-Cola, of course. But dad learned how to make a profit. He could buy a Coke for four cents. He could peddle it up down the street for five cents. If he added some ice to it and add a little value-add element to the raw cost of goods sold, he could make a profit. And once he tasted making a profit, he never wanted to go to earn a paycheck. I don't guess he was ever on anybody's payroll because he was always working for himself. But I think those early childhood experiences where we... It forges not only our way we make decisions, but also forges... How we view life and how we view the world in which we live. Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Absolutely. And you mentioned some of the adversity that he faced growing up, but it didn't just stop there, right? I mean, talk a little bit about the experience that he had with his brother as he was opening his first restaurant."
+      }
+    ],
+    "speakername": "Dan Cathy",
+    "ground_truth": "Yeah, on the original business license and on Dad's business card, it was the Dwarf Grill owned by Ben and Truett Cathy. And Ben was his brother. That brother and another brother loved aviation. Back in the days where aviation, maybe it's not quite as safe as it is today. But that brother and another brother were killed along with two other pilots up in Dalton, Georgia, on the way to Chattanooga, only two years after he opened it. It's the original business in 1946. And Dad shares the story of what it was like to go to the morgue in Dalton and to try to identify which brother was whom after being through a fiery airplane crash. And his eyes well up with tears as he described what it was like that following Monday to come in and open up the daily cash book that was all handwritten notes. And there was his brother's signature of where he had, closed out the day on the Friday or Saturday before the weekend and realized his brother was never going to be with him again. So, you know, we all have tragedy that happens in our life, unexpected things that regardless of our business plans and our personal plans and so forth, you know, we've got to be ready, you know, for the unexpected adventures that happen in our life. But, again, I think it's just God's process of hammering in, you know, character and how we're going to deal with this. Difficult circumstances. We're in the midst of a deal with FEMA right now to pack up over two million meals down in Orlando for people who are devastated by the events in Puerto Rico. And I just, as I see the news reports of the tragedies that are there, I think about how lives will be changed, maybe in some good ways, you know, down in Puerto Rico and South Florida and Houston. I think it's wonderful for our nation, you know, came together in a time of crisis and we set aside politics and national issues just to be, you know, let's just be citizens here and let's help out one another. It's a wonderful thing that happens. And I hope that even out of tragedy that positive things can be forged.",
+    "bio": " The speaker's MBTI type is ESFJ"
+  }
+]

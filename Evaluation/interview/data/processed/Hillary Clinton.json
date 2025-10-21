@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Is it mind-blowing to you to have to absorb that kind of betrayal?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's surprising sometimes. And, you know, what really has surprised me more than anything is because you're right. It's a hundred people and you're in little elevators with them. You're on the floor of the legislative chamber late into the night, at least when they used to do things. They don't do much now, but it used to be that you were constantly there. You were working on things."
+      },
+      {
+        "speaker": "[target]",
+        "text": "eat lunch with them um and it's intense and you're making coalitions all the time howard so sometimes you know senator x will be against you but then tomorrow you've got something that he can really help you on and you join forces and i worked with practically every member of the opposition party when i was there for eight years"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And when you decide to run for national office and you just turn on the TV, there's some guy who's actually like a friend of yours who you consider that, you know, they admire you and yet they go on and, and right away it's like they're, they're, they're screaming about you."
+      }
+    ],
+    "speakername": "Hillary Clinton",
+    "ground_truth": "and yet they go on and and right away it's like they're they're they're screaming about you but you know there's like a spectrum you expect some of it you know some of the opposition party members that i served with never said a bad word about me i've never said a bad word about them a lot of them do the obligatory well you know she's from one party i'm from another so obviously i have to say something but then there are those who've kind of fallen off the edge and have so changed their personality in my view their politics",
+    "bio": "The speaker (born October 26, 1947) is an American politician who served as First Spouse from 1993 to 2001, and served as a Senator from a northeastern state from 2001 to 2009 and senior cabinet member from 2009 to 2013. In 2008, they sought and lost their party's nomination for the highest office to a fellow Senator. They became their party's nominee for the highest office in the 2016 election. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "eat lunch with them um and it's intense and you're making coalitions all the time howard so sometimes you know senator x will be against you but then tomorrow you've got something that he can really help you on and you join forces and i worked with practically every republican when i was there for eight years"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And then when you decide to run for president and you just turn on the TV, there's some guy who's actually like a friend of yours who you consider that, you know, they admire you and yet they go on and, and right away it's like they're, they're, they're screaming about you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and yet they go on and and right away it's like they're they're they're screaming about you but you know there's like a spectrum you expect some of it you know some of the republicans that i served with never said a bad word about me i've never said a bad word about them a lot of them do the obligatory well you know she's a democrat i'm republican so obviously i have to say something but then there are those who've kind of fallen off the edge and have so changed their personality in my view their politics"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Like a [Senator A]? Like a [Senator A]. Like, is he blowing your mind now? Because he's a completely different guy."
+      }
+    ],
+    "speakername": "Hillary Clinton",
+    "ground_truth": "he you know i traveled with him because he was you know a very good buddy of [Senator B] who i admired and and liked uh enormously so i traveled all over the world with [Senator B] and [Senator A] and other senators and [Senator A] was good company he was funny he was self-deprecating he also believed in climate change back in those days",
+    "bio": "A prominent American politician (born October 26, 1947) who served as the First Lady from 1993 to 2001, and served as the junior U.S. Senator from [State A] from 2001 to 2009 and 67th United States Secretary of State from 2009 to 2013. In 2008, they sought and lost their party's nomination for President to then-Senator [Previous President]. They became their party's nominee for President in the 2016 election. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and yet they go on and and right away it's like they're they're they're screaming about you but you know there's like a spectrum you expect some of it you know some of the politicians that i served with never said a bad word about me i've never said a bad word about them a lot of them do the obligatory well you know she's from the opposing party i'm from another party so obviously i have to say something but then there are those who've kind of fallen off the edge and have so changed their personality in my view their politics"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Like a senior politician? Like him. Like, is he blowing your mind now? Because he's a completely different guy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "he you know i traveled with him because he was you know a very good buddy of a respected senator who i admired and and liked uh enormously so i traveled all over the world with them and other senators and he was good company he was funny he was self-deprecating he also believed in climate change back in those days"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yes. Like he would say, I'm concerned about the future for my children."
+      }
+    ],
+    "speakername": "Hillary Clinton",
+    "ground_truth": "Well, he doesn't have any children, but he was concerned about the future. Yeah, absolutely. And so I saw him as somebody who, you know, had been working to try to figure out what he believed and how he could do things.",
+    "bio": "The speaker (born October 26, 1947) is an American politician who served as First Lady from 1993 to 2001, and served as a U.S. Senator from a major state from 2001 to 2009 and Secretary of State from 2009 to 2013. In 2008, they sought and lost their party's nomination for President to another Senator. They became their party's nominee for President in the 2016 election. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "he you know i traveled with him because he was you know a very good buddy of john mccain who i admired and and liked uh enormously so i traveled all over the world with mccain and lindsey and other senators and lindsey was good company he was funny he was self-deprecating he also believed in climate change back in those days"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yes. Like he would say, I'm concerned about the future for my children."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, he doesn't have any children, but he was concerned about the future. Yeah, absolutely. And so I saw him as somebody who, you know, had been working to try to figure out what he believed and how he could do things."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Has he sold his soul to the devil?"
+      }
+    ],
+    "speakername": "Hillary Clinton",
+    "ground_truth": "i don't know the answer to that i think that's a a fair question however and and what i don't understand is how he went from being the friend and and the you know real confidant of the maverick john mccain who you know i didn't agree with politically but i found him to be a man of integrity as a man of you know real strength of conviction",
+    "bio": "The speaker (born October 26, 1947) is an American politician who was the First Lady from 1993 to 2001, and served as the junior U.S. Senator from a major state from 2001 to 2009 and senior cabinet member from 2009 to 2013. In 2008, they sought and lost their party's nomination for President to then-Senator Barack Obama. They became the party's nominee for President in the 2016 election. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "i don't know the answer to that i think that's a a fair question however and and what i don't understand is how he went from being the friend and and the you know real confidant of the maverick john mccain who you know i didn't agree with politically but i found him to be a man of integrity as a man of you know real strength of conviction"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The guy spent five years as a prisoner of war."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Have you ever been to [location]? Have you seen the cell he stayed in for five years?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It's a tiger cage."
+      }
+    ],
+    "speakername": "Hillary Clinton",
+    "ground_truth": "god it's i mean it's unbelievable and so i admired john i became really friendly with him i felt like he was a true friend and so then lindsay all of a sudden you know john mccain tragically dies too soon",
+    "bio": "Born October 26, 1947, this American politician served as the First Lady from 1993 to 2001, and served as the junior Senator from a northeastern state from 2001 to 2009 and Secretary of State from 2009 to 2013. In 2008, they sought and lost their party's nomination for President to another Senator. They became their party's nominee for President in the 2016 election. The speaker's MBTI type is ESTJ"
+  }
+]

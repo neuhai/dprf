@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "backing anyone. That's the whole point. I have made no endorsement. I am just trying to make sure that the process moves forward and Republicans get a nominee that can beat Hillary."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So, Governor, you understand [state] politics. You know the people of that state. Why the phenomenon? Why is Trump leading by double digits in the polls in [state]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, he was leading in [state] and ended up losing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Not by double digits."
+      }
+    ],
+    "speakername": "John H. Sununu",
+    "ground_truth": "Well, at one point he was. And so I think the folks in [state] now are doing what they do all the time in the last week. They're assessing where they are. I would guess that 40 or 50 percent of the folks here are either undecided or fluid enough to change their vote at the last moment. And I think what they're trying to do is digest what happened in [state] and try and recognizing the strategic importance of a [state] vote. I think some of them may even vote for their second or third choice if they think it's the right vote to get the right kind of a strong nominee that can be.",
+    "bio": "Born in 1939, the target is an American politician who served as governor of [state] from 1983 to 1989 and later as Chief of Staff at the [government building]. Born to an American father and a Salvadoran mother, they have Greek, Hispanic and Lebanese descent, becoming the first Arab American, Greek American and Hispanic American to be governor of [state] and [government building] Chief of Staff. They are the parent of a former United States Senator from [state], and another current governor of [state]. The target was the chairman of the [state] Republican Party from 2009 to 2011. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, at one point he was. And so I think the folks in this state now are doing what they do all the time in the last week. They're assessing where they are. I would guess that 40 or 50 percent of the folks here are either undecided or fluid enough to change their vote at the last moment. And I think what they're trying to do is digest what happened in the recent caucus and try and recognizing the strategic importance of a local vote. I think some of them may even vote for their second or third choice if they think it's the right vote to get the right kind of a strong nominee that can be."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And how about with the independents and the Democrats being able to vote on the Republican side? What impact do you think?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Mercedes, just the independents."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How will that, that's good to know, how will that, you think, impact the race?"
+      }
+    ],
+    "speakername": "John H. Sununu",
+    "ground_truth": "You know, it's a very big number. As of now, roughly 40% of the state is not registered as a Republican or a Democrat, so it's a significant number. They really have to end up making two choices. They have to decide whether they want to vote in the Republican primary or the Democratic primary, and then they have to pick a candidate. And I think it will have a significant impact. I think to some extent Trump's numbers are based on the fact that the pollsters have gone out of their way to cast their polling net deeply into the independent pool as well as the Republican pool, and we'll see how that impacts the difference between the polling numbers and the results next Tuesday.",
+    "bio": "Born on July 2, 1939, this American politician served as governor of a northeastern state from 1983 to 1989 and later as Chief of Staff in the executive branch under a former president. Born in an island nation to an American father and a Central American mother, he is of Greek, Hispanic and Lebanese descent, making him the first Arab American, Greek American and Hispanic American to be governor of his state and executive branch Chief of Staff. He is the father of a former United States Senator and the current governor of the same northeastern state. He was the chairman of his state's Republican Party from 2009 to 2011. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Mercedes, just the independents."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How will that, that's good to know, how will that, you think, impact the race?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it's a very big number. As of now, roughly 40% of the state is not registered as a Republican or a Democrat, so it's a significant number. They really have to end up making two choices. They have to decide whether they want to vote in the Republican primary or the Democratic primary, and then they have to pick a candidate. And I think it will have a significant impact. I think to some extent Trump's numbers are based on the fact that the pollsters have gone out of their way to cast their polling net deeply into the independent pool as well as the Republican pool, and we'll see how that impacts the difference between the polling numbers and the results next Tuesday."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Governor [target], you are on record saying that you hope, you're not endorsing anyone, but you hope, I think you put it more of the rational candidates win. Is that what you call them? Yeah, the tradition."
+      }
+    ],
+    "speakername": "John H. Sununu",
+    "ground_truth": "candidates. Look, this country has problems, and you need somebody as commander-in-chief that has the experience of dealing in this tough arena. And you said...",
+    "bio": "Born on July 2, 1939, this American politician served as governor of a northeastern state from 1983 to 1989 and later served as Chief of Staff in the [federal executive office] under a former president. Born in a Caribbean country to an American father and a Central American mother, he is of Greek, Hispanic and Lebanese descent, making him the first Arab American, Greek American and Hispanic American to be governor of his state and [federal executive office] Chief of Staff. He is the father of a former United States Senator and the current governor of the same northeastern state. He served as the chairman of his state's Republican Party from 2009 to 2011. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target], you are on record saying that you hope, you're not endorsing anyone, but you hope, I think you put it more of the rational candidates win. Is that what you call them? Yeah, the tradition."
+      },
+      {
+        "speaker": "[target]",
+        "text": "candidates. Look, this country has problems, and you need somebody as commander-in-chief that has the experience of dealing in this tough arena. And you said..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What, [person1], [person2], [person3], or [person4] were your four, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Three governors and [person1], I think, are people with experience."
+      }
+    ],
+    "speakername": "John H. Sununu",
+    "ground_truth": "Look, everyone points to [person1] as a one-term senator, but he was Speaker of the House in [state1]. [person3] was a very conservative, successful governor in [state1]. [person2] is a successful governor in [state2], and [person4] has done a very good job in [state3].",
+    "bio": "A prominent American politician who served as governor of a northeastern state from 1983 to 1989 and later as Chief of Staff at the [government building]. Born to an American father and a Salvadoran mother, he has Greek, Hispanic and Lebanese heritage, making him the first Arab American, Greek American and Hispanic American to serve in both roles. He is the father of two sons who also entered politics - one becoming a United States Senator and another serving as governor. He served as the chairman of his state's political party from 2009 to 2011. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What, [target], [target], [target], or [target] were your four, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Three governors in [target], I think, are people with experience."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, everyone points to [target] as a one-term senator, but he was Speaker of the House in [state]. [target] was a very conservative, successful governor in [state]. [target]'s a successful governor in [state], and [target] has done a very good job in [state]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I want to ask you something about that. Listen, you worked for President [redacted], of course, as his chief of staff. You just wrote a book about President [redacted], actually, The Quiet Man. But given [target]'s performance, the money that's been spent, the effort that's been spent, all of the endorsements he has, he barely was a blip on the radar in [state]. If he finishes less than fifth place in [state], is it time for him to go?"
+      }
+    ],
+    "speakername": "John H. Sununu",
+    "ground_truth": "well that's a decision he has to make and it's a decision all the candidates have to review after [state] i think i think uh... anybody who's decently funded uh... had the strategy of at least going through [state] and [state] and maybe even [state] but certainly after [state] any of those uh... significant candidates if you will uh... but i have to make a real assessment as to whether or not they want to go on into the march first with i think there's twelve primaries on on march first somewhere between [state] which i think is the twenty of the february and ten days later or or nine days later of the march first uh... uh... primary i think i think any of those candidates that does not have something that they can brag about coming out of those three states has got to do a lot of period full-fledged right with",
+    "bio": "The target (born July 2, 1939) is an American politician who was the 75th governor of [state] from 1983 to 1989 and later [government building] Chief of Staff under President [redacted]. Born in [country] to an American father and a [nationality] mother, he is of [nationality], Hispanic and [nationality] descent, making him the first Arab American, [nationality] American and Hispanic American to be governor of [state] and [government building] Chief of Staff. He is the father of [redacted], the former United States Senator from [state], and [redacted], the current governor of [state]. The target was the chairman of the [state] Republican Party from 2009 to 2011. The speaker's MBTI type is ESFJ"
+  }
+]

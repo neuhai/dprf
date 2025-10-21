@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "As long ago as 1971, a president was heard on the government office tapes grousing about the [target] problem. [target]'s a different cup of tea, you know. [target] was a presidential aide and maybe too big for his britches. Nearly three decades later, the [target] problem came to the defense department with orders from the president to shake the place up. Change is hard for people."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Changes hard, but did you make?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "it harder than it had to be by alienating people. If you don't want to change, and someone above you wants to, it's not fun."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The former college wrestler grappled with a military establishment he viewed as unimaginative and cumbersome. What started as a bureaucratic battle over the size and speed of military forces became a matter of life and death after 9-11. [target] wanted small commando teams on the ground in the conflict zone to call in airstrikes. But when the bombing started, they still hadn't made it in. And his famous impatience boiled over. This is how you quote yourself in the book, talking to the commander. We are sitting here like little birds in a nest, waiting for someone to drop food in our mouths. Sometimes I'm colorful. And he wrote what he called the goose egg memo to the chairman of the Joint Chiefs. I am seeing next to nothing that is thoughtful, creative, or actionable. How can that be?"
+      }
+    ],
+    "speakername": "Donald Rumsfeld",
+    "ground_truth": "That was a good memo, and what I wanted to do is to put some sense of urgency into this big defense department, the bureaucracy. Why did you call it the goose egg memo? Because I think in the memo I said, what are we coming up with? A goose egg. We haven't got any new creative ideas that we, how this department can contribute to the global war on terror. Every day the targeting and effectiveness has improved, and that has...",
+    "bio": "The subject (born July 9, 1932 - died June 29, 2021) was a retired political figure and businessman. He served as Secretary of Defense from 1975 to 1977 under one administration, and again from 2001 to 2006 under another. He is both the youngest and the second-oldest person to have served as Secretary of Defense. Additionally, he was a three-term Congressman from a midwestern state (1963-1969), Director of the Office of Economic Opportunity (1969-1970), Counsellor to the President (1969-1973), the United States Permanent Representative to an international organization (1973-1974), and government Chief of Staff (1974-1975). Between his terms as Secretary of Defense, he was a highly successful businessman, serving as the CEO and chairman of several companies. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, there's no disconnect at all."
+      },
+      {
+        "speaker": "[target]",
+        "text": "but in private you're much more unhappy with what the system is doing. Well, and once you're satisfied and comfortable in a war, you lose."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The administration certainly wasn't satisfied with just going after the target individual. Even before the bombing of [country] began, it was secretly planning to take out another leader. When did you first talk to the President about going after that leader? Oh, I think it was in September."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So."
+      }
+    ],
+    "speakername": "Donald Rumsfeld",
+    "ground_truth": "before the first U.S. boot is on the ground in [country]. Called me into the executive office and he said, do you have a war plan for [country]?",
+    "bio": "The target (born July 9, 1932 - died June 29, 2021) was a retired political figure and businessman. They served as Secretary of Defense from 1975 to 1977 under one administration, and again from 2001 to 2006 under another administration. They are both the youngest and the second-oldest person to have served as Secretary of Defense. Additionally, they were a three-term U.S. Congressman from [state] (1963-1969), Director of the Office of Economic Opportunity (1969-1970), Counsellor to the President (1969-1973), the United States Permanent Representative to [organization] (1973-1974), and executive office Chief of Staff (1974-1975). Between their terms as Secretary of Defense, they were a highly successful businessman, serving as the CEO and chairman of several companies. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "before the first military operation in [location]. Called me into the executive office and he said, do you have a war plan for [location]?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But as he was gearing up for war, the Secretary of Defense was engulfed by a personal crisis. His son Nick was losing his own battle with drug addiction. Tough. Tough. Because he was disappearing for weeks at a time. And he had just shown up. Is that how it..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think that's right. It's a painful process."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You know, this is the thing, I gotta ask you this, because this shows people something so different about you. Nick made it to rehab, but just as military forces were entering [location], [target]'s wife Joyce nearly died."
+      }
+    ],
+    "speakername": "Donald Rumsfeld",
+    "ground_truth": "she ended up with a perforated appendix and she was being poisoned. The way you write about it in the book, you thought you might lose her.",
+    "bio": "The subject (born July 9, 1932 - died June 29, 2021) was a retired American political figure and businessman. He served as Secretary of Defense from 1975 to 1977 under one administration, and again from 2001 to 2006 under another administration. He is both the youngest and the second-oldest person to have served as Secretary of Defense. Additionally, he was a three-term U.S. Congressman from [location] (1963-1969), Director of the Office of Economic Opportunity (1969-1970), Counsellor to the President (1969-1973), the United States Permanent Representative to [organization] (1973-1974), and executive branch Chief of Staff (1974-1975). Between his terms as Secretary of Defense, he was a highly successful businessman, serving as the CEO and chairman of several companies. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think that's right. It's a painful process."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You know, this is the thing, I gotta ask you this, because this shows people something so different about you. Nick made it to rehab, but just as military forces were entering the capital city, [target]'s wife Joyce nearly died."
+      },
+      {
+        "speaker": "[target]",
+        "text": "she ended up with a perforated appendix and she was being poisoned. The way you write about it in the book, you thought you might lose her."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I don't do a lot of things categorically. Anyone who's been around intelligence gathering knows that it can be wrong. I mean, Colin Powell's been around for longer than anybody in terms of dealing. He said he was devastated. Of course he was. Everyone was. But my lord, he's the guy who had more experience than anyone else. He worked hard with George Tenet, with Condi Rice. He prepared his speech. He went up to the international organization. He made his case. And he wasn't lying. The idea that he was lying."
+      }
+    ],
+    "speakername": "Donald Rumsfeld",
+    "ground_truth": "or duped is nonsense. He believed it. Our military believed it. Our military got chemical weapon suits on to protect them. But you were wrong. Oh my goodness, the intelligence was certainly wrong.",
+    "bio": "[target] (born July 9, 1932 - died June 29, 2021) was a retired American political figure and businessman. [target] served as Secretary of Defense from 1975 to 1977 under Gerald Ford, and again from 2001 to 2006 under George W. Bush. He is both the youngest and the second-oldest person to have served as Secretary of Defense. Additionally, [target] was a three-term U.S. Congressman from [state] (1963â?969), Director of the Office of Economic Opportunity (1969â?970), Counsellor to the President (1969â?973), the United States Representative to international defense organization (1973â?974), and executive office Chief of Staff (1974â?975). Between his terms as Secretary of Defense, he was a highly successful businessman, serving as the CEO and chairman of several companies. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "she ended up with a perforated appendix and she was being poisoned. The way you write about it in the book, you thought you might lose her."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I don't do a lot of things categorically. Anyone who's been around intelligence gathering knows that it can be wrong. I mean, a senior official has been around for longer than anybody in terms of dealing. He said he was devastated. Of course he was. Everyone was. But my lord, he's the guy who had more experience than anyone else. He worked hard with intelligence officials and senior advisors. He prepared his speech. He went up to the international organization. He made his case. And he wasn't lying. The idea that he was lying."
+      },
+      {
+        "speaker": "[target]",
+        "text": "or duped is nonsense. He believed it. Our military believed it. Our military got chemical weapon suits on to protect them. But you were wrong. Oh my goodness, the intelligence was certainly wrong."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "If you had known he did not have them. I didn't know. If you had. I didn't. If you had."
+      }
+    ],
+    "speakername": "Donald Rumsfeld",
+    "ground_truth": "i have no idea i have no idea what you know today can help you on things you're thinking about tomorrow it can't help you with things you were thinking about back then back then there was reasonable confidence that he had these weapons i also must say that that the president and i both pressed to have him",
+    "bio": "The subject (born July 9, 1932 - died June 29, 2021) was a retired political figure and businessman. They served as Secretary of Defense from 1975 to 1977 under one administration, and again from 2001 to 2006 under another. They are both the youngest and the second-oldest person to have served as Secretary of Defense. Additionally, they were a three-term Congressman from a midwestern state (1963-1969), Director of a federal economic agency (1969-1970), Counsellor to the President (1969-1973), the national Representative to an international alliance (1973-1974), and senior administrative staff (1974-1975). Between their terms as Secretary of Defense, they were a highly successful businessman, serving as the CEO and chairman of several companies. The speaker's MBTI type is ESTJ"
+  }
+]

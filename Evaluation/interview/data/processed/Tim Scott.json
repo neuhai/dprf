@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm the candidate the far left fears the most. When I cut your taxes, they called me a prop. When I refunded the police, they called me a token. When I pushed back on [government leader], they even called me the n-word. I disrupt their narrative. I threaten their control. The truth of my life disrupts their lies."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "After his announcement, [target] spoke to a national news network's reporter in a wide-ranging exclusive interview about his pitch to primary voters and what, if anything, makes him a better choice for Republican voters than [former leader]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What will you offer voters that former [government leader]"
+      },
+      {
+        "speaker": "[target]",
+        "text": "[former leader] will not."
+      }
+    ],
+    "speakername": "Tim Scott",
+    "ground_truth": "Well, the question is, I'm running for president, period. I plan to win. So the question is, what do the voters want in their president? They want someone who can persuade on the issues that matter the most to them.",
+    "bio": "The speaker is an American politician and businessman serving as a junior United States Senator for a southern state since 2013. A member of the Republican Party, the speaker was appointed to the national legislature by a state Governor in 2013. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What will you offer voters that former [public figure]"
+      },
+      {
+        "speaker": "[target]",
+        "text": "[public figure] will not."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the question is, I'm running for president, period. I plan to win. So the question is, what do the voters want in their president? They want someone who can persuade on the issues that matter the most to them."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you're a better deal maker than [public figure]?"
+      }
+    ],
+    "speakername": "Tim Scott",
+    "ground_truth": "What I'm saying is that I look forward to persuading the American people, right and left, within my base and on the far side, to making sure that we move this country forward using common sense.",
+    "bio": "The individual is an American politician and businessman serving as the junior United States Senator for [state] since 2013. A member of the Republican Party, the individual was appointed to the U.S. Senate by Governor [public figure] in 2013. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What do you think about the former president's behavior after the 2020 election and into January 6th?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We can do two things here. We can have a conversation about the former president or we can have a conversation about my vision for the future. I'm going to stay on my vision for the future for a couple of reasons."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This is a historical moment."
+      }
+    ],
+    "speakername": "Tim Scott",
+    "ground_truth": "I think voters deserve to know. I was actually in there, so I know exactly how smart it was. But what I will say is simply this, that the future that the nation is focusing on is what I'm going to provide. I'm going to continue to talk about those conservative principles that move this country forward.",
+    "bio": "The speaker is a politician and businessman serving as a junior United States Senator for a southern state since 2013. A member of the Republican Party, the speaker was appointed to the Senate by the state governor in 2013. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "In many ways, the book talks about your journey of how you got to where you got to today. Absolutely. You know? Many people have referred to you as many different things. The unicorn, you know, the lone black senator in the political party. People have referred to you as the outlier. But what's really interesting in the book is you talk about how you got there with family who were also from the other party. Talk me through that experience of, you know, what it was like being in a family where people were voting differently."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. Well, I think the most important part of my story really is the devastation of divorce, being raised by a single mom who worked 16 hours a day, three days a week and eight hours a day, two days a week as a nurse's aide, just changing bedpans and ruling patients. So seeing my mother work her butt off to try to keep food on the table and then moving in with my grandparents, my grandfather born in 1921 in a small rural town, having to get off the sidewalk when white folks were coming."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just the humiliation and the devastation that he experienced and that passed down to my mother and then it impacted me too. Sometimes we forget to tell both sides of the story when we're having conversations. I wanted to make sure that people had a full perspective of my journey to becoming who I am because much of it was built on the shoulders of people who paid a very high price for you and I to have this conversation. And sometimes we forget to say thank you to those who went before us."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Right, right, right. On the shoulders of giants. I mean, you know, it's interesting that you say telling all sides of the story, because you talk about your father very early on in the book. Yes. And what I appreciate is how you talk about the negative impact he had on you, but you appreciate all of the positive as well. You talk about how he comes back from fighting a war for America. Yes. And yet America doesn't want him. People spit at him. He doesn't get treated as a first-class citizen. What impact did that have on you growing up, knowing this?"
+      }
+    ],
+    "speakername": "Tim Scott",
+    "ground_truth": "I learned a lot more about my father's story while I was writing the book. Truly, to tell you the truth, my father was not close for about 30 years. After the divorce, we went the separate ways. And it was in my late 20s, early 30s when I first started getting back with him. Truth is that the more I understood about the pain and the misery and the devastation that happened during the overseas conflict for him, as well as coming back as a black veteran, very, very, very painful experience. And then the altercations that he had with other members of the service just because he was black. And how that painted and stained him and how that caused him to spiral some. And being the recipient of that, you see it differently. As you grow older, you get 20-20 looking backwards. And so my father is now a good man, a solid man that I have much respect for. And having walked that journey together has made me such a better person.",
+    "bio": "A politician and businessman serving as a junior United States Senator since 2013. A member of the conservative party, [target] was appointed to the Senate by the state governor in 2013. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm gonna break news here you ready I'm ready I think the black community is a conservative community so I think I'm just being consistent with who I am let me give you a couple of examples of policy positions that I think the most most people don't understand or appreciate or have ever even heard that while we were in the majority for 2016 to 2020 we invested more money in minority-serving institutions than any other time in history we made the funding for these institutions permanent right for the first time in history we put a billion dollars in the middle of the pandemic specifically targeting these institutions my office we led the charge on sickle cell anemia research and passed legislation to make sure that it would be easier unemployment 2016 to 2020 we had the lowest unemployment in the history of the country for African-Americans Hispanics Asians a 70-year low for women we created seven million jobs two thirds were African-Americans and Hispanics so but my point is that when you think about the policy positions that I have fought for not to even talk about opportunity zones"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the fact is that as a sitting conservative republican i fought for those issues that had the greatest impact in the communities where i come from because it's like common sense"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "But-but here's-but here's the thing that I find interesting. And-and, you are not an outlier in doing this. I-I-I find it interesting, um, to see how American politicians choose to measure time or effect. Because what you said was true, the 2016 to 20... to 2020. There was a man by the name of [masked name] who was president up until 2016. And as you know, in economics, effects can take a while, right? You've heard of the name, right?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "to 2020. Yes."
+      }
+    ],
+    "speakername": "Tim Scott",
+    "ground_truth": "And as you know, in economics, effects can take a while, right? You've heard of the name, right? Right? And so, no...",
+    "bio": "The speaker is an American politician and businessman serving as a junior United States Senator for a southern state since 2013. A member of the Republican Party, the speaker was appointed to the U.S. Senate by the state Governor in 2013. The speaker's MBTI type is ISFJ"
+  }
+]

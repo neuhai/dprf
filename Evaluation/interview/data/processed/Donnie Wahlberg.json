@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, you look nice. Yeah, I look... Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We look good together. We kind of do. We do. Yeah. Hey, let me ask you a question, tough guy. Yes, sir. You're from [city]. I am. Okay. Born and raised. Are people from [city] actually tough, or do they just sound tough?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well-"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you cultivate it?"
+      }
+    ],
+    "speakername": "Donnie Wahlberg",
+    "ground_truth": "It's a delicate thing it's delicate thing to talk about people from [city] on TV unless it's in a completely flattering light But let me try to explain this the best way I can",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well-"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you cultivate it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a delicate thing it's delicate thing to talk about people from my hometown on TV unless it's in a completely flattering light But let me try to explain this the best way I can"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why? What will happen?"
+      }
+    ],
+    "speakername": "Donnie Wahlberg",
+    "ground_truth": "Well, there are some tough people from my hometown. There are some tough ones. I go home and my mother will grab my ear and say, why did you say that about your mother and all your brothers?",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Such a baby. He is a baby. It's like they get away with everything."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He got away with everything then. He gets away with everything now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bane."
+      }
+    ],
+    "speakername": "Donnie Wahlberg",
+    "ground_truth": "Yeah, you guys still doing restaurant chain? Yeah. Yeah Well, we've opened about 15 of them now and we have deals to open gosh I think 200 in the next four or five years",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to a pile of women like that? Two things. A, you're never too old to crowd surf. You should try it one night. It's really fun."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh, I did it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. B, we have the best fans. My fans from my band days, way back in the days, who were 8, 9, and 10, and are now in their 30s and what have you, they've stuck by me and my bandmates forever. And we still tour every year. We played [major arena] and [regional arena], and we travel all over the world and are really more successful, at least spiritually now, than with our fans and our relationship with our fans now than we were all those years ago."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What do you mean spiritually successful? What's spiritual success?"
+      }
+    ],
+    "speakername": "Donnie Wahlberg",
+    "ground_truth": "appreciate it more when you're young and you know you're thrust into the spotlight you're not really prepared for it nobody's prepared for it a kid like [celebrity name] he had no idea what he's getting into you know and you want this thing and you get it and you don't really know how to deal with the pressures especially if you come from a dysfunctional family with nine kids and you know beer drinking dad you know it's it's tricky to handle this stuff so you know you make mistakes and you kind of you can lose your way and everyone you know when you're 20 years old and everyone will turn on a light switch for you you might have to get up but you know book your own plane ticket when we disbanded in 1994 after a really huge successful run I mean I'd never booked a ticket I didn't know how to take a vacation for myself and you know I was on the [financial magazine] list you know and",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh, I did it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. B, we have the best fans. My fans from Nuka's on the Block days, way back in the days, who were 8, 9, and 10, and are now in their 30s and what have you, they've stuck by me and my bandmates forever. And we still tour every year. We played Madison Square Garden a summer ago and Boston Garden, and we travel all over the world and are really more successful, at least spiritually now, than with our fans and our relationship with our fans now than we were all those years ago."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What do you mean spiritually successful? What's spiritual success?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "appreciate it more when you're young and you know you're thrust into the spotlight you're not really prepared for it nobody's prepared for it a kid like Justin Bieber he had no idea what he's getting into you know and you want this thing and you get it and you don't really know how to deal with the pressures especially if you come from a dysfunctional Irish Catholic family with nine kids and you know Schlitz drinking dad you know it's it's tricky to handle this stuff so you know you make mistakes and you kind of you can lose your way and everyone you know when you're 20 years old and everyone will turn on a light switch for you you might have to get up but you know book your own plane ticket when we disbanded in 1994 after a really huge successful run I mean I'd never booked a ticket I didn't know how to take a vacation for myself and you know I was on the Forbes list you know and"
+      }
+    ],
+    "speakername": "Donnie Wahlberg",
+    "ground_truth": "with oprah and madonna and didn't even know how to you know go grocery shopping and i i mean not literally but you know i had to learn how to be a real human being and and i did you",
+    "bio": " The speaker's MBTI type is ESFJ"
+  }
+]

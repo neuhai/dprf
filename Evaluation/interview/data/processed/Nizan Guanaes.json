@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hi, I'm [target], and I'm here to answer your six and a half questions. Advertising is a business. It's the art of selling. The art of sale is enchanting, involving, understanding what makes, what's the bonding between you and me, Matheo, you know, what's going to be the connection, but also what is the main reason that's going to drive you to buy something. People want to make advertising just an art. And when advertising becomes just an art, it loses its artistic appeal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "To where I'm poco, loco, eso, beso"
+      },
+      {
+        "speaker": "[target]",
+        "text": "i'll tell you a trick don't pay attention to what the person is saying pay attention to the way people are saying so you take the voice over you know take the voice over because of course what's the person going to say it's a pleasure to meet you i love you i want to do this deal with you you know oh i'm glad to be here so people are going to say anything every time that i simply i was distracted by words i lost my focus"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I will soar, I will testify to love forevermore."
+      }
+    ],
+    "speakername": "Nizan Guanaes",
+    "ground_truth": "I was the most awarded copywriter when I was a copywriter in the 80s and in the 90s. Then I started, I went to a private equity.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "To where I'm poco, loco, eso, beso"
+      },
+      {
+        "speaker": "[target]",
+        "text": "i'll tell you a trick don't pay attention to what the person is saying pay attention to the way people are saying so you take the voice over you know take the voice over because of course what's the person going to say it's a pleasure to meet you i love you i want to do this deal with you you know oh i'm glad to be here so people are going to say anything every time that i simply i was distracted by words i lost my focus"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I will soar, I will testify to love forevermore."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was the most awarded copywriter when I was a copywriter in the 80s and in the 90s. Then I started, I went to a private equity."
+      }
+    ],
+    "speakername": "Nizan Guanaes",
+    "ground_truth": "1989 and I and I and they invested 1 million dollars in me and in 1997 I sold that first agency to a major company who was at that time one of the most awarded advertising agencies in the world remember that I reinvested 1 million dollars I sold it for a hundred and eleven million dollars in 1997",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I will soar, I will testify to love forevermore."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was the most awarded copywriter when I was a copywriter in the 80s and in the 90s. Then I started, I went to a private equity."
+      },
+      {
+        "speaker": "[target]",
+        "text": "1989 and I and I and they invested 1 million dollars in me and in 1997 I sold that first agency dm9 who was at that time one of the most awarded advertising agencies in the world remember that I reinvested 1 million dollars I sold it for a hundred and eleven million dollars in 1997"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mmm, eso beso, ooh that kiss, eso beso"
+      }
+    ],
+    "speakername": "Nizan Guanaes",
+    "ground_truth": "In my country I am used to the unusual okay I know the things I don't believe in flat things in my country so in that sense it's natural that in an environment like this you know there's a huge space for creativity it's demand of us you know how to give quick solutions to problems that are popping up all the time",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "1989 and I and I and they invested 1 million dollars in me and in 1997 I sold that first agency which was at that time one of the most awarded advertising agencies in the world remember that I reinvested 1 million dollars I sold it for a hundred and eleven million dollars in 1997"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mmm, eso beso, ooh that kiss, eso beso"
+      },
+      {
+        "speaker": "[target]",
+        "text": "in my country I am used to the unusual okay I know the things I don't believe in flat things in my country so in that sense it's natural that in an environment like this you know there's a huge space for creativity it's demand of us you know how to give quick solutions to problems that are popping up all the time"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Seems to say love is here to stay like a samba"
+      }
+    ],
+    "speakername": "Nizan Guanaes",
+    "ground_truth": "Well, you have to think like the person you're selling, okay? So, when I was a copywriter, I was a woman, I was a boy, I was a single mother, you know? You have to live other people's life. You have to have the mind of the person who you're going to sell.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am used to the unusual okay I know the things I don't believe in flat things in my country so in that sense it's natural that in an environment like this you know there's a huge space for creativity it's demand of us you know how to give quick solutions to problems that are popping up all the time"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Seems to say love is here to stay like a dance"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you have to think like the person you're selling, okay? So, when I was a copywriter, I was a woman, I was a boy, I was a single mother, you know? You have to live other people's life. You have to have the mind of the person who you're going to sell."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "My heart begins to pound, and I go off the ground."
+      }
+    ],
+    "speakername": "Nizan Guanaes",
+    "ground_truth": "I think that advertising is going to die and it's going to be well-born in different ways. You know, if you see religious figures, influential philosophers, major tech companies. Every great idea is born in some way in a garage. You know, that ancient town is a garage, right? It's not in the mainstream. Great things are not born in the mainstream. They are going to be born in places where you don't expect. And they will come in the most unexpected ways.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

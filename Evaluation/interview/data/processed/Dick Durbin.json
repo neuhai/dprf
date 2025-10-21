@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The good news is it is a central belief that is bipartisan. Two years ago, he introduced the Smarter Sentencing Act, which made reference to, to give judges in a specific category of cases, drug offenses with no guns, no gangs, no violence, no terrorism, give the judges more authority to have lesser sentences. And I think that makes sense. We want to keep our country safe, but we are not safer because we've filled our prisons to a level that rivals any other nation in the world. This bill that I've introduced is a bipartisan bill co-sponsored by representatives from several states. So it is not a partisan measure. It has become a bipartisan effort. I hope we can get it enacted. What changed?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, I remember in 1992, a political candidate went off the campaign trail to fly back to his state to watch a man who had an IQ of, I think, about 80 be executed. He ran on being tough on crime, 94 crime bill, three strikes and you're out, new categories of offenses. Was that the wrong thing to do back then?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "it was an overreaction. We wanted to end the threat of crime in our neighborhoods for our families and overreacted. And now we know better. Now we're going to be smarter in the way we do this. Yes, bad people will be incarcerated, and they should be. And they shouldn't be released until we're confident that they are going to be safe in terms of their own conduct. But we've overdone it. We have filled our prisons at great expense, at the expense of prevention, at the expense of trying to eliminate poverty, dealing with education. So I think we're trying to right the balance here and overcome the overreaction of years gone by."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me move to the judicial hearings. You were on the Judiciary Committee. You were there for all of it. Is is it problematic to you that it's possible the hearings are going to be known more for the Democratic and Republican senators infighting than any of the questioning of the judicial nominee?"
+      }
+    ],
+    "speakername": "Dick Durbin",
+    "ground_truth": "It's a lesson she learned eight years ago. She was the frontrunner, and along came this senator from the midwest, and ultimately was the winner. I don't think she's going to take anything for granted. The fact that she hired a campaign manager shows that she is determined to put the right kind of leadership in this campaign. The fact that she took the van to a midwest state was a small thing to many people, but a big thing in terms of the symbol of this campaign, that she's getting down to ground level.",
+    "bio": "Born in 1944, [target] is an American attorney and politician serving as a senior United States Senator from a midwest state, a seat he was first elected to in 1996. He has been Senate Democratic Whip since 2005, the second-highest position in the Democratic leadership in the Senate. He is the chair of the Senate Judiciary Committee. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "it was an overreaction. We wanted to end the threat of crime in our neighborhoods for our families and overreacted. And now we know better. Now we're going to be smarter in the way we do this. Yes, bad people will be incarcerated, and they should be. And they shouldn't be released until we're confident that they are going to be safe in terms of their own conduct. But we've overdone it. We have filled our prisons at great expense, at the expense of prevention, at the expense of trying to eliminate poverty, dealing with education. So I think we're trying to right the balance here and overcome the overreaction of years gone by."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me move to the Kavanaugh hearings. You were on the you're on the Judiciary Committee. You were there for all of it. Is is it problematic to you that it's possible the hearings are going to be known more for the Democratic and Republican senators infighting than any of the questioning of Judge Kavanaugh?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a lesson she learned eight years ago. She was the frontrunner, and along came this senator from [state], and ultimately was the winner. I don't think Hillary's going to take anything for granted. The fact that she hired John Podesta to manage her campaign, I think, shows that she is determined to put the right kind of leadership in this campaign. The fact that she took the van to [state] was a small thing to many people, but a big thing in terms of the symbol of this campaign, that she's getting down to ground level."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Senator [target] or on Democratic senators not asking enough questions and not staying focused only on this issue of Roe, for instance?"
+      }
+    ],
+    "speakername": "Dick Durbin",
+    "ground_truth": "Well, I can tell you, we were focused on Roe. We were focused on the Affordable Care Act and denying health insurance coverage to millions of Americans. We tried to go after the fundamental issue, and the one I think is the most important at this moment in history, and that is what this man, Brett Kavanaugh, would do on the Supreme Court if he's confronted with a question involving the [Government Building], the Mueller investigation. You believe that is more important? We cannot ignore that. We shouldn't.",
+    "bio": "The speaker (born November 21, 1944) is an American attorney and politician serving as the senior United States Senator from [state], a seat they were first elected to in 1996. They have been Senate Democratic Whip since 2005, the second-highest position in the Democratic leadership in the U.S. Senate. They are the chair of the Senate Judiciary Committee. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a lesson she learned eight years ago. She was the frontrunner, and along came this senator from [State], and ultimately was the winner. I don't think Hillary's going to take anything for granted. The fact that she hired John Podesta to manage her campaign, I think, shows that she is determined to put the right kind of leadership in this campaign. The fact that she took the van to [State] was a small thing to many people, but a big thing in terms of the symbol of this campaign, that she's getting down to ground level."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Senator [target] or on Democratic senators not asking enough questions and not staying focused only on this issue of Roe, for instance?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I can tell you, we were focused on Roe. We were focused on the Affordable Care Act and denying health insurance coverage to millions of Americans. We tried to go after the fundamental issue, and the one I think is the most important at this moment in history, and that is what this man, Brett Kavanaugh, would do on the Supreme Court if he's confronted with a question involving the [Federal Government], the Mueller investigation. You believe that is more important? We cannot ignore that. We shouldn't."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Senator, that's interesting. You believe that is more important than the Roe issue and the abortion issue?"
+      }
+    ],
+    "speakername": "Dick Durbin",
+    "ground_truth": "Well, I think they're all of importance, but the issue of the moment, clearly, is this situation with the Mueller investigation, and the important element that we shouldn't overlook is that Kavanaugh has been explicit, explicit in saying the president should not be subject to investigation or prosecution during his term in office. He even went further in an amazing statement saying this president could deem things unconstitutional even if the courts found otherwise. I mean, this is an amazing ceding of authority to the executive branch, which you don't expect to hear from someone aspiring to the Supreme Court.",
+    "bio": "Born in [Year], this American attorney and politician serves as the senior United States Senator from [State], a seat first elected to in 1996. Has been Senate Democratic Whip since 2005, the second-highest position in the Democratic leadership in the U.S. Senate. Currently chairs the Senate Judiciary Committee. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The state wouldn't just surprise me, it would shock me. I was back out at a national security agency just last week, spent a couple of hours out there with high-level and low-level agency officials, and what I've been assured of is that there is no capability at the agency for anyone without a court order to listen to any telephone conversation or to monitor any email. In fact, we don't monitor emails. That's what kind of assures me that what the reporting is is not correct, because no emails are monitored now. They used to be, but that stopped two or three years ago. So I feel confident that there may have been some abuse, but if it was, it was pure accidental."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How important was the President's announcement over the weekend about the deal of protections for DREAMers and other areas of border security in regards to the shutdown? How important was his decision to release those things?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think the President's statement was important. It moves us forward to think of an ending, an endgame here. And what he's done is to move the conversation from the government complex, which was going nowhere, to the floor of the Senate, where we're going to face a debate as soon as this Thursday. So in that respect, it was a step forward. But we still have to reach an agreement, and I propose we stay in session until we do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And where do you go from the president's proposal? You talked about it not necessarily being enough to pass in the Senate. Why is it not enough and where do you go?"
+      }
+    ],
+    "speakername": "Dick Durbin",
+    "ground_truth": "I think Democrats feel that there are aspects of it that are not fair and don't include everything necessary. It still has his $5.7 billion, he's not compromised on that at all. This is a matter most of which has to be resolved in a room with people in good faith sitting down and saying, let's get it done.",
+    "bio": "The speaker (born November 21, 1944) is an American attorney and politician serving as the senior United States Senator from a midwestern state, a seat they were first elected to in 1996. They have been Senate Democratic Whip since 2005, the second-highest position in the Democratic leadership in the Senate. They are the chair of the Senate Judiciary Committee. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think the President's statement was important. It moves us forward to think of an ending, an endgame here. And what he's done is to move the conversation from the conference room in the government building, which was going nowhere, to the floor of the legislative chamber, where we're going to face a debate as soon as this Thursday. So in that respect, it was a step forward. But we still have to reach an agreement, and I propose we stay in session until we do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And where do you go from the president's proposal? You talked about it not necessarily being enough to pass in the legislative chamber. Why is it not enough and where do you go?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think Democrats feel that there are aspects of it that are not fair and don't include everything necessary. It still has his $5.7 billion, he's not compromised on that at all. This is a matter most of which has to be resolved in a room with people in good faith sitting down and saying, let's get it done."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Why is $5.7 billion not enough? I mean, there's a lot of people in this area, especially, that believe that there could be more money spent at the border wall. What do you tell them?"
+      }
+    ],
+    "speakername": "Dick Durbin",
+    "ground_truth": "If you take a look at the history of this, we've never been able to spend that kind of money in one year. It can't be. To say we're going to build 230, 240 miles of these fences and barriers, it's never been done before. And it takes time to do it and do it right, to have access and purchase the real estate where it's going to be located, competitive bidding for people who are going to construct it. All these things follow the law so that taxpayers at the end of the day don't end up with something that's substandard or doesn't do the job for our country.",
+    "bio": "The speaker (born November 21, 1944) is an American attorney and politician serving as the senior United States Senator from a midwestern state, a seat they were first elected to in 1996. They have been Senate Democratic Whip since 2005, the second-highest position in the Democratic leadership in the legislative chamber. They are the chair of the Senate Judiciary Committee. The speaker's MBTI type is ESTJ"
+  }
+]

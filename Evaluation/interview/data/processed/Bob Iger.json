@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "News media reported to me in one form or another for probably 35 years, 30-some-odd years. And my advice to them was to not hear the noise as much, to continue doing the job that we've entrusted them to do, which is to tell the truth, to state the facts, to present the news in an accurate and a fair and in a timely basis. But we never sought to drive ratings or even bottom-line success at the sacrifice of what we consider to be quality. It just wasn't part of our discussion."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "what they will tell you and maybe they didn't say it you know in in those meetings is the producer of the piece will be cognizant of the minute-to-minute ratings the executive producer of the show will be cognizant of those and the decisions that they make were almost entirely built on what they thought might have rated i mean it's been a little"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm asking whether there have been incidents when news organizations fail to carry things because they don't think they'll be of interest to their audience. I'm sure that's the case. No, I'm not saying incidents. I'm saying that's been shaping it. You think it's a regular thing. And not told in the right way. You should know about it not being... See, that's... I would argue that there are stories that are not told because there's a belief that people aren't interested in them. I don't think there are stories that are told that are told inaccurately just to make them more interesting to people. It's not inaccurate. I'm defending an organization as opposed to news in general. Right. I just don't have a..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But trust in news during the broadcast pioneer era was... It was one of the most valued institutions. Today, it's somewhere between the legislature and herpes, you know, in terms of its Q rating."
+      }
+    ],
+    "speakername": "Bob Iger",
+    "ground_truth": "What happened? It starts with technology enabling an explosion of programming, which includes news and information. And with that, I believe, has come a dilution in quality. The more volume, typically, as it grows and grows and grows and explodes, results in, in my opinion, a loss of quality. And then you look at what is presented as news on social media, and you can immediately conclude that a lot of what is presented, that people think is news, is not news as certainly we knew it when we were growing up and what we were taught news should be. So I think what people believe is news is really opinion. And opinion is very different than that. Opinion is a bias.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm asking whether there have been incidents when news organizations fail to carry things because they don't think they'll be of interest to their audience. I'm sure that's the case. No, I'm not saying incidents. I'm saying that's been shaping it. You think it's a regular thing. And not told in the right way. You should know about it not being... See, that's... I would argue that there are stories that are not told because there's a belief that people aren't interested in them. I don't think there are stories that are told that are told inaccurately just to make them more interesting to people. It's not inaccurate. I'm defending an organization as opposed to news in general. Right. I just don't have a..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But trust in news during the Cronkite era was... It was one of the most valued institutions. Today, it's somewhere between legislative body and herpes, you know, in terms of its Q rating."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What happened? It starts with technology enabling an explosion of programming, which includes news and information. And with that, I believe, has come a dilution in quality. The more volume, typically, as it grows and grows and grows and explodes, results in, in my opinion, a loss of quality. And then you look at what is presented as news on social media, and you can immediately conclude that a lot of what is presented, that people think is news, is not news as certainly we knew it when we were growing up and what we were taught news should be. So I think what people believe is news is really opinion. And opinion is very different than that. Opinion is a bias."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "but you're in a business where the first word you say, the first thing you say at the top of every broadcast is, our top story tonight. That's opinion. It's subjective. There's this strange disconnect between the high-mindedness of what they say they do, democracy dies in darkness, versus the reality of how they produce it. Breaking news, tonight, everyone will die. Watch us. Because their business model is based on engagement."
+      }
+    ],
+    "speakername": "Bob Iger",
+    "ground_truth": "It is an editorial decision to decide what story to tell first. But you're suggesting that that in itself is an example of a lessening of quality or about... It's a...",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you're suggesting it had been covered on a regular basis, then we wouldn't have been surprised by the speed at which the Taliban took over the country as we drew down our forces? I'm saying if it had been..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "covered more right maybe we wouldn't even have been there that long what i'm saying is that we are not well informed that the news media goes all or nothing on everything that they're like eight-year-olds playing soccer and if you've ever seen them everybody photograph everybody running to the everybody run to the ball and"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and that there's no perspective because... So I could argue there are some stories that have not been covered enough, maybe because there's a belief that the audience isn't interested in them, maybe because even news organizations get tired of presenting them on a regular basis. Well, I don't know incidents of that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You don't think that the outraged nature of the coverage was a bit overhyped?"
+      }
+    ],
+    "speakername": "Bob Iger",
+    "ground_truth": "The only thing I could argue is maybe if it had been covered more, America would have been more outraged earlier about the fact that we were there. That's my point. Then maybe the pullout would have happened earlier. I don't know. I lived through the southeast Asian conflict era. Let's just say, we'll conclude war is hell, right? Therefore, if...",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You don't think that the outraged nature of the coverage was a bit overhyped?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The only thing I could argue is maybe if it had been covered more, people would have been more outraged earlier about the fact that we were there. That's my point. Then maybe the pullout would have happened earlier. I don't know. I live through the conflict era. Let's just say, we'll conclude war is hell, right? Therefore, if..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "News organizations cover the hell. Maybe we won't have wars."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When news narrows their focus of coverage, people get a skewed picture of what a reality is. For instance, yeah."
+      }
+    ],
+    "speakername": "Bob Iger",
+    "ground_truth": "I think you're being a little too critical, in my opinion, of news overall. That's not to say that news organizations don't hype big stories, because many of them do, and sometimes overhype, sometimes to a fault. When do they not?",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you thought that"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "He didn't."
+      },
+      {
+        "speaker": "[target]",
+        "text": "we'd have to go back to the biggest story of our time i uh kovid christ kovid was that overhyped 900 000 people in the united states have died from it doesn't feel overhyped to me"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "No, I'll give you an example with COVID that I think is apropos. Mask wearing. The political conflict over whether or not to wear masks. And the overwhelming majority of conversation is speculation about what that means to freedom and this person's anger about it. And so little of it is, what does it do? Why did surgeons wear them?"
+      }
+    ],
+    "speakername": "Bob Iger",
+    "ground_truth": "Well, I think that part of the story was told. Part of the story that was told already is that people should wear masks because from a scientific perspective, there's a real reason to do so. Right. And I don't know, does the audience need to be reminded again and again and again of that?",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

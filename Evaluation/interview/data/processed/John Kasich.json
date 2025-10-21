@@ -1,0 +1,119 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've seen him all over national news. He's a popular former state congressman, now running for governor. Republican [target] made the official announcement from his home in [location] yesterday. He joins us now live only on [station] with his plan for the state. Mr. [target], thanks so much for coming. Glad to be here. My goodness, where do we begin? Education? Economy? Jobs? Where do we tackle first? Jobs."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, we just heard today that [company] is going to leave [city] after 125 years. They're moving to [state]. The problem is young people are leaving, entrepreneurs are leaving, and jobs are not coming. Why? Because we don't have an atmosphere that's entrepreneurial and job-creating. Too high of taxes, too much regulation, and frankly, we've got too much government. And this government, under Republicans and Democrats, is bloated out of control. And it's been created because a lot of special interests, lobbyists have influenced things, and we have not skinnied down the government, cut taxes, and created an environment for the 21st century jobs. And we never thought ahead. You say we're still in the past. How do we get to the future? Well, I think we've got to have a 21st century government. We've got to treat the government like families treat their own household incomes, and then at the same time, it'll leave space to kill a death tax. The death tax, you know, all these people who are successful, they're all moving to [state]. They don't have a death tax, so we've got to get rid of that. So the entrepreneur... The job creators stay, and over time, if we skinny the government down, we can phase out the income tax. It's been sucking the vitality out of this state. Can't be done in a day. It's a phase-in, but it's a start to get us in a position where the new knowledge jobs will come to our..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "state you said you like [opponent] you think he's a nice guy but you've been very critical of him recently and quote including a quote last night let's take a listen to what you said last night during your campaign meeting"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The things my parents told me and taught me was personal responsibility."
+      }
+    ],
+    "speakername": "John Kasich",
+    "ground_truth": "And I've had it with [opponent] blaming everybody and refusing to accept personal responsibility for doing nothing in this state.",
+    "bio": "[target] (born May 13, 1952) is an American politician, author and former television news host serving as the governor of a midwest state. Elected governor in 2010 and re-elected in 2014, [target] is a Republican. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "state you said you like [other person] you think he's a nice guy but you've been very critical of him recently and quote including a quote last night let's take a listen to what you said last night during your campaign meeting"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The things my parents told me and taught me was personal responsibility."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I've had it with [other person] blaming everybody and refusing to accept personal responsibility for doing nothing in this state."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Alright, what's the problem here? What's he not taking personal"
+      }
+    ],
+    "speakername": "John Kasich",
+    "ground_truth": "responsibility for it? Well, first of all, he blames this economy on [former president]. He blames it on me. I have a two-man office in [state capital], and he blames it on [financial company] and said I bankrupted it. He's going to end up blaming you before it's over. I mean, the simple fact of the matter is this is almost like a third [other person] term. He's done nothing to get us out of this situation. And [interviewer], every day there's an announcement of another company, another group of people who are leaving this state. If we don't create excitement in this state, and that means low taxes, less regulation, a well-educated workforce. [interviewer], I'm telling you, the companies look at the bottom line. The bottom line here in [state] says don't come here, and if you're here, you better leave. We have to turn.",
+    "bio": "A politician, author and former television news host serving as the governor of a midwestern state. Elected governor in 2010 and re-elected in 2014, the speaker is affiliated with a major political party. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I've had it with Ted blaming everybody and refusing to accept personal responsibility for doing nothing in this state."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Alright, what's the problem here? What's he not taking personal"
+      },
+      {
+        "speaker": "[target]",
+        "text": "responsibility for it? Well, first of all, he blames this economy on George Bush. He blames it on me. I have a two-man office in [state capital], and he blames it on [investment firm] and said I bankrupted it. He's going to end up blaming you before it's over. I mean, the simple fact of the matter is this is almost like a third Bob Taft term. He's done nothing to get us out of this situation. And Gabe, every day there's an announcement of another company, another group of people who are leaving this state. If we don't create excitement in this state, and that means low taxes, less regulation, a well-educated workforce. Gabe, I'm telling you, the companies look at the bottom line. The bottom line here in [state] says don't come here, and if you're here, you better leave. We have to turn."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "around and we can't i got you here speaking of the [investment firm] think this is going to come up during your campaign you know it as well as i do you were on the board they're directing manager for no no there were 700 of us 700"
+      }
+    ],
+    "speakername": "John Kasich",
+    "ground_truth": "Yeah, there's 700 managing directors. I had a two-man office in [state capital], and it's so patently absurd to say. That's like blaming a car dealer in [city] for the collapse of [auto company]. It's just silly. But they're grasping at straws. You know why? I think they're worried that they're going to lose this election. And, look, what we have to judge this on is one simple thing. Is [state] better, more prosperous, more successful since this guy's been in, or do we need a change? I'm going to say Ted doesn't have it right. We do need a change, Gabe, but it's going to require not listening to the lobbyists, putting politics on the back burner, just like I did and fought for when we balanced the budget in this country in the 90s and had real prosperity.",
+    "bio": "The speaker was born May 13, 1952 and is an American politician, author and former television news host serving as the 69th and current Governor of [state]. Elected governor in 2010 and re-elected in 2014, the speaker is a Republican. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "responsibility for it? Well, first of all, he blames this economy on previous administration. He blames it on me. I have a two-man office in [city], [state], and he blames it on [financial firm] and said I bankrupted it. He's going to end up blaming you before it's over. I mean, the simple fact of the matter is this is almost like a third term. He's done nothing to get us out of this situation. And Gabe, every day there's an announcement of another company, another group of people who are leaving this state. If we don't create excitement in this state, and that means low taxes, less regulation, a well-educated workforce. Gabe, I'm telling you, the companies look at the bottom line. The bottom line here in [state] says don't come here, and if you're here, you better leave. We have to turn."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "around and we can't i got you here speaking of the [financial firm] think this is going to come up during your campaign you know it as well as i do you were on the board they're directing manager for no no there were 700 of us 700"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, there's 700 managing directors. I had a two-man office in [city], [state], and it's so patently absurd to say. That's like blaming a car dealer in [city] for the collapse of [company]. It's just silly. But they're grasping at straws. You know why? I think they're worried that they're going to lose this election. And, look, what we have to judge this on is one simple thing. Is [state] better, more prosperous, more successful since this guy's been in, or do we need a change? I'm going to say Ted doesn't have it right. We do need a change, Gabe, but it's going to require not listening to the lobbyists, putting politics on the back burner, just like I did and fought for when we balanced the budget in this country in the 90s and had real prosperity."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I could talk to you for a half hour, if not more. We've got to run. Why don't we just stay? We can go 20 more minutes. Real quickly here. [university] graduate, in every campaign you've run, you've beat the street. You've gone door to door. Are you going to do it for this campaign as well?"
+      }
+    ],
+    "speakername": "John Kasich",
+    "ground_truth": "Listen, nobody's going to outwork me in this thing. I'm committed to it. It's a mission now to make [state] like it was when I came here to go to college. Great and one of the best places in the country. It cannot be done with mottos. It's going to be done with hard work and ingenuity and creativity. We can get it done.",
+    "bio": "The target (born May 13, 1952) is an American politician, author and former television news host serving as the governor of a midwestern state. Elected governor in 2010 and re-elected in 2014, the target is a member of a major political party. The speaker's MBTI type is ESFJ",
+    "credentials": []
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Please welcome State Governor [target]. Welcome to the show. Before we get into the interview, uh, there are a lot of people who know you from the campaign trail and from the state, but, uh, I think a lot of people want questions answered, and especially about this."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The sauce is just really good. I love sewer. I'm going to have a little strudel. I just eat this like this. How about a little cheese on the top of this? Great. Mama mia."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], were you using the presidency as a ruse to get free food?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, my wife said that if you ever eat again in front of a camera, you're not sleeping at home. My wife is beautiful, so I gave up eating altogether. Oh, that's nice. But you know what? It was..."
+      }
+    ],
+    "speakername": "John Kasich",
+    "ground_truth": "Coming here, is the food not the best in this city? I mean, it's just fantastic, you know. Lassie Blade. Lassie Blade. And, uh, you know, it was a great time. By the way, you know, I won the downtown district, so, uh, I'm kind of the president of the district. Uh, I don't really know how I did in the business tower, but I think I did pretty well.",
+    "bio": "[target] (born May 13, 1952) is an American politician, author and former television news host serving as the 69th and current Governor of a midwest state. Elected governor in 2010 and re-elected in 2014, [target] is a Republican. The speaker's MBTI type is ESFJ",
+    "type": "Statement"
+  }
+]

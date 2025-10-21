@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "finished"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You know, Bar Rescue is tough, man. But what people don't know is, and this is what's interesting, when I'm done, two things happens. You know, I get the proverbial check and I get a hug."
+      },
+      {
+        "speaker": "[target]",
+        "text": "These days, the hug almost means more than the check."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Because you got so many checks. Yeah, no problem."
+      }
+    ],
+    "speakername": "Jon Taffer",
+    "ground_truth": "But, you know, I get these e-mails every month of people that say, you know, I watched a show in [city], [state], man, and it made a difference for me. It made itâso it's, like, really inspiring. And it's amazing how thisâ",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "These days, the hug almost means more than the check."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Because you got so many checks. Yeah, no problem."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But, you know, I get these e-mails every month of people that say, you know, I watched a show in [location], man, and it made a difference for me. It made itâso it's, like, really inspiring. And it's amazing how thisâ"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "BS reality platform because we've installed cameras two days before I get there. You just got used to them, right? So, I mean if I walked into your world and spoken spoke to you that way you see get the fuck out of here, right? But they allow me to do this because of the fake platform But yet on this fake platform it becomes so freakin real Yeah, which is incredible. The reality is deeper because the platform Created it. Yeah"
+      }
+    ],
+    "speakername": "Jon Taffer",
+    "ground_truth": "They also know they're getting something out of it, too. They know that despite all the getting yelled at, you're going to give them something legit, which is you're going to fix a business that probably needs a lot of work.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But, you know, I get these e-mails every month of people that say, you know, I watched a show in [location], man, and it made a difference for me. It made itâso it's, like, really inspiring. And it's amazing how thisâ"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "BS reality platform because we've installed cameras two days before I get there. You just got used to them, right? So, I mean if I walked into your world and spoken spoke to you that way you see get the fuck out of here, right? But they allow me to do this because of the fake platform But yet on this fake platform it becomes so freakin real Yeah, which is incredible. The reality is deeper because the platform Created it. Yeah"
+      },
+      {
+        "speaker": "[target]",
+        "text": "They also know they're getting something out of it, too. They know that despite all the getting yelled at, you're going to give them something legit, which is you're going to fix a business that probably needs a lot of work."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah, honestly, yes. They think that, okay, so he's going to come, he's going to scream and yell at me, I'll deal with it, and I'll get a remodel out of the deal. What they don't realize is it's fucking real to me. Yeah. So I'm going to, you know, get in there and expose your freaking demons, because, you know, if you have a failing business, you're the failure, man. You get it."
+      }
+    ],
+    "speakername": "Jon Taffer",
+    "ground_truth": "And you can see it in their eyes when like [target] has figured something out or is saying something that they didn't think would be on TV or they didn't think that he was going to talk about like they're like, oh, and that's the moment where it gets like it stops being this TV show where they get to have new couches in their bar where it's like, oh, my God, this is this.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it isn't just a plane, it's a crew. So we have a hangar in [location], our own private hangar. We have our own private crew, and we have a flight department. So we have a mechanic on staff, a pilot on staff, and an SIC second-in-command on staff. So it's the same pilot every time? Yeah, they work for me. They're on the payroll, so they're exclusive to us. So I could call last night. I called, and I was in the air three hours later. Have you had a moment yet where you're like..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "so it's the same pilot every time yeah they work for me they're on the payroll so they're they're they're exclusive to us so i could call last night i called and i was in the air three hours later have you had a moment yet where you're like"
+      },
+      {
+        "speaker": "[target]",
+        "text": "i can't believe this is my life sure when when i bought the thing which was about a year and a half ago i remember"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "bought"
+      }
+    ],
+    "speakername": "Jon Taffer",
+    "ground_truth": "it you told me about it of course i did holy shit i told fucking everybody yeah it's one of those kind of things that's what you do when you buy a plane that's part of paying for itself yeah but it's it's a part of life that you never thought you'd ever achieve that so you know you go there at night so i would buy the thing the first week i'd drive a hanger at night yeah i'd open up the door i'd do it yep and i just sit in a freaking plane and just you know revel in the moment and say holy shit you know i can't believe that i've actually accomplished now is there anything to prevent you from living in your plane you know it's funny i almost want to turn it into an rv yeah that's what i'm saying like",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I think that's something you want to always keep available in your back pocket, particularly for you, Dan. Yes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you have a plan, hypothetically? All the shit hits the fan. Some weird stuff happens you're not involved in, but you are implicated in. What country are you flying to? I've never really looked at it that way before. I would absolutely have a go bag and a flight plan. Yeah, some country. Like [country], right?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's funny."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I've never really looked at it that way before. Yeah. I would die."
+      }
+    ],
+    "speakername": "Jon Taffer",
+    "ground_truth": "You've got to have some flight plan. Yeah. Some country. Like [country], right? Maybe [country]. Yeah. [country], that's a good one. That's good. It's cool. Yep. It's a nice view on the way. Yep. No extradition. I like that. I like that a lot. That's nice.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

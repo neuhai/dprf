@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to suddenly you're a studio. Now, I mean, that is the strangest trip. And it's in a relative short period of time. Does it feel strange to you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh very much so you know I had a dinner with you know some of our team recently we were just remarking of you know can this really be happening I mean we spent so many years mailing DVDs in the US that was our first business to now you know being able to work with this incredible talent and it's just been so exciting"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What I find interesting about you, the way you conduct your business, is that when stuff doesn't work out, you apologize. You go out and say, I made a mistake and all that. What is that the first time you had to go out there and say, sorry, this was wrong? And I remember the increase, the rate increase, right? And then you were like, well, forget about it. Like, what was that experience like for you as a boss when you're like, I have to go and own this?"
+      }
+    ],
+    "speakername": "Reed Hastings",
+    "ground_truth": "Going through marriage counseling 20 years ago was really how I moved to become a better manager and leader. Really? And yeah, you know, this marriage counselor was able to get me to see that I was often lying to myself and to my wife. You know, saying, oh, family's the most important thing, and I'd stay at work all night. And that the value of honesty is that people can take honesty, even if it's not necessarily what they want to hear, if it's really sincere.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh very much so you know I had a dinner with you know some of our team recently we were just remarking of you know can this really be happening I mean we spent so many years mailing DVDs in the US that was our first business to now you know being able to work with this incredible talent and it's just been so exciting"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What I find interesting about you, the way you conduct your business, is that when stuff doesn't work out, you apologize. You go out and say, I made a mistake and all that. What is that the first time you had to go out there and say, sorry, this was wrong? And I remember the increase, the rate increase, right? And then you were like, well, forget about it. Like, what was that experience like for you as a boss when you're like, I have to go and own this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Going through marriage counseling 20 years ago was really how I moved to become a better manager and leader. Really? And yeah, you know, this marriage counselor was able to get me to see that I was often lying to myself and to my wife. You know, saying, oh, family's the most important thing, and I'd stay at work all night. And that the value of honesty is that people can take honesty, even if it's not necessarily what they want to hear, if it's really sincere."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When it occurred to you that or did it occur to you directly that we need to start making our own programming? How'd that happen?"
+      }
+    ],
+    "speakername": "Reed Hastings",
+    "ground_truth": "I have to say that's my colleague, [executive name], who really drove that. You know, he's been in the content business his whole life, and he's like, look at [network name], we got to do this, we can do it better. And I'm like, you know, we mail DVDs, [executive name]. You know, what do we know? And he was like, well, you don't know anything, but I know some stuff about this. And I was like, okay, let's try it. And he picked [show name] as his first thing. I was like, 100 million bucks is a gigantic first thing. It is. It has been very scary. But, you know, [director name] and [actor names], I mean...",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Can you go wrong?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it would be hard to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Here's the thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're right in theory can you go wrong? No, but in practice many people have gone wrong Because it's just that hard to do and it's almost that magical to get it right So when that that that process started for you, what did you feel like when you were like, okay? Well, here's what we're good"
+      }
+    ],
+    "speakername": "Reed Hastings",
+    "ground_truth": "You know, as it came together, I think I'm a natural optimist, perhaps foolishly so sometimes. So I was never panicked about it. It was like I was hearing, OK, the scripts are coming together. It's amazing. And then as the filming started, our executive would say, oh, my God, this I mean, maybe I'm too close to it, but I think it's gonna be really good. And then I remember when I saw the first couple episodes and, you know, I don't want to spoil it for anyone, but like that opening scene with the dog, I'm like, whoa, this is not normal television. That's wild, right? Yeah. But if we don't if we're not creative enough and we don't push it hard enough, you know, we've got to have some failures. And so we don't really want to have all hits. I'm glad the first ones are hits. But, you know, the sign that you're right at the edge of chaos, the edge of creativity is that some stuff doesn't work. Now, why do you want to be there?",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, it would be hard to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Here's the thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're right in theory can you go wrong? No, but in practice many people have gone wrong Because it's just that hard to do and it's almost that magical to get it right So when that that that process started for you, what did you feel like when you were like, okay? Well, here's what we're good"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, as it came together, I think I'm a natural optimist, perhaps foolishly so sometimes. So I was never panicked about it. It was like I was hearing, OK, the scripts are coming together. It's amazing. And then as the filming started, Ted would say, oh, my God, this I mean, maybe I'm too close to it, but I think it's gonna be really good. And then I remember when I saw the first couple episodes and, you know, I don't want to spoil it for anyone, but like that opening scene with the dog, I'm like, whoa, this is not normal television. That's wild, right? Yeah. But if we don't if we're not creative enough and we don't push it hard enough, you know, we've got to have some failures. And so we don't really want to have all hits. I'm glad the first ones are hits. But, you know, the sign that you're right at the edge of chaos, the edge of creativity is that some stuff doesn't work. Now, why do you want to be there?"
+      }
+    ],
+    "speakername": "Reed Hastings",
+    "ground_truth": "Because networks don't want to be there. Life's short. I mean, you know, why are we doing this? We're like, we want to have a difference, you know? And so it's innate. It's wanting to push the edge, to create something that people are proud of and that they enjoy.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're right in theory can you go wrong? No, but in practice many people have gone wrong Because it's just that hard to do and it's almost that magical to get it right So when that that that process started for you, what did you feel like when you were like, okay? Well, here's what we're good"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, as it came together, I think I'm a natural optimist, perhaps foolishly so sometimes. So I was never panicked about it. It was like I was hearing, OK, the scripts are coming together. It's amazing. And then as the filming started, Ted would say, oh, my God, this I mean, maybe I'm too close to it, but I think it's gonna be really good. And then I remember when I saw the first couple episodes and, you know, I don't want to spoil it for anyone, but like that opening scene with the dog, I'm like, whoa, this is not normal television. That's wild, right? Yeah. But if we don't if we're not creative enough and we don't push it hard enough, you know, we've got to have some failures. And so we don't really want to have all hits. I'm glad the first ones are hits. But, you know, the sign that you're right at the edge of chaos, the edge of creativity is that some stuff doesn't work. Now, why do you want to be there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because networks don't want to be there. Life's short. I mean, you know, why are we doing this? We're like, we want to have a difference, you know? And so it's innate. It's wanting to push the edge, to create something that people are proud of and that they enjoy."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "One of the challenges that I have with anything, not just streaming service, I have it with anybody who makes me sign a user agreement without, I recognize I don't read them all, is we all wonder what happens with the data. And everybody thinks it's about data mining. So you guys have all this information. A major tech company has this information. Another major tech company probably has all of the information. A certain social media CEO probably falls asleep on the binary code and laughs at us. What are you doing with their data?"
+      }
+    ],
+    "speakername": "Reed Hastings",
+    "ground_truth": "In our case, because we don't sell any advertising, we don't have ads in the website, and we don't have ads in the movies and TV shows, it's very simple because we don't use the data. But we know what you're watching. We know what you're rewinding, we know what you replay, what scenes you like, but. Totally doesn't sound friendly when you say it like that. I know, but then those other six anonymous viewers that are just like you will say, hey, I think you'll like this scene.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

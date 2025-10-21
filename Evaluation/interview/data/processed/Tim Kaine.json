@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I love seeing a finish line, and I like the energy that I see. So I've been doing basically a state a day for the last nine days of the campaign, all states that are battleground states, some that are real checkmate states like Florida. I really like the energy we're seeing, especially around early vote. The early vote gives you a really good indication of what's going on, and we really like what we see, but it's going to be close. Americans really want to know which president is going to create a better economy for them, which president has the judgment and the preparation to keep America safe in a challenging world. And especially, and this is the thing that's so energizing to this crowd and others, do you want a president that's going to try to unify people, or do you want a president that's made it cool to insult and demean people? That example, set from the Oval Office, we're either going to be stronger together and unify people, or it's okay to name-call people. That will pervade the rest of society, and I think that has really energized our voters, and that's what they are wanting to talk about."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Sarasota is one of the wealthiest communities in the country but also a lot of people are having a hard time paying their bills who live and work here. Some people say to us, even the wealthiest people here, we don't want to spend more, we don't want to pay more in taxes. What would you say to them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I would say if you make less than $250,000 a year, you won't. We are going to not increase on our side, our plan, no tax increases for those who make less than $250,000 a year. And many who do make less will get tax benefits because we're doing things like child care tax credit and other incentives that would lower your taxes. Donald Trump has a tax plan that gives tax breaks at the very top, but independent groups have said that as many as 8 million middle-class families will see their taxes go up under Donald Trump. People at the very top will get a tax break, but middle-class families will see their taxes go up. So that's a fundamental choice. We think those who are very, very wealthy and those companies that have done very well by paying a little bit more and then putting that money into education and infrastructure will improve the economy for everybody, including those at the top. But we're not going to raise taxes on the middle class like Donald Trump would."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And finally, what do you say to those people who call in right into our show and who don't believe Hillary is trustable? And, you know, that is basically what motivates them to vote for Donald Trump."
+      }
+    ],
+    "speakername": "Tim Kaine",
+    "ground_truth": "Well, look, people are going to vote for Donald Trump. We're a closely divided nation, so he's going to get some votes. But what I'm struck by in Virginia, the number of Republicans and independents that are coming out and saying we're voting for Hillary. In Virginia, the most iconic political figure was our senator of 30 years, John Warner, lifelong Republican, endorsed Hillary in the most glowing terms because he said, look, I was chairman of the Armed Services Committee. She was one of my committee members. She is prepared to deal with these very tough issues. Florida and Virginia, both are states that have deep respect for the military. I want somebody who has worked on military issues, not somebody who says the military is a disaster, which Donald Trump says, who attacks John McCain, says he can't be a hero because he was a POW, attacks a gold star family. People who care deeply about the military look at Donald Trump and they say this guy is very, very dangerous and he doesn't respect our traditions. Whereas Hillary Clinton, who is not only an Armed Services Committee member but also Secretary of State, understands that diplomacy has an importance. I think they feel it's a safer bet. So, yeah, there's going to be voters we won't get. But what I'm struck by, the number of independents, Republican-leaning independents and Republicans, who look at Donald Trump and Hillary Clinton and say Hillary Clinton is the person who should be president.",
+    "bio": "Timothy Michael Kaine (born February 26, 1958) is an American attorney and politician serving as the junior United States Senator from Virginia since 2013. He previously was the state's 38th Lieutenant Governor from 2002 to 2006 and 70th Governor from 2006 to 2010. A Democrat, Kaine was the nominee of his party for Vice President of the United States in the 2016 election. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "parallels. And look, the parallels are parallels of division. You know, it is, we ought to not be using hostile rhetoric when we talk about each other. I remember Lincoln in his first inaugural address said, we are not enemies, but friends. We must not be enemies. Though passion may have strained, surely it cannot break the bonds of our affection. We often hear in the political class, the really hot, angry rhetoric. I think it's a time for solid political leaders who can be calming and who can try to remind people that, hey, in America, we're not enemies."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Both [senior officials] together tried that tact, and it didn't work. Why didn't it work?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know. [Senior official] is not, you know, from the [foreign country], so they need to hear from their leaders. And I think the decision to go ahead, hey, let's have the referendum, it unleashed this torrent of negativity. And are there reasons for people to be upset and angry? Sure. At [capital city], at the economy, there's all kinds of challenges we have. But leaders got to speak to the best in people, and especially in our country. Let's talk about here. We got to have people who know how to bring us together. You know I'm a strong supporter of [senior official], and that's one of the many reasons that I'm a supporter of her. You know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "like the economic anxiety here, xenophobia, immigration has been used to sort of essentially explain why they should be upset. Well, this was a billboard in the [foreign country] on behalf of the leave folks. And it was all, it was pictures of [foreign] migrants flooding into Europe. Of course, none of these folks were flooding into the [foreign country]. Is there a pretty straight line between the president's indecision on [foreign country], the world's decision not to essentially try to do something more in [foreign country] at that time, leading to the [foreign] migrant crisis, which now is leading to the crack up of Europe."
+      }
+    ],
+    "speakername": "Tim Kaine",
+    "ground_truth": "Well, I don't know that there's a straight line. I think it's a factor. I think there's a lot of factors. Some of the challenges in the Eurozone and the question of which countries needed to be participating to help other countries, [foreign country] not in the Eurozone, but they were very much close to that. So there's a lot of issues that we got to pay attention to. You've been critical of the president on [foreign country], specifically on [foreign country]. Are you still a critic? I'm a strong supporter of the president across the board, but there are some things where we disagree. I don't think we should be at war without a vote of Congress. And in beginning in February of 2014, I started to call for the notion that we should do a humanitarian safe zone in northern [foreign country], where [foreign] refugees who don't want to leave their country could go there. And that's something that I think had we done that, I think that you wouldn't have seen the outflow of refugees we've seen. The president did do something really good in [foreign country], which was lead to the destruction of one of the largest chemical weapons stockpiles in the world. And that's an important thing. But this refugee crisis is significant.",
+    "bio": "The speaker (born February 26, 1958) is an American attorney and politician serving as the junior United States Senator from [state] since 2013. They previously were the state's 38th Lieutenant Governor from 2002 to 2006 and 70th Governor from 2006 to 2010. A member of their party, they were the nominee for Vice President of the United States in the 2016 election. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't know. President Obama is not, you know, from overseas, so they need to hear from their leaders. And I think the decision to go ahead, hey, let's have the referendum, it unleashed this torrent of negativity. And are there reasons for people to be upset and angry? Sure. At the capital, at the economy, there's all kinds of challenges we have. But leaders got to speak to the best in people, and especially in our country. Let's talk about here. We got to have people who know how to bring us together. You know I'm a strong supporter of Secretary Clinton, and that's one of the many reasons that I'm a supporter of her. You know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "like the economic anxiety here, xenophobia, immigration has been used to sort of essentially explain why they should be upset. Well, this was a billboard overseas on behalf of the leave folks. And it was all, it was pictures of Syrian migrants flooding into Europe. Of course, none of these folks were flooding into that region. Is there a pretty straight line between the president's indecision on Syria, the world's decision not to essentially try to do something more in Syria at that time, leading to the Syrian migrant crisis, which now is leading to the crack up of Europe."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't know that there's a straight line. I think it's a factor. I think there's a lot of factors. Some of the challenges in the Eurozone and the question of which countries needed to be participating to help other countries, not being in the Eurozone, but they were very much close to that. So there's a lot of issues that we got to pay attention to. You've been critical of the president on Syria, specifically on Syria. Are you still a critic? I'm a strong supporter of the president across the board, but there are some things where we disagree. I don't think we should be at war without a vote of Congress. And in beginning in February of 2014, I started to call for the notion that we should do a humanitarian safe zone in northern Syria, where Syrian refugees who don't want to leave their country could go there. And that's something that I think had we done that, I think that you wouldn't have seen the outflow of refugees we've seen. The president did do something really good in Syria, which was lead to the destruction of one of the largest chemical weapons stockpiles in the world. And that's an important thing. But this refugee crisis is significant."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, it's interesting. You seem to criticize the president on this, saying that because he lacks an ideological sort of organizing principle when it comes to foreign policy, that it's made him less reactive. You know, yes, he wants to not be as reactive, but it's actually frozen him a little bit. Explain that."
+      }
+    ],
+    "speakername": "Tim Kaine",
+    "ground_truth": "Yeah, first, but I'm a strong supporter of the president's foreign policy for the main reason he's reinvigorated diplomacy in this country. We didn't have a diplomatic muscle in the previous administration, and this president has brought America back in diplomacy, which is where we need to be strong. But, you know, the president once said famously, I don't want to do stupid stuff. And sometimes not doing stupid stuff leads you to not do stuff it's stupid not to do. And I think in Syria, you know, again, the destruction of the chemical weapons stockpile was a big deal. But I think we could have done more to avert the flow of refugees. And this is not just America. I think many nations could have been part of that.",
+    "bio": "The speaker (born February 26, 1958) is an American attorney and politician serving as the junior United States Senator from a mid-Atlantic state since 2013. He previously was the state's 38th Lieutenant Governor from 2002 to 2006 and 70th Governor from 2006 to 2010. A member of his party, he was the nominee for Vice President of the United States in the 2016 election. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't know that there's a straight line. I think it's a factor. I think there's a lot of factors. Some of the challenges in the Eurozone and the question of which countries needed to be participating to help other countries, England not in the Eurozone, but they were very much close to that. So there's a lot of issues that we got to pay attention to. You've been critical of the president on Syria, specifically on Syria. Are you still a critic? I'm a strong supporter of the president across the board, but there are some things where we disagree. I don't think we should be at war without a vote of Congress. And in beginning in February of 2014, I started to call for the notion that we should do a humanitarian safe zone in northern Syria, where Syrian refugees who don't want to leave their country could go there. And that's something that I think had we done that, I think that you wouldn't have seen the outflow of refugees we've seen. The president did do something really good in Syria, which was lead to the destruction of one of the largest chemical weapons stockpiles in the world. And that's an important thing. But this refugee crisis is significant."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, it's interesting. You seem to criticize the president on this, saying that because he lacks an ideological sort of organizing principle when it comes to foreign policy, that it's made him less reactive. You know, yes, he wants to not be as reactive, but it's actually frozen him a little bit. Explain that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, first, but I'm a strong supporter of the president's foreign policy for the main reason he's reinvigorated diplomacy in this country. We didn't have a diplomatic muscle in the previous administration, and this president has brought America back in diplomacy, which is where we need to be strong. But, you know, the president once said famously, I don't want to do stupid stuff. And sometimes not doing stupid stuff leads you to not do stuff it's stupid not to do. And I think in Syria, you know, again, the destruction of the chemical weapons stockpile was a big deal. But I think we could have done more to avert the flow of refugees. And this is not just the United States. I think many nations could have been part of that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "do now? Because if you don't stem, this is still more European countries may just decide me first."
+      }
+    ],
+    "speakername": "Tim Kaine",
+    "ground_truth": "that the control of this nation is in the hands of somebody who's steady and confident and calm. I mean, we are making an existential choice in this nation, just like Brexit would be seen in Britain as an existential choice. This election for president is existential. Does torture come back or not? Do we change our fundamental values and punish people based on their religion? Or do we keep up with the Virginia value of tolerating and welcoming all religions? And so we've got to have a commander-in-chief who knows what she's doing. And that's the most important issue that's on the table for us right now. Just like Europe or England is going to grapple with this important question of Brexit, we have to grapple with the style of leadership we want going forward. Is the single greatest challenge for the next president in the Middle East Syria? Oh, I don't think that's the single greatest challenge. I think we've got a lot of challenges. I would say the rise, the rise of non-state power. So whether you're talking ISIL or Al-Qaeda, the Sinaloa cartel, you know, corporations that hide everything offshore and try to evade accountability. This is the 21st century reality, Chuck. A lot of our doctrines are about state v. state. Now you have this non-state powers. And I don't yet think we've really grappled with how to incorporate them into our national security thing.",
+    "bio": "Timothy Michael Kaine (born February 26, 1958) is an American attorney and politician serving as the junior United States Senator from Virginia since 2013. He previously was the state's 38th Lieutenant Governor from 2002 to 2006 and 70th Governor from 2006 to 2010. A Democrat, Kaine was the nominee of his party for Vice President of the United States in the 2016 election. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, first, but I'm a strong supporter of the president's foreign policy for the main reason he's reinvigorated diplomacy in this country. We didn't have a diplomatic muscle in the previous administration, and this president has brought America back in diplomacy, which is where we need to be strong. But, you know, the president once said famously, I don't want to do stupid stuff. And sometimes not doing stupid stuff leads you to not do stuff it's stupid not to do. And I think in Syria, you know, again, the destruction of the chemical weapons stockpile was a big deal. But I think we could have done more to avert the flow of refugees. And this is not just the United States. I think many nations could have been part of that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "do now? Because if you don't stem, this is still more European countries may just decide me first."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that the control of this nation is in the hands of somebody who's steady and confident and calm. I mean, we are making an existential choice in this nation, just like Brexit would be seen in Britain as an existential choice. This election for president is existential. Does torture come back or not? Do we change our fundamental values and punish people based on their religion? Or do we keep up with the Virginia value of tolerating and welcoming all religions? And so we've got to have a commander-in-chief who knows what she's doing. And that's the most important issue that's on the table for us right now. Just like Europe or England is going to grapple with this important question of Brexit, we have to grapple with the style of leadership we want going forward. Is the single greatest challenge for the next president in the Middle East Syria? Oh, I don't think that's the single greatest challenge. I think we've got a lot of challenges. I would say the rise, the rise of non-state power. So whether you're talking ISIL or Al-Qaeda, the Sinaloa cartel, you know, corporations that hide everything offshore and try to evade accountability. This is the 21st century reality, Chuck. A lot of our doctrines are about state v. state. Now you have this non-state powers. And I don't yet think we've really grappled with how to incorporate them into our national security thing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right. I want to shift to guns. This was a big topic, obviously, in both chambers of Congress this week. You've said this on the Heller decision. You've said that you strongly believe that there is an individual right, and you completely accept the Heller decision that says the right is individual, which means you cannot essentially prevent many individuals from whatever it is, concealing carry and buying certain weapons. So what room is there to regulate? Do you believe the person that you can regulate, the individual, or that you regulate the firearm?"
+      }
+    ],
+    "speakername": "Tim Kaine",
+    "ground_truth": "Yeah, great question. So, there is an individual right, but the right says well-regulated. In the Second Amendment is the phrase well-regulated. Let's talk about the First Amendment for a second. Freedom of speech. We believe it. You're a journalist, but you can't libel or slander somebody with no consequence. I can't take classified information I get as a senator and give it to somebody with no consequence. Freedom of speech has reasonable limits. Freedom of assembly. We can protest, but you can't march onto the floor of the Senate and do crazy stuff. No, there's going to be rules and regulations. And the Second Amendment is exactly the same. It says well-regulated in the amendment. And the Heller case said, sure, it's an individual right, but there's reasonable regulation. And the court has upheld, the courts, you know, for many years have upheld all.",
+    "bio": "Timothy Michael Kaine (born February 26, 1958) is an American attorney and politician serving as the junior United States Senator from Virginia since 2013. He previously was the state's 38th Lieutenant Governor from 2002 to 2006 and 70th Governor from 2006 to 2010. A Democrat, Kaine was the nominee of his party for Vice President of the United States in the 2016 election. The speaker's MBTI type is ESFJ"
+  }
+]

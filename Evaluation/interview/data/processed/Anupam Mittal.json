@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah what kind"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's going to move."
+      },
+      {
+        "speaker": "[target]",
+        "text": "back no no he moved back he set up the engineering team in [city]"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And then you never went back to the US. No, no, I was in touch 11. After the 4th, you never... No, no, no."
+      }
+    ],
+    "speakername": "Anupam Mittal",
+    "ground_truth": "you just had your formative years were there yeah and then you came back [city] mainly, real formative years of [city] and then dad actually had the engineering team in [city] and the business in the US so right so he would go back we anchored in [city]",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's going to move."
+      },
+      {
+        "speaker": "[target]",
+        "text": "back no no he moved back he set up the engineering team in [city1]"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And then you never went back to the US. No, no, I was in touch 11. After the 4th, you never... No, no, no."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you just had your formative years were there yeah and then you came back [city1] mainly, real formative years of [city1] and then dad actually had the engineering team in [city1] and the business in the US so right so he would go back we anchored in [city1]"
+      }
+    ],
+    "speakername": "Anupam Mittal",
+    "ground_truth": "I did my engineering from [city2], [institution1], business school from [institution2], very cookie cut or life.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And then you never went back to the US. No, no, I was in touch 11. After the 4th, you never... No, no, no."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you just had your formative years were there yeah and then you came back to a mid-sized city mainly, real formative years of that city and then dad actually had the engineering team in that city and the business in the US so right so he would go back we anchored in that city"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I did my engineering from a technical institute, business school from a management institute, very cookie cut or life."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "after engineering which"
+      }
+    ],
+    "speakername": "Anupam Mittal",
+    "ground_truth": "Yeah right, I did work in a hostel for a year or two basically, I basically played football and made really close friends which today I think is one of the best uses of college life, then I joined a consulting firm in 2011 as a young 23 year old in a major city.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "after engineering which"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah right, I did work in a hostel for a year or two basically, I basically played football and made really close friends which today I think is one of the best uses of college life, then I joined [company] in 2011 as a young 23 year old in [city]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and served amazing clients had got amazing mentors i thought i'll be in [company] for the rest of my life"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "lot."
+      }
+    ],
+    "speakername": "Anupam Mittal",
+    "ground_truth": "And then 2060, my general mantra in life has been to copy seniors who are damn smart. So everyone used to take engineering exams, who used to play cricket, who were good kids, and said, let's do this. Then the good kids in engineering used to write CATs and said, let's do that.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But I'll come to shadi.com and the businesses you built as an operator separately, but coming to like angel investing, a lot of, I see a lot of people now getting into it, myself included, because it's only disposable."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It'll run."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bye."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "machine"
+      }
+    ],
+    "speakername": "Anupam Mittal",
+    "ground_truth": "Yeah, I still run. You still run? Yeah, yeah, fully. And? This is a complete marketing exercise of a publishing company. I don't want to end up telling you this, right? So...",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

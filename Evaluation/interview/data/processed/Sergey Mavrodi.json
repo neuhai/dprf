@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I make my living as usual. I sell books with my autographs, make video congratulations on a paid basis. I have to make my living somehow. What I earn is quite enough for my living, and I need nothing more."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You don't need anything else."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Aren't you afraid of possible attempts on your life from the deceived participants from your first financial scheme?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it's all a myth that the deceived participants hate me. All of them have joined the new project in 2011. Polls by the research center show that about 15% of residents trust me. According to the research center, the percent of those who trust me is much higher among those who lost money in the first scheme. There have never been acts of aggression from deceived participants against me. Moreover, they have never threatened me."
+      }
+    ],
+    "speakername": "Sergey Mavrodi",
+    "ground_truth": "It's just yet another myth bolstered by the media. The air in our country helps money vanish without a trace and later fall like rain elsewhere, just like clouds that float away to other regions, and then fall in the form of yachts and villas on various remote locations.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Obviously. Then there was privatization."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The motives behind my move are absolutely obvious. Total state privatization was underway then."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "people in general"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The government-owned property amassed by many generations of people was being sold for nothing then."
+      }
+    ],
+    "speakername": "Sergey Mavrodi",
+    "ground_truth": "That property was divided between a handful of confidants, so-called oligarchs, who finally grabbed everything. My goal was to accumulate money using the pyramid, because it is the most efficient instrument of accumulation, and then invade the rapacious privatization, buy out all the energy companies and major state corporations, and then give them to the participants of the pyramid. This would have been a real people's privatization.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You established the financial scheme when you were on the run and on law enforcement's wanted list. The majority of the victims of this scheme were residents of Western regions. According to official estimates, at least 180,000 people lost money in this scheme. What was your goal then? Did you want to do a favor for the Western world?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There I have a goal, it takes a long time to explain, I have a goal."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it will take a long time to explain but i was not going to hide forever i wanted to accumulate all of the western resources and then use them in my country's favor my goal was to destroy the western market and i almost achieved this goal the dollar is a scheme this is no secret the dollar lies on the basis of the global financial system which is also a scheme it's a big question whether the financial system could have been organized otherwise no one can prove this in practice because no one can reorganize the global financial system the global financial system is based on a scheme all the banks are also schemes"
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is no safety."
+      }
+    ],
+    "speakername": "Sergey Mavrodi",
+    "ground_truth": "If all of a bank's lenders, no, if only 20% of them, simultaneously come to withdraw their funds, the bank will collapse. Even a healthy and good working bank will collapse. Why? Because it is a scheme.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's exactly the same."
+      },
+      {
+        "speaker": "[target]",
+        "text": "companies are pure pyramids. All existing financial structures are pyramids."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This is a pyramid. My plan is not at all..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "My plan was to use my pyramid to wipe out the global financial pyramid."
+      }
+    ],
+    "speakername": "Sergey Mavrodi",
+    "ground_truth": "Only a more efficient pyramid can beat the global one. This is what I am doing now. During the first stage, I will use my pyramid to accumulate funds, and then I'll proceed to the second part of my plan.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This is a pyramid. My plan is not at all…"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My plan was to use my pyramid to wipe out the global financial pyramid."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Only a more efficient pyramid can beat the global one. This is what I am doing now. During the first stage, I will use my pyramid to accumulate funds, and then I'll proceed to the second part of my plan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And what is this second stage?"
+      }
+    ],
+    "speakername": "Sergey Mavrodi",
+    "ground_truth": "When I get there, you will see, you and all the rest. There will be an apocalypse anyway. I will trigger it. Everything is still to come. When I left prison, I said this. Everybody has forgotten.",
+    "bio": "The speaker's MBTI type is INTP"
+  }
+]

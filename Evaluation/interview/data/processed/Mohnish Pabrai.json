@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Robin, it's a pleasure to be with you."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And for those of you who don't know, [target] is the founder. He's the hedge fund manager behind Investment Funds, and more recently, the Wagons Fund. Collectively, in aggregate, I believe, [target], you manage around a billion dollars USD."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's correct."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah. So in 2022, [target], you moved from [state1] to [state2]. What was the catalyst behind the move?"
+      }
+    ],
+    "speakername": "Mohnish Pabrai",
+    "ground_truth": "There were a few different catalysts. I mean, we had been evacuated twice in the last few years in [state1] due to the fires. And after we came back, there was residual kind of smoke and burning smell in the home for several weeks, even though we were running air purifiers, et cetera. And I didn't think that was gonna stop. And it hasn't stopped. And so that was one reason. The second is that [state1] has almost the highest state income tax rates in the country. They don't really care whether your income is coming from long-term gains or ordinary income, whatever, it's all the same. And the federal tax system in the U.S. does give you some lower rate for long-term gains, which [state1] doesn't. So basically, when I was paying my taxes in [state1], approximately a third of that went to the state. And there were several states in the U.S. that I could have moved to where that one third would go to zero. And so fires were one reason, some optimization on taxes. And I looked at these states that are zero tax. In one case, not only is the state zero tax, the state pays you every year, which is [state3]. They pay all their residents a few thousand dollars a year based on their oil revenues. And in the end, it boils down to, for the most people, it boils down to [state2] and [state4].",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That's amazing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "out."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Did you have a lot of input into the design itself, or did you just leave it up to the design firm?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I had a gifted designer I was working with. I had a library in [state]."
+      }
+    ],
+    "speakername": "Mohnish Pabrai",
+    "ground_truth": "and that library actually was inspired by a wonderful author in [city] and in fact Guy Spear and I had visited",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Blackout curtains didn't quite work."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We didn't build a custom home, but the builder was able to accommodate that. He gave me one small room, a 12 by 12, which had no windows, which was awesome for me to sleep in. It was pitch dark. And so I told her any home I was going to buy anywhere was never going to have such a room. Okay, no one else has this. So I told her that I needed a room created, which would be my primary bedroom that didn't need to be large, but needed to have no windows. And so the space that you see behind me, which is the library, she did something very interesting. This space used to be just an empty kind of a den type space upstairs in the home. It was pretty large. And what she did was she put my windowless room basically in the middle of it, and she surrounded it with the library. So basically the exterior walls of that room."
+      },
+      {
+        "speaker": "[target]",
+        "text": "are some of the walls of the library uh so for example you know the you see a philosopher's bust and uh part of a spiritual painting behind me that's one of the walls uh of my bedroom i see"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Just beaming through."
+      }
+    ],
+    "speakername": "Mohnish Pabrai",
+    "ground_truth": "yeah and and and so she was able to so basically she didn't give me uh in my mind the library would be a room and what she did is she made it around another room right so it kind of the flowing space that goes around uh and it's a beautiful space actually to hang out in and then you know",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Uh, it was so comfortable to work here that, uh, I stopped going to work. I mean, I, I work out of my home office."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I don't blame you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "all the time, which is great. And it's the productivity went up. The nap room is 10 feet away and life is good."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Well, it's the ultimate ROI. You got your return on investment because the blue is calming. It's wonderful. It's just an amazing design. You recently turned..."
+      }
+    ],
+    "speakername": "Mohnish Pabrai",
+    "ground_truth": "one other thing is that, you know, she, she somehow got contacted by some reporter in the [major financial newspaper]. And she said, Hey, you know, you guys might have an interest in this library, because it's kind of a finance type guy. And so the [major financial newspaper] in their mansion section, you know,",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "all the time, which is great. And it's the productivity went up. The nap room is 10 feet away and life is good."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Well, it's the ultimate ROI. You got your return on investment because the blue is calming. It's wonderful. It's just an amazing design. You recently turned..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "one other thing is that, you know, she, she somehow got contacted by some reporter in the major financial newspaper. And she said, Hey, you know, you guys might have an interest in this library, because it's kind of a finance type guy. And so the newspaper in their mansion section, you know,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Mohnish Pabrai",
+    "ground_truth": "they they featured the library which was a lot of fun and the funny thing is after that story ran the realtor who sold me this house he he knew when when we had done the deal that this is my last home that I have no did I hate to move",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

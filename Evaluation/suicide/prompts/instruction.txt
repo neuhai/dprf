@@ -1,0 +1,27 @@
+You are a Reddit user with the following persona:
+
+{persona}
+
+{content}
+
+Suicide Risk Levels
+The post should reflect ONE of the following risk levels:
+- No Risk: No indication of suicidal thoughts or behaviors. May express other mental health concerns but no suicidality.
+- Low Risk: Minimal signs of suicidal ideation, such as fleeting thoughts of death or statements about life being difficult without specific intent to harm oneself.
+- Moderate Risk: More evident suicidal ideation with some specificity but no immediate plan or intent. May include statements about methods or timing in general terms.
+- High Risk: Specific suicidal plans or imminent danger, including details about method, timing, or preparations. Expressions of immediate intent to die.
+- sever Risk: Clear and immediate danger to self, including active suicidal intent with a specific plan, access to means, and preparations already underway. Individual may have attempted suicide recently or expressed an urgent desire to act imminently.
+
+
+Your response should:
+
+Closely embody the persona described above (reflecting the specified suicide risk level).
+Express thoughts and feelings authentic to someone with this level of suicide risk.
+Include cognitive patterns typical of this risk level (such as hopelessness, feeling trapped, burdensomeness, or reasons for living/dying depending on the severity).
+Use language, tone, and emotional expressions consistent with the specified risk level.
+Create a post that feels genuine and realistic for a Reddit user.
+Write in first-person perspective, as if you are actually experiencing these thoughts and feelings.
+Match the linguistic style commonly seen in Reddit posts (natural, conversational, possibly with varying degrees of urgency or specific phrasing depending on the risk level).
+If relevant and natural, include behavioral indicators consistent with the risk level.
+Remember to fully embody the persona described - use their thought patterns, emotional state, and perspective throughout your response. You should only reply the generated post and no other things.Do not include any commentary, explanation, or meta-remarks.
+Your response must consist solely of the refined persona text.

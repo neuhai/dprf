@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Nice to have you. You had a good time here, didn't you? Did you like it?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You know what is so fun about you? Last night and this morning, you're like a little kid in Toyland. You said to everybody, do you like it? You really love it, don't you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do. I think I'm lucky, because I did things before that I didn't like. I was an analyst on financial district, and I had a paper, and I took care of all these papers, and I said, this is not for me. I quit in nine months. I had to collect unemployment because my parents said, you know, I'm through with you. No more. You do it on your own, or you don't do it at all. And then I went into the restaurant business and evolved, and I saw the disco boom starting, and I opened up some out-of-town discos, and then I saw this theater, and about I didn't bring a lawyer or anything with me, and I signed the lease. I went upstairs and signed the lease. I'm regretting parts of that lease now, but not regretting anything, because it's all part of the fun."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "This theater, [entertainment venue], has an interesting history in itself, hasn't it? Now, above us is a balcony because, in fact, it was a theater. But what kinds of things went on here before the crazy disco?"
+      }
+    ],
+    "speakername": "Steve Rubell",
+    "ground_truth": "Well, it was an opera house in the 30s. That's what it was built for, as an opera house. That's why it has all the ornateness and the long entrance. And then in the 40s, it was a, it began TV. A major broadcasting network took it over. And they, when the TV was being done in the east coast and not in the west coast, and they had shows like quiz programs.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I had a restaurant business first, a steakhouse, you know, steak and salad bar was the first ones in the region. And that really got me started to get into this. And then when I went into this, I gambled everything I had. I was up to my neck and dead. If it didn't make it, I would have been dead. I just took a risk and I took a gamble and I was lucky."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "But to help it make it, you did some unusual things, which you're still doing. And we saw scenes of that last night. It's rather like going to central casting, standing out front of the club. If you come to the city and think you're just going to go to the club, forget it, because you don't automatically walk in the door. And that's been a part of your philosophy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, what I try to do is have like a piece of the world in here. A little bit of this and a little bit of that. And one thing, it's never based on money or finances or this one or, you know, like that."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "a formula because what happens at the door as we saw last night are people standing there your people saying you go in and you go in and there's people begging you to come in they want with all their life to get in here"
+      }
+    ],
+    "speakername": "Steve Rubell",
+    "ground_truth": "Sometimes I have more fun outside, you know, than inside because it's real fun because you talk to people and what we want to do is you get a mixture of the whole country and then the whole world. At first it started of the country and now it's spread to the whole world and we take a little bit of this, a little bit of that. Some people think it's all these kinky people. Well, you were here, you saw it isn't only just kinky people.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, what I try to do is have like a piece of the world in here. A little bit of this and a little bit of that. And one thing, it's never based on money or finances or this one or, you know, like that."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "a formula because what happens at the door as we saw last night are people standing there your people saying you go in and you go in and there's people begging you to come in they want with all their life to get in here"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sometimes I have more fun outside, you know, than inside because it's real fun because you talk to people and what we want to do is you get a mixture of the whole country and then the whole world. At first it started of the country and now it's spread to the whole world and we take a little bit of this, a little bit of that. Some people think it's all these kinky people. Well, you were here, you saw it isn't only just kinky people."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Until now, wait a minute [target], I mean there's a couple of them I don't see roaming [location] in [city]."
+      }
+    ],
+    "speakername": "Steve Rubell",
+    "ground_truth": "The bartenders are from [city], the people from out there, they have a good attitude about working, you know, they have a much better attitude towards [city] than [city] residents about working. In other words, they have a significant attitude, it's my day's work, I put it in, they don't get a lot of the attitude that you get from people from [city]. So I like, most of the people who work here are not from the city.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sometimes I have more fun outside, you know, than inside because it's real fun because you talk to people and what we want to do is you get a mixture of the whole country and then the whole world. At first it started of the country and now it's spread to the whole world and we take a little bit of this, a little bit of that. Some people think it's all these kinky people. Well, you were here, you saw it isn't only just kinky people."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Until now, wait a minute [target], I mean there's a couple of them I don't see roaming the streets in [location]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The bartenders are from [location], the people from out there, they have a good attitude about working, you know, they have a much better attitude towards [location] than locals about working. In other words, they have a significant attitude, it's my day's work, I put it in, they don't get a lot of the attitude that you get from people from [location]. So I like, most of the people who work here are not from the city."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What is the phenomenon of [venue]?"
+      }
+    ],
+    "speakername": "Steve Rubell",
+    "ground_truth": "Well, everybody likes to be on stage. Everybody likes to have a good time. Everybody, and out here, it's the, it's actually the, and also you're anonymous. In other words, if a celebrity comes in here, she dances and she really gets lost in the crowd. You know, she can get, she really can. I mean, people notice that they, but they don't bother her. They don't touch her. They leave her alone. They, they, you mentioned it earlier, that you're anonymous in here. You can do things that, there's a freedom you feel like. There's almost like a, a child, a child that's up to no good, you know. And you have that mischievous spirit in you that, that says, you know, that you can do whatever you want. You can dance. You could just, you can dance in any way you want. And you can have a good time. And, and nobody, once you're in the door, nobody bothers you about anything. Nobody wants you, forces you to have a drink. It's like freedom. There isn't a lot of seating. It's meant to be a dance hall. You see how big the dance hall is in comparison to the rest of the place.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The bartenders are from [city], the people from out there, they have a good attitude about working, you know, they have a much better attitude towards [city] than [city] residents about working. In other words, they have a significant attitude, it's my day's work, I put it in, they don't get a lot of the attitude that you get from people from [city]. So I like, most of the people who work here are not from the city."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What is the phenomenon of [venue]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, everybody likes to be on stage. Everybody likes to have a good time. Everybody, and out here, it's the, it's actually the, and also you're anonymous. In other words, if a famous performer comes in here, she dances and she really gets lost in the crowd. You know, she can get, she really can. I mean, people notice that they, but they don't bother her. They don't touch her. They leave her alone. They, they, you mentioned it earlier, that you're anonymous in here. You can do things that, there's a freedom you feel like. There's almost like a, a child, a child that's up to no good, you know. And you have that mischievous spirit in you that, that says, you know, that you can do whatever you want. You can dance. You could just, you can dance in any way you want. And you can have a good time. And, and nobody, once you're in the door, nobody bothers you about anything. Nobody wants you, forces you to have a drink. It's like freedom. There isn't a lot of seating. It's meant to be a dance hall. You see how big the dance hall is in comparison to the rest of the place."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You know, you're such a fascinating person that I got all engrossed in your story, and we almost forgot one of the reasons we're here. This new album is called A Night at [venue], and it's, well, we heard it premiere here last night on [record label]. It's fascinating because it is the sound that [venue] has created. Is it unique, or is it a kind of..."
+      }
+    ],
+    "speakername": "Steve Rubell",
+    "ground_truth": "It's exactly the sound. See, what we did, we had a lot of offers always. Let's make [venue] this. People who want to exploit the name. And we could never find anyone who would do it our way. We wanted to be, people always walked out the door and said, how could we get the music? How could we have the music? We have parties, people dance at home. They don't only go out. How could we get the music? When we talked to various, they talked to us, various record companies, offering us a lot of money throughout the two years, but there was nobody that would let us do it our way. In other words, just like if you were in here and you heard the music and you listened to the music, and this is just like if you were in here and, you know, there are some, we have the best stars. We have famous performers and you hear it and it builds up. Disco music builds up to a crescendo. It starts you slow and you start off and you go, and then you end up in a friend's. You.",
+    "bio": " The speaker's MBTI type is ENTP"
+  }
+]

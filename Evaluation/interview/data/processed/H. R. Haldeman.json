@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mr Hollman I think that uh in in light of the facts that are coming out both you and I would agree that this went far beyond just a few men breaking into the [location] but rather it's uh it's revealed it's revealed a situation both within the committee to reelect the president and within the [government building] whereupon uh everything that was touched was corroded"
+      },
+      {
+        "speaker": "[target]",
+        "text": "no sir I will not in any way shape or form Ever except that allegation or contention there there is no way that any man in this country can make and establish the case that everything in the [government building] everything the [government building] touched was corroded and I think that does a grave disservice to this country even to State it and I I apologize immediately for having responded with that amount of vigor because uh you you uh uh touched off a spark that that uh I I should have uh uh quenched and and responded with a little more patience and and uh care but but Senator that that is is just a thing that that is not true and it it's a tragic thing that anybody could even think that it might be true"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "how how did it come about that you started to work with him politically"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I volunteered to uh serve in the 56 campaign and my services were accepted and during the 68 campaign uh what was your role in that campaign and in the 68 presidential campaign I was chief of staff for Mr Nixon and after that campaign when President Nixon was elected uh you became assistant of the president and staff director is that not true staff director was not part of the title but uh uh it was part of the function now could you uh tell us uh as clearly as you can all what that function was as staff director"
+      }
+    ],
+    "speakername": "H. R. Haldeman",
+    "ground_truth": "well I described uh in my statement the initial intention that we had in Staffing the [government building] to uh have five or four principal assistants to the president with General responsibilities and no specific areas of responsibility those uh intentions had to be abandoned as we moved into uh uh specific areas and my responsibility became that of [government building] chief of staff as it had been uh personal chief of staff for Mr Nixon during the campaign that included uh the administrative responsibility for the operation of the [government building] Office the planning and implementation of the president's schedule the overseeing of the process of paperwork coming to the president and going out from the president and the uh uh functions that that are required within the [government building] Office uh with relation to the flow of paperwork to and from the president and uh uh a general coordinating function amongst the various segments of the [government building] staff",
+    "bio": "The individual (October 27, 1926 – November 12, 1993) was an American political aide and businessman, best known for being the [government building] Chief of Staff during a major political scandal. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "how how did it come about that you started to work with him politically"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I volunteered to uh serve in the 56 campaign and my services were accepted and during the 68 campaign uh what was your role in that campaign and in the 68 presidential campaign I was chief of staff for Mr Nixon and after that campaign when President Nixon was elected uh you became assistant of the president and staff director is that not true staff director was not part of the title but uh uh it was part of the function now could you uh tell us uh as clearly as you can all what that function was as staff director"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well I described uh in my statement the initial intention that we had in Staffing the [LOCATION] to uh have five or four principal assistants to the president with General responsibilities and no specific areas of responsibility those uh intentions had to be abandoned as we moved into uh uh specific areas and my responsibility became that of [LOCATION] chief of staff as it had been uh personal chief of staff for Mr Nixon during the campaign that included uh the administrative responsibility for the operation of the [LOCATION] Office the planning and implementation of the president's schedule the overseeing of the process of paperwork coming to the president and going out from the president and the uh uh functions that that are required within the [LOCATION] Office uh with relation to the flow of paperwork to and from the president and uh uh a general coordinating function amongst the various segments of the [LOCATION] staff"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think it would be fair to say that under the president uh you were in fact the uh the boss of the [LOCATION] was that not so administratively yes uh substantively or from a policy Viewpoint no could you explain that"
+      }
+    ],
+    "speakername": "H. R. Haldeman",
+    "ground_truth": "yes I I had the administrative responsibility for the operation of the office I had the supervision of the of the [LOCATION] Office budget for instance but I did not uh exercise policy or substantive responsibility or authority over the assistance to the president who had those responsibilities as I tried to delineate in my statement Dr Kissinger in the area of foreign policy and and Mr Erman in the area of domestic policy others in the areas of congressional relations press relations uh Communications for the executive branch uh General consultation to the president and that sort of thing uh did not report to me on the substance of their responsibilities but if they needed uh more office space or more uh staff facilities we had to work that out within the [LOCATION] budget and the available space and that came under my office's responsibility it was generally handled by the staff secretary",
+    "bio": "[target] (October 27, 1926 – November 12, 1993) was an American political aide and businessman, best known for being the [LOCATION] Chief of Staff of the Nixon Administration during the Watergate scandal. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "well I described uh in my statement the initial intention that we had in Staffing the [government building] to uh have five or four principal assistants to the president with General responsibilities and no specific areas of responsibility those uh intentions had to be abandoned as we moved into uh uh specific areas and my responsibility became that of [government building] chief of staff as it had been uh personal chief of staff during the campaign that included uh the administrative responsibility for the operation of the [government building] Office the planning and implementation of the president's schedule the overseeing of the process of paperwork coming to the president and going out from the president and the uh uh functions that that are required within the [government building] Office uh with relation to the flow of paperwork to and from the president and uh uh a general coordinating function amongst the various segments of the [government building] staff"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think it would be fair to say that under the president uh you were in fact the uh the boss of the [government building] was that not so administratively yes uh substantively or from a policy Viewpoint no could you explain that"
+      },
+      {
+        "speaker": "[target]",
+        "text": "yes I I had the administrative responsibility for the operation of the office I had the supervision of the of the [government building] Office budget for instance but I did not uh exercise policy or substantive responsibility or authority over the assistance to the president who had those responsibilities as I tried to delineate in my statement Dr Kissinger in the area of foreign policy and and Mr Erman in the area of domestic policy others in the areas of congressional relations press relations uh Communications for the executive branch uh General consultation to the president and that sort of thing uh did not report to me on the substance of their responsibilities but if they needed uh more office space or more uh staff facilities we had to work that out within the [government building] budget and the available space and that came under my office's responsibility it was generally handled by the staff secretary"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "oh Mr Hall uh without limiting it to the question of who reported to home or how maybe the hierarchy CH would look uh as a matter of fact your close relationship with the president uh and your activities as a chief of staff uh did not limit itself to just the administrative functions as a matter of fact even in Mr say Mr erman's role uh you would uh from time to time uh be asked by the president and would make uh Expressions regarding to policy would you not"
+      }
+    ],
+    "speakername": "H. R. Haldeman",
+    "ground_truth": "not to any great extent on policy Mr Dash I I would on procedure or uh uh the question of whether everything that uh should be uh available was available to the president in a policy decision matter but not uh an opinion as to whether this was the the policy we should pursue or should not pursue",
+    "bio": "The individual (October 27, 1926 – November 12, 1993) was an American political aide and businessman, best known for being the [government building] Chief of Staff during a major political scandal. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yes I I had the administrative responsibility for the operation of the office I had the supervision of the of the [government building] Office budget for instance but I did not uh exercise policy or substantive responsibility or authority over the assistance to the president who had those responsibilities as I tried to delineate in my statement Dr [advisor] in the area of foreign policy and and Mr [official] in the area of domestic policy others in the areas of congressional relations press relations uh Communications for the executive branch uh General consultation to the president and that sort of thing uh did not report to me on the substance of their responsibilities but if they needed uh more office space or more uh staff facilities we had to work that out within the [government building] budget and the available space and that came under my office's responsibility it was generally handled by the staff secretary"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "oh Mr [target] uh without limiting it to the question of who reported to home or how maybe the hierarchy CH would look uh as a matter of fact your close relationship with the president uh and your activities as a chief of staff uh did not limit itself to just the administrative functions as a matter of fact even in Mr say Mr [official]'s role uh you would uh from time to time uh be asked by the president and would make uh Expressions regarding to policy would you not"
+      },
+      {
+        "speaker": "[target]",
+        "text": "not to any great extent on policy Mr [interviewer] I I would on procedure or uh uh the question of whether everything that uh should be uh available was available to the president in a policy decision matter but not uh an opinion as to whether this was the the policy we should pursue or should not pursue"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "would you be asked from time to time by the president concerning your views on various policy issues"
+      }
+    ],
+    "speakername": "H. R. Haldeman",
+    "ground_truth": "well I'm sure from time to time but not not as a regular process and I I I would not want to imply that I was was a part of the policymaking uh process in terms of substance I was in terms of procedure",
+    "bio": "A former political aide and businessman (October 27, 1926 - November 12, 1993) was an American political aide and businessman, best known for being the Chief of Staff of the Administration during a major political scandal. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "not to any great extent on policy Mr Dash I I would on procedure or uh uh the question of whether everything that uh should be uh available was available to the president in a policy decision matter but not uh an opinion as to whether this was the the policy we should pursue or should not pursue"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "would you be asked from time to time by the president concerning your views on various policy issues"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well I'm sure from time to time but not not as a regular process and I I I would not want to imply that I was was a part of the policymaking uh process in terms of substance I was in terms of procedure"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you spent quite a bit of time with the president on your working day did you not"
+      }
+    ],
+    "speakername": "H. R. Haldeman",
+    "ground_truth": "yes I did as a matter of fact you traveled with the president and uh spent more time uh with the president than perhaps anyone else than Mr ER that' be so true that's correct",
+    "bio": "The subject (October 27, 1926 – November 12, 1993) was an American political aide and businessman, best known for being the Chief of Staff of the Administration during a major political scandal. The speaker's MBTI type is ISTJ"
+  }
+]

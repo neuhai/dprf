@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thanks for coming."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, it's been a crazy few weeks. I really thought that at the time of this recording, it would be $100,000 Bitcoin. Our 100K interview hasn't happened yet, but it could any moment. I just wanna first start with your reaction to the recent price rally as the result of the red wave sweeping the country."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think clearly the most uncertain thing, the greatest form of uncertainty, is the result of the elections on November 5th. And the elections could have been a blue wave, they could have been a red wave, they could have been red and blue, they could have been red, white and blue. And we didn't really know at 8 p.m. on Tuesday night, November 5th. It just was unclear. But by the next morning, by 6.30 or 7 a.m. on November 6th, it became pretty clear that there was going to be a red wave, and that the opposition candidate was going to win the [government building], the Republicans were going to win the Senate, and it seemed quite likely the Republicans would win the House. I think that there are many, many paths in the future, but clearly the significance of the red wave is, the nation... The nation has spoken, and the will of the country is they would like more freedom, they would like more innovation, they would like smaller government, they would like lower taxes, they would like less regulation, they would like more empowerment, they would like more inspiration, they would like more Bitcoin, they would like more digital assets. They'd like to see the digital... They'd like to see the digital transformation of the world. This was a referendum on [tech entrepreneur] and [space company] versus [government space agency]. Do we want the government to run the space program, and do we want it to be a cost-plus contract, or do we want the private enterprise to take us to Mars? And I think it's a stark reminder..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think"
+      }
+    ],
+    "speakername": "Michael Saylor",
+    "ground_truth": "that, uh, that the American people, they believe in freedom and, uh, and charging toward the frontier. So it was a big win for [political figure]. It was a big one for [tech entrepreneur]. It was a big win for freedom of speech. I think that, um, it was, uh, probably one of the more extraordinary things, maybe one of the more extraordinary things of the century and, um,",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, it's been a crazy few weeks. I really thought that at the time of this recording, it would be $100,000 Bitcoin. Our 100K interview hasn't happened yet, but it could any moment. I just wanna first start with your reaction to the recent price rally as the result of the red wave sweeping the country."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think clearly the most uncertain thing, the greatest form of uncertainty, is the result of the elections on November 5th. And the elections could have been a blue wave, they could have been a red wave, they could have been red and blue, they could have been red, white and blue. And we didn't really know at 8 p.m. on Tuesday night, November 5th. It just was unclear. But by the next morning, by 6.30 or 7 a.m. on November 6th, it became pretty clear that there was going to be a red wave, and that the party candidate was going to win the [government building], the party was going to win the Senate, and it seemed quite likely the party would win the House. I think that there are many, many paths in the future, but clearly the significance of the red wave is, the nation... The nation has spoken, and the will of the country is they would like more freedom, they would like more innovation, they would like smaller government, they would like lower taxes, they would like less regulation, they would like more empowerment, they would like more inspiration, they would like more Bitcoin, they would like more digital assets. They'd like to see the digital... They'd like to see the digital transformation of the world. This was a referendum on private enterprise versus government agency. Do we want the government to run the space program, and do we want it to be a cost-plus contract, or do we want the private enterprise to take us to another planet? And I think it's a stark reminder..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think"
+      },
+      {
+        "speaker": "[target]",
+        "text": "that, uh, that the American people, they believe in freedom and, uh, and charging toward the frontier. So it was a big win for the party. It was a big one for private enterprise. It was a big win for freedom of speech. I think that, um, it was, uh, probably one of the more extraordinary things, maybe one of the more extraordinary things of the century and, um,"
+      }
+    ],
+    "speakername": "Michael Saylor",
+    "ground_truth": "It would be very difficult to forecast the future of the crypto industry, the digital assets industry and Bitcoin before. And now we actually have a lot more clarity about what's coming next.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think"
+      },
+      {
+        "speaker": "[target]",
+        "text": "that, uh, that the people, they believe in freedom and, uh, and charging toward the frontier. So it was a big win for the former president. It was a big one for the tech entrepreneur. It was a big win for freedom of speech. I think that, um, it was, uh, probably one of the more extraordinary things, maybe one of the more extraordinary things of the century and, um,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It would be very difficult to forecast the future of the crypto industry, the digital assets industry and Bitcoin before. And now we actually have a lot more clarity about what's coming next."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, let's get very specific about that. What do you expect with this incoming administration when it comes to Bitcoin and the regulatory environment?"
+      }
+    ],
+    "speakername": "Michael Saylor",
+    "ground_truth": "Well, I think what we clearly heard from the former president is never sell your Bitcoin. Big question was, does the nation sell Bitcoin? Does the nation buy Bitcoin? If you recall, the European government sold a lot of Bitcoin at $55,000 a Bitcoin. It turns out to be a more than a billion dollar mistake in a couple of weeks, big mistake.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "from the banking regulators, from Treasury, from OCC, from SEC. I think you'll see more supportive legislation from Congress. I think it will be approved by the White House. I think that this is a signal to accelerate institutional adoption. I think that the previous administration had been hostile to Bitcoin, hostile to Bitcoin mining, hostile to Bitcoin banking, hostile to the Bitcoin ETFs. And the failure of Silicon Valley Bank, followed by the shutdown, I mean, effectively the forcible liquidation of Silvergate and Signature, even though those were solvent banks. I mean, they were perfectly healthy banks that were actually forced into receivership by a hostile administration. I think that... That had caused the banking establishment, you know, reasonably enough to be skittish and to be conservative and a little bit slow to adopt Bitcoin because they could see..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "there was resistance in the administration. I think that now with a new administration, with President Trump coming to the Bitcoin conference in Nashville and saying, I will end the war on crypto. I will end the war on Bitcoin. I will support Bitcoin. We will not sell our Bitcoin. We're going to make Bitcoin in America. America is going to be the capital of Bitcoin, right? The fact that he said that, I think that sets the tone at the top. That means you just, I think, number one, it seems inconceivable to me that a head of the Treasury or the CFTC or the SEC will be appointed that is anti-Bitcoin or anti-crypto, right? That seems quite obvious. We know that Trump is all in on crypto, all in on Bitcoin. So I think that we'll have favorable supportive cabinet members. I think the second thing is we know we'll have a supportive Congress. Congress was already in favor of Bitcoin before November 5. We'll have a supportive Senate. The Republican senators were already in favor of Bitcoin. The Democratic senators have been sidelined and won't have any power in this regard. So Elizabeth Warren's agenda is going to become largely a thing of the past and irrelevant in the White House and the Senate and the Congress of the future. So I think that all of this suggests an acceleration of institutional adoption. It's a signal that it's OK for insurance companies to think about insuring Bitcoin companies. It's a signal that it's OK for banks to bank Bitcoin and crypto companies. It's a signal that it's OK for Wall Street to start to embrace, endorse, and advocate Bitcoin, right? It's a signal that the president and the administration is going to look at things like Operation Chokepoint as hostile to the interests of the industry. I think if you combine that with the pro-business and the pro-American agenda of the red wave, it's pretty clear that this administration wants to grow business in America. It wants to deregulate. It wants to strip away handcuffs. It wants to lower taxes. It wants to accelerate progress and then the passage to the future in the United States. And all of that, I think, is just very auspicious for Bitcoin and the digital assets industry."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Coin Stories is proudly brought to you by Bitdeer, a global leader in disruptive technology for Bitcoin mining and AI. As a publicly traded leader, Bitdeer boasts a massive 2.5 gigawatts of electrical capacity and infrastructure under development across three continents, positioning Bitdeer as one of the most diversified and power-dense computing companies in the world. Bitdeer's leadership pioneered the original advancements in Bitcoin mining ASICs, and is now poised to disrupt the market again with groundbreaking new designs for the next generation of mining ASICs that are targeted to reach efficiencies of as low as five joules per terahash by late next year. Now they're leveraging years of expertise in data center and cloud management into high-performance computing through a partnership with NVIDIA. Join Bitdeer in reshaping the world of Bitcoin mining. Learn more at bitdeer.com and explore how they are pioneering the future today. Well, real quick, what do you say to people who are watching this who did not vote for President Trump and they didn't want to see a red wave sweep the country?"
+      }
+    ],
+    "speakername": "Michael Saylor",
+    "ground_truth": "Well, I think that oftentimes in elections, there's very polarized rhetoric on both sides. And the information that's fed to people in the Democratic Party and watching Democratic channels of communication, Democratic television, and, you know, blue media, is oftentimes a very narrow and sometimes distorted view of reality. I think that a lot of the fears that people had were probably driven. By amplified campaign rhetoric and likely the things they're worried about aren't really going to be a problem and the things that they need, they're going to get, even though they didn't know that they needed them or they didn't know they're going to get them. So I think that ultimately this will begin a healing process for the country. I think ultimately everybody in the country wants prosperity. Everybody in the country wants freedom.",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "there was resistance in the administration. I think that now with a new administration, with President Trump coming to the Bitcoin conference in Nashville and saying, I will end the war on crypto. I will end the war on Bitcoin. I will support Bitcoin. We will not sell our Bitcoin. We're going to make Bitcoin in America. America is going to be the capital of Bitcoin, right? The fact that he said that, I think that sets the tone at the top. That means you just, I think, number one, it seems inconceivable to me that a head of the Treasury or the CFTC or the SEC will be appointed that is anti-Bitcoin or anti-crypto, right? That seems quite obvious. We know that Trump is all in on crypto, all in on Bitcoin. So I think that we'll have favorable supportive cabinet members. I think the second thing is we know we'll have a supportive Congress. Congress was already in favor of Bitcoin before November 5. We'll have a supportive Senate. The Republican senators were already in favor of Bitcoin. The Democratic senators have been sidelined and won't have any power in this regard. So Elizabeth Warren's agenda is going to become largely a thing of the past and irrelevant in the White House and the Senate and the Congress of the future. So I think that all of this suggests an acceleration of institutional adoption. It's a signal that it's OK for insurance companies to think about insuring Bitcoin companies. It's a signal that it's OK for banks to bank Bitcoin and crypto companies. It's a signal that it's OK for Wall Street to start to embrace, endorse, and advocate Bitcoin, right? It's a signal that the president and the administration is going to look at things like Operation Chokepoint as hostile to the interests of the industry. I think if you combine that with the pro-business and the pro-American agenda of the red wave, it's pretty clear that this administration wants to grow business in America. It wants to deregulate. It wants to strip away handcuffs. It wants to lower taxes. It wants to accelerate progress and then the passage to the future in the United States. And all of that, I think, is just very auspicious for Bitcoin and the digital assets industry."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Coin Stories is proudly brought to you by Bitdeer, a global leader in disruptive technology for Bitcoin mining and AI. As a publicly traded leader, Bitdeer boasts a massive 2.5 gigawatts of electrical capacity and infrastructure under development across three continents, positioning Bitdeer as one of the most diversified and power-dense computing companies in the world. Bitdeer's leadership pioneered the original advancements in Bitcoin mining ASICs, and is now poised to disrupt the market again with groundbreaking new designs for the next generation of mining ASICs that are targeted to reach efficiencies of as low as five joules per terahash by late next year. Now they're leveraging years of expertise in data center and cloud management into high-performance computing through a partnership with NVIDIA. Join Bitdeer in reshaping the world of Bitcoin mining. Learn more at bitdeer.com and explore how they are pioneering the future today. Well, real quick, what do you say to people who are watching this who did not vote for President Trump and they didn't want to see a red wave sweep the country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that oftentimes in elections, there's very polarized rhetoric on both sides. And the information that's fed to people in the Democratic Party and watching Democratic channels of communication, Democratic television, and, you know, blue media, is oftentimes a very narrow and sometimes distorted view of reality. I think that a lot of the fears that people had were probably driven. By amplified campaign rhetoric and likely the things they're worried about aren't really going to be a problem and the things that they need, they're going to get, even though they didn't know that they needed them or they didn't know they're going to get them. So I think that ultimately this will begin a healing process for the country. I think ultimately everybody in the country wants prosperity. Everybody in the country wants freedom."
+      }
+    ],
+    "speakername": "Michael Saylor",
+    "ground_truth": "Everybody in the country wants empowerment. We all know we need to go to the future. We all need to leave the past behind. And I think that we're looking at many, many years of prosperity and empowerment ahead of us because of what's happened.",
+    "bio": " The speaker's MBTI type is INTJ"
+  }
+]

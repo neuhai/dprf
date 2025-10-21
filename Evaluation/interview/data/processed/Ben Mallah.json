@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Let's see, it's been about, let's see if we take 30, it's been about $20."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "five years here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you just continue doing that, taking one property to the next, to the next, to the next. When did you start getting into the apartment buildings and shopping centers and really taking it up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we started growing very, very large in the apartment business. And that's pretty much all I ever did was apartments. And it was affordable housing, too, mostly. Then when I decided to move out of the western state in 2004, because the market was really high in 2004 in the western state, you've got to know when it's time to sell. You don't want to miss the boat. You know, it's a market just like anything else."
+      }
+    ],
+    "speakername": "Ben Mallah",
+    "ground_truth": "real estate's up real estate's down you got to buy when it's down you got to sell when it's up so we decided plus i didn't want to stay in the western state and raise my family there so i came to the southeastern state i found this area had a lot of growth in it in the middle of the state the southern region was too expensive northern region was too cheap and this was just right right in the middle so we came here we started doing more apartments and then one of the kids in the family decided the boys went into apartments like i did yeah but the girl in the family she wanted to go to hotels management",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "five years here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you just continue doing that, taking one property to the next, to the next, to the next. When did you start getting into the apartment buildings and shopping centers and really taking it up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we started growing very, very large in the apartment business. And that's pretty much all I ever did was apartments. And it was affordable housing, too, mostly. Then when I decided to move out of the western state in 2004, because the market was really high in 2004 in that state, you've got to know when it's time to sell. You don't want to miss the boat. You know, it's a market just like anything else."
+      },
+      {
+        "speaker": "[target]",
+        "text": "real estate's up real estate's down you got to buy when it's uh down you got to sell when it's up so we decided plus i didn't want to you know stay in the western state and raise my family there so i came to the southeastern state i found this area had a lot of growth in it in the middle of the state the southern region was too expensive northern region was too cheap and this was just right right in the middle so we came here we started doing more apartments and then um one of the kids in the family decided the boys went into apartments like i did yeah but the girl in the family she wanted to go to hotels management"
+      }
+    ],
+    "speakername": "Ben Mallah",
+    "ground_truth": "So she went to school for that, and that got us in the hotel business. We bought a hotel. So while she went to school, she also ran a small hotel. So we grew in the hotel business. We found that to be very lucrative, fixing up beat-up hotels, making them nice and running them. And then a few, about five years ago, I decided that I wanted to limit the management because hotels are management-intense. Apartments can be management-intense, but retail is not. So you don't have the potential to make a lot of money in retail unless you're a developer. Or if you can find one, beat up and fix it up and rent it out, you can. But typically, I wanted to slow down the management. Retail is no management. You buy a retail shopping center, the tenants are there running their business. Everything that goes on inside that business is their problem. I'm just responsible maybe for the roof and the exterior. You basically collect the rent from a business owner, and that's the end of it. You don't have to worry about nothing else. And they typically don't move a lot. They're making money because that's their livelihood. So we started going more and more into retail, which we like. So we're diversified. I have never done office buildings. I'm getting ready to do an office building, but it's going to be medical.",
+    "bio": " The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "because I'm afraid of office buildings with everybody working at home. Yes, that's what I think. And working off the computers. And plus with offices, if you got a big tenant and they pull out, you're going to be stuck with a big empty space. And I have no experience in offices, nor do I have any experience in industrial. Industrial's starting to get big too, with the whole start building more stuff here, warehouses, building stuff here, I think is going to hopefully come back with today's politics and international relations and all that. We're going to start doing more building here and making things."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What happened, though, in 2008, 2009, when the market hit?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "crash"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Ben Mallah",
+    "ground_truth": "And all the property I had was now at least 25% or 30% worth, less than it was. Luckily, I wasn't over-leveraged. And I was able to find, I put a big package together of all my stuff. And luckily, I sold a package of everything. Two states, I just piled a whole apartment package together. And some group came in and bought it at a price that wasn't the greatest price. I would have gotten more if I held on to it. But we still made enough profit to where I felt like, hey, I'm out of it. I can start fresh again and clean up on all the bargains that were out there. I had to sell off my stuff to be able to raise the capital to go out and buy all the hot deals that were out there because the market was crashing.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Gaming establishments are very dangerous because as soon as the economy goes down, people stop gambling."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, you know, you got to be, you know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And what would be your advice to anyone watching who sees you in this position and wants to follow in your footsteps?"
+      }
+    ],
+    "speakername": "Ben Mallah",
+    "ground_truth": "You guys got to get out there and look for the deal. Find a deal that has some kind of potential where you can make it better. You can create value. You can get some sweat equity in it. It's called value add. You know, and typically there's always going to be a place like that. You know, people die. People retire. There's always a house even you can fix up. Let me tell you another good thing that I did very well on. I did very well on student housing. You can go out and you can buy. Let's say you just buy a house. You buy a house and let's say that house is a big house with four bedrooms in it. With students, you don't rent the whole place out. You rent it by the bed. And that we did very well in because we went out and we bought a property that had a lot of four-bedroom apartments in it. And you can rent each bedroom out for about $500 a month or more, $600 even. Now you took a place that you normally would rent out for $1,000 a month as a four-bedroom, but you rent it out individually. So you rent it out individually as the bed and they share the kitchen, they share the living room and you get $2,000 a month. So if you're anywhere near an educational institution, look for student housing. You can do it on a small level too. And a lot of times students will get together and rent each bedroom. Right. But always make the parents guarantee the lease. So if they don't pay, you go back to the parent. Hey, your kid didn't pay their rent, you know. But student housing is good. Senior housing is great. Because with seniors, they never move and they don't break anything and they don't really use anything. It's pretty easy to run a senior building.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, you know, you got to be, you know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And what would be your advice to anyone watching who sees you in this position and wants to follow in your footsteps?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You guys got to get out there and look for the deal. Find a deal that has some kind of potential where you can make it better. You can create value. You can get some sweat equity in it. It's called value add. You know, and typically there's always going to be a place like that. You know, people die. People retire. There's always a house even you can fix up. Let me tell you another good thing that I did very well on. I did very well on student housing. You can go out and you can buy. Let's say you just buy a house. You buy a house and let's say that house is a big house with four bedrooms in it. With students, you don't rent the whole place out. You rent it by the bed. And that we did very well in because we went out and we bought a property that had a lot of four-bedroom apartments in it. And you can rent each bedroom out for about $500 a month or more, $600 even. Now you took a place that you normally would rent out for $1,000 a month as a four-bedroom, but you rent it out individually. So you rent it out individually as the bed and they share the kitchen, they share the living room and you get $2,000 a month. So if you're anywhere near a university, look for student housing. You can do it on a small level too. And a lot of times kids will get together and rent each bedroom. Right. But always make the parents guarantee the lease. So if they don't pay, you go back to the parent. Hey, your kid didn't pay their rent, you know. But student housing is good. Senior housing is great. Because with seniors, they never move and they don't break anything and they don't really use anything. It's pretty easy to run a senior building."
+      }
+    ],
+    "speakername": "Ben Mallah",
+    "ground_truth": "There's a lot of different areas of real estate that you can do really well in. How did you learn all of this? Did you have someone you kind of mentored? Just by doing it, experiencing it.",
+    "bio": "The speaker's MBTI type is ESFP"
+  }
+]

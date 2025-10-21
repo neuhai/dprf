@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's part of my life. I spend most of my life in the cube than without."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "For 40 years, the puzzle cube has both fascinated and frustrated us thanks to this man, [target]. Before his cube became an iconic toy, the 76-year-old architecture professor invented the 3D structure as a teaching aid for his students in 1974. How long did it take for you to solve it at first?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "For me, in that time, it was surprisingly difficult. So I never expected that it would be so difficult."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] himself took more than a month to solve it, calling it the magic cube. Did you have a hard time introducing it to a broader market?"
+      }
+    ],
+    "speakername": "Erno Rubik",
+    "ground_truth": "It's not an easy task, usually. We love our things, what we are familiar with. It was another three years to be able to break through the political barrier and start the distribution in the Western world, worldwide.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "For me, in that time, it was surprisingly difficult. So I never expected that it would be so difficult."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] himself took more than a month to solve it, calling it the magic cube. Did you have a hard time introducing it to a broader market?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's not an easy task, usually. We love our things, what we are familiar with. It was another three years to be able to break through the geopolitical barrier and start the distribution in the Western world, worldwide."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in 1980 the professor's creation took the world by storm with a new name the [target]'s cube once you get your hands on [target]'s cube you may never be able to put it down with millions of people getting in on the colorful craze but shortly after the toy's popularity reportedly declined a major newspaper even wrote an obituary what did you learn from that time"
+      }
+    ],
+    "speakername": "Erno Rubik",
+    "ground_truth": "It was a very interesting time, you know, the time of the craze. It's not a toy, you can say it's a puzzle, but it's more than a puzzle. I prefer to call it a piece of art.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's not an easy task, usually. We love our things, what we are familiar with. It was another three years to be able to break through the border barriers and start the distribution in the Western world, worldwide."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in 1980 the professor's creation took the world by storm with a new name the [target]'s cube once you get your hands on [target]'s cube you may never be able to put it down with millions of people getting in on the colorful craze but shortly after the toy's popularity reportedly declined a major newspaper even wrote an obituary what did you learn from that time"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was a very interesting time, you know, the time of the craze. It's not a toy, you can say it's a puzzle, but it's more than a puzzle. I prefer to call it a piece of art."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The Cube made a comeback in the early 90s, its twists and turns becoming a mainstay in pop culture. It crosses all age groups, genders, language. You know, there's a unifying piece to this as well."
+      }
+    ],
+    "speakername": "Erno Rubik",
+    "ground_truth": "I've seen yogis playing with the cube in South Asia, you know, and many interesting people around the world. I think that one of the key of the success is a joint adventure of the people's hands and the mind. These two things make us human.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It was a very interesting time, you know, the time of the craze. It's not a toy, you can say it's a puzzle, but it's more than a puzzle. I prefer to call it a piece of art."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The puzzle made a comeback in the early 90s, its twists and turns becoming a mainstay in pop culture. It crosses all age groups, genders, language. You know, there's a unifying piece to this as well."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I've seen yogis playing with the puzzle in [location], you know, and many interesting people around the world. I think that one of the key of the success is a joint adventure of the people's hands and the mind. These two things make us human."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And for the past couple of years, some of the fastest hands compete globally in speedsolver competitions, solving the puzzle in mere seconds. What does that feel like for you to see people who love it so much?"
+      }
+    ],
+    "speakername": "Erno Rubik",
+    "ground_truth": "It's a good feeling, it's a heartwarming feeling, but mostly teenagers. And they are really, I can say, some kind of fanatics on the puzzle. They love to compete, they learn from each other. It's very nice and very lovely to see that.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I've seen yogis playing with the cube in [location], you know, and many interesting people around the world. I think that one of the key of the success is a joint adventure of the people's hands and the mind. These two things make us human."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And for the past couple of years, some of the fastest hands compete globally in speedcuber competitions, solving the puzzle in mere seconds. What does that feel like for you to see people who love it so much?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a good feeling, it's a heartwarming feeling, but mostly teenagers. And they are really, I can say, some kind of fanatics on the Cube. They love to compete, they learn from each other. It's very nice and very lovely to see that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "These days even more people are up for the challenge with more than 25 million people viewing the hashtag Cuban home on tick-tock alone. With 43 quintillion combinations for the puzzle and one solution. I could let the professor go without asking for some tips. I have this one and I haven't messed it up when this is painting me to mess this up, I won't Google it because I could."
+      }
+    ],
+    "speakername": "Erno Rubik",
+    "ground_truth": "To do only one side, it's really simple, so you need only concentration and try to imagine if I'm doing this, what will happen.",
+    "bio": "The speaker's MBTI type is INTP"
+  }
+]

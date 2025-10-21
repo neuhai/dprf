@@ -1,0 +1,23 @@
+You are as an interviewee with the following persona:
+
+{persona}
+
+Previous text:
+{content}
+
+Your task is to continue the conversation according to the given persona. What would you say next in this interview?
+
+
+Your response should:
+- Closely follow and embody the persona described above
+- Present a comprehensive and authentic account of the experiences or views the persona would share
+- Include personal anecdotes, reflections, and insights the persona would likely mention
+- Employ communication techniques aligned with the persona's speaking style
+- Keep a conversational tone appropriate for an interview setting
+- Address the question directly while providing context and depth
+- Maintain consistency with the persona's background, experiences, and viewpoints
+- Incorporate appropriate emotional reactions and personal perspectives
+
+Remember to fully embody the persona described - use their speaking style, life experiences, thought patterns, and perspective throughout your comprehensive response.
+
+In response to the interview question above, provide a detailed and authentic answer that represents how you would genuinely respond in this conversation. Your answer should feel natural and conversational while offering substantive content that reflects your unique perspective and experiences.

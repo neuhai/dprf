@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I guess I would say I don't agree that that's the expectation. I mean, certainly not. I think that the vice president, and I've worked with her for many years, both in her capacity as vice president, but also as a U.S. senator when she was a member of the Congressional Black Caucus, which, as you know, as I'm a member of as well. And I trust her to have the best judgment in selecting who she believes will be the most talented, most thoughtful governing partner and the most effective vice president for our country. I think that's the standard. I don't know. I don't have visibility into all the specific people who are being considered or vetted. I know I've read the same reports you have. And so I get what you're saying in terms of some of the public reporting about who's being considered. But I don't, I guess, without knowing for certainty who's actually on that list, I don't know that that is necessarily the case. It's not my expectation. I guess I would just say that. I've always believed that merit matters and that you select the best and most talented people. By the way, it's why I'm excited about Vice President Harris's candidacy for president. I think she's one of the most qualified candidates for president of the United States, probably in the last quarter century, with the exception of Joe Biden, just in terms of her public service record. You know, she served as a U.S. senator of our country's largest state. She was attorney general, of course, a district attorney and now vice president. So, yeah, that's how I read it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Can you tell me of a time you had concern that President Biden should not continue running for reelection? Can you repeat the question, Marshall? Yes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the time that I was concerned or a time that you were, that you were, that you were concerned that he should not consider running for reelection? Is there a time that you said, I should tell him that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, certainly after the debate, I mean, I think I had the same reaction that a lot of Americans, certainly a lot of residents from my state did after the debate in terms of the president's performance during the debate. And, you know, I think legitimate questions were raised about, you know, the electoral prospects in light of both the debate and the perceptions around his performance. And that was something that I certainly was concerned about, that I heard from constituents, that I also heard from colleagues. But just to be clear, you know, I also heard the alternative view, as I suspect you did. Again, part of this is because I do so many town halls and community events, I get a lot of feedback. And, you know, ultimately."
+      }
+    ],
+    "speakername": "Joe Neguse",
+    "ground_truth": "are my constituency, much like the state, you know, those who are interested in, you know, the Democratic Party politics, I should say, in terms of who the Democratic Party would nominate as their candidate, were very conflicted. And there were views of some who believed very passionately that he should stay as the nominee. And of course, as you know, in our delegation as well, there were, you know, folks who felt that as well. So yeah, look, I've always prided myself from day one, and you've probably heard me say this before, I think maybe perhaps in one of our interviews, that I try to listen first and lead locally. And so it's a big part of my job as a representative. It's a big part of my job as the assistant leader and, you know, try to get it right as often as I can.",
+    "bio": "The target (born May 13, 1984) is an American politician serving as the Representative for a congressional district since 2019. A member of the Democratic Party, they previously were a Regent of a state university from 2008 to 2015. The target is the first person of their ethnic background elected to Congress and their state's first representative of recent African descent. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the time that I was concerned or a time that you were, that you were, that you were concerned that he should not consider running for reelection? Is there a time that you said, I should tell him that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, certainly after the debate, I mean, I think I had the same reaction that a lot of Americans, certainly a lot of state residents did after the debate in terms of the president's performance during the debate. And, you know, I think legitimate questions were raised about, you know, the electoral prospects in light of both the debate and the perceptions around his performance. And that was something that I certainly was concerned about, that I heard from constituents, that I also heard from colleagues. But just to be clear, you know, I also heard the alternative view, as I suspect you did. Again, part of this is because I do so many town halls and community events, I get a lot of feedback. And, you know, ultimately."
+      },
+      {
+        "speaker": "[target]",
+        "text": "are my constituency, much like the state, you know, those who are interested in, you know, the Democratic Party politics, I should say, in terms of who the Democratic Party would nominate as their candidate, were very conflicted. And there were views of some who believed very passionately that he should stay as the nominee. And of course, as you know, in our delegation as well, there were, you know, folks who felt that as well. So yeah, look, I've always prided myself from day one, and you've probably heard me say this before, I think maybe perhaps in one of our interviews, that I try to listen first and lead locally. And so it's a big part of my job as a congressman. It's a big part of my job as the assistant leader and, you know, try to get it right as often as I can."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We heard about Congressman Crowe getting to say his piece on a phone call. Did you ever get a chance to say anything directly to the president?"
+      }
+    ],
+    "speakername": "Joe Neguse",
+    "ground_truth": "I did not speak directly to the president. As I said, I, you know, serve in the House leadership and so was part of that process to ultimately funnel up the information to Leader Jeffries, who did meet directly with the president and presented the caucus's views.",
+    "bio": "The subject, born May 13, 1984, is an American politician serving as a Representative for a congressional district since 2019. A member of the Democratic Party, they previously served as a Regent of a state university from 2008 to 2015. The subject is the first person of their ethnic background elected to Congress and their state's first congressman of recent African descent. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No. I mean, again, the president has been out front. He's delivered a number of speeches in just the last two weeks, including, I thought, one of the most compelling speeches of his entire public service career, which has been a distinguished career over 50 years just a few days ago on, I believe it was Tuesday, right? Or sorry, Wednesday evening. And so, no, I don't, I think that that's a spurious argument that's being made by, unfortunately, my colleagues on the other side of the aisle. And I think that's unfortunate. I don't buy into that argument."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I just have a couple more, and I know you've got somewhere to be. No, it's all right. Your colleague, Congressman Yadira Caraveo, was one of six Democrats who voted yesterday with Republicans, quote, strongly condemning Vice President Harris for her handling of the border. Was that a Republican smear campaign?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I guess what I would say is just a couple of things. First and foremost, Yadira Caraveo is a personal friend. She's a treasured colleague. Our districts are adjacent to each other. I think she's done a fabulous job representing the people of the northern region, and she is a rising star in our party, and I'm just very grateful that she's been willing to serve in this capacity. I would say with respect to your particular question, just kind of more broadly, the Democratic Party is not a monolith, right? I mean, we're a big tent party. We have a diversity of views within the House Democratic Caucus, and we're not all going to see every resolution or every bill that comes before us the same way. As you know, I voted against the resolution that you referenced. Congresswoman Caraveo was not the only Democrat to vote for it. There were others as well. And so, look, if anything, I think the fact that we have a richness of views and that we can have a healthy debate and agree to disagree but nonetheless be undergirded by our shared values is what makes the difference. So we have to do our best to keep the Democratic Party strong and, frankly, very different, again, without to get too partisan here, but very different from my colleagues on the other side who are very much kind of towing the party line, irrespective of their underlying views on the matter. So there is space to be able to reach a different conclusion, and I reached a different conclusion about that resolution."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why do you think she participated in voting for that?"
+      }
+    ],
+    "speakername": "Joe Neguse",
+    "ground_truth": "I don't, you'd have to ask her for her rationale in terms of why she supported the resolution. I haven't spoken to her about that.",
+    "bio": "The representative, born in 1984, is serving as a U.S. Representative for a congressional district in a western state since 2019. A member of the Democratic Party, they previously served as a Regent of a state university from 2008 to 2015. They are the first representative of their ethnic background elected to Congress and their state's first congressman of recent African descent. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I guess what I would say is just a couple of things. First and foremost, Yadira Caraveo is a personal friend. She's a treasured colleague. Our districts are adjacent to each other. I think she's done a fabulous job representing the people of the counties, and she is a rising star in our party, and I'm just very grateful that she's been willing to serve in this capacity. I would say with respect to your particular question, just kind of more broadly, the Democratic Party is not a monolith, right? I mean, we're a big tent party. We have a diversity of views within the House Democratic Caucus, and we're not all going to see every resolution or every bill that comes before us the same way. As you know, I voted against the resolution that you referenced. Congresswoman Caraveo was not the only Democrat to vote for it. There were others as well. And so, look, if anything, I think the fact that we have a richness of views and that we can have a healthy debate and agree to disagree but nonetheless be undergirded by our shared values is what makes the difference. So we have to do our best to keep the Democratic Party strong and, frankly, very different, again, without to get too partisan here, but very different from my colleagues on the other side who are very much kind of towing the party line, irrespective of their underlying views on the matter. So there is space to be able to reach a different conclusion, and I reached a different conclusion about that resolution."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why do you think she participated in voting for that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't, you'd have to ask her for her rationale in terms of why she supported the resolution. I haven't spoken to her about that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, let me ask it this way. What do you think for participating in voting for it? What was that? What do you think about her yes vote for that?"
+      }
+    ],
+    "speakername": "Joe Neguse",
+    "ground_truth": "I think that she is voting. Well, I guess what I would say is that I'm not going to speak for her and her decision-making about why she votes on a particular piece of legislation. We take literally hundreds of votes. Last week, we took a number of votes on amendments, on funding bills. Myself, Congresswoman Caraveo, and by the way, other members of the Democratic delegation, and as you can imagine, Republican members of our delegation did not all agree on those amendments. There were a lot of other votes where Congresswoman DeGette and myself wouldn't necessarily agree, and I understand why, and I'm not faulting you, obviously. Of course, I know that there's kind of a myopic focus on this particular resolution, but I guess I'm just trying to find, trying to provide some context that we have a space within the Democratic caucus to reach a different conclusion. I'm happy to talk to you about kind of what I believe are some of the mischaracterizations about the Vice President's record as it relates to immigration, and I can only... I can only speak for my rationale in terms of voting against that resolution, or just more broadly, some of my criticisms of how the Republicans have been, I think, attacking the Vice President in a way that is not consistent with the facts.",
+    "bio": "The target (born May 13, 1984) is an American politician serving as the Representative for a congressional district since 2019. A member of the Democratic Party, they previously were a Regent of a state university from 2008 to 2015. The target is the first person of their heritage elected to Congress and their state's first congressman of recent African descent. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't, you'd have to ask her for her rationale in terms of why she supported the resolution. I haven't spoken to her about that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, let me ask it this way. What do you think for participating in voting for it? What was that? What do you think about her yes vote for that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think that she is voting. Well, I guess what I would say is that I'm not going to speak for her and her decision-making about why she votes on a particular piece of legislation. We take literally hundreds of votes. Last week, we took a number of votes on amendments, on funding bills. Myself, Congresswoman Caraveo, and by the way, other members of the Democratic delegation, and as you can imagine, Republican members of our delegation did not all agree on those amendments. There were a lot of other votes where Congresswoman DeGette and myself wouldn't necessarily agree, and I understand why, and I'm not faulting you, obviously. Of course, I know that there's kind of a myopic focus on this particular resolution, but I guess I'm just trying to find, trying to provide some context that we have a space within the Democratic caucus to reach a different conclusion. I'm happy to talk to you about kind of what I believe are some of the mischaracterizations about the Vice President's record as it relates to immigration, and I can only... I can only speak for my rationale in terms of voting against that resolution, or just more broadly, some of my criticisms of how the Republicans have been, I think, attacking the Vice President in a way that is not consistent with the facts."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't need to belabor. I mean, you're right. It is more of a question for her, which we've tried to ask directly to her. But I appreciate you providing that context. I'll wrap up. Some national reporting suggests that Speaker Emerita Nancy Pelosi still calls the shots and that Democrats, including herself and all the way up to President Biden, follow her direction. Is that an accurate picture of how things work behind the scenes?"
+      }
+    ],
+    "speakername": "Joe Neguse",
+    "ground_truth": "I have not seen the reporting that you're suggesting. That's certainly not accurate. And I haven't read those news reports. I can only speak to what I experienced, which is, again, being a part of the leadership team, working with Leader Jeffries, with Whip Clark from [State], from Chairman Aguilar, who's the chairman of our House Democratic Caucus from [State]. I think there's a...",
+    "bio": "The representative was born May 13, 1984 and is serving as the U.S. Representative for [State]'s 2nd congressional district since 2019. A member of the Democratic Party, they previously served as a Regent of the [State University] from 2008 to 2015. They are the first [Nationality]-American elected to the United States Congress and their state's first congressman of recent African descent. The speaker's MBTI type is ENFJ"
+  }
+]

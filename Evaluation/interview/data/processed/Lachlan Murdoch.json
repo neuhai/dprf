@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Co-executive chairman of a major media corporation, [target], joining our own Andrew Ross Sorkin at a major business conference this morning. A major news network is the exclusive broadcast partner of the event. [target] doesn't speak publicly very often. Let's listen in."
+      },
+      {
+        "speaker": "[target]",
+        "text": "obviously, our employees and our colleagues within those businesses. And so the journey to sell such a large part of the business to a major entertainment company was one that took some time. It took some time for us to really think about, to think about where the industry's gone, what the challenges we saw on the horizon, particularly for the entertainment part of the business, but also about where those assets could sit that would actually make them more viable and stronger than they were just with us. And so probably, say, 18 months ago, we got our first phone call from a phone company who was interested. Our stock was certainly undervalued. You could see that on every spreadsheet of every media company."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it's been reported that it was a major telecommunications company."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "calls you."
+      }
+    ],
+    "speakername": "Lachlan Murdoch",
+    "ground_truth": "A major telecommunications company calls us and says they'd be interested in an acquisition but this was in the midst of a major media merger and you know when we thought about the merger we didn't think the company would be a better run media company that's they're very well run media company but they weren't necessarily better they weren't gonna be making better creative decisions putting better shows on air because they were owned by a phone company and so you know it was easy to say we didn't understand the strategic fit with the telecommunications company we didn't see our assets necessarily being stronger but then a few months later when a major entertainment executive called we did and we had already had this in our mind would there ever be a time when we would sell when they called we immediately saw this was actually you know had made a great deal of strategic sense and so my brother and I'm and my father we sat down we went to my father's office and we had a long conversation about it and we could see the entertainment assets like major entertainment networks businesses like major media brands obviously our IP and our movie studio movies coming out like major film franchises these fit right in the entertainment company's wheelhouse",
+    "bio": "The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "calls you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "A telecommunications company calls us and says they'd be interested in an acquisition but this was in the midst of the media merger deal and you know when we thought about the merger we didn't think they would be a better run media company that's they're very well run media company but they weren't necessarily better they weren't gonna be making better creative decisions putting better shows on air because they were owned by a phone company and so you know it was easy to say we didn't understand the strategic fit with the telecommunications company we didn't see our assets necessarily being stronger but then a few months later when the entertainment company CEO called we did and we had already had this in our mind would there ever be a time when we would sell when he called we immediately saw this was actually you know had made a great deal of strategic sense and so my brother and I'm and my father we sat down we went to my father's office and we had a long conversation about it and we could see the entertainment assets like our media businesses obviously our IP and our movie studio movies coming out like our flagship films these fit right in the entertainment company's wheelhouse"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and will create a lot more value for shareholders with the entertainment company than they would for us. So your dad calls in. What was your initial reaction? And what was your brother's? Well, we knew what the conversation was about. And we talk every day, and we're all very transparent and open with each other. And I think we all agreed when we saw on paper that the assets that we would sell to the entertainment company would do incredibly well under their ownership."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is there any part of you personally that thought you know what I may not get to run this big empire in the future"
+      }
+    ],
+    "speakername": "Lachlan Murdoch",
+    "ground_truth": "I think your first thought is shareholders, right? Your first thought is where can we get our business and our value to the point where the entertainment company can get it within a couple of years, right? In the same time frame as them. And we were honest with ourselves. We said, no, we believe in these assets. We believe in their growth. But under their ownership, they were stronger and made more strategic sense than under our ownership. Of course, they couldn't buy the TV network. News fit well with the network, as does our sports division, the national sports networks. And so we realized that having a business based on live news and live sport, obviously with a lot of entertainment as well, was an excellent position in standalone business.",
+    "bio": "The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "there in the beginning when they came to us shortly after after the media company we at the time couldn't get get our heads around that the regulatory risk that the cable company brought with it to acquire all of our assets we're just certainly a higher risk our advice was than the media company out to any regulatory media company risk so so the cable company was certainly there and certainly showing that they were very interested of course later when they came and did very aggressively was you there"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You ever think that would happen?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I thought that our initial negotiation with the media company was very good. We were very pleased to sell the businesses to the media company, but that we could get a higher price if we could get a bit of war going. So we felt that there was more."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And what was it about... There was something about the cable company. It felt like you did not want to sell to the cable company. There were these messages that would be sent effectively in the newspapers where your father would have dinner with the CEO literally the day before the next bidding round."
+      }
+    ],
+    "speakername": "Lachlan Murdoch",
+    "ground_truth": "I don't think it's true either we would know we would absolutely have sold a the cable company there was a very high regulatory risk around some of our assets in the way it's ended up which is the cable company as you know has has ended up winning the the bidding war to buy the satellite company I think I think works very well so",
+    "bio": "The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I thought that our initial negotiation with [company1] was very good. We were very pleased to sell the businesses to [company1], but that we could get a higher price if we could get a bit of war going. So we felt that there was more."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And what was it about... There was something about [company2]. It felt like you did not want to sell to [company2]. There were these messages that would be sent effectively in the newspapers where your father would have dinner with [person1] literally the day before the next bidding round."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think it's true either we would know we would absolutely have sold a [company2] there was a very high regulatory risk around some of our assets in the way it's ended up which is [company2] as you know has has ended up winning the the bidding war to buy [company3] I think I think works very well so"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you disappointed about that?"
+      }
+    ],
+    "speakername": "Lachlan Murdoch",
+    "ground_truth": "No. That outcome? No, I think, [person2], we're not, we don't skin in the game anymore, right? We built [company3] over many years.",
+    "bio": "The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "All right, so let's start off with today's news. This morning, a major network fired their host 24 hours after learning about some incident that we know about. Another prominent host was fired in 24 hours. A major news network famously had a relatively long period, it seemed, with a lot of folks who were accused of similar things before they departed the company. Does this make you rethink that at all?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now, well, let me first of all say, with the recent case, and I don't know anything more than what we've all seen read or watched the headlines this morning, and it's important, I think, for us all to take perspective from the outside looking in around any allegation or investigation that a company has, and certainly we've lived through this for the last year and a half, is that the fact, Seth,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "these allegations or whether there's been harassment or not can be very different in very different cases which the headlines don't always show so a harassment case or claim against one person and one one situation versus someone else might be completely different situations and also might be much more difficult for a company to act on now presumably here in this network's case they've had actionable information that they were able to move very quickly and you've got to commend them for that and it's a terrific sign to see the company is moving that quickly to to eradicate if that's ever possible we hope it is sexual harassment in the workplace but with with our network for instance it took us 13 days from the time we had the first we learned of the first allegation against our former executive until the time we sort of walked him out of the building and so you know I'm not sure when they first we don't know when they first heard this this allegation but certainly I think 13 days by historical standards of not being able to move that quickly to eradicate if that's ever possible we removing a CEO of a business"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think it was a pretty good track record. And with the other case, it seemed that there was a private settlement that he was then allowed to continue. Have things changed around that?"
+      }
+    ],
+    "speakername": "Lachlan Murdoch",
+    "ground_truth": "No, so what happened for us is that, again, you have to look at the fact sets. And the fact sets around our former executive situation and the other host situation, you know, appeared very different and still appear to be, well, still are factually different. With the first case, what we were able to do is go in, we hired an outside law firm to work for us, not technically independent, but work for us to go in and investigate all the allegations, which included speaking to the women involved, corroborating their stories, getting, you know, firsthand corroboration from when the harassment was claimed to have happened. So a really very rigorous investigation where we were able to talk to our employees and gain the facts that we needed to act upon that, right, and to exit an executive. With the second case, that was very different in that there were private settlements that had happened in the past. The company had never had a complaint, and the private settlements precluded anyone from talking to us. So we had a complete inability to actually dig into the story and to find out what had actually happened. Once, however, these claims became public and we were aware of them, what we were able to do was change his contract and say that, you know, if there was any further allegations that arose, we could fire him for calls immediately.",
+    "bio": "The speaker's MBTI type is ISFJ"
+  }
+]

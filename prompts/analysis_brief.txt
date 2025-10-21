@@ -1,0 +1,16 @@
+You are an expert in cognitive science; your task is to analyze the cognitive differences between the current response based on the persona description and the expected response of a target human.
+
+PERSONA:
+{persona}
+
+BACKGROUND INFORMATION
+{content}
+
+CURRENT RESPONSE:
+{generated_response}
+
+EXPECTED RESPONSE:
+{ground_truth}
+
+Conduct a comprehensive, structured analysis comparing the current behavioral/non-behavioral responses to the ideal one, and explicitly state what should be incorporated into the persona description to produce individualized behavioral/non-behavioral responses that more closely match the ideal one.
+Your response should provide analysis conclusions with reasons and specific examples (if applicable), formatted as numbered points: 1. 2. 3. etc.

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Cheers!"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "He and I have a secret. We'll tell you what it is when the race is over."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's how the founders envisioned it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Makes a lot of sense to me."
+      }
+    ],
+    "speakername": "Jim Jordan",
+    "ground_truth": "put the sticker on his doorbell cam so they couldn't see. 58 seconds later, he is dead. Is this not criminal? It's troubling.",
+    "bio": "The target (born February 17, 1964) is the representative for a congressional district, serving since 2007, as well as the current Ranking Member of a major oversight committee.\n\nThe target is a founding member of a conservative caucus, serving as its first chair from 2015 to 2017. He was the ranking member of the oversight committee from 2019 to 2020. He vacated that position to become the ranking member of the judiciary committee. A close ally of a former president, the target was awarded a presidential medal on January 11, 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Was it your brother introducing you or how that took place with teammates?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and you're always up there doing your thing, so it's great to have you on the podcast. Good to be with you. Thanks for all the good work you do. My boys are big fans, and I've watched some of your clips here lately, but yeah, it is great to be with someone who's getting truth and facts and information out to the people and all the good work you've done, and the service to our country. I appreciate that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Thank you, likewise, likewise, because, you know, first of all, how do you go from two-time state champion and, you know, four-time, you know, in your high school, how do you go from that to wanting to do politics?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I was at a point, I was assistant coach at [university]. And so I was at a point where I did that for eight years. And, you know, at some point, it's kind of time to go try to be a head coach in a major conference or do something else. And I was looking for something new to compete at. And we were just talking about how you love competition and same here. And frankly, when you, you know how it is, you get married, you have kids, you suddenly start looking at the world different. You get tired of government taking your money and telling you what to do and insulting your values. And so I decided to run the state rep, the local in our General Assembly in [state]. The state rep had announced he was going to retire. And I'd never been in politics, never run for anything. I was 29-year-old, you know, Joe Bagadona. It's never been in politics. And I think I'm going to run for state rep. And I still remember, I still remember going and talking to the heads of the party where, because where I'm from, it's all about winning the Republican primary. So I still remember going and talking to the folks and saying, you know, I'm thinking about, you know, running for state rep. And they, they basically said, well, you're a nice young guy. Cause I was young back then. They said, you're a nice young guy, but this two-term county commissioner is running and, you know, he's the favorite and yada, yada. And I politely said, you know, they basically said like, you know, you can't win. And I, and I politely said, we'll see. Right. That's why they kicked the ball off on Friday night. You got to play the game. He's going to win."
+      }
+    ],
+    "speakername": "Jim Jordan",
+    "ground_truth": "And we had a bunch of good people help us out, knocking on doors. I mean, we were knocking doors every weekend. And we wound up winning 70 to 30, which, you know, in politics is a complete smack. It was just like we. And so I've been in politics ever since. I have 30 years, 1994.",
+    "bio": "The representative (born February 17, 1964) is the U.S. Representative for [state]'s 4th congressional district, serving since 2007, as well as the current Ranking Member of the House Oversight Committee.\n\nThe representative is a founding member of the conservative House Freedom Caucus, serving as its first chair from 2015 to 2017. He was the ranking member of the House Oversight Committee from 2019 to 2020. He vacated that position to become the ranking member of the House Judiciary Committee. A close ally of the former President, the representative was awarded the Presidential Medal of Freedom on January 11, 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "so I'm like dude what is the mess stop and I'm like what's the matter with you he says well listen I mean I'm pretty good at it says why are you so good he says I was a state champion in [state]"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm like, well, you were enjoying yourself too much. I wanted to surprise you. But that's the thing with wrestlers sometimes because you can never tell. And then all of a sudden you're like, ah. Unless they got the ear. Yeah, unless they got the ear, which is."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah, when you see the ear, it's a good signal to say, how are you, sir? Maybe the approach changes a little bit."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I wouldn't mess with you when you're built like that."
+      }
+    ],
+    "speakername": "Jim Jordan",
+    "ground_truth": "It's funny because we were this a couple of years ago and I was campaigning, helping a colleague in [state]. We're in [city], time change, late at night and Polly's sleeping. I'm up, I can't sleep. And I'm clicking through [sports network] and I'm on there and they're doing the, you know, Dana does the preview of the big fight coming up. It's like the week before. And so they're previewing how they train. And it was Khabib's protege. I forget the guy's name. He's the tough, same weight class as Khabib. Khamzat or? Ishmael, something like that. I forget. Anyway, they're showing him training and then they're showing the guy from [country].",
+    "bio": "[target] (born February 17, 1964) is the U.S. Representative for [state]'s 4th congressional district, serving since 2007, as well as the current Ranking Member of the [government institution] Oversight Committee.\n\n[target] is a founding member of the conservative [government institution] Freedom Caucus, serving as its first chair from 2015 to 2017. He was the ranking member of the [government institution] Oversight Committee from 2019 to 2020. He vacated that position to become the ranking member of the [government institution] Judiciary Committee. A close ally of President [former president], [target] was awarded the Presidential Medal of Freedom on January 11, 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "that it's not a majority."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "how many people would be for it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it wouldn't be enough to pass, I don't think."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "percent."
+      }
+    ],
+    "speakername": "Jim Jordan",
+    "ground_truth": "No, I'd be more than that. There's, there's a number of conservatives who'd support it. And it would, I think it's important to be equal to the [legislature]. So I think you'd probably have to go 12 and 12. You get 12, six terms in the [lower chamber], two terms in the [upper chamber], 12 and 12. If you, if you do that, and of course, we've had term limits on the president now for what, since [past president].",
+    "bio": "The individual (born February 17, 1964) is the Representative for [state]'s 4th congressional district, serving since 2007, as well as the current Ranking Member of the [legislative] Oversight Committee.\n\nThe individual is a founding member of the conservative [legislative] Freedom Caucus, serving as its first chair from 2015 to 2017. They were the ranking member of the [legislative] Oversight Committee from 2019 to 2020. They vacated that position to become the ranking member of the [legislative] Judiciary Committee. A close ally of [former president], the individual was awarded the [national] Medal of Freedom on January 11, 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, the term limits, in the end, requires a constitutional amendment. So that's a long process to amend our Constitution. So that's tough. The first one was on limiting advertising. Big pharma? Yeah. I mean, you may have a chance with that. I mean, I think it's difficult. And, of course, you'd have the pharmaceutical industry working against you. Lobbyists are working against you. Yeah, of course, of course. And then going after [name], I mean, I think the country's with you. The country remembers. I'm certainly with you. I've been going after that guy for, I still remember one time when he was in front of the hearing. I think I asked him this question like 100 times in five minutes. When do we get our liberty back? What measure, what metric, what has to happen before Americans get their First Amendment rights back? And he just, like, it was, I mean, I got, it's one of the few times I really actually got mad at the witness. So I'm all for doing that one. Now, as far as any crime. You know, I don't, I don't know that that's there, but that would, that would obviously be up to, up to the Justice Department."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, of course."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then on [country], I do think that is critically important. You want to go specifically regarding COVID, but in a general sense, we understand [country]. We've got to beat them in AI. I mean, that's the competition out there. I'm talking reparations."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You stopped the world. You released the virus. You were irresponsible because of you. This is how much the world lost on what you did. All these families that have history, relationship, we have to hold you accountable."
+      }
+    ],
+    "speakername": "Jim Jordan",
+    "ground_truth": "Remember, you couldn't even say that. I know you couldn't even say that. You couldn't even say that, though.",
+    "bio": "The target (born February 17, 1964) is the U.S. Representative for a midwestern congressional district, serving since 2007, as well as the current Ranking Member of the House Oversight Committee.\n\nThe target is a founding member of the conservative House Freedom Caucus, serving as its first chair from 2015 to 2017. He was the ranking member of the House Oversight Committee from 2019 to 2020. He vacated that position to become the ranking member of the House Judiciary Committee. A close ally of a former President, the target was awarded a prestigious presidential medal in January 2021. The speaker's MBTI type is ESTJ"
+  }
+]

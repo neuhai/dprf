@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, she did her due diligence. She said from the beginning she was going to give Pete a fair chance. Pete did exactly what he said he was going to do. He was going to take the fight to the members, not let the media figure this out themselves. And he went from meeting to meeting, meeting with one member at a time, explaining the situation, facing the tough questions. And then today he handled himself with dignity in class. He took the oncoming fire. He was composed and he handled himself with with great compassion for the job. And I think at the end of the day, Johnny was like, that's what I was looking for right there. And she waited till she saw what she needed to see and committed to voting for him."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think her saying yes virtually assures that he will get confirmed?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. You know, I know there was a couple other Republicans that was looking at the way she was going to go, that they were going to follow her lead. I think with her saying absolutely yes, she's going to support him now, all but confirms his ability to to be the next secretary of defense."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So we heard from Senator Gary Peters there of Michigan today on whether or not he's qualified for the job, not just the allegations against him, but whether or not he himself has the qualifications for this. You seemed incensed by that when it was your turn to ask questions. I want to just play a bit of what you said when you had the microphone."
+      }
+    ],
+    "speakername": "Markwayne Mullin",
+    "ground_truth": "I'm just looking for qualifications. You didn't give me any qualifications. Starts bringing up the fact that, what if you showed up drunk to your job?",
+    "bio": "Mark Wayne \\\"Markwayne\\\" Mullin (born July 26, 1977) is an American and Cherokee Nation businessman and politician who has served as the junior United States senator from Oklahoma since 2023. A member of the Republican Party, he was elected in a special election in 2022 to serve the remainder of Jim Inhofe's term. Mullin is the first Native American U.S. senator since Ben Nighthorse Campbell retired in 2005. He is also the second Cherokee Nation citizen elected to the Senate; the first, Robert Latham Owen, retired in 1925. Before being elected to the Senate, Mullin served as the U.S. representative for Oklahoma's 2nd congressional district from 2013 to 2023. (From Wikipedia). The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think her saying yes virtually assures that he will get confirmed?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. You know, I know there was a couple other Republicans that was looking at the way she was going to go, that they were going to follow her lead. I think with her saying absolutely yes, she's going to support him now, all but confirms his ability to to be the next secretary of defense."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So we heard from Senator Gary Peters there of Michigan today on whether or not he's qualified for the job, not just the allegations against him, but whether or not he himself has the qualifications for this. You seemed incensed by that when it was your turn to ask questions. I want to just play a bit of what you said when you had the microphone."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm just looking for qualifications. You didn't give me any qualifications. Starts bringing up the fact that, what if you showed up drunk to your job?"
+      }
+    ],
+    "speakername": "Markwayne Mullin",
+    "ground_truth": "How many senators have showed up drunk to vote at night? Have any of you guys asked them to step down and resign for their job? And don't tell me you haven't seen it because I know you have.",
+    "bio": "A businessman and politician who has served as the junior United States senator from their state since 2023. A member of the Republican Party, they were elected in a special election in 2022. They are the first Native American U.S. senator in nearly two decades and the second member of their tribe elected to the Senate. Before being elected to the Senate, they served as the U.S. representative for their district from 2013 to 2023. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So we heard from Senator from [State] today on whether or not he's qualified for the job, not just the allegations against him, but whether or not he himself has the qualifications for this. You seemed incensed by that when it was your turn to ask questions. I want to just play a bit of what you said when you had the microphone."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm just looking for qualifications. You didn't give me any qualifications. Starts bringing up the fact that, what if you showed up drunk to your job?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "How many senators have showed up drunk to vote at night? Have any of you guys asked them to step down and resign for their job? And don't tell me you haven't seen it because I know you have."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, first off, that's a pretty serious accusation there. Do you want to name any of the senators that you're saying are drinking on the job? No."
+      }
+    ],
+    "speakername": "Markwayne Mullin",
+    "ground_truth": "And that's my whole point was, is that the senators on the other side of the aisle was trying to act like they were had more morals than [Name]. And they don't. If you're going to hold someone accountable for their behavior, then hold everybody accountable. I'm not saying I'm the most moral man or the perfect individual. I'm absolutely not. I wasn't the one calling him out. But if you're going to hold if you're going to hold someone at that center, then hold everybody at that standard. And it's a complete hypocrisy what they were showing when they were talking about his affairs. There's multiple members of Congress has had affairs on their wives and that they haven't called to be stepped down. They haven't called them to step down either. And then when it talks about qualifications, what is a qualification to be the secretary of defense? The only qualification is you've got to be a United States citizen. That's it. Other than that, it is the president's choice. And it's Senate. The Senate has the right to advise and consent. And he meets the qualifications to be the to be the next secretary of defense.",
+    "bio": "A businessman and politician who has served as the junior United States senator from [State] since 2023. A member of the Republican Party, he was elected in a special election in 2022 to serve the remainder of a previous senator's term. He is the first Native American U.S. senator since 2005. He is also the second [Tribe] citizen elected to the Senate; the first retired in 1925. Before being elected to the Senate, he served as the U.S. representative for his state's congressional district from 2013 to 2023. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "How many senators have showed up drunk to vote at night? Have any of you guys asked them to step down and resign for their job? And don't tell me you haven't seen it because I know you have."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, first off, that's a pretty serious accusation there. Do you want to name any of the senators that you're saying are drinking on the job? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's my whole point was, is that the senators on the other side of the aisle was trying to act like they were had more morals than Pete Hegseff. And they don't. If you're going to hold someone accountable for their behavior, then hold everybody accountable. I'm not saying I'm the most moral man or the perfect individual. I'm absolutely not. I wasn't the one calling him out. But if you're going to hold if you're going to hold someone at that center, then hold everybody at that standard. And it's a complete hypocrisy what they were showing when they were talking about his affairs. There's multiple members of Congress has had affairs on their wives and that they haven't called to be stepped down. They haven't called them to step down either. And then when it talks about qualifications, what is a qualification to be the secretary of defense? The only qualification is you've got to be a United States citizen. That's it. Other than that, it is the president's choice. And it's Senate. The Senate has the right to advise and consent. And he meets the qualifications to be the to be the next secretary of defense."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But I was in that room today. And when you said that, I guess the thought that went through my head was if what you're saying is true and your colleagues do show up drinking to come to work and vote, which I think would maybe be concerning to those taxpayers who pay them. How is the bad behavior of a sitting senator a defense of someone who wants to run the military department?"
+      }
+    ],
+    "speakername": "Markwayne Mullin",
+    "ground_truth": "It's not. What they were saying is he was incapable of doing his job. And, Caitlin, what I was trying to get to is if you're capable of doing your job and you're able to still drink on the job or late in the evening, then don't tell me that Pete can't. And Pete had already said he's not going to drink, but they would just they just kept hammering it. Pete is qualified to do the job. He's a combat veteran. He's 20 year combat veteran. He's been under fire. He's pulled his own friends out of a combat zone. He's had to bury his own friends. This got killed in combat. The guy has bled. He is sweat. And he has he has proven his ability for his love for this country. He will do what needs to be done. What's the definition of insanity is doing the same thing, expecting different results. And we keep recycling the same type of people as a secretary of defense. And where have they got us? Nowhere. The former president is wanting to put people in the place. It's going to shake things up and do things different. And he's going to do that.",
+    "bio": "A businessman and politician who has served as the junior senator from a midwestern state since 2023. A member of the major political party, they were elected in a special election in 2022. They are the first Native American senator since 2005. They are also the second member of their tribe elected to the Senate; the first retired in 1925. Before being elected to the Senate, they served as a representative for their state's congressional district from 2013 to 2023. The speaker's MBTI type is ESTP."
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's not. What they were saying is he was incapable of doing his job. And, Caitlin, what I was trying to get to is if you're capable of doing your job and you're able to still drink on the job or late in the evening, then don't tell me that Pete can't. And Pete had already said he's not going to drink, but they would just they just kept hammering it. Pete is qualified to do the job. He's a combat veteran. He's 20 year combat veteran. He's been under fire. He's pulled his own friends out of a combat zone. He's had to bury his own friends. This got killed in combat. The guy has bled. He is sweat. And he has he has proven his ability for his love for this country. He will do what needs to be done. What's the definition of insanity is doing the same thing, expecting different results. And we keep recycling the same type of people as a secretary of defense. And where have they got us? Nowhere. President Trump is wanting to put people in the place. It's going to shake things up and do things different. And he's going to do that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "drinking. I mean, it wasn't just that he had a glass of wine. There were allegations from his former colleagues about him going out to strip clubs or having to be escorted out of parties because he had too much to drink. He denied that. But I'm just saying those were the allegations. It wasn't just that he was seen at Cafe Milano."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that every one of them has been anonymous tips. No one's come forward and actually said this."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, Senator Tim Kaine says today that you guys did have the names of these people who have done something you did too much to them."
+      }
+    ],
+    "speakername": "Markwayne Mullin",
+    "ground_truth": "They sure didn't. They sure didn't mention the names. They said they had one person, one name that had said that Pete has been adamant from day one that is an outright lie. Now, if no one's willing to put their name on it and no one's willing to come forth on it and believe me, they had plenty of time to come forth. They've all known this. Then all it is is a smear campaign. And that's exactly what it was.",
+    "bio": "Mark Wayne \\\"Markwayne\\\" Mullin (born July 26, 1977) is an American and Cherokee Nation businessman and politician who has served as the junior United States senator from Oklahoma since 2023. A member of the Republican Party, he was elected in a special election in 2022 to serve the remainder of Jim Inhofe's term. Mullin is the first Native American U.S. senator since Ben Nighthorse Campbell retired in 2005. He is also the second Cherokee Nation citizen elected to the Senate; the first, Robert Latham Owen, retired in 1925. Before being elected to the Senate, Mullin served as the U.S. representative for Oklahoma's 2nd congressional district from 2013 to 2023. (From Wikipedia). The speaker's MBTI type is ESTP"
+  }
+]

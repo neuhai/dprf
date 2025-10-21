@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Walk me through this. When does the day start? What's your day look like from the morning till midnight? What's the day look like for the, you know, Trump family?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, guys, remember, outside of politics, and I'm heavily involved in politics, I also run a, you know, big company, so my day starts early, and we're not much, you know, we're not big sleepers in our family. My father's not a big sleeper, I'm not a big sleeper, I'm normally a 5 a.m. guy, go to the gym, you know, get to it, you know, very, very early, and, you know, getting very late, and the last two nights, we've come in at 1 o'clock in the morning, and, you know, come back from big fundraisers, big events, I was with him all over, all over Georgia, North Carolina, I've been doing events all over the country, and so, no, guys, not a lot of sleep now between, obviously, you know, kind of campaign schedule, and, you know, the final two weeks, less than two weeks now, 12 days, and then, obviously, you know, the company, we've got some of the greatest hotels all over the world, and golf courses, and residential buildings, commercial buildings, you know, literally on every corner of the globe, and so, not a whole lot of sleep in our family."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you're the EVP, right? You're the EVP of the entire organization. Yeah, that's what I do. Okay, so question with you there because I got four kids and, you know, we got businesses that we're running. How was the family conversations when you guys were kids, younger? Think 10, 12, 13, 14 years old, 15 years old. Hey, one day you're going to run this and one day you're going to do that. What were those conversations like with Pop?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, actually, almost the exact opposite of that. We were thrown on construction sites, Don and I, at a very, very young age, right, about 11, started making, you know, less than minimum wage, and I was pulling conduit, and I was doing HVAC work, tile work, concrete work, everything that you can possibly imagine, right, and I loved it, but it was, you know, you're going to work with the stonemasons. These are guys, you know, tough Italian guys. If you wore gloves, they would laugh at you. I mean, it's just, you know, your little prepubescent hands are going to get, you know, work hard in today, little boy, and, you know, these- So they were tough on you guys. Oh, these guys are freaking tough. I mean, these guys know bullshit, right? They're, you know, these are the real deal. These are hardened, you know, tough guys, and, you know, by the way, so many of them still work in the company today, and, you know, dear friends, and worked for us forever, and they're really kind of family of ours, but no, this is real deal stuff, and, you know, if you wanted a fishing rod, guess what? You know, honey, go out and work for it. You know, go dig a hole. You know, go learn how to, you know, run backhoes, bulldozers, chainsaws, and it's what we did every single summer, and it was the best thing that ever happened, and so I don't think there was any Hey, when you come into the business, it's work, earn it, and slowly grow your way in the company, and if you're really good at what you do, you can eventually have, you know, the keys, and I don't even think that was stated. It was one of these things that we went out, and we busted our butts every single day, and"
+      }
+    ],
+    "speakername": "Eric Trump",
+    "ground_truth": "Trust me, Donald Trump, right, he's no pushover. If we weren't really good at what we did, if we didn't care, if we didn't work our tail off, we wouldn't be in the seat that we were in. I mean, there's just, there's no way, there's too much riding on it.",
+    "bio": " The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you're the EVP, right? You're the EVP of the entire organization. Yeah, that's what I do. Okay, so question with you there because I got four kids and, you know, we got businesses that we're running. How was the family conversations when you guys were kids, younger? Think 10, 12, 13, 14 years old, 15 years old. Hey, one day you're going to run this and one day you're going to do that. What were those conversations like with Pop?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, actually, almost the exact opposite of that. We were thrown on construction sites, Don and I, at a very, very young age, right, about 11, started making, you know, less than minimum wage, and I was pulling conduit, and I was doing HVAC work, tile work, concrete work, everything that you can possibly imagine, right, and I loved it, but it was, you know, you're going to work with the stonemasons. These are guys, you know, tough Italian guys. If you wore gloves, they would laugh at you. I mean, it's just, you know, your little prepubescent hands are going to get, you know, work hard in today, little boy, and, you know, these- So they were tough on you guys. Oh, these guys are freaking tough. I mean, these guys know bullshit, right? They're, you know, these are the real deal. These are hardened, you know, tough guys, and, you know, by the way, so many of them still work in the company today, and, you know, dear friends, and worked for us forever, and they're really kind of family of ours, but no, this is real deal stuff, and, you know, if you wanted a fishing rod, guess what? You know, honey, go out and work for it. You know, go dig a hole. You know, go learn how to, you know, run backhoes, bulldozers, chainsaws, and it's what we did every single summer, and it was the best thing that ever happened, and so I don't think there was any Hey, when you come into the business, it's work, earn it, and slowly grow your way in the company, and if you're really good at what you do, you can eventually have, you know, the keys, and I don't even think that was stated. It was one of these things that we went out, and we busted our butts every single day, and"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Trust me, Donald Trump, right, he's no pushover. If we weren't really good at what we did, if we didn't care, if we didn't work our tail off, we wouldn't be in the seat that we were in. I mean, there's just, there's no way, there's too much riding on it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Two questions with that. So when I studied the Kennedy family, specifically Joseph Kennedy, right, and even Michael Jordan, when you hear stories about him when he was younger, his older brother, the dad, would pin them against each other, competition. And Michael in the last instance, I think, I don't know what scene it was, when he says, when I was a kid and I was going through it and my dad was saying, you don't know what to do, you don't know how to compete, you just go play outside. Let us grown men do this. And he said, I wanted to kill these guys, right, my own, you know, the level of competition. He says, but I realized I needed to go through that phase of getting my skin to be thick before I became who I was. Was dad doing that or did he leave it to everybody else to do it?"
+      }
+    ],
+    "speakername": "Eric Trump",
+    "ground_truth": "There was definitely friendly competition between Donny Vock and I. We're closest friends. We're inseparable, right? I mean, we have a really inseparable family. No division, which is actually hard to believe going through the political nonsense, right? I mean, they've done everything they could to kind of break up the family and divide us and pin everybody against each other. But what he was actually remarkable at, he almost took a different approach. He'd give you tasks that were so insurmountable. You realize he kind of laddered them, right? But I was 24 years old. I'd get thrown into, you know, build that building, you know. And by the way, it's you're in charge. Make good decisions. I'd go to him oftentimes. Hey, I've got a problem. You know, what's the answer? And he would kind of talk in a little bit of a circle. But then at the end of his, you figure it out. You figure it out. And don't get me wrong. If I was going to go grossly awry, he would have, you know, course corrected immediately. But he wanted people. You know, for him, it was never about the, you know, the PhDs. It was never about the resume. It was guys who would go out there and bust their butts, bust their asses, who worked, who had common sense. Who people liked. You know, who would go out there and fight. We have people in our company that were literally drivers. They took me to school as a kid who were general managers of some of the biggest hotels in the country. Because these guys always had their hand up. And Donald Trump was always this guy. You keep your hand in the air, right? I mean, driver. You know, we were looking. We were bringing architects out to Las Vegas when we did our big hotel out there, right? 64 stories on the strip, you know, right across from the Wynn. Amazing building. Hey, I'll take them out. You know, this driver. I'll take the architects out. No problem. You know. A couple weeks later, we're getting financing. And we're, you know, going through the whole buying process. Hey, I'll take those bankers out. I'll show them site. You know, I'll take them through the plans that we have. The guy always just had his hand up. And guess what? You know.",
+    "bio": " The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "know very different i mean and and by the way one other thing he instilled confidence in people who otherwise might have not had confidence in themselves and and he would build them up brian's the greatest he does the greatest job this guy works hard on everybody everybody loves this guy you watch this guy's gonna get the project done on time under budget and he'd build up their personality where they actually believed in themselves where where otherwise they would said hey i'm not i'm not i'm just not qualified for that i mean how many times have you heard that across your life and when in reality they were almost the most qualified you know in a crazy way they had the street smarts they had the it's um now he's he's a remarkable guy he's made so many careers remarkable boss but you better believe when we were you know 14 years old it wasn't hey when you take over the company one day no go out and dig that damn hole and and work for"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I was in a rural state visiting this insurance company called a national insurance group, and they were showing this person's been here for 38 years, this person's been here for 30 years, 28 years. Who are some of the longest standing employees within the organization and what are the timelines?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, if you haven't been in our company for 20 years, you're like, you know, you're like a junior, very junior. I mean, I always say, you know, you make it the first year with us and we love you. You know, you're in for life. And you walk down the hall of our company every single person, 20 years, 25 years, 30 years. I mean, it's a remarkable thing. And so many people who came through, I hate hiring from outside. I hate it. It drives me crazy because you can never learn who a person is on a resume you just own. And I'd much rather have somebody that, you know, started as a busboy and, you know, worked his way into kind of, you know, being an F&B director and then kind of worked his way into assistant general manager. And then you take that person, you put them in another property. They succeed every single time because you know their heart and soul. You know their work ethic. You know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I hate"
+      }
+    ],
+    "speakername": "Eric Trump",
+    "ground_truth": "you know i mean they've just been tested over and over and over and and by the way they're the people who are most appreciative i mean think about the kind of fu it sends throughout corporate culture you know when somebody's worked in a company for 15 years and they've rose the ranks and then you jump ahead of them and you go grab some guy you know some stiff from a luxury hotel chain or something along those lines and you bring them in and you totally jump over them it i i try never to do that and my father was the same way he always liked hiring from within",
+    "bio": "The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, if you haven't been in our company for 20 years, you're like, you know, you're like a junior, very junior. I mean, I always say, you know, you make it the first year with us and we love you. You know, you're in for life. And you walk down the hall of our company every single person, 20 years, 25 years, 30 years. I mean, it's a remarkable thing. And so many people who came through, I hate hiring from outside. I hate it. It drives me crazy because you can never learn who a person is on a resume you just own. And I'd much rather have somebody that, you know, started as a busboy and, you know, worked his way into kind of, you know, being an F&B director and then kind of worked his way into assistant general manager. And then you take that person, you put them in another property. They succeed every single time because you know their heart and soul. You know their work ethic. You know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I hate"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know i mean they've been tested over and over and over and and by the way they're the people who are most appreciative i mean think about the kind of fu it sends throughout corporate culture you know when somebody's worked in a company for 15 years and they've rose the ranks and then you jump ahead of them and you go grab some guy you know some stiff from a luxury hotel chain or something along those lines and you bring them in and you totally jump over them it i i try never to do that and my father was the same way he always liked hiring from within"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How many people over 20 years, if you were to give a number?"
+      }
+    ],
+    "speakername": "Eric Trump",
+    "ground_truth": "tens of thousands. I mean, listen, guys, we probably have six, 7,000 people in our company right now, right across, you know, and growing awfully quickly. But people whose careers he's made, you know, I mean, it's remarkable. And by the way, people who would've never otherwise gotten jobs, and this is gonna sound a little bit bad, but, you know, 1980s, you know, he was giving, you know, very, construction, very male-dominated industry in a major city. I mean, very few females in there, you know, made many of his project managers female. He never gets any credit for that, and they were killers, and they went out, and they did unbelievable things, and built some, you know, and he was always willing to just give whoever was the best person, whoever had their hand up, whoever would ever be that killer, who would ever work, you know, kind of 24 hours a day to prove themselves. Hey, by the way, welcome in.",
+    "bio": " The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you know, we're all probably loud in our own ways. Everybody wants a stage. Everybody wants a microphone. So you get a lot of that at our table. It's probably no different than your tables, right? But, you know, I think the conversation always kind of revolved. He was very myopically focused on whatever he was doing at the time, right? In the casino years, in the early years, I mean, he was myopically focused on casinos, right? And everything would be about the casino business and building the casinos. And, you know, who's, you know, is [celebrity] going to show up today? Is [celebrity] going to show up today? You know, what event you have? And, you know, when that moved later on to the hotels, the golf courses, that became kind of the, you know, the focus. When we got into [TV show], you know, [TV show] became the, and it was a certain way of actually, I think maybe, you know, psychologically honing yourself where you just dig so deep into whatever you want to focus on that it ultimately becomes a success because you're just so impassioned about it. But I think that conversation over the course of time, you know, moved from kind of, you know, from focus to focus. Certainly when we got into politics, real estate became a much smaller, you know, kind of, you know, kind of, you know, kind of conversation at the dinner table. And guess what? It's much more of a political conversation. You know, can you believe this? Can you believe this nonsense, right? And so it's always how he actually, I think, honed himself and got many of kind of the talking points and, you know, and kind of, you know, grounded his convictions in whatever he was doing in the moment."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "what qualities did he dislike the most like if i'm talking about victimhood blame what was it when he's looking at somebody somebody doesn't make it somebody feels an enemy he goes up against an opponent somebody he watches in sports were there any qualities like if you want to fail in life"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Here's the three things."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Eric Trump",
+    "ground_truth": "laziness he had no tolerance for lazy right and and you know he could always respect somebody who was a hard fighter on the other side of the table but as somebody who fought he always liked the fighter you know he never liked the lazy person you know he he wanted the person to be motivated i mean he'll call me in the morning and you know i'm an early guy and i'm kind of a late guy and",
+    "bio": "The speaker's MBTI type is ISTP"
+  }
+]

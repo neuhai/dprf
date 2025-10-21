@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you very much."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Thank you so much for being here. You are the first president since Grover Cleveland to win non-consecutive terms. Republicans now have control of the [government building] and the Senate. What do you plan to accomplish in your first 100 days in office?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we're going to do something with the border and very strong, very powerful. That'll be our first signal and first signal to America that we're not playing games. We have people coming in by the millions, as you know, and a lot of people shouldn't be here. Most of them shouldn't be here. But we have jails being emptied into our country. We have mental institutions from all over the world being emptied into our country. So we'll be doing that. We're going to be extending within that period or as soon as we can the [target] tax cuts because, you know, they're coming due and they're very substantial for people. And it would be very I think it will anger a lot of people, frankly, if we don't get an extension of that. That's what led us to one of the greatest economies ever. And those two things are going to be very vital, very important. We're going to be focusing on crime in the cities and we'll work with Democrat governors. Most of them are, you know, if you look at the 25 worst places, they're just about all Democrat controlled cities and states. And we're going to be working with Democrat governors and Democrat mayors. And I look forward to doing it. But we have to do something about crime and mostly in our cities. And we're going to have a lot of other things. We'll be working on nominations. We're going to still be working on some nominations. I think they're going very well. We have for the most part, I think they're going extremely well. It looks like Peter's doing. Well, now, I mean, people were a little bit concerned. He's a young guy with a tremendous track record, actually went to [university] and went to [university]. He was a good student at both. But he loves the military. And I think people are starting to see it. So we'll be working on his nomination along with a lot of others."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We are going to delve into your nominations, but since you bring him up, do you still have confidence in Pete Hexeth? Yes."
+      }
+    ],
+    "speakername": "Donald Trump",
+    "ground_truth": "Yes, I do. I really do. He's a very smart guy. I've known him through [media network], but I've known him for a long time. And he's basically a military guy. I mean, every time I talk to him, all he wants to talk about is the military. He's a military guy. I used to kid him about it. I didn't think we'd be in this position where he may be, hopefully will be secretary of defense. But every time I was with him, he was fighting for soldiers where he said some soldier was unjustly put in prison because they were really doing what they were taught to do in some cases. So, yeah, I think he's going to do fine.",
+    "bio": "[target] (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. [target] received a Bachelor of Science in economics from [university] in 1968, and his father named him president of his real estate business in 1971. [target] renamed it the [target] Organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing the [target] name. From 2004 to 2015, he co-produced and hosted the reality television series The Apprentice. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we're going to do something with the border and very strong, very powerful. That'll be our first signal and first signal to America that we're not playing games. We have people coming in by the millions, as you know, and a lot of people shouldn't be here. Most of them shouldn't be here. But we have jails being emptied into our country. We have mental institutions from all over the world being emptied into our country. So we'll be doing that. We're going to be extending within that period or as soon as we can the Trump tax cuts because, you know, they're coming due and they're very substantial for people. And it would be very I think it will anger a lot of people, frankly, if we don't get an extension of that. That's what led us to one of the greatest economies ever. And those two things are going to be very vital, very important. We're going to be focusing on crime in the cities and we'll work with Democrat governors. Most of them are, you know, if you look at the 25 worst places, they're just about all Democrat controlled cities and states. And we're going to be working with Democrat governors and Democrat mayors. And I look forward to doing it. But we have to do something about crime and mostly in our cities. And we're going to have a lot of other things. We'll be working on nominations. We're going to still be working on some nominations. I think they're going very well. We have for the most part, I think they're going extremely well. It looks like Peter's doing. Well, now, I mean, people were a little bit concerned. He's a young guy with a tremendous track record, actually went to Princeton and went to Harvard. He was a good student at both. But he loves the military. And I think people are starting to see it. So we'll be working on his nomination along with a lot of others."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We are going to delve into your nominations, but since you bring him up, do you still have confidence in Pete Hexeth? Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, I do. I really do. He's a very smart guy. I've known him through Fox, but I've known him for a long time. And he's basically a military guy. I mean, every time I talk to him, all he wants to talk about is the military. He's a military guy. I used to kid him about it. I didn't think we'd be in this position where he may be, hopefully will be secretary of defense. But every time I was with him, he was fighting for soldiers where he said some soldier was unjustly put in prison because they were really doing what they were taught to do in some cases. So, yeah, I think he's going to do fine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The fact that there are these allegations against him, misconduct, sexual misconduct, heavy drinking, the fact that he said to some senators reportedly he'll stop drinking if he gets this job, does that worry you?"
+      }
+    ],
+    "speakername": "Donald Trump",
+    "ground_truth": "no I think that everybody has something that they can stop some people can stop eating I'm lucky I'm not a drinker but I could stop eating and we all want to stop doing something and if he said that I mean it's a nice thing to say that's a good thing to say but he's very respected I can tell you I know a lot of the people at Fox they think he's fantastic and the people that work with him really they love him so I think I think you're gonna have somebody that's really terrific and again all he talked about with me I said you know you're not really a television guy even though he did very well as you know you're really a military guy he said I'm all about the military and I told him so he's making a lot of money at Fox they're doing very well and",
+    "bio": "Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. Trump received a Bachelor of Science in economics from the University of Pennsylvania in 1968, and his father named him president of his real estate business in 1971. Trump renamed it the Trump Organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing the Trump name. From 2004 to 2015, he co-produced and hosted the reality television series The Apprentice. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We are going to delve into your nominations, but since you bring him up, do you still have confidence in Pete Hexeth? Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, I do. I really do. He's a very smart guy. I've known him through a major news network, but I've known him for a long time. And he's basically a military guy. I mean, every time I talk to him, all he wants to talk about is the military. He's a military guy. I used to kid him about it. I didn't think we'd be in this position where he may be, hopefully will be secretary of defense. But every time I was with him, he was fighting for soldiers where he said some soldier was unjustly put in prison because they were really doing what they were taught to do in some cases. So, yeah, I think he's going to do fine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The fact that there are these allegations against him, misconduct, sexual misconduct, heavy drinking, the fact that he said to some senators reportedly he'll stop drinking if he gets this job, does that worry you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "no I think that everybody has something that they can stop some people can stop eating I'm lucky I'm not a drinker but I could stop eating and we all want to stop doing something and if he said that I mean it's a nice thing to say that's a good thing to say but he's very respected I can tell you I know a lot of the people at the network they think he's fantastic and the people that work with him really they love him so I think I think you're gonna have somebody that's really terrific and again all he talked about with me I said you know you're not really a television guy even though he did very well as you know you're really a military guy he said I'm all about the military and I told him so he's making a lot of money at the network they're doing very well and"
+      }
+    ],
+    "speakername": "Donald Trump",
+    "ground_truth": "I said, you know, if for some reason you don't get this thing, you're not going to be able to go back. And all that money you're making, you can kiss it goodbye. He said, this is all about America. And he didn't say, well, let me think about it, let me discuss it. That's a very big, risky thing he's doing. When he goes and he says, I'm going to give up millions of dollars in order to possibly become the Secretary of Defense, a lot of people would say it's a great position. It's probably almost no greater position, but a lot of people would say, I have to think about it. He said, I don't have to think about it.",
+    "bio": "[target] (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. [target] received a Bachelor of Science in economics from a prestigious university in 1968, and his father named him president of his real estate business in 1971. [target] renamed it his family organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing his name. From 2004 to 2015, he co-produced and hosted a popular reality television series. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no I think that everybody has something that they can stop some people can stop eating I'm lucky I'm not a drinker but I could stop eating and we all want to stop doing something and if he said that I mean it's a nice thing to say that's a good thing to say but he's very respected I can tell you I know a lot of the people at Fox they think he's fantastic and the people that work with him really they love him so I think I think you're gonna have somebody that's really terrific and again all he talked about with me I said you know you're not really a television guy even though he did very well as you know you're really a military guy he said I'm all about the military and I told him so he's making a lot of money at Fox they're doing very well and"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I said, you know, if for some reason you don't get this thing, you're not going to be able to go back. And all that money you're making, you can kiss it goodbye. He said, this is all about America. And he didn't say, well, let me think about it, let me discuss it. That's a very big, risky thing he's doing. When he goes and he says, I'm going to give up millions of dollars in order to possibly become the Secretary of Defense, a lot of people would say it's a great position. It's probably almost no greater position, but a lot of people would say, I have to think about it. He said, I don't have to think about it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "All right. We're going to delve into your cabinet picks a little bit later, but I want to delve into one of your signature."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "promises on the campaign trail which was to end inflation to lower prices you are now proposing tariffs against the united states three biggest trading partners economists of all stripes say that ultimately consumers pay the price of tariffs can you guarantee american families won't pay more"
+      }
+    ],
+    "speakername": "Donald Trump",
+    "ground_truth": "I can't guarantee anything. I can't guarantee tomorrow. But I can say that if you look at my just pre-COVID, we had the greatest economy in the history of our country. And I had a lot of tariffs on a lot of different companies, countries, but in particular, China, we took in hundreds of billions of dollars and we had no inflation. In fact, when I handed it over, they didn't have inflation for a year and a half. They won almost two years just based on on what I had created. And then they created inflation with energy and with spending too much. So I think we will. I'm a big believer in tariffs. I think tariffs are the most beautiful word. I think they're beautiful. It's going to make us rich. We're subsidizing Canada to the tune of over a hundred billion dollars a year. We're subsidizing Canada to the tune of over a hundred billion dollars a year. We're subsidizing Canada to the tune of over a hundred billion dollars a year. We're subsidizing Mexico for almost $300 billion. We shouldn't be subsidizing. Why are we subsidizing these countries? If we're going to subsidize them, let it become a state. We're subsidizing Mexico, and we're subsidizing Canada, and we're subsidizing many countries all over the world. And all I want to do is I want to have a level, fast, but fair playing field.",
+    "bio": "Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. Trump received a Bachelor of Science in economics from the University of Pennsylvania in 1968, and his father named him president of his real estate business in 1971. Trump renamed it the Trump Organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing the Trump name. From 2004 to 2015, he co-produced and hosted the reality television series The Apprentice. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Sir your previous tariffs during your first administration cost Americans some 80 billion dollars. And now you have major companies from major retailers saying that any tariffs are going to force them to drive up prices for their consumers. How do you make sure that these CEOs that these companies don't in fact pass on the cost of tariffs to their consumers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "they cost americans nothing they made a great economy for us they also solve another problem if we were going to have problems having to do with wars and having to do with other things tariffs i have stopped wars with tariffs by saying you guys want to fight it's great but both of you are going to pay tariffs to the united states at a hundred percent and they have many purposes tariffs if properly used i don't say you use them like a madman i say properly used but it didn't cost this country anything it made this country money and we never really got the chance to go all out because we had to fight covet in the last part and we did it very successfully and when i handed it over to the next administration the stock market was higher than what it was just previous to covert coming in was actually higher uh tariffs are a properly used are a very powerful tool not only economically but also for getting other things outside of economics"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, again, prices did go up on some goods in your first administration, washing machines, tires. Will you punish CEOs?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Let me just explain to you."
+      }
+    ],
+    "speakername": "Donald Trump",
+    "ground_truth": "you mentioned washing machines. So you look at a major appliance manufacturer in the midwest. I got a call from a congressman, one of the great congressmen from that state. And he said, they're going out of business because foreign competitors are dumping washing machines into our country. And I put a 50 percent tariff on the washing machines coming in from overseas. And the domestic companies that made washing machines, which are based in that state, largely based there, went through the roof. We saved thousands of jobs, tens of thousands of jobs. They were all going out of business because they were dumping washing machines. And when I put the tariffs on, they became successful businesses. No, it didn't. Not only didn't it cost people, it made our country stronger and more powerful. And it kept jobs.",
+    "bio": "The speaker (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. The speaker received a Bachelor of Science in economics from an Ivy League university in 1968, and his father named him president of his real estate business in 1971. He renamed it his family organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing his name. From 2004 to 2015, he co-produced and hosted a popular reality television series. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP"
+  }
+]

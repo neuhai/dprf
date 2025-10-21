@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "very welcome to the podcast in good company today we are joined by [target] one of the best investors of all time now [target] started his journey in finance from his college dorm he founded his investment firm which has a great ambition of being the most successful investment firm of all times now that's the kind of ambitions that we like so very welcome [target]"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Great to have you on."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is a pleasure to be here today. Thank you so much for taking the time to do this interview. Fantastic. Now, what motivated you to go into finance in the first place? So I've always been interested in the stock market for reasons I don't fully understand. And in third grade, I wrote a paper where I set forth that I wanted to learn how the stock market works. I've been on that journey now for almost 40 years, and I still feel like I'm at the beginning of the learning curve. The equity markets around the world are just awash in interesting and complex problems, the intersection of business models, earnings, and then the psychology of investors. It's really an endless journey of learning, trying to appreciate how to value businesses and how to be a successful investor in the stock market."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It is just the most complex game in the world. Now, when you started back at your college dorm, what was your vision? What do you think this could be?"
+      }
+    ],
+    "speakername": "Kenneth C. Griffin",
+    "ground_truth": "Well, what's interesting is in my college dorm as a freshman, I bought two put contracts in a television shopping company. And in some sense, I owe my career to good journalism. There was an article in a business magazine by a journalist where she set forth a thesis as to why this company was the meme stock of that moment in time. And I loved her thesis. I bought these two put contracts. And fortunately, from the perspective of my career, the stock cratered shortly thereafter. And ready for this? I made a few thousand dollars. But you and I both know when you're a freshman in college, if you make $2,000 or $3,000, that's all the money in the world. When I sold those put contracts...",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It is just the most complex game in the world. Now, when you started back at your university dorm, what was your vision? What do you think this could be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, what's interesting is in my college dorm as a freshman, I bought two put contracts in a shopping network company. And in some sense, I owe my career to good journalism. There was an article in a business magazine by a journalist where she set forth a thesis as to why this shopping network was the meme stock of that moment in time. And I loved her thesis. I bought these two put contracts. And fortunately, from the perspective of my career, the stock cratered shortly thereafter. And ready for this? I made a few thousand dollars. But you and I both know when you're a freshman in college, if you make $2,000 or $3,000, that's all the money in the world. When I sold those put contracts..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "the market maker paid me less than their intrinsic value and that made me very curious about the pricing of derivatives because i realized that i got very lucky in buying those puts with an expiration that fell after the stock had cratered but the market maker made a risk-free profit and i was very interested in trying to learn about the pricing of derivatives and that took me to understanding the pricing of convertible bonds which is the area that i started in from my college dorm room when i began my first hedge fund"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think there are as many opportunities in the markets now as there were when you started?"
+      }
+    ],
+    "speakername": "Kenneth C. Griffin",
+    "ground_truth": "I think the opportunity set's different today than when I started. You know, obviously the commoditization of the know-how of how to price derivatives, for example, has been incredible. You know, there's tremendous number of programs around the world with master's and PhD in financial engineering. So as a society, we've really increased our know-how when it comes to investing. But conversely, the markets today are much, much bigger and they're global. And there's far more product proliferation. There will always be niche opportunities for investors to gain an insight with and to have a competitive advantage in trading.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "the market maker paid me less than their intrinsic value and that made me very curious about the pricing of derivatives because i realized that i got very lucky in buying those puts with an expiration that fell after the stock had cratered but the market maker made a risk-free profit and i was very interested in trying to learn about the pricing of derivatives and that took me to understanding the pricing of convertible bonds which is the area that i started in from my college dorm room when i began my first hedge fund"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think there are as many opportunities in the markets now as there were when you started?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think the opportunity set's different today than when I started. You know, obviously the commoditization of the know-how of how to price derivatives, for example, has been incredible. You know, there's tremendous number of programs around the world with master's and PhD in financial engineering. So as a society, we've really increased our know-how when it comes to investing. But conversely, the markets today are much, much bigger and they're global. And there's far more product proliferation. There will always be niche opportunities for investors to gain an insight with and to have a competitive advantage in trading."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What were some of the mistakes you made in the beginning which you learned from and have built on?"
+      }
+    ],
+    "speakername": "Kenneth C. Griffin",
+    "ground_truth": "I mean, I've made every mistake you can possibly make. And unfortunately, I've made some of them two or three times. So the key in finance, though, is to try to learn from both your successes and from your failures. And I think that one of the things that people do too often is they don't study their winners. They don't try to learn what did they get right in that winning trade. Because let's be clear, you make money in finance when you have winners. And we all tend to put way too much emphasis on trying to learn from our losers and not nearly enough emphasis on trying to learn from our winners.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I mean, I've made every mistake you can possibly make. And unfortunately, I've made some of them two or three times. So the key in finance, though, is to try to learn from both your successes and from your failures. And I think that one of the things that people do too often is they don't study their winners. They don't try to learn what did they get right in that winning trade. Because let's be clear, you make money in finance when you have winners. And we all tend to put way too much emphasis on trying to learn from our losers and not nearly enough emphasis on trying to learn from our winners."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So what have been"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "your big winners. I mean, if you were to try to summarize your your kind of winning strategies, what's been the best things you've done?"
+      }
+    ],
+    "speakername": "Kenneth C. Griffin",
+    "ground_truth": "So where we are most successful as investors is where we have a clear competitive advantage in assimilating information, processing that information, and reacting to that information. That's where we do best. And so we architect the firm around this principle of we are in, we're in the research business. And the core of this business is research. It's good old fashioned, whether it's stock picking or forecasting the weather to trade commodities, it's a research business first and foremost. And trading is simply how we monetize our research. It's just that simple.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So what have been"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "your big winners. I mean, if you were to try to summarize your your kind of winning strategies, what's been the best things you've done?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So where we are most successful as investors is where we have a clear competitive advantage in assimilating information, processing that information, and reacting to that information. That's where we do best. And so we architect the firm around this principle of we are in, we're in the research business. And the core of this business is research. It's good old fashioned, whether it's stock picking or forecasting the weather to trade commodities, it's a research business first and foremost. And trading is simply how we monetize our research. It's just that simple."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When you look at all your data points and all your research now, where is the economy?"
+      }
+    ],
+    "speakername": "Kenneth C. Griffin",
+    "ground_truth": "So if I look at the mosaic of the data points that we have in the economy today, we're in a very interesting uncharted territory. You and I have both studied economics our entire life in one form or another. Let me just ask you a question. Would you have ever imagined the country to be at near full employment with inflation running somewhere around 3 and change percent, and yet the government is on a massive spending binge? No. No? I wouldn't have expected that. I mean, as economists, we are just in uncharted territory that we are at that moment in the cycle where generally you're trying to pay down your government debt. You're trying to put your fiscal house in order. You're trying to create that capacity to have flexibility when the rainy day inevitably comes. And yet right here, right now, with the economy pretty much growing at or beyond capacity, the government is still engaged in a massive, massive degree of fiscal stimulus. That's creating... Hotter inflation than we would like to see in the economy. And it is leaving the country in a more precarious long-term position and having fewer degrees of freedom to deal with the next recession or, God forbid, depression.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

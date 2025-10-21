@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This is the last speech that I will give from this floor as a member of Congress."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Seeing a fly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "okay um good evening everybody welcome to pnp live my name is beth wong and i'm an event coordinator at politics and pros we thank you so much for joining us here to celebrate the release of she will rise by [target] at any time during the event tonight you can click on the link that i'm going to put in the chat to purchase tonight's book on pnp's website remember that those book sales right now are enabling us to bring you this kind of programming and the other kinds of events and classes that pnp is known for and so very proud of so we do really need those um we do really need those uh book sales so um you can ask our author a question tonight by clicking on the q a button at the bottom of your screen be sure to submit your questions in that q a box and not in the chat to make sure that the author sees them on to the main event in she will rise former congresswoman [target] shares her experience with misogyny and double standards in politics to help women topple the long-standing power structures that prevent them from achieving equality she's joined in conversation tonight by shauna thomas content development executive for quibi and a political contributor for nbc news and msnbc welcome both the floor is yours"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The very resources that are so critical in the work we do, starting with the Affordable Care Act. And I didn't have a good answer for what we're supposed to do, except for to say, well, we have to work on the local resources. It's that much more important now. But also, the next thing we can do politically is to flip the House. So I wanted to be involved in some capacity. And I started looking into the nearby districts that were going to be targeted to flip the House. And it turns out the one that I've spent my whole life in, that I was currently living in, was one of those top districts. And I had followed the race somewhat the last time around. And I felt very strongly that this is a district that could be taken by a Democrat. But it's got to be someone who truly understands the community, who really gets the nuances related to a district that is full of cops and firefighters and nurses and building trade workers. And so it kind of has this conservative-leaning tendency, but it's moving in the direction of being progressive. And ultimately, I was complaining about who... Who was going to run. I was like, somebody has to run that gets this."
+      }
+    ],
+    "speakername": "Katie Hill",
+    "ground_truth": "and finally a friend of mine who works in county politics told me um well maybe you should run and i finally looked into it and decided you know what if ever there was a time this is the time and if ever there was a need it's now",
+    "bio": "Born in [location] in 1987, [target] is an American politician and social services administrator. She served as the U.S. Representative for a congressional district from January to November 2019. [target] is the former executive director of a statewide non-profit organization working to end homelessness. She is a member of the Democratic Party. She won her seat by defeating the incumbent Republican representative in the 2018 midterm elections. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and finally a friend of mine who works in regional politics told me um well maybe you should run and i finally looked into it and decided you know what if ever there was a time this is the time and if ever there was a need it's now"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh, of course, we're in our homes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So you'll never be able to guess which one's which, and I'm not telling you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you know what we'll we'll just have to see which one stains your mouth even more red with your war paint"
+      }
+    ],
+    "speakername": "Katie Hill",
+    "ground_truth": "Yeah, so, you know, the fact that we come from this more conservative-leaning district, it's one that voted for a state proposition in pretty overwhelming numbers just not that long ago. I had so many people who said, including, you know, members of different political bodies that I really respected, and even some of my own family and friends were like, you don't need to go there. You're married to a man, so just stay quiet about it. And I said that that's just not who I am, and I think that, you know, in a position like this, I have to make, you know, visibility is something that I think is so important to our community and showing that this should not be an issue, that people are held back from running for something or leading or whatever. And so I just kind of did it very casually of just like, yeah, this is who I am. It was on the website, not really like making a thing of it, but then people started to notice. And it became more and more of an issue, and it didn't matter. I mean, we won by nine points, so.",
+    "bio": "Born in 1987, the subject is an American politician and social services administrator from a rural community. They served as a U.S. Representative for a district in their state from January to November 2019. The subject is the former executive director of a statewide non-profit organization working to end homelessness. They are a member of their political party and won their seat by defeating the incumbent representative in the 2018 midterm elections. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so, you know, the fact that we come from this more conservative-leaning district, it's one that voted for Proposition 8 in pretty overwhelming numbers just not that long ago. I had so many people who said, including, you know, members of different political bodies that I really respected, and even some of my own family and friends were like, you don't need to go there. You're married to a man, so just stay quiet about it. And I said that that's just not who I am, and I think that, you know, in a position like this, I have to make, you know, visibility is something that I think is so important to our community and showing that this should not be an issue, that people are held back from running for something or leading or whatever. And so I just kind of did it very casually of just like, yeah, this is who I am. It was on the website, not really like making a thing of it, but then people started to notice. And it became more and more of an issue, and it didn't matter. I mean, we won by nine points, so."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Cool. OK, so I think what [target] was referring to was I used to work for a news organization, and I spent almost a year with some of my colleagues profiling [target]'s campaign and eventual election to Congress. So I spent a large amount of time watching a lot of video of [target] as we chose what precious minutes to put on cable TV. So a couple of the questions are going to refer to that. But I think to start, and everything you talk about in your book and what you have been through over the last year or two years is a lot, but I think we have to start with the stuff that is hard to talk about. And one friend suggested I start kind of the way Jay Leno started in the interview with Hugh Grant. And I don't know if you get that reference because you're a little bit younger than me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But basically, um,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When it comes to the relationship that you had with your campaign staffer and your husband, soon to be ex-husband, hopefully, what were you thinking?"
+      }
+    ],
+    "speakername": "Katie Hill",
+    "ground_truth": "Oh, yeah, absolutely. And when I started campaigning, I learned, and this was before a certain representative got elected. And so there were only four members of Congress who were millennial. And, you know, we make up the largest voting bloc in the entire country right now. And that to me is just this disparity that was completely unacceptable, especially when you're talking about what are the issues that impact our generation. And those are the ones that we're going to be facing collectively, you know, for decades and generations to come. And, you know, college debt, caring about whether we're going to have a planet, healthcare, housing, and being able to enter into this stable kind of American dream idea that has become harder and harder for so many of us to achieve. And just, again, going back to that whole concept of representation, I felt strongly that as I'm going to be representative of women, I'm going to be representative of this generation, I'm going to be representative of people who aren't independently wealthy, don't come from political backgrounds, but who deserve a seat at the table. And, and how our country's run. And so I just felt like that's, you know, if we were to define my campaign in any particular way, it's about being a voice for these communities that haven't had one before.",
+    "bio": "Born in 1987, [target] is an American politician and social services administrator from a rural area in the western United States. She served as a U.S. Representative for a congressional district from January to November 2019. [target] is the former executive director of a statewide non-profit organization working to end homelessness. She is a member of the Democratic Party. She won her seat by defeating the incumbent Republican representative in the 2018 midterm elections. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But basically, um,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When it comes to the relationship that you had with your campaign staffer and your husband, soon to be ex-husband, hopefully, what were you thinking?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, yeah, absolutely. And when I started campaigning, I learned, and this was before Representative got elected. And so there were only four members of Congress who were millennial. And, you know, we make up the largest voting bloc in the entire country right now. And that to me is just this disparity that was completely unacceptable, especially when you're talking about what are the issues that impact our generation. And those are the ones that we're going to be facing collectively, you know, for decades and generations to come. And, you know, college debt, caring about whether we're going to have a planet, healthcare, you know, housing, and being able to enter into this stable kind of American dream idea that has become harder and harder for so many of us to achieve. And just, again, going back to that whole concept of representation, I felt strongly that as I'm going to be representative of women, I'm going to be representative of this generation, I'm going to be representative of people who aren't independently wealthy, don't come from political backgrounds, but who deserve a seat at the table. And, and how our country's run. And so I just felt like that's, you know, if we were to define my campaign in any particular way, it's about being a voice for these communities that haven't had one before."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you still in touch with that person?"
+      }
+    ],
+    "speakername": "Katie Hill",
+    "ground_truth": "I assume everyone knows what that is, raise your hand if you have it. So you were kind of joking in that moment, but also I think it's indicative of some of the things women have to think about when they campaign. So can you talk about that being part of this wave of women and what sexism, if any, you feel like you've faced along the way? Oh my gosh, yeah. That's a good question.",
+    "bio": "Born in 1987, the subject is an American politician and social services administrator from [location]. They served as the U.S. Representative for a congressional district from January to November 2019. The subject is the former executive director of a statewide non-profit organization working to end homelessness. They are a member of a major political party. They won their seat by defeating the incumbent representative in the 2018 midterm elections. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, for everyone who didn't follow [target]'s race, I just want to recap a little bit. So, you beat a two-term incumbent. Yep. You flipped a district blue that had been red for a couple of decades. Yep."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The entire time the district had existed, it's been held by a Republican."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow. Okay. And you helped your party retake the House. Yes. So I think that this would be pretty impressive, no matter what. But this is also the first time you've ever run for any political office. Yes. So take us back to the moment when you decided that you were going to do this. Sure."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I was running [organization], which is the largest homeless services organization in [state]. And through that work, I had the opportunity to help to develop and pass major legislation, especially in the city and county of [major city], to address the homelessness crisis that we were facing. And so November of 2016, we'd worked for years to get this proposition onto the ballot called [proposition] that would provide $1.2 billion to build the facilities needed to address homelessness, permanent housing, shelters. And we passed it with this huge margin of victory, almost 80% of the vote. But the very next day, instead of being able to celebrate this huge victory, people were in my office crying, saying, Donald Trump is president. We've got this Republican House and Senate that we know is one of their first priorities is to undermine."
+      }
+    ],
+    "speakername": "Katie Hill",
+    "ground_truth": "The very resources that are so critical in the work we do, starting with the Affordable Care Act. And I didn't have a good answer for what we're supposed to do, except for to say, well, we have to work on the local resources. It's that much more important now. But also, the next thing we can do politically is to flip the House. So I wanted to be involved in some capacity. And I started looking into the nearby districts that were going to be targeted to flip the House. And it turns out the one that I've spent my whole life in, that I was currently living in, was one of those top districts. And I had followed the race somewhat the last time around. And I felt very strongly that this is a district that could be taken by a Democrat. But it's got to be someone who truly understands the community, who really gets the nuances related to a district that is full of cops and firefighters and nurses and building trade workers. And so it kind of has this conservative-leaning tendency, but it's moving in the direction of being progressive. And ultimately, I was complaining about who... Who was going to run. I was like, somebody has to run that gets this.",
+    "bio": "The target (born August 25, 1987) is an American politician and social services administrator from [location]. They served as the U.S. Representative for [state]'s district from January to November 2019. The target is the former executive director of [organization], a statewide non-profit organization working to end homelessness throughout [state]. They are a member of the Democratic Party. They won their seat by defeating incumbent Republican [opponent] in the 2018 midterm elections. The speaker's MBTI type is ESFP"
+  }
+]

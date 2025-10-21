@@ -1,0 +1,118 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Because I was sick. I was feeling terrible. Matter of fact, the docs with me, I asked if they did a medical test because they were trying to figure out what was wrong. They did a test to see whether or not I had some infection, you know, a virus. I didn't. I just had a really bad cold."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "And did you ever watch the debate afterwards?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think I did, no."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "What I want to get at is, what were you experiencing as you were going through the debate? Did you know how badly it was going?"
+      }
+    ],
+    "speakername": "Joe Biden",
+    "ground_truth": "Yeah, look, the whole way I prepared, nobody's fault of mine. Nobody's fault of mine. I prepared what I usually would do, sitting down, as I did come back with foreign leaders or the advisory council, for explicit detail. And I realized about partway through that, you know, I get quoted, the major newspaper had me down at 10 points before the debate, like 9 now or whatever the hell it is. The fact of the matter is that what I looked at is that he also lied 28 times. I couldn't, I mean, the way the debate ran, not my fault, nobody else's fault. No one else's fault.",
+    "bio": "The speaker (born November 20, 1942) is an American politician who is the 46th and current president of the country since 2021. A member of the majority party, the speaker served as the 47th vice president during the previous administration from 2009 to 2017. They represented their home state in the national Senate from 1973 to 2009. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think I did, no."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "What I want to get at is, what were you experiencing as you were going through the debate? Did you know how badly it was going?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, look, the whole way I prepared, nobody's fault of mine. Nobody's fault of mine. I prepared what I usually would do, sitting down, as I did come back with foreign leaders or the National Security Council, for explicit detail. And I realized about partway through that, you know, I get quoted, the [major newspaper] had me down at 10 points before the debate, like 9 now or whatever the hell it is. The fact of the matter is that what I looked at is that he also lied 28 times. I couldn't, I mean, the way the debate ran, not my fault, nobody else's fault. No one else's fault."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "But it seemed like you were having trouble from the first question in, even before he spoke."
+      }
+    ],
+    "speakername": "Joe Biden",
+    "ground_truth": "Well, I just had a bad night. You've had some bad interviews once in a while. I can't remember any, but I'm sure you do.",
+    "bio": "Born November 20, 1942, is an American politician who is the 46th and current president of the United States since 2021. A member of the major political party, served as the 47th vice president during the previous administration from 2009 to 2017. Represented a mid-Atlantic state in the United States Senate from 1973 to 2009. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, look, the whole way I prepared, nobody's fault of mine. Nobody's fault of mine. I prepared what I usually would do, sitting down, as I did come back with foreign leaders or the National Security Council, for explicit detail. And I realized about partway through that, you know, I get quoted, the major newspaper had me down at 10 points before the debate, like 9 now or whatever the hell it is. The fact of the matter is that what I looked at is that he also lied 28 times. I couldn't, I mean, the way the debate ran, not my fault, nobody else's fault. No one else's fault."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "But it seemed like you were having trouble from the first question in, even before he spoke."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I just had a bad night. You've had some bad interviews once in a while. I can't remember any, but I'm sure you do."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "I've had plenty. I guess the question, the problem is here for a lot of Americans watching is you've said going back to 2020, watch me. To people who are concerned about your age. And, you know, 50 million Americans watch that debate. It seemed to confirm fears they already have."
+      }
+    ],
+    "speakername": "Joe Biden",
+    "ground_truth": "Well, look, after that debate, I did 10 major events in a row, including until 2 o'clock in the morning after that debate. I did events in [State A]. I did events in [State B]. I did events like this today. Large crowds, overwhelming response, no slipping. And so I just had a bad night. I don't know why.",
+    "bio": "The speaker (born November 20, 1942) is an American politician who is the 46th and current president of the United States since 2021. A member of the major political party, the speaker served as the 47th vice president during the previous administration from 2009 to 2017. They represented [State C] in the United States Senate from 1973 to 2009. The speaker's MBTI type is ESFJ",
+    "name": "Joe Biden"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I just had a bad night. You've had some bad interviews once in a while. I can't remember any, but I'm sure you do."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "I've had plenty. I guess the question, the problem is here for a lot of Americans watching is you've said going back to 2020, watch me. To people who are concerned about your age. And, you know, 50 million Americans watch that debate. It seemed to confirm fears they already have."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, after that debate, I did 10 major events in a row, including until 2 o'clock in the morning after that debate. I did events in [location1]. I did events in [location2]. I did events like this today. Large crowds, overwhelming response, no slipping. And so I just had a bad night. I don't know why."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "And how quickly did it come to you that you were having that bad night?"
+      }
+    ],
+    "speakername": "Joe Biden",
+    "ground_truth": "Well, I was having a bad night when I realized that even when I was answering a question, even though they turned his mic off, he was still shouting. And I let it distract me. I'm not blaming him for that. But I realized that I just wasn't in control.",
+    "bio": "The speaker (born November 20, 1942) is an American politician who is the 46th and current president of the United States since 2021. A member of a major political party, the speaker served as the 47th vice president during the previous administration from 2009 to 2017. They represented a mid-Atlantic state in the United States Senate from 1973 to 2009. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, look, after that debate, I did 10 major events in a row, including until 2 o'clock in the morning after that debate. I did events in [state]. I did events in [state]. I did events like this today. Large crowds, overwhelming response, no slipping. And so I just had a bad night. I don't know why."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "And how quickly did it come to you that you were having that bad night?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, [country] was having a bad night when I realized that even when I was answering a question, even though they turned his mic off, he was still shouting. And I let it distract me. I'm not blaming him for that. But I realized that I just wasn't in control."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Part of the other concern is that this seems to fit into a pattern of decline that has been reported on recently. [newspaper] had a headline on July 2nd, [target]'s lapses are said to be increasingly common and worrisome. Here's what they wrote. People who have spent time with President [target] over the last few months or so said the lapses appear to have grown more frequent, more pronounced, and after Thursday's debate, more worrisome. By many accounts, as evidenced by video footage, observation, and interviews, Mr. [target] is not the same today as he was even when he took office three and a half years ago. Similar reporting in the [newspaper] and the [newspaper]. Are you the same man today that you were when you took office three and a half years ago?"
+      }
+    ],
+    "speakername": "Joe Biden",
+    "ground_truth": "In terms of successes, yes. I also was the guy who put together a peace plan for the [region] that may be coming to fruition. I was also the guy that expanded [organization]. I was also the guy that grew the economy. All the individual things that were done were ideas I had or I fulfilled, I moved on. And so, for example, you know, well, that was true then. What's [target] done lately? Today, just announced 200,000 new jobs. We're moving in a direction that no one's ever taken on. I know you know this from the days in the government. I took on [industry]. I beat them. No one said I could beat them. I took on all the things we said we got done. We're told we couldn't get done. And part of it is what I said when I ran was I want to do three things. Restore some decency to the office. Restore some support for the middle class instead of trickle-down economics built from the middle out and the bottom up. The way they work. The wealthy still do fine. Everyone does better. And unite the country.",
+    "bio": "The speaker (born November 20, 1942) is an American politician who is the 46th and current president of the [country] since 2021. A member of the [political party], the speaker served as the 47th vice president during the previous administration from 2009 to 2017. They represented [state] in the [legislative body] from 1973 to 2009. The speaker's MBTI type is ESFJ"
+  }
+]

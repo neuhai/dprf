@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Thank you. Thank you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I love [state]. You know, I have to start with the people. People here have their feet on the ground. They, by history and background, have had to figure out how to make a living. And so they're entrepreneurial, they're creative. And I guess the other thing is, people here really have a sense of community and support each other. And I think that's a unique characteristic I would call [state] native. The other thing that I love is our beautiful state. The natural setting is just so beautiful here in the [region] with all the lakes and wildlife and trees and water. So my family's been big in the outdoors for a long time and you can't help but be that way if you grow up here."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Exactly. And your family's done so much for the state, for the country, but in particular in the region now with mountain biking, with [museum name], there are just so many things that support a healthy, all-inclusive lifestyle. How did those ideas come about? And maybe we could focus first on [museum name] and your love of art and your desire to bring fine art, American art, to this community."
+      }
+    ],
+    "speakername": "Alice Walton",
+    "ground_truth": "Well, when I was growing up, you know, it was a four hour drive to the closest art museum. And so art was not a part of our lives. I happen to love to do watercolors on our family camping trips. And that was really my only connection. But I started thinking when I grew up, I wanted to do something when that would really make a difference in this part of the world. And my mom always said, give the thing you love the most. And so that was pretty easy. I love art. And I thought, well, that's something that we don't really have in our region and something that could really make a difference. And it's just been a wonderful adventure. I certainly did not know how to build an art museum or had any collecting experience. But I had no experience until I just started doing it. So it was, it was a great learning experience. And the the joy that that I get from seeing people here having access is just special.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I love [state]. You know, I have to start with the people. People here have their feet on the ground. They, by history and background, have had to figure out how to make a living. And so they're entrepreneurial, they're creative. And I guess the other thing is, people here really have a sense of community and support each other. And I think that's a unique characteristic I would call [state] native. The other thing that I love is our beautiful state. The natural setting is just so beautiful here in the [mountain range] with all the lakes and wildlife and trees and water. So my family's been big in the outdoors for a long time and you can't help but be that way if you grow up here."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Exactly. And your family's done so much for the state, for the country, but in particular in the region now with mountain biking, with [museum name], there are just so many things that support a healthy, all-inclusive lifestyle. How did those ideas come about? And maybe we could focus first on [museum name] and your love of art and your desire to bring fine art, American art, to this community."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, when I was growing up, you know, it was a four hour drive to the closest art museum. And so art was not a part of our lives. I happen to love to do watercolors on our family camping trips. And that was really my only connection. But I started thinking when I grew up, I wanted to do something when that would really make a difference in this part of the world. And my mom always said, give the thing you love the most. And so that was pretty easy. I love art. And I thought, well, that's something that we don't really have in our region and something that could really make a difference. And it's just been a wonderful adventure. I certainly did not know how to build an art museum or had any collecting experience. But I had no experience until I just started doing it. So it was, it was a great learning experience. And the the joy that that I get from seeing people here having access is just special."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "and one of the areas of focus for [museum name] has been and is young people. And can you talk about the programs that you have bringing school children from around the state, around the region to visit [museum name] and also [museum name] is growing and maybe you can tell us about the expansion and what that'll be doing for the museum."
+      }
+    ],
+    "speakername": "Alice Walton",
+    "ground_truth": "Okay, so [museum name] basically has five centuries of American art and it is focused on American artists and artists that have made a major impact here. We started with basically painting, sculptures, watercolors, but to me we couldn't really be a true American museum if we didn't have crafts and Native American. And so we have added those two areas to our collection over the last three years and needed more room to show and tell the full story, including crafts and Native Americans. So the museum is currently 200,000 square feet. We are adding another 100,000. The goal with that expansion is to really allow us to tell the full story of America. American art, including crafts and Native American materials. And to expand our school education program from reaching approximately 50,000 children a year now to 100,000. A big goal and one that I love. But the school program is supported by many in our community. And I think it's one of the most important things we do. But we have pre and post learning. We have pre and post learning sessions with all the classes and then they come spend a half a day at the museum, have lunch, and it's just, it's just been a great experience I think for the kids and has changed their lives.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, when I was growing up, you know, it was a four hour drive to the closest art museum. And so art was not a part of our lives. I happen to love to do watercolors on our family camping trips. And that was really my only connection. But I started thinking when I grew up, I wanted to do something when that would really make a difference in this part of the world. And my mom always said, give the thing you love the most. And so that was pretty easy. I love art. And I thought, well, that's something that we don't really have in our region and something that could really make a difference. And it's just been a wonderful adventure. I certainly did not know how to build an art museum or had any collecting experience. But I had no experience until I just started doing it. So it was, it was a great learning experience. And the the joy that that I get from seeing people here having access is just special."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "and one of the areas of focus for the museum has been and is young people. And can you talk about the programs that you have bringing school children from around the state, around the region to visit the museum and also the museum is growing and maybe you can tell us about the expansion and what that'll be doing for the museum."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, so the museum basically has five centuries of American art and it is focused on American artists and artists that have made a major impact here. We started with basically painting, sculptures, watercolors, but to me we couldn't really be a true American museum if we didn't have crafts and Native American. And so we have added those two areas to our collection over the last three years and needed more room to show and tell the full story, including crafts and Native Americans. So the museum is currently 200,000 square feet. We are adding another 100,000. The goal with that expansion is to really allow us to tell the full story of America. American art, including crafts and Native American materials. And to expand our school education program from reaching approximately 50,000 children a year now to 100,000. A big goal and one that I love. But the school program is supported by many in our community. And I think it's one of the most important things we do. But we have pre and post learning. We have pre and post learning sessions with all the classes and then they come spend a half a day at the museum, have lunch, and it's just, it's just been a great experience I think for the kids and has changed their lives."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It certainly has, and you've written, and your team has studied the effects of coming to the museum and how it's expanded the perspectives of the students at very critical points in their lives. Can you talk some about that and the types of studies you've done and the impact that the educational programs sponsored by the museum have had?"
+      }
+    ],
+    "speakername": "Alice Walton",
+    "ground_truth": "It's the impact has been far larger than what I'd ever dreamed or hoped for, really. But when we first opened, some researchers came to us that study schools and school numbers, statistics nationwide. And they said, you know, there's never been a major museum open in a place that literally hasn't had one before. And so we want to do a big study. We said, sure, we'd love that. So they took a 12,000 child sample, 6,000 children that we could get into the museum in the first six months, 6,000 that would have to wait. And they both received the same study lessons. One was in the museum with the paintings. The other control group read it in their study groups. The difference that... The researchers found they waited three months to assess the children. And the difference in empathy, historical empathy, the difference in retention, and the difference in problem solving were all significant in terms of the group that got to learn through art versus those that didn't. That study was then copied in major national newspapers and used all over the country by educators to try to get art back into the schools.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's huge impact. Now, in addition to displaying wonderful works of art at [museum name], the building itself is quite architecturally significant. And you went through a very involved process in working with the architect on the design of the building. Can you talk about the architectural significance of the building and how the building serves its function in building bridges, bridges to the environment, bridges to different phases of art history? But I know you put a lot of thought and effort into that. And can you explain it and how?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's worked? I'll start with the name [museum name]. We do get some letters occasionally to Mrs. [museum name], but [natural feature] is actually the name that the museum came for. It's a spring right on the property, a beautiful pure spring that comes just outside the museum doors really. But [architect name] is the architect. And I talked to [architect name], what I really wanted was-I knew that most people from our region had not been to museums, and in fact when we opened, it was over 80 percent of the attendants had never been in a museum before, and so I knew that it had to be welcoming and comfortable and-and to create a sense of welcome for the people who come to of security more than grander."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And so [architect name] and I talked about that at length, visited a lot of different places together. We knew we wanted it to be a community center, a cultural center, as well as a museum where people would wanna hang out. And so it was obvious to me that the best combination to achieve those goals would be to have it set deeply into nature and integrate it as a part of nature. So that's literally what he did. And I'm happy to say that people refer to the building as the happy building. Yes, and it is, it is. Yeah."
+      }
+    ],
+    "speakername": "Alice Walton",
+    "ground_truth": "But he really just, [architect name] is an amazing individual and I feel so honored to have gotten to work with him, but he knew how to listen and really worked at achieving our goals.",
+    "bio": "The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "certainly did and for those who are listening who haven't visited [museum name] now's the time to do it it's an amazing museum of course and and the new wing will be open when the new wing will"
+      },
+      {
+        "speaker": "[target]",
+        "text": "open 2026 but it doesn't impact the current situation at all fortunately"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "right maybe let's talk about growing up growing up here in [region] growing up is one of the four children of [parent names] and um what was it like you were growing up during the time when your dad was building the business you participated in building a business then you yourself trained in finance and and founded a number of initiatives in finance prior to your work that you just described in [museum name] but tell us about growing up the daughter of [parent name] what you learned from your dad and how you experienced the growth of what is now this incredible company that arguably has more impact in our country and around the world than any other single company or industry so what was it like"
+      }
+    ],
+    "speakername": "Alice Walton",
+    "ground_truth": "It was pretty special, I have to say. Growing up in [town name], at the time, it was a town of 2,000 people, a little country town. And we were a middle class, middle American family, just like most of the folks in our town. We walked to school every day. Myself and my brothers went to the [local] High School. And growing up, I was a daddy's girl. I have to admit, I was. And dad would take us with him on his business trips a lot. He'd take turns taking each of us. Mom and dad talked about the business openly at the family table. So we kind of didn't really realize how much we learned. And through osmosis, kind of. Growing up, we all worked at the [store name] on the square. My first job was .",
+    "bio": " The speaker's MBTI type is INTP"
+  }
+]

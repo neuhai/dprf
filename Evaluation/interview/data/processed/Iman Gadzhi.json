@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Hey, man, how are you doing? I'm supposed to ask. I've watched this. I know how this goes. I'll start by saying, how are you really doing?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I know how this goes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I, you know, going into this year, I don't know if you ever have this, you know, sometimes you go into a year and you just know it's going to be a difficult year. I had that going into this year and I think that's turned out to be very true."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I try to explain to people all the time that although my life looks like a dream and what every, especially I think, young gentleman aspires to have, it comes with a lot of chaos and chaos is the opposite to peace and usually what most people want is peace. You know, most people when they're like, oh, I want to be happy, what they mean is they want peace in their life because..."
+      }
+    ],
+    "speakername": "Iman Gadzhi",
+    "ground_truth": "I don't think it matters if you're driving this luxury vehicle or that luxury vehicle, if you're behind the steering wheel and you're looking out and you're thinking about, did I send this email or are my assets safe here? Or this person that I need to take care of or the 150 employees, what's the long-term vision of this company? I think the best situation you can be in is in any basic car, but looking out and looking at the sunset with a bit of good music on, that's what makes a good life. I think there's seasons in life and I'm in a season of chaos, which I embrace. So to answer your question, this year I'm getting through it.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "There."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You know?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I understand what you're saying, but if you have the conscious decision, let's say, for example, some of the things that you do future pace and you do think of, if you could eradicate those problems today, let's say, for example, you said ..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know where's my business going to be at and this and that if you're in a position where you don't need to work anymore you know so you don't need to face you don't need to have those problems looming but you've chosen a life in which that comes with it i don't believe"
+      }
+    ],
+    "speakername": "Iman Gadzhi",
+    "ground_truth": "I don't believe in this whole idea of like conscious entrepreneur, I'm going to have a business. And here's the thing, you can have a business that is very respectable, moderately successful, but I'm talking if you're trying to perform at the top, top, top, top level, your mind is going to be a minefield and there's no getting past that. I don't believe in this whole.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But then they don't know the actual story. 15 years old, I did this, I got rejected 62 times. It's all of this compilation of incremental success to actually be successful. So that's the tricky thing. And I think you said something that I also will tell you that you're wrong and I'm wrong. It's if we quit today, we'll be some miserable people, me and you. Let's say we could. We quit, khalas, no business, nothing. I'll give you one week, okay, I'll give you a month."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you will be so uneasy because you need to feel valuable and productive and, and, and. So I could have told you, why didn't you stop two or three years ago when you said you were at the 1 10th size of you? No, you're"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, you are a hundred percent correct in saying that, but I think this is why it's so important to have the self-awareness of who you are as a person. You have a God-given talent, I have a God-given talent. It gets to a certain point in your career where you have so much as a nest egg that you stop tomorrow and you still make millions of dollars a year just from your investments. So then you have to ask, why does this person keep doing this? Quite clearly, there's something inside of them. If you want the best quality of life as a footballer, go be the hundredth best footballer in the world because you're still going to make 10, $20 million a year. So what's the point in being number one? Because number one, you have so much pain and you have so much work that goes into it and all the things that people want, you never actually get to enjoy because you're always focused on being the best. Yeah. Yeah. Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you're correct in saying that you and I will be bored. A hundred percent, I know that. That's why I don't stop. Cause for me, it's like, what else would I do? If I sold my businesses, if I packed it all up, if I just laid all of my focus on my investment portfolio and just chilled. I mean, I was even talking with my family office and my wealth managers a couple of days ago. You know, government bonds are five to five and a half percent. You throw your money into a 10 year bond, that's it. You're set. You never have to work. It's the safest investment possible unless the country collapses. So."
+      }
+    ],
+    "speakername": "Iman Gadzhi",
+    "ground_truth": "When you've got that situation and a person is still working and is still striving, that's because that's unique to them.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Mm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I look at someone, I have never once in my life looked at someone who moves to South East region and lives off of $5,000 a month, even though they could have taken their business to multi-millions and multi-eight figures a year. I never look at someone like that as, you know, why are you making that decision? If that's true to you, and if that's in alignment as to who you are as a person, then that's beautiful. I think you need to live a life that is in alignment to who you know you are. And it might take some time to figure that out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know for some people they want a good life and maybe once they get the things that they want maybe they realize oh you know what i would much rather make substantially less money but have a stress-free life but you won't know until you get there i guess"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Who are you when no one's around?"
+      }
+    ],
+    "speakername": "Iman Gadzhi",
+    "ground_truth": "I'm a person that thinks about everyone around me and thinks about, I'll give you a small example. I have a weird little habit with my friends, friends, my mom, and basically anyone who's around me. If I see their devices around, I go charging because I'm like, oh, what happens if they run out of battery? You know, next time they're, you know, like I'm so, the RAM that's in my mind is at full capacity at all times because I'm always just looking around, analyzing, and I worry about other people a lot. And I'm always trying to think about other people and thinking, how can I make their life better? And you know, I, one of my favorite books is a book called [generic book title] and I actually have a tattoo of it right here. And I guess one of my, one of my philosophies in life is, as I said, I feel like I have this God given talent of absorbing a lot of stress.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Tumultuous, quick."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And a blessing."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Hmm. And what's your best childhood memory?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Probably anytime I got to play with my mom, you know, I'm an only child so I had no one to hang around with, no one to play with. I'm naturally an introvert so I didn't really have many friends in school, I never really mingled with many people so I think my favorite childhood memory is anytime that I just got to build Lego with my mom or you know she played football with me and I think it's my favorite memory now because I've come to realize just how boring it is for a parent. I guess I've come to realize like as a mother you're there trying to entertain your child for hours and hours upon end and doing all the stuff that you don't care about but you know it makes your child happy so you're willing to sacrifice watching a, you know, a cartoon on TV to be able to spend time with your child. Or, you know, making this Lego set or whatever it may have been at the time so I think now I look back very fondly at those memories and I understand that, you know, being a single mother is very hard but, you know, being a single mother to an only child is even harder because there is no siblings where at least you can alleviate some of that, you know, that."
+      }
+    ],
+    "speakername": "Iman Gadzhi",
+    "ground_truth": "that time and that playtime. So I'd say any of those memories I cherish quite deeply in my heart now. Worst childhood memory? So there was one time when I was eight years old. I moved to a major European city when I was four. My mom and my stepdad dated for a couple years. They met in Eastern Europe. You know, they trialed out living together and eventually he proposed. So that's how I ended up moving to the major city when I was four years old. And, you know, that marriage fell apart quite quickly. Yeah. I remember one time when I was eight years old, I picked up the home phone. And on the other line, it's, hi, this is local escort service. We're looking, you know, we're calling regarding your booking with, you know, my stepdad's name. And I was eight years old, bear in mind. You don't quite know what that is at eight. And, you know, my mom, my mom obviously asked, who was that? And I say, oh, it was an escort service, you know, calling about my stepdad. And obviously I see the sadness wash over her face. And, you know, it's so funny, even as an eight-year-old, I was like, no, no, no, mom, you don't understand. They like, because my stepdad was arriving from airport. You know, my stepdad wasn't around much. He was only in the city, maybe three or four months a year. I was like, no, no, mom, you don't understand. They, they escort him from the airport to the house. Like they're like an escort service. And I don't know how, but even when I was eight, I knew what that was. I had that like gut feeling. And I think that when you asked me three words to describe my childhood. Yeah. I think I said quick. And the reason I said quick was because",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

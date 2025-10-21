@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, everybody's good. I actually I've been anticipating this for a while. And so I didn't have staff come in today. So I'm thankful for that. But we're we're kind of under siege here. It feels like a little bit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That is interesting that you perceived this threat ahead of time based upon knowing that there was going to be this rally down the street at the [government building]. Is that what put you on guard?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it is. You know, all you have to do is hear, you know, the words of the president talking about basically storming [the capital city] in different words prior to this, convincing people that an election was stolen. If you truly believe that an election was stolen and the government's run by, you know, as QAnon believes, Satanist pedophiles, you can fully expect something like this to happen. And you just see the chatter on Twitter where people talking about, you know, 1776 moments. So I knew it was coming. I wasn't surprised, but it was definitely a surprising day."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, tell us what it was like in the chamber. When did you find out that it was happening, and how were you informed that you needed to leave for your safety and the safety of the staff?"
+      }
+    ],
+    "speakername": "Adam Kinzinger",
+    "ground_truth": "I WAS LUCKY BECAUSE I WAS ON THE LEGISLATIVE CHAMBER FLOOR AT THE BEGINNING OF THE PROCEEDINGS AND AS I STARTED TO LOOK AT TWITTER AND I WAS GETTING REALLY KIND OF THAT FEELING THAT SOMETHING WAS ABOUT TO GO DOWN AND PLUS THE PRESIDENT'S SPEECH EARLIER IN THE DAY PUT ME ON EDGE AND THEN I STARTED TO SEE THE BARRICADES WERE BEING STORMED AND I MADE THE DECISION THEN TO GO BACK TO MY OFFICE AND I'M GLAD I DID. MY FRIENDS AND STUFF I TALKED TO ON THE FLOOR WAS OBVIOUSLY SOMETHING SURREAL LIKE END OF TIMES KIND OF MOVIE AND WHEN THEY'RE PULLING THE ESCAPE HOODS AND PUTTING THEM ON THEIR HEADS WHICH WE NEVER THOUGHT WE'D HAVE TO USE, THAT'S CRAZY.",
+    "bio": "The speaker is a politician serving as the U.S. Representative for a congressional district in the Midwest. The district covers parts of a major city, most of its suburbs, and a swath of exurban territory. The speaker is a member of a major political party and serves as a lieutenant colonel in the Air National Guard. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, unfortunately, all that can happen is a political decision. But on leadership, you know, leaders in this party who convinced people that somehow Congress could magically pick the next president of the United States because they thought it was going to be easier to just avoid that pain of saying, no, it's not possible than what we face now. I mean, we have to have a real awakening moment in our party. The party has got to get out of the business of culture wars and get back into the business of giving people hope and opportunity and actually making the case for what we believe instead of thinking we can do that through power and, you know, all caps tweets."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now, there's a quote that's sometimes attributed to Huey Long and sometimes to Sinclair Lewis, and it's, when fascism comes to America, it will be cloaked in American flags. Was this an attempted fascist coup? Domestic terrorism? How would you characterize it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I CHARACTERIZE THIS AS A COUP ATTEMPT AND, YOU KNOW, THE GOOD THING IN THIS COUNTRY, THE GUARDRAILS OF THE CONSTITUTION ARE GOING TO HOLD, THEY WILL HOLD, BUT ONE THING THIS DOES SHOW US IS THE FRAGILITY OF DEMOCRACY AND WHEN YOU HAVE PEOPLE STORMING A GOVERNMENT BUILDING SAYING THINGS LIKE 1776, A FEW PEOPLE WITH CONFEDERATE FLAGS COME AND OCCUPY THE BUILDING, YOU SEE GUNS DRAWN IN THE PEOPLE'S CHAMBER, YOU KNOW, WHERE THIS DEBATE IS SUPPOSED TO HAPPEN AND YOU SEE A PRESIDENT NON-REPENTANCE ON SOCIAL MEDIA, IT'S ABSOLUTELY A COUP ATTEMPT. THAT'S EXACTLY WHAT WE WOULD CALL IT IF IT HAPPENED IN ANY OTHER COUNTRY."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm sure you've seen the photograph of the security officers in the chamber with their guns drawn, pointed at the broken window of that famous door that we all see the president walk through for the State of the Union that you walk through every day as a part of your job. Will you ever look at that door the same way again?"
+      }
+    ],
+    "speakername": "Adam Kinzinger",
+    "ground_truth": "No, I never will. And in fact, there are bullet scars in the building from a terrorist attack in the 50s from separatist groups. And that's always kind of shown as what can happen. This is going to be another thing. So now in 50 years, when people give tours, they're going to talk about those bullet scars and the scars from today. But I'll tell you what, the democracy will survive, but people have got to get out of this mode of hating somebody with a different opinion, passionately debate, but recognize that politics was invented to prevent violence and our politics has been broken for so long.",
+    "bio": "The speaker is a politician serving as a U.S. Representative for a congressional district in a Midwestern state. The district covers eastern parts of a major city, most of its suburbs, and a swath of exurban territory. The speaker is a member of their political party and serves as a lieutenant colonel in the Air National Guard. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I CHARACTERIZE THIS AS A COUP ATTEMPT AND, YOU KNOW, THE GOOD THING IN THE NATION, THE GUARDRAILS OF THE CONSTITUTION ARE GOING TO HOLD, THEY WILL HOLD, BUT ONE THING THIS DOES SHOW US IS THE FRAGILITY OF DEMOCRACY AND WHEN YOU HAVE PEOPLE STORMING A GOVERNMENT BUILDING SAYING THINGS LIKE 1776, A FEW PEOPLE WITH CONFEDERATE FLAGS COME AND OCCUPY THE BUILDING, YOU SEE GUNS DRAWN IN THE PEOPLE'S CHAMBER, YOU KNOW, WHERE THIS DEBATE IS SUPPOSED TO HAPPEN AND YOU SEE A PRESIDENT NON-REPENTANCE ON SOCIAL MEDIA, IT'S ABSOLUTELY A COUP ATTEMPT. THAT'S EXACTLY WHAT WE WOULD CALL IT IF IT HAPPENED IN ANY OTHER COUNTRY."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm sure you've seen the photograph of the security officers in the chamber with their guns drawn, pointed at the broken window of that famous door that we all see the president walk through for the State of the Union that you walk through every day as a part of your job. Will you ever look at that door the same way again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I never will. And in fact, there are bullet scars in the building from a terrorist attack in the 50s from separatists. And that's always kind of shown as what can happen. This is going to be another thing. So now in 50 years, when people give tours, they're going to talk about those bullet scars and the scars from today. But I'll tell you what, the democracy will survive, but people have got to get out of this mode of hating somebody with a different opinion, passionately debate, but recognize that politics was invented to prevent violence and our politics has been broken for so long."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You tweeted leaders who led this should all resign so the adults and truth tellers can hashtag restore our party. Who are those leaders? Could you be more specific? Does it include the president and the vice president? Should they leave now? Should the 25th Amendment be invoked?"
+      }
+    ],
+    "speakername": "Adam Kinzinger",
+    "ground_truth": "Yeah. So I don't want to get the naming names, but on the president, I think that's something we need to look at. If he's going to stay in office, you know, it's only two weeks. So it's like, how can you quickly do this? But if he's going to stay in office and continue to be non repentant on social media and to say that people shouldn't be violent, but they were justified in doing this. I think that's a conversation that will happen tomorrow morning. And and I think, you know, we'll see where that goes. But the reality is everybody that led, you know, our supporters who look to us for trust, they deserve to tell the truth to them now.",
+    "bio": "The speaker is a politician serving as the U.S. Representative for a congressional district in a midwestern state. The district covers parts of an urban area, most of its suburbs, and a swath of exurban territory. The speaker is a member of a major political party and serves as a lieutenant colonel in the Air National Guard. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I never will. And in fact, there are bullet scars in the house from a terrorist attack in the 50s from, I think, Puerto Rican separatists. And that's always kind of shown as what can happen. This is going to be another thing. So now in 50 years, when people give tours, they're going to talk about those bullet scars and the scars from today. But I'll tell you what, the democracy will survive, but people have got to get out of this mode of hating somebody with a different opinion, passionately debate, but recognize that politics was invented to prevent violence and our politics has been broken for so long."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You tweeted leaders who led this should all resign so the adults and truth tellers can hashtag restore our party. Who are those leaders? Could you be more specific? Does it include the president and the vice president? Should they leave now? Should the 25th Amendment be invoked?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So I don't want to get the naming names, but on the president, I think that's something we need to look at. If he's going to stay in office, you know, it's only two weeks. So it's like, how can you quickly do this? But if he's going to stay in office and continue to be non repentant on social media and to say that people shouldn't be violent, but they were justified in doing this. I think that's a conversation that will happen tomorrow morning. And and I think, you know, we'll see where that goes. But the reality is everybody that led, you know, our supporters who look to us for trust, they deserve to tell the truth to them now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "While you have been a vocal critic of the president, I'm just curious, did you vote for impeachment last year? No, I didn't. Would you like another bite of that apple?"
+      }
+    ],
+    "speakername": "Adam Kinzinger",
+    "ground_truth": "I think if it was different now, I would certainly, if I knew what I knew now, I would certainly probably consider that. I will say, though, a big difference between before the election and after election when you try to undermine the very pinnings of democracy, significantly dangerous.",
+    "bio": "The speaker is a politician serving as a U.S. Representative for a district in the Midwest. The district covers parts of a major city, most of its suburbs, and a swath of exurban territory. The speaker is a member of a major political party. They are also a lieutenant colonel in the Air National Guard. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Why did you want to be on the committee? Oh, I didn't want to be on it. I, you know, I was kind of hoping that cup would pass for me, as it were. I remember, you know, hearing initially when the committee happened, and there was this rumor that a senior political figure was going to put a Republican on, and I just remember thinking, please don't let it be me. I don't want to do it. And then, you know, she announced another representative, and then next you had, you know, when another leader pulled all his members off, I knew at that point pretty much I was set, because, you know, I was the only other Republican that voted to form this committee. And so then I was asked by two other representatives, and I knew at that point that morally I couldn't say no to it. And so when that came to me, I had to do it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "investigation? Did it feel personal to you? I mean, you had been there on on January six, I think, did it feel personal?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The investigation felt—it felt fairly personal to me, because not only had I actually been there during the attack and, you know, felt that threat, I had been a target of many of the conspiracies or the conspiracy theorists that, you know, called me a certain term and said that, you know, I was enabling, in essence, the destruction or the stealing of the election, the destruction of democracy. And so I knew that without accountability, at least verbal accountability or written accountability— not speaking yet about the federal department—without that, I mean, who knew what future history would record about this? And I knew it was essential not just for, you know, vindication in terms of what I was saying, but in vindication for the country and to defend the democracy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What was the most important thing that you thought the committee needed to do? Because, you know, one thing a lot of people said was we saw what happened on January 6th. We saw what the president had said. We've seen the tweets. We we'd seen the video. What was the point of the committee for you?"
+      }
+    ],
+    "speakername": "Adam Kinzinger",
+    "ground_truth": "Well, besides getting to actual accountability, and I think, I mean, today I believe that this federal investigation would not have happened without the committee. But I think the most important thing is people got channelized on the day of January 6th. You know, what was January 6th? It was an attack on the government building. That became the story. I think the bigger story is not really that. January 6th was a symptom. The bigger story is everything that happened prior, and even, frankly, some of the denialism that's happened after. But everything prior, you think of, you know, the former president telling the federal department to just say the election was corrupt, right, and then leave the rest to us. We'll exploit that doubt you create, basically, or doing nothing for 187 minutes. That's what I think was most important, was to broaden America's view from being a really bad day to a really bad problem. That we have to address, and I think we were able to do that, to widen that lens.",
+    "bio": "The speaker is a politician serving as a U.S. Representative for a congressional district in a midwestern state. The district covers parts of an urban area, most of its suburbs, and a swath of exurban territory. The speaker is a member of a major political party and serves as a lieutenant colonel in the Air National Guard. The speaker's MBTI type is ESFJ"
+  }
+]

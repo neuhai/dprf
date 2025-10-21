@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, for one thing it's because I was pediatric neurosurgery at [medical center]. You were it. I was it. And now, you know, there are four of us, so, which is good because I was working way too hard, there's no question about it. But, you know, I still do plenty and have an opportunity to be involved in a lot more, not only neurosurgical cases, but other outside activities, which is wonderful."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What's plenty, by the way?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Did you put a number on it? Yeah, I still do 300, 350 cases a year."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, this is coming from someone who describes himself as a hot-tempered kid growing up in a single-parent family in inner-city [city]. You became the chief of pediatric neurosurgery at [medical center] at the age of 33, which I think would have been remarkable for anyone, but especially remarkable for someone who came from your background. How did you do it?"
+      }
+    ],
+    "speakername": "Ben Carson",
+    "ground_truth": "Well, I had help. But, you know, one of the things that I think my mother instilled in me and in my brother was a sense of responsibility. She had an incredibly difficult life herself. You know, one of 24 children got married when she was 13, found out her husband was a bigamist, had only a third-grade education, but she never became a victim. And she never felt sorry for herself. And she never felt sorry for us. And she never let us feel sorry for ourselves. And she always said, you know, do you have a brain? If you have a brain, then you're fine. It doesn't really matter what's going on out there. And you can deal with it. And so were there obstacles along the way? Absolutely. Were there people telling me you can't do this? Of course there were. Did I listen to them? Of course not.",
+    "bio": "The subject (born September 18, 1951) is an American neurosurgeon, author and politician serving as the 17th United States Secretary of [department] since 2017, under the Administration. Prior to his cabinet position, he was a candidate for President of the United States in the Republican primaries in 2016. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right. And that was it. You know, she was a good observer. And because she worked as a domestic cleaning other people's houses, and she would work two or three jobs at a time because she didn't want to be on welfare. Because she noticed that she never saw anybody go on welfare and come off of it. And she didn't want that life for her or for us. But she would observe in those homes of very successful people what they did. And then she would bring that home."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What they did was read. Right. She was working in homes where there were lots of books."
+      },
+      {
+        "speaker": "[target]",
+        "text": "There were lots of books, they read, they planned, they strategized, they had vast amounts of knowledge about all kinds of things. They didn't sit around watching TV all day, drinking and playing games. She said, that's what people do in our neighborhood. Then, she would take us to the places where she worked, and she would say, now, you have a choice. You can do what people do in our neighborhood, and you can stay there, or you can do what people do in this neighborhood, and you can go there."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You said that growing up you hated your neighborhood, you hated the environment, you were angry, but you knew at some point this is temporary."
+      }
+    ],
+    "speakername": "Ben Carson",
+    "ground_truth": "Right. Well, once I started doing a lot of reading, I stopped hating poverty quite as much because I knew by reading stories of people like [historical figure], who was born a slave. It was illegal to read, but he taught himself to read anyway, read everything in sight, became an advisor to presidents. And I began to realize that the person who has the most to do with you is you. It's not the environment, and it's not somebody else. And as I began to understand that, I realized that I didn't have to remain in that neighborhood. I didn't have to remain in that state, that I could change it to whatever I wanted it to be. And at that point, it didn't bother me anymore because I knew it was temporary.",
+    "bio": "A renowned medical professional, author and politician serving as a cabinet secretary since 2017, under the administration. Prior to his cabinet position, he was a candidate for President of the United States in the party primaries in 2016. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right. Well, once I started doing a lot of reading, I stopped hating poverty quite as much because I knew by reading stories of people like Booker T. Washington, who was born a slave. It was illegal to read, but he taught himself to read anyway, read everything in sight, became an advisor to presidents. And I began to realize that the person who has the most to do with you is you. It's not the environment, and it's not somebody else. And as I began to understand that, I realized that I didn't have to remain in that neighborhood. I didn't have to remain in that state, that I could change it to whatever I wanted it to be. And at that point, it didn't bother me anymore because I knew it was temporary."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But here you were, a kid, you weren't on welfare, but your family did use medical assistance. And you recalled times when you would sit in the waiting room, in the hall, waiting for your turn. But you loved that environment. Did you, despite the fact that you didn't, weren't necessarily showing that you had what it took to become a neurosurgeon as a young kid."
+      },
+      {
+        "speaker": "[target]",
+        "text": "All right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You love that environment."
+      }
+    ],
+    "speakername": "Ben Carson",
+    "ground_truth": "Well, I love the hospital environment and, you know, sitting in the hallways and listening to the PA system, it was just exciting to me, it was thrilling seeing doctors walking by with charts with their stethoscopes around their neck and hearing them being paged, all of that just excited me and I just said, yeah, this is where I belong.",
+    "bio": "The speaker (born September 18, 1951) is an American neurosurgeon, author and politician serving as the 17th and current Cabinet Secretary since 2017, under the administration. Prior to the cabinet position, the speaker was a candidate for President in the Republican primaries in 2016. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "All right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You love that environment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I love the hospital environment and, you know, sitting in the hallways and listening to the PA system, it was just exciting to me, it was thrilling seeing doctors walking by with charts with their stethoscopes around their neck and hearing them being paged, all of that just excited me and I just said, yeah, this is where I belong."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you had to imagine yourself there even when as a young child you say you were considered the class dummy. You even used to say to your mother, I'm not smart."
+      }
+    ],
+    "speakername": "Ben Carson",
+    "ground_truth": "Well, you know, I was like a lot of kids are, you know, you ask them, what do you want to do, what do you want to be, and they'll say, oh, I want to be an astronaut, I want to be, you know, this or that or the other, but you look at their list of achievements and they're not very impressive, but somehow they think magically it's going to happen, well, I was the same way.",
+    "bio": "Born September 18, 1951, the subject is an American neurosurgeon, author and politician serving as the 17th Secretary of a federal housing department since 2017. Prior to the cabinet position, they were a candidate for President in the Republican primaries in 2016. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You love that environment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I love the hospital environment and, you know, sitting in the hallways and listening to the PA system, it was just exciting to me, it was thrilling seeing doctors walking by with charts with their stethoscopes around their neck and hearing them being paged, all of that just excited me and I just said, yeah, this is where I belong."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you had to imagine yourself there even when as a young child you say you were considered the class dummy. You even used to say to your mother, I'm not smart."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, I was like a lot of kids are, you know, you ask them, what do you want to do, what do you want to be, and they'll say, oh, I want to be an astronaut, I want to be, you know, this or that or the other, but you look at their list of achievements and they're not very impressive, but somehow they think magically it's going to happen, well, I was the same way."
+      }
+    ],
+    "speakername": "Ben Carson",
+    "ground_truth": "But in my case, magically, it did happen. But it wasn't really magic. It was a lot of work behind it.",
+    "bio": "Born September 18, 1951, the speaker is an American neurosurgeon, author and politician serving as the 17th Secretary of a federal department since 2017, under the previous administration. Prior to the cabinet position, they were a candidate for national office in the party primaries in 2016. The speaker's MBTI type is ISTJ"
+  }
+]

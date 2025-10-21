@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "enough."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Oh. I think you did."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm not paying you 50% of my salary anymore. I'm giving it to Ellen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Thank you very much. But he's hilarious. But you kind of called him out. And it turns out he's, right?"
+      }
+    ],
+    "speakername": "Mark Wahlberg",
+    "ground_truth": "Yeah, you know, it was amazing as I met a lot of people I wanted to do comedy There were comedic elements some of the performances that I had done but every time I met with somebody they weren't the like Funny kind cool people that you know, you saw them on screen So when I met Will and Adam was like five minutes into the conversation They were like we might want to do this thing with you. I said I'm in they said We haven't even told you the idea yet. I said I don't care I'm in and then they told me the idea for the film",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I found some disturbing news today."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "About his kids?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That, well, about his oldest boy, who I thought was a lovely lad until I realized that he is in some sort of form of communication with my oldest child."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In what form?"
+      }
+    ],
+    "speakername": "Mark Wahlberg",
+    "ground_truth": "They're following each other on social media. But what I don't understand is how come my daughter's on social media when I've had her phone for 45 days? Oh, she was on there. I saw the photo.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "They're following each other on Instagram. But what I don't understand is how come my daughter's on Instagram when I've had her phone for 45 days? Oh, she was on there. I saw the photo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Oh, yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I saw the picture. You saw what?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "No, just a picture of like."
+      }
+    ],
+    "speakername": "Mark Wahlberg",
+    "ground_truth": "You know what, in actuality, as I thought about it, I have come to understand that it's inevitable that she will be with somebody.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "YES, ASH WEDNESDAY TODAY, AND I DON'T KNOW, JUST BEING HERE, I KNOW YOU'RE A CATHOLIC, I'M FEELING LIKE REALLY CLOSE TO GOD RIGHT NOW, BEING HERE WITH YOU. WOW. AND THEN I JUST LOOKED UP IN THE RAFTERS, AND THERE'S JONATHAN RUMI, WHO PLAYS JESUS ON THE CHOSEN, SO WE'RE... I WAS GOING TO SAY, I RECOGNIZE BOTH OF YOU FROM THE"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "NO, I RECOGNIZE BOTH OF YOU FROM THE RELIGIOUS APP. IT'S CALLED HALLOW? YES, HALLOW APP. HALLOW, BECAUSE THE REASON I ASK IS IT'S CALLED HALLOW, BUT LITERALLY THE SYMBOL OF THE APP IS A HALO."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Which is spelled the same way, and you understand you're sending a mixed message."
+      }
+    ],
+    "speakername": "Mark Wahlberg",
+    "ground_truth": "We want to confuse you as much as possible, but the message is, ultimately, we're just going to get people to come together and pray together. OK.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It's always like, stay prayed up. That's what I hear, that stay prayed up. I need."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just stay pretty."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "IS THERE, LIKE, A METER OR A DIP STICK I HAVE TO UNSERVE? YOU'RE LIKE HALF A HAIL MARY LOW. LET ME JUST PRAY YOU UP A LITTLE BIT."
+      }
+    ],
+    "speakername": "Mark Wahlberg",
+    "ground_truth": "YOUR LOVELY WIFE WILL TELL YOU WHEN YOU'RE NOT PRAYED UP ENOUGH. FOR SURE. THIS IS TRUE. JUST WITH THE LOOK. THAT'S WHAT MY WIFE DOES. ABSOLUTELY.",
+    "bio": "The speaker's MBTI type is ESTP"
+  }
+]

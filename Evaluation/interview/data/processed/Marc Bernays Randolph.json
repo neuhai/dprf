@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Ah you're the professional one. There we go. Well mate, thanks for joining us. Now you've taken August off. Mate, what have you been up to for the past month or two?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, so that, you know, for the most part, I'm not doing a lot. I spend I've watched companies and I'm working with some spending time trying to help them navigate through some of these covert waters, although it feels like now that we're kind of coming out the other side at least business wise. I took the month of August off, as you mentioned, which was not completely off, but enough to kind of recharge. It always helps to have a moment we step back and make sure that you're going in the in the direction you want to. And now I'm digging back in again got lots of stuff. I want to try and get done."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Back into the game. Have you found that COVID has definitely impacted most of your businesses negatively or positively in the past few months? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's kind of funny I would say some of them it's been disastrous and some of them it's been phenomenally good"
+      }
+    ],
+    "speakername": "Marc Bernays Randolph",
+    "ground_truth": "and it obviously it largely depends upon what category you're in i mean for example one of the companies that i'm i'm entering uh is uh they're making a robotic dishwasher which is you know it's so i don't don't picture like a robot you know with a with a little skirt on that's kind of you know doing this not apron doing dishes in the sink",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, maybe."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it just goes to show you can't really tell until you see it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "goes to show you can't really tell until you see it I'm definitely gonna buy some chubby shorts after this conversation today so"
+      }
+    ],
+    "speakername": "Marc Bernays Randolph",
+    "ground_truth": "But, you know, in the country, Chubbies makes short shorts for men. Oh, perfect. In other words, five inches.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But, you know, in the country, [company] makes short shorts for men. Oh, perfect. In other words, five inches."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I don't, don't give a fuck. I'm just showing my skinny legs."
+      },
+      {
+        "speaker": "[target]",
+        "text": "off"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Marc Bernays Randolph",
+    "ground_truth": "[Doctor], It's not for everybody. But listen, you know, the short shorts went out of style were big back in the 60s and 70s in the country and then they were gone during the era of the cargo shorts, but in [country]. I happen to know they've never gone out of style. I mean, you know, [Doctor], You guys know that I watch a lot of footy. Yeah. And you see these, you know, incredibly athletic men running around in these teeny short little shorts. So it's an [country]. It's going to do great there.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What's that 50 centimeter. You know, that's how long the incidents. It's really short."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We do not want to see Nick in those, so please"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It does reinforce gym membership, you know."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "oh my god so what actually made you invest in shorts like how do you make a decision because obviously i thought you need more tech stuff so i'd be interested to know why this particular company was of interest to you"
+      }
+    ],
+    "speakername": "Marc Bernays Randolph",
+    "ground_truth": "So it's different. Yeah, I'm not an investor in them. I've been mentoring the founders now for six plus years. And it's because the criteria that I use for picking who I want to mentor, who I want to work with is very, very different.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We do not want to see Nick in those, so please"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It does reinforce gym membership, you know."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "oh my god so what actually made you invest in shorts like how do you make a decision because obviously i thought you need more tech stuff so i'd be interested to know why this particular company was of interest to you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So it's different. Yeah, I'm not an investor in them. I've been mentoring the founders now for six plus years. And it's because the criteria that I use for picking who I want to mentor, who I want to work with is very, very different."
+      }
+    ],
+    "speakername": "Marc Bernays Randolph",
+    "ground_truth": "[target] And who I might choose to invest in or somewhat different because when I'm mentoring my criteria is a do I like these people. Am I going to enjoy spending time with them. Am I going to be [target] Upset when they call me at 11 o'clock at night with a problem. And if the answer is yes, I don't want to be involved. [target] And so the first thing is, I like these founders. The second thing was a really interesting problem because there was four of them, which is extremely unusual because most of the time the teams that work with are two people, which is kind of a stable startup environment. So the fact that there was four founders.",
+    "bio": "The speaker's MBTI type is ENTP"
+  }
+]

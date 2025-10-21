@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you very much for having me."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And it's good to have you in person for this conversation. You know, just this past week, the global death toll from COVID hit 6 million people. And yet here in this country, the last state is lifting its mask requirement. Where do you think we are in this recovery?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I think we have done way better than things could have been done, but clearly we are not where we would all like to be, which is COVID is behind us. I think that right now we have very significant tools in our hands so that we can go gradually, I think, back to our normal lives. But we need to understand that the COVID will not go away in the years to come. We will have to live, to learn how to live with it, and we can as we are living with so many other viruses. Thank you very much."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But learning to live with it also means sort of preparing for what's next. And Omicron was the first variant to really pierce the immunity that the vaccine offered. Do you think that we will every fall have to prepare ourselves for a booster shot with COVID just like we get a flu shot?"
+      }
+    ],
+    "speakername": "Albert Bourla",
+    "ground_truth": "I think so. And I think this is what we are trying now to make. First of all, we try very diligently to stay ahead of the virus because, as you said, any variants are coming. And Omicron was the first one that was able to evade in a skillful way the immune protection that we're giving. But also we know that the duration of the protection doesn't last very long, not only of the vaccine, but also of the people that are getting sick. They are not getting very durable immune protection. If you get sick, you can get sick again next year or the same.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, I think we have done way better than things could have been done, but clearly we are not where we would all like to be, which is COVID is behind us. I think that right now we have very significant tools in our hands so that we can go gradually, I think, back to our normal lives. But we need to understand that the COVID will not go away in the years to come. We will have to live, to learn how to live with it, and we can as we are living with so many other viruses. Thank you very much."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But learning to live with it also means sort of preparing for what's next. And Omicron was the first variant to really pierce the immunity that the vaccine offered. Do you think that we will every fall have to prepare ourselves for a booster shot with COVID just like we get a flu shot?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think so. And I think this is what we are trying now to make. First of all, we try very diligently to stay ahead of the virus because, as you said, any variants are coming. And Omicron was the first one that was able to evade in a skillful way the immune protection that we're giving. But also we know that the duration of the protection doesn't last very long, not only of the vaccine, but also of the people that are getting sick. They are not getting very durable immune protection. If you get sick, you can get sick again next year or the same."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Like four months or something like that."
+      }
+    ],
+    "speakername": "Albert Bourla",
+    "ground_truth": "Exactly. So what we are trying to do, and we are working very diligently right now, it is to make not only a vaccine that will protect again all variants, including Omicron, but also something that can protect for at least a year. And if we be able to achieve that, then I think it is very easy to follow and remember so that we can go back to really the way we used to live.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think so. And I think this is what we are trying now to make. First of all, we try very diligently to stay ahead of the virus because, as you said, any variants are coming. And Omicron was the first one that was able to evade in a skillful way the immune protection that we're giving. But also we know that the duration of the protection doesn't last very long, not only of the vaccine, but also of the people that are getting sick. They are not getting very durable immune protection. If you get sick, you can get sick again next year or the same."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Like four months or something like that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. So what we are trying to do, and we are working very diligently right now, it is to make not only a vaccine that will protect again all variants, including Omicron, but also something that can protect for at least a year. And if we be able to achieve that, then I think it is very easy to follow and remember so that we can go back to really the way we used to live."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you've seen some of that data on a fourth dose, a second booster shot. You think it will be necessary."
+      }
+    ],
+    "speakername": "Albert Bourla",
+    "ground_truth": "Right now the way that we have seen it is necessary a fourth boost right now. The protection that you are getting from the third it is good enough actually quite good for hospitalizations and deaths is not that good against infections but doesn't last very long. But we are just submitting those data to the regulatory agency and then we will see what the experts also will say outside the pharmaceutical company.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Exactly. So what we are trying to do, and we are working very diligently right now, it is to make not only a vaccine that will protect again all variants, including Omicron, but also something that can protect for at least a year. And if we be able to achieve that, then I think it is very easy to follow and remember so that we can go back to really the way we used to live."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you've seen some of that data on a fourth dose, a second booster shot. You think it will be necessary."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right now the way that we have seen it is necessary a fourth boost right now. The protection that you are getting from the third it is good enough actually quite good for hospitalizations and deaths is not that good against infections but doesn't last very long. But we are just submitting those data to the regulatory agency and then we will see what the experts also will say outside our company."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And last time you submitted to the regulatory agency on booster shots, there was this confusing back and forth with the public. The regulatory agency said, no, it's not needed. Then they changed their minds and said it was needed. Can you avoid that kind of confusion this time around?"
+      }
+    ],
+    "speakername": "Albert Bourla",
+    "ground_truth": "I think so. I think so. And I think right now we need to be very well coordinated, health agencies and the industry, so that we are all providing to the public and to the world a cohesive picture rather than confusion.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think so. I think so. And I think right now we need to be very well coordinated, regulatory agencies and the industry, so that we are all providing to the people and to the world a cohesive picture rather than confusion."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So the question that was number one on my list, and I think for so many parents, is when will the vaccine be available for those children five and under? This is the last part of the population that doesn't have any kind of protection from a vaccine."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You're right, and I hope that we will have those data next month."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "next month, which would put us on track for potentially a May."
+      }
+    ],
+    "speakername": "Albert Bourla",
+    "ground_truth": "Potentially, I may. If it works, the regulatory agency will do their utmost to review them fast. And we will be ready with manufacturing.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

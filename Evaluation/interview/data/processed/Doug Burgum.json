@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good morning, Kristen. Good to be with you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Thank you for being here in person. Let's talk about Donald Trump's debate performance. Three times he refused to say that he would accept the results of this election. He still has not conceded the 2020 election. You have said that Joe Biden is the legitimately elected president. So let me ask you, should Donald Trump, as the presidential nominee, unequivocally accept the election results?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Chris, and I heard him on Thursday night say that he would accept the results of the election if it was free and fair and secure, all the things that any of us, whether you're an independent, a Democrat or Republican, would expect, like the elections we have in our state, where people don't challenge them because we've got secure elections. And I think that's what we need in this entire country. I think he answered the question. I think the real question is, you know, if President Trump wins in the fall, which it looks like he will, I mean, will Joe Biden and the Democrats accept the results?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you know, though, in his answer repeatedly, there were caveats, and those types of caveats are what undermine people's faith in a free and fair democracy. Is he not undermining people's faith in the democracy and the democracy itself by raising questions about the fairness of the 2020 election, which, by the way, is on record as being one of the most fair elections in U.S. history?"
+      }
+    ],
+    "speakername": "Doug Burgum",
+    "ground_truth": "I think this, I have to reject the whole premise because just in the short lifetime, you don't have to be that old to know that in 2000, the Democrats challenged the election. They had every right to challenge it. It went down to one county in a southeastern state. In 2016, yes, Hillary Clinton conceded the election, but then immediately after that began, you know, a, what's still going on today, a smear campaign about whether the election results in 16 were legitimate. And so both parties have done this. As a country, if we want to move forward, we have to have elections that both parties agree to.",
+    "bio": "[target] is the current governor of a midwestern state and has been in office since 2017 (elected in 2016). A Republican, he was reelected as governor in 2020. He previously served as the president of a software company from 1984-2001, when the company was sold to Microsoft. He was then named the Vice President of Microsoft's enterprise division. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Chris, and I heard him on Thursday night say that he would accept the results of the election if it was free and fair and secure, all the things that any of us, whether you're an independent, a Democrat or Republican, would expect, like the elections we have in our state, where people don't challenge them because we've got secure elections. And I think that's what we need in this entire country. I think he answered the question. I think the real question is, you know, if President Trump wins in the fall, which it looks like he will, I mean, will Joe Biden and the Democrats accept the results?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you know, though, in his answer repeatedly, there were caveats, and those types of caveats are what undermine people's faith in a free and fair democracy. Is he not undermining people's faith in the democracy and the democracy itself by raising questions about the fairness of the 2020 election, which, by the way, is on record as being one of the most fair elections in national history?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think this, I have to reject the whole premise because just in the short lifetime, you don't have to be that old to know that in 2000, the Democrats challenged the election. They had every right to challenge it. It went down to one county, the hanging chads in a southern county in 2016. Yes, Hillary Clinton conceded the election, but then immediately after that began, you know, a, what's still going on today, a smear campaign about whether the election results in 16 were legitimate. And so both parties have done this. As a country, if we want to move forward, we have to have elections that both parties agree to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor, let me just push back for a moment because therein lies the difference. Everyone has a right to challenge the election. Donald Trump challenged the election results. He had a right to do that. And yet Hillary Clinton and Al Gore conceded. Donald Trump has yet to concede. Is that not undemocratic, particularly for someone who's running to be the leader of this country in the free world again?"
+      }
+    ],
+    "speakername": "Doug Burgum",
+    "ground_truth": "Donald Trump, at the end of his term on January 20th, left the [government building]. We had a smooth transition, and I think it's fair.",
+    "bio": "[target] is the current governor of a midwestern state and has been in office since 2017 (elected in 2016). A Republican, he was reelected as governor in 2020. He previously served as the president of a software company from 1984-2001, when the company was sold to a major technology corporation. He was then named the Vice President of that corporation's enterprise division. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think this, I have to reject the whole premise because just in the short lifetime, you don't have to be that old to know that in 2000, the Democrats challenged the election. They had every right to challenge it. It went down to one county, the hanging chads in a southern county in Florida in 2016. Yes, Hillary Clinton conceded the election, but then immediately after that began, you know, a, what's still going on today, a smear campaign about whether the election results in 16 were legitimate. And so both parties have done this. As a country, if we want to move forward, we have to have elections that both parties agree to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor, let me just push back for a moment because therein lies the difference. Everyone has a right to challenge the election. Donald Trump challenged the election results. He had a right to do that. And yet Hillary Clinton and Al Gore conceded. Donald Trump has yet to concede. Is that not undemocratic, particularly for someone who's running to be the leader of this country in the free world again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Donald Trump, at the end of his term on January 20th, left the federal executive mansion. We had a smooth transition, and I think it's fair."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "wasn't exactly a smooth transition, Governor."
+      }
+    ],
+    "speakername": "Doug Burgum",
+    "ground_truth": "Well, I think we have to say that there was a smooth transition and everybody in both parties is going to challenge elections if they don't think they're fair. And we don't have one election in America. There's over 3,100 counties and each of those counties sometimes have different rules. And in 2020, of course, with COVID, there was a myriad set of new rules and regulations that we had never seen before. And so, of course, I think going into 2024, I think both parties are going to be very focused on it. And I think this is a the idea that this is the threat to democracy. As a governor in a midwestern state today, I've been living under what I call the Biden dictatorship because of all the rules and regulations. Now, thank goodness for the Supreme Court that came out on Friday with the Chevron ruling, because maybe now we can put a stop to agencies actually creating laws that don't come from Congress.",
+    "bio": "The target is the current governor of a midwestern state and has been in office since 2017 (elected in 2016). A Republican, they were reelected as governor in 2020. They previously served as the president of a software company from 1984-2001, when the company was sold to a major technology corporation. They were then named the Vice President of that corporation's enterprise division. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The former president, at the end of his term on January 20th, left the [government building]. We had a smooth transition, and I think it's fair."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "wasn't exactly a smooth transition, Governor."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think we have to say that there was a smooth transition and everybody in both parties is going to challenge elections if they don't think they're fair. And we don't have one election in America. There's over 3,100 counties and each of those counties sometimes have different rules. And in 2020, of course, with COVID, there was a myriad set of new rules and regulations that we had never seen before. And so, of course, I think going into 2024, I think both parties are going to be very focused on it. And I think this is a the idea that this is the threat to democracy. As a governor in [state] today, I've been living under what I call the current administration's dictatorship because of all the rules and regulations. Now, thank goodness for the Supreme Court that came out on Friday with the Chevron ruling, because maybe now we can put a stop to agencies actually creating laws that don't come from Congress."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me ask you about your comments about a dictatorship, and then I want to get back to this, because you say he's a dictator for passing all these rules and regulations. The current president's passed 139 executive orders. The former president had passed 169 at this point. And, Governor, you as governor have passed 164. Does that make you the dictator of [state]?"
+      }
+    ],
+    "speakername": "Doug Burgum",
+    "ground_truth": "I'm not trying to jam rules and regulations down on our state. And most of the former president's executive orders were trying to get rid of red tape. The current president's actually creating a bunch of new, effectively, laws that are affecting our country. And I want to go back to the debate. I want to go back to the top. You asked about the debate. Every channel this morning should be talking about what happened. This was the most consequential historic debate in history because we've never had a debate where immediately after it's over. This is like a rocky knockout. I mean, they should build a statue to the former president at [university] because everyone's talking about should the current president even stay in the race? That's never happened in our in our history. It was such a dominant performance by the former president in this in this debate.",
+    "bio": "The target is the current governor of [state] and has been in office since 2017 (elected in 2016). A member of his party, he was reelected as governor in 2020. He previously served as the president of a major software company from 1984-2001, when the company was sold to a leading technology corporation. He was then named the Vice President of that corporation's enterprise division. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think we have to say that there was a smooth transition and everybody in both parties is going to challenge elections if they don't think they're fair. And we don't have one election in America. There's over 3,100 counties and each of those counties sometimes have different rules. And in 2020, of course, with COVID, there was a myriad set of new rules and regulations that we had never seen before. And so, of course, I think going into 2024, I think both parties are going to be very focused on it. And I think this is a the idea that this is the threat to democracy. As a governor in [state] today, I've been living under what I call the administration dictatorship because of all the rules and regulations. Now, thank goodness for the Supreme Court that came out on Friday with the Chevron ruling, because maybe now we can put a stop to agencies actually creating laws that don't come from Congress."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me ask you about your comments about a dictatorship, and then I want to get back to this, because you say he's a dictator for passing all these rules and regulations. Biden's passed 139 executive orders. Trump had passed 169 at this point. And, Governor, you as governor have passed 164. Does that make you the dictator of [state]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm not trying to jam rules and regulations down on our state. And most of the previous president's executive orders were trying to get rid of red tape. The current president's actually creating a bunch of new, effectively, laws that are affecting our country. And I want to go back to the debate. I want to go back to the top. You asked about the debate. Every channel this morning should be talking about what happened. This was the most consequential historic debate in history because we've never had a debate where immediately after it's over. This is like a rocky knockout. I mean, they should build a statue at [university] because everyone's talking about should the president even stay in the race? That's never happened in our in our history. It was such a dominant performance by the former president in this in this debate."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's also never happened in our history that someone has not actually accepted the election results, which is where this conversation began. So let me ask you, Governor, can you say as someone who is on the short list to be the former president's VP nominee, can you commit here and now today to accepting the election results?"
+      }
+    ],
+    "speakername": "Doug Burgum",
+    "ground_truth": "Well, Kristen, these hypothetical questions that keep coming up imply that somehow that in every one of our 3,100 counties in America that everything is going to go perfectly. I've never commented on a bill before it reached my desk. I'm not going to comment on an election before it happened.",
+    "bio": "The speaker is the current governor of a midwestern state and has been in office since 2017 (elected in 2016). A Republican, they were reelected as governor in 2020. They previously served as the president of a software company from 1984-2001, when the company was sold to a major technology corporation. They were then named the Vice President of that corporation's enterprise division. The speaker's MBTI type is INTJ"
+  }
+]

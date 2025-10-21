@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The White Pill is available now at [website]. This episode is brought to you by Patriot Gold. Good afternoon. Michael Malice here. Let that be our welcome for the next hour. I am kind of ecstatic about our next guest because this has been, [target] is here. He is kind of an internet legend. And I'm really excited to talk to him. For those who don't know, [target], I actually made a point not to look up the details of your case because you are one of those people who've had to live, I don't know what to say, maybe not nightmare, maybe it is nightmare, but you're someone who's been basically tried in public in that people have this whole narrative about you and your life, which I'm sure inside of some kind of Plato's cave version is analogous to the facts of the case, but they've constructed this whole persona and biography about you. And now you basically have to live it. The narrative is that you're this kind of rich kid. You know, you, you bought some kind of drug, you jacked up the price to some crazy result. It's either an AIDS drug or a diabetes drug, depending on the narrative. As a result of this, poor people couldn't afford it and they're dying. You're smirking all the way. You get arrested, you go to jail. I bet you literally, literally 99% of people, if you ask them why you went to jail, they would not even begin to give you a hypothesis. And but they don't care because you fit into this kind of character that people don't care about. I think you're the same kind of character that people who grew up with movies and TV have where you're kind of the villain in a John Cusack movie. And this guy's too big for his own britches and good, let him get his comeuppance. Um, the one part of your biography I do know is you did not come from money. You grew up in, your parents are immigrants. You grew up in [neighborhood]. I grew up in [neighborhood], which was very much a sister neighborhood to that. It's hardly Park Avenue to put it mildly. And in fact, to show you what kind of [neighborhood] is, Hey, Hey, Hey. Hey, Hey. and cred I have. I'm going to show you something right here that's going to mean something to you, but not to everyone else. Can you see what this is?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Of course, yes. Did you ever go there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Of course."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "mar is one of the legit pizzerias in [neighborhood] this card is so old doesn't even have the area code on it um but let me assure everyone listening to this [neighborhood] is not um some bougie place it's deep in [city] so can you talk a bit about what that's like in terms of first of all people there's no reason people even know who you are you know you were just basically plucked out and just fit into this story that journalists want to write can you explain like how divergent what i just described is to what the actual story is"
+      }
+    ],
+    "speakername": "Martin Shkreli",
+    "ground_truth": "yeah i mean it's it's a very surreal you know you kind of i mean when we grew up you know i think we're the same age from the same place basically you know i used to watch peter jennings on abc news like yeah this is like very authoritative serious figure and i i believed everything he said and i'm wondering if like maybe i was just young and stupid yes you were",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah i mean it's it's a very surreal you know you kind of i mean when we grew up you know i think we're the same age from the same place basically you know i used to watch news anchors on broadcast news like yeah this is like very authoritative serious figure and i i believed everything he said and i'm wondering if like maybe i was just young and stupid yes you were"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was just like-"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "for a century. Remember the historical conflict? It's been yellow journalism ever since."
+      }
+    ],
+    "speakername": "Martin Shkreli",
+    "ground_truth": "Yeah, exactly. Like, I don't know if I was just a mark as a child. I didn't know better. You know, I just didn't know any better. Or if it's, is it that transparent today what the news is? I just got a message from a news outlet. And maybe, you know, it's up to you as to whether to keep this or not. But they just wrote me that they're writing a hit piece, most likely, about my relationship with a political figure.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It was just like-"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "for a century. Remember the Spanish-American War? It's been yellow journalism ever since."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, exactly. Like, I don't know if I was just a mark as a child. I didn't know better. You know, I just didn't know any better. Or if it's, is it that transparent today what the news is? I just got a message from a news organization. And maybe, you know, it's up to you as to whether to keep this or not. But they just wrote me that they're writing a hit piece, most likely, about my relationship with a political figure."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Martin Shkreli",
+    "ground_truth": "who you had on just the other day right yeah and i'm just sitting there like i don't really have much of a relationship with them i mean uh",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "for a century. Remember the conflict? It's been yellow journalism ever since."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, exactly. Like, I don't know if I was just a mark as a child. I didn't know better. You know, I just didn't know any better. Or if it's, is it that transparent today what the news is? I just got a message from a news outlet. And maybe, you know, it's up to you as to whether to keep this or not. But they just wrote me that they're writing a hit piece, most likely, about my relationship with [target]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "who you had on just the other day right yeah and i'm just sitting there like i don't really have much of a relationship with them i mean uh"
+      }
+    ],
+    "speakername": "Martin Shkreli",
+    "ground_truth": "he and I were like literally in the exact same field in the financial district, you know, 10 years ago or something. So like, of course we know each other, but I don't talk to him or anything, you know, maybe, you know, once every couple of years I say, how are you doing? Or something like that. But you know, we're not friends by any stretch of the imagination. We don't hang out. I've never met his wife, et cetera, et cetera. But it's just like this kind of like pulling at all possible strings, which, you know, again, I don't, I think journalists sort of have that duty to do it, but I can't, I can't even respond to this person because I know what, you know, what will happen. You know, they sort of will sit down and they're not interested in the truth. They're interested in whatever can manufacture clicks, whatever can manufacture kind of, you know, attention.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "he and I were like literally in the exact same field in the financial sector, you know, 10 years ago or something. So like, of course we know each other, but I don't talk to him or anything, you know, maybe, you know, once every couple of years I say, how are you doing? Or something like that. But you know, we're not friends by any stretch of the imagination. We don't hang out. I've never met his wife, et cetera, et cetera. But it's just like this kind of like pulling at all possible strings, which, you know, again, I don't, I think journalists sort of have that duty to do it, but I can't, I can't even respond to this person because I know what, you know, what will happen. You know, they sort of will sit down and they're not interested in the truth. They're interested in whatever can manufacture clicks, whatever can manufacture kind of, you know, attention."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think it's a clicks and attention? Don't you think they're just trying to take him down now that he's getting some momentum? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know, there's that overriding agenda."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Martin Shkreli",
+    "ground_truth": "sure. But like, you know, there's probably more legitimate ways to sort of have a gripe with the candidate's policy than to sort of drag me into it. Like, you know, you know, it's sort of sad.",
+    "bio": "The speaker's MBTI type is ENTP"
+  }
+]

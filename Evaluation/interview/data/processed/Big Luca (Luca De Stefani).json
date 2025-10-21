@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm alright, how you doing?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Excellent. I am calling to let you know that you made a silver commission."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I know that. Awesome."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's $1,250. Can you tell me what advertising methods you're using?"
+      }
+    ],
+    "speakername": "Big Luca (Luca De Stefani)",
+    "ground_truth": "Well, actually, it's all organic traffic for now because I already have a list. So I'm emailing my, you know, buyers, have a list of buyers. I've done internet marketing for the past three years. So I already have a list of buyers, which is very responsive. And all their sales will come in shortly, not just silver. But, you know, I'm waiting on, I believe, all the two silvers. And then there are people already ready to go to Diamond for that matter. So, yeah.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I know that. Awesome."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's $1,250. Can you tell me what advertising methods you're using?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, actually, it's all organic traffic for now because I already have a list. So I'm emailing my, you know, buyers, have a list of buyers. I've done internet marketing for the past three years. So I already have a list of buyers, which is very responsive. And all their sales will come in shortly, not just silver. But, you know, I'm waiting on, I believe, all the two silvers. And then there are people already ready to go to Diamond for that matter. So, yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What would you say is the most important factor in cultivating the relationship with your list?"
+      }
+    ],
+    "speakername": "Big Luca (Luca De Stefani)",
+    "ground_truth": "Well, you know, my list was, you know, it's a buyer's list because people already bought my products. But I believe, for example, I don't email my subscribers that often because I already have a relationship with them because they bought my products. So I really, I cultivate the relationship with my list with YouTube, actually. I send them to YouTube so they can get to know me. And I only send emails to sell, really. So I don't educate them via email. I educate them with YouTube and videos.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, actually, it's all organic traffic for now because I already have a list. So I'm emailing my, you know, buyers, have a list of buyers. I've done internet marketing for the past three years. So I already have a list of buyers, which is very responsive. And all their sales will come in shortly, not just silver. But, you know, I'm waiting on, I believe, all the two silvers. And then there are people already ready to go to Diamond for that matter. So, yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What would you say is the most important factor in cultivating the relationship with your list?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, my list was, you know, it's a buyer's list because people already bought my products. But I believe, for example, I don't email my subscribers that often because I already have a relationship with them because they bought my products. So I really, I cultivate the relationship with my list with YouTube, actually. I send them to YouTube so they can get to know me. And I only send emails to sell, really. So I don't educate them via email. I educate them with YouTube and videos."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So this is organic traffic. That means that you have spent $0 on advertising. So you have made 100% return on your investment on this sale right here."
+      }
+    ],
+    "speakername": "Big Luca (Luca De Stefani)",
+    "ground_truth": "yeah absolutely i didn't spend a dime and then again i i also i also sold like 10 mttbs which was you know organic traffic as well i am now trying to lead generate on social media uh i recently found a new target and i'm also advertising the uh silver webinar uh but it's more difficult to track because i don't have a pixel for it but right now i'm also i'm selling traffic to an opt-in and i have acquired eight leads in the past like two hours so it's great but i've only i've only just started",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, my list was, you know, it's a buyer's list because people already bought my products. But I believe, for example, I don't email my subscribers that often because I already have a relationship with them because they bought my products. So I really, I cultivate the relationship with my list with YouTube, actually. I send them to YouTube so they can get to know me. And I only send emails to sell, really. So I don't educate them via email. I educate them with YouTube and videos."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So this is organic traffic. That means that you have spent $0 on advertising. So you have made 100% return on your investment on this sale right here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah absolutely i didn't spend a dime and then again i i also i also sold like 10 mttbs which was you know organic traffic as well i am now trying to lead generate on facebook uh i recently found a new target and i'm also advertising the uh silver webinar uh but it's more difficult to track because i don't have a pixel for it but right now i'm also i'm selling traffic to an opt-in and i have acquired eight leads in the past like two hours so it's great but i've only i've only just started"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Absolutely. So tell us about your experience. How did you find Moab and how are things going for you right now?"
+      }
+    ],
+    "speakername": "Big Luca (Luca De Stefani)",
+    "ground_truth": "well i found mo uh through another internet marketer actually uh through a colleague i believe you know and and so i started researching the system and everything uh but at the time i didn't i didn't join it at that time i didn't have a lot of money then i just decided to join the mttb when i saw another uh female friend of mine actually having success so i joined the mttb uh i went silver gold uh and then eventually went diamond and i i didn't do anything until i was diamond actually anything of zero so i've only started promoting mob seriously uh for life for the past seven days so i've only promoted it for seven days and and things have been great actually i have to say that it's a really i mean once you get you get a hang of it i believe this can truly be a passing source of income for me and especially the fact that you own the customer is amazing because i just have to send customers just have to send traffic",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah absolutely i didn't spend a dime and then again i i also i also sold like 10 mttbs which was you know organic traffic as well i am now trying to lead generate on social media uh i recently found a new target and i'm also advertising the uh silver webinar uh but it's more difficult to track because i don't have a pixel for it but right now i'm also i'm selling traffic to an opt-in and i have acquired eight leads in the past like two hours so it's great but i've only i've only just started"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Absolutely. So tell us about your experience. How did you find the platform and how are things going for you right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well i found it through another internet marketer actually uh through a well-known marketer i believe you know and and so i started researching the system and everything uh but at the time i didn't i didn't join it at that time i didn't have a lot of money then i just decided to join the mttb when i saw another uh female friend of mine actually having success so i joined the mttb uh i went silver gold uh and then eventually went diamond and i i didn't do anything until i was diamond actually anything of zero so i've only started promoting seriously uh for life for the past seven days so i've only promoted it for seven days and and things have been great actually i have to say that it's a really i mean once you get you get a hang of it i believe this can truly be a passing source of income for me and especially the fact that you own the customer is amazing because i just have to send customers just have to send traffic"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. So what would be your words of advice to someone that's starting out?"
+      }
+    ],
+    "speakername": "Big Luca (Luca De Stefani)",
+    "ground_truth": "Well, my advice is always to have an online presence in which you educate people with educational marketing. The organic way is pretty strong and any paid traffic should be sent, at least most of it, to something that educates people organically. With video platform, that's what I do. Videos go a long way because people can hear your voice, they can see your eyes, they can see you're genuine, you can give a lot of advice. And I find it easier to educate people on video platform than via email. I do both. I mean, I am big on list building.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

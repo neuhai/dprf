@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thanks a lot. Great to be with you, Margaret."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The president visited your home state of [state] this week, went to the border, said there is a humanitarian and national security crisis. Do you agree with him that there is a crisis at the border?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What I believe is that he's created a tragedy at the border. This policy of separating children from their parents and the terrible way that Customs and Border Protection has managed its responsibilities, including the deaths of two children within the last few weeks, that's a real tragedy. And the folks down on the border know, and many of them have said, in fact, I just saw one border resident the other day on camera that said that a wall is not the answer, that we can have strong border security with personnel, with technology, but the wall is not the answer. So the president may have his rhetoric, but everybody else has the facts right that a wall isn't the answer."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, that family separation policy has been paused at least, but there are a record number of family units crossing the border, and that creates a lot of challenges. So what would you do? Would you extend the amount of time that families can be held together in detention?"
+      }
+    ],
+    "speakername": "Julian Castro",
+    "ground_truth": "I don't believe that we should have family detention for people that are seeking asylum or refugee status, so that we should develop other ways to ensure that people are processed, that we're able to keep track of them in the country. And we have developed some ways to do that, but that we don't detain them the way that we have been. So, no, I don't agree with that. The other thing I'll say, Margaret, and this is very important, is I hope that folks remember that the president said that he wanted to do this family separation policy because it would deter more families coming from these countries. And actually, the exact opposite happened. And so he's failed. He's a failed leader on this issue, and now he's just trying to stoke his political base by bringing up the wall all the time. And it's just a failure of leadership all around. I would end this kind of family detention. I would make it. I would make sure that we invest in sensible, smart, and effective border security that includes personnel, that includes the smart use of technology, and that does not scapegoat these immigrants, but tries to look for a way that we can get to comprehensive immigration reform to fix our broken immigration system.",
+    "bio": "[target] (born September 16, 1974) is an American Democratic politician who served as the 16th United States Secretary of Housing and Urban Development under President [former president] from 2014 to 2017, the youngest member of the [government] Cabinet.\n\n[target] served as the mayor of his native [city], [state] from 2009 until he joined [government] cabinet in 2014. He was mentioned as a possible running mate for [politician] during the 2016 presidential campaign. [target] is the twin brother of Congressman [name].\n\nOn January 12, 2019, [target] launched his campaign for the Democratic nomination for President of the United States in 2020 in [city]. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What I believe is that he's created a tragedy at the border. This policy of separating children from their parents and the terrible way that Customs and Border Protection has managed its responsibilities, including the deaths of two children within the last few weeks, that's a real tragedy. And the folks down at the border know, and many of them have said, in fact, I just saw one border resident the other day on camera that said that a wall is not the answer, that we can have strong border security with personnel, with technology, but the wall is not the answer. So the president may have his rhetoric, but everybody else has the facts right that a wall isn't the answer."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, that family separation policy has been paused at least, but there are a record number of family units crossing the border, and that creates a lot of challenges. So what would you do? Would you extend the amount of time that families can be held together in detention?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't believe that we should have family detention for people that are seeking asylum or refugee status, so that we should develop other ways to ensure that people are processed, that we're able to keep track of them in the country. And we have developed some ways to do that, but that we don't detain them the way that we have been. So, no, I don't agree with that. The other thing I'll say, Margaret, and this is very important, is I hope that folks remember that the president said that he wanted to do this family separation policy because it would deter more families coming from these countries. And actually, the exact opposite happened. And so he's failed. He's a failed leader on this issue, and now he's just trying to stoke his political base by bringing up the wall all the time. And it's just a failure of leadership all around. I would end this kind of family detention. I would make it. I would make sure that we invest in sensible, smart, and effective border security that includes personnel, that includes the smart use of technology, and that does not scapegoat these immigrants, but tries to look for a way that we can get to comprehensive immigration reform to fix our broken immigration system."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've been calling the immigration system broken for some time, and you were critical even under the [Federal Government] administration specifically about their high level of deportation. So what do you offer as an alternative? If you're not going to detain and you're not going to deport, what do you do with illegal immigrants?"
+      }
+    ],
+    "speakername": "Julian Castro",
+    "ground_truth": "Well, what I believe we can do and what the [Federal Government] administration did do, I believe, toward the end of its tenure was to look at things like ankle monitors so that you're able to monitor where people are in the country and ensure that they report back when they need to and that they are part of legal proceedings. But we also need to be serious about recognizing the right of people to seek asylum. And the president is playing games with this, blocking people's right to seek asylum. I would change that. I would make sure that we push as hard as possible for comprehensive immigration reform so that for the people who are already here, if they've been law-abiding, if they pay a fine, that they don't have to go to jail. That they don't have to go to jail. If they can get an earned path to citizenship, I still believe that that should be part of the answer.",
+    "bio": "[target] (born September 16, 1974) is an American Democratic politician who served as the 16th United States Secretary of Housing and Urban Development under the [Federal Government] from 2014 to 2017, the youngest member of the Cabinet. [target] served as the mayor of his native [Major City], [State] from 2009 until joining the cabinet in 2014. The subject was mentioned as a possible running mate for a presidential candidate during the 2016 campaign. [target] is the twin brother of a Congressman. On January 12, 2019, [target] launched a campaign for the Democratic nomination for President of the United States in 2020 in [Major City]. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't believe that we should have family detention for people that are seeking asylum or refugee status, so that we should develop other ways to ensure that people are processed, that we're able to keep track of them in the country. And we have developed some ways to do that, but that we don't detain them the way that we have been. So, no, I don't agree with that. The other thing I'll say, Margaret, and this is very important, is I hope that folks remember that the president said that he wanted to do this family separation policy because it would deter more families coming from these countries. And actually, the exact opposite happened. And so he's failed. He's a failed leader on this issue, and now he's just trying to stoke his political base by bringing up the wall all the time. And it's just a failure of leadership all around. I would end this kind of family detention. I would make it. I would make sure that we invest in sensible, smart, and effective border security that includes personnel, that includes the smart use of technology, and that does not scapegoat these immigrants, but tries to look for a way that we can get to comprehensive immigration reform to fix our broken immigration system."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've been calling the immigration system broken for some time, and you were critical even under the Obama administration specifically about their high level of deportation. So what do you offer as an alternative? If you're not going to detain and you're not going to deport, what do you do with illegal immigrants?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, what I believe we can do and what the Obama administration did do, I believe, toward the end of its tenure was to look at things like ankle monitors so that you're able to monitor where people are in the country and ensure that they report back when they need to and that they are part of legal proceedings. But we also need to be serious about recognizing the right of people to seek asylum. And the president is playing games with this, blocking people's right to seek asylum. I would change that. I would make sure that we push as hard as possible for comprehensive immigration reform so that for the people who are already here, if they've been law-abiding, if they pay a fine, that they don't have to go to jail. That they don't have to go to jail. If they can get an earned path to citizenship, I still believe that that should be part of the answer."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You announced your candidacy today, and almost immediately the RNC issued a statement. I want to read it here to you. It says, [target] has made history by becoming one of the biggest lightweights to ever run for president. He was a weak mayor who couldn't even handle being HUD secretary. This is obviously just another desperate attempt to become someone else's running mate. These are sharp words, but it's the first official attack on you. How do you respond, and how do you explain why you are qualified to be commander-in-chief?"
+      }
+    ],
+    "speakername": "Julian Castro",
+    "ground_truth": "Well, first of all, I think they could just dust off those same words. You know, they're going to use those kinds of words for every single Democrat that decides to run for president. I wouldn't put too much stock in that. I would just say to the American people directly, I've had executive experience. I've led one of the largest, most diverse cities in the country. I've led a federal agency at HUD and done some great work to expand opportunity. I know what it takes to ensure that we have a government that functions well. And to help inspire people. I also have a life experience that I think resonates with a lot of Americans. You know, I'm here in my neighborhood that I grew up in. Grew up in a single-parent household. Went to the public schools here in San Antonio. Was able to go to college and law school and to reach my American dream. And I am motivated to make sure that every American can reach their dreams. And then, I have a strong vision for the country's future. I want to make sure that in this country, this century, this 21st century, that we are the smartest, the healthiest, the fairest, and the most prosperous nation on Earth.",
+    "bio": "[target] (born September 16, 1974) is an American Democratic politician who served as the 16th United States Secretary of Housing and Urban Development under President Barack Obama from 2014 to 2017, the youngest member of the Obama Cabinet.\\n\\nCastro served as the mayor of his native San Antonio, Texas from 2009 until he joined Obama's cabinet in 2014. He was mentioned as a possible running mate for Hillary Clinton during the 2016 presidential campaign. Castro is the twin brother of Congressman JoaquÃ­n Castro.\\n\\nOn January 12, 2019, Castro launched his campaign for the Democratic nomination for President of the United States in 2020 in San Antonio. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, what I believe we can do and what the Obama administration did do, I believe, toward the end of its tenure was to look at things like ankle monitors so that you're able to monitor where people are in the country and ensure that they report back when they need to and that they are part of legal proceedings. But we also need to be serious about recognizing the right of people to seek asylum. And the president is playing games with this, blocking people's right to seek asylum. I would change that. I would make sure that we push as hard as possible for comprehensive immigration reform so that for the people who are already here, if they've been law-abiding, if they pay a fine, that they don't have to go to jail. That they don't have to go to jail. If they can get an earned path to citizenship, I still believe that that should be part of the answer."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You announced your candidacy today, and almost immediately the RNC issued a statement. I want to read it here to you. It says, [target] has made history by becoming one of the biggest lightweights to ever run for president. He was a weak mayor who couldn't even handle being HUD secretary. This is obviously just another desperate attempt to become someone else's running mate. These are sharp words, but it's the first official attack on you. How do you respond, and how do you explain why you are qualified to be commander-in-chief?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I think they could just dust off those same words. You know, they're going to use those kinds of words for every single Democrat that decides to run for president. I wouldn't put too much stock in that. I would just say to the American people directly, I've had executive experience. I've led one of the largest, most diverse cities in the country. I've led a federal agency at HUD and done some great work to expand opportunity. I know what it takes to ensure that we have a government that functions well. And to help inspire people. I also have a life experience that I think resonates with a lot of Americans. You know, I'm here in my neighborhood that I grew up in. Grew up in a single-parent household. Went to the public schools here in San Antonio. Was able to go to college and law school and to reach my American dream. And I am motivated to make sure that every American can reach their dreams. And then, I have a strong vision for the country's future. I want to make sure that in this country, this century, this 21st century, that we are the smartest, the healthiest, the fairest, and the most prosperous nation on Earth."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're going to have a lot of competition for that Democratic nomination. It looks to be a very crowded field. How are you going to distinguish yourself?"
+      }
+    ],
+    "speakername": "Julian Castro",
+    "ground_truth": "I'm going to articulate a very strong, positive vision for the country's future. I'm going to get out there and work hard. I'm going to make sure that I let people know what I've actually accomplished and the executive experience that I have. And I think that right now people are looking for a leader that can show they can get things done. Being a mayor is all about getting things done. And when I was cabinet secretary, I got things done. They want government that functions well now and somebody that's trying to bring people together instead of tear them apart. So I'm going to go out there and make my case. And I'm under no illusion right now that I'm in the poll position or anything. I'm not a frontrunner. But nobody who grew up here in these neighborhoods, including myself, has ever been a frontrunner. And I think in this country right now that there are a lot of people who don't feel like frontrunners. And I'm going to go speak to them in this campaign.",
+    "bio": "[target] (born September 16, 1974) is an American Democratic politician who served as the 16th United States Secretary of Housing and Urban Development under President Barack Obama from 2014 to 2017, the youngest member of the Obama Cabinet.\\n\\nCastro served as the mayor of his native San Antonio, Texas from 2009 until he joined Obama's cabinet in 2014. He was mentioned as a possible running mate for Hillary Clinton during the 2016 presidential campaign. Castro is the twin brother of Congressman JoaquÃ­n Castro.\\n\\nOn January 12, 2019, Castro launched his campaign for the Democratic nomination for President of the United States in 2020 in San Antonio. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I think they could just dust off those same words. You know, they're going to use those kinds of words for every single Democrat that decides to run for president. I wouldn't put too much stock in that. I would just say to the American people directly, I've had executive experience. I've led one of the largest, most diverse cities in the country. I've led a federal agency and done some great work to expand opportunity. I know what it takes to ensure that we have a government that functions well. And to help inspire people. I also have a life experience that I think resonates with a lot of Americans. You know, I'm here in my neighborhood that I grew up in. Grew up in a single-parent household. Went to the public schools here in my hometown. Was able to go to college and law school and to reach my American dream. And I am motivated to make sure that every American can reach their dreams. And then, I have a strong vision for the country's future. I want to make sure that in this country, this century, this 21st century, that we are the smartest, the healthiest, the fairest, and the most prosperous nation on Earth."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're going to have a lot of competition for that Democratic nomination. It looks to be a very crowded field. How are you going to distinguish yourself?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm going to articulate a very strong, positive vision for the country's future. I'm going to get out there and work hard. I'm going to make sure that I let people know what I've actually accomplished and the executive experience that I have. And I think that right now people are looking for a leader that can show they can get things done. Being a mayor is all about getting things done. And when I was cabinet secretary, I got things done. They want government that functions well now and somebody that's trying to bring people together instead of tear them apart. So I'm going to go out there and make my case. And I'm under no illusion right now that I'm in the poll position or anything. I'm not a frontrunner. But nobody who grew up here in these neighborhoods, including myself, has ever been a frontrunner. And I think in this country right now that there are a lot of people who don't feel like frontrunners. And I'm going to go speak to them in this campaign."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, some of the things you outlined as part of your platform today, Medicare for All, universal access to pre-kindergarten education, a Green New Deal, these put you in the more liberal or progressive wing of the Democratic Party. So one of the challenges for you is how do you attract centrists or people who perhaps were alienated by the president but aren't comfortable with being so reliant on the government as their main provider?"
+      }
+    ],
+    "speakername": "Julian Castro",
+    "ground_truth": "What I hear out there is that there are a lot of folks, a lot of people, who want us to invest in universal health care. There are a lot of people, even people that call themselves centrists, that think of themselves as not necessarily, you know, they wouldn't call themselves liberal. But a lot of people are ready for universal health care. I mean, look at the polls. When it's polled, you know, it gets over 60, 70 percent of support. Medicare for all, you mean. And so I think.",
+    "bio": "The target (born September 16, 1974) is an American Democratic politician who served as a Cabinet Secretary under a previous administration from 2014 to 2017, being the youngest member of that Cabinet.\n\nThe target served as the mayor of their native city in a southwestern state from 2009 until joining the federal administration in 2014. They were mentioned as a possible running mate during the 2016 presidential campaign. The target has a twin sibling who serves in Congress.\n\nOn January 12, 2019, the target launched their campaign for the Democratic nomination for President of the United States in 2020 in their hometown. The speaker's MBTI type is ENFJ"
+  }
+]

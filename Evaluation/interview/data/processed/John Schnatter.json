@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it was a local restaurant, the neighborhood pub, and a family-owned restaurant where three brothers owned the place. They got to make the pizzas, and I got the other restaurant, and one day, they had a write-up in the local paper, they got busy, and they went to the front of the restaurant, and I graduated to make pizzas, and it was an honor to make pizzas if you weren't one of the brothers, and I just fell in love with it."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So you said, okay, this make it pizza thing is pretty good. Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I loved it from the get-go."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And you got out of college, and how did you end up working with your dad? And he had a, was it a bar or a pub?"
+      }
+    ],
+    "speakername": "John Schnatter",
+    "ground_truth": "He had a little local bar, and it wasn't doing well, so I bought the previous owner out. And that's when I fell in love with business, and we got the place straightened out and got it solvent. And then one night I took a sledgehammer and knocked the broom closet down, and we started selling pizza out of the back of it. Our best week ever was like $1,100 the first year. We did $200, and we're jumping up and down because we thought we were rich. And so the store opens next door. The store opens in the broom closet next door. We got so busy in the broom closet, we kind of blew the doors out of that. And so we started building the restaurant next door. We got the financing, got a $30,000 loan, which was at that time an unbelievable amount of money, had the bar making money, and we were on our way.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I loved it from the get-go."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And you got out of college, and how did you end up working with your dad? And he had a, was it a bar or a pub?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He had a little 50-cent beer joint, a local bar, and it wasn't doing well, so I bought the owner out. And that's when I fell in love with business, and we got the place straightened out and got it solvent. And then one night I took a sledgehammer and knocked the broom closet down, and we started selling pizza out of the back of it. Our best week ever was like $1,100 the first year. We did $200, and we're jumping up and down because we thought we were rich. And so the store opens next door. The store opens in the broom closet next door. We got so busy in the broom closet, we kind of blew the doors out of that. And so we started building the restaurant next door. We got the financing, got a $30,000 loan, which was at that time an unbelievable amount of money, had the bar making money, and we were on our way."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "the"
+      }
+    ],
+    "speakername": "John Schnatter",
+    "ground_truth": "The gut check moment. The gut check moment. The week of March of 85, my dad went in the hospital and he passed away.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He had a little 50-cent beer joint, a local lounge, and it wasn't doing well, so I bought the owner out. And that's when I fell in love with business, and we got the place straightened out and got it solvent. And then one night I took a sledgehammer and knocked the broom closet down, and we started selling pizza out of the back of it. Our best week ever was like $1,100 the first year. We did $200, and we're jumping up and down because we thought we were rich. And so the store opens next door. The store opens in the broom closet next door. We got so busy in the broom closet, we kind of blew the doors out of that. And so we started building the restaurant next door. We got the financing, got a $30,000 loan, which was at that time an unbelievable amount of money, had the bar making money, and we were on our way."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "the"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The gut check moment. The gut check moment. The week of March of 85, my dad went in the hospital and he passed away."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Was it sudden?"
+      }
+    ],
+    "speakername": "John Schnatter",
+    "ground_truth": "Yeah, all of a sudden went in, and my uncle and I were going back and forth several times that week to see Dad, and he looked at me and said, I've got a bad feeling about this. And I said, I do too, Uncle Bill. And he said, you know, if something happens, you realize you're the leader. It was like, because I was 23, brother's halfway through law school, my sister's halfway through college. I mean, I just got this loan for the pizza place, but I didn't know it was going to work. Just got the bar fixed up, and Dad was kind of the guy. So it was a scary time, yeah.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Was it sudden?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, all of a sudden went in, and my uncle and I were going back and forth several times that week to see Dad, and he looked at me and said, I've got a bad feeling about this. And I said, I do too, Uncle Bill. And he said, you know, if something happens, you realize you're the leader. It was like, because I was 23, brother's halfway through law school, my sister's halfway through college. I mean, I just got this loan for the pizza place, but I didn't know it was going to work. Just got the bar fixed up, and Dad was kind of the guy. So it was a scary time, yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You obviously have this tremendous grief, your father passing away. And you went to the funeral in the morning and in the afternoon."
+      }
+    ],
+    "speakername": "John Schnatter",
+    "ground_truth": "Well, there's a saying, God put your best where you're most afraid to go. And we buried Dad on a Thursday and came in on a Friday. The bar was to the right and the pizza place was to the left. And it was one of those choices in life where you can feel sorry for yourself and mope and you can go build a pizza. This is back to when we actually built the facilities. And we went left and built a dining room and then we built a pizza place and then we built a pizza company and the rest is history. But there's no doubt in my mind, you said it best at the forefront, that when the whole world's falling apart, that's when you've got to hold on to yourself and stay solid and get through it. And our world was falling apart, but we made the right choice through adversity and it's really been a blessing ever since. And it would have been the way Daddy would have wanted it to be.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You obviously have this tremendous grief, your father passing away. And you went to the funeral in the morning and in the afternoon."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, there's a saying, God put your best where you're most afraid to go. And we buried Dad on a Thursday and came in on a Friday. The bar was to the right and the pizza place was to the left. And it was one of those choices in life where you can feel sorry for yourself and mope and you can go build a pizza. This is back to when we actually built the facilities. And we went left and built a dining room and then we built a pizza place and then we built a pizza company and the rest is history. But there's no doubt in my mind, you said it best at the forefront, that when the whole world's falling apart, that's when you've got to hold on to yourself and stay solid and get through it. And our world was falling apart, but we made the right choice through adversity and it's really been a blessing ever since. And it would have been the way Daddy would have wanted it to be."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That was probably what was driving you also. You heard your dad's voice saying that this is the way he would want it."
+      }
+    ],
+    "speakername": "John Schnatter",
+    "ground_truth": "He never quit. He tried 10, 15, 20 businesses, and he just never quit. And so I learned that never give up, especially when things are tough attitude from my dad and from my papaw. So it was a blessing in disguise. He gave me a gift on the way out. He really did.",
+    "bio": "The speaker's MBTI type is ESTP"
+  }
+]

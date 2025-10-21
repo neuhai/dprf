@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you. You're on the list."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'll see you next time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "i'm so excited about this i am too when you guys called and said that you wanted me to be a part of it i was really thrilled because that's a great accomplishment for anybody over 50 years old right"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I think so. I think we've discovered there are so many women in their 50s, 60s, 70s, 80s, 90s having their greatest impact in these years."
+      }
+    ],
+    "speakername": "Kris Jenner",
+    "ground_truth": "Yeah. It's really impressive. I just came from a fashion show here in [city], and I was sitting with [public figure]. And every time I see her, I'm inspired, I'm impressed. It gives me hope that, you know, in a couple years when I'm her age, that I'm still going to be doing what she's doing. And she's sitting there at this show, multitasking. And we're talking about holiday decorations and what she's doing for the holidays and her business. And it just made me so happy, and it gives me, you know, another breath of fresh air. You know what I mean? Yes. She's always starting new business.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "lives right"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "career."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right. I think, well, you know, from my generation, there was always a clock ticking about having a baby, getting married, starting a family. And you were sort of considered an old maid if you weren't married and pregnant by 30. Absolutely. And that was really interesting and just so crazy now when I think back about that because, you know, I have so many daughters and they're two different generations, you know, five daughters."
+      },
+      {
+        "speaker": "[target]",
+        "text": "couple different generations and everybody's doing everything a decade later now in today's day and age and even then some so i think that all the boundaries that we feel like that other people have set for us are imaginary at this point and i think people are finding their own power and their own way of doing things and i think that that in and of itself is very powerful and you know what it gives a lot of other people hope"
+      }
+    ],
+    "speakername": "Kris Jenner",
+    "ground_truth": "that there is no rush i started doing my show when i was like 51 years old 52 years old by the time it got on the air and it's been one of the most rewarding chapters of my life this is my my you know people often say well you know what are you doing this for well guess what i get to get up every single day and work with my family and create something new every time that we get together and that you know the the creation of all the the content like everybody calls it now it's it's joyful at this point it's a lot of work and you have to know what you're doing and eventually we figured it out but it's been a great journey did you have any idea",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "that there is no rush i started doing my show imagine when i was like 51 years old 52 years old by the time it got on the air and it's been one of the most rewarding chapters of my life this is my my you know people often say well you know what are you doing this for well guess what i get to get up every single day and work with my family and create something new every time that we get together and that you know the the creation of all the the content like everybody calls it now it's it's joyful at this point it's a lot of work and you have to know what you're doing and eventually we figured it out but it's been a great journey did you have any idea"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that the show would be the success it is today."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, you always hope that anything you're putting your hard work and heart and soul into, that it's successful. And I think that it was always the hope that we would even get picked up for season two. So when we were in the middle of filming season one and we got the call from the network that we had been picked up for season two and we hadn't even finished, you know, and then got the news that there would be no break, we're just going to keep filming, we kind of took a deep breath and went, okay, you know, this is what this is like, because it was voluntary."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "territory. So you coined the term momager? Uh-huh. Okay. And you've said that you're the family CEO, right? I am. Okay. And you're paid a 10% manager's fee on the gross income from your family's deals. That's pretty good."
+      }
+    ],
+    "speakername": "Kris Jenner",
+    "ground_truth": "Well, you know, when we started working together, there was no formal agreement, per se, and we were trying to figure things out. And I knew by talking to everybody in town, and I knew so many people, and I have a network of friends and family that are in the business, and most managers and those type of people, agents, are getting between 20 and 25 percent, sometimes 30. Of the gross, I know. And so I said to my kids, look, I'm going to put my heart and soul into this. I'm going to work hard, and I'll take 10 percent because that'll make it worth my while. I'm not going to charge you the industry standard.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that the show would be the success it is today."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, you always hope that anything you're putting your hard work and heart and soul into, that it's successful. And I think that it was always the hope that we would even get picked up for season two. So when we were in the middle of filming season one and we got the call from the network that we had been picked up for season two and we hadn't even finished, you know, and then got the news that there would be no break, we're just going to keep filming, we kind of took a deep breath and went, okay, you know, this is what this is like, because it was voluntary."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "territory. So you coined the term momager? Uh-huh. Okay. And you've said that you're the family CEO, right? I am. Okay. And you're paid a 10% manager's fee on the gross income from your family's deals. That's pretty good."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, when we started working together, there was no formal agreement, per se, and we were trying to figure things out. And I knew by talking to everybody in town, and I knew so many people, and I have a network of friends and family that are in the business, and most managers and those type of people, agents, are getting between 20 and 25 percent, sometimes 30. Of the gross, I know. And so I said to my kids, look, I'm going to put my heart and soul into this. I'm going to work hard, and I'll take 10 percent because that'll make it worth my while. I'm not going to charge you the industry standard."
+      }
+    ],
+    "speakername": "Kris Jenner",
+    "ground_truth": "which I thought was super fair. And then I knew that in order to get anything, I knew how hard I was gonna have to work and just wanted to make sure that I didn't need to get a day job.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "which I thought was super fair. And then I knew that in order to get anything, I knew how hard I was gonna have to work and just wanted to make sure that I didn't need to get a day job."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you were like, kids, I'm giving you a deal. Here we go. 10%. That's a deal. What a deal. . . . . . . . . . . . . . . . . . . . . . ."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What a deal. That's right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm interested in knowing when you realized you were the head of a business enterprise and not just a family."
+      }
+    ],
+    "speakername": "Kris Jenner",
+    "ground_truth": "The first time I really started building an infrastructure, you know, and got the right people in the right positions and in-house.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  }
+]

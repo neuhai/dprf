@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Great to be with you."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "It's great to have you here. Let's start off by talking about the decision of FBI Director Christopher Wray to announce his resignation three years before the end of his term. Do you think that that was the right decision, Senator?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm a little bit nervous about it. You know, when Trump talks about sending to jail people who are on that January 6th committee, that sounds like being a tin pot dictator. So I would hope that we have an FBI and a Justice Department that protects the civil liberties of the American people and does its best to protect American democracy."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Well, we know the [government building] is considering potential preemptive pardons of those who've clashed with President-elect Trump. In light of what the president-elect said to me, that yes, he does think that members of the January 6th committee should go to jail. Do you think that Mr. Biden should issue preemptive pardons for the entire January 6th committee?"
+      }
+    ],
+    "speakername": "Bernie Sanders",
+    "ground_truth": "Well, I think he might want to consider that very seriously. Look, that is an outrageous statement. This is what authoritarianism is all about. It's what dictatorship is all about. You do not arrest elected officials who disagree with you, who undertake an investigation. So all of us, and I would tell you, Kristen, I think there are a lot of Republicans. You just heard Lindsey Graham make that statement. I think that idea of Trump is not going to go very far. It is so quite outrageous.",
+    "bio": "The speaker (born 1941) is an American politician serving as the senior United States senator from [state]. A self-described democratic socialist, they are often seen as a leader of the progressive movement in the United States. The speaker unsuccessfully sought the Democratic Party nomination for president of the United States in 2016 and 2020, finishing in second place in both campaigns. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Look, Elizabeth Warren obviously understands killing and murder and shooting somebody in the back is totally unacceptable. But what I think has happened in the last few months is that what you have seen rising up is people's anger at a health insurance industry which denies people the health care that they desperately need while they make billions and billions of dollars in profit. So killing anybody, shooting somebody in the back who's the father of two is outrageous. It is unacceptable. Nobody, nobody should applaud it. I know Senator Warren did not. But I think what we need to ask ourselves when we talk about health care is why we are the only major country on earth not to guarantee health care to all people, why we have a life expectancy which is significantly lower than in other countries while working class people die five to ten years shorter than the people on top. So, Kristen, I feel very strongly about this. And I think the time is long overdue for us to guarantee health care to every man, woman and child, especially at a time when we're spending twice as much per capita on health care as the people of every other nation. The goal of health care is not to make drug companies and insurance companies phenomenally rich. It's to guarantee quality care to all of our people."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Let me ask you about another topic, obviously very important to working class voters, the minimum wage. In my one-on-one interview with the President-elect, I asked him if he would consider raising the minimum wage. It's been at $7.25 since 2009. He acknowledged it is too low, Senator. He also said it's quite complicated to raise the federal minimum wage. But do you think you can work with the President-elect and try to get a deal on raising the minimum wage?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I surely hope so. It is. I tried, I think, two years ago to raise the minimum wage to $15 an hour. We got zero. Not one Republican supported it. We ended up with 42 votes. Look, a $7.25 per hour minimum wage is an absolute disgrace. We have millions of people in this country who are working for starvation wages. They cannot afford housing. They cannot afford to adequately feed their kids. So, yes, we have got to raise the minimum wage. I would suggest it be $17 an hour. But I hope that we can work in a bipartisan way to finally accomplish that goal."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "And Senator, I have to ask you about this story that has captured the country's attention. These reports of purported drones flying over [State], other parts of the East Coast. A Biden administration official said, quote, there's been a slight overreaction to these reports. I wonder what do you make of the Biden administration's reaction so far? Are you satisfied by the administration's reaction?"
+      }
+    ],
+    "speakername": "Bernie Sanders",
+    "ground_truth": "I honestly don't know anything more about that than what I read in the papers. Sorry, can't give you a great insight on that.",
+    "bio": "Born in 1941, this American politician serves as the senior United States senator from a northeastern state. A self-described democratic socialist, they are often seen as a leader of the progressive movement in the United States. They unsuccessfully sought the Democratic Party nomination for president in 2016 and 2020, finishing in second place in both campaigns. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I honestly don't know anything more about that than what I read in the papers. Sorry, can't give you a great insight on that."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Are you concerned, though?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My concern? Yeah, I guess. I don't know. What can I tell you? Yes, I'm concerned."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Very quickly, [target] is going to be on this week. He's talked about food safety. I know that's something that you have said you are interested in. He's also a vaccine skeptic. Senator, where are you on [target] and his potential confirmation?"
+      }
+    ],
+    "speakername": "Bernie Sanders",
+    "ground_truth": "Well, I think I look forward to sitting down and talking with them. Obviously, vaccines, whether it's polio or COVID, have saved millions and millions of lives. And I strongly support vaccines. On the other hand, what I will tell you, and we had a hearing on this recently, is the food industry, through their processed foods, are helping to cause obesity in this country, cause diabetes in these countries. We have epidemics in our country in terms of diabetes and obesity. And I think we've got to tell the food industry, stop making our kids overweight and causing all kinds of health problems.",
+    "bio": "A senior United States senator from a northeastern state. A self-described democratic socialist, they are often seen as a leader of the progressive movement in the country. They unsuccessfully sought the Democratic Party nomination for president of the United States in two campaigns, finishing in second place in both. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My concern? Yeah, I guess. I don't know. What can I tell you? Yes, I'm concerned."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Very quickly, RFK Jr. is going to be in the legislature this week. He's talked about food safety. I know that's something that you have said you are interested in. He's also a vaccine skeptic. Senator, where are you on RFK Jr. and his potential confirmation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think I look forward to sitting down and talking with them. Obviously, vaccines, whether it's polio or COVID, have saved millions and millions of lives. And I strongly support vaccines. On the other hand, what I will tell you, and we had a hearing on this recently, is the food industry, through their processed foods, are helping to cause obesity in this country, cause diabetes in these countries. We have epidemics in our country in terms of diabetes and obesity. And I think we've got to tell the food industry, stop making our kids overweight and causing all kinds of health problems."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Are you open to voting yes on RFK Jr., Senator?"
+      }
+    ],
+    "speakername": "Bernie Sanders",
+    "ground_truth": "the process, you know, there is a process. I'm going to sit down. I'll talk to him. We're going to have a hearing on it. And it's premature to say how I will vote or I think how anybody should vote unless you hear from the nominees.",
+    "bio": "Born in 1941, this American politician serves as the senior United States senator from a northeastern state. A self-described democratic socialist, they are often seen as a leader of the progressive movement in the United States. They unsuccessfully sought the Democratic Party nomination for president in 2016 and 2020, finishing in second place in both campaigns. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Why did I ask you to come on the show?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, you got to answer the question."
+      },
+      {
+        "speaker": "[target]",
+        "text": "my gaps. All right."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Bernie Sanders",
+    "ground_truth": "All right, let me give you an example, all right? You got three people in America who own more wealth than the bottom half of American society.",
+    "bio": "A politician (born 1941) serving as a senior senator from a northeastern state. A self-described democratic socialist, they are often seen as a leader of the progressive movement in their country. They unsuccessfully sought their party's nomination for president in 2016 and 2020, finishing in second place in both campaigns. The speaker's MBTI type is INTJ"
+  }
+]

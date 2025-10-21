@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thanks, Jill."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The one thing that we saw pretty consistently prior to Tuesday on the betting markets and even polling was the likelihood that this was going to happen with the Senate, that you would retake the Senate. And so you knew that we knew that Senator McConnell was not going to be speaker anymore. So we've known that. But some of the other results, Senator, were you surprised at all about the breadth of the win for Republicans? And for President Trump, former President Trump, President-elect Trump?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I THINK IT WAS A VERY CONVINCING WIN FOR PRESIDENT TRUMP AND LITERALLY UP AND DOWN THE BALLOT. WE OUTPERFORMED 2020 IN 48 STATES AND ACROSS ALL DEMOGRAPHIC GROUPS AND ACTUALLY DID BETTER IN 2300 COUNTRIES OR COUNTIES, I SHOULD SAY, AROUND THE COUNTRY THAN WE DID FOR THE LAST COUPLE OF YEARS. I THINK IT WAS A VERY CONVINCING WIN FOR PRESIDENT TRUMP. I THINK IT WAS A VERY CONVINCING WIN FOR THE COUNTRY THAN WE DID FOUR YEARS AGO. SO THIS WAS, I THINK, AN EXAMPLE THAT THE AMERICAN PEOPLE HAVE SAID ENOUGH IS ENOUGH WITH THE BIDEN-HARRIS AGENDA. THEY'RE READY FOR A DIFFERENT DIRECTION FOR THE COUNTRY. I THINK IT'S REALLY ABOUT OPEN BORDERS AND HIGH PRICES. I THINK THOSE ARE THE ISSUES THAT ANIMATED VOTERS TO GET OUT. BUT IT GIVES US, I THINK, PRESIDENT TRUMP AND REPUBLICANS IN CONGRESS AND HOPEFULLY WE GET NOT ONLY THE SENATE BUT THE HOUSE A MANDATE TO DO SOME PROGRESS WITH THE EFFECT OF THE ECONOMY AND ENERGY AND THE BORDER AND NATIONAL SECURITY. I THINK THOSE ARE THE ISSUES THAT WE'RE GOING TO BE FOCUSED ON AND HOPEFULLY WE'LL BE ABLE TO MAKE SOME PROGRESS AND SOME HEADWAY WITH THE COALITION, THE MUCH BROADER COALITION THAT'S BEEN BUILT OUT SINCE THIS ELECTION."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What's your working number on where you think you'll be at? 50, 53, 54? Probably hopeful for more."
+      }
+    ],
+    "speakername": "John Thune",
+    "ground_truth": "Well, [state_1] is going to come home, Joe. I hope that they will call that soon. They should, and [person_1] should concede there. But [state_2], [state_3], still open questions. And I think we would be at 53, obviously, with [state_1], 54, if [state_2] or [state_3] were to come home. But there's still a vote to be counted there. We're certainly hopeful, and our candidates are as well. They've run great campaigns. But either way, we're going to have a substantial working majority in the Senate, and that will help us get President Trump's team in place so that they can implement an agenda that is consistent with what he campaigned on and what I think the American people are looking for, and that's addressing the issues that I mentioned earlier.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I THINK IT WAS A VERY CONVINCING WIN FOR PRESIDENT TRUMP AND LITERALLY UP AND DOWN THE BALLOT. WE OUTPERFORMED 2020 IN 48 STATES AND ACROSS ALL DEMOGRAPHIC GROUPS AND ACTUALLY DID BETTER IN 2300 COUNTRIES OR COUNTIES, I SHOULD SAY, AROUND THE COUNTRY THAN WE DID FOR THE LAST COUPLE OF YEARS. I THINK IT WAS A VERY CONVINCING WIN FOR PRESIDENT TRUMP. I THINK IT WAS A VERY CONVINCING WIN FOR THE COUNTRY THAN WE DID FOUR YEARS AGO. SO THIS WAS, I THINK, AN EXAMPLE THAT THE AMERICAN PEOPLE HAVE SAID ENOUGH IS ENOUGH WITH THE BIDEN-HARRIS AGENDA. THEY'RE READY FOR A DIFFERENT DIRECTION FOR THE COUNTRY. I THINK IT'S REALLY ABOUT OPEN BORDERS AND HIGH PRICES. I THINK THOSE ARE THE ISSUES THAT ANIMATED VOTERS TO GET OUT. BUT IT GIVES US, I THINK, PRESIDENT TRUMP AND REPUBLICANS IN CONGRESS AND HOPEFULLY WE GET NOT ONLY THE SENATE BUT THE HOUSE A MANDATE TO DO SOME PROGRESS WITH THE EFFECT OF THE ECONOMY AND ENERGY AND THE BORDER AND NATIONAL SECURITY. I THINK THOSE ARE THE ISSUES THAT WE'RE GOING TO BE FOCUSED ON AND HOPEFULLY WE'LL BE ABLE TO MAKE SOME PROGRESS AND SOME HEADWAY WITH THE COALITION, THE MUCH BROADER COALITION THAT'S BEEN BUILT OUT SINCE THIS ELECTION."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What's your working number on where you think you'll be at? 50, 53, 54? Probably hopeful for more."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Pennsylvania is going to come home, Joe. I hope that they will call that soon. They should, and Bob Casey should concede there. But Nevada, Arizona, still open questions. And I think we would be at 53, obviously, with Pennsylvania, 54, if Nevada or Arizona were to come home. But there's still a vote to be counted there. We're certainly hopeful, and our candidates are as well. They've run great campaigns. But either way, we're going to have a substantial working majority in the United States Senate, and that will help us get President Trump's team in place so that they can implement an agenda that is consistent with what he campaigned on and what I think the American people are looking for, and that's addressing the issues that I mentioned earlier."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's so nuanced, and in the House, we don't know what the end result will be, although the betting markets now look like they're predicting that the GOP can hold the House. But it was hard to even say the GOP held the House for the last two years. They did, but, you know, with the Freedom Caucus and everything else. And the Senate was crazy, too, because you had, you know, Manchin and Sinema. I didn't really know what that was. What will this enable Republicans to do? And having a president in the same party, but a president who certainly is not shy about what he wants to happen. He's almost a whip. He could almost be the whip of the Senate and the House, I would think."
+      }
+    ],
+    "speakername": "John Thune",
+    "ground_truth": "Yeah, he is that. Well, look, Joe, I think that if we can hold the House, obviously we have a legislative vehicle available to us called budget reconciliation, which the Democrats used extensively when they had all three. But when you have unified control of government, it gives you an opportunity to do some things. Obviously we've got to extend the Trump tax cuts, which if we don't, ends up being a $4 trillion tax increase on the economy and almost $2,000 per average family in this country. I think energy policy, I think border policy. You know, if you look at the economic agenda, it's also regulatory, and the cost of regulation has been $1.8 trillion since Biden and Harris took office. So lighter touch on regulations, again, extending the tax policy, bonus depreciation, interest deductibility, R&D expensing, the things that get you the big growth in the economy. We need pro-growth policies on the economy, and then we've always got to be paying attention to what's happened with respect to national security. Because we live in a very dangerous world. So I think those issues are going to be front and center, and if we have unified control of the government, we're in a much better position to enact an agenda that is consistent with accomplishing those goals.",
+    "bio": " The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But what is..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I wear it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How does it fit?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Do you have it?"
+      }
+    ],
+    "speakername": "John Thune",
+    "ground_truth": "Yeah, do you have it? Well, I feel good about where we are. But, hey, look, it's a secret ballot election, and it's a very discerning, small constituency that's going to make that vote. So it's never over until it's over. We're going to have that vote next week and get a chance to hear from all the candidates for that job. It's a big job, and it's one that's going to require a good amount of political courage and ability to be able to get things done. But if we have a unified control of government, and, by the way, I serve in the legislative body too, so I understand the legislative chambers and how they view the world. But we've got to be able to find a way to work together as a coalition with the administration to enact an agenda, because we really have probably a two-year window. You never know what's going to happen in the next election. We have one every even-numbered year, and so we've got a narrow window.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, thankful, grateful, grateful for, you know, our democratic process. Like I said, every November and every even-numbered year, people across this country get an opportunity to make their voices heard, and that's what they're doing here tonight. I'm grateful for the trust that they placed in me, and I'll work hard to be deserving of that, both for those who voted for me and those who didn't."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And so this is your fourth term going into the Senate. What are some of your plans when you head back to [government center]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I mean, I think right now, as you know, there are a lot of issues that are economic issues that I think are really affecting the pocketbooks. I mentioned that of a lot of families in this country. So, you know, trying to get inflation under control, get government spending under control, come up with an energy plan that supports American energy production, which I think is a big factor that drives inflation. And, you know, obviously there's a lot of issues with the border, issues with crime, national security issues we're going to be dealing with, so it's going to be a busy time. But I think first and foremost, it's what people, I think, spoke on tonight, largely, were those economic issues that are impacting them and their families on a daily basis. So I think there needs to be a clear-eyed focus on things that we can do to kind of help get our economy back on track, get inflation back under control, and turn the country around."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And I know for a lot of people right now on their minds is partisanship. How do you kind of hope to work with both sides of the aisle?"
+      }
+    ],
+    "speakername": "John Thune",
+    "ground_truth": "Well, I, in the past, have worked a lot across the aisle. There are lots of issues where you need to have a bipartisan approach. And we've got a farm bill coming up next year. When you ask about the things we're going to do next year, that will be front and center, too. And that requires a high level of bipartisanship cooperation with Democrats. And, you know, if you look at the issues that I think are going to impact our state's future, whether it's what happens with [military base], what happens on energy policy, what happens on the faster build-out of high-speed Internet services, those are all bipartisan issues. And I'm hopeful that we can chart a path that will enable us to get solutions, because I think people in this country want solutions.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I mean, I think right now, as you know, there are a lot of issues that are economic issues that I think are really affecting the pocketbooks. I mentioned that of a lot of families in this country. So, you know, trying to get inflation under control, get government spending under control, come up with an energy plan that supports national energy production, which I think is a big factor that drives inflation. And, you know, obviously there's a lot of issues with the border, issues with crime, national security issues we're going to be dealing with, so it's going to be a busy time. But I think first and foremost, it's what people, I think, spoke on tonight, largely, were those economic issues that are impacting them and their families on a daily basis. So I think there needs to be a clear-eyed focus on things that we can do to kind of help get our economy back on track, get inflation back under control, and turn the country around."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And I know for a lot of people right now on their minds is partisanship. How do you kind of hope to work with both sides of the aisle?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I, in the past, have worked a lot across the aisle. There are lots of issues where you need to have a bipartisan approach. And we've got a farm bill coming up next year. When you ask about the things we're going to do next year, that will be front and center, too. And that requires a high level of bipartisanship cooperation with Democrats. And, you know, if you look at the issues that I think are going to impact our state's future, whether it's what happens with the military base, what happens on energy policy, what happens on the faster build-out of high-speed Internet services, those are all bipartisan issues. And I'm hopeful that we can chart a path that will enable us to get solutions, because I think people in this country want solutions."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I know there are a lot of tight races across the country. Do you think Republicans are going to take back the Senate with this election?"
+      }
+    ],
+    "speakername": "John Thune",
+    "ground_truth": "I think it's going to be close, but my sense is right now the answer to that is yes. I'm not sure we'll know that right away because some of these states are going to be counting probably for a while. But I think it's trending that way. And if it does end up, we end up in the majority, we'll have our work cut out for us. But we'll work hard to find common ground where we can with the administration. And where we can't, we'll just have to disagree. But hopefully there'll be some issues where we can do some things that get results, that are constructive, that are solutions oriented for the good of the American people.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  }
+]

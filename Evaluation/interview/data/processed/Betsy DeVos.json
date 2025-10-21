@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Here, can I help you?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And that means that the public school left behind can end up with less money. Why take money away from that school that's not working to bring them up to a level where they are?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "that school is working well we should be funding investing in students not in school school buildings not in institutions not in systems and okay so it should be"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "who are back at the school, it's not working. What about those kids?"
+      }
+    ],
+    "speakername": "Betsy DeVos",
+    "ground_truth": "Well, in places where there's a lot of choice that's been introduced, [state], for example, the studies show that when there's a large number of students that opt to go to a different school or different schools, the traditional public schools, actually, the results get better as well.",
+    "bio": "A former government official who served as the 11th national secretary of education from 2017 to 2021. [target] is known for support for school choice, school voucher programs, and charter schools. They served as national committee member for [state] from 1992 to 1997 and served as chair of the [state] political party from 1996 to 2000, with reelection to the post in 2003. They have advocated for the [city] charter school system and is a former member of the board of the Foundation for Excellence in Education. They have served as chair of the board of the Alliance for School Choice and the [organization] Institute and headed the All Children Matter PAC. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "that school is working well we should be funding investing in students not in school school buildings not in institutions not in systems and okay so it should be"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "who are back at the school, it's not working. What about those kids?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, in places where there's a lot of choice that's been introduced, [state_01], for example, the studies show that when there's a large number of students that opt to go to a different school or different schools, the traditional public schools, actually, the results get better as well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now has that happened in [state_02]? We're in [state_02], this is your home state."
+      }
+    ],
+    "speakername": "Betsy DeVos",
+    "ground_truth": "[state_02], yes. Well, there's lots of great options and choices for students here. Have the public schools in [state_02] gotten better?",
+    "bio": "A former government official who served as the 11th education secretary from 2017 to 2021. The individual is known for supporting school choice, school voucher programs, and charter schools. They served as national committeewoman for their home state from 1992 to 1997 and as chair of their state's political party from 1996 to 2000, with reelection to the post in 2003. They have advocated for regional charter school systems and served on the board of the Foundation for Excellence in Education. They have served as chair of the board of the Alliance for School Choice and the Acton Institute and headed the All Children Matter PAC. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "60 minutes rewind."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Secretary of Education [target] is a devout Christian grandmother from [state] who has spent most of her life trying to improve the quality of education for poor kids. So how in the world did she become one of the most hated members of the administration cabinet? She's dedicated to promoting school choice, but her critics say she really wants to privatize the public school system that she once called, quote, a dead end. Now, after the school shooting in [location], her portfolio is expanding. Tomorrow, the President is expected to appoint her as head of a new commission on school safety, charged with developing policies to prevent school violence. [target] visited the school in [location] on Wednesday, but like almost everywhere else she goes, she faced criticism. Some of the students sent out angry tweets. You came to our school just for fun. You asked for publicity and avoided our questions. [target] came to my school, talked to three people, and pet a dog. Many of the students are frustrated at the administration for talking about school safety, but not acting."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I give a lot of credit to the students there for really raising their voices, and I think that they are not going to let this moment go by. They want gun control. They want a variety of things. They want solutions. Do you think that teachers"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "should have guns in the classroom."
+      }
+    ],
+    "speakername": "Betsy DeVos",
+    "ground_truth": "that should be an option for states and communities to consider. And I hesitate to think of like my first grade teacher, Mrs. [name], I couldn't ever imagine her having a gun and being trained in that way. But for those who are capable, this is one solution that can and should be considered, but no one size fits all. Every state and every community is going to address this issue in a different way.",
+    "bio": "The subject (born January 8, 1958) is a former government official who served as the 11th education secretary from 2017 to 2021. They are known for their support for school choice, school voucher programs, and charter schools. They were national committeewoman for [state] from 1992 to 1997 and served as chair of the [state] Party from 1996 to 2000, with reelection to the post in 2003. They have advocated for the [city] charter school system and are a former member of the board of the Foundation for Excellence in Education. They have served as chair of the board of the Alliance for School Choice and the [institute] and headed the All Children Matter PAC. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I give a lot of credit to the students there for really raising their voices, and I think that they are not going to let this moment go by. They want gun control. They want a variety of things. They want solutions. Do you think that teachers"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "should have guns in the classroom."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that should be an option for states and communities to consider. And I hesitate to think of like my first grade teacher, Mrs. Zorhoff, I couldn't ever imagine her having a gun and being trained in that way. But for those who are capable, this is one solution that can and should be considered, but no one size fits all. Every state and every community is going to address this issue in a different way."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You see yourself as a leader in this subject, and what kind of ideas will you be promoting?"
+      }
+    ],
+    "speakername": "Betsy DeVos",
+    "ground_truth": "I have actually asked to head up a task force that will really look at what states are doing. See, there are a lot of states that are addressing these issues in very cohesive and coherent ways. Do you feel a sense of urgency? Yes.",
+    "bio": "Former government official who served as the 11th national secretary of education from 2017 to 2021. Known for support for school choice, school voucher programs, and charter schools. Served as national committeewoman for a midwestern state from 1992 to 1997 and served as chair of the state political party from 1996 to 2000, with reelection to the post in 2003. Has advocated for regional charter school system and is a former member of the board of the Foundation for Excellence in Education. Has served as chair of the board of the Alliance for School Choice and the Acton Institute and headed the All Children Matter PAC. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We have invested billions and billions and billions of dollars from the federal level, and we have seen zero results."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But that really isn't true. Test scores have gone up over the last 25 years. So why do you keep saying nothing's been accomplished?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, actually, test scores vis-a-vis the rest of the world have not gone up, and we have continued to be middle of the pack at best. That's just not acceptable."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, there are many different mechanisms to advance freedom for families, but I think the one that has the most promise and that has the most optionality is what we refer to as education savings accounts, where it becomes basically an account that is designated for that child that the family can pay for educational expenses from, and it could be used to provide a custom education experience for a child, or it could be used for one specific school that may already exist that they're really happy about, or it could be used at the school to which they're assigned if that school is working really well for them. One family's choice to do something different doesn't force another families to do the same thing. It would give the widest amount of optionality to families to, again, either customize or find the right education avenue for each child."
+      }
+    ],
+    "speakername": "Betsy DeVos",
+    "ground_truth": "Now, while the states seem to be moving in that direction, in the capital, we've recently seen in the last couple months a whole bunch of regulations rolled out by the current administration on charter schooling.",
+    "bio": "Born January 8, 1958, the subject is a former government official who served as the 11th education secretary from 2017 to 2021. They are known for supporting school choice, school voucher programs, and charter schools. They were national committeewoman for a midwest state from 1992 to 1997 and served as chair of their state's party from 1996 to 2000, with reelection to the post in 2003. They have advocated for regional charter school systems and were a former member of the board of the Foundation for Excellence in Education. They have served as chair of the board of the Alliance for School Choice and the Acton Institute and headed the All Children Matter PAC. The speaker's MBTI type is ESTJ"
+  }
+]

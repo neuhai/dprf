@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I know that all the players, they respect him a lot. Respect him. Respect him, and he's a real leader. I think [person], he's boss."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "exactly for sure but despite the glamour of owning a professional basketball team and the thrills of being an adventure-seeking billionaire"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] said he is completely devoted to politics. You think of yourself as a politician."
+      }
+    ],
+    "speakername": "Mikhail Prokhorov",
+    "ground_truth": "So I'm only on in politics now. Is that right? It's all you care about politics? Like from time to time, of course, I keep an eye what is going in economy, what is going in my group But my day-to-day routine is politics",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I'm only on in politics now. Is that right? It's all you care about politics? Like from time to time, of course, I keep an eye what is going in economy, what is going in my group But my day-to-day routine is politics"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in 2012 [target] ran for president of [COUNTRY] to no one's surprise he lost to strongman [LEADER] give me your smartest assessment of [LEADER] what makes him tick who is he we all know he's a former intelligence agent"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think my personal feeling that he is the strongest politician, guy on the earth, on the planet for the time being."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Should the [COUNTRY] trust him?"
+      }
+    ],
+    "speakername": "Mikhail Prokhorov",
+    "ground_truth": "problem between two countries that we have no economic relation and when you have only politics it's very vulnerable and just what we need now on the first stage is to have very good cultural relation that's why I'm here a culture unite nations",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think my personal feeling that he is the strongest politician, guy on the earth, on the planet for the time being."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Should the United States trust him?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "problem between two countries that we have no economic relation and when you have only politics it's very vulnerable and just what we need now on the first stage is to have very good cultural relation that's why I'm here a culture unite nations"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] recently formed his own political party. As a businessman who made his fortune from the collapse of the former regime, he believes his country needs evolution, not revolution."
+      }
+    ],
+    "speakername": "Mikhail Prokhorov",
+    "ground_truth": "I want to see my country open, western-minded, it's only maximum 20% of the votes for the time being. But in the nearest future, new generation is coming, and my goal to address them, my ideas. So it's a long-term project. But your ideas are what? More entrepreneurship? Yeah.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "problem between two countries that we have no economic relation and when you have only politics it's very vulnerable and just what we need now on the first stage is to have very good cultural relation that's why I'm here a culture unite nations"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] recently formed his own political party. As a businessman who made his fortune from the collapse of a former regime, he believes his country needs evolution, not revolution."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I want to see my country open, western-minded, it's only maximum 20% of the votes for the time being. But in the nearest future, new generation is coming, and my goal to address them, my ideas. So it's a long-term project. But your ideas are what? More entrepreneurship? Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Market economy."
+      }
+    ],
+    "speakername": "Mikhail Prokhorov",
+    "ground_truth": "No monopolies, a lot of competition. Political freedom. And to be a part of an international union. So our country, in your mind, is European. Yeah, sure. Can you do it? I hope so, but I think it will take minimum 10, maybe 15 years.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I want to see the country open, western-minded, it's only maximum 20% of the votes for the time being. But in the nearest future, new generation is coming, and my goal to address them, my ideas. So it's a long-term project. But your ideas are what? More entrepreneurship? Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Market economy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No monopolies, a lot of competition. Political freedom. And to be a part of a regional union. So the country, in your mind, is European. Yeah, sure. Can you do it? I hope so, but I think it will take minimum 10, maybe 15 years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One clear sign he differs from the country's current political leadership is his take on Edward Snowden."
+      }
+    ],
+    "speakername": "Mikhail Prokhorov",
+    "ground_truth": "Would you have given asylum to Edward Snowden? I think for me it's a great testimony that relations between two countries are very far from being adequate. Adequate. Adequate. Because majority of people in my country, they really think that he was a traitor. And if he... The majority of people in my country in your judgment think that Edward Snowden was a traitor. Was a traitor and because we have a very special history, national history, and we have a very strong belief about loyalty. If you're working in intelligence agency, especially in intelligence agency, then you don't go out and spill all the secrets. So you would not have granted him asylum?",
+    "bio": " The speaker's MBTI type is INTJ"
+  }
+]

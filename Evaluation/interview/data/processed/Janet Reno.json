@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I am having lots of fun out here. Guess what? I'm here with [target], former Attorney General of the United States. My mother never thought I'd get to interview [target], but here I am. What are you wearing? You look fantastic."
+      },
+      {
+        "speaker": "[target]",
+        "text": "My nieces helped find this outfit for me, and I give them all the credit."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Fantastic. We're here with David Macias. The two of you are gonna work on an album together. Explain that to me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Several years ago, I suggested to my nephew, who had written a number of folk songs, that he produce an album."
+      }
+    ],
+    "speakername": "Janet Reno",
+    "ground_truth": "Telling the history of America in song to reach kids who were turned off by history, who didn't find it relevant, because music is a wonderful way to open the doors for so many young people.",
+    "bio": "The subject (July 21, 1938 – November 7, 2016) was an American lawyer who served as the Attorney General of the United States from 1993 until 2001. The President nominated the subject on February 11, 1993, and the Senate confirmed them the following month. They were the first woman to serve as Attorney General and the second-longest serving Attorney General in U.S. history, after William Wirt. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Fantastic. We're here with David Macias. The two of you are gonna work on an album together. Explain that to me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Several years ago, I suggested to my nephew, who had written a number of folk songs, that he produce an album."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Telling the history of America in song to reach kids who were turned off by history, who didn't find it relevant, because music is a wonderful way to open the doors for so many young people."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And the album's called Songs of America."
+      }
+    ],
+    "speakername": "Janet Reno",
+    "ground_truth": "Well, that's its working title, I think. My nephew went out, saw what had been done, saw that there was nothing like this because we had envisioned preparing materials for schoolteachers to go with the album, to use it as a teaching tool. And then David, who has just won a Grammy for his Stephen Foster album, and Ed met up and started talking together. And they are now in the process of co-producing the album. I think it will be a wonderful way to educate and also to entertain all America.",
+    "bio": "The subject (July 21, 1938 - November 7, 2016) was an American lawyer who served as the Attorney General from 1993 until 2001. The president nominated the subject on February 11, 1993, and the Senate confirmed them the following month. They were the first woman to serve as Attorney General and the second-longest serving Attorney General in national history, after William Wirt. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, that's its working title, I think. My nephew went out, saw what had been done, saw that there was nothing like this because we had envisioned preparing materials for schoolteachers to go with the album, to use it as a teaching tool. And then David, who has just won a Grammy for his Stephen Foster album, and Ed met up and started talking together. And they are now in the process of co-producing the album. I think it will be a wonderful way to educate and also to entertain all America."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, you know about pageantry from your days at the [government building]. How does record business pageantry compare to [government building] pageantry?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's a little bit different."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It is a little bit different."
+      }
+    ],
+    "speakername": "Janet Reno",
+    "ground_truth": "But the beauty of music is, whether in pageant or in a simple setting, it is the universal language and can do so much to bring people together.",
+    "bio": "The individual (July 21, 1938 - November 7, 2016) was an American lawyer who served as the Attorney General of the United States from 1993 until 2001. The President nominated the individual on February 11, 1993, and the Senate confirmed them the following month. They were the first woman to serve as Attorney General and the second-longest serving Attorney General in U.S. history, after William Wirt. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Home on the Range I heard at school and came to love it, but my real musical experience as a child was with [singer name] and other cowboys."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did you all sing cowboy songs around the house?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did Gran sing cowboy songs too?"
+      }
+    ],
+    "speakername": "Janet Reno",
+    "ground_truth": "Well, Gran sang them, but it was questionable whether she could carry a tune. Could anybody carry a tune?",
+    "bio": "The subject (born July 21, 1938 - died November 7, 2016) was an American lawyer who served as the Attorney General of the United States from 1993 until 2001. The President nominated the subject on February 11, 1993, and the Senate confirmed them the following month. They were the first woman to serve as Attorney General and the second-longest serving Attorney General in national history, after [historical figure]. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did Gran sing cowboy songs too?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Gran sang them, but it was questionable whether she could carry a tune. Could anybody carry a tune?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Tommy couldn't carry it, too."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Uncle Bob, well, that's interesting, who went on to be a journalist, not a singer. When did you first sense that some of these songs that you learned in school and even the songs in the church had some historical or social significance?"
+      }
+    ],
+    "speakername": "Janet Reno",
+    "ground_truth": "I think with the cowboy songs, the concept of the law and the enforcement of law on the frontier was told through these songs. A notorious outlaw, the holding people to account, creating a system in which people could live and we could expand this country.",
+    "bio": "The target (born July 21, 1938 - died November 7, 2016) was an American lawyer who served as the Attorney General of the United States from 1993 until 2001. The president nominated the target on February 11, 1993, and the Senate confirmed them the following month. They were the first woman to serve as Attorney General and the second-longest serving Attorney General in U.S. history, after William Wirt. The speaker's MBTI type is ESTJ"
+  }
+]

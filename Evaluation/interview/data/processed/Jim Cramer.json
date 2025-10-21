@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What do you have to say to the American investor in this country?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I think you're going to see some very good days ahead. A lot of incentives are going to be given. You saw yesterday a billion-dollar investment, and we gave you very fast approvals. Nobody's come up with that one yet, although it seems pretty simple. I think you're going to have some great days ahead. We have to conclude a couple of bad wars that are going on. A lot of bad things are going on, but we'll get them done."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Do you think that we are in a situation where business will be far more embraced under you than currently?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I don't want to really knock current, but I will tell you more than at any time anywhere in the history of our country."
+      }
+    ],
+    "speakername": "Jim Cramer",
+    "ground_truth": "Now, we used to speak together about the idea that the averages mattered and were a good barometer of your performance. Is that still the case? Can we go beyond the market index maybe to another index?",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Do you think that we are in a situation where business will be far more embraced under you than currently?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I don't want to really knock current, but I will tell you more than at any time anywhere in the history of our country."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now, we used to speak together about the idea that the averages mattered and were a good barometer of your performance. Is that still the case? Can we go beyond market index maybe to tech index?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I think I've always said, you know, to me, stock market is very all of it, you know, all of it together. It's very important. It's an honor to be here at [financial district]. I sort of joked that I actually bought the building across the street because the exchange was here. It's a big deal. 40. It's a nice building. [business district]. So, look, we're going to we're going to do things I think that haven't been really done before. We're going to be cutting taxes still further. You know, we got it down to 21 percent. We're going to bring it down even below that. You pay 21 if you don't build here. And meaning your product or whatever it is you're building. And if you do, we're going to try getting it down to 15 percent. But you have to build your product, make your product in the USA."
+      }
+    ],
+    "speakername": "Jim Cramer",
+    "ground_truth": "And how about every working person who's watching? We'd love to be able to see dividend tax maybe much lower, capital gains much lower.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And how about every working person who's watching? We'd love to be able to see dividend tax maybe much lower, capital gains much lower."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, we're going to be talking about that, and we're really talking about lowering taxes. Last time, as you know, we took it probably from close to 44%, 45% down to 21%. Everyone said that was impossible. Now, it was always myâI really wanted to get it down to 15%, and we'll be able to do that. And if you remember, we had the best three years in the history of our country from the standpoint of the economy. And you've been so professional and so good. I haven't seen you so much since I've been a politician."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you, sir. We were together and I was grateful to be a judge on the show."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "we had a great time. That's right. He was a tough judge. He was a tough judge."
+      }
+    ],
+    "speakername": "Jim Cramer",
+    "ground_truth": "Well, we had to eliminate some people who didn't cut the mustard. You made me a hatchet, man. I respect that.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you, sir. We were together and I was grateful to be a judge on a reality TV show."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "we had a great time. That's right. He was a tough judge. He was a tough judge."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we had to eliminate some people who didn't cut the mustard. You made me a hatchet, man. I respect that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, we're going to be doing the same thing, I can tell you. Unfortunately, there's too many of them. But I think we're going to really incentivize the country to go back and work, and they will be incentivized. They're going to do well. People are going to be very happy. J.D. is very much involved. And I have a great partner right over here with our first lady. People love our first lady. And we're going to do something very special. We have some great people up there. You saw some of the people on the cabinet. And we have some of the most successful people in the country. And we're dealing with the most successful people. And those are the people that put others to work. And we're going to be hitting job numbers. And as you probably heard me say, we picked up, since just the election, $3 trillion in, you call it worth or value, but $3 trillion was picked up since November 5th. So that's pretty good."
+      }
+    ],
+    "speakername": "Jim Cramer",
+    "ground_truth": "When a former president was here, he talked about putting the bear into hibernation, letting the bull run free.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we had to eliminate some people who didn't cut the mustard. You made me a hatchet, man. I respect that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, we're going to be doing the same thing, I can tell you. Unfortunately, there's too many of them. But I think we're going to really incentivize the country to go back and work, and they will be incentivized. They're going to do well. People are going to be very happy. J.D. is very much involved. And I have a great partner right over here with our first lady. People love our first lady. And we're going to do something very special. We have some great people up there. You saw some of the people on the cabinet. And we have some of the most successful people in the country. And we're dealing with the most successful people. And those are the people that put others to work. And we're going to be hitting job numbers. And as you probably heard me say, we picked up, since just the election, $3 trillion in, you call it worth or value, but $3 trillion was picked up since November 5th. So that's pretty good."
+      },
+      {
+        "speaker": "[target]",
+        "text": "When the former president was here, he talked about putting the bear into hibernation, letting the bull run free."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "good motto? Sounds perfect. I can't do any better than that. That's what we're going to do."
+      }
+    ],
+    "speakername": "Jim Cramer",
+    "ground_truth": "All right, now I do want, I know we've got some other people here, but I don't see [target]. I was hoping because he's been a good, let's say a good aid to you on a lot of different things, whether it be crypto or whether it be experimental drugs. I mean, a lot of different ideas.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  }
+]

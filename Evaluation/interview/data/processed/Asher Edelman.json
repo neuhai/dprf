@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Who is your nobody?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think the broader investing public, if you uphold anybody on the street or anybody on this desk right here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It sounds like you're talking more about financial oppression than you are an economic decline. I mean, I get the fact that a lot of people aren't doing as well because structurally society isn't rewarding them maybe the way they should. I'm not going to get into that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a social issue. I'm talking about money and economics."
+      }
+    ],
+    "speakername": "Asher Edelman",
+    "ground_truth": "People can buy less for what they have now than they could 15 years ago. In their lives, that's a recession.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a social issue. I'm talking about money and economics."
+      },
+      {
+        "speaker": "[target]",
+        "text": "People can buy less for what they have now than they could 15 years ago. In their lives, that's a recession."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So how about the broader economy? How about the labor market that continues to tighten in the country and in East Asia and in Europe? And I was going to tell me that's a backward leading indicator. But right now I see a job market that tells me that the service sector is more than making up for manufacturing and commodity."
+      }
+    ],
+    "speakername": "Asher Edelman",
+    "ground_truth": "And you are, of course, aware that we have fewer people as a percentage of the population employed today than we did in 2007. Yes. Okay. Well, what's that about a job market? Is the labor market worse?",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "People can buy less for what they have now than they could 15 years ago. In their lives, that's a recession."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So how about the broader economy? How about the labor market that continues to tighten in the United States and in Japan and in Europe? And I was going to tell me that's a backward leading indicator. But right now I see a job market that tells me that the service sector is more than making up for manufacturing and commodity."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And you are, of course, aware that we have fewer people as a percentage of the population employed today than we did in 2007. Yes. Okay. Well, what's that about a job market? Is the labor market worse?"
+      }
+    ],
+    "speakername": "Asher Edelman",
+    "ground_truth": "Yes, it is. And then if you take into account the people who are working in a fast-food restaurant who used to run a computer for somebody else, it's even worse than that.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So how about the broader economy? How about the labor market that continues to tighten in the United States and in Japan and in Europe? And I was going to tell me that's a backward leading indicator. But right now I see a job market that tells me that the service sector is more than making up for manufacturing and commodity."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And you are, of course, aware that we have fewer people as a percentage of the population employed today than we did in 2007. Yes. Okay. Well, what's that about a job market? Is the labor market worse?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, it is. And then if you take into account the people who are working in [fast-food restaurant] who used to run a computer for somebody else, it's even worse than that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So let's say you're back on [financial district] today. How would you express those views in investing or in any other way when it comes to money and investing?"
+      }
+    ],
+    "speakername": "Asher Edelman",
+    "ground_truth": "My view was always very straightforward. If you could buy control of a company or close to control of a company where the hard assets are worth two times the stock price, you could then work out something to do from there. That's what I'd be doing.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let's move on to the presidential elections. And I'm curious, we're asking everybody essentially who you think the best candidate for the economy would be."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bernie Sanders."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Without a doubt. Why is that? No question."
+      }
+    ],
+    "speakername": "Asher Edelman",
+    "ground_truth": "well i think it's quite simple again if you look at something called velocity of money you guys know what that is i presume that means how much gets spent and turns around when you have the top one percent getting money they spend five ten percent of what they earn when you have the lower end of the economy getting money they spend a hundred or 110 percent of what they earn as you've had a transfer of wealth to the top and a transfer of income to the top you have a shrinking consumer base basically and you have a shrinking velocity of money bernie is the only person out there who i think is talking at all about both fiscal stimulation and banking rules that will get the banks to begin to generate lending again as opposed to speculation so from an economic point of view it's straightforward",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

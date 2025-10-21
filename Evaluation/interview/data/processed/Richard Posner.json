@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think that's true, I'm not."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What would those courses look like at the law school that would now be taught by practitioners and would now be different and better for the practicing litigators, trialers? It's like evidence. How would they teach evidence differently?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, they would try to make the courses as good a mirror of the actual practice as they could, which is entirely feasible. You can teach an evidence course by having the students play the different roles in a trial, jurors, judge, lawyers, witnesses."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And that would be instructive as an aside, playing judge. You mention that in your book. It's a very important thing for students to experience what it's like to be a judge."
+      }
+    ],
+    "speakername": "Richard Posner",
+    "ground_truth": "yes i tried when i taught an evidence course like that i i tried to get the law the the law students to to be the judges the judge as well as the lawyers and the jurors and witnesses but they were adamant i had to be the judge they wanted you there they just didn't trust one of them in that role",
+    "bio": "The subject (/ËpoÊznÉr/; born January 11, 1939) is an American jurist and law and economics scholar who served as a federal appellate judge on a major Court of Appeals from 1981 to 2017. A senior lecturer at a prestigious law school, the subject is a leading figure in the field of law and economics, and was identified by an academic journal as the most cited legal scholar of the 20th century. They are widely considered to be one of the most influential legal scholars in the country. The subject is known for their scholarly range and for writing on topics outside of their primary field, law. In their various writings and books, they have addressed animal rights, feminism, drug prohibition, same-sex marriage, Keynesian economics, and academic moral philosophy, among other subjects. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's about 200."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. Okay, 13 courts of appeals, you've got the 11 circuits, you've got the regional circuit, you've got the federal circuit. Okay, then you've got these district courts, which are part of the federal court system. But my point was, we're just here focusing on the federal court system, and so, okay. So you remark that you have some of the circuits are less collegial. Yeah. And the judges don't get along as well. That can be a problem if you have to sit on the same panel, so."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's important. It sounds silly for some who focus on theory. If you go to law school, some, and I might have been one of those, you think back, it's all about law, it's all about economics, and so forth. But in reality, if you want to be a trial lawyer, if you want to be a litigator, and you want to be a judge, you ought to know something about getting along with people. And the law schools can actually teach that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, they can't do that. But that doesn't matter. One of the great"
+      }
+    ],
+    "speakername": "Richard Posner",
+    "ground_truth": "Federal judiciary is badly administered. And an example of this is this collegiality problem. All that you need to deal with the collegiality in the courts of appeals, so Regional Circuit, Western Circuit, until fairly recently the Regional Circuit, had very serious collegiality problems. All that the Chief Justice, who's supposed to be the head of the entire federal judiciary, all he had to do, summon those judges to the capital, tell them, cut out this childish stuff, get along with each other. That would end the problem immediately. That would? Really? Absolutely.",
+    "bio": "The subject (born January 11, 1939) is an American jurist and law and economics scholar who served as a federal appellate judge on a major Circuit Court from 1981 to 2017. A senior lecturer at a prestigious law school, the subject is a leading figure in the field of law and economics, and was identified by an academic journal as the most cited legal scholar of the 20th century. They are widely considered to be one of the most influential legal scholars in the United States. The subject is known for their scholarly range and for writing on topics outside of their primary field, law. In their various writings and books, they have addressed animal rights, feminism, drug prohibition, same-sex marriage, Keynesian economics, and academic moral philosophy, among other subjects. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's important. It sounds silly for some who focus on theory. If you go to law school, some, and I might have been one of those, you think back, it's all about law, it's all about economics, and so forth. But in reality, if you want to be a trial lawyer, if you want to be a litigator, and you want to be a judge, you ought to know something about getting along with people. And the law schools can actually teach that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, they can't do that. But that doesn't matter. One of the great"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Federal judiciary is badly administered. And an example of this is this collegiality problem. All that you need to deal with the collegiality in the courts of appeals, so Sixth Circuit, Ninth Circuit, until fairly recently the DC Circuit, had very serious collegiality problems. All that the Chief Justice, who's supposed to be the head of the entire federal judiciary, all he had to do, summon those judges to the capital, tell them, cut out this childish stuff, get along with each other. That would end the problem immediately. That would? Really? Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "If the Chief just said that. Five minutes, yes."
+      }
+    ],
+    "speakername": "Richard Posner",
+    "ground_truth": "They never do that, because the Chief Justices are not good administrators. They're not appointed for their administrative skills, they don't exhibit in the state.",
+    "bio": "A prominent American jurist and law and economics scholar who served as a federal appellate judge on a major U.S. Court of Appeals from 1981 to 2017. A senior lecturer at a prestigious law school, the subject is a leading figure in the field of law and economics, and was identified by an academic journal as the most cited legal scholar of the 20th century. They are widely considered to be one of the most influential legal scholars in the country. The subject is known for scholarly range and for writing on topics outside of their primary field, law. In various writings and books, they have addressed animal rights, feminism, drug prohibition, same-sex marriage, Keynesian economics, and academic moral philosophy, among other subjects. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He's not a good administrator."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "He's not going to be persuaded that's a part of his job and it's something he should do. It's just not going to happen."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Not going to happen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Richard Posner",
+    "ground_truth": "I mean, the federal court is not being well-administered, nor is the rest of the federal judiciary. In fact, there's very little overall administration. What's the worst thing in terms of",
+    "bio": "Born January 11, 1939, the target is a prominent jurist and legal scholar who served as a federal appellate judge on a major circuit court from 1981 to 2017. A senior lecturer at a prestigious law school, the target is a leading figure in the field of law and economics, and was identified by an academic journal as the most cited legal scholar of the 20th century. They are widely considered to be one of the most influential legal scholars in the country. The target is known for their scholarly range and for writing on topics outside of their primary field, law. In their various writings and books, they have addressed animal rights, feminism, drug prohibition, same-sex marriage, Keynesian economics, and academic moral philosophy, among other subjects. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, the [National Court] is not being well-administered, nor is the rest of the federal judiciary. In fact, there's very little overall administration. What's the worst thing in terms of"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What's the worst aspect of the administration in the [National Court]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um, well, I don't know if I can pick out a worst, a single worst."
+      }
+    ],
+    "speakername": "Richard Posner",
+    "ground_truth": "They don't give enough time for oral argument. They talk too much at the oral argument. That's connected. If they gave more time, then they could babble away, but at least the lawyers would have some time to talk. Instead, they've cut the time by 50% over some earlier period, well, when I was a law clerk there in the [Government Legal Office]. And they just talk much more, the [National Court] justices. And as a result, these arguments are unsatisfactory. That's one thing that's bad. There are some things that are just ridiculous. So next to each seat of a [National Court] justice on their bench, you know, the nine chairs, next to each one is a spittoon, a brass spittoon. Been there probably for 100 years. Now, that is ridiculous. The spittoon has vanished. Nobody does spittoon.",
+    "bio": "[Target] (born January 11, 1939) is an American jurist and law and economics scholar who served as a federal appellate judge on the [Federal Court] from 1981 to 2017. A senior lecturer at a prestigious law school, [target] is a leading figure in the field of law and economics, and was identified by a prominent legal journal as the most cited legal scholar of the 20th century. He is widely considered to be one of the most influential legal scholars in the United States. [Target] is known for his scholarly range and for writing on topics outside of his primary field, law. In his various writings and books, he has addressed animal rights, feminism, drug prohibition, same-sex marriage, Keynesian economics, and academic moral philosophy, among other subjects. The speaker's MBTI type is INTJ"
+  }
+]

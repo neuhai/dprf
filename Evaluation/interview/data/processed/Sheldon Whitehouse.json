@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We go first to [government building] and ask one Senate Democrat what in the world his party should do. Joining us now, Democratic Senator [target], who represents [state] and is Budget Committee chair. Senator, thanks for being with us."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What should your party do?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, there's going to be a disagreement in the Senate. It looks like the result will be that the continuing resolution will pass and whatever happens will happen and it will happen soon. What matters most is what then happens next. And that is how quickly Democrats can get back together to focus on the real bad actor in this drama, which is the [political figure]-[business figure] axis that set up this fake contest between a horrible CR and a horrible shutdown to divide Democrats and set us quarreling and either way transfer more power to President [political figure]. And there's looks like there's going to be a bloodletting, looks like there's going to be a recrimination. But the sooner we get past that and the sooner we get on to fighting the real danger, the better off we will be. So that's going to be the Democrats test in the next few days. Can we get back to work and quit quarreling and fussing with each other?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're voting no, though, on this. I'm saying no, I don't."
+      }
+    ],
+    "speakername": "Sheldon Whitehouse",
+    "ground_truth": "it at all but i've got colleagues who i respect a lot who are voting yes and i think they have very sincere views as to what happens",
+    "bio": "[target] (born October 20, 1955) is an American lawyer and politician serving as the junior United States Senator from [state] since 2007. A member of the Democratic Party, he served as a United States Attorney from 1993 to 1998 and the 71st Attorney General of [state] from 1999 to 2003. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're voting no, though, on this. I'm saying no, I don't."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it at all but i've got colleagues who i respect a lot who are voting yes and i think they have very sincere views as to what happens"
+      },
+      {
+        "speaker": "[target]",
+        "text": "in a shutdown with an administration like that wants a shutdown, that does not want to reopen the government, that loves the powers of contingencies and non-essential misdeterminations and riffing and all the things that allow them to basically remake the executive branch in their image with no oversight from Congress any longer because we've let them go into shutdown."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're saying that you believe this is going to pass. The only senators that we have a yes on right now are the Party Leader and two other Senators. Is there anyone else that you know to be a yes?"
+      }
+    ],
+    "speakername": "Sheldon Whitehouse",
+    "ground_truth": "I just take the leader at his word that he's done an accurate whip camp and that the votes are there for this to happen.",
+    "bio": "[target] (born October 20, 1955) is an American lawyer and politician serving as the junior United States Senator from a northeastern state since 2007. A member of the Democratic Party, they served as a United States Attorney from 1993 to 1998 and the 71st Attorney General of their state from 1999 to 2003. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "in a shutdown with an administration that wants a shutdown, that does not want to reopen the government, that loves the powers of contingencies and non-essential misdeterminations and riffing and all the things that allow them to basically remake the executive branch in their image with no oversight from Congress any longer because we've let them go into shutdown."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're saying that you believe this is going to pass. The only senators that we have a yes on right now are the Minority Leader and two other Senators. Is there anyone else that you know to be a yes?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I just take the leader at his word that he's done an accurate whip camp and that the votes are there for this to happen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Explain why the leader is so concerned about letting this government shut down and why you are not as concerned as he is."
+      }
+    ],
+    "speakername": "Sheldon Whitehouse",
+    "ground_truth": "I think it's precisely what I said, that in shutdown mode, the operation of government moves really over to the executive branch entirely and specifically within it to the Office of Management and Budget, which is led by a particular official, who's been neck deep in the 2025 project. So you can expect him to have this be his happiest day ever, as he can go about his long sought purpose to disassemble the federal government. Then when we try to get back out of shutdown, guess who's going to have to bring us back out? It's going to be members of Congress from one party. So they'll bring out defense first. They'll bring out veterans. They'll bring out national security. Do they ever bring out environmental protection? Do they ever bring out education? So it puts enormous, unprecedented power into the hands of a very dangerous group of individuals.",
+    "bio": "Born October 20, 1955, the target is an American lawyer and politician serving as a junior United States Senator from a northeastern state since 2007. A member of the Democratic Party, they served as a United States Attorney from 1993 to 1998 and as State Attorney General from 1999 to 2003. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I just take the leader at his word that he's done an accurate whip camp and that the votes are there for this to happen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Explain why the leader is so concerned about letting this government shut down and why you are not as concerned as he is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it's precisely what I said, that in shutdown mode, the operation of government moves really over to the executive branch entirely and specifically within it to the Office of Management and Budget, which is led by a near maniacal crank named Russell Vogt, who's been neck deep in the 2025 project. So you can expect him to have this be his happiest day ever, as he can go about his long sought purpose to disassemble the federal government. Then when we try to get back out of shutdown, guess who's going to have to bring us back out? It's going to be Republicans in Congress. So they'll bring out defense first. They'll bring out veterans. They'll bring out security. Do they ever bring out the environmental agency? Do they ever bring out the Department of Education? So it puts enormous, unprecedented power into the hands of a very dangerous group of individuals."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you see this as being a more than two-year issue? Do you see Republicans maintaining control of both the House and the Senate? I guess my question is really, do you see Republicans at any point saying no to any of this agenda? And I guess if they start saying no, what is going to push them there?"
+      }
+    ],
+    "speakername": "Sheldon Whitehouse",
+    "ground_truth": "Yeah. At some point, they're going to have to. I mean, the thing that might come up next is when they go from the budget reconciliation bill that just put big numbers for cuts on the account that healthcare program is in. So you can obviously deduce that huge healthcare program cuts are coming to the next step where they actually have to write the language targeting it. And I think there are going to be a bunch of decisions like that. Do they really want to let private companies wreck social benefits so that the private equity people they sent over there can step in and take it over? I think the former president is going to force them to take some very tough votes. And as his popularity declines, which it is, it'll be easier and easier for them to rally into a group that can say, hey, enough of this.",
+    "bio": "The target (born October 20, 1955) is an American lawyer and politician serving as a junior United States Senator from a northeastern state since 2007. A member of the Democratic Party, they served as a United States Attorney from 1993 to 1998 and the 71st Attorney General of their state from 1999 to 2003. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it's precisely what I said, that in shutdown mode, the operation of government moves really over to the executive branch entirely and specifically within it to the Office of Management and Budget, which is led by a near maniacal crank named Russell Vogt, who's been neck deep in the 2025 project. So you can expect him to have this be his happiest day ever, as he can go about his long sought purpose to disassemble the federal government. Then when we try to get back out of shutdown, guess who's going to have to bring us back out? It's going to be Republicans in Congress and Trump. So they'll bring out Defense first. They'll bring out veterans. They'll bring out security. Do they ever bring out the Environmental Agency? Do they ever bring out the Department of Education? So it puts enormous, unprecedented power into the hands of a very dangerous group of individuals."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you see this as being a more than two-year issue? Do you see Republicans maintaining control of both the House and the Senate? I guess my question is really, do you see Republicans at any point saying no to any of this agenda? And I guess if they start saying no, what is going to push them there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. At some point, they're going to have to. I mean, the thing that might come up next is when they go from the budget reconciliation bill that just put big numbers for cuts on the account that Medicaid is in. So you can obviously deduce that huge Medicaid cuts are coming to the next step where they actually have to write the language targeting Medicaid. And I think there are going to be a bunch of decisions like that. Do they really want to let Musk wreck Social Security so that the private equity people they sent over there can step in and take it over? I think Trump is going to force them to take some very tough votes. And as his popularity declines, which it is, it'll be easier and easier for them to rally into a group that can say, hey, enough of this."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What about the complaint among some of your Democratic colleagues that the party is living in the past, that the lawmakers, yourself included, who lived during the era before Donald Trump, just have not experienced or have experienced a different time where there was comedy, where there was agreement, where there was compromise, where it worked better, and are still trying to hang on to that. And there's a new generation of lawmakers who are coming in and saying the time for compromise is over. It's a time to make this a blood sport, to fight and to fight and to fight."
+      }
+    ],
+    "speakername": "Sheldon Whitehouse",
+    "ground_truth": "I think I might be more with that new generation that you might think. I've been longing for us to have a proper democratic war room. I've been longing for us to take the fight to the dark money barons who have corrupted our government. I've been longing to take on the climate denial operation run by the fossil fuel billionaires. I've been longing to take on the operation that captured the court and turned it into an operation of the billionaires behind the Republican Party. We have huge, huge fights that we can and should win, but we'll do better in those fights if we actually take them on. The question here with the CR is, does giving control of the executive branch for an undetermined period of time to Russell vote Elon Musk and President Trump actually advance that agenda?",
+    "bio": "The target (born October 20, 1955) is an American lawyer and politician serving as a junior United States Senator from a northeastern state since 2007. A member of the Democratic Party, they served as a United States Attorney from 1993 to 1998 and the 71st Attorney General of their state from 1999 to 2003. The speaker's MBTI type is INTJ"
+  }
+]

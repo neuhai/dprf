@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. So I want to clarify, you're bringing up that software that we've been talking about coming from [state], but it's been used in several other states. Was this software used statewide in [state], Congressman?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, only in [county], interestingly enough. And the same thing in [state]. Only in [state], only in [city]. Isn't that interesting?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Wow. And [county], I've never lived in [state], lived in [city]. [county] is a toss up. I mean, you've got tons of independents, libertarians, lots of Republicans, lots of Democrats. So [county]'s a toss up. But isn't [county] in [state] typically."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I would say heavily represented by conservatives and Republicans."
+      }
+    ],
+    "speakername": "Paul Gosar",
+    "ground_truth": "It should be, but it's changing those dynamics, [name], just because of the influx of people. So that's a great state of [city] or the big county. So you should have a pretty good beat across the side.",
+    "bio": "The subject is a far-right politician and former dentist who is the U.S. representative for [state]'s 4th congressional district since 2013. A Republican, they were elected in 2010 to represent the neighboring 1st congressional district until redistricting. Their support of conspiracy theories, as well as alleged ties to certain political groups and controversial ideologies have sparked controversy. The subject opposes the healthcare reform act, abortion, gun control, and immigration. They have been a strong ally of a former president, and voted to overturn the results of the 2020 U.S. presidential election. On November 17, 2021, they were censured by the legislative body and stripped of committee assignments for posting on social media a modified anime clip depicting them attacking another representative. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Republicans in it than you'd represented before so you're introducing yourself to some people And so and you worked really hard like you always do. So what are you hearing? What did you hear in the state and congratulations you won with well over 60% of the vote. So Congratulations on that. But what did you hear on the campaign trail?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you, Rick, for the congratulations. Well, what we heard is that America wants fighters. You know, they may not agree with you on everything, but the fact that you're standing up for them, that's what they want. Particularly in this time that we find ourselves, a very unusual time where it seems like the rule of law has been cast aside and big government is trying to flex its muscles and take over everything. So what we heard is thank you very much for fighting. Taking a lot of hits, but we appreciate it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wow, and I think that's a great testimony to your staff who basically got the word out to people about what you were doing, because we know that you became a target of the left, pretty aggressively of the left, trying to make it so you were minimized and your impact was minimized. And really, the people back home understand that when you're landing punches, the other side does everything they can to try to make it lessen the blows. And so they attack you personally and professionally."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So that's."
+      }
+    ],
+    "speakername": "Paul Gosar",
+    "ground_truth": "Well, you know, the thing about it is my mom always taught me, Rick, sticks and stones may break my bones, but names will never hurt me. So I think we live by that adage. You know, they have a lot of name calling. They don't have much.",
+    "bio": "The subject is a far-right politician and former dentist who is the U.S. representative for a congressional district since 2013. A Republican, they were elected in 2010 to represent a neighboring district until redistricting. Their support of conspiracy theories, as well as alleged ties to certain political groups and controversial views have sparked debate. They oppose certain healthcare legislation, abortion, gun control, and immigration. They have been a strong ally of a former president, and voted to contest the results of the 2020 U.S. presidential election. In late 2021, they were censured by the legislative body and stripped of committee assignments for posting controversial social media content. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "against you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, that's 100% correct. We have a Senate race, obviously, I think you were unopposed in your congressional race, is that correct? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I had three challengers in my congressional race, and so we did a pretty darn good job in getting a message out and letting people find out who we were. And from that standpoint, we also had a Senate race here in the state. That was a crowded field. There were five really good candidates, and Blake Masters came out on the victor side on that one."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, and it's it's going to create an interesting uh, Control the senate may run through [state], which make it a pretty late night for those of us on the east coast but it's a I mean we see Senator mark kelly the democrat who Has distinguished himself from Uh, the other senator from [state] kirsten cinema and that he has he hasn't seen a biden policy that he hasn't Embraced and and run toward whereas cinema's been a little bit more in the set tried to play a little more in the center um still Liberal very liberal, but she's at least been Uh unwilling to take down the filibuster and the like So, you know is mark kelly too too liberal for [state] or do people even know that he's that liberal?"
+      }
+    ],
+    "speakername": "Paul Gosar",
+    "ground_truth": "Well, I think that, you know, the media does a lot of coverage for him, Rick. You know, he gets that kind of a scapegoat aspect to his outlook. But it's going to catch up with him. And people want him gone. You know, this is a guy that, as you said earlier, embraces every policy. He doesn't bark. He doesn't bite. He just goes along with the status quo. So Kyrsten Sinema has been one of those people, like you said, who stopped the filibuster, which could have been catastrophic for us, for this country. So I think it's going to be a hard-fought race. They're already starting to bludgeon Blake. He's very conservative. He believes in life. He believes in limited government. So, you know, it's going to be an interesting take to see where this nation wants to go.",
+    "bio": "The target is a far-right politician and former dentist who is the U.S. representative for [state]'s 4th congressional district since 2013. A Republican, he was elected in 2010 to represent the neighboring 1st congressional district until redistricting. The target's support of conspiracy theories, as well as alleged ties to certain political groups and controversial views have sparked controversy. The target opposes certain healthcare legislation, abortion, gun control, and immigration. He has been a strong ally of a former president, and voted to challenge the results of the 2020 U.S. presidential election. In late 2021, the target was censured by the legislative body and stripped of committee assignments for posting controversial social media content. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Unfortunately, the scrutiny that he's gone through, nobody's gone through the scrutiny that he has and come out squeaky clean. So from that standpoint, I admire the man. I want to see the affidavit being put out so that we find out what they were fishing for. And now we got to get back to the power of the purse, Rick, and we need to unfund some of these institutions. Why can't the states take some of the load from the FBI? We need to return to equal application of the law. It's not been present at all. You saw Hillary Clinton erase 30,000 classified emails. You saw the Russiagate. All this is made up, and yet we still see them pursuing this man. So from that standpoint, I think we got to get back to loving this country, getting back to believing in a constitution, because if you don't believe in the constitution and you don't have both sides. Not only approving of it, but embracing the rule of law that conforms to it, you have nothing. You have just a piece of paper. So we got to get back to that belief that this country is worth every dime and ounce of energy to get back to the way we were."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "MIKE GREEN I couldn't agree more. I wanted to talk to you about a piece of legislation that you're looking at filing, an issue that I think a lot of people don't think much about until they get a little bit older. But everybody out there who works for a living knows there's this FICA fellow who takes a bunch of their money every paycheck. This depositing into your bank account, auto deposit kind of makes it so we don't see the FICA fellow as much on our check. But we get money withdrawn every paycheck for Social Security, Medicare, and the like. And you noticed something about the Social Security benefits, which come from money that you had taken out and withheld from your use for 30, 40, 50 years sometimes. Those Social Security benefits are taxed, just the same as if they'd been earned income. And you're kind of checking out and trying to figure out if there's something that might be done about that. Tell me what you're trying to do and what it looks like."
+      },
+      {
+        "speaker": "[target]",
+        "text": "so it's kind of a whole apparatus looking at this rick kind of wholesale you know first of all we saw social security never was contemplated to look at inflation so that the benefit you got in 1983 is not the same benefit adding inflation uh to the benefits you get today so we that's one of the reasons why we put forward no taxation for social security benefit and the second piece that we wanted to do was why not allow people to have extra income now currently there is this this rule that if you're below a retirement age for every dollar that you make over the allowed amount they take one out of every two dollars in tax a 50 tax if you're a retirement age they'll take one of three why should that be if you're trying to help out uh yourself by having a second job why why does it hurt you've put away these benefits they should be they should be uh therefore you for like as you said for 30 to 40 years you put away we also got to go back and start looking at programs that don't address uh or give uh maybe employers an undue uh uh advantage for example one of them i bring up on the immigration front they came to the bush administration it's called the opt program the optional practical training program this incentivizes big companies to hire foreign workers at a much reduced rate it also gives those employers a 15.5 percent discount that's the matching withholding money from the from the employer to yours is taken out of your check so what happens is these people will be eligible for this uh social security and medicare but they're not paying anywhere near what should be being paid it's like double dipping"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Paul Gosar",
+    "ground_truth": "We've really got to get to the core issue of all these different aspects and to take some prodding and some push and a dog going after a bone to make sure that people get what they were promised.",
+    "bio": "Paul Anthony Gosar (/ËÉ¡oÊsÉËr/ GOH-sar; born November 27, 1958) is an American far-right politician and former dentist who is the U.S. representative for Arizona's 4th congressional district since 2013. A Republican, he was elected in 2010 to represent the neighboring 1st congressional district until redistricting. Gosar's support of conspiracy theories, as well as alleged ties to the Proud Boys, Oath Keepers, and Holocaust deniers have sparked controversy. Gosar opposes the Affordable Care Act, abortion, gun control, and immigration. He has been a strong ally of former president Donald Trump, and voted to overturn the results of the 2020 U.S. presidential election. On November 17, 2021, Gosar was censured by the House of Representatives and stripped of committee assignments for posting on social media a photoshopped anime clip depicting him killing a giant with Representative Alexandria Ocasio-Cortez's face. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Republicans in it than you'd represented before so you're introducing yourself to some people And so and you worked really hard like you always do. So what are you hearing? What did you hear in [state] and congratulations you won with well over 60% of the vote. So Congratulations on that. But what did you hear on the campaign trail?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you, Rick, for the congratulations. Well, what we heard is that America wants fighters. You know, they may not agree with you on everything, but the fact that you're standing up for them, that's what they want. Particularly in this time that we find ourselves, a very unusual time where it seems like the rule of law has been cast aside and big government is trying to flex its muscles and take over everything. So what we heard is thank you very much for fighting. Taking a lot of hits, but we appreciate it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow, and I think that's a great testimony to your staff who basically got the word out to people about what you were doing, because we know that you became a target of the left, pretty aggressively of the left, trying to make it so you were minimized and your impact was minimized. And really, the people back home understand that when you're landing punches, the other side does everything they can to try to make it lessen the blows. And so they attack you personally and professionally."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So that's."
+      }
+    ],
+    "speakername": "Paul Gosar",
+    "ground_truth": "Well, you know, the thing about it is my mom always taught me, Rick, sticks and stones may break my bones, but names will never hurt me. So I think we live by that adage. You know, they have a lot of name calling. They don't have much.",
+    "bio": "The representative was born November 27, 1958 and is an American politician and former dentist who is the U.S. representative for a congressional district since 2013. A member of his party, he was elected in 2010 to represent a neighboring district until redistricting. His support of certain theories, as well as alleged ties to certain political groups have sparked controversy. He opposes certain healthcare legislation, abortion, gun control, and immigration. He has been a strong ally of a former president, and voted to challenge the results of the 2020 U.S. presidential election. In late 2021, he was censured by the legislative body and stripped of committee assignments for posting controversial social media content. The speaker's MBTI type is ESTP"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. I'm happy to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We're in the home stretch. How are you feeling heading into election day?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I feel good. We just came in from [major city]. We're at [university] and [university]. We're here in [city], which will probably be the last time I get to be here, and really kind of feeling overwhelmed with gratitude for the way that we've been supported in this community. Every time we've showed up, people have turned out. I was seeing pictures from outside of [university] today, people in line two hours deep in order to cast that ballot. So, you know, everything's on the line in this election. A woman's right to choose, a kid's right to survive the school year without being shot in their classroom. You know, our right to come together as a people, as a state without being defined and divided by our differences, and we want to make sure that we win, and the people in [city] are doing the work to make sure that we win. So, I feel really good coming back here."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "From the polls to the fundraising, this has been a tight race for you, but it cannot be lost on you the fact that a Democrat has not won a statewide election in [state] in almost 30 years. What is it going to take for a Democrat to win a seat here?"
+      }
+    ],
+    "speakername": "Beto O'Rourke",
+    "ground_truth": "We've got to bring out the people that we haven't heard from yet, whose votes haven't been counted, whose voices haven't been heard. The very people who are the targets of voter suppression and voter intimidation. If we can bring them out, they're the majority that's out there that would never stand for a total abortion ban without exception for rape or incest or a grid failure in the middle of the energy capital of the world or this exodus of teacher talent that we're seeing from our schools right now. But they've been the targets of this effort to disenfranchise our fellow residents by the millions. So our campaign is all about knocking on their doors, bringing them in and making sure that they vote when they vote. We win. And so far, what we're seeing as we look at turnout around the state and the people who are turning out for the first time in their lives is very encouraging.",
+    "bio": "The subject is an American businessman and politician who represented a congressional district for three terms in the United States House of Representatives. A native of [city], the subject served on the [city] City Council from 2005 to 2011. The subject was elected to the U.S. House of Representatives in 2012 after defeating an incumbent in a Democratic primary. The subject declined to seek re-election to the House in 2018 and instead ran for U.S. Senate. As the 2018 Democratic U.S. Senate nominee, the subject was defeated by Republican incumbent Senator. The speaker's MBTI type is ENFP",
+    "speaker": "Beto O'Rourke"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I feel good. We just came in from [city]. We're at [university] and [university]. We're here in [city], which will probably be the last time I get to be here, and really kind of feeling overwhelmed with gratitude for the way that we've been supported in this community. Every time we've showed up, people have turned out. I was seeing pictures from outside of [university] today, people in line two hours deep in order to cast that ballot. So, you know, everything's on the line in this election. A woman's right to choose, a kid's right to survive the school year without being shot in their classroom. You know, our right to come together as a people, as a state without being defined and divided by our differences, and we want to make sure that we win, and the people in [city] are doing the work to make sure that we win. So, I feel really good coming back here."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "From the polls to the fundraising, this has been a tight race for you, but it cannot be lost on you the fact that a Democrat has not won a statewide election in [state] in almost 30 years. What is it going to take for a Democrat to win a seat here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We've got to bring out the people that we haven't heard from yet, whose votes haven't been counted, whose voices haven't been heard. The very people who are the targets of voter suppression and voter intimidation. If we can bring them out, they're the majority that's out there that would never stand for a total abortion ban without exception for rape or incest or a grid failure in the middle of the energy capital of the world or this exodus of teacher talent that we're seeing from our schools right now. But they've been the targets of this effort to disenfranchise our fellow residents by the millions. So our campaign is all about knocking on their doors, bringing them in and making sure that they vote when they vote. We win. And so far, what we're seeing as we look at turnout around the state and the people who are turning out for the first time in their lives is very encouraging."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The message then you feel resonating with those folks."
+      }
+    ],
+    "speakername": "Beto O'Rourke",
+    "ground_truth": "Absolutely. And it's also helped by our current governor. I mean, after eight years of [politician], you have some of the highest property taxes in the country, some of the highest utility bills anywhere. You have him as the major driver of inflation. Homicides up 50% after he ignored advice from law enforcement and signed permitless carry into law. We lead the nation in school shootings, gun violence, the leading cause of death for children and teenagers. None of us are okay with this. And all of us want some kind of change. And those who will be voting in this election, either they voted early or they'll vote Tuesday on election day, I believe they're going to be voting for change.",
+    "bio": "A businessman and politician who represented [state]'s 16th congressional district for three terms in the [government institution]. A native of [city], the speaker served on the [city] City Council from 2005 to 2011. The speaker was elected to the [government institution] in 2012 after defeating incumbent [politician] in a Democratic primary. The speaker declined to seek re-election to the House in 2018 and instead ran for U.S. Senate. As the 2018 Democratic U.S. Senate nominee, the speaker was defeated by Republican incumbent Senator [politician]. The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We've got to bring out the people that we haven't heard from yet, whose votes haven't been counted, whose voices haven't been heard. The very people who are the targets of voter suppression and voter intimidation. If we can bring them out, they're the majority that's out there that would never stand for a total abortion ban without exception for rape or incest or a grid failure in the middle of the energy-rich region or this exodus of teacher talent that we're seeing from our schools right now. But they've been the targets of this effort to disenfranchise our fellow residents by the millions. So our campaign is all about knocking on their doors, bringing them in and making sure that they vote when they vote. We win. And so far, what we're seeing as we look at turnout around the state and the people who are turning out for the first time in their lives is very encouraging."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The message then you feel resonating with those folks."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. And it's also helped by our current governor. I mean, after eight years of the current administration, you have some of the highest property taxes in the country, some of the highest utility bills anywhere. You have him as the major driver of inflation. Homicides up 50% after he ignored advice from law enforcement and signed permitless carry into law. We lead the nation in school shootings, gun violence, the leading cause of death for children and teenagers. None of us are okay with this. And all of us want some kind of change. And those who will be voting in this election, either they voted early or they'll vote Tuesday on election day, I believe they're going to be voting for change."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, the current governor has spent his time painting you as being wrong for the state, attacking some of your policies, and chief among them, the border, saying that you want open borders. He's spreading, you know, that sort of message about your policy. What do you say to that?"
+      }
+    ],
+    "speakername": "Beto O'Rourke",
+    "ground_truth": "It's interesting. He's been the governor of the state for eight years. So what we have on the border right now, these stunts of busing migrants to major cities, more encounters at the border after the state border operation and $4 billion of taxpayer money spent than before the operation. This is all on him. What I want to do as a resident of the border region, who with my wife is raising our three kids on the border, is to make sure that we have solutions, things like a state-based guest worker program, so that if you want to come to this country, you've got to follow the law. And our laws are going to follow our values, our interests, and our economic needs as well. We are a state of immigrants. We understand this issue better than anyone else. It's time that we started to lead on it. And when we vote for change on November 8th, we'll have somebody who will lead on it.",
+    "bio": "The target is an American businessman and politician who represented a congressional district for three terms in the national legislature. A native of a major southwestern city, the target served on the City Council from 2005 to 2011. The target was elected to the legislature in 2012 after defeating an incumbent in a Democratic primary. The target declined to seek re-election to the legislature in 2018 and instead ran for U.S. Senate. As the Democratic nominee, the target was defeated by the Republican incumbent Senator. The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. And it's also helped by our current governor. I mean, after eight years of the current governor, you have some of the highest property taxes in the country, some of the highest utility bills anywhere. You have him as the major driver of inflation. Homicides up 50% after he ignored advice from law enforcement and signed permitless carry into law. We lead the nation in school shootings, gun violence, the leading cause of death for children and teenagers. None of us are okay with this. And all of us want some kind of change. And those who will be voting in this election, either they voted early or they'll vote Tuesday on election day, I believe they're going to be voting for change."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, the current governor has spent his time painting you as being wrong for the state, attacking some of your policies, and chief among them, the border, saying that you want open borders. He's spreading, you know, that sort of message about your policy. What do you say to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's interesting. He's been the governor of the state for eight years. So what we have on the border right now, these stunts of busing migrants to [city1] or [city2], more encounters at the border after the state security operation and $4 billion of taxpayer money spent than before the operation. This is all on him. What I want to do as a resident of the border, who with my wife Amy is raising our three kids on the border, is to make sure that we have solutions, things like a state-based guest worker program, so that if you want to come to this country, you've got to follow the law. And our laws are going to follow our values, our interests, and our economic needs as well. We are a state of immigrants. We understand this issue better than anyone else. It's time that we started to lead on it. And when we vote for change on November 8th, we'll have somebody who will lead on it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, one of the other things he's doing throughout this campaign and some of the ads is just aligning you with the current president, saying that your stances are his stances. What's your message to residents who may not be fans of the president?"
+      }
+    ],
+    "speakername": "Beto O'Rourke",
+    "ground_truth": "I'm all about this state, and so whether you voted for the former president or whether you voted for the current president doesn't matter to me. No me importa. What matters most is that you're here right now in this state, and we have a chance to work together to make sure that we have the best public schools in America, that we expand healthcare so you can afford to see a doctor or fill a prescription or take your kiddo to a therapist. We want the best jobs in America created right here in the state, and we want to restore every woman's right to make her own decisions about her own body and her own future. On that much, the people of this state, regardless of who they like for president, can agree. And that's the way I'm going to bring this deeply divided state to make sure that we do things that are big, that are in our common interests, and that are found on the common ground right in front of us.",
+    "bio": "A businessman and politician who represented his state's congressional district for three terms in the national legislature. A native of a major border city, [target] served on the City Council from 2005 to 2011. [target] was elected to the national legislature in 2012 after defeating the incumbent in a primary. [target] declined to seek re-election in 2018 and instead ran for Senate. As the party nominee, [target] was defeated by the incumbent Senator. The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's interesting. He's been the governor of the state for eight years. So what we have on the border right now, these stunts of busing migrants to major northern cities, more encounters at the border after the state security operation and $4 billion of state taxpayer money spent than before the operation. This is all on him. What I want to do as a resident of the border, who with my wife is raising our three kids on the border, is to make sure that we have solutions, things like a state-based guest worker program, so that if you want to come to this country, you've got to follow the law. And our laws are going to follow our values, our interests, and our economic needs as well. We are a state of immigrants. We understand this issue better than anyone else. It's time that we started to lead on it. And when we vote for change on November 8th, we'll have somebody who will lead on it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, one of the other things he's doing throughout this campaign and some of the ads is just aligning you with the President, saying that your stances are his stances. What's your message to residents who may not be fans of the president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm all about this state, and so whether you voted for the former president or whether you voted for the current president doesn't matter to me. No me importa. What matters most is that you're here right now in this state, and we have a chance to work together to make sure that we have the best public schools in America, that we expand healthcare so you can afford to see a doctor or fill a prescription or take your kiddo to a therapist. We want the best jobs in America created right here in the state, and we want to restore every woman's right to make her own decisions about her own body and her own future. On that much, the people of this state, regardless of who they like for president, can agree. And that's the way I'm going to bring this deeply divided state to make sure that we do things that are big, that are in our common interests, and that are found on the common ground right in front of us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Throughout your campaign and even just now, you're talking about some of the things that you want to do if you are elected governor of this state. The reality is the way that the maps were drawn in the past legislative session, that past special session, the House and the Senate are both suspected or expected to remain red. How are you going to get your agenda passed? How are you going to get those things done if you don't have the House and the Senate?"
+      }
+    ],
+    "speakername": "Beto O'Rourke",
+    "ground_truth": "My whole life, I've sought out that ability to find common ground with people who I might not otherwise agree on. As a small business owner in a border city or a member of the city council or a member of the minority in Congress for six years, I got a lot of legislation passed only because I was able to find that Republican who could find common ground with me. I even got some of those bills signed by the former president into law. I don't agree with him on much, but on issues of veterans or preserving protected public lands, we can find some common ground there. So I plan to do that with Republicans and Democrats in the legislature. And I'm going to begin with the things that we actually agree on. World-class public schools, healthcare expansion, and investment in our communities so we attract better and higher-paying jobs to our state.",
+    "bio": "The speaker is an American businessman and politician who represented a congressional district for three terms in the United States House of Representatives. A native of a border city, the speaker served on the City Council from 2005 to 2011. The speaker was elected to the U.S. House of Representatives in 2012 after defeating an incumbent in a Democratic primary. The speaker declined to seek re-election to the House in 2018 and instead ran for U.S. Senate. As the 2018 Democratic U.S. Senate nominee, the speaker was defeated by the Republican incumbent Senator. The speaker's MBTI type is ENFP"
+  }
+]

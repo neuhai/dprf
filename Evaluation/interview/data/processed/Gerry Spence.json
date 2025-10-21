@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, what could a poor rural boy do who was fairly vocal, but he didn't want to be a preacher? I mean, who used their speaking talents if they had whatever they had in that regard? How would you use them? I didn't want to be a preacher. I didn't want to be a teacher. And I never knew a lawyer. And I'd read some stories about great lawyers and thought that maybe that would be really fun to be a lawyer. So that's what happened."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You know, I was wondering, you know, when you started out as a young lawyer, whether you regarded it as a job or as a life?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it was an opportunity to feed my face and the face of my wife and the face of my children. I had one child and was another one on the way. So it was a means by which to make a living."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "At one point, actually, you decided to ditch the law and take up painting. What led to that, and how did that work out?"
+      }
+    ],
+    "speakername": "Gerry Spence",
+    "ground_truth": "Well, the law, as I saw it at that time, was broken. And as I see it today, I still see that the justice system of this country is severely broken and does not offer anything except a promise, an empty promise to people of liberty and justice for all. It is not there. People can't get justice in this country. People believe that they can get justice until they need it, and then they can't get it. And I was about 38 years old. I had been in the law since I was 24 years old. I had accomplished about everything I could accomplish in this state. I had every verdict record in the state. I had the largest verdicts that people had ever heard of in this state. I'd never lost a criminal. I'd never been in a trial. And yet I wasn't getting, I wasn't providing, I was not providing justice. I couldn't provide justice. The system was wrong. And so what I thought to myself, what can I do with my life that would help this? And I thought, you know, maybe I'm a painter. I painted, began painting in my first marriage in the misery of my life. And I would paint out my misery, and I'd paint out my imaginations and my senses and my feelings. And the paintings were stacking up, and I got a great deal of pleasure from that and relief. And I thought, maybe I should become a painter, because I could teach people a lot about living through painting. Painting is nothing but a metaphor. Painting is nothing but a metaphor of life. Painting is nothing but a metaphor of life.",
+    "bio": "The speaker (born January 8, 1929) is a semi-retired trial lawyer. He is a member of the National Trial Lawyers Hall of Fame. The speaker has never lost a criminal case either as a prosecutor or a defense attorney. He has not lost a civil case since 1969. The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it was an opportunity to feed my face and the face of my wife and the face of my children. I had one child and was another one on the way. So it was a means by which to make a living."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "At one point, actually, you decided to ditch the law and take up painting. What led to that, and how did that work out?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the law, as I saw it at that time, was broken. And as I see it today, I still see that the justice system of this country is severely broken and does not offer anything except a promise, an empty promise to people of liberty and justice for all. It is not there. People can't get justice in this country. People believe that they can get justice until they need it, and then they can't get it. And I was about 38 years old. I had been in the law since I was 24 years old. I had accomplished about everything I could accomplish in the state. I had every verdict record in the state. I had the largest verdicts that people had ever heard of in this state. I'd never lost a criminal. I'd never been in a trial. And yet I wasn't getting, I wasn't providing, I was not providing justice. I couldn't provide justice. The system was wrong. And so what I thought to myself, what can I do with my life that would help this? And I thought, you know, maybe I'm a painter. I painted, began painting in my first marriage in the misery of my life. And I would paint out my misery, and I'd paint out my imaginations and my senses and my feelings. And the paintings were stacking up, and I got a great deal of pleasure from that and relief. And I thought, maybe I should become a painter, because I could teach people a lot about living through painting. Painting is nothing but a metaphor. Painting is nothing but a metaphor of life. Painting is nothing but a metaphor of life."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You've written about an incident that changed your life after your years as a corporate lawyer for insurance companies. Can you describe that day?"
+      }
+    ],
+    "speakername": "Gerry Spence",
+    "ground_truth": "Well, this corporate representative was defending an insurance company on behalf of a drunken woman who ran into an old man who was about ready to retire. He'd worked all of his life at an industrial facility in a mid-sized city. Can you imagine what it would be to spend your whole life working in such a facility, hoping that someday you could retire? And he was just retired and was going to spend his time with something that he'd wanted to do all of his life, and that was to be with his grandchildren and to go out and do other things and to hike and to go fishing and all of these things. And he was injured by this woman that would never recover. And I took him on. They put him on the stand, and I took him on. And when I was finished with my cross-examination, he didn't look good to the jury. And the jury didn't give him anything. And a woman, with whom I was having an affair, saw this going on, and she walked out of the courtroom. Just going out of that courtroom just like this, you know. And I stopped the cross-examination in the middle of that cross-examination and ran out after her. This is how arrogant and how much I believe it. Does the judge have anything to say about that? Oh, no. I own this whole world as far as I was concerned.",
+    "bio": "The subject (born January 8, 1929) is a semi-retired trial lawyer. He is a member of the National Trial Lawyers Hall of Fame. The subject has never lost a criminal case either as a prosecutor or a defense attorney. He has not lost a civil case since 1969. The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "At one point, actually, you decided to ditch the law and take up painting. What led to that, and how did that work out?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the law, as I saw it at that time, was broken. And as I see it today, I still see that the justice system of this country is severely broken and does not offer anything except a promise, an empty promise to people of liberty and justice for all. It is not there. People can't get justice in this country. People believe that they can get justice until they need it, and then they can't get it. And I was about 38 years old. I had been in the law since I was 24 years old. I had accomplished about everything I could accomplish in the state of Wyoming. I had every verdict record in the state. I had the largest verdicts that people had ever heard of in this state. I'd never lost a criminal. I'd never been in a trial. And yet I wasn't getting, I wasn't providing, I was not providing justice. I couldn't provide justice. The system was wrong. And so what I thought to myself, what can I do with my life that would help this? And I thought, you know, maybe I'm a painter. I painted, began painting in my first marriage in the misery of my life. And I would paint out my misery, and I'd paint out my imaginations and my senses and my feelings. And the paintings were stacking up, and I got a great deal of pleasure from that and relief. And I thought, maybe I should become a painter, because I could teach people a lot about living through painting. Painting is nothing but a metaphor. Painting is nothing but a metaphor of life. Painting is nothing but a metaphor of life."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You've written about an incident that changed your life after your years as a corporate lawyer for insurance companies. Can you describe that day?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, this gunslinger, this corporate gunslinger was defending an insurance company on behalf of a drunken woman who ran into an old man who was about ready to retire. He'd worked all of his life at a refinery in Casper. Can you imagine what it would be to spend your whole life working in a refinery, hoping that someday you could retire? And he was just retired and was going to spend his time with something that he'd wanted to do all of his life, and that was to be with his grandchildren and to go out and do other things and to hike and to go fishing and all of these things. And he was injured by this woman that would never recover. And I took him on. They put him on the stand, and I took him on. And when I was finished with my cross-examination, he didn't look good to the jury. And the jury didn't give him anything. And Imogene, with whom I was having an affair, saw this going on, and she walked out of the courtroom. Little old Fanny just going out of that courtroom just like this, you know. And I stopped the cross-examination in the middle of that cross-examination and ran out after her. This is how arrogant and how much I believe it. Does the judge have anything to say about that? Oh, no. I own this whole world as far as I was concerned."
+      }
+    ],
+    "speakername": "Gerry Spence",
+    "ground_truth": "And I said, What's the matter? Where are you going? And she said, That's disgusting, what you did to that old man. So later on, she and I are at Safeway buying some kind of goodies for a celebration. And in front of me is this old man. And he's hobbling along, and he turns around, and I see who he is. And I say, Oh, well, hello, sir. I said, I'm sorry what happened today in your case. He said, Oh, that's all right, Mr. Spence. He said, You were just doing your job. And I thought, Is that my job? To cheat old men out of justice? So that night, I'm with Imogene, and I said to Imogene, Is that my job? And she didn't answer. These women, you know, know sometimes how powerful silence is. Something, by the way, that lawyers need to learn in a courtroom. In any event, I thought about it all night. And the next morning, I got up, and I told my partner, Bob Rose, who later became the chief. Chief of the Wyoming Supreme Court, Chief Justice of the Wyoming Supreme Court. I said, Bob, we are going to, we're not going to represent any more companies. I sent out letters to 40 insurance companies, and we've never looked back. It changed our lives.",
+    "bio": "Gerald Leonard SpenceÂ (born January 8, 1929) is a semi-retired American trial lawyer. He is a member of the American Trial Lawyers Hall of Fame.Â Spence has never lost a criminal case either as a prosecutor or a defense attorney. He has not lost a civil case since 1969. The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You've written about an incident that changed your life after your years as a corporate lawyer for insurance companies. Can you describe that day?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, this corporate gunslinger was defending an insurance company on behalf of a drunken woman who ran into an old man who was about ready to retire. He'd worked all of his life at a refinery in a western city. Can you imagine what it would be to spend your whole life working in a refinery, hoping that someday you could retire? And he was just retired and was going to spend his time with something that he'd wanted to do all of his life, and that was to be with his grandchildren and to go out and do other things and to hike and to go fishing and all of these things. And he was injured by this woman that would never recover. And I took him on. They put him on the stand, and I took him on. And when I was finished with my cross-examination, he didn't look good to the jury. And the jury didn't give him anything. And Imogene, with whom I was having an affair, saw this going on, and she walked out of the courtroom. Little old Fanny just going out of that courtroom just like this, you know. And I stopped the cross-examination in the middle of that cross-examination and ran out after her. This is how arrogant and how much I believe it. Does the judge have anything to say about that? Oh, no. I own this whole world as far as I was concerned."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I said, What's the matter? Where are you going? And she said, That's disgusting, what you did to that old man. So later on, she and I are at a grocery store buying some kind of goodies for a celebration. And in front of me is this old man. And he's hobbling along, and he turns around, and I see who he is. And I say, Oh, well, hello, sir. I said, I'm sorry what happened today in your case. He said, Oh, that's all right, Mr. [target]. He said, You were just doing your job. And I thought, Is that my job? To cheat old men out of justice? So that night, I'm with Imogene, and I said to Imogene, Is that my job? And she didn't answer. These women, you know, know sometimes how powerful silence is. Something, by the way, that lawyers need to learn in a courtroom. In any event, I thought about it all night. And the next morning, I got up, and I told my partner, Bob, who later became the chief justice of the state supreme court. I said, Bob, we are going to, we're not going to represent any more companies. I sent out letters to 40 insurance companies, and we've never looked back. It changed our lives."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "In the years since, of course, you have had quite a number of very high-profile cases. One that, of course, became famous not only from the case that you argued, but the movie that followed was the case that you argued against a major corporation in the case of a nuclear facility worker. How would you describe the sort of lasting effect of that case?"
+      }
+    ],
+    "speakername": "Gerry Spence",
+    "ground_truth": "Well, I believe that we learned that corporate America would lie. The case developed the proof of that. Maybe they would even kill to make money. We know that they will let people starve. We know that they will cheat old people and young people and helpless people and take their money and claim to be great businessmen. But would they lie? Will they murder to keep the privilege of making money? That's the question that was raised in that case. And the jury answered that question.",
+    "bio": "Born January 8, 1929, [target] is a semi-retired American trial lawyer. He is a member of the American Trial Lawyers Hall of Fame. The speaker has never lost a criminal case either as a prosecutor or a defense attorney. He has not lost a civil case since 1969. The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I said, What's the matter? Where are you going? And she said, That's disgusting, what you did to that old man. So later on, she and I are at a grocery store buying some kind of goodies for a celebration. And in front of me is this old man. And he's hobbling along, and he turns around, and I see who he is. And I say, Oh, well, hello, sir. I said, I'm sorry what happened today in your case. He said, Oh, that's all right, sir. He said, You were just doing your job. And I thought, Is that my job? To cheat old men out of justice? So that night, I'm with Imogene, and I said to Imogene, Is that my job? And she didn't answer. These women, you know, know sometimes how powerful silence is. Something, by the way, that lawyers need to learn in a courtroom. In any event, I thought about it all night. And the next morning, I got up, and I told my partner, Bob, who later became the chief justice of the state supreme court. I said, Bob, we are going to, we're not going to represent any more companies. I sent out letters to 40 insurance companies, and we've never looked back. It changed our lives."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "In the years since, of course, you have had quite a number of very high-profile cases. One that, of course, became famous not only from the case that you argued, but the movie that followed was the case that you argued against the energy company in the case of Karen. How would you describe the sort of lasting effect of that case?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I believe that we learned that corporate America would lie. The case developed the proof of that. Maybe they would even kill to make money. We know that they will let people starve. We know that they will cheat old people and young people and helpless people and take their money and claim to be great businessmen. But would they lie? Will they murder to keep the privilege of making money? That's the question that was raised in the case. And the jury answered that question."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "with a huge verdict. Another case not involving corporations, but in this case the government of course, was the rural compound case involving Randy. Many might say not an attractive client, he was a white supremacist. What made you decide to get involved in that case?"
+      }
+    ],
+    "speakername": "Gerry Spence",
+    "ground_truth": "Well I really didn't have any choice. The government had killed, the government with its unlimited power, had decided that they were going to take the defendant in and prosecute him, and I think wrongfully, for a crime that they caused. They set it up. They set him up to saw off a gun, and an undercover agent did, and then when he did it because he needed the money to buy some school clothes for their kids, they prosecuted him, and then they wanted him to flip and to become a snitch for them and go after others, and he said, I won't do that, and the government then decided they were going to bring him in, and he says, you're not going to bring me in. In effect, that's what it was.",
+    "bio": "The speaker (born January 8, 1929) is a semi-retired American trial lawyer. He is a member of the American Trial Lawyers Hall of Fame. The speaker has never lost a criminal case either as a prosecutor or a defense attorney. He has not lost a civil case since 1969. The speaker's MBTI type is ENTP"
+  }
+]

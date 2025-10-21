@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't live a life with regrets. I would tell you that if you're enjoying life and it's shortly after an election and the phone rings, don't answer the phone, obviously."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, obviously."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But on a more serious note, I was brought up by the greatest generation and I was brought up to believe that government service is an honor, it's a privilege, but it's a duty. And whether the President asks you and they're a Republican or a Democrat, it doesn't matter. As long as you're prepared to do it, as long as you know you can do it, then the response is affirmative."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay, so you took the job, but you resigned after a few years over the policy disagreement. Any regrets about having resigned?"
+      }
+    ],
+    "speakername": "Jim Mad Dog Mattis",
+    "ground_truth": "Well, as you'll all understand, ladies and gentlemen, these are the finest young patriots in our country, signing that blank check payable to all of us with their lives, the men and women of our military. And I loved being back around. It was probably the best job I could have imagined. And I only miss being around those people. There just comes a time, I don't live a life of regrets, there comes a time when you know what you've got to do. So you don't",
+    "bio": "This is [target]. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, as you'll all understand, ladies and gentlemen, these are the finest young patriots in our country, signing that blank check payable to all of us with their lives, the men and women of our military. And I loved being back around. It was probably the best job I could have imagined. And I only miss being around those people. There just comes a time, I don't live a life of regrets, there comes a time when you know what you've got to do. So you don't"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "never look back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I look forward. I'm like Dallas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I wish I could do that. I always look back at the deals I should have done. I wish I had that same ability. But okay, so you disagreed with the President on [location]. And let me ask you, I realize you have been very, very careful about not criticizing the President at all since you've left in any public forum. So I'm not probably going to persuade you to do so here. Not that you want to do so. But the reason that you want to be not commenting on your service as Secretary of Defense or saying anything negative about the President is what? Is it because you're a former cabinet officer, former military person, or just generally think it's not a good policy to do that?"
+      }
+    ],
+    "speakername": "Jim Mad Dog Mattis",
+    "ground_truth": "I resigned over policy disagreement. You're right. I put that disagreement in a page and a half letter. The letter's been released. That's all the more I need to say about it. The French call it a devoir de reserve, a duty of reserve, a duty of quiet. You don't need to have a former Secretary of Defense talking about the current policies in a way that's injurious to the country. And I would point out that Secretary [name] under the previous administration, said the same thing when he would respond to a congressional question that he considered political even while he was there. So it's not unique to me is my point. It's not some protective effort around the President.",
+    "bio": "This is [target]. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "question, David. But like most of us in this room, I'm from the West as well. And there's something we call your ride for the brand. And I can always come out and say on this policy or this strategy, here's where I come down. That's not meant as a personal or political attack. And I don't feel that I need to be silent about those things after that president leaves office. But while the president's there, the last thing we want to do is to have the former Secretary of Defense coming out saying, I disagree with a certain policy. Guess what? The president is still the commander in chief as elected by the American people, and the troops have to obey him. The last thing you want to do is have the troops saying, well, the former Secretary of Defense doesn't agree with that policy. That's why I don't talk about it while they're in office."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So does President call you for advice anymore or not so much? No, the phone hasn't rang on that one. Now, you have recently come out with a book, Call Sign Chaos, with Bing West, and it's a terrific book. I highly recommend it. So explain what Call Sign Chaos means for those who haven't read the book. What does chaos mean there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I was a colonel out in the desert, and I had an operations officer from a major city with a rather droll sense of humor. And one day I was dealing with another one of my brilliant ideas, talking to my operations officer of this regiment of about 7,000 sailors and Marines out in the desert. And as I was walking out, I saw on his whiteboard, chaos written. I said, what's that about? And he said, oh, don't worry about that. You don't need to know about that. And so, oh, yes, I do. So I used some of my powers of persuasion. I waterboarded him. And I found out my irreverent subordinates had decided that my call sign should be chaos. Colonel has another outstanding suggestion. It was rather tongue-in-cheek. They didn't see the brilliance of all my ideas that I identified. So I adopted that as my call sign. And any time you hear chaos, about this nickname thing, my troops all laughed at it, knowing my call sign was chaos. That was never my favorite nickname that the press assigned me on a slow news day. Well, let's talk about that. No, I'd rather not, actually."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Actually, never use that expression. You never describe how you got that. You obviously don't like it. So, you know, I would think being that shows you're tough and so forth. Why don't you like that? And you don't ever use that name. Is that right?"
+      }
+    ],
+    "speakername": "Jim Mad Dog Mattis",
+    "ground_truth": "Well, first, the Marines teach you to be tough in other ways and self-aggrandizing, stuff like that. But I think, too, if you, you know, one thing I've had to do, and you'll all understand this, is sign a lot of next-of-kin letters. The last thing they need is to think there's someone with some, you know, self-image up there with their son's life basically in his hands. So I shy away from those words very much.",
+    "bio": "This is [target]. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first, the military teaches you to be tough in other ways and self-aggrandizing, stuff like that. But I think, too, if you, you know, one thing I've had to do, and you'll all understand this, is sign a lot of next-of-kin letters. The last thing they need is to think there's someone with some, you know, self-image up there with their son's life basically in his hands. So I shy away from those words very much."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "signed more than 800 of those letters? I have. So that must be the most difficult thing to do, is to write to the next of kin that their son or daughter has been killed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's difficult for me. It's nowhere near what the families go through."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you have been very involved in meeting with Gold Star families since you've retired, and that must be a very emotional experience to do that."
+      }
+    ],
+    "speakername": "Jim Mad Dog Mattis",
+    "ground_truth": "I think it's necessary that we pay our respects and we never forget the sacrifices of those families. When you think this great big experiment that we have that you and I call our country, it's going to need to be defended. And we're going to continue to need this sort of commitment, this devotion to our country.",
+    "bio": "This is [target]. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's difficult for me. It's nowhere near what the families go through."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you have been very involved in meeting with Gold Star families since you've retired, and that must be a very emotional experience to do that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it's necessary that we pay our respects and we never forget the sacrifices of those families. When you think this great big experiment that we have that you and I call [country], it's going to need to be defended. And we're going to continue to need this sort of commitment, this devotion to our country."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Your first time in real combat is when [foreign leader] invades [middle eastern country]. When you got into [middle eastern country] relatively quickly, were you surprised at how, relatively speaking, it was easy to get there?"
+      }
+    ],
+    "speakername": "Jim Mad Dog Mattis",
+    "ground_truth": "it was a lot of training and a lot of fire support and it was i'm very proud of that that campaign because it's the last time i brought everyone home alive",
+    "bio": "This is [target]. The speaker's MBTI type is INTJ"
+  }
+]

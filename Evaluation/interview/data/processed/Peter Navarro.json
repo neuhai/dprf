@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hey, Joe, last time we talked, you were on the lawn here of [government building]. And I don't want to tout what's happening today, but I do want to talk about, I think, one of the unsung heroes of the administration's economic boom. And that's the president's fine attention to detail to the defense industrial base. We're going to [state]. We're going to [city]. We're going to visit a company called Deer Co., which is subsidiary Lockheed Martin. It's got about 300 employees. They're increasing their employment, 1,200 suppliers. Basically, they're an integral part of the supply chain, both for defense and commercial. They service things like the Blackhawk helicopter on the military side, Boeing 777. And throughout [state], if you look at Oshkosh Defense builds combat vehicles in [city]. Up in [city], the president and his defense budget played a key role. And saving that shipyard, so it's building a littoral combat ship. Just a few days ago, the president announced that [city], the facility there, which builds, among other things, the Marine One helicopter, is going to stay open. And this was a great example, Joe, of something I don't think any modern president has done, which is to actively engage with corporate executives to figure out a way to keep jobs in America and keep them strong. And so when [city] was announced to close, the president had some discussions with Marilyn Hewson, who will be there today, one of the great CEOs in this country of Lockheed. And so all of these things in the defense industrial base supply chain are creating great jobs. The banner that the president runs under on this is what we call economic security is national security. So when we're creating jobs in [city], or [city], or [city], or [city], with the F-16, or [city], with the tanks, we're not only protecting this country, but we're creating good jobs at good wages."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "jobs and good wages. Does Secretary Mnuchin ever come to you and say, look, I understand the guns and butter arguments. The president has refortified our defense industry, obviously, which probably needed it. But the usually friendly drudge report, the headline, federal spending smashes records, budget deficit widens to 23 percent. Something's got to give, [target]. Jobs are great. Defense industry is great. Where are you going to try to rein things in to allow for this increase in the defense budget?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So what's not going to give is the defense budget. As you know, Joe, the administration years were the years of sequestration on the defense budget. We had radical cuts in defense. And the problem with that is there are a lot of companies in America whose only customer is the U.S. government. And so when they face these radical cuts, they go out of business and we lose skilled craftsmen, whether it's in shipbuilding or aircraft or nuclear, whatever it is. It's very important to this president to have a strong defense. He was able to get a historic increase in the defense budget to make up for all we've lost. So that's what I focus on, Joe, manufacturing and defense industrial base. It's doing good."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "manufacturing and defense industrial base. So probably Mnuchin's like, Mnuchin's pulling his hair out with maybe the budget department. Let me, this is going to kick off a USMCA."
+      }
+    ],
+    "speakername": "Peter Navarro",
+    "ground_truth": "I've never seen Steve pull his hair out, just for the record. It's good to have it. He can do different things, but never that.",
+    "bio": "Born [date], is an American economist and author. Serves in the administration as the Assistant to the President, Director of Trade and Manufacturing Policy, and the national Defense Production Act policy coordinator. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I see two things on the Hill as kind of sui generis, as bipartisan. One is on our policy regarding a certain Asian nation, there's very strong bipartisan support for our policy on the Hill, as there is in the general public. I think the same thing exists for the trade agreement between three North American countries. If you simply run through the numbers, the whole point of this agreement is to bring back our manufacturing base and our supply chain using these rules of origin, strengthened rules of origin, coupled with things Democrats like a lot, which is strong protections for labor and the environment. And I think that... That'll do it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the Ambassador is actively engaged with the Democrats to satisfy them on the enforcement issues, which is what they've raised. I think if this were to go to a floor vote, both sides of the legislative building, would pass it by overwhelming majorities. So the fact is that this deal is good for just about it. Well, for every state and it's for farmers, it's for ranchers, manufacturers, workers. So I hope this doesn't get go down the sinkhole of partisanship. There's been good discussions with the Ambassador and the Democrats. Let's see what happens."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "As close as we get to the election, I don't know. I don't see it. That would be a big win for the President."
+      }
+    ],
+    "speakername": "Peter Navarro",
+    "ground_truth": "once in a while, Joe, Congress rises above itself and does the right thing. Not recently. This could be the, well, this is so important to our economy, Joe. I mean, it affects literally everybody in this country. You know, the giant sucking sound of the old trade agreement going back to 1994 was a disaster, not only economically, but also from an immigration point of view. The President is committed to getting rid of the old agreement. He's done his job. Let's be clear about this. He promised in June of 2016 that he would renegotiate the worst trade deal besides the agreement with the Asian nation that we've ever negotiated. He's done his job. He's brought to the legislative building, the smartest, biggest, most intelligent deal. And he's got the best trade representative in national history, basically is the tip of his spear, who has very good relations with both sides of the aisle. So let's be optimistic for your investors. Joe, if we get this new agreement passed, if we get a rate cut, we're over 30,000 on the Dow, and this market continues, this economy continues strong.",
+    "bio": "[target] (born July 15, 1949) is an economist and author. He serves in the administration as the Assistant to the President, Director of Trade and Manufacturing Policy, and the national Defense Production Act policy coordinator. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think Ambassador Lighthizer is actively engaged with the Democrats to satisfy them on the enforcement issues, which is what they've raised. I think if this were to go to a floor vote, both sides of Capitol Hill, Senate and House would pass it by overwhelming majorities. So the fact is that this deal is good for just about it. Well, for every state and it's for farmers, it's for ranchers, manufacturers, workers. So I hope this doesn't get go down the sinkhole of partisanship. There's been good discussions with Ambassador Lighthizer and the Democrats. Let's see what happens."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "As close as we get to the election, I don't know. I don't see it. That would be a big win for President Trump."
+      },
+      {
+        "speaker": "[target]",
+        "text": "once in a while, Joe, Congress rises above itself and does the right thing. Not recently. This could be the, well, this is so important to our economy, Joe. I mean, it affects literally everybody in this country. You know, the giant sucking sound of NAFTA going back to 1994 was a disaster, not only economically, but also from an immigration point of view. President is committed to getting rid of NAFTA. He's done his job. Let's be clear about this. He promised in June of 2016 that he would renegotiate the worst trade deal besides the China deal that we've ever negotiated. He's done his job. He's brought to Capitol Hill, the smartest, biggest, most intelligent deal. And he's got the best trade representative in U.S. history, basically is the tip of his spear in Robert Lighthizer, who has very good relations with both sides of the aisle. So let's be optimistic for your investors. Joe, if we get U.S. MCA passed, if we get a rate cut, Jay Powell, we're over 30,000 on the Dow, and this market continues, this economy continues strong."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and Jay Powell. We're over 30,000 on the Dow, and this market continues. This economy continues strong. Let's just switch to China quickly, and I'll let Melissa in, too. But there was a report out from DHL. This is just one anecdotal data point, Peter, about global trade is starting to slow. Does it get to the point where both sides are in too much pain to continue, and we get some kind of half deal done with China? Also, the election plays into this as well as we get closer to 2020. Or are you going to hold out for something that's really significant, and will you be able to?"
+      }
+    ],
+    "speakername": "Peter Navarro",
+    "ground_truth": "So we are, in my judgment, in a quiet period, the equivalent of a quiet period for the negotiations. What's happening is Ambassador Lighthizer has talked directly by phone with Leo He, who's his counterpart. He was at the bilat in Osaka sitting right next to President Xi. There's a strong commitment at the bilat to fully engage. Ambassador Lighthizer is going to go to Beijing with the Treasury Secretary in the very near future, and we're going to have constructive talks to deal with these significant structural issues. My advice for investors is to be patient with this process. Don't believe anything you read in either the Chinese or the U.S. press about these negotiations unless it comes from the mouths of either the president or Ambassador Lighthizer. I saw this movie before coming out of Buenos Aires, in December of 2018. Months and months and months, there was just all sorts of stories written that were designed to shape the negotiations, but they really didn't have any insight into them. So be patient. And from an investor's point of view, the big prize now is the rate cut, USMCA, and the fact that this economy is hitting on all cylinders. Record unemployment rates for blacks, Hispanics, women overall. We've got rising wages, particularly for blue-collar workers. We've added five million jobs since the president's been elected, half a million manufacturing jobs compared to the Biden years when they lost 200,000 manufacturing jobs. So as the director of the Office of Trade Manufacturing Policy, I couldn't be more pleased with the president's policies creating good manufacturing jobs. And to bring it back to this defense industrial base, a lot of that is being facilitated by 16 production in Greenville, tank production in Lima, Ohio, shipbuilding in Marinette, and things like that. So it's going to be a great trip today to Milwaukee to see the president talk to a key constituency there in the defense industrial base as he talks about the USMCA. Don't forget the dairy farmers in Wisconsin, who he's coming to the rescue of.",
+    "bio": "Peter Kent Navarro (born July 15, 1949) is an American economist and author. He serves in the Trump administration as the Assistant to the President, Director of Trade and Manufacturing Policy, and the national Defense Production Act policy coordinator. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "once in a while, Joe, Congress rises above itself and does the right thing. Not recently. This could be the, well, this is so important to our economy, Joe. I mean, it affects literally everybody in this country. You know, the giant sucking sound of NAFTA going back to 1994 was a disaster, not only economically, but also from an immigration point of view. President is committed to getting rid of NAFTA. He's done his job. Let's be clear about this. He promised in June of 2016 that he would renegotiate the worst trade deal besides the China deal that we've ever negotiated. He's done his job. He's brought to Capitol Hill, the smartest, biggest, most intelligent deal. And he's got the best trade representative in U.S. history, basically is the tip of his spear in Robert Lighthizer, who has very good relations with both sides of the aisle. So let's be optimistic for your investors. Joe, if we get U.S. MCA passed, if we get a rate cut, Jay Powell, we're over 30,000 on the Dow, and this market continues, this economy continues strong."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and Jay Powell. We're over 30,000 on the Dow, and this market continues. This economy continues strong. Let's just switch to China quickly, and I'll let Melissa in, too. But there was a report out from DHL. This is just one anecdotal data point, Peter, about global trade is starting to slow. Does it get to the point where both sides are in too much pain to continue, and we get some kind of half deal done with China? Also, the election plays into this as well as we get closer to 2020. Or are you going to hold out for something that's really significant, and will you be able to?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So we are, in my judgment, in a quiet period, the equivalent of a quiet period for the negotiations. What's happening is Ambassador Lighthizer has talked directly by phone with Leo He, who's his counterpart. He was at the bilat in Osaka sitting right next to President Xi. There's a strong commitment at the bilat to fully engage. Ambassador Lighthizer is going to go to Beijing with the Treasury Secretary in the very near future, and we're going to have constructive talks to deal with these significant structural issues. My advice for investors is to be patient with this process. Don't believe anything you read in either the Chinese or the U.S. press about these negotiations unless it comes from the mouths of either the president or Ambassador Lighthizer. I saw this movie before coming out of Buenos Aires, in December of 2018. Months and months and months, there was just all sorts of stories written that were designed to shape the negotiations, but they really didn't have any insight into them. So be patient. And from an investor's point of view, the big prize now is the rate cut, USMCA, and the fact that this economy is hitting on all cylinders. Record unemployment rates for blacks, Hispanics, women overall. We've got rising wages, particularly for blue-collar workers. We've added five million jobs since the president's been elected, half a million manufacturing jobs compared to the Biden years when they lost 200,000 manufacturing jobs. So as the director of the Office of Trade Manufacturing Policy, I couldn't be more pleased with the president's policies creating good manufacturing jobs. And to bring it back to this defense industrial base, a lot of that is being facilitated by 16 production in Greenville, tank production in Lima, Ohio, shipbuilding in Marinette, and things like that. So it's going to be a great trip today to Milwaukee to see the president talk to a key constituency there in the defense industrial base as he talks about the USMCA. Don't forget the dairy farmers in Wisconsin, who he's coming to the rescue of."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Speaking of Wisconsin, speaking of manufacturing jobs, I wanted to ask you about Foxconn and what appears to be, so far, a failed promise to build its factory, which it promised a year ago to be a $10 billion factory, employing tens of thousands of people. At the groundbreaking ceremony, President Trump said it would be the eighth wonder of the world. And so far, nothing has happened, even though the state has spent..."
+      }
+    ],
+    "speakername": "Peter Navarro",
+    "ground_truth": "where you're getting that information. I mean, I've talked directly with the Foxconn folks. I've had them in my office. They've shown me the plans. They are hiring construction people. They are committed to their timeline. So as far as I know, they're moving forward with the commitment.",
+    "bio": "Peter Kent Navarro (born July 15, 1949) is an American economist and author. He serves in the Trump administration as the Assistant to the President, Director of Trade and Manufacturing Policy, and the national Defense Production Act policy coordinator. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So we are, in my judgment, in a quiet period, the equivalent of a quiet period for the negotiations. What's happening is Ambassador Lighthizer has talked directly by phone with Leo He, who's his counterpart. He was at the bilateral meeting in Asia sitting right next to the foreign leader. There's a strong commitment at the meeting to fully engage. Ambassador Lighthizer is going to go to the capital with the Treasury Secretary in the very near future, and we're going to have constructive talks to deal with these significant structural issues. My advice for investors is to be patient with this process. Don't believe anything you read in either the foreign or the domestic press about these negotiations unless it comes from the mouths of either the president or Ambassador Lighthizer. I saw this movie before coming out of the previous meeting, in December of 2018. Months and months and months, there was just all sorts of stories written that were designed to shape the negotiations, but they really didn't have any insight into them. So be patient. And from an investor's point of view, the big prize now is the rate cut, trade agreement, and the fact that this economy is hitting on all cylinders. Record unemployment rates for blacks, Hispanics, women overall. We've got rising wages, particularly for blue-collar workers. We've added five million jobs since the president's been elected, half a million manufacturing jobs compared to the previous administration when they lost 200,000 manufacturing jobs. So as the director of the trade and manufacturing policy office, I couldn't be more pleased with the president's policies creating good manufacturing jobs. And to bring it back to this defense industrial base, a lot of that is being facilitated by production in various manufacturing locations across the country. So it's going to be a great trip today to the midwest to see the president talk to a key constituency there in the defense industrial base as he talks about the trade agreement. Don't forget the dairy farmers in that state, who he's coming to the rescue of."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Speaking of that state, speaking of manufacturing jobs, I wanted to ask you about the technology company and what appears to be, so far, a failed promise to build its factory, which it promised a year ago to be a $10 billion factory, employing tens of thousands of people. At the groundbreaking ceremony, President Trump said it would be the eighth wonder of the world. And so far, nothing has happened, even though the state has spent..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "where you're getting that information. I mean, I've talked directly with the company folks. I've had them in my office. They've shown me the plans. They are hiring construction people. They are committed to their timeline. So as far as I know, they're moving forward with the commitment."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "manufacturing plant."
+      }
+    ],
+    "speakername": "Peter Navarro",
+    "ground_truth": "I WOULDN'T CALL IT SCALED DOWN AT ALL. YOU HAVE SEVERAL TYPES OF FACILITIES ON THE CAMPUS. WE'RE ACTIVELY TRYING TO INCLUDE OTHER PARTS OF THE SUPPLY CHAIN ON THERE. THE PROJECT AS FAR AS WE SEE IT SO FAR IS VIBRANT AND THEY'RE COMMITTED TO DOING IT AND THEY'RE MOVING.",
+    "bio": "Born July 15, 1949, the subject is an American economist and author. They served in the administration as the Assistant to the President, Director of Trade and Manufacturing Policy, and the national Defense Production Act policy coordinator. The speaker's MBTI type is INTP"
+  }
+]

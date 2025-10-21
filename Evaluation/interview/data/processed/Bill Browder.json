@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I would say it's actually gone a little worse than being unwilling to support the region. Based on statements that the former leader has made, it looks like he's now thrown his lot in with the opposing leader. And what do I mean by that? The former leader has blamed the defending country for starting the war, which, of course, anyone who has two eyes knows that's not true. He has called their president a dictator. And all of his people now on all the talk shows are basically saying that the attacking nation wasn't the aggressor. And so I think what we have happening is far worse than just sort of washing his hands of the defending country. He's kind of thrown his lot in with the opposing leader. And that has unbelievably negative consequences, not just for the defending country, but for a lot of issues around the world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But didn't we see it coming that he had an affinity for working with the opposing leader, or who knows what it is, and that this was going to come to pass?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we all saw it, of course. Remember, there was the special investigation into foreign collusion. There was all this, the international summit, where the former leader sided with the opposing leader over the intelligence services, and by the way, offered to hand me over to the opposing leader when he asked him. We've seen it in many interviews, but I think everybody was sort of hoping and praying that this wouldn't change, that whatever his affinity was wouldn't change national policy. And for the most part, during his first term as president, it didn't. He was surrounded by a lot of people who kind of kept the guardrails in. But this time around, he has literally come out of the gates swinging on behalf of the opposing leader and against the defending country and against a lot of the rest of the world, and perhaps against the people when it comes to this whole issue."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "A lot of the administration officials have been going to the foreign nation, trying to have direct negotiations with the opposing side. And it seems that the former leader wants to have direct negotiations with the opposing leader, leaving out both the defending side and their allies. What do you make of that?"
+      }
+    ],
+    "speakername": "Bill Browder",
+    "ground_truth": "Well, I think that there that you can't have a negotiation between two warring parties and exclude one of the warring parties. You know, the opposing nation.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we all saw it, of course. Remember, there was the Mueller investigation into Russian collusion. There was all this, the diplomatic summit, where Trump sided with Putin over the intelligence services, and by the way, offered to hand me over to Putin when Putin asked him. We've seen it in many interviews, but I think everybody was sort of hoping and praying that this wouldn't change, that whatever his affinity was wouldn't change policy. And for the most part, during his first term as president, it didn't. He was surrounded by a lot of people who kind of kept the guardrails in. But this time around, he has literally come out of the gates swinging on behalf of Vladimir Putin and against Ukraine and against a lot of the rest of the world, and perhaps against the American people when it comes to this whole issue."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "A lot of the Trump administration officials have been going to the Middle East, trying to have direct negotiations with the Russians. And it seems that President Trump wants to have direct negotiations with Putin, leaving out both the Ukrainians and the Europeans. What do you make of that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that there that you can't have a negotiation between two warring parties and exclude one of the warring parties. You know, Russia."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And I mean, that may happen. So, I mean, that may be what happens."
+      }
+    ],
+    "speakername": "Bill Browder",
+    "ground_truth": "then it's not a negotiation. I think that actually the purpose of these meetings in the Middle East is not to resolve the war. The purpose in the Middle East is for Trump and Putin to reset relations between themselves. There's been all this talk about lifting sanctions, about bringing Russia into the G7, for American businesses to show up in Russia. This doesn't look like a peace negotiation. This looks like some type of reset of relations between Russia and the United States.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that there that you can't have a negotiation between two warring parties and exclude one of the warring parties. You know, [country]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And I mean, that may happen. So, I mean, that may be what happens."
+      },
+      {
+        "speaker": "[target]",
+        "text": "then it's not a negotiation. I think that actually the purpose of these meetings in [country] is not to resolve the war. The purpose in [country] is for [political figure] and [political figure] to reset relations between themselves. There's been all this talk about lifting sanctions, about bringing [country] into the [organization], for [country] businesses to show up in [country]. This doesn't look like a peace negotiation. This looks like some type of reset of relations between [country] and [country]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What should [country] do?"
+      }
+    ],
+    "speakername": "Bill Browder",
+    "ground_truth": "Well, [country], in my opinion, doesn't really have much of a choice. [country] should fight. They should fight the [nationality]. And to the extent that the [country] is cutting off military aid, then [country] should look to the [region] to increase military aid. If the [region] don't have enough money within their own resources, and I should point out that the [region] have produced more than half of the military aid before, but for them to double down may be difficult. If they don't have the money to continue or to double down, the [region] should then draw on the $300 billion of [nationality] money, which has been frozen mostly in [region], and use that money to support the [nationality]. And in those circumstances, [political figure] doesn't really have the leverage to change the outcome of this war. He doesn't have the leverage to force [country] into a surrender, which is effectively what he's trying to do right now.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "then it's not a negotiation. I think that actually the purpose of these meetings in [location] is not to resolve the war. The purpose in [location] is for [leader1] and [leader2] to reset relations between themselves. There's been all this talk about lifting sanctions, about bringing [country] into the [organization], for [country] businesses to show up in [country]. This doesn't look like a peace negotiation. This looks like some type of reset of relations between [country] and [country]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What should [country] do?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, [country], in my opinion, doesn't really have much of a choice. [country] should fight. They should fight the [nationality]. And to the extent that [country] is cutting off military aid, then [country] should look to the [nationality] to increase military aid. If the [nationality] don't have enough money within their own resources, and I should point out that the [nationality] have produced more than half of the military aid before, but for them to double down may be difficult. If they don't have the money to continue or to double down, the [nationality] should then draw on the $300 billion of [nationality] money, which has been frozen mostly in [region], and use that money to support the [nationality]. And in those circumstances, [leader1] doesn't really have the leverage to change the outcome of this war. He doesn't have the leverage to force [country] into a surrender, which is effectively what he's trying to do right now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've been talking about that $300 billion in frozen assets. You've been talking about it for three years, saying that it should be confiscated, it should be used to help [country]. It seems obvious to me, unless you wanna correct me, that [leader1]'s not gonna go along with that. To what extent can the [nationality] do it on their own and why haven't they done it?"
+      }
+    ],
+    "speakername": "Bill Browder",
+    "ground_truth": "Well, the [nationality] can absolutely do it on their own. Of the 300 billion, only 13 billion is in [country], so 287 billion is in [region]. The [nationality] could absolutely take that money. It's [leader2]'s money. [leader2] should be paying for the [nationality], not anybody else. Why haven't they done it? Because there hasn't been the political will to do it up until now. Now, the [nationality] are in a whole different world than they were living in from two weeks ago. The [nationality] are now being told in no uncertain terms by the president, by the vice president, [person], that they're on their own. And so the [nationality] are waking up to a new reality. And as they wake up to this new reality, I believe that there's quite a bit of political will to support [country]. And I think there's quite a bit of political will to have [leader2] pay for it before they have to tax the taxpayers that extra money.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Ukraine, in my opinion, doesn't really have much of a choice. Ukraine should fight. They should fight the Russians. And to the extent that the U.S. is cutting off military aid, then Ukraine should look to the Europeans to increase military aid. If the Europeans don't have enough money within their own resources, and I should point out that the Europeans have produced more than half of the military aid before, but for them to double down may be difficult. If they don't have the money to continue or to double down, the Europeans should then draw on the $300 billion of Russian money, which has been frozen mostly in Europe, and use that money to support the Ukrainians. And in those circumstances, Trump doesn't really have the leverage to change the outcome of this war. He doesn't have the leverage to force Ukraine into a surrender, which is effectively what he's trying to do right now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've been talking about that $300 billion in frozen assets. You've been talking about it for three years, saying that it should be confiscated, it should be used to help Ukraine. It seems obvious to me, unless you wanna correct me, that Trump's not gonna go along with that. To what extent can the Europeans do it on their own and why haven't they done it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the Europeans can absolutely do it on their own. Of the 300 billion, only 13 billion is in the United States, so 287 billion is in Europe. The Europeans could absolutely take that money. It's Putin's money. Putin should be paying for the Ukrainians, not anybody else. Why haven't they done it? Because there hasn't been the political will to do it up until now. Now, the Europeans are in a whole different world than they were living in from two weeks ago. The Europeans are now being told in no uncertain terms by the president, by the vice president, J.D. Vance, that they're on their own. And so the Europeans are waking up to a new reality. And as they wake up to this new reality, I believe that there's quite a bit of political will to support Ukraine. And I think there's quite a bit of political will to have Putin pay for it before they have to tax the taxpayers that extra money."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yet on these frozen assets that you think they should seize. Have you talked to any European leaders in the past couple of weeks about it?"
+      }
+    ],
+    "speakername": "Bill Browder",
+    "ground_truth": "I have. I was at the International Security Conference about a week ago, and I met with seven European foreign ministers from both big and small countries. And this was just at the moment when J.D. Vance was giving his famous speech criticizing or attacking Europe and not attacking Russia. And every single one of these foreign ministers that I met with thought it was a no-brainer. Of course, that money should be taken. Now, this was a week before the Germans had their elections. And I don't think any big decision like that could be taken without a German chancellor. And so now we have a German chancellor. I think that things will probably move forward quickly in that direction.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you very much."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "You told me during the show's intro you're going to say, 'Hello, sailor.'"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, I was."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "And you're a millionaire now, as is well documented—in 13 years. Not a bad effort. How did you do it?"
+      }
+    ],
+    "speakername": "Anita Roddick",
+    "ground_truth": "I think a hell of a lot is to do with the fact that I'm an immigrant, a child of an immigrant family. And so you have no work ethic—you've got to work in whatever they set up their own businesses. So at 10 years old, I was shoved into the family business learning how to do ice cream sundaes. And there's a sort of dissatisfaction. Dissatisfaction creates an enormous amount of energy. And whenever I'm dissatisfied about anything, I push that into some sort of practical way of doing things. And thirdly, I had the most brilliant teachers who loved the fact that I was different, endorsed it, told me I was special from year 10. And so you wear that very comfortably—and hey presto, that's how you do it.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, I was."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "And you're a millionaire now, as is well documentedâin 13 years. Not a bad effort. How did you do it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think a hell of a lot is to do with the fact that I'm an immigrant, a child of an immigrant family. And so you have no work ethicâyou've got to work in whatever they set up their own businesses. So at 10 years old, I was shoved into the family business learning how to do ice cream sundaes. And there's a sort of dissatisfaction. Dissatisfaction creates an enormous amount of energy. And whenever I'm dissatisfied about anything, I push that into some sort of practical way of doing things. And thirdly, I had the most brilliant teachers who loved the fact that I was different, endorsed it, told me I was special from year 10. And so you wear that very comfortablyâand hey presto, that's how you do it."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Yeah, but it's certainly not quite as simple as that. What about your interestâwhat led you into this area?"
+      }
+    ],
+    "speakername": "Anita Roddick",
+    "ground_truth": "The interest of the body? Well, there was nothing else I knew. I was a teacher. I'd worked for an international organization. I spent a year traveling around the world, living in various island communities in the Indian and Pacific Oceans. And I didn't sort of... you just live with families, you live with the locals. And I learned very fast that you can do a hell of a lot of things differently on the body. You can clean the skin, you can wash and polish the hair in ways that I'd never thought. So you pick up those ideas with you, and they sort of rested in the brain cells for about 10 yearsâuntil my husband said he wanted to ride a horse from one country in South America to another major city in North America. And the kids were young; they were about six and four. And I thought, 'Well, what do I do? I have to open up a little shop.' So I opened up what I knew about, which was these extraordinary ingredients to clean the bodyâand they're all natural.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think a hell of a lot is to do with the fact that I'm an immigrant, a child of an immigrant family. And so you have no work ethicâyou've got to work in whatever they set up their own businesses. So at 10 years old, I was shoved into the café learning how to do ice cream sundaes. And there's a sort of dissatisfaction. Dissatisfaction creates an enormous amount of energy. And whenever I'm dissatisfied about anything, I push that into some sort of practical way of doing things. And thirdly, I had the most brilliant teachers who loved the fact that I was different, endorsed it, told me I was special from year 10. And so you wear that very comfortablyâand hey presto, that's how you do it."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Yeah, but it's certainly not quite as simple as that. What about your interestâwhat led you into this area?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The interest of the body? Well, there was nothing else I knew. I was a teacher. I'd worked for an international organization. I spent a year traveling around the world, living in island communities in various regions. And I didn't sort of... you just live with families, you live with the locals. And I learned very fast that you can do a hell of a lot of things differently on the body. You can clean the skin, you can wash and polish the hair in ways that I'd never thought. So you pick up those ideas with you, and they sort of rested in the brain cells for about 10 yearsâuntil my husband said he wanted to ride a horse from one continent to another. And the kids were young; they were about six and four. And I thought, 'Well, what do I do? I have to open up a little shop.' So I opened up what I knew about, which was these extraordinary ingredients to clean the bodyâand they're all natural."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "A lot ofâ"
+      }
+    ],
+    "speakername": "Anita Roddick",
+    "ground_truth": "Yes. We have an incredibly strong belief that we should put as much natural ingredients as possible, that we should go and look for products in developing nations, that there should be absolutely no testing at all on animals. I find that so obsceneâfor something as irrelevant as a moisture cream to cause any sufferingâand to get incredibly excited about what we can do with the profits. So that's what we do.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The interest of the body? Well, there was nothing else I knew. I was a teacher. I'd worked for an international organization. I spent a year traveling around the world, living in island communities in various regions. And I didn't sort of... you just live with families, you live with the locals. And I learned very fast that you can do a hell of a lot of things differently on the body. You can clean the skin, you can wash and polish the hair in ways that I'd never thought. So you pick up those ideas with you, and they sort of rested in the brain cells for about 10 years—until my husband said he wanted to ride a horse from one country in South America to a major city in North America. And the kids were young; they were about six and four. And I thought, 'Well, what do I do? I have to open up a little shop.' So I opened up what I knew about, which was these extraordinary ingredients to clean the body—and they're all natural."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "A lot of—"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. We have an incredibly strong belief that we should put as much natural ingredients as possible, that we should go and look for products in developing countries, that there should be absolutely no testing at all on animals. I find that so obscene—for something as irrelevant as a moisture cream to cause any suffering—and to get incredibly excited about what we can do with the profits. So that's what we do."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "When you received the Company of the Year award, you were quite scathing about big business. What have you got against big business as it operates today?"
+      }
+    ],
+    "speakername": "Anita Roddick",
+    "ground_truth": "I find business—in any profession—is probably the most conservative, pedantic, and boring. They're run by men, usually about 65-plus, who have no belief at all that they should be the agents of social change. Okay, so you come into... flew down into a major city—no, that's the wrong example. Let's say a major capital city 500 years ago. What would draw you into the city? The church spires or the church steeples—they gave the city a sense of purpose. You go into the city now, and you have huge edifices to money and to business. And there is no sense of purpose with that. And we see what's happening in the government, where the government is pulling back education, social services. Businesses have got to push forward. They've got to be much more linked with the community. They've got to fly the flag of social change. So I basically said... you're fearful. You know, do you try and talk about the word 'love'? You bring up the word 'love' in business—it's as fearful as any other four-letter word. You can't talk about it. It's too feminine for them.",
+    "bio": " The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes. We have an incredibly strong belief that we should put as much natural ingredients as possible, that we should go and look for products in developing countries, that there should be absolutely no testing at all on animals. I find that so obsceneâfor something as irrelevant as a moisture cream to cause any sufferingâand to get incredibly excited about what we can do with the profits. So that's what we do."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "When you received the Company of the Year award, you were quite scathing about big business. What have you got against big business as it operates today?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I find businessâin any professionâis probably the most conservative, pedantic, and boring. They're run by men, usually about 65-plus, who have no belief at all that they should be the agents of social change. Okay, so you come into... flew down into a major cityâno, that's the wrong example. Let's say a major capital city 500 years ago. What would draw you into the city? The church spires or the church steeplesâthey gave the city a sense of purpose. You go into the city now, and you have huge edifices to money and to business. And there is no sense of purpose with that. And we see what's happening in the government in our country, where the government is pulling back education, social services. Businesses have got to push forward. They've got to be much more linked with the community. They've got to fly the flag of social change. So I basically said... you're fearful. You know, do you try and talk about the word 'love'? You bring up the word 'love' in businessâit's as fearful as any other four-letter word. You can't talk about it. It's too feminine for them."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "That's not just big businessâthat's almost life generally, in many quarters, isn't it? To talk about love and to expressâ"
+      }
+    ],
+    "speakername": "Anita Roddick",
+    "ground_truth": "I think men don't want to come out of the closet in business in terms of talking about loving their staff, putting their love back where their labor isâin terms of empowering staff. Now, this is a mega problem in our country. You try and empower staff without being in fear of them, and you've got whole businesses that are... you know, wouldn't know what you're talking about. Education in businessâwe have a real belief that you should continue the education program. So instead of leaving school at 18 and then going to work and never being educated again on certain world issues, global issues, and then picking it up when you retire... Well, that's not the way we do it.",
+    "bio": " The speaker's MBTI type is ESTJ"
+  }
+]

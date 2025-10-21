@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My principal focus right now is the health and well-being of our employees and their families. And I think that should be the primary focus of most CEOs. We've been very fortunate. We have a small number of people across the world who have developed any real symptoms for the virus. But we do have the parents of a lot of our employees affected. And we're working really hard on a number of different initiatives that are new for a company like ours to be involved with, but we're supporting, for example, a clinical trial at a major research university on a new Japanese drug, which, if it's effective, will be a low-cost, widely available antiviral that you can start at early onset of symptoms. We're supporting a number of initiatives that are focused on convalescent blood transfusions, which is another very promising area for care both for critically ill patients as well as for health care workers. And then we're supporting a lot of local hospitals and health care facilities across the world where either our employees or our operations are."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target], I know you've taken a number of steps for your employees to try and make this time easier for them, too. Things like waiving the 30 day prescription refill that normally you can't get a prescription filled for more than 30 days without having to pay an excessive amount."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah we're certainly doing things like that but we've also got some really innovative programs like telemedicine providers for our employees in countries where there are national health care programs we also have private doctors available helping to assist and navigate through what can be a very complex process getting into national health care we're working with organizations like wealthy that provides mental health care or sitter city to provide licensed child care and i think when you look at the available tools today to allow people to work from home safely and comfortably to make sure that they're getting access to good health care there are a lot more programs available today than ever before i think we've always been a pioneer in these kinds of benefits but some of the things that we're doing now like supporting these clinical trials at important health institutions i think these are things that are unprecedented for us as a company or any company but we're definitely feeling from our employees that the extra investment the extra attention is appreciated"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I read in the notes that all of your employees have your cell phone that they can call you if they need to. You've got 10,000 employees. Is that really true?"
+      }
+    ],
+    "speakername": "Bobby Kotick",
+    "ground_truth": "So about a month ago, we sent out an email from my email address with my phone number. And we encouraged every single employee that has a concern that relates to their healthcare to just contact me directly. And so far that's been working well. They've gotten a lot of attention, a lot of good care from all of our providers. And our HR organization is extraordinary. And the team has been working 24 seven since we started work from home in our offices in the region and our offices in continent to really make sure that they were available for the benefit of the employees and their families.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah we're certainly doing things like that but we've also got some really innovative programs like telemedicine providers for our employees in countries where there are national health care programs we also have private doctors available helping to assist and navigate through what can be a very complex process getting into national health care we're working with organizations like wealthy that provides mental health care or sitter city to provide licensed child care and i think when you look at the available tools today to allow people to work from home safely and comfortably to make sure that they're getting access to good health care there are a lot more programs available today than ever before i think we've always been a pioneer in these kinds of benefits but some of the things that we're doing now like supporting these clinical trials at important health institutions i think these are things that are unprecedented for us as a company or any company but we're definitely feeling from our employees that the extra investment the extra attention is appreciated"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I read in the notes that all of your employees have your cell phone that they can call you if they need to. You've got 10,000 employees. Is that really true?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So about a month ago, we sent out an email from my email address with my phone number. And we encouraged every single employee that has a concern that relates to their healthcare to just contact me directly. And so far that's been working well. They've gotten a lot of attention, a lot of good care from all of our providers. And our HR organization is extraordinary. And the team has been working 24 seven since we started work from home in our offices in our international locations to really make sure that they were available for the benefit of the employees and their families."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How many employees have personally reached out to you?"
+      }
+    ],
+    "speakername": "Bobby Kotick",
+    "ground_truth": "Oh, I'd say a few hundred now, but we're fortunate. Very few have actually tested positive so far for COVID-19. One of the initiatives we're working on right now is a trial for a blood serum test, which is a low-cost, very accessible, 15 minutes for the results blood serum test that has FDA approval. It still is required to be administered by a health care professional, but I think when you look out over the next few months, when you start to think about what will make employees feel safe and comfortable coming back to work, testing is going to be a very important part of what we're going to need to be able to do.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So about a month ago, we sent out an email from my email address with my phone number. And we encouraged every single employee that has a concern that relates to their healthcare to just contact me directly. And so far that's been working well. They've gotten a lot of attention, a lot of good care from all of our providers. And our HR organization is extraordinary. And the team has been working 24 seven since we started work from home in our offices in our international locations to really make sure that they were available for the benefit of the employees and their families."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How many employees have personally reached out to you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I'd say a few hundred now, but we're fortunate. Very few have actually tested positive so far for COVID-19. One of the initiatives we're working on right now is a trial for a blood serum test, which is a low-cost, very accessible, 15 minutes for the results blood serum test that has FDA approval. It still is required to be administered by a health care professional, but I think when you look out over the next few months, when you start to think about what will make employees feel safe and comfortable coming back to work, testing is going to be a very important part of what we're going to need to be able to do."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Agree. How quickly do you think things like that can get rolled out to the general public? And just based on how much research you have been doing in the medical field, how long do you think it will be before we're actually ready to go back to work?"
+      }
+    ],
+    "speakername": "Bobby Kotick",
+    "ground_truth": "Well, every country is different, of course. I think in every government is gonna treat the rules with respect to their own countries differently. We're taking guidance from the state, city, local, and federal governments everywhere we operate, but then we're adding an extra layer of protection and concern. And so right now, most of the world will continue to be worked from home for the foreseeable future. I think we're fortunate. We have a very collaborative business when it comes to software development. And so we have people in lots of different countries and lots of different offices who for a long time have been collaborating with each other on software development. So I don't think that we've had the same challenges from a work from home perspective as other companies, but people are feeling the isolation and frustration and anxiety. And so I don't even think that there's a real normal that is gonna exist for a while. Our view is that you need to see a low cost, widely available vaccine. You need more antiviral therapies that are proven that are low cost and widely available. You're gonna need more efficient, low cost blood serum testing. And so until all of these things are in place, I think people are gonna still have this anxiety and uncertainty. But we're working on a lot of these initiatives.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, I'd say a few hundred now, but we're fortunate. Very few have actually tested positive so far for COVID-19. One of the initiatives we're working on right now is a trial for a blood serum test, which is a low-cost, very accessible, 15 minutes for the results blood serum test that has FDA approval. It still is required to be administered by a health care professional, but I think when you look out over the next few months, when you start to think about what will make employees feel safe and comfortable coming back to work, testing is going to be a very important part of what we're going to need to be able to do."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Agree. How quickly do you think things like that can get rolled out to the general public? And just based on how much research you have been doing in the medical field, how long do you think it will be before we're actually ready to go back to work?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, every country is different, of course. I think in every government is gonna treat the rules with respect to their own countries differently. We're taking guidance from the state, city, local, and federal governments everywhere we operate, but then we're adding an extra layer of protection and concern. And so right now, most of the world will continue to be worked from home for the foreseeable future. I think we're fortunate. We have a very collaborative business when it comes to software development. And so we have people in lots of different countries and lots of different offices who for a long time have been collaborating with each other on software development. So I don't think that we've had the same challenges from a work from home perspective as other companies, but people are feeling the isolation and frustration and anxiety. And so I don't even think that there's a real normal that is gonna exist for a while. Our view is that you need to see a low cost, widely available vaccine. You need more antiviral therapies that are proven that are low cost and widely available. You're gonna need more efficient, low cost blood serum testing. And so until all of these things are in place, I think people are gonna still have this anxiety and uncertainty. But we're working on a lot of these initiatives."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Hey [target], it's Andrew here. In the entertainment industry, as you know, production has effectively halted and production may or may not resume sometime this summer or even this fall. I know there's conversations in the industry about testing actors and people on a set. Obviously your business is very different because people can be behind a computer, but I imagine they don't have all that power necessarily at home. How does that get distributed and how does that affect production?"
+      }
+    ],
+    "speakername": "Bobby Kotick",
+    "ground_truth": "Well, I don't know that we quite know yet. Most of the things that we have in production and development are on track for now. I think we'll have to really reassess that in a month, in three months.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Agree. How quickly do you think things like that can get rolled out to the general public? And just based on how much research you have been doing in the medical field, how long do you think it will be before we're actually ready to go back to work?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, every country is different, of course. I think in every government is gonna treat the rules with respect to their own countries differently. We're taking guidance from the state, city, local, and federal governments everywhere we operate, but then we're adding an extra layer of protection and concern. And so right now, most of the world will continue to be worked from home for the foreseeable future. I think we're fortunate. We have a very collaborative business when it comes to software development. And so we have people in lots of different countries and lots of different offices who for a long time have been collaborating with each other on software development. So I don't think that we've had the same challenges from a work from home perspective as other companies, but people are feeling the isolation and frustration and anxiety. And so I don't even think that there's a real normal that is gonna exist for a while. Our view is that you need to see a low cost, widely available vaccine. You need more antiviral therapies that are proven that are low cost and widely available. You're gonna need more efficient, low cost blood serum testing. And so until all of these things are in place, I think people are gonna still have this anxiety and uncertainty. But we're working on a lot of these initiatives."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Hey [target], it's Andrew here. In the entertainment industry, as you know, production has effectively halted and production may or may not resume sometime this summer or even this fall. I know there's conversations in the industry about testing actors and people on a set. Obviously your business is very different because people can be behind a computer, but I imagine they don't have all that power necessarily at home. How does that get distributed and how does that affect production?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't know that we quite know yet. Most of the things that we have in production and development are on track for now. I think we'll have to really reassess that in a month, in three months."
+      }
+    ],
+    "speakername": "Bobby Kotick",
+    "ground_truth": "um you know we've been doing things like encouraging our employees to upgrade their home broadband to the highest bandwidth service and we're paying for that um we we had equipment available for take home so all everyone in the software development art or animation functions we made equipment available so they had the newest most secure devices but i think it's still too early to know um what what the consequences development will be over the next for the next year or so you know we're very fortunate we launched a new free-to-play game a few weeks ago and we've had over 50 million people sign up to play um the mobile game is performing exceptionally well most of our games are seeing record levels of engagement and people are getting the benefit of entertainment at home from what we do",
+    "bio": "The speaker's MBTI type is ESTJ"
+  }
+]

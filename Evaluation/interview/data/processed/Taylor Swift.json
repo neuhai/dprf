@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He wasn't there, but of course he was very impressed that I met her. Yeah, yeah, yeah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Of course."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Taylor Swift",
+    "ground_truth": "you just people get around [celebrity actor] they start making mistakes and like stuttering they're going nervous it happened no he makes you do it",
+    "bio": " The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_05",
+        "text": "He makes you he looks at you like what are you talking about?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "What's the worst? How far off have they been? What's the worst they've been?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "As long as you call me Kevin, I'm happy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um."
+      }
+    ],
+    "speakername": "Taylor Swift",
+    "ground_truth": "Well, there were some fans that thought I had something to do with [movie title]. Really? Which I would have loved to have been asked, but I wasn't. No, you weren't. Asked to be in it at all. Yeah. Because we had the single coming out the same day, and I have a song that was called [song title]. And so they were like, my God, she's gonna defeat [character name].",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_05",
+        "text": "It's like, dude, you wrote a book, and you play the cricket, and you..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Like, it seems like you did just say it. But I kind of always shave my legs. Every day?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, yeah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "IT'S IMPOSSIBLE TO EXPLAIN TO AMERICANS THAT YOU CAN HAVE AN INTERNATIONAL MATCH WHERE TWO COUNTRIES ARE PLAYING, AND IT GOES ON FOR FIVE DAYS, AND AFTER THE END OF THE FIFTH DAY, IT CAN STILL BE A DRAW."
+      }
+    ],
+    "speakername": "Taylor Swift",
+    "ground_truth": "I know who Cricket is, I know it's like relatively violent. And like there was this episode of a popular sitcom where a character is dating an English girl and she, her friends, her mates. This happened.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I mean, yeah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "IT'S IMPOSSIBLE TO EXPLAIN TO AMERICANS THAT YOU CAN HAVE AN INTERNATIONAL MATCH WHERE TWO COUNTRIES ARE PLAYING, AND IT GOES ON FOR FIVE DAYS, AND AFTER THE END OF THE FIFTH DAY, IT CAN STILL BE A DRAW."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I know who Cricket is, I know it's like relatively violent. And like there was this episode of a popular sitcom where a character is dating an English girl and she, her friends, her mates. This happened."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "This happened."
+      }
+    ],
+    "speakername": "Taylor Swift",
+    "ground_truth": "Her mates get into a cricket match he tries to play and he just like breaks all the bones in his body. It's wild",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't want to Google cricket and message you and say, [name] the cricket."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "I came here to do."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Je suis calme. Ah, thank you. I don't know. What does that mean? It means I am calm. Oh."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Je ne peux pas te parler quand tu es comme Ã§a. Oh, that's good. That's a good one. Thanks. I don't know what that means, but that sounded real French. All right. Because I love cats. OK, let's talk about cats. So was that kitten just there to be in the video, and then you took it home? Or did you put it in the video, and it was yours already?"
+      }
+    ],
+    "speakername": "Taylor Swift",
+    "ground_truth": "He was a little cat actor. He was there. Apparently, there was, I didn't know this at the time. All I know is we had to have a kitten in the scene because I wanted to have the scene where it's like, you know, he gives me a ring. I'm like, no. He gives me flowers. I'm like, no. And then he gives me a kitten. And I'm like, yes, absolutely. You know me clearly. And so they show up with this little kitten. And his handler was like, do you want to hold him first? I was like, absolutely I do. And so they hand me this tiny cat. And I've never really experienced a cat that the second I held this little kitten, he started purring like a motor. And I was like, OK, whose cat is this? You're really lucky whoever owns this cat. And then the girl was like, actually, he doesn't have a home. And then I just, my eyes turned into hearts. Yes. And I just immediately was like, I can't think about anything else.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good morning, it's really tough down here, unbelievable loss of life and we still have people that they hope are alive that they're still trying to rescue, so please pray for each one of those."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We will. And I know that when you were governor of [state], there were four hurricanes on your watch. Governor [official] has said what is happening now is biblical. How would you describe the impact?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the storm surge was unbelievable. You know, the worst storm surge we had with Irma was down in [region], and it was nine foot. It just sucks everything in and out of a one-story house. And then we had, as you know, [location] with Michael my last year. But, you know, in [county], they're talking that they might have had 18 foot of storm surge at [location]. And you look at, you know, 12, 15 foot of storm surge at [location] and [location]. I mean, that's hard to survive. You have to get up pretty high, and your structure has to survive. We unfortunately, some of it's older construction, and so we lost a lot of buildings. And so I hope the death count doesn't go up. You know, there's families that have lost everything, and they're still struggling to figure out, you know, if they found all their loved ones. So it's a horrible experience. And then we have this flooding. I was up at [county], and you have these where these manufactured homes. It seemed like 80% of it was destroyed in some of these areas. So you just hope everybody got out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The president said that he may need more money from Congress to help with the response. And I know you and Senator [official] have talked about more emergency relief being needed. If you're calling for an emergency supplemental, does it need to be paid for offset?"
+      }
+    ],
+    "speakername": "Rick Scott",
+    "ground_truth": "Well, I've supported disaster relief. Look, everything you do, you'd love it to be paid for. But, you know, we have committed, we've made commitments that we're going to help our families, our businesses, our states and local governments. And as federal government, we need to do our job. Now we've got to watch how we spend our money. So I'll always try to figure out how you pay for things. But I'm very supportive of [agency]. My experience with [agency] when I was governor is they did their job. They were a good partner. They're not a lead agency. They're a support agency, and they acted like that when I was governor.",
+    "bio": "The speaker (born December 1, 1952) is an American politician who is the junior United States Senator from [state] since 2019. A member of the Republican Party, he was the 45th governor of [state] from 2011 to 2019. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the storm surge was unbelievable. You know, the worst storm surge we had with Irma was down in the coastal region, and it was nine foot. It just sucks everything in and out of a one-story house. And then we had, as you know, the coastal town with Michael my last year. But, you know, in the county, they're talking that they might have had 18 foot of storm surge at the island. And you look at, you know, 12, 15 foot of storm surge at the beach and another island. I mean, that's hard to survive. You have to get up pretty high, and your structure has to survive. We unfortunately, some of it's older construction, and so we lost a lot of buildings. And so I hope the death count doesn't go up. You know, there's families that have lost everything, and they're still struggling to figure out, you know, if they found all their loved ones. So it's a horrible experience. And then we have this flooding. I was up at the county, and you have these where these manufactured homes. It seemed like 80% of it was destroyed in some of these areas. So you just hope everybody got out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The president said that he may need more money from Congress to help with the response. And I know you and the Senator have talked about more emergency relief being needed. If you're calling for an emergency supplemental, does it need to be paid for offset?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I've supported disaster relief. Look, everything you do, you'd love it to be paid for. But, you know, we have committed, we've made commitments that we're going to help our families, our businesses, our states and local governments. And as federal government, we need to do our job. Now we've got to watch how we spend our money. So I'll always try to figure out how you pay for things. But I'm very supportive of the federal agency. My experience with them when I was governor is they did their job. They were a good partner. They're not a lead agency. They're a support agency, and they acted like that when I was governor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But the disaster modeling firms have, you know, scale of damage here from $30 billion up to $100 billion. How much money is it that you think you need to go ask Congress for?"
+      }
+    ],
+    "speakername": "Rick Scott",
+    "ground_truth": "We're gonna find out, hopefully, most things are covered by insurance. That's what you hope. Now, the state has had a problem the last few years with their property insurance market, so hopefully the insurance companies will be able to cover a lot of that. But not flooding. We'll see. The way this has worked while I was governor.",
+    "bio": "The speaker (born December 1, 1952) is an American politician who is the junior United States Senator from a southeastern state since 2019. A member of the Republican Party, he was the governor of the state from 2011 to 2019. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The president said that he may need more money from Congress to help with the response. And I know you and other senators have talked about more emergency relief being needed. If you're calling for an emergency supplemental, does it need to be paid for offset?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I've supported disaster relief. Look, everything you do, you'd love it to be paid for. But, you know, we have committed, we've made commitments that we're going to help our families, our businesses, our states and local governments. And as federal government, we need to do our job. Now we've got to watch how we spend our money. So I'll always try to figure out how you pay for things. But I'm very supportive of emergency management. My experience with emergency management when I was governor is they did their job. They were a good partner. They're not a lead agency. They're a support agency, and they acted like that when I was governor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But the disaster modeling firms have, you know, scale of damage here from $30 billion up to $100 billion. How much money is it that you think you need to go ask Congress for?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're gonna find out, hopefully, most things are covered by insurance. That's what you hope. Now, this state has had a problem the last few years with their property insurance market, so hopefully the insurance companies will be able to cover a lot of that. But not flooding. We'll see. The way this has worked while I was governor."
+      }
+    ],
+    "speakername": "Rick Scott",
+    "ground_truth": "Yeah, absolutely right. And so that's one of the issues. This state has been a significant donor state to flooding. Unfortunately, there's many people that don't have flood insurance either because they didn't know they needed to buy flood insurance or because it got too expensive. So we've got to have insurance products that work, that people can afford. And that's one thing I try to continue to build the private flood insurance market when I was governor and try to make sure people can get flood insurance and can afford flood insurance. Because you're right. A lot of it's not covered if it's not it's not covered by a normal policy. It's covered by a flood insurance policy. And I was up in [location] yesterday and there was some flood up there and they weren't in a floodplain. Nobody was told get flood insurance. And they had about probably a foot of water in their homes and they were just completely shocked.",
+    "bio": "The speaker is an American politician who is a junior United States Senator since 2019. A member of a major political party, they served as governor of a southeastern state from 2011 to 2019. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But the disaster modeling firms have, you know, scale of damage here from $30 billion up to $100 billion. How much money is it that you think you need to go ask Congress for?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're gonna find out, hopefully, most things are covered by insurance. That's what you hope. Now, this state has had a problem the last few years with their property insurance market, so hopefully the insurance companies will be able to cover a lot of that. But not flooding. We'll see. The way this has worked while I was governor."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, absolutely right. And so that's one of the issues. This state has been a significant donor state to flooding. Unfortunately, there's many people that don't have flood insurance either because they didn't know they needed to buy flood insurance or because it got too expensive. So we've got to have insurance products that work, that people can afford. And that's one thing I try to continue to build the private flood insurance market when I was governor and try to make sure people can get flood insurance and can afford flood insurance. Because you're right. A lot of it's not covered if it's not it's not covered by a normal policy. It's covered by a flood insurance policy. And I was up in [location] yesterday and there was some flood up there and they weren't in a floodplain. Nobody was told get flood insurance. And they had about probably a foot of water in their homes and they were just completely shocked."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I mean, is the bottom line here, though, Senator, that some of the communities have been so hard hit that you need to take a second look here? I mean, maybe some of them should not be rebuilt because of the risk level from extreme weather."
+      }
+    ],
+    "speakername": "Rick Scott",
+    "ground_truth": "I think you have to look at, should you build in places? I believe these places are places where people want to live. They're beautiful places. So what you really have to do is you have to say, I'm going to build, but I'm going to do it safely. After major hurricane in 1992, the state completely changed its building codes, which has dramatically reduced the risk of damage. While I was governor, we improved our building codes. And I think after this, we're going to learn that we're going to have to continue to improve our building codes. And we also have to invest. We have to invest in issues such as sea level rise and things like that, flood mitigation programs, which I did as governor. And we're going to have to continue to do that.",
+    "bio": "The speaker is an American politician who is the junior United States Senator from a southeastern state since 2019. A member of a major political party, they served as the governor of the same state from 2011 to 2019. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, absolutely right. And so that's one of the issues. [State] has been a significant donor state to flooding. Unfortunately, there's many people that don't have flood insurance either because they didn't know they needed to buy flood insurance or because it got too expensive. So we've got to have insurance products that work, that people can afford. And that's one thing I try to continue to build the private flood insurance market when I was governor and try to make sure people can get flood insurance and can afford flood insurance. Because you're right. A lot of it's not covered if it's not it's not covered by a normal policy. It's covered by a flood insurance policy. And I was up in [City] yesterday and there was some flood up there and they weren't in a floodplain. Nobody was told get flood insurance. And they had about probably a foot of water in their homes and they were just completely shocked."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I mean, is the bottom line here, though, Senator, that some of the communities have been so hard hit that you need to take a second look here? I mean, maybe some of them should not be rebuilt because of the risk level from extreme weather."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think you have to look at, should you build in places? I believe these places are places where people want to live. They're beautiful places. So what you really have to do is you have to say, I'm going to build, but I'm going to do it safely. After [Hurricane] in 1992, the state completely changed its building codes, which has dramatically reduced the risk of damage. While I was governor, we improved our building codes. And I think after this, we're going to learn that we're going to have to continue to improve our building codes. And we also have to invest. We have to invest in issues such as sea level rise and things like that, flood mitigation programs, which I did as governor. And we're going to have to continue to do that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you think that comes from the state? Because Congress recently did vote to allocate over $3 billion to [Agency], and it will help assist coastal states to prepare for extreme weather. I know you didn't vote for it, but there was other funding in bills recently you voted against that was described as climate-focused. Do you think there needs to be more federal spending now on these particular items to shore up coastal communities?"
+      }
+    ],
+    "speakername": "Rick Scott",
+    "ground_truth": "I've supported issues, funding for things like sea level rise and flood mitigation, things like that. But here's what happens in the Senate. [Political Figure] puts these projects on some gigantic spending bill, which I don't support. I know that this unbelievable spending that's going on by the Democrats is causing inflation. That's hurting our poorest families. So let's do logical, let's do these bills individually. And I will be very supportive of doing logical things to deal with the resiliency and things like this.",
+    "bio": "The speaker (born December 1, 1952) is an American politician who is the junior United States Senator from [State] since 2019. A member of the Republican Party, they were the governor of [State] from 2011 to 2019. The speaker's MBTI type is ESTJ"
+  }
+]

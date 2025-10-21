@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I always wanted to be in the, the whole college music thing was just an excuse because I'd always studied film. I studied film at a state university. And the only way we could make money was by doing the music thing, you know, and our, actually our university ran out of funds, so we did it privately. We raised money from the, you know, people, but I never liked the music industry. I mean, not the music industry as a whole, but I never liked promoting concerts or any of that stuff."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Really, why not?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I got tired of like sorting out the green M&Ms, you know what I mean, backstage, you know, for like whatever bands they were, you know, these big rock and roll bands with things. But I always talked about movies. I always talked about film from the beginning."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How do musicians versus TV and movie stars compare?"
+      }
+    ],
+    "speakername": "Harvey Weinstein",
+    "ground_truth": "I think that you can have more fun with the musicians. I think to be in the film industry takes a certain amount of intellectualism, whatever. And I think some rock and roll guys are like certain famous bands or having met them, incredibly brilliant. And then there are others who can play three chords.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you know in the same song over and over again"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What were some of the early things you learned and maybe learned the hard way?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You learn what audience is like. You learn how to..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "audiences like."
+      }
+    ],
+    "speakername": "Harvey Weinstein",
+    "ground_truth": "I think audiences like emotional transcendence. I think they like to be involved in a character and follow a journey, at least in the kind of serious movies that I make.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You learn what audience is like. You learn how to..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "audiences like."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think audiences like emotional transcendence. I think they like to be involved in a character and follow a journey, at least in the kind of serious movies that I make."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Your parents clearly played a huge role in your childhood, in your life. You named your studio after your parents. Right. What did they teach you about the movie business, about the business of life?"
+      }
+    ],
+    "speakername": "Harvey Weinstein",
+    "ground_truth": "Well, my mother loved movies. She loved the intellectual kind of movies. And she couldn't stand, for the most part, the silly popcorn movies. I guess the intellectualism and the love of that kind of cinema, foreign language cinema, that came from her. She had a very",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "audiences like."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think audiences like emotional transcendence. I think they like to be involved in a character and follow a journey, at least in the kind of serious movies that I make."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Your parents clearly played a huge role in your childhood, in your life. You named your studio after your parents, [masked] and [masked]. Right. What did they teach you about the movie business, about the business of life?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, my mother loved movies. She loved the intellectual kind of movies. And she couldn't stand, for the most part, the silly popcorn movies. I guess the intellectualism and the love of that kind of cinema, foreign language cinema, that came from her. She had a very"
+      }
+    ],
+    "speakername": "Harvey Weinstein",
+    "ground_truth": "you know, inquiring mind and my dad, you know, like military films with [masked], you know, so we got all tastes.",
+    "bio": " The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Your parents clearly played a huge role in your childhood, in your life. You named your studio after your parents, Miriam and Max. Right. What did they teach you about the movie business, about the business of life?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, my mother loved movies. She loved the intellectual kind of movies. And she couldn't stand, for the most part, the silly popcorn movies. I guess the intellectualism and the love of that kind of cinema, foreign language cinema, that came from her. She had a very"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know, inquiring mind and my dad, you know, like war movies with classic actors, you know, so we got all tastes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What are some of the biggest mistakes you think early on in your career you made that it's natural that any young filmmaker, producer is going to make early on in a career?"
+      }
+    ],
+    "speakername": "Harvey Weinstein",
+    "ground_truth": "I think I made a lot, you know, and I can't remember individuals, but there were plenty. And, you know, just suffice to say that you learn the hard way, you know, in our industry, you know, and it's good in a way because you don't repeat it, you know, and it's what I try to, you know, teach the ones who come after me the same thing. But, you know, teaching is not easy, experiencing it.",
+    "bio": "The speaker's MBTI type is ESTP"
+  }
+]

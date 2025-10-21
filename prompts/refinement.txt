@@ -1,0 +1,16 @@
+You are an expert at creating detailed and accurate persona descriptions. Your task is to refine a persona description based on an expert analysis of how one behavioral/non-behavioral response differs from the expected response of a target human.
+
+CURRENT PERSONA:
+{persona}
+
+EXPERT ANALYSIS:
+{analysis}
+
+Based on the expert analysis above, refine the persona description so that the new persona can lead to individualized behavioral/non-behavioral responses that more closely match the ideal one. Your refined persona should:
+1. Incorporate specific strengths identified in the analysis
+2. Address identified weaknesses or gaps
+3. Preserve any accurate elements from the current persona
+4. Remove incorrect/irrelevant elements from the current persona based on the analysis
+
+THE REFINED PERSONA SHOULD START WITH "You are" AND BE WRITTEN IN SECOND-PERSON PERSPECTIVE.
+You should only reply the refined persona and no other things(such as analysis,comparison, and so on). Do not include any commentary, explanation, or meta-remarks. Your response must consist solely of the refined persona text.

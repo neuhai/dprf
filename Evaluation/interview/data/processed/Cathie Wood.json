@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The market seems to, whenever it does kind of get enraptured with these big themes, want to have kind of a bellwether clear play, whether that was certainly [company] in EVs, [company] in the AI infrastructure buildup. Is there something comparable in the medical applications of AI?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I think you have to look at the sequencing technologies. That's where it's starting. So the [company] is the [company]. But in terms of research in AI, there are a couple of names. [company] has, just in one year, thanks to AI, and I think 1,500 GPUs, so very few relative to what we're seeing elsewhere, has driven the average number of hypotheses per researcher for new drugs up tenfold in just one year, from 20 to 200 per researchers. So we think that research and discovery is going to be impacted incredibly. And we also think that phase one and phase two drugs, which get very little, little love in the marketplace these days, especially phase one and anything preclinical, that now that AI is speeding everything up, we're going to see more value placed on those because the number of failures is going to drop and the time to market is going to accelerate. And we think cures are going to increase the value of patents, and this is not what the traditional world thinks, by anywhere from two to 20-fold. Because if we're curing disease... If we're curing disease, then we won't be falling off patent cliffs. And I do see [company] getting hit today by the [region] announcement overnight. [company] is the premier short-read sequencing company, and that's going to be very important in the blood tests that help us discern whether we have cancer or whether it is recurring."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, a couple of things. I think they're going to come out with their lower cost car this year. So that will increase access to [company]'s cars. [person] always talking about affordability, certainly working on that one. And then of course, autonomous. We do think that [company] is getting ready to launch its autonomous service. We know they will launch. They announced the launch in June in [city]. And the question then is how quickly will they roll out to other cities? And we think it will be more quickly than many think."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Another headline that we saw today is that the [administration] administration, as predicted or as expected perhaps, is halting the government's $5 billion program to build out a national charging network. Is that a wash for [company]? Is that a negative for [company] if people don't have as many places to charge? Does it benefit [company] because they're building their own network? How do you view that?"
+      }
+    ],
+    "speakername": "Cathie Wood",
+    "ground_truth": "Yeah, I think, well, a lot of auto companies have already signed on to [company] standard. And so why not use the charging net, the [company] charging network instead of duplicating expenses with government subsidies on top of that. So I think it will benefit [company]. I think it will be good for the entire ecosystem.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, a couple of things. I think they're going to come out with their lower cost car this year. So that will increase access to the company's cars. The CEO is always talking about affordability, certainly working on that one. And then of course, autonomous. We do think that the company is getting ready to launch its autonomous service. We know they will launch. They announced the launch in June in [location]. And the question then is how quickly will they roll out to other cities? And we think it will be more quickly than many think."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Another headline that we saw today is that the administration, as predicted or as expected perhaps, is halting the government's $5 billion program to build out a national charging network. Is that a wash for the company? Is that a negative for them if people don't have as many places to charge? Does it benefit them because they're building their own network? How do you view that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I think, well, a lot of auto companies have already signed on to their standard. And so why not use their charging network instead of duplicating expenses with government subsidies on top of that. So I think it will benefit them. I think it will be good for the entire ecosystem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], you know, we're making our way through earnings season, that mega AI trade and trend, [target]. Some names reporting, perhaps some disappointment. I'm curious what you've learned this earnings season, looking at those reports, listening to conference calls. Has it changed at all how you want to invest, where you want to put money to work in that AI trade?"
+      }
+    ],
+    "speakername": "Cathie Wood",
+    "ground_truth": "Well, as we know, the technology company has been a huge beneficiary of this earnings season. I think many people are beginning to understand that hardware, of course, is important. Cloud is important. But in order to deserve the valuations they're getting, there have to be beneficiaries beyond that. And we think platform as a service is going to take increasing share of the tech stack. And so that does benefit companies like these and others that developers are signing on to.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I think, well, a lot of auto companies have already signed on to the industry-leading standard. And so why not use the charging net, the leading charging network instead of duplicating expenses with government subsidies on top of that. So I think it will benefit the company. I think it will be good for the entire ecosystem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], you know, we're making our way through earnings season, that mega AI trade and trend, [target]. Some names reporting, perhaps some disappointment. I'm curious what you've learned this earnings season, looking at those reports, listening to conference calls. Has it changed at all how you want to invest, where you want to put money to work in that AI trade?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, as we know, the tech company has been a huge beneficiary of this earnings season. I think many people are beginning to understand that hardware, of course, is important. Cloud is important. But in order to deserve the valuations they're getting, there have to be beneficiaries beyond that. And we think platform as a service is going to take increasing share of the tech stack. And so that does benefit companies like tech companies that developers are signing on to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm curious, though, [target], why, you know, yes, those companies will benefit. I'm curious why you're not in the hyperscalers. You know, we've talked before about you not being in the chip company. I'm curious why you all have made the choice to go the route that you have with the tech companies and the other names you mentioned versus some of the other major tech companies, for example."
+      }
+    ],
+    "speakername": "Cathie Wood",
+    "ground_truth": "Well, I think what we are in all of them in various of our portfolios, you're asking about the investment fund, the flagship. We do own the tech company.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], you know, we're making our way through earnings season, that mega AI trade and trend, [target]. Some names reporting, perhaps some disappointment. I'm curious what you've learned this earnings season, looking at those reports, listening to conference calls. Has it changed at all how you want to invest, where you want to put money to work in that AI trade?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, as we know, [Company A] has been a huge beneficiary of this earnings season. I think many people are beginning to understand that hardware, of course, is important. Cloud is important. But in order to deserve the valuations they're getting, there have to be beneficiaries beyond that. And we think platform as a service is going to take increasing share of the tech stack. And so that does benefit companies like [Company A], [Company B], and others that developers are signing on to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm curious, though, [target], why, you know, yes, those companies will benefit. I'm curious why you're not in the hyperscalers. You know, we've talked before about you not being in [Company C]. I'm curious why you all have made the choice to go the route that you have with [Company A] and the other names you mentioned versus some of the other Magnificent Seven, for example."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think what we are in all of them in various of our portfolios, you're asking about [Fund A], the flagship. We do own [Company D]."
+      }
+    ],
+    "speakername": "Cathie Wood",
+    "ground_truth": "and uh we do think uh after listening to the call last night especially you know the cloud is a central part of this story so uh love what they're doing there we were concerned for some time that maybe agentic personal agents uh were going to disintermediate [Company D] on the retail front as our personal agents go shopping around the web for us but you know i do believe that uh [Company D]'s uh got you know they said last night a 14 advantage in terms of lower prices vis-a-vis other online shopping sites on average so we're less worried about that and uh as you know we post our holdings and trades at the end of every day so uh we have been building that one in [Company C] we do own in other portfolios uh we think there is huge demand going forward but again just listening to [Company D]'s call last night and to others there's more competition on the chip side of the equation [Company D] has two graviton and uh inferentia i know i'm sorry trainium and inferentia uh so on the supply side there is more competition brewing and uh and we are also seeing with deep seek for example uh there is a possibility that more of the large language models are going to be built on high-end workstations may be not so much dependent on the cloud. High-end workstations depend on fewer GPUs. All of that said, this is all at the margin. The whole space, we think, is going to be vibrant for years. We are so early in the journey here, and we're pretty excited about it.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm curious, though, [target], why, you know, yes, those companies will benefit. I'm curious why you're not in the hyperscalers. You know, we've talked before about you not being in NVIDIA. I'm curious why you all have made the choice to go the route that you have with Palantir and the other names you mentioned versus some of the other Magnificent Seven, for example."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think what we are in all of them in various of our portfolios, you're asking about ARKK, the flagship. We do own Amazon."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and uh we do think uh after listening to the call last night especially you know the cloud is a central part of this story so uh love what they're doing there we were concerned for some time that maybe agentic personal agents uh were going to disintermediate amazon on the retail front as our personal agents go shopping around the web for us but you know i do believe that uh amazon's uh got you know they said last night a 14 advantage in terms of lower prices vis-a-vis other online shopping sites on average so we're less worried about that and uh as you know we post our holdings and trades at the end of every day so uh we have been building that one in video we do own in other portfolios uh we think there is huge demand going forward but again just listening to amazon's call last night and to others there's more competition on the chip side of the equation amazon has two graviton and uh inferentia i know i'm sorry trainium and inferentia uh so on the supply side there is more competition brewing and uh and we are also seeing with deep seek for example uh there is a possibility that more of the large language models are going to be built on high-end workstations may be not so much dependent on the cloud. High-end workstations depend on fewer GPUs. All of that said, this is all at the margin. The whole space, we think, is going to be vibrant for years. We are so early in the journey here, and we're pretty excited about it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "On Amazon, though, [target], the stock did come under pressure today because AWS sales showed no acceleration. So as a believer, as a shareholder, as a bull, is your bet there, listen, those capacity constraints, they're going to ease and the AI rollout is simply, we're early days still?"
+      }
+    ],
+    "speakername": "Cathie Wood",
+    "ground_truth": "Yes, we do believe that the capacity constraints will ease. Amazon said second half of this year, so yes, yes we do.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

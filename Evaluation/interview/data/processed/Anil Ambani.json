@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, absolutely not."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Where did you meet her?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I saw her first at a wedding."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Anil Ambani",
+    "ground_truth": "She was the only person who was there at the wedding in a black sari. I thought that black sari was a signal for attending a funeral, not for a wedding. I thought she was so starkly dressed in black sari.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "going to replace, believe it or not."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I heard they used to go to the theatre repeatedly when her film was on."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I didn't have that type of money to go and spend on watching a movie."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Okay, and the second time you saw her?"
+      }
+    ],
+    "speakername": "Anil Ambani",
+    "ground_truth": "Then a few months later I met her in [city] when I was at [university] where she had come for some function. She ignored me with the great contempt that she has in her mind for me.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, both were stopsing each other."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So basically it was family pressure that influenced you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Did you explain it to her, why you'd stopped her?"
+      }
+    ],
+    "speakername": "Anil Ambani",
+    "ground_truth": "did explain to her and she understood to the best of her ability to understand within the given circumstances of what were the pulls and the pressures.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Basically I have to read my lips, read my mind."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Read between the lines, whatever you want to do, you read."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "No, but I understood and I said, yeah, I quite understand and I said, I don't want to get into a relationship myself which has no future. So I said the best thing to do is to not see each other and so we decided not to see each other. And we didn't speak to each other for at least four or five years. You just stopped communicating."
+      }
+    ],
+    "speakername": "Anil Ambani",
+    "ground_truth": "People will not believe it but we did not communicate each other for at least I think three to four years.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and you should meet with her and talk to her."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "about it and tell me when you are mentally ready to do that we will get the ball rolling."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "But weren't you taking a chance? I mean, she could have gone and got married to somebody else. You'd have lost her completely."
+      }
+    ],
+    "speakername": "Anil Ambani",
+    "ground_truth": "Yeah, I mean that would be my loss, yes. You would accept it? Mine too. Mine too. I would have just had to accept it.",
+    "bio": "The speaker's MBTI type is ENFP"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You're right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Keep going with zero, our old calculators won't even work."
+      },
+      {
+        "speaker": "[target]",
+        "text": "of it in that in terms of zeros anyway that's an interesting perspective"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When you don't have 7,000 crores, you think like this, then I think about the zero. But tell me something, like why, what I'm trying to say is the scale, it's just so big and you're running this ship where, you know, like the, the, the scale does, you're saying so many countries, 70 countries."
+      }
+    ],
+    "speakername": "Namita Thapar",
+    "ground_truth": "Yeah, but let me put a caveat here. So out of the 7000 crores, I manage the regional business, which is about 2000 crores. So it's still got a lot of zeros. It's still got the 10 zeros, but that's like my baby, you know, the whole brand building regional doctors. So let's clarify that. Currently, my father is still the CEO.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Paanch movies kew bani hai aapke books pe, toh aap total drama king ho."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I can also go. I actually think I'm a drama queen."
+      },
+      {
+        "speaker": "[target]",
+        "text": "queen but i think you're like a level above me so forget the hospital i'll start with my u.s"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's just super fast rewind. You were born, you did schooling where?"
+      }
+    ],
+    "speakername": "Namita Thapar",
+    "ground_truth": "So, I was born in [city] and I did schooling in an SSC school called [school name]. After that, I did my CA along with my BCom. You cleared CS. I'm very proud to say that I cleared it in the first attempt at the age of 21. So, that is one of my proudest milestones in my life because I know I worked damn hard for it. We have.",
+    "bio": " The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and I did it with my BCOM so it was and of course article ship you know you have to do your article ship so at a very young age I did all of that and it's something I'm incredibly proud of"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So the people who are trying for CA on the channel, they know what this achievement is, but just for those who don't, how many percentage of people clear CA at any given exam?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, CA typically it's 2-3% pass rate, but in the first attempt, I don't even think they have a number. It's a very small number."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I thought that's not even allowed."
+      }
+    ],
+    "speakername": "Namita Thapar",
+    "ground_truth": "no no it happens it happens but like i said you have to work incredibly hard for it and you have to have a little bit of luck on your side too because there are always some papers that are",
+    "bio": "The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I thought that's not even allowed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "no no it happens it happens but like i said you have to work incredibly hard for it and you have to have a little bit of luck on your side too because there are always some papers that are"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I worked hard, I got lucky, and so it worked out well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "worked hard and i'm asking this i know it's a small it's amongst your many many achievements the ca achievement now looks like a reticent that was long time ago man but for many people who are watching this channel they are preparing for entrance exams ca iit iam medical law is whatever so yours is also like an entrance exam if i can call it yes what was the schedule like in those days what was your daily schedule like when you were preparing for ca because maybe there is something for people to learn that's only why i'm asking firstly how long did you study for it and what was your average studying schedule like for this"
+      }
+    ],
+    "speakername": "Namita Thapar",
+    "ground_truth": "so it was a very busy rigorous schedule so for example my classes i'd go for ca classes uh the classes would start at six o'clock so you can only imagine you have to wake up at 4 30. six in the morning six in the morning where to show up in class this was in [city] in you know one sort of the interiors of [city] and mr [name]",
+    "bio": " The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "worked hard and i'm asking this i know it's a small it's amongst your many many achievements the ca achievement now looks like a reticent that was long time ago man but for many people who are watching this channel they are preparing for entrance exams ca iit iam medical law is whatever so yours is also like an entrance exam if i can call it yes what was the schedule like in those days what was your daily schedule like when you were preparing for ca because maybe there is something for people to learn that's only why i'm asking firstly how long did you study for it and what was your average studying schedule like for this"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so it was a very busy rigorous schedule so for example my classes i'd go for ca classes uh the classes would start at six o'clock so you can only imagine you have to wake up at 4 30. six in the morning six in the morning where to show up in class this was in [location] in you know one sort of the interiors of [location] and mr [name]"
+      },
+      {
+        "speaker": "[target]",
+        "text": "who held those classes he was known to have absolutely spectacular results so everyone from [location] and even the neighboring cities that was the most sought after class and you had no choice he was a monopoly if he said 6 a.m you show up at 6 a.m so i remember"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "was he doing it at 6 a.m."
+      }
+    ],
+    "speakername": "Namita Thapar",
+    "ground_truth": "You know, oh yeah, that's a good question. You know why? Because we had the article ship. So we had to reach work at 9 a.m.",
+    "bio": "The speaker's MBTI type is ESFJ"
+  }
+]

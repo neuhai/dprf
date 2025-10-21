@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Probably not."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Pain is not a..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Do you hear it? I mean, when it's being constructed, how do you hear it? Do you demo it? I can't imagine that happening."
+      }
+    ],
+    "speakername": "Scott Walker",
+    "ground_truth": "No, I don't. You can't play on guitar or piano. You can't demonstrate it that way. You have to start. I mean, once I'm done with the lyric, which is the hardest part where I start with everything, I take it and literally start, and this is a bad word today, but start arranging it. Right. Because people think arranging this means lots of strings, but no, this means just laying it out.",
+    "bio": "The individual is an American politician who served as the 45th Governor of a Midwestern state from 2011 to 2019. He is a member of the Republican Party. Born in a city in the Western United States, he was raised in a small town in a Midwestern state and later in another Midwestern community. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Pain is not a..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Do you hear it? I mean, when it's being constructed, how do you hear it? Do you demo it? I can't imagine that happening."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I don't. You can't play on guitar or piano. You can't demonstrate it that way. You have to start. I mean, once I'm done with the lyric, which is the hardest part where I start with everything, I take it and literally start, and this is a bad word today, but start arranging it. Right. Because people think arranging this means lots of strings, but no, this means just laying it out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Scott Walker",
+    "ground_truth": "as sounds and whatever the sketches that i'm going to need when i get in there and that's the only way you can start start it because there's nowhere lots of times there's nothing going on beneath uh to hang on to it's just you're free-falling right",
+    "bio": "The subject is an American politician who served as the 45th Governor of a midwestern state from 2011 to 2019. He is a member of the Republican Party. Born in a western city, he was raised in a small town and later in another midwestern town. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I don't. You can't play on guitar or piano. You can't demonstrate it that way. You have to start. I mean, once I'm done with the lyric, which is the hardest part where I start with everything, I take it and literally start, and this is a bad word today, but start arranging it. Right. Because people think arranging this means lots of strings, but no, this means just laying it out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "as sounds and whatever the sketches that i'm going to need when i get in there and that's the only way you can start start it because there's nowhere lots of times there's nothing going on beneath uh to hang on to it's just you're free-falling right"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You mentioned the lyric there, and clearly the lyrics are at the very heart of what it is. I mean, it's an experiencing sound, but I'm guessing those sounds are informed entirely by the lyric. Is that right?"
+      }
+    ],
+    "speakername": "Scott Walker",
+    "ground_truth": "That's right. I mean, the lyric is the thing I spend the most time on because it's a weird thing, because that's the thing that's going to tell me what to use. It's the thing that's going to guide me all the way through it. And so I'm trying to dress the lyric. This is what's happening.",
+    "bio": "The subject is an American politician who served as the governor of a midwestern state from 2011 to 2019. They are a member of a major political party. Born in a city in the western United States, they were raised in a small town in the midwest and later in another midwestern community. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That's obvious. And I wondered whether there were any analogies there in terms of, is that phrase, is it mise-en-scene, that term people use about the placing of things in a frame to create an emotional mood? In a frame."
+      },
+      {
+        "speaker": "[target]",
+        "text": "how you"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "place"
+      },
+      {
+        "speaker": "[target]",
+        "text": "in those elements sonic."
+      }
+    ],
+    "speakername": "Scott Walker",
+    "ground_truth": "Maybe it is. I mean, I've often thought about that because I do go to films a lot and I'm fascinated with films and maybe it has something to do with that, that I'm seeing it as a kind of picture. And, but I don't know. It's like the question, are these really songs? I mean, I think they are and some people think they are, but then some people wonder, are these songs? I don't know.",
+    "bio": "The subject is an American politician who served as the 45th Governor of a midwestern state from 2011 to 2019. They are a member of the Republican Party. Born in a city in [state], they were raised in a town in [state] and in another town in the midwest. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "what you want."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and put a film on in the background."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, no, no."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Properly in that way, I'm going to..."
+      }
+    ],
+    "speakername": "Scott Walker",
+    "ground_truth": "That's right. And that's why I always hope people will buy at least, if not vinyl, a CD, because then they have the lyric and everything to experience. It's important that they try and experience it all at once, which you can't do with MP3s here.",
+    "bio": "The individual is an American politician who served as the 45th Governor of a midwestern state from 2011 to 2019. They are a member of the Republican Party. Born in a city in [state], they were raised in a small town in [state] and in another town in the midwest. The speaker's MBTI type is ISTJ"
+  }
+]

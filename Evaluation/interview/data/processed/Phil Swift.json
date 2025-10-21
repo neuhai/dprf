@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I'm well for it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I'm so excited. Big fan for many years."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Why don't you tell me? We would have had you on 100 years ago."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Golly."
+      }
+    ],
+    "speakername": "Phil Swift",
+    "ground_truth": "I think I moved down here in 92, and you were on the air, and that's all I listened to was your show for many years, many years.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Why don't you tell me? We would have had you on 100 years ago."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Golly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think I moved down here in 92, and you were on the air, and that's all I listened to was your show for many years, many years."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That's that's so kind. And it's so funny because I see you on TV and I'm like, man, that guy cuts boats in half and stuff. I mean, but I never dreamt I never dreamt that you were here. So do you live among us?"
+      }
+    ],
+    "speakername": "Phil Swift",
+    "ground_truth": "I do. I do. I live in [region]. I've been here since 92. I love it down here. It's my home. I'm originally from [region], like the [region] area. But I moved down here.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That's that's so kind. And it's so funny because I see you on TV and I'm like, man, that guy cuts boats in half and stuff. I mean, but I never dreamt I never dreamt that you were here. So do you live among us?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do. I do. I live in [region]. I've been here since 92. I love it down here. It's my home. I'm originally from [region], like the [location] area. But I moved down here."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You're not up there now."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I hear you. I hear you."
+      }
+    ],
+    "speakername": "Phil Swift",
+    "ground_truth": "I came down right after [natural disaster], literally like a month after it hit. I remember coming down here and all the trees were down and it was just devastation. And that was my first.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Even with the hurricanes, [target], we're still doing better off than the rest of the country. So let's take me to the beginning because I'm fascinated by people that create products. And you didn't just create it. You became the face of it. How did that come to be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, wow. It's a long story. You got a couple days, I can tell you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'll give you the..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "notes"
+      }
+    ],
+    "speakername": "Phil Swift",
+    "ground_truth": "The short version, you know, I was selling different products business to business for many years. And, you know, I invented this product and a few other products, and I decided to create a landing page. And what I did is I learned everything I could about how to sell on the Internet and create a landing page. And I started selling this and a couple other products, and it started taking off, and it started doing really, really well. And I said, you know, I've got to get more eyeballs on this thing. So I started to learn everything I could about the infomercial business, about direct response, driving traffic, conversions. And then I decided I'm going to take it to TV. And, you know, I've been selling all my life. And, you know, my wife was like, you should do the commercial. And I'm like.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "With the screen door in the bottom of the boat and I actually shot that commercial on my birthday"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wow."
+      }
+    ],
+    "speakername": "Phil Swift",
+    "ground_truth": "And I remember talking to some of the directors and producers, and they're like, well, I got this day, I got this day, I can shoot on February, I can shoot it. And they said, you know, no, I can shoot on March 3rd. And my brother, who's my partner, we looked at each other, and we were like, you got to do it on your birthday. So I was like, absolutely. So we ended up shooting that commercial that was on my birthday, and it changed my life. It really did. It changed my life. I feel sorry.",
+    "bio": "The speaker's MBTI type is ENTP"
+  }
+]

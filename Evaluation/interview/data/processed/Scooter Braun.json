@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We are friends."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, we are."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "someone that i haven't known for like the last decade of my life i get it that's all the guests that we've had on i would like"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, the fun part for me is that."
+      }
+    ],
+    "speakername": "Scooter Braun",
+    "ground_truth": "I know that you've had a lot of people on the show so far, I think two, and both of those people are better friends than me, but I am closer to you than you are with Jack when that's all that matters to me.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and he's not even in the house today jack actually just left for 10 days he's going to visit home in [state] and then he's casting the gaming tournament and so honestly the house is much quieter it's much cleaner i just feel better it's great and now [target] ronnie would show up but i guess it doesn't really matter"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now scooters."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We FaceTime a lot, so it's fine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You introduced Jack to [celebrity] and he leaves the day that you get to the house for the first time ever. That's got to say something. I think you like me more than you like Jack too."
+      }
+    ],
+    "speakername": "Scooter Braun",
+    "ground_truth": "you know it's funny because um I always I always knew he had this this strange sense of uh disloyalty towards me and um I really thought he was going to be here today but he chose um family and friends over me to see it and so I I see his priorities are probably in the right place just the worst",
+    "bio": " The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We FaceTime a lot, so it's fine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You introduced Jack to Ariana Grande and he leaves the day that you get to the house for the first time ever. That's got to say something. I think you like me more than you like Jack too."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know it's funny because um I always I always knew he had this this strange sense of uh disloyalty towards me and um I really thought he was going to be here today but he chose um family and friends over me to see it and so I I see his priorities are probably in the right place just the worst"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "individual. What a guy. So here's what I told Scooter on the phone before he got to the house today. I know that Scooter has probably told his story of his career and the way that he has evolved his brand and all the businesses that he's a part of. But I guess all the interaction that we have, it's directly related to 100 Thieves. Scooter has done everything in his power over the last year to help us be more successful. He has introduced us to so many wonderful relationships that have helped us just continue to elevate 100 Thieves. One of the best co-owners that you could ever ask for. And the one aspect of all this and our relationship is that I know your story from a high level, but I really am genuinely so curious to dig into the weeds a little bit. So not to make you do this all over again for probably the millionth time, but I'm going to make you do exactly that. I want to know where [target] started as early as you want to begin. And just, we're going to ride this journey and then we'll figure out where it goes from there. Where did Scooter begin his career?"
+      }
+    ],
+    "speakername": "Scooter Braun",
+    "ground_truth": "going to take you all the way back even before i was born no lie no actually the only reason i say that is because like to understand uh it's strange to talk about yourself but the only way to really understand me is to understand where i come from and really like the foundation my family built for me is how i kind of see the world so my grandparents um my dad's side were holocaust survivors my grandmother was in auschwitz my grandfather was in dachau they uh survived the camps pretty much lost everyone um and then found each other started family had a girl and then a boy my father then starting their family trying to re-pick up the pieces after being in these death camps with small children the hungarian revolution started and they had to escape literally in a horse and buggy they escaped over the border into austria where they'd claim refugee status and my dad is a refugee in the united states of america he came here when he was three years old grew up in queens my grandmother you know worked in a sweatshop 18 years while he was growing up my grandfather did odd jobs my mom sighed her dad died when she was 11 and her mom did everything that they could kind of survive with barely high school education and my parents both really came from nothing but love you know very loving family but didn't have resources and i was first generation to have something there was no trust fund there was nothing but my parents both became professionals both met in college and provided a nice house for us with food on the table and a really loving household and i always think about that and i think about this sense of guilt of like why me why did you know there was no nothing waiting for me to inherit but it was like why do i get a life so much better than the generations before and what's happened to me since i truly believe that everything has happened to me is because of not only sacrifices all those people made but somebody upstairs is looking out and it's not just for me to kind of reap all the benefits because all the sacrifices were from others so my entire outlook on life is like if if somebody's pouring you know goodness into my glass if i don't glass it's going to spill on the table so my job is to really make sure that i build a story for myself and my family and help as many people as possible and that's really kind of the foundation and then scooter happens my real name is scott and i was uh really skipping forward first grade third grade somewhere in there",
+    "bio": " The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you know it's funny because um I always I always knew he had this this strange sense of uh disloyalty towards me and um I really thought he was going to be here today but he chose um family and friends over me to see it and so I I see his priorities are probably in the right place just the worst"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "individual. What a guy. So here's what I told Scooter on the phone before he got to the house today. I know that Scooter has probably told his story of his career and the way that he has evolved his brand and all the businesses that he's a part of. But I guess all the interaction that we have, it's directly related to 100 Thieves. Scooter has done everything in his power over the last year to help us be more successful. He has introduced us to so many wonderful relationships that have helped us just continue to elevate 100 Thieves. One of the best co-owners that you could ever ask for. And the one aspect of all this and our relationship is that I know your story from a high level, but I really am genuinely so curious to dig into the weeds a little bit. So not to make you do this all over again for probably the millionth time, but I'm going to make you do exactly that. I want to know where [target] started as early as you want to begin. And just, we're going to ride this journey and then we'll figure out where it goes from there. Where did Scooter begin his career?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "going to take you all the way back even before i was born no lie no actually the only reason i say that is because like to understand uh it's strange to talk about yourself but the only way to really understand me is to understand where i come from and really like the foundation my family built for me is how i kind of see the world so my grandparents um my dad's side were holocaust survivors my grandmother was in auschwitz my grandfather was in dachau they uh survived the camps pretty much lost everyone um and then found each other started family had a girl and then a boy my father then starting their family trying to re-pick up the pieces after being in these death camps with small children the hungarian revolution started and they had to escape literally in a horse and buggy they escaped over the border into austria where they'd claim refugee status and my dad is a refugee in the united states of america he came here when he was three years old grew up in queens my grandmother you know worked in a sweatshop 18 years while he was growing up my grandfather did odd jobs my mom sighed her dad died when she was 11 and her mom did everything that they could kind of survive with barely high school education and my parents both really came from nothing but love you know very loving family but didn't have resources and i was first generation to have something there was no trust fund there was nothing but my parents both became professionals both met in college and provided a nice house for us with food on the table and a really loving household and i always think about that and i think about this sense of guilt of like why me why did you know there was no nothing waiting for me to inherit but it was like why do i get a life so much better than the generations before and what's happened to me since i truly believe that everything has happened to me is because of not only sacrifices all those people made but somebody upstairs is looking out and it's not just for me to kind of reap all the benefits because all the sacrifices were from others so my entire outlook on life is like if if somebody's pouring you know goodness into my glass if i don't glass it's going to spill on the table so my job is to really make sure that i build a story for myself and my family and help as many people as possible and that's really kind of the foundation and then scooter happens my real name is scott and i was uh really skipping forward first grade third grade somewhere in there"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You look like a Scott."
+      }
+    ],
+    "speakername": "Scooter Braun",
+    "ground_truth": "thanks man i never felt it but you know uh i was at a birthday party and the clown magician guy goes what's your name and i was like scott and he's like scooter and i was like that's not my name and my brother my little brother adam he saw that pain and frustration and being called scooter and that was all he needed to see to try and make that my nickname for the rest of my life",
+    "bio": " The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "going to take you all the way back even before i was born no lie no actually the only reason i say that is because like to understand uh it's strange to talk about yourself but the only way to really understand me is to understand where i come from and really like the foundation my family built for me is how i kind of see the world so my grandparents um my dad's side were holocaust survivors my grandmother was in a concentration camp my grandfather was in another camp they uh survived the camps pretty much lost everyone um and then found each other started family had a girl and then a boy my father then starting their family trying to re-pick up the pieces after being in these camps with small children the revolution started and they had to escape literally in a horse and buggy they escaped over the border where they'd claim refugee status and my dad is a refugee in this country he came here when he was three years old grew up in a major city my grandmother you know worked in a factory 18 years while he was growing up my grandfather did odd jobs my mom sighed her dad died when she was 11 and her mom did everything that they could kind of survive with barely high school education and my parents both really came from nothing but love you know very loving family but didn't have resources and i was first generation to have something there was no trust fund there was nothing but my parents both became professionals both met in college and provided a nice house for us with food on the table and a really loving household and i always think about that and i think about this sense of guilt of like why me why did you know there was no nothing waiting for me to inherit but it was like why do i get a life so much better than the generations before and what's happened to me since i truly believe that everything has happened to me is because of not only sacrifices all those people made but somebody upstairs is looking out and it's not just for me to kind of reap all the benefits because all the sacrifices were from others so my entire outlook on life is like if if somebody's pouring you know goodness into my glass if i don't glass it's going to spill on the table so my job is to really make sure that i build a story for myself and my family and help as many people as possible and that's really kind of the foundation and then my nickname happens my real name is [redacted] and i was uh really skipping forward first grade third grade somewhere in there"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You look like a [redacted]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "thanks man i never felt it but you know uh i was at a birthday party and the clown magician guy goes what's your name and i was like [redacted] and he's like [redacted] and i was like that's not my name and my brother my little brother he saw that pain and frustration and being called [redacted] and that was all he needed to see to try and make that my nickname for the rest of my life"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh, he saw an opening. It was awesome."
+      }
+    ],
+    "speakername": "Scooter Braun",
+    "ground_truth": "And it really was in high school and middle school, kind of a thing that was like really close friends knew, but no one else. When I went to my friends- You were [redacted] in high school. Yeah, I was [redacted] with like close friends calling me [redacted]. Like I'd dribble off the ball for a basketball game and my brother and people would be like, ride the [redacted] to victory. Like, you know, something like messing with me, but I was really [redacted].",
+    "bio": "The speaker's MBTI type is ESTP"
+  }
+]

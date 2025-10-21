@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to be here. Great set. I tell you, this is exciting."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you're christening it for us. You just heard Chairman Schiff lay out his case. From your perspective, is it inevitable that the [Government Building] is going to impeach President?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't think it's inevitable if you follow the facts. I heard Chairman Schiff lay out his talking points, and that's very different than the facts. And I think what we we need to understand is, is right now in the president just highlighted this in a tweet within 48 hours of the hearing that's happening in judiciary tomorrow. We have the judiciary team changing the guidelines and the rules for what impeachment is all about. After the Nixon impeachment effort, the Congressional Research Service put out guidelines and said this is what impeachment should be based on. It's been updated. Now, all of a sudden, there's newfound evidence by Jerry Nadler and his team. It's because the facts are not supporting their argument."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But when I'm asking you if you think it's inevitable, that's also a political calculation. Do you think there will be a single Republican defection to come alongside to impeach the president?"
+      }
+    ],
+    "speakername": "Mark Meadows",
+    "ground_truth": "I don't want to speak for all my colleagues, but based on my conversations with them, I don't see a single Republican defecting. They've looked at the facts. They know where we are on this. I think, if anything, there's more pressure on my Democrat colleagues, where instead of having just two defections, we may have more than that coming up as the articles get voted on. But inevitably, they're going to.",
+    "bio": "The individual is a politician serving as the U.S. representative for a southeastern state's congressional district since 2013. A member of the Republican Party, they chaired a prominent caucus from 2017 to 2019. They are considered one of the President's closest allies in Congress. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't think it's inevitable if you follow the facts. I heard Chairman Schiff lay out his talking points, and that's very different than the facts. And I think what we we need to understand is, is right now in the president just highlighted this in a tweet within 48 hours of the hearing that's happening in judiciary tomorrow. We have the judiciary team changing the guidelines and the rules for what impeachment is all about. After the Nixon impeachment effort, the Congressional Research Service put out guidelines and said this is what impeachment should be based on. It's been updated. Now, all of a sudden, there's newfound evidence by the judiciary committee and his team. It's because the facts are not supporting their argument."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But when I'm asking you if you think it's inevitable, that's also a political calculation. Do you think there will be a single Republican defection to come alongside to impeach the president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't want to speak for all my colleagues, but based on my conversations with them, I don't see a single Republican defecting. They've looked at the facts. They know where we are on this. I think, if anything, there's more pressure on my Democrat colleagues, where instead of having just two defections, we may have more than that coming up as the articles get voted on. But inevitably, they're going to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "or you're just guessing that you're gonna see more than two?"
+      }
+    ],
+    "speakername": "Mark Meadows",
+    "ground_truth": "Well, I said there's more pressure on them, and I have talked to a number of my moderate Democrat colleagues, and I know there are a few that are out there that are real concerned. Again, I don't speak for Republicans or Democrats broadly, but I do have conversations, bipartisan conversations on a regular basis.",
+    "bio": "The subject is an American politician serving as the U.S. representative for a congressional district since 2013. A member of the Republican Party, they chaired a conservative caucus from 2017 to 2019. They are considered one of the President's closest allies in Congress. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I said there's more pressure on them, and I have talked to a number of my moderate Democrat colleagues, and I know there are a few that are out there that are real concerned. Again, I don't speak for Republicans or Democrats broadly, but I do have conversations, bipartisan conversations on a regular basis."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One of the wild cards here is the president's attorney. He was in a foreign country this week."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you just heard the Chairman say he's not sure exactly what the president meant yesterday when he said that a report is going to be produced to Congress and the attorney general by the president's attorney."
+      }
+    ],
+    "speakername": "Mark Meadows",
+    "ground_truth": "Well, I think if the Chairman wants to look at the evidence, wouldn't he, whether it comes from the president's attorney or anybody else, wouldn't he be happy to see any evidence of foreign intervention in terms of the 2016 elections?",
+    "bio": "The speaker is a politician serving as the U.S. representative for a congressional district since 2013. A member of the Republican Party, he chaired a conservative caucus from 2017 to 2019. He is considered one of the President's closest allies in Congress. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you just heard the Chairman say he's not sure exactly what the president meant yesterday when he said that a report is going to be produced to Congress and the attorney general by the legal representative."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think if the Chairman wants to look at the evidence, wouldn't he, whether it comes from the legal representative or anybody else, wouldn't he be happy to see any evidence of foreign intervention in terms of the 2016 elections?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, I'm sorry, are you saying you would trust any information the legal representative produces as credible?"
+      }
+    ],
+    "speakername": "Mark Meadows",
+    "ground_truth": "I would trust any information that comes to Congress to be able to be evaluated in a neutral manner. So whether it comes from the legal representative or some opposition witness that's there, if they're bringing information, Congress has an obligation to look at it. We have the oversight responsibility. So let me just finish real quickly. So if he's getting relevant information that comes forth from the foreign country, I think it's important for us to look at it. So many times people have said, listen, citizens from that country never got involved in the 2016 election. Well, that's just not accurate.",
+    "bio": "The speaker is a politician serving as the U.S. representative for a congressional district since 2013. A member of the majority party, they chaired a congressional caucus from 2017 to 2019. They are considered one of the President's closest allies in Congress. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I would trust any information that comes to Congress to be able to be evaluated in a neutral manner. So whether it comes from some attorney or some Democrat witness that's there, if they're bringing information, Congress has an obligation to look at it. We have the oversight responsibility. So let me just finish real quickly. So if he's getting relevant information that comes forth from [COUNTRY], I think it's important for us to look at it. So many times people have said, listen, [COUNTRY] never got involved in the 2016 election. Well, that's just not accurate."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I DON'T THINK HE'S GOING TO BE ABLE TO DO THAT. THE TEACHMENT IS ABOUT THE UPCOMING ELECTION AND JOE BIDEN. ONE OF YOUR COLLEAGUES, A REPRESENTATIVE FROM [STATE], WHO IS A"
+      },
+      {
+        "speaker": "[target]",
+        "text": "suggesting that he..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the attorney needs to come in under oath."
+      }
+    ],
+    "speakername": "Mark Meadows",
+    "ground_truth": "Well, I think that the attorney, if he's got evidence that's important to illuminate this, should come in, should testify. I agree with that. The other aspect of this that is critically important that so many people are starting to look at, they're trying to focus on the attorney. This impeachment is about withholding foreign aid. And he didn't have anything to do with that. Actually, none of the promises, none of the so-called interference in elections actually ever happened. A representative just was on here just a few minutes.",
+    "bio": "The subject is an American politician serving as the U.S. representative for a congressional district since 2013. A member of the Republican Party, he chaired a prominent caucus from 2017 to 2019. He is considered one of the President's closest allies in Congress. The speaker's MBTI type is ESTJ"
+  }
+]

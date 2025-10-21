@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Today's guest is a pioneer of the online education space. Vice News called you the internet's most hated"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, reporters is one of the highest levels of psychopaths in the world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Known for his viral video, which amassed over a billion views, he's captivated audiences worldwide with a unique blend of knowledge, luxury, and practicality. All empires are built by blood, sweat, and violence. Generating hundreds of millions of dollars, he's an investor, advisor, and mentor. So let's take a deep dive into the man who built an empire from his garage and took it to the global stage. [target], welcome to the podcast. Thanks, Jack. How are you? I'm here in [location]. Your first time. It's great. [location]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "amazing honestly oh no you got to say [location] for [location] technically"
+      }
+    ],
+    "speakername": "Tai Lopez",
+    "ground_truth": "[location] is leaves out had a few people get on me for that. Yeah, you guys ignore the [location] encompasses",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So here are my garage."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "over a billion views, how much money did that video make you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It sounds like you count directly or you could, you know, it's eight figures just from the funnel, not low, mid to high figures. But then when you count all the other things that spawned off of it, you know, then it's nine figures, more than 100 million. I always tell people one good commercial, one good video can make you 10 million or 50 million. It's like it's happened to many people, not many, a few."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah but more than you think yeah one video changes so many people's lives one video have you seen this new girl that's going viral the hawk twee girl"
+      }
+    ],
+    "speakername": "Tai Lopez",
+    "ground_truth": "Have you seen this? What does she do? You've seen it. I'm not going to reproduce it, but that video has changed her life. It's just a social media video that she did on the street. Some guy asking.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "phd went to school for 15 years his friend started a janitor business in a South American city back in like 2013 2014 he told he called up phd hermione said you should buy this new thing put a thousand dollars into this thing called bitcoin yeah and my friend's like oh man i don't need that i'm a p he got all cocky i'm smart i'm smarter than you you're a janitor well the janitor he bought enough bitcoin a thousand bucks worth it turned into 37 million dollars my friend's mad about it anytime if he's watching this podcast he's gonna be pissed i'm like what country was in he's in that country but my friend is now in this country my friend's like bro this guy made more money than me spending 20 years working as a scientist it's like i got in this country you don't need this thing take a look at a book just read it the big picture you know you don't need thatá» if i met a pianist or so many sunãã there's gonna be a big lovely show that's like EVERYTHING pay attention pay attention how do you understand these videos etc"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you miss out like i tell people man people saw when i first started putting videos they're like oh [target]'s telling people that they don't need to go to college you know i was i was basically saying some people should go to college but most people don't get any benefit from it and i was like start an online business when i was telling people that in like 2011 2012 people were like oh it's a scammer now i've been vindicated i'm like everybody's like i should have listened i i just reposted a video yeah some dude i just randomly found it on instagram it's like my here in my garage video and the the caption on the top is if only we had listened because it was man when i told people to get in it was easier it's more saturated now you could still make money online but if you want to do ecom drop shipping you're joining 10 000 people that started this month yeah if you want to do personal branding if you're podcasters 5 million podcasts now when i started my podcast i don't remember the year but let's say 2011 2012"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's still."
+      }
+    ],
+    "speakername": "Tai Lopez",
+    "ground_truth": "for sure but five million podcasts it's harder to have a massive podcast because it fragments up so it's still opportunity to make money you can build a personal brand to make money but there's not many people building huge global personal brands anymore now it's all like little niche ones you were talking about college um being a scam do you still think college is a scam well it has some characteristics of a scam i'll give you an example number one",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you miss out like i tell people man people saw when i first started putting videos they're like oh [target]'s telling people that they don't need to go to college you know i was i was basically saying some people should go to college but most people don't get any benefit from it and i was like start an online business when i was telling people that in like 2011 2012 people were like oh it's a scammer now i've been vindicated i'm like everybody's like i should have listened i i just reposted a video yeah some dude i just randomly found it on instagram it's like my here in my garage video and the the caption on the top is if only we had listened because it was man when i told people to get in it was easier it's more saturated now you could still make money online but if you want to do ecom drop shipping you're joining 10,000 people that started this month yeah if you want to do personal branding if you're podcasters 5 million podcasts now when i started my podcast i don't remember the year but let's say 2011 2012. i remember being like yo i'm so late 2012. i was like some popular podcasters have podcasts like the tendency but i'm glad i got in you know i was able at one point when i was really podcasting i was like number two business podcast in the world it wasn't as hard back then now it's saturated so do you think it's still early though relatively still relatively early"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's still."
+      },
+      {
+        "speaker": "[target]",
+        "text": "for sure but five million podcasts it's harder to have a massive podcast because it fragments up so it's still opportunity to make money you can build a personal brand to make money but there's not many people building huge global personal brands anymore now it's all like little niche ones you were talking about college um being a scam do you still think college is a scam well it has some characteristics of a scam i'll give you an example number one"
+      }
+    ],
+    "speakername": "Tai Lopez",
+    "ground_truth": "other people are making most of the profit you know one of the most profitable parts of the federal government is lending money to 18 to 22 year olds to go to college look it up in the like let me watch this this is going to blow your mind people don't even believe it watch i'm gonna go to chat gbt now i use the one there's a button on chat gbt you can actually talk to it so yeah but it talks back and forth hey so how much money does the federal government make off student interest on lending americans uh money to go to college let's see what it says it's thinking just wait this thing will get faster and faster eventually it's going to be like",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In fiscal year 2020, for example, the federal student loan programs incurred a cost of approximately $18.75 for every $100 borrowed, primarily due to pandemic-related payment pauses."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, that's 2020."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In more typical years, such as 2017, the cost was lower, at about 70 cents per $100 borrowed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "70 cents is the cost."
+      }
+    ],
+    "speakername": "Tai Lopez",
+    "ground_truth": "so let that kick in that's a stat i don't even know so government their cost to lend you 100 bucks is 70 cents that means it's one of the most imagine you give somebody 100 bucks and your cost to fulfill that is 70 cent the government is making hundreds of billions it's not a small number it's built well they're lending 100 billion but it's billions so number one government somebody else is making the money that's kind of scam like yeah not the people doing it number two you can't you can get rid of almost any debt if you get in trouble by going bankrupt not allowed to go bankrupt to get rid of your college debt number three there's no refund policy people are like oh are your programs a scam i'm like well i offer a refund how much can a scam be yeah if you send money to a fraudulent person",
+    "bio": "The speaker's MBTI type is ENTP"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Hi, I'm Bill Kristol. Welcome to Conversations. And it's a great honor to have today Justice [target]. Thank you for joining us, Justice [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's been a pleasure. Thanks for inviting me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Good to have you. So how did you learn you were going to become a Supreme Court Justice? That must be a striking moment in one's life."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it was. I remember it exactly. I was sitting at my kitchen table at home in [state], drinking a cup of coffee. You're a judge at this point on the appellate. I was a judge on the Third Circuit. I had been there for 15 years."
+      }
+    ],
+    "speakername": "Samuel Alito",
+    "ground_truth": "And the phone rang, and it was a deputy counsel in the [government building] Counsel's Office, Bill Kelly, who called me to say that the president was seriously thinking about nominating me. Well, first he told me that Harriet Myers, who had been nominated for the seat, was going to withdraw, and that that was not public information at the time. And then he said the president was seriously thinking about nominating me. And he was like, was I still interested? And I said, yes, I was still interested. So that was really the, that wasn't the formal offer. And then Andy Card, who was the chief of staff at the time, called my house when I was at the office. My daughter answered the phone, and so she took a message. Andy Card from the [government building] called. It took a little while for her to realize what this might be about. Then she consulted with my son, and together they figured out what it was probably about. And so I spoke with him. And then I think maybe the next day, this happened over the course of probably three days, Andy Card had arranged for a time for the president to call me. So the president called, and he said, I would like to nominate you for a seat on the Supreme Court. And I said, well, thank you very much, Mr. President. I'd be very honored. And there was a pause. And he said, well, do you accept? He wanted to say. Yeah, right. He wanted to say. I'd like to seal the contract. So I said, yes, of course, I accept. And you had met the president before that? I had, yes. He interviewed me in July. For the opening? Yeah, the sequence was that. It was a complicated year for the Supreme Court comings and goings. It was complicated. I had actually been interviewed the first time in 2001. I think that the Bush administration, probably like.",
+    "bio": "The [target] (born April 1, 1950) is an associate justice of the Supreme Court of the United States. He was nominated by President George W. Bush on October 31, 2005, and has served since January 31, 2006. He is the second Italian-American justice to serve on the Supreme Court, after Antonin Scalia. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did he ask anything striking, or just do you think it was his mind already made up? I mean, I wonder how much a president could learn in such an interview, you know?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't, as far as I know, his mind wasn't made up. It was a very pleasant interview. We talked about the same sort of things about the approach, too."
+      },
+      {
+        "speaker": "[target]",
+        "text": "approach to judging and then we finished up by talking about baseball I was about to say he's a baseball fan yeah we spoke a little bit about baseball we went over to see that the TV where he watched baseball games"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's good. That's good. So now going backwards, you had long been interested, I think, in the judiciary as a possible career. How did that happen? People would be curious, I think. Obviously, you went to law school, but even before that, I think you had thought a little bit about the law and judging."
+      }
+    ],
+    "speakername": "Samuel Alito",
+    "ground_truth": "Yeah, I had. I think maybe I first really became interested in the Constitution when I was in high school and I was a debater. I did a lot of debating, which is kind of, you know, draws a lot of people into becoming lawyers. But anyway, one year, the national, there was in those days, I think there may still be, one national debate topic that everybody debated for the course of the whole year. And one year, it was about the exclusionary rule or some constitutional criminal procedure issue. I think it was about the exclusionary rule. And so it really, it made me start to think about the Constitution and what it meant. You look in the Constitution, there's nothing in the Constitution about the exclusionary rule. The Fourth Amendment says no unreasonable searches or seizures, but that's it. So where did this come from? Is it legitimate? If it is legitimate, what legitimizes something that is not in the Constitution? So I really began thinking about it at that time. And then when I went to law school, I'm sorry, when I went to college, I took some political science courses about the Constitution. Really some excellent courses. And that's sort of what got me started. And that was at [institution]? Yeah. I wonder who was teaching, was someone particularly? Teaching kind of like that? Well, it was in kind of a transitional period. The professor, I had two.",
+    "bio": "The speaker (born April 1, 1950) is an associate justice of the Supreme Court. He was nominated by the President on October 31, 2005, and has served since January 31, 2006. He is the second justice of his ethnic background to serve on the Supreme Court. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "approach to judging and then we finished up by talking about baseball I was about to say he's a baseball yeah you're a great sports fan yeah we spoke a little bit about baseball we went over to see that the TV where he watched baseball games"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's good. That's good. So now going backwards, you had long been interested, I think, in the judiciary as a possible career. How did that happen? People would be curious, I think. Obviously, you went to law school, but even before that, I think you had thought a little bit about the law and judging."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I had. I think maybe I first really became interested in the Constitution when I was in high school and I was a debater. I did a lot of debating, which is kind of, you know, draws a lot of people into becoming lawyers. But anyway, one year, the national, there was in those days, I think there may still be, one national debate topic that everybody debated for the course of the whole year. And one year, it was about the exclusionary rule or some constitutional criminal procedure issue. I think it was about the exclusionary rule. And so it really, it made me start to think about the Constitution and what it meant. You look in the Constitution, there's nothing in the Constitution about the exclusionary rule. The Fourth Amendment says no unreasonable searches or seizures, but that's it. So where did this come from? Is it legitimate? If it is legitimate, what legitimizes something that is not in the Constitution? So I really began thinking about it at that time. And then when I went to law school, I'm sorry, when I went to college, I took some political science courses about the Constitution. Really some excellent courses. And that's sort of what got me started. And that was at [Institution]? Yeah. I wonder who was teaching, was someone particularly? Teaching kind of like that? Well, it was in kind of a transitional period. The professor, I had two."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I love that."
+      }
+    ],
+    "speakername": "Samuel Alito",
+    "ground_truth": "[Professor 1] taught the main course, but he was there for just a short time. [Professor 2] had been teaching it, and he was on leave during the year when I took it. But then he became my senior thesis advisor.",
+    "bio": "The target (born April 1, 1950) is an associate justice of the [High Court]. He was nominated by President [Former President] on October 31, 2005, and has served since January 31, 2006. He is the second [ethnic background] justice to serve on the [High Court], after [Previous Justice]. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's good. That's good. So now going backwards, you had long been interested, I think, in the judiciary as a possible career. How did that happen? People would be curious, I think. Obviously, you went to law school, but even before that, I think you had thought a little bit about the law and judging."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I had. I think maybe I first really became interested in the Constitution when I was in high school and I was a debater. I did a lot of debating, which is kind of, you know, draws a lot of people into becoming lawyers. But anyway, one year, the national, there was in those days, I think there may still be, one national debate topic that everybody debated for the course of the whole year. And one year, it was about the exclusionary rule or some constitutional criminal procedure issue. I think it was about the exclusionary rule. And so it really, it made me start to think about the Constitution and what it meant. You look in the Constitution, there's nothing in the Constitution about the exclusionary rule. The Fourth Amendment says no unreasonable searches or seizures, but that's it. So where did this come from? Is it legitimate? If it is legitimate, what legitimizes something that is not in the Constitution? So I really began thinking about it at that time. And then when I went to law school, I'm sorry, when I went to college, I took some political science courses about the Constitution. Really some excellent courses. And that's sort of what got me started. And that was at [institution]? Yeah. I wonder who was teaching, was someone particularly? Teaching kind of like that? Well, it was in kind of a transitional period. The professor, I had two."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I love that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Charles Miller taught the main course, but he was there for just a short time. Walter Murphy had been teaching it, and he was on leave during the year when I took it. But then he became my senior thesis advisor."
+      }
+    ],
+    "speakername": "Samuel Alito",
+    "ground_truth": "he had become very interested in comparative constitutional law. He had done a lot of work with the [institution] Supreme Court. And I had taken these courses, and I was sort of looking for, I must confess, a summer boondoggle in [region]. And there was a scholarship to go to [region] to study something or other whatever you wanted, and you had to propose something. So I had never met him. I went to see him, and I said, I'd like to write my thesis on the [institution] Constitutional Court and go to [country] to do some research. I'm interested in the summer boondoggle. He probably knew. He was probably used to dealing with students that way. So anyway.",
+    "bio": "An associate justice of the Supreme Court of the United States. He was nominated by President [redacted] on October 31, 2005, and has served since January 31, 2006. He is the second [ethnicity] justice to serve on the Supreme Court, after [redacted]. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "about so"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is that right? So you went to [Country] and wrote on? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. That's great."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's great. But your family didn't? Your father wasn't a lawyer or there were lawyers? No, no, there were no lawyers and no lawyers."
+      }
+    ],
+    "speakername": "Samuel Alito",
+    "ground_truth": "and a family. Both my parents originally were teachers and then my mother stayed a teacher for her whole life. I think she only left when the police came to her classroom when she reached the mandatory retirement age and physically removed her. She loved it. But my father left teaching just shortly after I was born and he became kind of the one man [State] equivalent of the [Government Research Department]. So it's hard to believe in those days. Today all the state legislatures I think have enormous staffs just like Congress. But in those days the [State] legislature had, prior to my father's starting, they had two staff people, period. They didn't have partisan staff, they didn't have nonpartisan staff, they had a bill drafter and an accountant. And then they added my father as the researcher. So he was part of that. Yeah. So he was their researcher and he did a lot of drafting of legislation and researching projects for, it was a nonpartisan position. So I became somewhat interested, that was one of the other things that got me interested in law because although he wasn't a lawyer he was working with legislation.",
+    "bio": "The speaker is an associate justice of the [National High Court]. They were nominated by the President in October 31, 2005, and has served since January 31, 2006. They are the second person of their ethnic background to serve on the [National High Court]. The speaker's MBTI type is ESTJ"
+  }
+]

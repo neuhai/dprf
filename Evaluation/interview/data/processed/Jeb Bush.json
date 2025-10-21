@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, well, I was in [city] on business, and then tonight, I'm going back to [airport] tonight and got a 6 o'clock in the morning flight."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you don't want to go to the opening game at [stadium] today."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, my God. In fact, I was invited. It would have been terrible."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right."
+      }
+    ],
+    "speakername": "Jeb Bush",
+    "ground_truth": "I was invited to go, was it last night that they were gonna play before the, I think there was a game, was there a game last night or today was the opening day?",
+    "bio": "A prominent American businessman and politician who served as a state governor from 1999 to 2007. Growing up in a major Texas city, he is the second son of a former U.S. President and First Lady, and a younger brother of another former U.S. President. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "closed completely."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This stadium has a retractable roof, yeah, which is really nice."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we've got one in this city, too. It's great."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the heat more so than anything, and the storms too, yeah."
+      }
+    ],
+    "speakername": "Jeb Bush",
+    "ground_truth": "It's because it normally rains right about when baseball starts, like 6.30, 7. But there's no one there.",
+    "bio": "Born February 11, 1953, the subject is an American businessman and politician who served as a state governor from 1999 to 2007. Growing up in a major southern city, the subject is from a prominent political family, being the son of a former president and the brother of another former president. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's because it normally rains right about when baseball starts, like 6.30, 7. But there's no one there."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's the sad part. We don't have any more."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, everything's cyclical, you know what I mean?"
+      }
+    ],
+    "speakername": "Jeb Bush",
+    "ground_truth": "our best player. [Player name], is he still here? [Player name]? Oh, [Player name]? Yeah, he is. He's unbelievable.",
+    "bio": "An American businessman and politician who served as a state governor from 1999 to 2007. Growing up in [city], he is the second son of a former President and former First Lady, and a younger brother of another former President. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, you're here at a regional university to talk about world affairs. How do you think the affairs of our world are going right now and our role in it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "pretty a pretty dangerous time right now with the invasion of Ukraine I think I think the United States has stepped up diplomatically very effectively I think regaining the trust of the European NATO alliance has been important I would hope that the president would not constantly in his team not constantly tell Russia what we're not going to do and focus a little bit more on providing support that's been asked for by"
+      },
+      {
+        "speaker": "[target]",
+        "text": "President Zelensky. We've provided a lot of support, but this is a critical moment as it relates to the notion that somehow Russia was inevitable that they would conquer Ukraine has been proven wrong, and now there's a possibility of a stalemate being broken by Ukraine winning. But that requires more support, more military support, more intelligence support. It doesn't require U.S. troops. So hopefully that's the next stage of this, and I hope there's a sense of urgency about it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, I think a lot of people here in the U.S., you know, we see so much on the television screens about this war. But a lot of us feel like it's a world away. How can the war over there impact us here in the U.S. directly? I mean, besides economically, we're already seeing a lot of that. But, you know, the everyday life, I mean, what's at threat here? What's at risk?"
+      }
+    ],
+    "speakername": "Jeb Bush",
+    "ground_truth": "So the threat is that if the world becomes so unstable because the United States no longer is a viable ally, you're going to see disruptions the likes of which we haven't imagined in the most recent past. You could see China invading Taiwan. Trust me, the Chinese are watching the United States' response to this. You could see alliances change both economically and militarily in Southeast Asia. You could see at the same time we're dealing with the Ukraine situation, we're trying to negotiate with the Iranians a new agreement. And that's disrupting security in the Middle East. And the United States can't just be isolated from the rest of the world. But for us, who? Who is going to lead the world to create a more stable place where we can prosper and where we don't have disruptions in our economic life or certainly threats of national security? So. I think it's important. We don't have to have, we don't have to be the world's policemen.",
+    "bio": "A prominent American businessman and politician who served as a state governor from 1999 to 2007. Born in 1953, he grew up in a major Texas city and comes from a politically prominent family. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, [state] decides presidential elections. That's been proven."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We used to say [state] did."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "They too. It kind of depends on the year. How do you think Republicans go about winning [state] back in 2024?"
+      }
+    ],
+    "speakername": "Jeb Bush",
+    "ground_truth": "I think focusing on the future, not about the past, there's a lot of interest in what happened in previous elections and people don't want to hear that. They want to know how can I, is there enough stability for me to be able to pursue my dreams? Can I take care of my family? Are crime rates going down rather than up? Are gas prices going down because we have an energy policy that allows for more production? Will my children be able to afford getting a degree and is that degree purposeful in meaningful right now? Those are the issues that controlling our border, a strong national defense, a forward leaning policy I think is how we win. Less about the past, less about all these divisive things that tear us apart, more about giving people hope that there's going to be a better future if our team wins.",
+    "bio": "The speaker (born February 11, 1953) is an American businessman and politician who served as the governor of a southern state from 1999 to 2007. Growing up in a major city in [state], the speaker is from a prominent political family and has close relatives who have served in high government positions. The speaker's MBTI type is ISTJ"
+  }
+]

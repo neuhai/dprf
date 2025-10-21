@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "they drink. It's the first time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's actually a very exciting show."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's been a long time to get me here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that we had your wife on way before you."
+      }
+    ],
+    "speakername": "Dave Ramsey",
+    "ground_truth": "Yeah, it is. But she was a fan favorite. I hope you beat her. It's crazy that she's way more popular than me. Yeah.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you passed everything. It's a fast pass but for travel. Straight through like like you own the place and boom one of them we went to in a foreign country they sit you in a lounge and bring food while they run all your stuff and then you go get in the car and leave."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Oh, wow."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, that's bougie travel right there. I mean, that was."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "That's crazy rotations."
+      }
+    ],
+    "speakername": "Dave Ramsey",
+    "ground_truth": "That's money well spent when you're living like no one else. So yeah, that kind of like just make my life good when I'm traveling. I don't want travel stress.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's money well spent when you're living like no one else. So yeah, that kind of like just make my life good when I'm traveling. I don't want travel stress."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Come on."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I enjoy the whole thing and stuff like that where I'm not standing in line, life is good."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you do the flights that have like their own bathroom, and like when you go international?"
+      }
+    ],
+    "speakername": "Dave Ramsey",
+    "ground_truth": "i saw that one on [airline] yeah yeah that thing you get like your own apartment or something yeah i've got to do that one of these days but i understand it's pretty expensive i might not be willing to spring to that but it's more of a willingness though at this point yeah it's pretty cool though but that kind of stuff i mean we want to",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I enjoy the whole thing and stuff like that where I'm not standing in line, life is good."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you do the flights that have like their own bathroom, and like when you go international?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "i saw that one on emirates yeah yeah that thing you get like your own apartment or something yeah i've got to do that one of these days but i understand it's pretty expensive i might not be willing to spring to that but it's more of a willingness though at this point yeah it's pretty cool though but that kind of stuff i mean we want to"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "to do that one of these days but i understand it's pretty expensive i might not be willing to spring to that but it's more of a willingness though at this point yeah"
+      }
+    ],
+    "speakername": "Dave Ramsey",
+    "ground_truth": "We don't want to go travel, you know, halfway, 24 hours or 20 hours on a plane and then stay in the budget motel just to say we got to go to some country, right? So, yeah, we spend money on travel.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "on how you were growing up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "until we had the money and to do it right."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "To do it right, that's what I'm saying. I feel like even then."
+      },
+      {
+        "speaker": "[target]",
+        "text": "People are doing stuff like that in my world anyway. I don't know about necessarily our customer or the viewer of this."
+      }
+    ],
+    "speakername": "Dave Ramsey",
+    "ground_truth": "In our world, growing up, people going on vacation couldn't afford it. It's like they're buying a car they couldn't afford.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  }
+]

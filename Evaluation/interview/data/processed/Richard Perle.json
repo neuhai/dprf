@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's improving since the change in policy that's often referred to as the search, which is more than just sending a few thousand additional troops. It's a whole change in the approach to the situation and one that appears to be working reasonably well. It's been a very difficult five years, obviously, and the insurgency that was not anticipated as it in fact developed has claimed a great many lives, innocent lives mostly. People have been killed in order to try to terrorize them and to drive the nation out. After all of that, it's five years later, and the former leader is no longer ruling that country brutally, sadistically, as he once did. And the people have shown extraordinary courage in standing up and expressing themselves at the ballot box. And, frankly, in putting up with the tremendously difficult situation they've faced, and I think they're now coming out of it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you see"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "the surge, I mean a lot of the reduction in the level of violence is also, can be attributed to the fact that many of the Sunni militias are now on the side of the nation, these so-called awakening councils, that's one thing. The other is that Muqtada al-Sadr is still holding to a ceasefire, so that has contributed quite a bit to that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I certainly agree with that. The change in the attitude of the traditional Sunni leadership has been crucial to this. As for Muqtada al-Sadr, he's certainly capable of igniting violence and seems to have specialized in doing that. Well, I want to ask you about that because, I mean, that is very tenuous, isn't it? He could change his mind tomorrow. Well, I'm not sure he..."
+      }
+    ],
+    "speakername": "Richard Perle",
+    "ground_truth": "has the capacities today that he had before. And I think one of the reasons for his ceasefire is that if there were no ceasefire, he would be hard put to demonstrate the capabilities he had a year ago. I think he's declined significantly. And that's a good thing because he was certainly not contributing to the reconstruction, the peaceful democratic development of the region.",
+    "bio": "The target (born September 16, 1941) is a government official who served as Assistant Secretary of Defense for Global Strategic Affairs under a former president. He began his political career as a senior staff member to a prominent Senator on the Senate Armed Services Committee in the 1970s. He served on the Defense Policy Board Advisory Committee from 1987 to 2004 where he served as chairman from 2001 to 2003 under the administration before resigning due to conflict of interests.\n\nHe has been involved with several think-tanks throughout his career including various policy institutes and research organizations focused on national security and foreign policy. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I certainly agree with that. The change in the attitude of the traditional Sunni leadership has been crucial to this. As for Muqtada al-Sadr, he's certainly capable of igniting violence and seems to have specialized in doing that. Well, I want to ask you about that because, I mean, that is very tenuous, isn't it? He could change his mind tomorrow. Well, I'm not sure he..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "has the capacities today that he had before. And I think one of the reasons for his ceasefire is that if there were no ceasefire, he would be hard put to demonstrate the capabilities he had a year ago. I think he's declined significantly. And that's a good thing because he was certainly not contributing to the reconstruction, the peaceful democratic development of Iraq."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What about the political changes that the United States wanted in Iraq, the government in Iraq, the political institutions in Iraq have not lived up to that, have they?"
+      }
+    ],
+    "speakername": "Richard Perle",
+    "ground_truth": "I think they're coming along. I wish there were an easy, quick way to bring about democratic reform. But after three decades of the previous regime, I wouldn't fault the distance that the Iraqis have come. Against that background, they've made significant progress. And at the end of the day, when they do achieve decent representative government, humane government, it may not look exactly like our concept, but that's all right. They're Iraqis. They have to choose their own approach to governance. I just hope that it's decent and humane.",
+    "bio": "Born September 16, 1941, the subject is a statesman who served as Assistant Secretary of Defense for Global Strategic Affairs under a former president. He began his political career as a senior staff member to a Senator on the Senate Armed Services Committee in the 1970s. He served on the Defense Policy Board Advisory Committee from 1987 to 2004 where he served as chairman from 2001 to 2003 under the administration before resigning due to conflict of interests.\n\nHe has been involved with several think-tanks throughout his career including multiple policy institutes and research centers. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, of course, the remark from a prominent magazine was made last November when, at what may have been the darkest moment, when I believe the administration was pursuing a wrong and fatal strategy. Happily, that changed, and we're now pursuing a strategy that I think has a reasonable chance of success. I did not anticipate how badly the administration would mess things up, frankly. I believed that after the leader was removed, we would turn things over to the locals, and they would begin the process of developing their own institutions, preparing for elections, managing the country, with our support to be helpful. I never anticipated that we would send somebody from the capital, in fact, some thousands of people from the capital, to try to administer, govern the region. We didn't know how to do that. It was a foolish venture. We should never have done it. And so I was deeply disappointed in that. And when I said if I'd been Delphic, what I had in mind was if I had understood how badly the follow-up to the leader's removal was going to be handled."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you say a reasonable chance of success, even now, how do you measure that? At what point could you say, for instance, troops could start returning home?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "measure success."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll be right back."
+      }
+    ],
+    "speakername": "Richard Perle",
+    "ground_truth": "by the return of troops. Well, that's just one measure, but I'm wondering how you measure it. A lot of people do. We still have troops overseas.",
+    "bio": "Born September 16, 1941, the target is a prominent statesman who served as Assistant Secretary of Defense for Global Strategic Affairs under a former president. The target began their political career as a senior staff member to a Senator on the Senate Armed Services Committee in the 1970s. They served on the Defense Policy Board Advisory Committee from 1987 to 2004 where they served as chairman from 2001 to 2003 under the administration before resigning due to conflict of interests.\n\nThey have been involved with several think-tanks throughout their career including various policy institutes and research organizations focused on defense, security, and international relations. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you say a reasonable chance of success, even now, how do you measure that? At what point could you say, for instance, U.S. troops could start returning to the United States?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "measure success."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "by the return of U.S. troops. Well, that's just one measure, but I'm wondering how you measure it. A lot of people do. We still have troops in [country]."
+      }
+    ],
+    "speakername": "Richard Perle",
+    "ground_truth": "a long time after major conflict. But they're not playing the same role. They're not playing the same role, and so I think that's very important. If American troops were still essential to maintaining security,",
+    "bio": "The subject (born September 16, 1941) is an American statesman who served as Assistant Secretary of Defense for Global Strategic Affairs under a presidential administration. He began his political career as a senior staff member to a Senator on the Senate Armed Services Committee in the 1970s. He served on the Defense Policy Board Advisory Committee from 1987 to 2004 where he served as chairman from 2001 to 2003 under another administration before resigning due to conflict of interests.\n\nHe has been involved with several think-tanks throughout his career including various policy institutes and advisory boards focused on national security and foreign policy. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "five years from now, that would not be very successful. So the handover has to take place, but I believe there is a role for the United States in an improving situation, which is very different from the role that we played before the surge, and even different from the role that we've been playing since the surge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you look at this, the last five years, and if you ask yourself why did the United States go to war, were there any specific aims that the United States had in mind and have those aims been achieved?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There were very clear aims in mind. One has to go back sort of psychologically to September 11, 2001. The administration looks around and says, my God, what might happen next? And the fear that seized senior officials of the administration from the president on down was the possibility of another attack, this time with chemical or biological weapons or even nuclear weapons or nuclear materials. And so the administration asked itself, could this happen? And if so, who is capable of doing it? And they made up a list. And Saddam Hussein was on that list because he was believed to possess stockpiles of weapons of mass destruction. And he was known for sure to have created them in the past and actually to have used them. So the United States went into Iraq to eliminate that threat. Not to build democracy, not to steal Iraq's oil, not for broad geopolitical reasons, but because the importance of dealing with that threat became a near obsession of the administration after 9-11."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay. Well, let me ask you this then. If those aims have been met, is the United States or the security of the United States, is it more secure today than it was, say, before the invasion?"
+      }
+    ],
+    "speakername": "Richard Perle",
+    "ground_truth": "Well, I think we are more secure than we were before the invasion. And we're certainly more secure than we were before 9-11. Before 9-11, we were as vulnerable as we were found to be on 9-11. And if bin Laden waited until he got the biological weapons he was looking for, God knows how many people would have died in a major city or in some other attack. So we've now come to terms with the seriousness of not only bin Laden, but people around the world, happily not in huge numbers, but in significant numbers, who want to destroy Americans in America and will commit suicide in the process of doing it and will inflict as much damage as they can. So are we safer now? We certainly are. We understand the threat we face, and we didn't understand it.",
+    "bio": "The subject (born September 16, 1941) is an American statesman who served as Assistant Secretary of Defense for Global Strategic Affairs under a former president. He began his political career as a senior staff member to a Senator on the Senate Armed Services Committee in the 1970s. He served on the Defense Policy Board Advisory Committee from 1987 to 2004 where he served as chairman from 2001 to 2003 under the administration before resigning due to conflict of interests.\n\nHe has been involved with several think-tanks throughout his career including various policy institutes and research centers focused on national security and foreign policy. The speaker's MBTI type is ESTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "[target] and who he shared a flat with what he collected"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, he collected silver, and I'm a silver man here, quite seriously."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "he was very influenced by people in his collecting and i mentioned anthony blunt whom he i'll tell you a funny story about anthony blunt because he was such a friend that when my father married my mother at every single meal on the honeymoon anthony blunt was there and in the end my mother said um couldn't we have one meal in there and my father said barbara you're talking about a saint blunt as many things"
+      }
+    ],
+    "speakername": "Jacob Rothschild, 4th Baron Rothschild",
+    "ground_truth": "but he did guide my father in one era of his collecting which was Cezanne and Gauguin and Modigliani and then on the other",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "This painting by the artist of her in a coastal region in 1919 drew the most wonderful story for me about her birthday present from the artist every year."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that was very nice actually yes um i mean the artist drew her um tried hard to acquire a painting which belonged to my uncle about two years ago but now the artist i used to go and have tea with my grandmother on her birthday and the artist used to send her air and lilies which he painted the inside of and then i'd go back a week later and you could see these the lilies gradually deteriorating i can't bear it did you take a photograph"
+      },
+      {
+        "speaker": "[target]",
+        "text": "They were just, you know, they were typically artistic. They were beautifully colored inside the Aram Lilies."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Thrilling. Absolutely thrilling. And here she is again by the artist. And she was key to your first collecting, wasn't she?"
+      }
+    ],
+    "speakername": "Jacob Rothschild, 4th Baron Rothschild",
+    "ground_truth": "She was key to my first collection. The picture on the left is a drawing of her by the artist, which was left to my uncle, and unfortunately he sold it at auction. It fetched so much money, we couldn't buy it.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "They were just, you know, they were typically Matis. They were beautifully colored inside the Aram Lilies."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Thrilling. Absolutely thrilling. And here she is again by Matisse. And she was key to your first collecting, wasn't she?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "She was key to my first collection. The picture on the left is a drawing of her by Matisse, which was left to my uncle, and unfortunately he sold it at auction. It fetched so much money, we couldn't buy it."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "You hoped it would get tax exemption, but it was more valuable than the estate."
+      }
+    ],
+    "speakername": "Jacob Rothschild, 4th Baron Rothschild",
+    "ground_truth": "a long tax thing, but he didn't have enough tax in the rest of his state to do acceptance of new schemes.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "She was key to my first collection. The picture on the left is a drawing of her by an artist, which was left to my uncle, and unfortunately he sold it at auction. It fetched so much money, we couldn't buy it."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "You hoped it would get tax exemption, but it was more valuable than the estate."
+      },
+      {
+        "speaker": "[target]",
+        "text": "a long tax thing, but he didn't have enough tax in the rest of his state to do acceptance of new schemes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Thank you."
+      }
+    ],
+    "speakername": "Jacob Rothschild, 4th Baron Rothschild",
+    "ground_truth": "And on the right, my grandmother gave me that little painting by an artist who many of you may not know, who was connected between the kind of French school. He was a friend of many artists and very much involved in the art world. And then he came over and married an artist and knew that artistic circle. And he painted, my grandmother gave me that picture of the little bird when I was aged 11. And I always loved it. And then another artist, I don't know how you remember him. He had a huge collection of artwork. And I remember buying a number of them 50 years ago. And since then, only two people have collected these works. One is a curator at a major museum, ex the museum, and the other one is me. I think I have 70 paintings by this artist.",
+    "bio": " The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "a long tax thing, but he didn't have enough tax in the rest of his state to do acceptance of new schemes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And on the right, my grandmother gave me that little painting by an artist who many of you may not know, who was connected between the kind of French school. He was a friend of it, and it was hard and very much. And then he came over and married a local artist and knew that artistic circle. And he painted, my grandmother gave me that picture of the little bird when I was aged 11. And I always loved it. And then another artist, I don't know how you remember them. He had a huge collection of artworks. And I remember buying a number of them 50 years ago. And since then, only two people have collected these works. One is an art curator at a major museum, and the other one is me. I think I have 70 paintings by this artist."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Wow, so that tweaked you up. And then this was the next tweak on the left, which was the gookie."
+      }
+    ],
+    "speakername": "Jacob Rothschild, 4th Baron Rothschild",
+    "ground_truth": "Well, yes, she was a great... Some of you in this audience may have known her, a notable collector. She was the wife of an artist, and he had a tragic end to his life. He got cancer. His wife actually ran off with another artist for 48 hours, and then his pictures were subject to a fire, and the three things upset him so much that he took his own life.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  }
+]

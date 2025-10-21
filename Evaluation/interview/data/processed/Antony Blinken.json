@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a work in progress. This is something that we need to do in the interests of both of our countries. That is not only to establish and re-establish and strengthen lines of communication across our government, which we have done starting with this trip and I believe visits to follow by a number of my colleagues and then Chinese officials come to our country, usually important if we're going to responsibly manage the relationship, if we're going to communicate clearly and try to avoid the competition that we have veering into conflict. But an aspect of that that really is important is military to military. We don't have an agreement on that yet. It's something we're going to keep working. I made very clear to our counterparts the importance that we attach to that, something that is also profoundly in their interest. Because again, we both agree that we want to, at the very least, make sure that we don't inadvertently have a conflict because of miscommunication, because of misunderstanding."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So, the leader didn't say, absolutely not. No, this is a word... It was just not a commitment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is a work in progress, we're working on it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Will the defense chiefs at least talk to each other?"
+      }
+    ],
+    "speakername": "Antony Blinken",
+    "ground_truth": "Well, again, to be seen. We've made clear that we think that's important, more than important, imperative. I think they understand very well, because I made very clear where we're coming from on this, and we'll keep working it.",
+    "bio": "The speaker (born April 16, 1962) is an American government official who served as Deputy Secretary of State from 2015 to 2017 and Deputy National Security Advisor from 2013 to 2015 under a previous administration. They previously served as a senior fellow at a prominent think tank (2001-2002), Democratic Staff Director of a major Senate committee (2002-2008), and a member of the presidential transition team, active from November 2008 to January 2009, among other positions. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This is a work in progress, we're working on it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Will the defense chiefs at least talk to each other?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, again, to be seen. We've made clear that we think that's important, more than important, imperative. I think they understand very well, because I made very clear where we're coming from on this, and we'll keep working it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "During the conflict period, Country A and Country B had that hotline. Is that the kind of thing you're imagining? How would this kind of communication work?"
+      }
+    ],
+    "speakername": "Antony Blinken",
+    "ground_truth": "It's less a hotline and more regular engagement, regular communication, so that they understand what we're doing and not doing. We understand what they're doing and not doing. We have greater clarity on each other's intent in different places. And in particular, when we have incidents like the instance that we just had a couple of weeks ago with them driving their boats much too close to ours or their planes flying in very dangerous ways, near ours that we have a channel established that we can go to to deal with the problem.",
+    "bio": "The subject (born April 16, 1962) is a government official who served as Deputy Secretary of State from 2015 to 2017 and Deputy National Security Advisor from 2013 to 2015 under a previous administration. They previously served as a senior fellow at a strategic studies institute (2001-2002), Democratic Staff Director of the Foreign Relations Committee (2002-2008), and a member of the presidential transition team, active from November 2008 to January 2009, among other positions. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, again, to be seen. We've made clear that we think that's important, more than important, imperative. I think they understand very well, because I made very clear where we're coming from on this, and we'll keep working it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "During the period of international tension, the nation and its rival had that hotline. Is that the kind of thing you're imagining? How would this kind of communication work?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's less a hotline and more regular engagement, regular communication, so that they understand what we're doing and not doing. We understand what they're doing and not doing. We have greater clarity on each other's intent in different places. And in particular, when we have incidents like the instance that we just had a couple of weeks ago with them driving their boats much too close to ours or their planes flying in very dangerous ways, near ours that we have a channel established that we can go to to deal with the problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But that architecture just doesn't exist right now."
+      }
+    ],
+    "speakername": "Antony Blinken",
+    "ground_truth": "Well, we, of course, have many ways to communicate with their government. It's exactly what we're doing, and we're seeing that now pick up in part as a result of this trip. It's fundamentally in our interest to do that. But one aspect that remains is the military-to-military, and we'll keep pressing it.",
+    "bio": "The subject (born April 16, 1962) is a government official who served as Deputy Secretary of State from 2015 to 2017 and Deputy National Security Advisor from 2013 to 2015 under a previous administration. They previously served as a senior fellow at a major policy research institute (2001-2002), Democratic Staff Director of the Foreign Relations Committee (2002-2008), and a member of the presidential transition team, active from November 2008 to January 2009, among other positions. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we, of course, have many ways to communicate with the foreign government. It's exactly what we're doing, and we're seeing that now pick up in part as a result of this trip. It's fundamentally in our interest to do that. But one aspect that remains is the military-to-military, and we'll keep pressing it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you assess that the foreign government is not committing because they benefit somehow from ambiguity, because it complicates the presence in the region?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't want to speak for them or attribute anything to them. But you have a theory."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll see you next time."
+      }
+    ],
+    "speakername": "Antony Blinken",
+    "ground_truth": "Well, we know that they have some concerns, including some of our sanctions, for example. That's a problem for them.",
+    "bio": "[target] (born April 16, 1962) is a government official who served as Deputy Secretary of State from 2015 to 2017 and Deputy National Security Advisor from 2013 to 2015 under the previous administration. He previously served as a senior fellow at a policy research center (2001-2002), Democratic Staff Director of a Senate Committee (2002-2008), and a member of the presidential transition team, active from November 2008 to January 2009, among other positions. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't want to speak for them or attribute anything to them. But you have a theory."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll see you next time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we know that they have some concerns, including some of our sanctions, for example. That's a problem for them."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Steve."
+      }
+    ],
+    "speakername": "Antony Blinken",
+    "ground_truth": "for example, which does not prevent at all contact or communication between the defense chief and Secretary Austin. So again, this is something that we've engaged on these past couple of days. They know exactly where we're coming from, the importance that we attach to it, why we think it's beneficial to both of us, and as I said, we'll keep working it.",
+    "bio": "The target (born April 16, 1962) is an American government official who served as Deputy Secretary of State from 2015 to 2017 and Deputy National Security Advisor from 2013 to 2015 under a previous administration. They previously served as a senior fellow at a strategic research institute (2001-2002), Democratic Staff Director of a Senate Committee (2002-2008), and a member of a presidential transition team, active from November 2008 to January 2009, among other positions. The speaker's MBTI type is ISTJ"
+  }
+]

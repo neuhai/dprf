@@ -1,0 +1,113 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you for inviting me."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now, your company does a lot of things, invests in a wide range of areas, but it would be good to start with the shows you are producing. On a major streaming platform, one of them, one is about to come on another streaming service. Is that a sign of the times? Was the demand from them just way higher than the traditional broadcasters?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well they're another source for content creators. When a major streaming service changed from sending to you by mail and started to stream, we got very involved with them. We made a show called BoJack Horseman, which I think is a pretty good show. We just put on a show from the same group called Tuca and Bertie. We have a show at another streaming service and a cable network. Whoever wants us, we'll go."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It used to be so simple though with streaming and now there are so many choices and an increasing number of choices on the way. Is there such a thing as too many choices? Is this going to get as expensive as cable?"
+      }
+    ],
+    "speakername": "Michael Eisner",
+    "ground_truth": "I never thought it was simple when I was one of three network buyers. Now I'm thinking how fantastic it was. You know, you got everything that was presented to you. You had two competitors. You had 30 percent of the audience. If you had less than 30 percent, you got canceled. It's a different world. It's a great world. It's great for content creators. It's great for the consumer. It's revolutionary. It's no more revolutionary than going from radio to movies to television to video to Blu-ray to cable. It's just the next technological version of still trying to come up with something that makes you laugh or cry or be interested.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well they're another source for content creators. When a streaming service changed from sending to you by mail and started to stream, we got very involved with them. We made a show called [Show Name], which I think is a pretty good show. We just put on a show from the same group called [Show Name]. We have a show at [Company], [Company]. Whoever wants us, we'll go."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It used to be so simple though with streaming and now there are so many choices and an increasing number of choices on the way. Is there such a thing as too many choices? Is this going to get as expensive as cable?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I never thought it was simple when I was one of three network buyers. Now I'm thinking how fantastic it was. You know, you got everything that was presented to you. You had two competitors. You had 30 percent of the audience. If you had less than 30 percent, you got canceled. It's a different world. It's a great world. It's great for content creators. It's great for the consumer. It's revolutionary. It's no more revolutionary than going from radio to movies to television to video to Blu-ray to cable. It's just the next technological version of still trying to come up with something that makes you laugh or cry or be interested."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Does that mean I mean, there's a growing sense on Wall Street that people are giving [Company] credit, the company credit for being best positioned in this world among the traditional media companies just because of the brand, the intellectual property is in house. But this idea that [Company] with a few billion dollars a year can create a virtual library pretty quickly, it would suggest it's not that easy. So if you were back at [Company], would you feel well positioned or not?"
+      }
+    ],
+    "speakername": "Michael Eisner",
+    "ground_truth": "Well, we always like getting credit, so whether we deserved it or not, it was always good. Yeah, [Company], I don't know, I went there in 84, and everybody talked about how it was going to end, and it wasn't going to end because it had these great legacy, family-oriented products, which we helped recreate. [Company] has a great legacy. [Executive] following me, has done a great job putting [Company] and [Company] and [Company] in their vocabulary, buying [Company], forget how much they paid for all these things. It gives them an advantage. I would say [Company], being the first mover, is not to be discarded. [Company] is not to be discarded. [Company], we just are about to make a big content deal with [Company] at [Company]. They're not. They're not to be discarded. [Company], where the [Company] Library is not to be discarded. And then there are many others. There are too many others. There will be blood on the floor. It may take five years to find out who they are, but right now the enthusiasm is spreading like wildfire, and a lot of people are benefiting from it, and some people are worried about what will happen.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I never thought it was simple when I was one of three network buyers. Now I'm thinking how fantastic it was. You know, you got everything that was presented to you. You had two competitors. You had 30 percent of the audience. If you had less than 30 percent, you got canceled. It's a different world. It's great world. It's great for content creators. It's great for the consumer. It's revolutionary. It's no more revolutionary than going from radio to movies to television to video to Blu-ray to cable. It's just the next technological version of still trying to come up with something that makes you laugh or cry or be interested."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Does that mean I mean, there's a growing sense on Wall Street that people are giving [company] credit, the company credit for being best positioned in this world among the traditional media companies just because of the brand, the intellectual property is in house. But this idea that [company] with a few billion dollars a year can create a virtual library pretty quickly, it would suggest it's not that easy. So if you were back at [company], would you feel well positioned or not?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we always like getting credit, so whether we deserved it or not, it was always good. Yeah, [company], I don't know, I went there in 84, and everybody talked about how it was going to end, and it wasn't going to end because it had these great legacy, family-oriented products, which we helped recreate. [company] has a great legacy. [executive] has done a great job putting [company] and [company] and [company] in their vocabulary, buying [company], forget how much they paid for all these things. It gives them an advantage. I would say [company], being the first mover, is not to be discarded. [company] is not to be discarded. [company], we just are about to make a big content deal with [company] at [company]. They're not. They're not to be discarded. [company], where the [company] Library is not to be discarded. And then there are many others. There are too many others. There will be blood on the floor. It may take five years to find out who they are, but right now the enthusiasm is spreading like wildfire, and a lot of people are benefiting from it, and some people are worried about what will happen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you look at the options to the traditional media companies, do you think the move that [company] has made makes sense? Pull out of creating entertainment content, focus on live news and sport? And is it kind of an either or option? Or do you think many players like [company] are going to be able to do a little bit of everything?"
+      }
+    ],
+    "speakername": "Michael Eisner",
+    "ground_truth": "Well, you can have two winners, three winners. You can have two losers. It's not all yes or no. There can be two yeses. I think [executive] strategically has done a good job, but never underestimate [executive]. He's, in my opinion, the giant winner. He has, first of all, taken a lot of money off the table, solved, I think, some of his family issues. I don't mean emotional, psychiatric issues. I mean economic issues. He has kept his news. He's kept his network. I think broadcast is going to remain, just like movie theaters are still here. I'm not so sure about cable. Sorry. But the broadcasters have local strength in each market. They have must carry, which means they have to be carried by government. There will be some losers, but I think most of the players will be here in the end of the day.",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we always like getting credit, so whether we deserved it or not, it was always good. Yeah, [company1], I don't know, I went there in 84, and everybody talked about how it was going to end, and it wasn't going to end because it had these great legacy, family-oriented products, which we helped recreate. [company1] has a great legacy. [name1], following me, has done a great job putting [company2] and [company3] and [company4] in their vocabulary, buying [company5], forget how much they paid for all these things. It gives them an advantage. I would say [company6], being the first mover, is not to be discarded. [company7] is not to be discarded. [company8], we just are about to make a big content deal with [company8] at [company9]. They're not. They're not to be discarded. [company10], where the [company11] Library is not to be discarded. And then there are many others. There are too many others. There will be blood on the floor. It may take five years to find out who they are, but right now the enthusiasm is spreading like wildfire, and a lot of people are benefiting from it, and some people are worried about what will happen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you look at the options to the traditional media companies, do you think the move that [company5] has made makes sense? Pull out of creating entertainment content, focus on live news and sport? And is it kind of an either or option? Or do you think many players like [company1] are going to be able to do a little bit of everything?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you can have two winners, three winners. You can have two losers. It's not all yes or no. There can be two yeses. I think [name1] strategically has done a good job, but never underestimate [name2]. He's, in my opinion, the giant winner. He has, first of all, taken a lot of money off the table, solved, I think, some of his family issues. I don't mean emotional, psychiatric issues. I mean economic issues. He has kept his news. He's kept his network. I think broadcast is going to remain, just like movie theaters are still here. I'm not so sure about cable. Sorry. But the broadcasters have local strength in each market. They have must carry, which means they have to be carried by government. There will be some losers, but I think most of the players will be here in the end of the day."
+      }
+    ],
+    "speakername": "Michael Eisner",
+    "ground_truth": "As a real supporter of [company1] and happy about $141 a share as it closed today, I'm not unhappy about anything about [company1].",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "As a real supporter of [company] and happy about $141 a share as it closed today, I'm not unhappy about anything about [company]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If I was, I wouldn't tell you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What about the streaming strategy? I mean, increasingly, it looks like this fight between [company A] and [company B] at the moment. You were an early investor in [company A], produced shows for [company A]. What do you think is going to be the toughest job for [executive] in taking on [company A]?"
+      }
+    ],
+    "speakername": "Michael Eisner",
+    "ground_truth": "I think always the toughest job is the content play, creating new content. [company A] has a great library, but now without the ability to find product, library product from others, it's about their new content. [company B] has a great library, as we all know. It's gonna be about finding new content. So whether it's [executive A] or [executive B] or [company C] or [company D] or anybody else, the end of the day, it's [show name]. That's what helped make [company A]. Yes, having the library of [company B], the library of [company E], the libraries around town got them started. They're all going away. It's all gonna be about new product and their own library.",
+    "bio": "The speaker's MBTI type is ENTP"
+  }
+]

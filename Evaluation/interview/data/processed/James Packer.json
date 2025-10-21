@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_08",
+        "text": "Okay, he's definitely a better player. He's fairly famous for his temper also."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He had a good temper. He was best in class that I've come across that temper."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'll tell you how I'm feeling. Leave me alone. Get out of my way."
+      },
+      {
+        "speaker": "[target]",
+        "text": "could be terrifying. He was a larger-than-life character."
+      }
+    ],
+    "speakername": "James Packer",
+    "ground_truth": "He terrified you? Well, at times, absolutely. If he wanted to, if he wanted to, he pretty easily could terrify me.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "could be terrifying. He was a larger-than-life character."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He terrified you? Well, at times, absolutely. If he wanted to, if he wanted to, he pretty easily could terrify me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I believe in discipline, yes. Very much so. I believe that my father was fairly strict but I don't remember ever getting a belting I didn't deserve and I can remember a few occasions I didn't get one and I did deserve them. So I don't believe he was ever unfair with me."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "He said, I believe in corporal punishment. And I thought, whoa, what does that mean for [target]?"
+      }
+    ],
+    "speakername": "James Packer",
+    "ground_truth": "He gave me the belt only a couple of times and I think, you know, a bit like, you know, he said with his dad, I do know that when it happened I wasn't feeling as though I was an innocent victim. You know, I'd been caught red-handed doing something that he, you know, specifically told me not to do, but, you know, I wouldn't want to give you the impression that dad was excessive in those things. I think, you know, he was, and I think times change. I think times change. I think he grew up, you know, around the same time you grew up, I suppose, Mike, and some attitudes were different.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He gave me the belt only a couple of times and I think, you know, a bit like, you know, he said with his dad, I do know that when it happened I wasn't feeling as though I was an innocent victim. You know, I'd been caught red-handed doing something that he, you know, specifically told me not to do, but, you know, I wouldn't want to give you the impression that dad was excessive in those things. I think, you know, he was, and I think times change. I think times change. I think he grew up, you know, around the same time you grew up, I suppose, Mike, and some attitudes were different."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "When you were young, still at school, were you aware of his status as possibly the world's biggest gambler?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I became aware when I started going to casinos with him, which was probably around the time that I was finishing high school, that he wasn't the average punter. I saw some examples of that."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "It's legendary that his dad gambled big, and [target] has the same instincts. When he sold the family stake in the media company, he bet big on casinos, investing in [region_1], [region_2] and especially [region_3]. At the peak of the global financial crisis, when the world shut down, he rolled the dice on the rise of [region_3] and the money to be made in [region_4]. A tiny island, which is now the gambling capital of the world. Just metres away is mainland [region_3], with 1.34 billion people and hundreds of millions of people now in the middle class and looming as a major economic power in the world. Their expenditure in [region_4] alone is now approaching $1 billion. $1 billion a week. [target] and fellow billionaire, business partner and friend, Lawrence Ho, commissioned the city of dreams. And they got an executive from a construction company to build it."
+      }
+    ],
+    "speakername": "James Packer",
+    "ground_truth": "And I remember Wolfe saying to me at one stage, when we were talking about the size of this building, he said, do you want the good news or the bad news? And I said, well, give me the good news. I always ask for the good news first. Dad always asked for the bad news first. He said, the good news, it's the 10th biggest building in the world. This one that we're in now, 10th biggest building in the world. I said, what's the bad news? He said, it's the smallest building on the street. They are big buildings. They are big buildings. This is about 8 million square feet. The casino in [region_1] is the biggest building in [region_1], if we include all of the hotels and the towers. It's about 6 million square feet. So this is 33% bigger than that. The government building is the second biggest building in [region_1]. These are big buildings. And the building across the road, I think that's the biggest building in the world. It's about 15 million square feet. They're massive.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_08",
+        "text": "I was as shocked as them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it's back to your first question. You can look at that and say, well, did they really like you because you were you or did they like you because you were someone's son and you had money? I'm just going to choose to look at it as a positive and another piece of good fortune that's happened in my life. And I think to be more serious about it, I think I've got the most wonderful wife and I've been lucky with the women in my life that, you know, they... And you have three beautiful children. I've got three beautiful children and I've got a wonderful sister and a wonderful..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "mother. And so all of those things are a long time ago."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "At what stage did you realise there was a certain type of girl or woman that you thought was good for you? Was it just the most beautiful? No."
+      }
+    ],
+    "speakername": "James Packer",
+    "ground_truth": "No, I think that, it's very hard to know why sometimes there are butterflies in your stomach. And it's always more than just the way someone looks. It's the chemistry that people have when they're together for whatever reason, whether their sense of humours match and work together, whether or not they've got at a soul level a connection. I mean, why people get on is one of those wonderful mysteries of life.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm the wrong person to ask. I just think he's a very special person."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "I don't want to go into the religious organization because this is not the interview to be investigating religions."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and you and I have both done a bit of investigation in our times."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "Yeah, but even with the help of a famous actor, it indicates to me that you were seeking something, you were searching for something. Do you know what it was?"
+      }
+    ],
+    "speakername": "James Packer",
+    "ground_truth": "When you're as lucky as I am, you have to be very careful how, I'm going to try and be very careful how I say this because I preface it by saying I realise I am so lucky. But I think happiness is the most important thing in life. And it sounds very self-indulgent when a rich man talks about the search for happiness because, as I said before, I recognise the vast majority of people would swap places with me and I wouldn't swap places with anyone. But I think happiness is the thing that we're all striving for in life and the mind is a funny thing and why the mind sometimes makes people happy and sometimes unhappy is one of the big questions of life. Subtitles by a community platform",
+    "bio": "The speaker's MBTI type is ESFP"
+  }
+]

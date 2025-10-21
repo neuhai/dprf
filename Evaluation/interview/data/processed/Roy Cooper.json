@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first, incentives get us to the table with these companies. Secondly, ours are better. Your incentives are better? Yeah, they are, because they are performance-based. But what they have to do is to have a certain number of jobs at a certain number of... A certain wage. At a certain wage. And we have a provision that we claw back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "If they"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "don't do that you do see the irony of it though the corporations all say we want to come for your workforce but if you have an incentive package where i pay less corporate tax maybe we'll do that but that's going to take money away from your ability to keep creating a wonderful workforce"
+      }
+    ],
+    "speakername": "Roy Cooper",
+    "ground_truth": "Wouldn't you rather have a tax credit for a company that promises you that they're going to create a certain number of jobs at a certain rate wage rather than an across the board corporate tax cut where you have.",
+    "bio": "The speaker is an American attorney and politician serving as the current Governor of a southeastern U.S. state since 2017. A member of the Democratic Party, they previously served as the state's Attorney General from 2001 to 2016. Prior to that, they served in the state's General Assembly in both the House of Representatives (1987-1991) and Senate (1991-2001). The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If they"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "don't do that you do see the irony of it though the corporations all say we want to come for your workforce but if you have an incentive package where i pay less corporate tax maybe we'll do that but that's going to take money away from your ability to keep creating a wonderful workforce"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Wouldn't you rather have a tax credit for a company that promises you that they're going to create a certain number of jobs at a certain rate wage rather than an across the board corporate tax cut where you have."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "no accountability whatsoever i'd rather have that money invested into those the return on investment for these corporate incentive packages is almost always pretty dubious we do"
+      }
+    ],
+    "speakername": "Roy Cooper",
+    "ground_truth": "a strict economic analysis as to whether the overall economy and people's wages are gonna be helped by these deals. There are a lot of deals we don't do because it doesn't meet that test for us.",
+    "bio": "The speaker is an American attorney and politician serving as the state governor since 2017. A member of the Democratic Party, they previously served as the state Attorney General from 2001 to 2016. Prior to that, they served in the state legislature in both the House of Representatives (1987-1991) and Senate (1991-2001). The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] cannot run for a third term in 2024, so I asked, what's next for him? He even knows exactly how many days he has left."
+      },
+      {
+        "speaker": "[target]",
+        "text": "two years and 16 days that I can get a lot done for the people of this state. Public service is appealing to me. I will see what doors may open for me afterward."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you want to run for elected office again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know, I don't,"
+      }
+    ],
+    "speakername": "Roy Cooper",
+    "ground_truth": "I don't know that that's in my future. I'm still young and I'm still excited about the things that I can do for the people of this state. Do you have any interest in running for president at some point? I don't want to cause President [Person1] any problems because I think particularly looking at the comparison between [Person2] and [Person1], we've gotten significant transformative laws put into place that's going to change people's lives, not only in this state and across the country. I think he deserves to be reelected and we're going to try to win this state for him.",
+    "bio": "[target] (born June 13, 1957) is an American attorney and politician serving as the 75th and current Governor of [State] since 2017. A member of the Democratic Party, he previously served as the 49th Attorney General of [State] from 2001 to 2016. Prior to that, he served in the [State] General Assembly in both the House of Representatives (1987-1991) and Senate (1991-2001). The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Ha, ha, ha."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "the answer."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yes"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Welcome to the very best part of my broadcast week. I'm Major Garrett. This is The Takeout. Happy election week. We had a successful election on Tuesday. Some results still pending, as you well know. For audience members in [state], [state], [state], there are still counting. There are very close races there. But I will just say this. America, the process worked. Millions of Americans cast ballots. Hundreds of thousands of Americans worked as poll workers. Election administrators did their task as they're supposed to, under sometimes threat, heavy scrutiny, a lot of dark energy. But this election, in every sense of the word, was an American success story. Not a political success story. Yes, there are winners and losers, but an American success story. And for everyone who is involved at the level of election administration and poll working and poll observing, I thank you. I want to talk to you about the election. I want to talk to you about the election. I want to talk to our special guest, who is the governor of [state], Democratic Governor [target]. Governor, thanks for indulging me that brief editorial at the top. But I've written a book called The Big Truth, which talks about election administration, how we do it in this country. It's a really important issue to me. Thanks for letting me do that editorial. It's great to have you on the show."
+      }
+    ],
+    "speakername": "Roy Cooper",
+    "ground_truth": "so i'm so glad you did because just the other day i was talking to some poll workers they have been under tremendous stress abuse it is extraordinary what has happened since trump was elected and how ferocious people can be we've had a number of people leave the election process but you know everyday americans are stepping up i talked to a friend of mine who just retired from a well-paying job who decided i'm going to go to work for the [county] board of elections to make sure these elections run smoothly she called me the other day said you know this is this is hard work but the people who are doing this are amazing so thank you for thanking them because our democracy could not survive without people who are willing to step up and do those jobs",
+    "bio": "[target] (born June 13, 1957) is an American attorney and politician serving as the 75th and current Governor of [state] since 2017. A member of the Democratic Party, he previously served as the 49th Attorney General of [state] from 2001 to 2016. Prior to that, he served in the [state] General Assembly in both the House of Representatives (1987-1991) and Senate (1991-2001). The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yes"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Welcome to the very best part of my broadcast week. I'm Major Garrett. This is The Takeout. Happy election week. We had a successful election on Tuesday. Some results still pending, as you well know. For audience members in California, Arizona, Nevada, there are still counting. There are very close races there. But I will just say this. America, the process worked. Millions of Americans cast ballots. Hundreds of thousands of Americans worked as poll workers. Election administrators did their task as they're supposed to, under sometimes threat, heavy scrutiny, a lot of dark energy. But this election, in every sense of the word, was an American success story. Not a political success story. Yes, there are winners and losers, but an American success story. And for everyone who is involved at the level of election administration and poll working and poll observing, I thank you. I want to talk to you about the election. I want to talk to you about the election. I want to talk to our special guest, who is the governor of North Carolina, Democratic Governor [target]. Governor, thanks for indulging me that brief editorial at the top. But I've written a book called The Big Truth, which talks about election administration, how we do it in this country. It's a really important issue to me. Thanks for letting me do that editorial. It's great to have you on the show."
+      },
+      {
+        "speaker": "[target]",
+        "text": "so i'm so glad you did because just the other day i was talking to some poll workers they have been under tremendous stress abuse it is extraordinary what has happened since trump was elected and how ferocious people can be we've had a number of people leave the election process but you know everyday americans are stepping up i talked to a friend of mine who just retired from a well-paying job who decided i'm going to go to work for the chatham county board of elections to make sure these elections run smoothly she called me the other day said you know this is this is hard work but the people who are doing this are amazing so thank you for thanking them because our democracy could not survive without people who are willing to step up and do those jobs"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And Governor, indulge me five or ten more other seconds. I want to thank those Democrats and Republicans, some of whom on the Republican side raised questions or were flat out deniers, but who saw the election results and conceded and conceded in public. Concession is not an act of weakness. Concession is an act of strength and faith in our country. And the whole process of Democratic policy disputes and wrangling depends on the peaceful transference of authority. And that comes with a key intervening moment, a moment of recognizing you tried your best and you lost and you concede publicly. To those who did that, I want to thank them. So, Governor, give me your assessment. You were wise. You were watching things very closely. I'm sure you were not up for reelection, but there were competitive races in North Carolina. Give me your 360 interpretation of the midterm results as we know them."
+      }
+    ],
+    "speakername": "Roy Cooper",
+    "ground_truth": "Well, sure, I think overall it defied expectations and particularly for democratic governors across the country. I'm chair of the democratic governors association this year. I took that on because I know that governors are often the last line of defense in protecting our rights and freedoms, but they're also the first chance at progress. So I wanted to make sure that my democratic colleagues across the country and our candidates had the best support that they could get. And it turned out that it was the best midterm for a president's party when it comes to governor's races since 1986. And I, you know, I believe it was because that democratic governors, uh, let the people tell them what, what mattered to them, not, not the other way around. We understood that. Voters were not one dimensional. Uh, we understood that with this horrible us Supreme court decision that ripped away, uh, women's reproductive freedom that had been in place for five decades, that now the state capitals and the state legislatures were really going to be determining a constitutional right. Now your zip code should not affect your constitutional rights, but that is where we are now. So the importance of. Governors were so important, but we also knew that governors were doing things to lower costs to families like cutting food taxes and giving them auto insurance rebates. And I think the governor's re the, the people rewarded democratic governors across this country and, and they got the job done. And we know the history of a midterm and a president's party and how awful that can be. And I think overall. It's a unified history here.",
+    "bio": "Roy Asberry Cooper IIIÂ (born June 13, 1957) is an American attorney and politician serving as theÂ 75thÂ and currentÂ Governor of North CarolinaÂ since 2017. A member of theÂ Democratic Party, he previously served as the 49thÂ Attorney General of North CarolinaÂ from 2001 to 2016. Prior to that, he served in theÂ North Carolina General AssemblyÂ in both theÂ House of RepresentativesÂ (1987â?991) andÂ SenateÂ (1991â?001). The speaker's MBTI type is ESFJ"
+  }
+]

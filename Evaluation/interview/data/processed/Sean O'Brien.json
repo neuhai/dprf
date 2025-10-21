@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "brotherhood of Teamsters. Okay. And what is a Teamster? Well, Teamsters started out traditional trucking, truck drivers. They were horse and buggies back in the day and then evolved into trucking. And then we've evolved into, we represent everybody from airline pilots to zookeepers and everybody in between. So it's not just a trucking union. Our largest employer is a major shipping company, represent 340,000 Teamsters nationwide. A major shipping company? Yeah, a delivery service. Okay, the delivery service. You know, we do provide all the transportation needs for motion pictures, trade shows, public sector. We're pretty diverse and large union, 1.3 million members nationwide and in Canada."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "in the teamsters union yes sir and so they got so it was a team of horses that's why the name is yeah horse and buggies yeah yeah"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, they had teams pulling horses and buggies. It wouldn't have been around since 1903."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Sean O'Brien",
+    "ground_truth": "So you can see how transportation has changed over the years. But, you know, it's a great organization. I'm a fourth-generation Teamster.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, they had teams pulling horses and buggies. It wouldn't have been around since 1903."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So you can see how transportation has changed over the years. But, you know, it's a great organization. I'm a fourth-generation Teamster."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. Oh, so you're and are you the first president of your family that was ever in?"
+      }
+    ],
+    "speakername": "Sean O'Brien",
+    "ground_truth": "Yeah, yeah, all my family members, just rank and file members, went to work every day. I started out in a construction yard in [city], a rigging company, hauling cranes around. And I just moved up the ladder, became a shop steward, then became a business agent for Local 25 in [city] and just kept moving along.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So you can see how transportation has changed over the years. But, you know, it's a great organization. I'm a fourth-generation Teamster."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. Oh, so you're and are you the first president of your family that was ever in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, yeah, all my family members, just rank and file members, went to work every day. I started out in a construction yard in [city], a rigging company, hauling cranes around. And I just moved up the ladder, became a shop steward, then became a business agent for Local 25 in [city] and just kept moving along."
+      }
+    ],
+    "speakername": "Sean O'Brien",
+    "ground_truth": "Nice, dude. And a union is what? A union is we represent working people. We collectively bargain for our members. We make certain that we protect them in the workplace, process all their grievances, but more importantly, organize workers throughout the country that want to be unionized. And we've been very successful doing that. And we just want to represent working people. 1.3 million right now. Hopefully, we'll be 2 million in the near future.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. Oh, so you're and are you the first president of your family that was ever in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, yeah, all my family members, just rank and file members, went to work every day. I started out in a construction yard in [location], a rigging company, hauling cranes around. And I just moved up the ladder, became a shop steward, then became a business agent for Local 25 in [location] and just kept moving along."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Nice, dude. And a union is what? A union is we represent working people. We collectively bargain for our members. We make certain that we protect them in the workplace, process all their grievances, but more importantly, organize workers throughout the country that want to be unionized. And we've been very successful doing that. And we just want to represent working people. 1.3 million right now. Hopefully, we'll be 2 million in the near future."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "amen and yeah because i know unions are responsible for um the work week right right"
+      }
+    ],
+    "speakername": "Sean O'Brien",
+    "ground_truth": "So unions base 40-hour work week. Look, the unions have set the bar. Even non-union people benefit when you organize. And we've organized in every industry, but we're responsible for overtime. We're responsible for the 40-hour work week. We're responsible for the weekend. A lot of people don't know that. Yeah. God.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "have to work the weekend we're gonna get double time"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. You know what I mean? Yeah, and now didn't they just make a law that it's going to be over â it won't get taxed?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that's a campaign promise from the President, I believe. Oh, so it's not a- So, you know, as you know, promises sometimes don't come to fruition. But it is recorded, so we'll use it against whoever said it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How pivotal is our unions in the industry?"
+      }
+    ],
+    "speakername": "Sean O'Brien",
+    "ground_truth": "Look, we built the middle class. We built this country. Unfortunately, as you know, once big business gets involved, private equity of the world or there's big money to be made, everybody forgets. They get amnesia on who actually is responsible. And there was such a decline in the 80s because politicians put in some bad regulation. I mean I can speak for the teams as they passed transportation deregulation. And if I could put the numbers to it, we had 400,000 members alone just in the freight industry. And when they passed transportation deregulation, we lost 400,000 members. Companies went bankrupt and pension funds took a hit. So what â",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

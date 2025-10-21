@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "is a deranged, unhinged, dangerous president of the [government institution]. And only a number of days until we can be protected from him. But he has done something so serious that there should be prosecution against him."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, I gather that the 25th Amendment is off the table. That isn't. Nothing is off the table. The mayhem at the [government building] started early afternoon on January 6, with the rioters barreling past the barricades, clashing with police, and breaking into the [government building]. As they swarmed through the halls, the speaker was on the House floor during the count of the Electoral College vote. Oh, look. So, tell us what happened when the protesters were trying to get in here. You're up there."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm going to bring you all the way back now to 1987. Why do you run for Congress?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I had never intended in my whole life to run for public office. I'm basically a very shy person. I like putting other people as chair of the state Democratic Party, promoting others and the rest. But at that time, people came to me and said, you should run. It was a very sad time. We lost our Congresswoman, Sala Burton, and she really was the one who said, you must run. Promise me you will run. It'll make me feel better. And so I agreed to look at it, and then she passed away. It was very sad for us because Will loved her very much. I never had intended to run for office."
+      }
+    ],
+    "speakername": "Nancy Pelosi",
+    "ground_truth": "I'm now going to take you through some critical moments with four presidents. Let's talk about your position on Iraq during President's time as president.",
+    "bio": "[target] (born March 26, 1940) is an American politician who served as the 52nd speaker of the [government institution] from 2007 to 2011 and again from 2019 to 2023. They are the first woman in U.S. history to hold this position. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, I gather that the 25th Amendment is off the table. That isn't. Nothing is off the table. The mayhem at the [government building] started early afternoon on January 6, with the rioters barreling past the barricades, clashing with police, and breaking into the [government building]. As they swarmed through the halls, the speaker was on the House floor during the count of the Electoral College vote. Oh, look. So, tell us what happened when the protesters were trying to get in here. You're up there."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm going to bring you all the way back now to 1987. Why do you run for Congress?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I had never intended in my whole life to run for public office. I'm basically a very shy person. I like putting other people as chair of the state Democratic Party, promoting others and the rest. But at that time, people came to me and said, you should run. It was a very sad time. We lost our Congresswoman, Sala Burton, and she really was the one who said, you must run. Promise me you will run. It'll make me feel better. And so I agreed to look at it, and then she passed away. It was very sad for us because Will loved her very much. I never had intended to run for office."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm now going to take you through some critical moments with four presidents. Let's talk about your position on Iraq during George Bush's time as president."
+      }
+    ],
+    "speakername": "Nancy Pelosi",
+    "ground_truth": "Well, at the time of the discussion of Iraq, I was the senior Democrat on the Intelligence Committee. And as such, I was a member of the gang of four or eight, depending on the configuration, to have had to receive all of the information and intelligence that the administration had. I saw it. I read it. My staff did as well. And I knew that there was no intelligence to support the threat that the administration was presenting. When I said the intelligence does not support the threat, the press said to me, are you calling the president a liar? I said, no, I'm stating a fact. It's not there. And I told my members I never encourage anybody to vote one way or another in a war. That's a decision they have to make. But I told them why I was voting against the war. And overwhelmingly, the Democrats voted against that initiation of hostilities into Iraq. In the Senate, the chairman of the committee at that time, for a moment, the Democrats had control of the Senate. And the chairman of the Intelligence Committee was Democratic Senator from [state]. He saw the same intelligence I did. He voted the same way, voted no. But he didn't persuade his colleagues in the Senate. He voted no. He didn't persuade his colleagues in the Senate, the Democrats, to do so. Most disappointing. I mean, he was great, but they all just, for some reason, voted for the war.",
+    "bio": "[Target] (born March 26, 1940) is an American politician who served as the 52nd speaker of the United States House of Representatives from 2007 to 2011 and again from 2019 to 2023. They are the first woman in U.S. history to hold this position. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I had never intended in my whole life to run for public office. I'm basically a very shy person. I like putting other people as chair of the state Democratic Party, promoting others and the rest. But at that time, people came to me and said, you should run. It was a very sad time. We lost our Congresswoman, and she really was the one who said, you must run. Promise me you will run. It'll make me feel better. And so I agreed to look at it, and then she passed away. It was very sad for us because we loved her very much. I never had intended to run for office."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm now going to take you through some critical moments with four presidents. Let's talk about your position on Iraq during the president's time as president."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, at the time of the discussion of Iraq, I was the senior Democrat on the Intelligence Committee. And as such, I was a member of the senior advisory group, depending on the configuration, to have had to receive all of the information and intelligence that the administration had. I saw it. I read it. My staff did as well. And I knew that there was no intelligence to support the threat that the administration was presenting. When I said the intelligence does not support the threat, the press said to me, are you calling the president a liar? I said, no, I'm stating a fact. It's not there. And I told my members I never encourage anybody to vote one way or another in a war. That's a decision they have to make. But I told them why I was voting against the war. And overwhelmingly, the Democrats voted against that initiation of hostilities into Iraq. In the Senate, the chairman of the committee at that time, for a moment, the Democrats had control of the Senate. And the chairman of the Intelligence Committee was a Democratic Senator from the South. He saw the same intelligence I did. He voted the same way, voted no. But he didn't persuade his colleagues in the Senate. He voted no. He didn't persuade his colleagues in the Senate, the Democrats, to do so. Most disappointing. I mean, he was great, but they all just, for some reason, voted for the war."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Was that a risky position to take politically at that point?"
+      }
+    ],
+    "speakername": "Nancy Pelosi",
+    "ground_truth": "Well, people told me it was, but again, I didn't intend to run for Congress. I didn't intend to run for leadership, so I know that it was the position that I believed, so I had no choice. I mean, here they were contending that a certain position about the foreign leader and development of nuclear weapons, and it wasn't true. The responsibility to put our young men and women, whatever their ages are, in harm's way is a big one, and I didn't take it lightly. Now, people told me at the time, if you don't vote for this war, you have no future in this Congress or in this party. I said, what does that mean to me? If I'm the only vote against the war, I will vote against the war.",
+    "bio": "The target (born March 26, 1940) is an American politician who served as the leader of the lower chamber of the national legislature from 2007 to 2011 and again from 2019 to 2023. They are the first woman in the nation's history to hold this position. The person's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "have peace president said go home but the election was you know you know went on with his lies his misrepresentations his delusion that he won in a landslide in this election"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So finally, the protesters were rejected, and you came almost right back into session."
+      },
+      {
+        "speaker": "[target]",
+        "text": "How did that happen? I know from Senate Leader and from Senate Minority Leader, there was consensus that we should come."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "There was no discussion."
+      }
+    ],
+    "speakername": "Nancy Pelosi",
+    "ground_truth": "suggestions that it may take too long and we should do it at the undisclosed location, but there was general belief that from the message of strength that we needed to send, we had to go back to the government building as soon as possible.",
+    "bio": "The [target] (born March 26, 1940) is an American politician who served as the 52nd speaker of the legislative chamber from 2007 to 2011 and again from 2019 to 2023. They are the first woman in national history to hold this position. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "After the violence. After the violence. Shame on them. And shame on two-thirds of the Republican caucus in the supporting those. So these people are enablers of the president's behavior. I remember when Republicans in the Senate went to see [masked leader] and said, it's over. That's what has to happen now."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "One of the reasons she's so eager to see Mr. Trump's immediate removal from office is her grave concern that, in the next 10 days, he might try to do something reckless militarily, including ordering the use of nuclear weapons. She told us she sought advice from [masked military leader], chairman"
+      },
+      {
+        "speaker": "[target]",
+        "text": "of the Joint Chiefs I have sought information from those who are in a position to know that there are protections against this dangerous president initiating any military hostilities or something worse than that"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Something else she and Senator Schumer did was call the vice president to urge him to initiate the 25th Amendment that provides procedures..."
+      }
+    ],
+    "speakername": "Nancy Pelosi",
+    "ground_truth": "remove a president from office we were kept on the line for 20 minutes it's going to be here in a minute a minute minute well i never did they kept you on hold for 20 minutes at least of course i was i was at home so i was",
+    "bio": "An American politician who served as the 52nd speaker of the [masked institution] from 2007 to 2011 and again from 2019 to 2023. They are the first woman in history to hold this position. The speaker's MBTI type is ENTJ"
+  }
+]

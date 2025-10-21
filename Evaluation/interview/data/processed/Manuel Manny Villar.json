@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Come on Cynthia!"
+      },
+      {
+        "speaker": "[target]",
+        "text": "They're still young to me, and I'm the mother because I'm the wife of the speaker. Even if the speaker is young, you're still the father because you're the head of the house. It doesn't matter whether you're old or young. Many congressmen are older than [target], but [target] is their speaker, so [target] is the father. I'm the mother."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is the president close to you or to the senator? He's close."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Close to my mother. I'm just happy to be married. Close to her."
+      }
+    ],
+    "speakername": "Manuel Manny Villar",
+    "ground_truth": "And I think she knows my work in [government building]. We work together. When the former president was impeached, we worked together.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "opposition. So, he knows the kind of work that I do in the legislative body. So, there wasn't, maybe I didn't do anything wrong in the legislative body that he wouldn't like."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In 2010, mom, those black profs against the family, do you blame him or the people around him?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Maybe the people around him."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "not him"
+      }
+    ],
+    "speakername": "Manuel Manny Villar",
+    "ground_truth": "I think he was not the one who managed the campaign, it's the people around him. But that's how it is, it's politics. So we just have to accept it. We cannot continue blaming everybody.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Siguro yung people around him."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "not him"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think he was not the one who managed the campaign, it's the people around him. But that's how it is, it's politics. So we just have to accept it. We cannot continue blaming everybody."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Because it's a coalition."
+      }
+    ],
+    "speakername": "Manuel Manny Villar",
+    "ground_truth": "Kasi si [target], both [target] and [target] are good persons. If you look at them up close, maraming bad person but not [target] and [target]. Kayo, alam naman nyo yan. I mean, it's common knowledge. You ask people, [target] is a very good person. And [target] naman, basically. Even [target] says that, overall, he's a good person. Ngayon, politics yan eh.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh well my management style is hands-on i work 24 7 and i'm happy uh working 24 7. it's uh i was explaining earlier in an interview that um because if you're if you're an entrepreneur you enjoy it you're happy doing what you're doing so i i am enjoy i i enjoy working um and so it's but i'm 24 7 to me it's not a problem it's like uh i'm playing 24 7. okay so yeah that's my style so i would you can describe me more as hands-on but i also maintain the the vision for the group"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So what is a day like for you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's busy. Well, I go to the gym four or five times a week. But every time, when I don't go to the gym, I usually report to work very early, as early as 6.30. Yeah, I like the, you know, when you go to the office very early and then you drink your first cup of coffee at 6.30, that's the best. You're very sharp and the taste of coffee is very nice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "okay so what about your children are involved in your businesses so but you're still hands-on so how do you know"
+      }
+    ],
+    "speakername": "Manuel Manny Villar",
+    "ground_truth": "No, we have a lot of companies because I don't, like my son is the CEO of [Company A], so I don't spend much time on [Company A] anymore, but I spend a lot more time with [Company B] and the retail group. [Name A] is helping me there, and [Name B], on the other hand, is a congressman, and he just finished his graduate degree from [University].",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's busy. Well, I go to the gym four or five times a week. But every time, when I don't go to the gym, I usually report to work very early, as early as 6.30. Yeah, I like the, you know, when you go to the office very early and then you drink your first cup of coffee at 6.30, that's the best. You're very sharp and the taste of coffee is very nice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "okay so what about your children are involved in your businesses so but you're still hands-on so how do you know"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, we have a lot of companies because I don't, like my son is the CEO of [company], so I don't spend much time on [company] anymore, but I spend a lot more time with [company] and the retail group. [name] is helping me there, and [name], on the other hand, is a congressman, and he just finished his graduate degree from [university]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "going back on your being an entrepreneur you said earlier in the panel that the country needs an army of entrepreneurs so what are we lacking now"
+      }
+    ],
+    "speakername": "Manuel Manny Villar",
+    "ground_truth": "There is a need for a cultural change. In fact, I think the new president should consider this because we cannot really build a strong economy unless we build this army of entrepreneurs. We have to change our culture of employment to one of a culture of entrepreneurship. We need to convince our young people that it is good to be an entrepreneur. They can be entrepreneurs. You don't really need a huge capital to start. In fact, I tell our young people that, well, if you have nothing, you have nothing to lose. If you have no money, then what are you afraid of? So they can try. Anybody can try. And I can cite examples, a lot of examples of very wealthy people that started with nothing, practically nothing. Also, it's very important that we are able to share with them the joy. The joy of being an entrepreneur. See, a lot of people think that entrepreneur is just about working, working 24-7, et cetera. But no, on the contrary, entrepreneurs are happy doing what they're doing. They like the challenge. It's fun, actually. And of course, it's nice to be your own boss. It's nice to be your own boss. So they just don't appreciate it. But in reality, most entrepreneurs who have tried entrepreneurship, will never consider going back to employment.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "way back before he started [company], men's cologne. We used to play with the cologne growing up as kids and he would have a passion about it. He just made it seem fun for me and he never pushed me, even in a little bit, to want to work for the company."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What was your father's background?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, he got out of the Navy. He was living in [city]. I met my mom. They got married. They were married 72 years until he passed away a couple years ago. He was very interested in business, also went to the [university]. And he was an entrepreneur, made golf club putters. He went into Muzak, had some marketing, and he worked for Senator Benton in advertising. And so he liked the marketing and advertising product side. And one day, you know, he got into men's cologne, and he just loved the smell and the marketing aspect. And then the same with a product like a belt or suspender. Technology came along, and he got himself convinced that Sansa belt slacks, those that is polyester pants without belts, would be the technology that could put him out of business. So he sold his business. He was walking around [city], apparently, 1963. And a guy came up to him and said, Ralph, I've got a new venture for you. You ought to buy a community antenna television system in [city]. And as he told the story, he said, where's [city]? And what's community antenna television? And the answer was, birthplace of [famous person]. And in [city], they couldn't get CBS from [city], who was a valley town. So they put up a big antenna on the top of a mountain and ran a community antenna, CATV. And those were the early roots of [city]. Cable television."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "television was for free in those days and now you had to pay for it in [city] so was that hard to convince people to pay for television?"
+      }
+    ],
+    "speakername": "Brian L. Roberts",
+    "ground_truth": "the business was the subscription nature so in belts or cologne or many other businesses he had been in you have a product you sell it if you get sick next month you're out of business in our business and what he liked about recurring revenue is you have to go borrow a lot of money build it and hope they will come and then then you have a recurring business that you then have a base to work from",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, he got out of the Navy. He was living in a major city. I met my mom. They got married. They were married 72 years until he passed away a couple years ago. He was very interested in business, also went to a prominent business school. And he was an entrepreneur, made golf club putters. He went into Muzak, had some marketing, and he worked for a Senator in advertising. And so he liked the marketing and advertising product side. And one day, you know, he got into men's cologne, and he just loved the smell and the marketing aspect. And then the same with a product like a belt or suspender. Technology came along, and he got himself convinced that Sansa belt slacks, those that is polyester pants without belts, would be the technology that could put him out of business. So he sold his business. He was walking around the city, apparently, 1963. And a guy came up to him and said, Ralph, I've got a new venture for you. You ought to buy a community antenna television system in a southern city. And as he told the story, he said, where's that city? And what's community antenna television? And the answer was, birthplace of a famous musician. And in that town, they couldn't get CBS from a nearby city, who was a valley town. So they put up a big antenna on the top of a mountain and ran a community antenna, CATV. And those were the early roots of cable television."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "television was for free in those days and now you had to pay for it in that city so was that hard to convince people to pay for television?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the business was the subscription nature so in belts or cologne or many other businesses he had been in you have a product you sell it if you get sick next month you're out of business in our business and what he liked about recurring revenue is you have to go borrow a lot of money build it and hope they will come and then then you have a recurring business that you then have a base to work from"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Where did the name Comcast come from?"
+      }
+    ],
+    "speakername": "Brian L. Roberts",
+    "ground_truth": "has come from great question doesn't get asked very often it's amazing that in 1963 being a community antenna television company he dreamed up the name of the company com was communications cast was broadcasting and we're going to merge and be in the future of communications and broadcasting so he was very visionary in that respect",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "has come from great question doesn't get asked very often it's amazing that in 1963 being a community antenna television company he dreamed up the name [company] calm was communications cast was broadcasting and we're going to merge and be in the future of communications and broadcasting so he was very visionary in that respect"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You buy the cable franchise in [city1]. How much did he pay for that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think a few hundred thousand dollars."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "$200,000, okay, and what did he do after that? He started buying other franchises like that?"
+      }
+    ],
+    "speakername": "Brian L. Roberts",
+    "ground_truth": "Yeah, so the next door town was [city2], and he would go down to [city1]. He never moved there. He had a philosophy of decentralized management in that you would have a local manager, and they should feel like they own the business. So there was a general manager of [city1], and they then went and bought [city2]. One day he got into [state1], another date [state2] and [state3], and we started buying other operators. And as the business evolved through the 80s, and one day it wasn't just a valley town, a business, and a rural business, [network1] and [network2] and [network3] came along. It was suburban and urban, and so there were 30,000 cable franchises awarded, and eventually they needed to consolidate to be more like a TV business or phone business where you had larger service areas, and that's when [company] really stepped on the pedal.",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think a few hundred thousand dollars."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "$200,000, okay, and what did he do after that? He started buying other franchises like that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so the next door town was [location], and he would go down to [location]. He never moved there. He had a philosophy of decentralized management in that you would have a local manager, and they should feel like they own the business. So there was a general manager of [location], and they then went and bought [location]. One day he got into [location], another date [location] and [location], and we started buying other operators. And as the business evolved through the 80s, and one day it wasn't just a valley town, a business, and a rural business, [company] and [company] and [company] came along. It was suburban and urban, and so there were 30,000 cable franchises awarded, and eventually they needed to consolidate to be more like a TV business or phone business where you had larger service areas, and that's when [company] really stepped on the pedal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So if in 1972 I had bought your stock, what would I be?"
+      }
+    ],
+    "speakername": "Brian L. Roberts",
+    "ground_truth": "If you bought 1,000 shares, it came public at 7, went down to $0.25, I think, at the all-time low. That's another story. You would have over $11 million today, an 18% plus compounded return for 45 years. If you put the same $7,000 in the S&P 500, you'd have just over half a million with about a 10% return.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If you bought 1,000 shares, it came public at 7, went down to $0.25, I think, at the all-time low. That's another story. You would have over $11 million today, an 18% plus compounded return for 45 years. If you put the same $7,000 in the S&P 500, you'd have just over half a million with about a 10% return."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "if it's not bad."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Not bad."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay, so when you joined the company, did he say you start at the bottom and you work your way up, or he said you can start at number two?"
+      }
+    ],
+    "speakername": "Brian L. Roberts",
+    "ground_truth": "Well, that's maybe what I wanted to happen, though. He definitely put me through a wonderful kind of de facto training without either of us really ever talking about it that way. So one summer I climbed poles and learned to be an installer, had real trouble holding the ladder because I was pretty weak and 15 years old. Another summer I sold door-to-door subscription services. It was brand new in [location]. Another summer I went and sold music services, which was a business the company was in at the time, installing and selling. So when I got out of [university], undergrad, I was like a finance major. I was like, well, let's go and do deals. And he said, no, move to [location]. I never worked in cable. That was one of my later businesses in life. My dad was in his 40s when he started the company, which is a great lesson for people. If you haven't found your thing yet and you're 40, it's not too late, and many people think it's way too late. And he said, but I never will know this business. Why don't you learn it as well from the bottom up every job? So I moved to [location] and learned the billing system and worked the counter when customers paid their bill. And when the truck delivered the new cable boxes, it was a brand new system. And [location] would get out and everybody would roll up their sleeves and unload the warehouse. So I've had a pleasure of doing all the jobs. And something for me just clicked. I loved the business. I loved being around people, and I loved being in management at a young age.",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

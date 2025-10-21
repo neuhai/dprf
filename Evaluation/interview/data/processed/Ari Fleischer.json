@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the issues aren't as weighty unless you happen to be a real big fan, and then they're equally weighty. There are a lot of similarities. What I have found is the two institutions in our society that have live coverage of their events and sections of the newspaper dedicated to themselves and crazy followers are the [government building] and sports organizations. And when something goes wrong in either one, there's a swarm of reporters who ask tough, hard questions. And so my job now is to help sports organizations deal with some of those tough, hard controversies that sports athletes or teams get into every now and then."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's probably a little bit more fun than dealing with some of the weighty political issues I would bet."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I must say, dealing with [athlete 1] and [athlete 2] and [sports team] sometimes is a lot more fun than dealing with Medicare or Medicaid. True."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you've spent, you've had a really long career in politics. Right. And, you know, culminating in being press secretary. Were you, was that an ambition that you started out with early on, that you wanted to get to that kind of high position, or did you sort of just take the opportunities as they came? Well, I think it was probably."
+      }
+    ],
+    "speakername": "Ari Fleischer",
+    "ground_truth": "both. I think that I loved being a press secretary right from my first job out of college. I was a press secretary for a [state] State Assemblyman who ran for Congress and lost. And I got the bug. I moved to [city]. I became a press secretary for a member of Congress from [state], from [region]. And I just loved it. And then I was ambitious. I wanted to work my way up. And I started becoming a press secretary to more and more senior members of Congress. But the point where I got onto the presidential level, I really never dreamed it could be. Because at that point, you don't really try. And somebody who was working on a campaign said they needed a communications director for [political figure]'s presidential. And they said, he knew me very well. He was a consultant on the race. And he said, would you like the job? And so at that point, at the totem pole, you really don't go looking for the jobs. If you're fortunate, the job, somebody contacts you. And I got very lucky. And [political figure]'s race is what led me to [president]'s race. She dropped out. And [president] asked me to move to [state] to work for him on his campaign.",
+    "bio": "A media consultant and political aide who served as the twenty-first [government building] Press Secretary, for President [president], from January 2001 to July 2003. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I must say, dealing with professional athletes and sports teams sometimes is a lot more fun than dealing with federal healthcare programs. True."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you've spent, you've had a really long career in politics. Right. And, you know, culminating in being press secretary. Were you, was that an ambition that you started out with early on, that you wanted to get to that kind of high position, or did you sort of just take the opportunities as they came? Well, I think it was probably."
+      },
+      {
+        "speaker": "[target]",
+        "text": "both. I think that I loved being a press secretary right from my first job out of college. I was a press secretary for a state assemblyman who ran for Congress and lost. And I got the bug. I moved to the capital. I became a press secretary for a member of Congress from a district. And I just loved it. And then I was ambitious. I wanted to work my way up. And I started becoming a press secretary to more and more senior members of Congress. But the point where I got onto the presidential level, I really never dreamed it could be. Because at that point, you don't really try. And somebody who was working on a campaign said they needed a communications director for a presidential campaign. And they said, he knew me very well. He was a consultant on the race. And he said, would you like the job? And so at that point, at the totem pole, you really don't go looking for the jobs. If you're fortunate, the job, somebody contacts you. And I got very lucky. And that campaign is what led me to the next presidential race. She dropped out. And the candidate asked me to move to his state to work for him on his campaign."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, what was that like? I think a lot of Americans now think about, you know, they view the administration coming out, you know, at the end of the eight years, approval ratings not so high. What was it like, you know, being part of his administration right after they'd been elected, you know, when they were still popular, you know, riding high on that popularity more so than they might be?"
+      }
+    ],
+    "speakername": "Ari Fleischer",
+    "ground_truth": "If you watch them, how would you say that they did the job differently than you did? Or maybe had different philosophies when dealing with the press than you did?",
+    "bio": "The speaker (born October 13, 1960) is an American media consultant and political aide who served as press secretary for a presidential administration from January 2001 to July 2003. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "both. I think that I loved being a press secretary right from my first job out of college. I was a press secretary for a state Assemblyman who ran for Congress and lost. And I got the bug. I moved to the capital. I became a press secretary for a member of Congress from a northeastern state. And I just loved it. And then I was ambitious. I wanted to work my way up. And I started becoming a press secretary to more and more senior members of Congress. But the point where I got onto the presidential level, I really never dreamed it could be. Because at that point, you don't really try. And somebody who was working on a campaign said they needed a communications director for a presidential candidate. And they said, he knew me very well. He was a consultant on the race. And he said, would you like the job? And so at that point, at the totem pole, you really don't go looking for the jobs. If you're fortunate, the job, somebody contacts you. And I got very lucky. And that race is what led me to the next presidential race. She dropped out. And the candidate asked me to move south to work for him on his campaign."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, what was that like? I think a lot of Americans now think about, you know, they view the administration coming out, you know, at the end of the eight years, approval ratings not so high. What was it like, you know, being part of his administration right after they'd been elected, you know, when they were still popular, you know, riding high on that popularity more so than they might be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If you watch them, how would you say that they did the job differently than you did? Or maybe had different philosophies when dealing with the press than you did?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So getting past some of the clear benefits of, you know, the job, just how cool it is simply, what are some of the things that you might say were the harsh realities of some of the harder things to deal with?"
+      }
+    ],
+    "speakername": "Ari Fleischer",
+    "ground_truth": "grind and grueling job, standing up that podium every day, being a human pinata, talking to the press on behalf of the president for a press corps whose job is to take the opposite of whatever the president does, basically, and pound you for it. That's the job.",
+    "bio": "Born October 13, 1960, is an American media consultant and political aide who served as the twenty-first Press Secretary at the executive residence, for the President, from January 2001 to July 2003. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If you watch them, how would you say that they did the job differently than you did? Or maybe had different philosophies when dealing with the press than you did?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So getting past some of the clear benefits of, you know, the job, just how cool it is simply, what are some of the things that you might say were the harsh realities of some of the harder things to deal with?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "grind and grueling job, standing up that podium every day, being a human pinata, talking to the press on behalf of the president for a press corps whose job is to take the opposite of whatever the president does, basically, and pound you for it. That's the job."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So do you view that as like a naturally adversarial relationship is like they're gonna say one thing I'm gonna have to say the opposite or how do you how do you view that job?"
+      }
+    ],
+    "speakername": "Ari Fleischer",
+    "ground_truth": "It can be a confrontational relationship in that, in a professional sense, their job is to take the doubles advocate and say the opposite of whatever the president or the [Government Building] is saying or doing. I wouldn't necessarily view it as adversarial because, to me, the briefing was almost like a TV show. A lot of reporters have very different personalities, and so do I. When you step into the privacy of the press office and you had conversations one-on-one with reporters. David Gregory, now the host of Meet the Press, he was one crappy, tough, argumentative reporter in the briefing room. One of the nicest, most pleasant guys you'll ever meet in private. So while the briefing room has one dynamic to it, it really is not the full extent of the relationship. But when you're in that briefing room, your job is to take a stand and defend what the president is saying, and their job is to poke holes in it.",
+    "bio": "[target] (born October 13, 1960) is an American media consultant and political aide who served as the twenty-first [Government Building] Press Secretary, for President George W. Bush, from January 2001 to July 2003. The speaker's MBTI type is INTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "grind and grueling job, standing up that podium every day, being a human pinata, talking to the press on behalf of the president for a press corps whose job is to take the opposite of whatever the president does, basically, and pound you for it. That's the job."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So do you view that as like a naturally adversarial relationship is like they're gonna say one thing I'm gonna have to say the opposite or how do you how do you view that job?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It can be a confrontational relationship in that, in a professional sense, their job is to take the doubles advocate and say the opposite of whatever the president or the government is saying or doing. I wouldn't necessarily view it as adversarial because, to me, the briefing was almost like a TV show. A lot of reporters have very different personalities, and so do I. When you step into the privacy of the press office and you had conversations one-on-one with reporters. David Gregory, now the host of a major news program, he was one crappy, tough, argumentative reporter in the briefing room. One of the nicest, most pleasant guys you'll ever meet in private. So while the briefing room has one dynamic to it, it really is not the full extent of the relationship. But when you're in that briefing room, your job is to take a stand and defend what the president is saying, and their job is to poke holes in it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So when you're in that briefing room and when you're speaking to the press, do you ever feel like you have to balance out telling the truth, saying what it is, versus actually putting a spin on something?"
+      }
+    ],
+    "speakername": "Ari Fleischer",
+    "ground_truth": "well it's a great question and i think it really comes down to is when the president says if we cut taxes is good for the economy when another president says if the government spends money it's good for the economy are they spinning or maybe it's what they believe this is a country that has its ideological divides largely is what leads people to become republican or democrat so my job is to take the podium and faithfully articulate what it was that the president believed in just as its another press secretary's job to say what their president believes and you can have differences my job is to be faithful to what the president believed if you call it spin people can call it spin but i don't think that's the right way to look at it my job is to be an advocate and articulate what he thought",
+    "bio": "The speaker (born October 13, 1960) is an American media consultant and political aide who served as the twenty-first Press Secretary for the government, from January 2001 to July 2003. The speaker's MBTI type is INTP"
+  }
+]

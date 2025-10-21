@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] is the crowned head of a media empire, a fantasy land he created in 1953 with the first issue of the now famous magazine. In the little more than 20 years since the company's iconic symbol became an artifact of American culture, he's parlayed his magazine into a far-flung enterprise that now includes two magazines, more than 15 nightclubs, a series of resort hotels, books, records, occasional motion picture productions, and several theaters. And with it all has come a steady assault on the Puritan ethic, a series of disquisitions called the company's philosophy. Catering to the sexual fantasies of Americans, urban male has made [target] a millionaire, providing him with a means to live his own fantasies. Girls galore, a luxury private jet, and a home with all the accoutrements of a satyr's daydream. [target], I've often wondered whether a middle-aged man can find happiness with millions of dollars, all the creature comforts the money can buy, and what seems to be an inexhaustible supply of dazzling female companions. But instead it seems as though that his"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's possible. It is possible. It is possible. It's rather interesting, I think, about our society that we are very suspicious of those very things that are supposed to bring happiness and that conflict exists. But I've had it both ways because I came from rather humble middle class origins and Rich is better."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Rich is better."
+      },
+      {
+        "speaker": "[target]",
+        "text": "which is better yeah well i've read about and even better of course if you're"
+      }
+    ],
+    "speakername": "Hugh Hefner",
+    "ground_truth": "More importantly, if you're doing it, you know, on your own terms, in terms of something that you believe in, I mean, I think that's the real pleasure.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Rich is better."
+      },
+      {
+        "speaker": "[target]",
+        "text": "which is better yeah well i've read about and even better of course if you're"
+      },
+      {
+        "speaker": "[target]",
+        "text": "More importantly, if you're doing it, you know, on your own terms, in terms of something that you believe in, I mean, I think that's the real pleasure."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I've read about you that at least in the recent past you never had time to enjoy all these things because if you threw over the Puritan ethic, you certainly didn't throw over the Puritan work ethic."
+      }
+    ],
+    "speakername": "Hugh Hefner",
+    "ground_truth": "I think that's true and was particularly true at one point in my life, much less true today. The boy is father to the man, and so I still fight some of those same Puritan things in myself that I'm fighting in society.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no I'm just you know aware of it I'm a very introspective person and but I would say that one of the things and I'm really grateful for two things both the success and it because it is for me a very personal it's really not a business very personal success but also the fact that I'm lucky enough to be put together in a way in which I psychologically where I'm able to enjoy it and I do so you've licked the being a slave to to your own yes well I don't you know the battles never over is that I don't think it's ever won it's a lifetime kind of a"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "work for 72 hours straight at times did you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, 72 may be an exaggeration, but I used to go around the clock. But even then it was kind of a burning candle at both ends sort of thing. See most of the reports about me, for a variety of reasons, are kind of misleading and half truths. Intentionally? In most cases I think not. I think it has to do with hangups in our society. I think the magazine and the guy who runs it are difficult to write about, again probably because of those societal ethics. I think the two big hangups in our society are money and sex, and when you put them together it's particularly difficult. I think there's a kind of almost a psychological test sort of quality about writing about the magazine in which you get two-thirds content and one-third preconceived ideas, prejudices, pro or con. And so what comes out in the press is often not so much about me as it is about society."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What is happiness to you? How would you define it for your own personal purposes?"
+      }
+    ],
+    "speakername": "Hugh Hefner",
+    "ground_truth": "Well, personal fulfillment, I think. First and foremost, doing what you really want to do and hopefully being successful at it. The real pleasure for me, you know, I've been rich and poor and rich is better, but the money, the nice thing about money is not to have to think about it. Money was important to me when I was poor. It's nice to be able to relegate it to a kind of a secondary position. It gives you the freedom then to do the things you really want to do and that are more important.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, 72 may be an exaggeration, but I used to go around the clock. But even then it was kind of a burning candle at both ends sort of thing. See most of the reports about me, for a variety of reasons, are kind of misleading and half truths. Intentionally? In most cases I think not. I think it has to do with hangups in our society. I think the magazine and the guy who runs it are difficult to write about, again probably because of those Puritan ethics. I think the two big hangups in our society are money and sex, and when you put them together it's particularly difficult. I think there's a kind of almost a Rorschach test sort of quality about writing about the magazine in which you get two-thirds of content and one-third preconceived ideas, prejudices, pro or con. And so what comes out in the press is often not so much about me as it is about society."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What is happiness to you? How would you define it for your own personal purposes?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, personal fulfillment, I think. First and foremost, doing what you really want to do and hopefully being successful at it. The real pleasure for me, you know, I've been rich and poor and rich is better, but the money, the nice thing about money is not to have to think about it. Money was important to me when I was poor. It's nice to be able to relegate it to a kind of a secondary position. It gives you the freedom then to do the things you really want to do and that are more important."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You've created, I suppose, a kind of image of the modern American male. Do you feel any compulsion to live that image yourself? Because, as you say, they write about you, they write about what you represent. Do you feel that you have to live that life? You indicate you're perfectly happy doing it, I gather."
+      }
+    ],
+    "speakername": "Hugh Hefner",
+    "ground_truth": "Yes, and I would say that that's the degree to which I do it. In other words, obviously, I am a public figure and wouldn't be if I hadn't wanted that. In other words, I'm not in show business, there aren't very many editor-publishers of magazines that are well-known, so that didn't happen by accident, and there's a pleasure in that. A pleasure in what? In being well-known?",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, and I would say that that's the degree to which I do it. In other words, obviously, I am a public figure and wouldn't be if I hadn't wanted that. In other words, I'm not in show business, there aren't very many editor-publishers of magazines that are well-known, so that didn't happen by accident, and there's a pleasure in that. A pleasure in what? In being well-known?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yes, there is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Congratulations"
+      }
+    ],
+    "speakername": "Hugh Hefner",
+    "ground_truth": "Yes. Man doesn't work for bread alone. It also cuts a lot of corners. I mean you can do things that you couldn't otherwise do. You don't have to wait in line to see a movie or to get on an airplane. That's good. They're convenient. There are a lot of things we do.",
+    "bio": "The speaker's MBTI type is ESFP"
+  }
+]

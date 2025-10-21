@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think there is a threat level. Obviously, everything's on alert. It makes sense. I think there are concentrations of ISIL people throughout [region]. [region] doesn't have borders. It's easy to move, and that's very problematic. So, you know, ISIL has hit nine different countries in about the last year. So it's really a huge escalating problem, and I think we have to recognize it and have a flexible strategy to deal with it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Based on the briefings you've been given since [city], how has that changed your feeling about the threat to America from ISIS?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, on the other hand, the United States has really spent time. The federal investigation agency, both under the former director and now under the current director, has investigations going on in virtually every office in the country. So they are on alert. They have probably made in the last year or so some 50 arrests to disrupt plots. And one doesn't like to relax, and one doesn't like to say, oh, everything's perfect. But it is a very aggressive effort, and I think we all need to support that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When the president says, as he did in [country], we have the right strategy and we're going to see it through, what does that make you think?"
+      }
+    ],
+    "speakername": "Dianne Feinstein",
+    "ground_truth": "Well that's a good question. Thursday, a couple of days ago, the Secretary of State, former colleague of ours, addressed the Senate Intelligence Committee and virtually every member was there. And what he put forward, I think, was a more comprehensive sense of what the strategy is. For the first time, I really learned the number of nations that have signed on to the [city] agreement, the basic principles of the agreement, and that and involving both [country] and [country]. And I think that's very crucial. The point there is, because the central point of all of this is [person]. And [person] has got to go. But the question is how and where and over what period of time. Because in the meantime, he's putting out barrel bombs with chemical, weapons on his people. He's killed 250,000 people. [country] is his great protector. But [country] now sees the challenge from Daesh or ISIS or ISIL. And so my problem with that is you need a time agreement.",
+    "bio": "A politician (June 22, 1933 - September 29, 2023) was an American politician who served as the senior United States Senator from [state] from 1992 until their death in 2023. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Based on the briefings you've been given since [location], how has that changed your feeling about the threat to America from ISIS?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, on the other hand, the United States has really spent time. The [agency], both under [name] and now under Director [name], has investigations going in virtually every [agency] office in the country. So they are on alert. They have probably made in the last year or so some 50 arrests to disrupt plots. And one doesn't like to relax, and one doesn't like to say, oh, everything's perfect. But it is a very aggressive effort, and I think we all need to support that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When the president says, as he did in [location], we have the right strategy and we're going to see it through, what does that make you think?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well that's a good question. Thursday, a couple of days ago, Secretary of State [name], former colleague of ours, addressed the Senate Intelligence Committee and virtually every member was there. And what he put forward, I think, was a more comprehensive sense of what the strategy is. For the first time, I really learned the number of nations that have signed on to the [location] agreement, the basic principles of the agreement, and that and involving both [location] and [location]. And I think that's very crucial. The point there is, because the central point of all of this is [name]. And [name] has got to go. But the question is how and where and over what period of time. Because in the meantime, he's putting out barrel bombs with chemical, weapons on his people. He's killed 250,000 people. [location] is his great protector. But [location] now sees the challenge from Daesh or ISIS or ISIL. And so my problem with that is you need a time agreement."
+      }
+    ],
+    "speakername": "Dianne Feinstein",
+    "ground_truth": "And my hope is that when President [name] comes here this next week, that our president, the [location] president, and the [location] president can really get together and talk about some very prudent, specific things that can be done in [location] to place all of our attention on ISIL, that we deconflict with [location], which we are trying to do, and have, as a matter of fact, a kind of partnership in going after them. Because it's only a question of time before ISIL is back in the [location] and other areas of [location], too.",
+    "bio": "A prominent American politician (June 22, 1933 - September 29, 2023) who served as the senior United States Senator from [location] from 1992 until their death in 2023. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When the president says, as he did in [Country], we have the right strategy and we're going to see it through, what does that make you think?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well that's a good question. Thursday, a couple of days ago, Secretary of State [Official], former colleague of ours, addressed the Senate Intelligence Committee and virtually every member was there. And what he put forward, I think, was a more comprehensive sense of what the strategy is. For the first time, I really learned the number of nations that have signed on to the [Location] agreement, the basic principles of the agreement, and that and involving both [Country] and [Country]. And I think that's very crucial. The point there is, because the central point of all of this is [Official]. And [Official] has got to go. But the question is how and where and over what period of time. Because in the meantime, he's putting out barrel bombs with chemical, weapons on his people. He's killed 250,000 people. [Country] is his great protector. But [Country] now sees the challenge from Daesh or ISIS or ISIL. And so my problem with that is you need a time agreement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And my hope is that when President [Official] comes here this next week, that our president, the [Country] president, and the [Country] president can really get together and talk about some very prudent, specific things that can be done in [Country] to place all of our attention on ISIL, that we deconflict with [Country], which we are trying to do, and have, as a matter of fact, a kind of partnership in going after them. Because it's only a question of time before ISIL is back in the [Region] and other areas of [Country], too."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You had been skeptical of the administration approach. Did the briefing from Secretary [Official] make you think that that approach is sufficient to the job at the moment?"
+      }
+    ],
+    "speakername": "Dianne Feinstein",
+    "ground_truth": "I don't think the approach is sufficient to the job. I think there are general principles, and there are general principles in terms of the administration strategy, too. But I'm concerned that we don't have the time, and we don't have years. We need to be aggressive now, because ISIL is a quasi-state. ISIL has 30,000 fighters. It's got a civil infrastructure. It's got funding. It's spreading in other countries. And it's a big, big problem. And now what you see, I think, in other places is a competition developing from other terrorist organizations. But ISIL is something apart. It's enormously strong, and it has to be dealt with in a very strong manner.",
+    "bio": "[target] (June 22, 1933 - September 29, 2023) was a Jewish American politician who served as the senior United States Senator from [State] from 1992 until her death in 2023. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And my hope is that when the French President comes here this next week, that our president, the Russian president, and the French president can really get together and talk about some very prudent, specific things that can be done in the conflict region to place all of our attention on ISIL, that we deconflict with Russia, which we are trying to do, and have, as a matter of fact, a kind of partnership in going after them. Because it's only a question of time before ISIL is back in the regional territories and other areas of Russia, too."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You had been skeptical of the administration approach. Did the briefing from Secretary Kerry make you think that that approach is sufficient to the job at the moment?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think the approach is sufficient to the job. I think there are general principles, and there are general principles in terms of the administration strategy, too. But I'm concerned that we don't have the time, and we don't have years. We need to be aggressive now, because ISIL is a quasi-state. ISIL has 30,000 fighters. It's got a civil infrastructure. It's got funding. It's spreading in other countries. And it's a big, big problem. And now what you see, I think, in other places is a competition developing from other terrorist organizations. But ISIL is something apart. It's enormously strong, and it has to be dealt with in a very strong manner."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned the time component. Does that suggest the administration has been too cautious or lacks a sense of urgency?"
+      }
+    ],
+    "speakername": "Dianne Feinstein",
+    "ground_truth": "No, what I'm saying is this has gone on too long now, and it has not gotten better, it's gotten worse. There may be some land held by ISIL in the conflict region that's been taken back. But for all of that, there's much more they have gained in other countries, two attacks in North Africa, four centers, regional takeover, the peninsula region, and it goes on and on. So I think we need a specific, larger special operations plan. A group of 50 is fine for what they're doing so far, but it's not going to solve the problem. And I think getting at the government in the stronghold city in a way that one is not only able to get at the government, but change it, move ISIL out, that's where the head of the snake, so to speak, has to be. I think it's going to be cut off, that's in their central base, but it's in many other places too. And we don't have a lot of time. There are needless deaths. We have over a million people that are refugees that are trying to save their families, trying to run from it. And we find it in major European cities, and that's where they're running to. So it makes no sense.",
+    "bio": "The speaker (born June 22, 1933 - September 29, 2023) was an American politician who served as the senior United States Senator from a western state from 1992 until their death in 2023. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think the approach is sufficient to the job. I think there are general principles, and there are general principles in terms of the administration strategy, too. But I'm concerned that we don't have the time, and we don't have years. We need to be aggressive now, because the group is a quasi-state. The group has 30,000 fighters. It's got a civil infrastructure. It's got funding. It's spreading in other countries. And it's a big, big problem. And now what you see, I think, in other places is a competition developing from other terrorist organizations. But this group is something apart. It's enormously strong, and it has to be dealt with in a very strong manner."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned the time component. Does that suggest the administration has been too cautious or lacks a sense of urgency?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, what I'm saying is this has gone on too long now, and it has not gotten better, it's gotten worse. There may be some land held by the group in the region that's been taken back. But for all of that, there's much more they have gained in other countries, two attacks in North Africa, four centers, regional takeover, the peninsula, and it goes on and on. So I think we need a specific, larger special operations plan. A group of 50 is fine for what they're doing so far, but it's not going to solve the problem. And I think getting at the government in the stronghold in a way that one is not only able to get at the government, but change it, move them out, that's where the head of the snake, so to speak, has to be. I think it's going to be cut off, that's their base, but it's in many other places too. And we don't have a lot of time. There are needless deaths. We have over a million people that are refugees that are trying to save their families, trying to run from it. And we find it in Western Europe, and that's where they're running to. So it makes no sense."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Have you thought about or would you suggest they look at additional ground troops, something more than special operations in terms of military engagement from the US?"
+      }
+    ],
+    "speakername": "Dianne Feinstein",
+    "ground_truth": "I think what people are worried about is an occupational force. And the thought of a no-fly zone has come up. No-fly zone to enforce, we are told, takes 10,000, 20,000 troops to be able to enforce it. It's difficult to do. But I really think that what we need to do is be at single purpose with neighboring countries to move the leader out so that everything can be concentrated against the opposing force. And without that, I'm very worried about the future.",
+    "bio": "The subject (June 22, 1933 - September 29, 2023) was an American politician who served as the senior United States Senator from a western state from 1992 until their death in 2023. The speaker's MBTI type is ISTJ"
+  }
+]

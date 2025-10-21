@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "AMNA NAWAZ Absolutely. We offered to bring our..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "devices to their"
+      },
+      {
+        "speaker": "[target]",
+        "text": "office."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And what did they say as a reason why they didn't want to do that?"
+      }
+    ],
+    "speakername": "Elizabeth Holmes",
+    "ground_truth": "Because the story needed to get out immediately. Well, let's talk about that. Even though they'd been reporting on it.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "office."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And what did they say as a reason why they didn't want to do that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because the story needed to get out immediately. Well, let's talk about that. Even though they'd been reporting on it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "They said, you know, again, because, first of all, it's a major financial newspaper. This is not a tabloid here. But they did say that they, after they pursued you for an interview for five months, you declined interview requests from the journal for more than five months. Last week, the company said she would be available, but her schedule didn't allow it before the publication of this article. Why not just sit down with them? I mean, it's a reputable outfit. Why not just sit down with them months ago and explain your side of the story?"
+      }
+    ],
+    "speakername": "Elizabeth Holmes",
+    "ground_truth": "Sure, yeah. I mean, the publication actually had a member of their editorial board write the very first piece on our company. And that person, Joe Rago, came out to our lab, saw our systems, and really got insight into our work. That was about a year ago. I published my op-ed in the publication. And unfortunately, in this case, the reporter focused on sources who we knew in 2004 and 2005, who were the people who had said to me that there was no way I was going to succeed and be able to build this kind of company, and focused on questions like asking whether I could prove that I actually invented the patents that my name were on. And those are not very fruitful conversations in the context of engagement. But when we had the opportunity to engage with more people in the publication, we said we absolutely were ready to sit down and do that. And unfortunately, they offered a three-day window in which we had told them I was not available before it was, quote-unquote, necessary to get this published.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Because the story needed to get out immediately. Well, let's talk about that. Even though they'd been reporting on it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "They said, you know, again, because, first of all, it's a major financial newspaper. This is not a tabloid here. But they did say that they, after they pursued you for an interview for five months, you declined interview requests from the journal for more than five months. Last week, the company said she would be available, but her schedule didn't allow it before the publication of this article. Why not just sit down with them? I mean, it's a reputable outfit. Why not just sit down with them months ago and explain your side of the story?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure, yeah. I mean, the journal actually had a member of their editorial board write the very first piece on our company. And that person came out to our lab, saw our systems, and really got insight into our work. That was about a year ago. I published my op-ed in the journal. And unfortunately, in this case, the reporter focused on sources who we knew in 2004 and 2005, who were the people who had said to me that there was no way I was going to succeed and be able to build this kind of company, and focused on questions like asking whether I could prove that I actually invented the patents that my name were on. And those are not very fruitful conversations in the context of engagement. But when we had the opportunity to engage with more people in the journal, we said we absolutely were ready to sit down and do that. And unfortunately, they offered a three-day window in which we had told them I was not available before it was, quote-unquote, necessary to get this published."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, let's talk about the substance of some of the charges that are raised. For instance, here's just an outright sentence, an assertion. The company also hasn't disclosed publicly that it does the vast majority of its tests with traditional machines bought from companies like a major medical equipment manufacturer. True or false?"
+      }
+    ],
+    "speakername": "Elizabeth Holmes",
+    "ground_truth": "So this is taking completely out of context. Starting when we launched our services in 2013, we put on our Web site that we do venous testing, so blood draws from the arm the traditional way. And starting in 2015, we announced, and it was published in a local paper, in a business magazine. I talked about it in an interview I did with another business magazine, that we made a decision to expand our test menu to include all the specialty and esoteric tests that are traditionally run only very infrequently, but cost a huge amount of money. And we believe, as part of what we do, that one of our greatest innovations is making these tests available at extremely low cost. And so we expanded our test menu and made all these tests available through venous draws. We updated our Web site to reflect that. And so, yes, now we have a huge number of tests that are available. Okay. So we're going to go to our lab, but instead of charging $10,000 for them, we're charging $2.99. Okay. And this is listed on the pharmacy's Web site. We have put it in our own press, and it's been out there.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sure, yeah. I mean, the journal actually had a member of their editorial board write the very first piece on our company. And that person came out to our lab, saw our systems, and really got insight into our work. That was about a year ago. I published my op-ed in the journal. And unfortunately, in this case, the reporter focused on sources who we knew in 2004 and 2005, who were the people who had said to me that there was no way I was going to succeed and be able to build this kind of company, and focused on questions like asking whether I could prove that I actually invented the patents that my name were on. And those are not very fruitful conversations in the context of engagement. But when we had the opportunity to engage with more people in the journal, we said we absolutely were ready to sit down and do that. And unfortunately, they offered a three-day window in which we had told them I was not available before it was, quote-unquote, necessary to get this published."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, let's talk about the substance of some of the charges that are raised. For instance, here's just an outright sentence, an assertion. The company also hasn't disclosed publicly that it does the vast majority of its tests with traditional machines bought from companies like [Company]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So this is taking completely out of context. Starting when we launched our services in 2013, we put on our Web site that we do venous testing, so blood draws from the arm the traditional way. And starting in 2015, we announced, and it was published in local paper, in Fortune. I talked about it in an interview I did with Forbes, that we made a decision to expand our test menu to include all the specialty and esoteric tests that are traditionally run only very infrequently, but cost a huge amount of money. And we believe, as part of what we do, that one of our greatest innovations is making these tests available at extremely low cost. And so we expanded our test menu and made all these tests available through venous draws. We updated our Web site to reflect that. And so, yes, now we have a huge number of tests that are available. Okay. So we're going to go to our lab, but instead of charging $10,000 for them, we're charging $2.99. Okay. And this is listed on the pharmacy's Web site. We have put it in our own press, and it's been out there."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How many tests can your device do? The journal says it can only do 15 out of 240."
+      }
+    ],
+    "speakername": "Elizabeth Holmes",
+    "ground_truth": "Yes. So, we had communicated to the journal that we have submitted over 130 pre-submissions to FDA with tests running on our proprietary devices, and have been taking those through the FDA submission process. Every test that we offer in our laboratory can run on our proprietary devices. We bring tests up on our proprietary devices based on the frequency with which they're run. So, at any given point in time, we're running the tests that are most commonly ordered. But we have also done a lot of work as part of this commitment that we have made. And it's been very controversial that we have actually become the first company advocating for FDA regulation of lab-developed tests. And as part of that, we have said that we think that every lab-developed test really should go through the FDA submission process. And so we have been consistent with it. And, in fact, we even just recently took our testing devices through the FDA clearance process and sent submissions in. And for those... And as part of that process, we're not even using our testing devices, except for FDA-cleared assays, so that every single thing that runs on our platform is getting to the point that it's going to be FDA-cleared.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So this is taking completely out of context. Starting when we launched our services in 2013, we put on our Web site that we do venous testing, so blood draws from the arm the traditional way. And starting in 2015, we announced, and it was published in a local paper, in Fortune. I talked about it in an interview I did with Forbes, that we made a decision to expand our test menu to include all the specialty and esoteric tests that are traditionally run only very infrequently, but cost a huge amount of money. And we believe, as part of what we do, that one of our greatest innovations is making these tests available at extremely low cost. And so we expanded our test menu and made all these tests available through venous draws. We updated our Web site to reflect that. And so, yes, now we have a huge number of tests that are available. Okay. So we're going to go to our lab, but instead of charging $10,000 for them, we're charging $2.99. Okay. And this is listed on the pharmacy chain Web site. We have put it in our own press, and it's been out there."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How many tests can your device, Edison, do? The national newspaper says it can only do 15 out of 240."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. So, we had communicated to the national newspaper that we have submitted over 130 pre-submissions to FDA with tests running on our proprietary devices, and have been taking those through the FDA submission process. Every test that we offer in our laboratory can run on our proprietary devices. We bring tests up on our proprietary devices based on the frequency with which they're run. So, at any given point in time, we're running the tests that are most commonly ordered. But we have also done a lot of work as part of this commitment that we have made. And it's been very controversial that we have actually become the first company advocating for FDA regulation of lab-developed tests. And as part of that, we have said that we think that every lab-developed test really should go through the FDA submission process. And so we have been consistent with it. And, in fact, we even just recently took our nanotainers through the FDA clearance process and sent submissions in. And for those... And as part of that process, we're not even using our nanotainers, except for FDA-cleared assays, so that every single thing that runs on our platform is getting to the point that it's going to be FDA-cleared."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "One last question. Obviously, there's some dispute here, and the journal doesn't make stuff up. Why not just have the study of hundreds of people, Theranos versus Quest LabCorp? Just say, listen, we're willing to do it. We're willing to do it now as LabCorp is Quest. Just say it right now on air. Quest LabCorp, we want to do a head-to-head, 200, 300, 400 patients. What do I say?"
+      }
+    ],
+    "speakername": "Elizabeth Holmes",
+    "ground_truth": "Yes, we've already done it. We've already done it. Absolutely. And it's actually even published in our FDA decision summary from this summer from a 900 patient study where we got FDA clearance of the exact system that the journal is questioning and demonstrated venous versus finger stick across a huge number of patients. It was 889, I think, for that test. And we've done that over and over again for every single test. Excellent.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

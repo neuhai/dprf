@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it was fun. It was fun. I love it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "as he was playing it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Andrew Cuomo",
+    "ground_truth": "if you did if there was a musical artist hall of fame and you had to have you had sole control who would be the top few who you would put in your own hall of fame who do you think the greats were or",
+    "bio": "The speaker (born December 6, 1957) is an American politician, author, and lawyer serving as the governor of a major state since 2011. A member of the Democratic Party, he was elected to the same position his late father held for three terms. He is the older brother of a prominent news network anchor. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. First of all, COVID was such a disruptive situation for so many people on so many levels. Remember what you did. You closed schools. You closed businesses. You made people wear masks. Only 25 people in a room. It was probably the most restrictive environment that government ever imposed. So there are a lot of people who, in retrospect, say you shouldn't have done this, you shouldn't have done that, you shouldn't have done this."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And what does your gut tell you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well first of all remember what we were dealing with during covert we had no idea what was going to happen i had the best health experts in the country in my office and rosanna they did not know they did not know how many people were going to die"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But they have to go through it."
+      }
+    ],
+    "speakername": "Andrew Cuomo",
+    "ground_truth": "You're raising your family. You're in [state]. You're also part of the community. I saw that you did a relief. You gave relief help for a hurricane. Ian, uh, good for you. You know, I did hurricane relief down there when I was in the federal government people in the [region], they don't appreciate how damaging a hurricane can be and what it's like for the families trying to pick up the pieces. You know, you don't feel that in the [region] the way you feel it in [state].",
+    "bio": "A politician, author, and lawyer serving as the governor of a major state since 2011. A member of the Democratic Party, he was elected to the same position his late father held for three terms. He is the older brother of a prominent news anchor. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "well first of all remember what we were dealing with during covert we had no idea what was going to happen i had the best health experts in the country in my office and rosanna they did not know they did not know how many people were going to die"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But they have to go through it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You're raising your family. You're in [state]. You're also part of the community. I saw that you did a relief. You gave relief help for a hurricane. Ian, uh, good for you. You know, I did hurricane relief down there when I was in the federal government people in the [region], they don't appreciate how damaging a hurricane can be and what it's like for the families trying to pick up the pieces. You know, you don't feel that in the [region] the way you feel it in [state]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, well, that hurricane was very, very destructive. It was incredible how bad that hurricane really affected everything down here, especially. And the fishing community and the commercial seafood industry, it was really disastrous. And, you know, we're here a good amount of time. My kids now go to school down here. So we're part-time residents."
+      }
+    ],
+    "speakername": "Andrew Cuomo",
+    "ground_truth": "yeah the uh also i saw that you supported the refugees of [country] uh yes good for you and you talk about the craziness in the world i thought [country] was going to roll right through [country] when i first heard it i'll tell you the truth big bad [country] poor small country of [country] it was david and goliath right but god bless the people of [country] what resilience and it's such a metaphor for what's going on you know they're the resilience of the people of [country] versus [country] i don't think that we can do enough to help [country]",
+    "bio": "A former state governor and politician, author, and lawyer serving as the 56th governor of a [state] from 2011. A member of a major political party, he was elected to the same position his late father held for three terms. He is the older brother of a prominent news network anchor. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You're raising your family. You're in [state]. You're also part of the community. I saw that you did a relief. You gave relief help for a hurricane. Ian, uh, good for you. You know, I did hurricane relief down there when I was in the federal government people in the [region], they don't appreciate how damaging a hurricane can be and what it's like for the families trying to pick up the pieces. You know, you don't feel that in the [region] the way you feel it in [state]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, well, that hurricane was very, very destructive. It was incredible how bad that hurricane really affected everything down here, especially. And the fishing community and the commercial seafood industry, it was really disastrous. And, you know, we're here a good amount of time. My kids now go to school down here. So we're part-time residents."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah the uh also i saw that you supported the refugees of [country] uh yes good for you and you talk about the craziness in the world i thought [country] was going to roll right through [country] when i first heard it i'll tell you the truth big bad [country] poor small country of [country] it was david and goliath right but god bless the people of [country] what resilience and it's such a metaphor for what's going on you know they're the resilience of the people of [country] versus [country] i don't think that we can do enough to help [country]"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I agree. You know, they're a an independent state and they have a right to exist and they're going to fight for it to defend that. And I think they're right. That's that's right."
+      }
+    ],
+    "speakername": "Andrew Cuomo",
+    "ground_truth": "Well, look, it became very political. People made accusations. Well, politics is the way of the world now, right? But this issue became very political. They then called for a number of investigations, and we had two or three Department of Justice investigations. The [city] District Attorney investigated it. The [state] Attorney General investigated it. We had civil suits. They were all dismissed, and nothing came from any of them. But I understand why people are upset, because it was a horrific, horrific situation.",
+    "bio": "A former state governor and politician, lawyer, and author who served as the 56th governor of a major [state] state. A member of the Democratic Party, he was elected to the same position his late father held for three terms. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah the uh also i saw that you supported the refugees of [country] uh yes good for you and you talk about the craziness in the world i thought [country] was going to roll right through [country] when i first heard it i'll tell you the truth big bad [country] poor small country of [country] it was david and goliath right but god bless the people of [country] what resilience and it's such a metaphor for what's going on you know they're the resilience of the people of [country] versus [country] i don't think that we can do enough to help [country]"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I agree. You know, they're a an independent state and they have a right to exist and they're going to fight for it to defend that. And I think they're right. That's that's right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, it became very political. People made accusations. Well, politics is the way of the world now, right? But this issue became very political. They then called for a number of investigations, and we had two or three Department of Justice investigations. The state District Attorney investigated it. The state Attorney General investigated it. We had civil suits. They were all dismissed, and nothing came from any of them. But I understand why people are upset, because it was a horrific, horrific situation."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can we talk a little bit today in the local news? There's an op-ed from one of your deputy commissioners in the health department who talked about the accusations of undercounting deaths in nursing homes. How did that happen, and why is that still part of the vernacular right now?"
+      }
+    ],
+    "speakername": "Andrew Cuomo",
+    "ground_truth": "Yeah. It never happened. It is still a subject of pain for people. When you lose a loved one, it's years of grieving. And look at these situations. Not only did you not get a chance to go say goodbye, but then there were these conspiracy theories because it became so politicized, right? The administration was blaming the states. The states were blaming the administration. The administration was suing the states. Everybody was pointing fingers. So it became very political, very weaponized. And then for people to think maybe government made a mistake and that's why mom died. That's a very, very difficult situation.",
+    "bio": "The speaker is a politician, author, and lawyer who served as the 56th governor of a state since 2011. A member of the Democratic Party, he was elected to the same position his late father held for three terms. He is the older brother of a prominent news anchor. The speaker's MBTI type is ENTJ"
+  }
+]

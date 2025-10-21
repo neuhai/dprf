@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, well, kombucha is an organic tea that's cultured with a probiotic. So if you think of kind of like yogurt or kefir, where that's fermented milk, kombucha is a fermented tea."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Because those good bacteria are really good for the stomach and the body."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "and what happens in today's society with antibiotics and so forth. We lose all that good bacteria."
+      }
+    ],
+    "speakername": "GT Dave",
+    "ground_truth": "Absolutely. I mean, in this world where everybody takes antibiotics, if they have sniffles or a cough or a sneeze, or we have foods that have pesticides, or we have environments where there's smog and pollution, the good bacteria in our body is slowly dying off, and we're not replenishing it because everybody's so sano with the antibacterial soaps and things of that nature. So we really need, more than ever, to replenish that good bacteria.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Exactly."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "and what happens in today's society with antibiotics and so forth. We lose all that good bacteria."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. I mean, in this world where everybody takes antibiotics, if they have sniffles or a cough or a sneeze, or we have foods that have pesticides, or we have environments where there's smog and pollution, the good bacteria in our body is slowly dying off, and we're not replenishing it because everybody's so sano with the antibacterial soaps and things of that nature. So we really need, more than ever, to replenish that good bacteria."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What happens if you don't have the good bacteria?"
+      }
+    ],
+    "speakername": "GT Dave",
+    "ground_truth": "Well, a lot of things can happen. I mean, there's some early studies now that are saying that children are developing allergies because their bodies aren't able to deal with bacteria of any kind. Because, again, so much of the antibacterial soaps and things of that nature, the common cleaning products, the air fresheners.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, so you've got to have good bacteria, and you can get it from yogurt. Yes. Right? But not everybody can eat yogurt. Exactly. Right? You can get it from where else?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you can get it, of course, kombucha. You can get it from sauerkraut. You can get it from kimchi. You can get it from miso. You can get it from other kind of fermented foods. I mean, you can also get it in supplements, which is not bad. But I believe that everything should come naturally, right? Like live food."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Live food. Exactly."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And so you were sitting around one day 20 years ago and decided to ferment a mushroom or something? How'd this happen?"
+      }
+    ],
+    "speakername": "GT Dave",
+    "ground_truth": "Kind of. I mean, 20 years ago, 20 plus years ago, kombucha came into my parents' house and my parents were making it, drinking it, fell in love with it. And I was just a teenager, so I honestly didn't understand what they were doing. But after a couple years of observing them drinking it and watching them fall in love with it and watching them kind of praise its health benefits, I thought I'd give it a chance. And that's when I fell in love with it.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Live food. Exactly."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And so you were sitting around one day 20 years ago and decided to ferment a mushroom or something? How'd this happen?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Kind of. I mean, 20 years ago, 20 plus years ago, kombucha came into my parents' house and my parents were making it, drinking it, fell in love with it. And I was just a teenager, so I honestly didn't understand what they were doing. But after a couple years of observing them drinking it and watching them fall in love with it and watching them kind of praise its health benefits, I thought I'd give it a chance. And that's when I fell in love with it."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So how did they make it? What did they, they boiled a pot of mushrooms? What'd they do? No."
+      }
+    ],
+    "speakername": "GT Dave",
+    "ground_truth": "Oh, actually, it's kind of simple but kind of strange. I mean, you start off with regular tea that you brew, and then you put it in kind of a bowl or a batch, maybe about a gallon in size, and then you add this culture, which a lot of people call a mushroom, but actually it's not a mushroom in any way. It's not a fungus, but the reason why people call it a mushroom is it looks like a portobello mushroom with its texture and shape. Anyway, you put that in the batch, let it sit for anywhere from 7 days to 14 days, and at the end of that time frame, you have kind of a pungent-tasting, naturally carbonated vinegary drink that when you first try it, it's weird, but then you notice you get into it.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Kind of. I mean, 20 years ago, 20 plus years ago, kombucha came into my parents' house and my parents were making it, drinking it, fell in love with it. And I was just a teenager, so I honestly didn't understand what they were doing. But after a couple years of observing them drinking it and watching them fall in love with it and watching them kind of praise its health benefits, I thought I'd give it a chance. And that's when I fell in love with it."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So how did they make it? What did they, they boiled a pot of mushrooms? What'd they do? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, actually, it's kind of simple but kind of strange. I mean, you start off with regular tea that you brew, and then you put it in kind of a bowl or a batch, maybe about a gallon in size, and then you add this culture, which a lot of people call a mushroom, but actually it's not a mushroom in any way. It's not a fungus, but the reason why people call it a mushroom is it looks like a portobello mushroom with its texture and shape. Anyway, you put that in the batch, let it sit for anywhere from 7 days to 14 days, and at the end of that time frame, you have kind of a pungent-tasting, naturally carbonated vinegary drink that when you first try it, it's weird, but then you notice you get into it."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So you're a teenager. You walk into your house and your parents have vats of fermenting 7-10 day old drinks in the house. Is that weird?"
+      }
+    ],
+    "speakername": "GT Dave",
+    "ground_truth": "Very weird. I mean, I'd had friends that would come over, smell the kombucha, see the batches on the table, and look to me and say, dude, are your parents like pod people? I mean, what's going on here? And, I mean, it's very interesting to see. You see all these different batches lined up on a table, and you get close to them, and you hear them kind of burping and moving, and it's kind of freaky. It's very much like a science project.",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

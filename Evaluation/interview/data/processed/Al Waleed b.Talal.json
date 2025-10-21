@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "long."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, you have to ask the government, not me, frankly speaking. You know, I don't believe I belong there at all. So, you know, I am almost always in agreement with my government, but not necessarily all the time. For example, I give advice to the government on certain incidents and certain cases, and sometimes they listen to me and sometimes they don't. It's like they give me advice on certain things, and I listen sometimes, sometimes I don't. So there's an interaction between me and the government continuously. Now, on that particular subject, I don't believe I should have been there. Yet I'm there, I respect the government, I accept what they said, and I'm under the support of the nation, under the king and crown prince. What did the government want from you? Did they ever make that clear? Well, you know, I will not dwell into the discussion that took place between me and the government through the representatives. They must have wanted something, though. No, I read what was written, you know, that they want a chunk of A or B, or C of what I have, you know, and this was all rumors."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "To one report, it was $6 billion."
+      }
+    ],
+    "speakername": "Al Waleed b.Talal",
+    "ground_truth": "Oh, yes, I read $6 billion, I read more than that, less than that, I understand. Frankly speaking, you know, all these are rumors, but I will not dwell into the arrangement between me and the government. Did it cost you anything to leave? I will not comment on the content of the agreement between me and the government.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, you have to ask the government, not me, frankly speaking. You know, I don't believe I belong there at all. So, you know, I am almost always in agreement with my government, but not necessarily all the time. For example, I give advice to the government on certain incidents and certain cases, and sometimes they listen to me and sometimes they don't. It's like they give me advice on certain things, and I listen sometimes, sometimes I don't. So there's an interaction between me and the government continuously. Now, on that particular subject, I don't believe I should have been there. Yet I'm there, I respect the government, I accept what they said, and I'm under the support of the country, under the leader and crown prince. What did the government want from you? Did they ever make that clear? Well, you know, I will not dwell into the discussion that took place between me and the government and through the representatives. They must have wanted something, though. No, I read what was written, you know, that they want a chunk of A or B, or C of what I have, you know, and this was all rumors."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "To one report, it was $6 billion."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, yes, I read $6 billion, I read more than that, less than that, I understand. Frankly speaking, you know, all these are rumors, but I will not dwell into the arrangement between me and the government. Did it cost you anything to leave? I will not comment on the content of the agreement between me and the government."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, but what I'm asking is, did you have to pay the government any money? Did you have to hand over any land? Did you have to surrender any shares?"
+      }
+    ],
+    "speakername": "Al Waleed b.Talal",
+    "ground_truth": "say it's a confidential and secret agreement, an arrangement that is based on confirmed understanding between me and the government, I have to respect that. And look, look, I'm a citizen, right? But I'm a royal family member. You know, the leader is my uncle. The crown prince is my cousin. And this is the rule of the country, the founder established this country, correct? So my interest is really to maintain this kingdom, this nation, and obviously my position also, and to maintain the relationship between me and them and have it, you know, unscratched completely.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "that's why I didn't want to be in that case because some of those people were there I'm not going to name names but I know them 1, 2, 3, 4, 5, 6, 7 maybe quite a bit of them that they really did commit crimes did commit crimes of theft and they were involved in bribes and they were involved in stealing funds from the government we all know them very well I know them and I'm for having these people there I am for the anti-corruption that took place in my country now unfortunately I was added to that group but fortunately I'm out of it right now and life is back to normal so I'm not a person who's going to come and say you know I forgive I forgive but I don't forget I say I forgive and I forget at the same time also"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I also want to know if you retain control of your companies whether you're still a 95% shareholder in your holding company, whether you still own your media company, whether you're still in full control of your personal investment portfolio."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me."
+      }
+    ],
+    "speakername": "Al Waleed b.Talal",
+    "ground_truth": "Look, I'm at the holding company, I'm the chairman. Obviously, you know, I did give the power to our new CEO more than a year ago. And also I empowered the leader over there to manage the process, and my private office, and media company. So they all have been empowered long time before I went to the hotel. I'm really the chairman, like the only chairman, speaking of all of them. And they're all functioning as usual. Even when I was in detention, they were still functioning. And there is a blessing in disguise, really. It was a conclusive proof that all these operations, whether it's the holding company, or the philanthropies, or my private office, or media company, they're functioning as normal as possible, even in my absence. But are you still the controlling shareholder? Look, very simple, very simple matter. You can go, look, the holding company is being publicated in my country, and my country is part of G20. And our stock market is very transparent. Actually, very as transparent as the United States. So please, you can go to the list of holdings, and you look there, how much is my holding there? You know, you can see it's 95%. So you go there, you see what is right now, and you can verify that independently.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, I'm at a major holding company, I'm the chairman. Obviously, you know, I did give the power to our new CEO more than a year ago. And also I empowered the leader over there to manage the process, and my private office, and our media company. So they all have been empowered long time before I went to the hotel. I'm really the chairman, like the only chairman, speaking of all of them. And they're all functioning as usual. Even when I was in detention, they were still functioning. And there is a blessing in disguise, really. It was a conclusive proof that all these operations, whether it's the holding company, or the philanthropies, or my private office, or the media company, they're functioning as normal as possible, even in my absence. But are you still the controlling shareholder? Look, very simple, very simple matter. You can go, look, the holding company is being publicated in the country, and the country is part of G20. And our stock market is very transparent. Actually, very as transparent as the United States. So please, you can go to the list of holdings, and you look there, how much is my holding there? You know, you can see it's 95%. So you go there, you see what is right now, and you can verify that independently."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You're welcome."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Sir, you maintain your innocence, you say that you didn't sign a settlement acknowledging guilt, and that you are different, if you will, from many of the other people who were..."
+      }
+    ],
+    "speakername": "Al Waleed b.Talal",
+    "ground_truth": "Signed, confirmed understanding. Yes. And I say we have signed something, yes, confirmed understanding. I don't call it a settlement. Now, some others may call it a settlement. I don't call it a settlement because settlement, to me, is an acknowledgement that you made a wrong, you made something wrong. In my case, no, it's a confirmed understanding with the government. You realize, of course, how...",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No doubt that the shale oil production is increasing, not only in the United States, but also in Europe and some other areas in the world. As a result of that, the United States will not only be oil-sufficient in production, but also it will be potentially a net oil exporter. No doubt this will impact the geopolitical situation in our region because the dependence on the United States on oil will be less. However, the relationship between our country and the United States, as I encompass it and as I see it, is somehow wider than just being oil-dependent only. And the anchor of that relationship began when President Roosevelt met our former leader, the establisher of our modern nation, in 1945 on a military ship and established this long-term alliance that really is not only based on oil only."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But that is true, and there has been this alliance, and a lot of it is because of U.S. dependence on Middle Eastern oil. But now the U.S. is about to surpass two major oil-producing nations as the world's largest oil producer because of shale. So I really do think that changes geopolitics. I mean, if you look at the relations between our nations, there are three fracture points right now, Syria, Egypt, and Iran. How much has it strained relations with the U.S. in terms of this new deal that Secretary Kerry may be crafting with Iran?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No doubt, the relationship between our country and the United States is strained. It is strained? It is very strained. How strained? It is very strained. However, Mr. Kerry's visit to our country and meeting with our leader for two long hours, I think a lot of things were resolved at that time. Yet, still, we are very concerned from the non-coherent policy, if I can just turn, a non-coherent policy of the United States towards the Middle East. For example, when President Obama puts a red line, whereby if Syria crosses that red line by using chemical weapons, he will strike. And then, at the last minute, obviously, a change happens, whereby a quid pro quo takes place, whereby the chemical weapons are given to the United States, and they don't get hit. So, this really was not very much welcomed in our region."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And when they didn't strike, what did you think about that?"
+      }
+    ],
+    "speakername": "Al Waleed b.Talal",
+    "ground_truth": "Well, I mean, it's not us only, it's the whole world, you know, saw it as a blinking and gave a foreign leader the chance to come not only from the back door, from the front door, whereby a big delegation visited regional countries, whereby they tried to reestablish themselves again because, you know, that nation played a big role in blocking that deal between the United States and Syria. But the big question is...",
+    "bio": "The speaker's MBTI type is ESTP"
+  }
+]

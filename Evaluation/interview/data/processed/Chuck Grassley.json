@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to see you at your home."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] entered the Senate in 1981 and served throughout [Political Figure]'s time as [Political Figure]'s vice president and his own presidency."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He accomplished an awful lot as president of the United States when the Democratic parties control both houses of Congress. And I, and, uh, and I hope that how do you get back to where it was when president [Political Figure]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Many are saying that with President [Political Figure]'s passing, we're seeing the end of an era of a certain decency and civility in leadership. What is your response to that?"
+      }
+    ],
+    "speakername": "Chuck Grassley",
+    "ground_truth": "He was a very good example of two things. Two things that people, sadly I'd say, brag about that they never talk about with anybody else. They don't talk about religion, they don't talk about politics. And is there any two things that have a bigger impact on your life, God and government in America, that we ought to be talking about?",
+    "bio": "Born September 17, 1933, is an American politician serving as the senior United States senator from [State], having held the seat since 1981. [target] was first elected to the Senate in 1980 and has been reelected seven times. He is the longest-serving Republican in Congressional history and the sixth-longest-serving U.S. senator in history. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He accomplished an awful lot as president of the United States when the Democratic parties control both houses of Congress. And I, and, uh, and I hope that how do you get back to where it was when president [anonymous]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Many are saying that with President [anonymous] Sr.'s passing, we're seeing the end of an era of a certain decency and civility in leadership. What is your response to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He was a very good example of two things. Two things that people, sadly I'd say, brag about that they never talk about with anybody else. They don't talk about religion, they don't talk about politics. And is there any two things that have a bigger impact on your life, God and government in America, that we ought to be talking about?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] says he remains hopeful civility will return to politics."
+      }
+    ],
+    "speakername": "Chuck Grassley",
+    "ground_truth": "How are you going to change public discourse in America? Every one of us that are in public life have to individually set a better example and if we do that as an individual goal, collectively, we will make a better environment for public discussion in America.",
+    "bio": "Born September 17, 1933, this American politician has served as the senior United States senator from [state] since 1981. First elected to the Senate in 1980 and reelected seven times, he is the longest-serving Republican in Congressional history and the sixth-longest-serving U.S. senator in history. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'll wait until you start asking the questions."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What would you say to voters?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Are you recording now?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, it's all, oh yeah."
+      }
+    ],
+    "speakername": "Chuck Grassley",
+    "ground_truth": "Yeah, okay. Yeah, well, you know, first of all, I thank you for asking that question. It's a very important question. I guess the best way to answer it is can I, it's kind of like, can you do the job? And the answer is yes, I can do the job. I've been doing the job. In fact, the question you raised about my age was raised six years ago, 82. People thought, boy, and here, I'm still alive. So anyway, let's go back to how I operate this way. So let's say I got one schedule for the capital city and one schedule for [state], so I'll go through both of them. I go to bed at 9, get up at 4, go two miles, shower, get to the office at 6. Okay, I'm in the government complex till mostly 6.30, quarter to 7, Senate quits, or the last vote. Get out of there. Do the same thing the next day. Well, when I'm in the government complex for those 12 hours, I have committee meetings. I have, I do five interviews with people like you every week on a regular basis, every week, 52 weeks out of the year. I go to caucuses, committee meetings, give speeches, introduce bills, got 52 bills passed this year that I either sponsored or co-sponsored, and then the next day do the same thing. So then when I'm in [state], you've heard about the [target policy]. So just think, 42 years in a row, including this year, including next year, and the next year if I'm re-elected, I will be going to each one of the 99 counties every year to keep in touch with my constituents because the essence of representative government is communication between those of us that are elected and the people we serve. serve. Now I represent three and two tenths million constituents. I probably only see a few thousand every year but I tell every group I do it doesn't do me much good to be there talking to you if you don't keep up the communication when you can't see me face to face and that applies to the other three and two tenths million people. So I do everything I can to keep in touch with people. Now you tell me how many senators do that and particularly senators that are a lot younger than me. So I work hard because the people pay me to work hard and I and one of the things I have a record on is the fact that I've gone 27 years without missing a vote until November 2020 when I had to quit for COVID. I missed ten votes. I haven't missed a vote since then. I cast eight thousand nine hundred and twenty seven votes without missing a vote. So you've had two thousand senators since 1789. I got the best record of any of them and I beat [previous senator]'s record of 1988 when he didn't miss a vote for 22 years. So you plan on serving all six years?",
+    "bio": "The speaker (born September 17, 1933) is an American politician serving as the senior United States senator from [state], having held the seat since 1981. The speaker was first elected to the Senate in 1980 and has been reelected seven times. They are the longest-serving member of their party in Congressional history and the sixth-longest-serving U.S. senator in history. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My grandson and I have never talked about that. He's a very good House speaker, leader of the House of Representatives in [location]. And we don't talk about those things. And one thing that would be very wrong for me to do, if I wanted to do it, would be to think you could pick your successor. There's going to be a, if I, when I retire, there's going to be a big competition. I know that. Would you like to?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "see your grandson in that competition."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Inflation, we're going to move over to. What is one policy you'd like to push in the Senate to stop inflation?"
+      }
+    ],
+    "speakername": "Chuck Grassley",
+    "ground_truth": "When you're, well, first of all, the background of why we have inflation. Remember when [politician] took over, one and four-tenths percent inflation. 9.1, now down to 8.2. It's not transitory, as you said, it's very persistent. And I think that when you're in a hole, you quit digging. So I want to go back to what [economist] said, January. [economist], January of.",
+    "bio": "Born September 17, 1933, this American politician has served as the senior United States senator from [state] since 1981. First elected to the Senate in 1980 and reelected seven times, this person is the longest-serving Republican in Congressional history and the sixth-longest-serving U.S. senator in history. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "see your grandson in that competition."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Inflation, we're going to move over to. What is one policy you'd like to push in the Senate to stop inflation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "When you're, well, first of all, the background of why we have inflation. Remember when the current president took over, one and four-tenths percent inflation. 9.1, now down to 8.2. It's not transitory, as you said, it's very persistent. And I think that when you're in a hole, you quit digging. So I want to go back to what Summers said, January. Larry Summers. Larry Summers, January of."
+      }
+    ],
+    "speakername": "Chuck Grassley",
+    "ground_truth": "He said the economy's revived, don't spend any more money. They immediately spent two trillion dollars feeding the fires inflation, contrary to what Summers advised, Furman advised. Then they put in another 714 billion, and then they put in another 567 billion in August when they forgave debt. So just think of this. The current president is responsible for this because he didn't follow Summers' advice, and if my opponent is elected, he's going to be a rubber stamp for all these policies.",
+    "bio": "Born September 17, 1933, the target is an American politician serving as the senior United States senator from a midwestern state, having held the seat since 1981. First elected to the Senate in 1980 and has been reelected seven times. The target is the longest-serving member of their party in Congressional history and the sixth-longest-serving U.S. senator in history. The speaker's MBTI type is ISTJ"
+  }
+]

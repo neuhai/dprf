@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Most people have never heard of [target], and I'm already polling at 1% enough for me to make the debates. Hey Joe!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Welcome. Thank you. It's great to be here. Thanks for having me. So, universal basic income. This is what this is all about. My initial knee-jerk reaction was, get the f*** out of here. Like, universal basic income. Just going to give people money. They're just going to be lazy. Nothing's ever going to get done. That's a terrible idea. And then I started paying attention to the rise of AI and automation and how many jobs are going to get taken away. And then once you see the actual numbers, it's pretty staggering."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So I've been driven to universal basic income in part because I've been looking at the numbers. The five most common jobs in the United States right now are administrative and clerical work, retail and sales, food service and food prep, truck driving and transportation and manufacturing. Those five jobs comprise about half of all American jobs. Only 32% of Americans graduate from college. So the average American is a high school grad doing one of these five jobs. And if you look at it, technology is already doing a number on each of these jobs. Like the first administrative and clerical includes call center workers and AI is in the process of taking over that job. Retail and sales, 30% of malls are closing in the next four years. So the danger here is to think of it as artificial intelligence is coming. It's actually already eating up the most common jobs in our economy and it's driving Americans into distress in various ways in the numbers."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are there other alternatives that you've considered other than just universal basic income, like educating people about this being a real issue and perhaps pushing them or directing them towards other occupations?"
+      }
+    ],
+    "speakername": "Andrew Yang",
+    "ground_truth": "The truth of it, Joe, is that there are three and a half million truck drivers in this country right now. It's the most common job in 29 states. And the average trucker is a 49-year-old guy with a high school education, maybe ex-military. So then if you say, hey, I'm going to retrain half a million truck drivers for what exactly is like issue number one? Right.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So I've been driven to universal basic income in part because I've been looking at the numbers. The five most common jobs in the country right now are administrative and clerical work, retail and sales, food service and food prep, truck driving and transportation and manufacturing. Those five jobs comprise about half of all jobs. Only 32% of citizens graduate from college. So the average citizen is a high school grad doing one of these five jobs. And if you look at it, technology is already doing a number on each of these jobs. Like the first administrative and clerical includes call center workers and AI is in the process of taking over that job. Retail and sales, 30% of shopping centers are closing in the next four years. So the danger here is to think of it as artificial intelligence is coming. It's actually already eating up the most common jobs in our economy and it's driving citizens into distress in various ways in the numbers."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are there other alternatives that you've considered other than just universal basic income, like educating people about this being a real issue and perhaps pushing them or directing them towards other occupations?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The truth of it is that there are three and a half million truck drivers in this country right now. It's the most common job in 29 states. And the average trucker is a 49-year-old guy with a high school education, maybe ex-military. So then if you say, hey, I'm going to retrain half a million truck drivers for what exactly is like issue number one? Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right."
+      }
+    ],
+    "speakername": "Andrew Yang",
+    "ground_truth": "And that these people didn't love school 30 years ago. It's not like driving a truck has made them really excited about the idea.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The truth of it, Joe, is that there are three and a half million truck drivers in this country right now. It's the most common job in 29 states. And the average trucker is a 49-year-old guy with a high school education, maybe ex-military. So then if you say, hey, I'm going to retrain half a million truck drivers for what exactly is like issue number one? Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that these guys didn't love school 30 years ago. It's not like driving a truck has made them really excited about the idea."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Andrew Yang",
+    "ground_truth": "And then the new job you're training them for, I looked into the data as to how good we were at retraining, let's say, displaced manufacturing workers in the region when we started decimating their jobs. And we're terrible at it. Like, according to independent studies, government-funded retraining programs had a success rate of between 0% and 15% in real life. Like, this is what actually happened to the workers of the industrial states.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And that these guys didn't love school 30 years ago. It's not like driving a truck has made them really excited about the idea."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then the new job you're training them for, I looked into the data as to how good we were at retraining, let's say, displaced manufacturing workers in the industrial region when we started decimating their jobs. And we're terrible at it. Like, according to independent studies, government-funded retraining programs had a success rate of between 0% and 15% in real life. Like, this is what actually happened to the workers of various industrial states."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, I'm trying to look at this through rose-colored glasses, I guess. I'm trying to think if there's a way that these people can adapt."
+      }
+    ],
+    "speakername": "Andrew Yang",
+    "ground_truth": "People legitimately talk about retraining coal miners to be software engineers. Stuff that on the face of it makes no sense. But the reason why we're stretching for that is because we're looking for some kind of retraining-oriented solution when the numbers show that that's just not going to be the recipe for actual success.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And then the new job you're training them for, I looked into the data as to how good we were at retraining, let's say, displaced manufacturing workers in the region when we started decimating their jobs. And we're terrible at it. Like, according to independent studies, government-funded retraining programs had a success rate of between 0% and 15% in real life. Like, this is what actually happened to the workers of these industrial states."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, I'm trying to look at this through rose-colored glasses, I guess. I'm trying to think if there's a way that these people can adapt."
+      },
+      {
+        "speaker": "[target]",
+        "text": "People legitimately talk about retraining miners to be software engineers. Stuff that on the face of it makes no sense. But the reason why we're stretching for that is because we're looking for some kind of retraining-oriented solution when the numbers show that that's just not going to be the recipe for actual success."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's kind of preposterous to ask someone who doesn't have an education to do something that's as difficult as code, computer language."
+      }
+    ],
+    "speakername": "Andrew Yang",
+    "ground_truth": "Yeah, and unfortunately, we're going to get to a point where AI can do some basic coding at a certain level.",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

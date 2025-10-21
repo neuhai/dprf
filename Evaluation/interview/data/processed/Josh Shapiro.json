@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, Kristen, I think what is clear is this is a race not between [Person A] and [Person B], but between [Person A] and [Person C]. And on that, there are clear contrasts. [Person A] wants to cut taxes for the middle class and small businesses. [Person C]'s tariffs and his economic policies would raise costs for middle class families. I think [Person A] has a strong and competent approach to foreign policy to try and calm tensions overseas. [Person C] just wants to throw a grenade and everything and create more chaos and more suffering across the globe. I think you have a clear contrast on freedom between those two candidates. [Person A] wants to restore Roe. [Person C] brags about how he's ripped away the freedom from millions of women across this country. So listen, I think you have a clear contrast between [Person A] and [Person C]. And voters are going to the polls literally right now all across America. Focusing on that choice, not a choice between [Person A] and [Person B]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I understand what you're saying, Governor, but polls do show that more Americans feel as though [Person B]'s policies have hurt them rather than help them. So can you name one key policy difference between [Person A] and [Person B]? How would her administration look different?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I've been really encouraged by the amount of energy that [Person A] has put into focusing on how she will cut taxes for small businesses. The focus on child care tax credit expansion, that's something I've done here in [State]. We've seen that work to ease the burden on families. I think a focus on those kinds of things is particularly important, and those are the kinds of things I think [Person A] has brought specifically to this race."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Those aren't necessarily differences, though. They're an expansion or a tweak to some extent to what's been done. Can you name one policy difference?"
+      }
+    ],
+    "speakername": "Josh Shapiro",
+    "ground_truth": "Listen, again, the contrast I am focused on, Kristen, is between her and [Person C]. And on that, I think it is clearly different. I don't want to go back to [Person C] when he was in charge of this country. Remember the record. I know there's still some people that have maybe a little brain fog. They don't remember what it was like. Under [Person C], you had more chaos, you had less jobs, and you had a whole lot less freedom. I don't want to go back to that time of chaos. I want a stable, strong leader, and that's [Person A].",
+    "bio": "The subject is an American politician and attorney who has served as the governor of [State] since 2023. A member of the Democratic Party, they served as the state attorney general from 2017 to 2023 and as a member of the [County] Board of Commissioners from 2012 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think if past is prologue, we're set for another close race here in Pennsylvania. Let me explain. 2016, the race was decided by 44,000 votes. Donald Trump won here in Pennsylvania. In 2020, the race was settled by 80,000 votes. Joe Biden won. In both instances, it came down to a point or less. So the fact that you have polls showing that it's a jump ball, a statistical dead heat, maybe Kamala Harris is up a point or so, that is not a shock. We are used to close elections here in Pennsylvania. And I choose not to worry about that. I choose to work right through it. We understand that this election likely will come down to tens of thousands of votes. It's why I am all over Pennsylvania doing everything I can for the vice president, why I'm on this blue wall bus tour with Governor Gretchen Whitmer, Governor Tony Evers of Michigan and Wisconsin, respectively. We're going to be in state college today after spending a whole bunch of time in western Pennsylvania yesterday and before that Michigan and Wisconsin. We understand these races are close. You've got to compete for every vote. And while we're a big state, we're still a retail state. You've got to show up. And I'm encouraged by the fact that the vice president has been here so much and is committed to coming back here many times before Election Day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Governor, let's talk about the Middle East. You just heard me talking about that with Senator Graham. Vice President Harris has struggled to shore up support from young voters, from progressives who want to see an immediate end to the war in Gaza in the wake of the death of Yaya Sinwar. Do you think that if there is a peacefire deal that's brokered, that could have an impact? And if there isn't a peacefire deal that is brokered, could that hurt Harris with those key groups I just mentioned?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, obviously the situation in the Middle East is dire and obviously it's having an impact on our politics here at home. First, let's acknowledge that Sinwar was a bad man with blood on his hands. He was a terrorist who killed people in Israel, who killed people throughout the region, who killed Americans. He was the mastermind behind October 7th that left 1,200 dead, about 250 in captivity, including Americans. Women brutally, sexually assaulted and violated by Hamas, the terrorist group that Sinwar led. I am glad he is dead. It is my hope that that can bring some modicum of peace to the families, the victims of those on October 7th. It's also my hope that this can perhaps create the opportunity for a pause in the fighting, that the hostages can come home and that we can have a ceasefire. And immediately look to creating stability in the Middle East, where Gaza can be rebuilt. And it would be my hope that we could have meaningful negotiations with nations all throughout the Middle East that would create the opportunity to construct a two-state solution. So I am hopeful that with this terrorist death, that we can hopefully create some break in the action, a return of these hostages and creating some stability in the region."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Governor, let me ask you about a development we learned about overnight. Elon Musk says he will be giving away a million dollars every day to random voters who sign his super PACs petition. You are a former attorney general. Is this legal?"
+      }
+    ],
+    "speakername": "Josh Shapiro",
+    "ground_truth": "I think there are real questions with how he is spending money in this race, how the dark money is flowing, not just into Pennsylvania, but apparently now into the pockets of Pennsylvanians. That is deeply concerning. Look, Musk obviously has a right to be able to express his views. He's made it very, very clear that he supports Donald Trump. Obviously, we have a difference of opinion. I don't deny him that right. But when you start flowing this kind of money into politics, I think it raises serious questions that folks may want to take a look at.",
+    "bio": "Joshua David Shapiro is an American politician and attorney who has served as the 48th governor of Pennsylvania since 2023. A member of the Democratic Party, he served as the 50th Pennsylvania attorney general from 2017 to 2023 and as a member of the Montgomery County Board of Commissioners from 2012 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Look, obviously the situation in the region is dire and obviously it's having an impact on our politics here at home. First, let's acknowledge that the leader was a bad man with blood on his hands. He was a terrorist who killed people in this area, who killed people throughout the region, who killed civilians. He was the mastermind behind the attack that left 1,200 dead, about 250 in captivity, including civilians. Women brutally, sexually assaulted and violated by the terrorist group that he led. I am glad he is dead. It is my hope that that can bring some modicum of peace to the families, the victims of those affected. It's also my hope that this can perhaps create the opportunity for a pause in the fighting, that the hostages can come home and that we can have a ceasefire. And immediately look to creating stability in the region, where the area can be rebuilt. And it would be my hope that we could have meaningful negotiations with nations all throughout the region that would create the opportunity to construct a two-state solution. So I am hopeful that with this terrorist death, that we can hopefully create some break in the action, a return of these hostages and creating some stability in the region."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Governor, let me ask you about a development we learned about overnight. Elon Musk says he will be giving away a million dollars every day to random voters who sign his super PACs petition. You are a former attorney general. Is this legal?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think there are real questions with how he is spending money in this race, how the dark money is flowing, not just into our state, but apparently now into the pockets of our citizens. That is deeply concerning. Look, Musk obviously has a right to be able to express his views. He's made it very, very clear that he supports Donald Trump. Obviously, we have a difference of opinion. I don't deny him that right. But when you start flowing this kind of money into politics, I think it raises serious questions that folks may want to take a look at."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you think it might not be legal, yes or no?"
+      }
+    ],
+    "speakername": "Josh Shapiro",
+    "ground_truth": "I think it's something that law enforcement can take a look at. I'm not the Attorney General anymore of our state, I'm the Governor, but it does raise some serious questions.",
+    "bio": "The speaker is an American politician and attorney who has served as the 48th governor of a northeastern state since 2023. A member of the Democratic Party, they served as the 50th state attorney general from 2017 to 2023 and as a member of a county Board of Commissioners from 2012 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it's something that law enforcement can take a look at. I'm not the Attorney General anymore of [state], I'm the Governor, but it does raise some serious questions."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right. Well, I have to end the interview by saying from one [state] resident to another, go birds. We'll be watching the game today."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Birds. All right, Kristen. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Governor [target], thank you so much for joining the program. We really appreciate it."
+      }
+    ],
+    "speakername": "Josh Shapiro",
+    "ground_truth": "Thanks for watching. Stay updated about breaking news and top stories on the news network app or follow us on social media.",
+    "bio": "The subject is an American politician and attorney who has served as the 48th governor of a northeastern state since 2023. A member of the Democratic Party, they served as the 50th state attorney general from 2017 to 2023 and as a member of a county Board of Commissioners from 2012 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh my-"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That be me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "She will win. Are they tired yet of the swing state status of the constant barnstorming, your state? I mean, look, yes, and..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No."
+      }
+    ],
+    "speakername": "Josh Shapiro",
+    "ground_truth": "It's close, right? But let me just, for those of you out there kind of worrying about this, the last two presidential races in this state came down to less than a point. So, of course, the polls are going to be close. Now, are folks tired of maybe some of the commercials and things on TV? Yeah, but I think folks also understand that they have an extraordinary power here. And with that power comes a real responsibility. I think maybe the one... Dude, you can't just sit here and quote Spider-Man.",
+    "bio": "A politician and attorney who has served as the 48th governor of their state since 2023. A member of the Democratic Party, they served as the 50th state attorney general from 2017 to 2023 and as a member of a County Board of Commissioners from 2012 to 2017. The speaker's MBTI type is ESTJ"
+  }
+]

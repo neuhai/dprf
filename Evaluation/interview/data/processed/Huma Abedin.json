@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "47 past the hour. Joining us now, longtime aide to [target], [target]. She was her senior advisor when she was senator and vice chair of her 2016 presidential campaign. [target] is author of the new book out today entitled Both and A Life in Many Worlds and Many Worlds Indeed. Thank you so much for coming on the show this morning. I've been watching your interviews and reading the book, which is really incredible. And you talk about how you're you're used to being the person behind the scenes in that strong supporting role. But you've been out on book tour and in front of the cameras and people asking you all sorts of very difficult questions. What's it feel like on this side, [target]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well first of all mika i'm so excited to be talking to you i confess i'm disappointed you're not here with me in person but hopefully one day and i yes i have to say i i think i still prefer being around you know behind the camera but it has been an extraordinary experience writing the book was incredible therapy and i have this you know extraordinarily privileged life and you know the moment my parents brought me into this world and"
+      },
+      {
+        "speaker": "[target]",
+        "text": "raising me in different worlds and just watching and listening to you and Joe and Jonathan, everyone talking about the election. I'm actually having a very surreal experience. I'm used to being in [location] with you on election day. And now I'm here and I'm privileged to be able to talk about my book and my life."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, the book has so many incredible stories of really your, I mean, you were catapulted from [government building] intern to working for the First Lady. I believe it was advancing her trip to [location] back in 1997 that really was the moment that kind of put you right in front of her. And you really describe an incredible career that, you know, crosses the world. We'll get to the fraught moments in it in just a moment. But I just would love for you to share a little bit about that rise to becoming the most important, to becoming [target]'s right arm. And some of the little lessons you learned along the way, the day you were carrying luggage all day long for like 12 hours straight, and it wasn't hers."
+      }
+    ],
+    "speakername": "Huma Abedin",
+    "ground_truth": "Well, I have to say, I remember like it was yesterday when I was a 21-year-old intern walking into the [government building] residence, that feeling, those goosebumps, walking on that red carpet. There's just something for somebody who was an American abroad most of her life and carried that sense of identity, being an American with tremendous pride. It was nothing less than awe-inspiring. And I was lucky to join an administration that I felt was more of a cause. I felt like I was doing important work every day. One of the first lessons I was taught by [target] and her team was fail to plan, plan to fail. And it was very much a sink or swim attitude there. They kind of threw you into these adventures. And certainly, yes, there was one day when I was following [target] around [location] and carrying this mystery hanging bag, having no idea what was in it. And it turns out to have been the president of the United States raincoat, which I had no idea why I was carrying, or another day when I didn't know that when the president traveled on Marine One, that there was more than one helicopter. And somehow I managed to have one of her hanging bags fall into the [location].",
+    "bio": "The speaker (born July 28, 1976) is an American political staffer who was vice chair of [target]'s 2016 campaign for President of the United States. Prior to that, the speaker was deputy chief of staff to [target], who was U.S. Secretary of State from 2009 to 2013. They were also the traveling chief of staff and former assistant for [target] during [target]'s campaign for the Democratic nomination in the 2008 presidential election. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "raising me in different worlds and just watching and listening to you and Joe and Jonathan, everyone talking about the election. I'm actually having a very surreal experience. I'm used to being in [location] with you on election day. And now I'm here and I'm privileged to be able to talk about my book and my life."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, the book has so many incredible stories of really your, I mean, you were catapulted from [government building] intern to working for the First Lady. I believe it was advancing her trip to [country] back in 1997 that really was the moment that kind of put you right in front of her. And you really describe an incredible career that, you know, crosses the world. We'll get to the fraught moments in it in just a moment. But I just would love for you to share a little bit about that rise to becoming the most important, to becoming [senior official]'s right arm. And some of the little lessons you learned along the way, the day you were carrying luggage all day long for like 12 hours straight, and it wasn't hers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I have to say, I remember like it was yesterday when I was a 21-year-old intern walking into the [government building] residence, that feeling, those goosebumps, walking on that red carpet. There's just something for somebody who was an American abroad most of her life and carried that sense of identity, being an American with tremendous pride. It was nothing less than awe-inspiring. And I was lucky to join an administration that I felt was more of a cause. I felt like I was doing important work every day. One of the first lessons I was taught by [senior official] and her team was fail to plan, plan to fail. And it was very much a sink or swim attitude there. They kind of threw you into these adventures. And certainly, yes, there was one day when I was following [senior official] around [country] and carrying this mystery hanging bag, having no idea what was in it. And it turns out to have been the president of the United States raincoat, which I had no idea why I was carrying, or another day when I didn't know that when the president traveled on [government aircraft], that there was more than one helicopter. And somehow I managed to have one of her hanging bags fall into the [body of water]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "can't ring"
+      }
+    ],
+    "speakername": "Huma Abedin",
+    "ground_truth": "and managed to retrieve it, so we had some tremendous adventures, and I'm thrilled to have joined this club called [organization] that I'm still privileged to be part of, and we have lots of great adventures.",
+    "bio": "The target (born July 28, 1976) is an American political staffer who was vice chair of a senior official's 2016 campaign for President of the United States. Prior to that, the target was deputy chief of staff to the same official, who was U.S. Secretary of State from 2009 to 2013. The target was also the traveling chief of staff and former assistant during the official's campaign for the Democratic nomination in the 2008 presidential election. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and managed to retrieve it, so we had some tremendous adventures, and I'm thrilled to have joined this organization that I'm still privileged to be part of, and we have lots of great adventures."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "When you look back on everything, there's so many great lessons, especially for young women or anybody who wants to enter public service. You were pulled away for a trip and you left a family wedding and this line here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "really resonated with me. You write 22 years old and already always in a hurry to get somewhere. I rarely stopped to think of what I was leaving behind. That resonated with me in a big way. What was it that you were touching on there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, Mika, you know, I start the early part of my book. I talk about my parents. They were both very important influences in my life, particularly my father, who died just before I moved to this country. And one of the things my father always said is a good life is a balanced life. But for me, I fell into this, you know, extraordinary experience. I fell in love with my job. And for most of my life, I didn't have balance. Work came first. And so I always tell my young colleagues, young women who come talk to me, young brown girls, Muslim girls who I think might relate to my story, that balance is important. And it took me a long time to find it. And that story I tell at that wedding 25 years ago at a family wedding, I chose to leave and go to work."
+      }
+    ],
+    "speakername": "Huma Abedin",
+    "ground_truth": "IT'S NOT JUST ABOUT THE FUTURE. IT'S ABOUT THE FUTURE. AND IT'S, BALANCE IS IMPORTANT. IT TOOK ME A LONG TIME TO FIGURE",
+    "bio": "Born July 28, 1976, is an American political staffer who was vice chair of a presidential campaign in 2016. Prior to that, [target] was deputy chief of staff to a senior government official who served as U.S. Secretary of State from 2009 to 2013. She was also the traveling chief of staff and former assistant during the 2008 presidential election campaign. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "really resonated with me. You write 22 years old and already always in a hurry to get somewhere. I rarely stopped to think of what I was leaving behind. That resonated with me in a big way. What was it that you were touching on there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, Mika, you know, I start the early part of my book. I talk about my parents. They were both very important influences in my life, particularly my father, who died just before I moved to the United States. And one of the things my father always said is a good life is a balanced life. But for me, I fell into this, you know, extraordinary experience. I fell in love with my job. And for most of my life, I didn't have balance. Work came first. And so I always tell my young colleagues, young women who come talk to me, young brown girls, Muslim girls who I think might relate to my story, that balance is important. And it took me a long time to find it. And that story I tell at that wedding 25 years ago at a family wedding, I chose to leave and go to work."
+      },
+      {
+        "speaker": "[target]",
+        "text": "IT'S NOT JUST ABOUT THE FUTURE. IT'S ABOUT THE FUTURE. AND IT'S, BALANCE IS IMPORTANT. IT TOOK ME A LONG TIME TO FIGURE"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's still an incredible journey. And in the book, you also talk about your marriage to Anthony Weiner and the sexting scandal, which seemed to drag on even when he ran for mayor. You're standing by him. You're dealing with the trauma in the moment. Your sort of explanation as to what was going through your head during the time, a lot of people questioning, judging, why is she still with him? And you're in shock. You're young. You've never been with anybody else. And you really lay it out very beautifully and painfully, if I may add, about all these experiences that add up to who is you. But one of the most compelling excerpts from your book is when the Comey letter reopening the email investigation breaks in the news. And it broke my heart to read. You write this. The instant she said, Anthony, my heart stopped. No, no, no. I had handled this. I had taken control of this. I had sent him away. This couldn't be happening now. But there was no time to linger on any of that, no matter how hard I tried, whether it was to help Anthony, to threaten him, to sympathize with him, to ignore him, to throw him out of my house. It was impossible to move on. This man was going to ruin me. And now he was going to jeopardize HRC's chances of winning the presidency, which would leave our country in the hands of society. You go on to write that you called him on the phone. Anthony, I said, if she loses this election, it will be because of you and me. That night, I wrote one line in my notebook. I do not know how I am going to survive this. Help me, God. You did say that writing this book, Huma, was therapy. But I'm wondering, that moment cuts so deep. How do you live with the trauma of that moment today? And what do you do to move forward?"
+      }
+    ],
+    "speakername": "Huma Abedin",
+    "ground_truth": "Well, I think that for me, it did take, I had to do the work. And in that moment, when I was writing those lines, and as I write in detail, I actually chose to go into a lot of detail about my marriage and my relationship, in part because I don't think I'm the only woman in America who's had to go through any kind of betrayal. I know I had to do it on the front page of the news, and there were consequences to that. And I carried a lot of guilt. It took a lot of work. I got to a very, very low place, I think, in 2016, as I write in the book. I just couldn't feel. It felt selfish to feel. And so I stopped feeling, and it was about the mission, and it was about her winning, which obviously did not happen. And then I actually, I sank lower, but I had my faith, I had my family, but I had to do the work, and I had to do it with him. You know, he is, people look at our relationship from a 2021 perspective, but back in the moment, we were just trying to get through the day, get through the moment. And we both had to do the work to get to this place. And I just, as I think a lot of people knew, I was carrying his child when this first broke. And no matter what, he will always be the father of my child. And so I did try to help him. And when my son grows up, Mika, I want to be able to...",
+    "bio": "Huma Mahmood Abedin (born July 28, 1976) is an American political staffer who was vice chair of Hillary Clinton's 2016 campaign for President of the United States. Prior to that, Abedin was deputy chief of staff to Clinton, who was U.S. Secretary of State from 2009 to 2013. She was also the traveling chief of staff and former assistant for Clinton during Clinton's campaign for the Democratic nomination in the 2008 presidential election. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "IT'S NOT JUST ABOUT THE FUTURE. IT'S ABOUT THE FUTURE. AND IT'S, BALANCE IS IMPORTANT. IT TOOK ME A LONG TIME TO FIGURE"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's still an incredible journey. And in the book, you also talk about your marriage to Anthony Weiner and the sexting scandal, which seemed to drag on even when he ran for mayor. You're standing by him. You're dealing with the trauma in the moment. Your sort of explanation as to what was going through your head during the time, a lot of people questioning, judging, why is she still with him? And you're in shock. You're young. You've never been with anybody else. And you really lay it out very beautifully and painfully, if I may add, about all these experiences that add up to who is you. But one of the most compelling excerpts from your book is when the Comey letter reopening the email investigation breaks in the news. And it broke my heart to read. You write this. The instant she said, Anthony, my heart stopped. No, no, no. I had handled this. I had taken control of this. I had sent him away. This couldn't be happening now. But there was no time to linger on any of that, no matter how hard I tried, whether it was to help Anthony, to threaten him, to sympathize with him, to ignore him, to throw him out of my house. It was impossible to move on. This man was going to ruin me. And now he was going to jeopardize HRC's chances of winning the presidency, which would leave our country in the hands of society. You go on to write that you called him on the phone. Anthony, I said, if she loses this election, it will be because of you and me. That night, I wrote one line in my notebook. I do not know how I am going to survive this. Help me, God. You did say that writing this book, Huma, was therapy. But I'm wondering, that moment cuts so deep. How do you live with the trauma of that moment today? And what do you do to move forward?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that for me, it did take, I had to do the work. And in that moment, when I was writing those lines, and as I write in detail, I actually chose to go into a lot of detail about my marriage and my relationship, in part because I don't think I'm the only woman in America who's had to go through any kind of betrayal. I know I had to do it on the front page of the news, and there were consequences to that. And I carried a lot of guilt. It took a lot of work. I got to a very, very low place, I think, in 2016, as I write in the book. I just couldn't feel. It felt selfish to feel. And so I stopped feeling, and it was about the mission, and it was about her winning, which obviously did not happen. And then I actually, I sank lower, but I had my faith, I had my family, but I had to do the work, and I had to do it with him. You know, he is, people look at our relationship from a 2021 perspective, but back in the moment, we were just trying to get through the day, get through the moment. And we both had to do the work to get to this place. And I just, as I think a lot of people knew, I was carrying his child when this first broke. And no matter what, he will always be the father of my child. And so I did try to help him. And when my son grows up, Mika, I want to be able to..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Huma Abedin",
+    "ground_truth": "Tell my son that I tried to help his dad. The consequences of the election, I will carry with me for the rest of my life.",
+    "bio": "Huma Mahmood Abedin (born July 28, 1976) is an American political staffer who was vice chair of Hillary Clinton's 2016 campaign for President of the United States. Prior to that, Abedin was deputy chief of staff to Clinton, who was U.S. Secretary of State from 2009 to 2013. She was also the traveling chief of staff and former assistant for Clinton during Clinton's campaign for the Democratic nomination in the 2008 presidential election. The speaker's MBTI type is ISFJ"
+  }
+]

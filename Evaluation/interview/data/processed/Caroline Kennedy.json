@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Amazing."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And I guess it's raining outside."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This place here, this is really great."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It is. There's the sorting chairs at the end. It's great to have you in [location]. Great to have an opportunity to have a conversation about the art of diplomacy. And I know there are going to be lots of questions out there in the audience, but let's start for a few minutes just to talk a little bit about your time in [country] and what it meant to be an ambassador. And let me start with a question I could ask myself, but I'm going to ask you, which is, as a political ambassador, somebody who was appointed by the president but not part of the diplomatic service, never served in that sort of capacity, going to a country which is probably one of the, if not the most important, bilateral relationship we have, [country], how did you prepare for that job? How did you prepare, not just in your lifetime, but once you knew this was happening, what did you do to get ready to take on this huge and humongous challenge of representing the United States in [country]?"
+      }
+    ],
+    "speakername": "Caroline Kennedy",
+    "ground_truth": "Well, first of all, thank you all for coming. And it's great to be here. I work closely with the Institute of Politics at [university]. And I really admire the Institute of Politics here. And you're making us better at what we do. And you're so lucky to have the talent that you have here. But in answer to the question, I would say that, especially for political appointees, the [government department] is very, very patient with us. And they take it very seriously to prepare us as well as they possibly can. So I had a great deal of support from the [government department] in terms of briefings. One of the things that really interested me, actually, though, was that once you're nominated, you're not allowed to meet publicly or really technically meet at all with anyone who knows anything about your country that you're going to. So. It kind of makes no sense, but somehow the system manages to work pretty well. And the idea behind that is that you are not supposed to look like you are assuming that you're going to be confirmed, because that might infringe upon the prerogative of the Senate. But nevertheless, in-house, there's a tremendous amount of knowledge, skill, and resources within the [government department]. And everybody is extremely generous with their expertise.",
+    "bio": "The target is an American author, lawyer, and diplomat who served as the United States Ambassador to [country] from 2013 to 2017. They are the only surviving member of their prominent political family. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, thank you all for coming. And it's great to be here. I work closely with the Institute of Politics at [University]. And I really admire the Institute of Politics here. And you're making us better at what we do. And you're so lucky to have the talent that you have here. But in answer to the question, I would say that, especially for political appointees, the State Department is very, very patient with us. And they take it very seriously to prepare us as well as they possibly can. So I had a great deal of support from the State Department in terms of briefings. One of the things that really interested me, actually, though, was that once you're nominated, you're not allowed to meet publicly or really technically meet at all with anyone who knows anything about your country that you're going to. So. It kind of makes no sense, but somehow the system manages to work pretty well. And the idea behind that is that you are not supposed to look like you are assuming that you're going to be confirmed, because that might infringe upon the prerogative of the Senate. But nevertheless, in-house, there's a tremendous amount of knowledge, skill, and resources within the State Department. And everybody is extremely generous with their expertise."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So before you went out there, did you have a clear sense of what the key priorities were that you were going to take in your three to four years you were going to spend? Or were you going to listen and learn? Was it all up to me?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, well..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And how did you set those priorities?"
+      }
+    ],
+    "speakername": "Caroline Kennedy",
+    "ground_truth": "Well, I think that people asked that question at the beginning, and I really felt like, well, hopefully somebody else has set the priorities before I show up. But nevertheless, I think that as an ambassador, you do have a lot of freedom, and a great deal of trust and responsibility is placed on you to not only to initiate things, but also to report back on the priorities that you've been given, and how they're working, and whether they need to be adjusted, because you're really the person on the ground in the host country. But I think in my case, President [Name] had put a great deal of emphasis on the rebalance to Asia. It's really where our future is going to be determined. And Yeah. [Country] is our closest ally in the region, and so it is, and was, and has been for many years, as you said, or as [Name] used to say, there is no more important bilateral relationship. You can't say it's the most important. And so I think that I was certainly aware of that every day. But I think that I didn't realize until I got there, but I think choosing me had a great deal of resonance in [Country]. In a way, that allowed us to further our priorities, both being the first child of a Pacific War veteran, and the 70th anniversary of the end of the war happened when I was in [Country], and culminated with President [Name]'s visit to [City], and Prime Minister [Name]'s visit to [Location], both of which were the first by a sitting leader from our respective countries. And also, I think that the women's equality, advancement, empowerment was a priority for President [Name], and it was increasingly a priority for Prime Minister [Name], even though we were starting from somewhat different places. So being the first woman also, I think, showed the US commitment to [Country] women, as well as the full range of our other ongoing issues that we deal with, economic, security. People to people, sort of full array of diplomacy.",
+    "bio": "The target is an author, lawyer, and diplomat who served as the United States Ambassador to [Country] from 2013 to 2017. They are the only surviving member of their prominent political family. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, well..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And how did you set those priorities?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that people asked that question at the beginning, and I really felt like, well, hopefully somebody else has set the priorities before I show up. But nevertheless, I think that as an ambassador, you do have a lot of freedom, and a great deal of trust and responsibility is placed on you to not only to initiate things, but also to report back on the priorities that you've been given, and how they're working, and whether they need to be adjusted, because you're really the person on the ground in the host country. But I think in my case, the president had put a great deal of emphasis on the rebalance to Asia. It's really where our future is going to be determined. And Yeah. [Country] is our closest ally in the region, and so it is, and was, and has been for many years, as you said, or as the former ambassador used to say, there is no more important bilateral relationship. You can't say it's the most important. And so I think that I was certainly aware of that every day. But I think that I didn't realize until I got there, but I think choosing me had a great deal of resonance in [Country]. In a way, that allowed us to further our priorities, both being the first child of a Pacific War veteran, and the 70th anniversary of the end of the war happened when I was in [Country], and culminated with the president's visit to [City A], and the prime minister's visit to [City B], both of which were the first by a sitting leader from our respective countries. And also, I think that the women's equality, advancement, empowerment was a priority for the president, and it was increasingly a priority for the prime minister, even though we were starting from somewhat different places. So being the first woman also, I think, showed the US commitment to [Country] women, as well as the full range of our other ongoing issues that we deal with, economic, security. People to people, sort of full array of diplomacy."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So I want to come back to some of those specific issues, including this really historic visit that the president made to [City A], and you'd been there before, only I think as the second US ambassador to visit [City A]. But before we get to some of those specifics, which I think are important, including the trade and the security relationship, you walked into the embassy, you got off the airplane, you walk into the embassy, you now are in charge of 1,000, 2,000 people. It's a big mission. You are the senior most important US person in the country. Everybody will look at you as the direct representative, not only of the United States, but of the president in particular. What was the biggest challenge you faced starting off in that moment? Did you have a big challenge? Did you see something that you had to overcome, and how did you overcome it?"
+      }
+    ],
+    "speakername": "Caroline Kennedy",
+    "ground_truth": "Well, I think that there was a lot of people would phrase it. When I sat down with the press, it was [Former Ambassador A], [Former Ambassador B], [Former Ambassador C], [Former Ambassador D], [Former Ambassador E]. How does that make you feel? So I said, like a woman?",
+    "bio": "The target is an author, lawyer, and diplomat who served as the United States Ambassador to a major Asian nation from 2013 to 2017. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that people asked that question at the beginning, and I really felt like, well, hopefully somebody else has set the priorities before I show up. But nevertheless, I think that as an ambassador, you do have a lot of freedom, and a great deal of trust and responsibility is placed on you to not only to initiate things, but also to report back on the priorities that you've been given, and how they're working, and whether they need to be adjusted, because you're really the person on the ground in the host country. But I think in my case, President Obama had put a great deal of emphasis on the rebalance to Asia. It's really where our future is going to be determined. And Yeah. Japan is our closest ally in the region, and so it is, and was, and has been for many years, as you said, or as Mike Mansfield used to say, there is no more important bilateral relationship. You can't say it's the most important. And so I think that I was certainly aware of that every day. But I think that I didn't realize until I got there, but I think choosing me had a great deal of resonance in Japan. In a way, that allowed us to further our priorities, both being the first child of a Pacific War veteran, and the 70th anniversary of the end of the war happened when I was in Japan, and culminated with President Obama's visit to Hiroshima, and Prime Minister Abe's visit to Pearl Harbor, both of which were the first by a sitting leader from our respective countries. And also, I think that the women's equality, advancement, empowerment was a priority for President Obama, and it was increasingly a priority for Prime Minister Abe, even though we were starting from somewhat different places. So being the first woman also, I think, showed the US commitment to Japanese women, as well as the full range of our other ongoing issues that we deal with, economic, security. People to people, sort of full array of diplomacy."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So I want to come back to some of those specific issues, including this really historic visit that the president made to Hiroshima, and you'd been there before, only I think as the second US ambassador to visit Hiroshima. But before we get to some of those specifics, which I think are important, including the trade and the security relationship, you walked into the embassy, you got off the airplane, you walk into the embassy, you now are in charge of 1,000, 2,000 people. It's a big mission. You are the senior most important US person in the country. Everybody will look at you as the direct representative, not only of the United States, but of President Obama in particular. What was the biggest challenge you faced starting off in that moment? Did you have a big challenge? Did you see something that you had to overcome, and how did you overcome it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that there was a lot of people would phrase it. When I sat down with the press, it was Mike Mansfield, Walter Mondale, Howard Baker, Ed Roeshour, Tom Foley. How does that make you feel? So I said, like a woman?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Caroline Kennedy",
+    "ground_truth": "So I think there was some skepticism about my appointment and my lack of experience. But I think that I really felt that representing my family legacy, President Kennedy's values, kind of all my life, in a sense, as well as working closely with President Obama on his campaigns, had prepared me much better than people realized for this particular job. And President Kennedy's memory in Japan, the depth of affection and admiration for him was something that I hadn't really been as aware of. I sort of would have expected it in Germany or France. But I think that Japan really came of age in the early 60s and reentered the world stage, in a sense. They recovered from the war. And he was the first president that they really responded to. And so I think that there was a tremendous, I had just an amazing opportunity to connect with people in a way that, in a very formal society, a very reserved diplomatic setting, I think people don't usually have. And I felt that I wanted to help everyone in the embassy do their job. That was really what I saw as my job. But I also felt that I had really unique personal opportunity to connect with the broader public. And it was Ambassador Nick Burns who had really encouraged me to really take that on as my responsibility in a way that other ambassadors, maybe, who weren't as well known or as easy to connect to, wouldn't really have the ability to do that right from the start. Thank you.",
+    "bio": "[target] is an American author, lawyer, and diplomat who served as the United States Ambassador to Japan from 2013 to 2017. She is the only surviving member of the Kennedy family. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that there was a lot of people would phrase it. When I sat down with the press, it was Mike Mansfield, Walter Mondale, Howard Baker, Ed Roeshour, Tom Foley. How does that make you feel? So I said, like a woman?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I think there was some skepticism about my appointment and my lack of experience. But I think that I really felt that representing my family legacy, President Kennedy's values, kind of all my life, in a sense, as well as working closely with President Obama on his campaigns, had prepared me much better than people realized for this particular job. And President Kennedy's memory in Japan, the depth of affection and admiration for him was something that I hadn't really been as aware of. I sort of would have expected it in Germany or France. But I think that Japan really came of age in the early 60s and reentered the world stage, in a sense. They recovered from the war. And he was the first president that they really responded to. And so I think that there was a tremendous, I had just an amazing opportunity to connect with people in a way that, in a very formal society, a very reserved diplomatic setting, I think people don't usually have. And I felt that I wanted to help everyone in the embassy do their job. That was really what I saw as my job. But I also felt that I had really unique personal opportunity to connect with the broader public. And it was Ambassador Nick Burns who had really encouraged me to really take that on as my responsibility in a way that other ambassadors, maybe, who weren't as well known or as easy to connect to, wouldn't really have the ability to do that right from the start. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So you talked about the formality of Japanese society, and there's the informality of our society. How did you break through? I mean, you did some pretty interesting ways of being a little different than some of those ambassadors you mentioned. You jogged under the cherry blossoms and other ways in order to connect with people on a more direct basis and sell the United States and what it is in a more people to people, society to society, while still, of course, doing the formal policy ways. What were the best ways in which you were able to get into the society, to meet with people, to connect with people, to make the connection between the folks in the United States and in Japan? How do you make that work? Because it's an essential part of being an ambassador."
+      }
+    ],
+    "speakername": "Caroline Kennedy",
+    "ground_truth": "of being an ambassador. Well, it's just I was just so fascinated by everything about Japan. And there were things that I had worked on here, whether it was education or the books I had done on poetry, that I felt were natural openings for me. I mean, Japan has, obviously, thousands of years of poetic tradition. And it was something that I wanted to learn about. It's hard when you don't speak the language. But they have contests. They have, obviously, haiku and all kinds of things. So I really made an effort to sort of follow down avenues that were of personal interest to me, because I think people can tell when you're personally interested in something. I didn't get as many golf invitations as my predecessors. I didn't get as many all-night drinking invitations as my predecessors. But I made up for it with haiku and bike rides and things like that. So. So I felt like it was OK to take a break from golf and drinking for the US for a while. But the Red Sox won the World Series right when I got there, right before I got there. And they had two Japanese players. So I think that there are just so many, many ways. And one of the things that struck me, and I hope if there are students here, you will consider a career in the Foreign Service or certainly explore some sort of international work, because. I think it really teaches you so much about the United States when you're abroad and also how deep these relationships are that are people to people and how important that is. So I tried to really work on that, because there are sort of generations had worked on it before. And certainly having the war anniversary was another way of doing that, because so much of our shared history and so many of the relationships that were formed. Yeah. Began in that post-war period. And families, children, grandchildren have grown up with that bilateral relationship in a way that I didn't see as often when I was here. But certainly you see it every day there.",
+    "bio": "[target] is an American author, lawyer, and diplomat who served as the United States Ambassador to Japan from 2013 to 2017. She is the only surviving member of the Kennedy family. The speaker's MBTI type is INFJ"
+  }
+]

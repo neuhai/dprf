@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You believe that American car companies can compete effectively with car companies around the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "If they get their armor on, health care costs and pensions. They can't compete if it's still an albatross of $1,300. One competitor's $200 for health care per car. Another major manufacturer is $1,500. Right. If you don't get that down, you can't tell the customer, I've got to pay for the legacy costs of retirees, and it's going to cost you an extra $1,300 to buy my car. You can't do that over time. So that's got to be corrected somehow. And how would you correct that? Collaboration of government. Government has to bail them out? And the unions have got to come to their senses. We can't build cars at $60 an hour. We just can't do it. So what do you say to the unions? You've got to make what compromise? Yeah, in September they come up with a big contract. They've got to make some concessions. They have to. Concessions on what?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What concessions would you ask them to make? Costs."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What would you ask them that was part of the contract they had with the audio company that they now must forego?"
+      }
+    ],
+    "speakername": "Lee Iacocca",
+    "ground_truth": "that their union member will have to pay more of the cost, whether it's deductibles, whatever it is. He's got to share more in the cost of health care. The union lobbied hard, and we gave them. We never took a strike. It was too expensive. So we knuckled under, and we did that to ourselves. That's got to be corrected. It can't be done overnight, but it's got to be corrected.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think the survival of the auto industry would be at stake. I really do. Is [company]..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "which is"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "now the world's largest automobile company."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, they went by [company] for a while, and they may stay there for a while. What is it they have done right beyond health care as a company? They came to the [country], put a lot of money here, have no unions, by the way. Their cost base is different."
+      }
+    ],
+    "speakername": "Lee Iacocca",
+    "ground_truth": "Right. So that's one thing, big thing. Yeah, definitely. But they designed cars that people wanted to buy.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "now the world's largest automobile company."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, they went by a major competitor for a while, and they may stay there for a while. What is it they have done right beyond health care as a company? They came to the country, put a lot of money here, have no unions, by the way. Their cost base is different."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right. So that's one thing, big thing. Yeah, definitely. But they designed cars that people wanted to buy."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, yes, they did. But so did the other big three. They did do a great thing. They bet the farm, really, on these hybrids. They built about, not too many, a quarter million of them so far. But they have the reputation that they are good engineers and they build good cars. You can't take that away from them."
+      }
+    ],
+    "speakername": "Lee Iacocca",
+    "ground_truth": "Suppose a major auto company had understood the appeal of hybrids and fuel-efficient cars, would it be a much more vital company today?",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, yes, they did. But so did the other major manufacturers. They did do a great thing. They bet the farm, really, on these hybrids. They built about, not too many, a quarter million of them so far. But they have the reputation that they are good engineers and they build good cars. You can't take that away from them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Suppose the company had understood the appeal of hybrids and fuel-efficient cars, would it be a much more vital company today?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Probably. At the company, I did work on hybrids 25 years ago. And it was not cost efficient. Right, too complex and too costly. And gas was too cheap. And gas was a buck, you know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now we're hovering at $4, you know, other regions are used to $4 gas, $5, $6 gas, but we're not."
+      }
+    ],
+    "speakername": "Lee Iacocca",
+    "ground_truth": "I happened to be in a major industrial city last week, and you were quoted all over the place, and you were on the front page of a paper in terms of quotes from you.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I happened to be in [city1], I mean, in [city2] last week, and you were quoted all over the place, and you were on the front page of a paper in terms of quotes from you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I was plugging my book. I tried to duck them, but I couldn't duck them all."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you actually said that you wish you'd had the money to buy [company]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Goodbye."
+      }
+    ],
+    "speakername": "Lee Iacocca",
+    "ground_truth": "It's a good buy. Yeah, because they're willing to give up so much they did to get rid of it. But [company] is a good automobile company or not.",
+    "bio": " The speaker's MBTI type is ENTP"
+  }
+]

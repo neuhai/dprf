@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Have a nice day."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it well you have a lot of work to do I do I do but I've been looking forward to this"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "OK, well, for people that don't know, what is the job of the secretary of housing and urban development?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Primarily our mission is to make sure that people, especially underserved communities, get decent housing. It's just really that simple."
+      }
+    ],
+    "speakername": "Marcia Fudge",
+    "ground_truth": "In addition to which, we are the voice of cities across the nation because we are the people who provide block grant dollars, home dollars, all of the things that help them create an environment in which people can live safely in their own community. So in a nutshell, that's really pretty much it.",
+    "bio": "[target] (born October 29, 1952) is an American attorney and politician serving as the 18th United States Secretary of Housing and Urban Development since 2021. A member of the Democratic Party, they served as the U.S. representative for [state region] congressional district from 2008 to 2021. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "See ya."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, so he created the Opportunity Zones."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "While he was there, what do you think about that? Because I've heard conflicting accounts of whether or not that's beneficial for..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it has a potential to be beneficial. I don't think that it was probably used to its best and highest use. And so as a consequence, people who were the big developers and the people who had the big money got all the money."
+      }
+    ],
+    "speakername": "Marcia Fudge",
+    "ground_truth": "As opposed to making sure that it did what it was intended to do, which was to make sure that people had an opportunity to create jobs and to do development in their communities and not just have people come in with the biggest dollars.",
+    "bio": "An American attorney and politician serving as a senior government official since 2021. A member of the Democratic Party, they served as the representative for a congressional district from 2008 to 2021. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's people who could afford to invest. You sound like Representative C."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's what Representative C felt, too."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You said it in a way that you just said it nicer than what I said."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yep, same thing. Absolutely."
+      }
+    ],
+    "speakername": "Marcia Fudge",
+    "ground_truth": "right. We did not benefit from the opportunity zones in a way that we should have. Very few people did.",
+    "bio": "[target] (born October 29, 1952) is an American attorney and politician serving as the Secretary of a federal housing department since 2021. A member of a major political party, they served as the representative for a congressional district from 2008 to 2021. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's what Mr. [Name] felt, too."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You said it in a way that you just said it nicer than what I said."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yep, same thing. Absolutely."
+      },
+      {
+        "speaker": "[target]",
+        "text": "right. We did not benefit from the opportunity zones in a way that we should have. Very few people did."
+      }
+    ],
+    "speakername": "Marcia Fudge",
+    "ground_truth": "They didn't create a lot of jobs, and we didn't get the resources that we should have. So how do you fix it moving forward, or do you abandon it? Oh, I don't think so. I think that we do the assessment that we are now doing to determine how we can make it better. I think that once you have something like that that has the potential to really help our people, then you don't just throw it out. And that's not the first.",
+    "bio": "The subject (born October 29, 1952) is an American attorney and politician serving as the 18th United States Secretary of [Department] since 2021. A member of the Democratic Party, they served as the U.S. representative for [State]'s 11th congressional district from 2008 to 2021. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Ms. [target], I just need you to put the mic a little closer."
+      },
+      {
+        "speaker": "[target]",
+        "text": "At the time, we made sure that..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "people in our communities receive those resources."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Hm?"
+      }
+    ],
+    "speakername": "Marcia Fudge",
+    "ground_truth": "You will find minority businesses today that will say to you that they became millionaires because of empowerment zones. We've not created any minority millionaires from the federal government in a very long time.",
+    "bio": "[target] (born October 29, 1952) is an American attorney and politician serving as the 18th Cabinet Secretary since 2021. A member of the Democratic Party, they served as the representative for a midwestern congressional district from 2008 to 2021. The speaker's MBTI type is ESFJ"
+  }
+]

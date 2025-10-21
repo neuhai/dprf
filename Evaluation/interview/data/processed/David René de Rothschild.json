@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Adventure Ecology is really a network using adventure as a catalyst to educate people about fragile ecosystems around the world. Its primary goal is to take out of sight, out of mind environments and communicate the issues that are surrounding them in regards to climate change and global warming."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], on your trip to the Northern region, what was the most visible evidence that you saw of global warming in the region? Water."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and lots of it. It should have been a frozen ocean and we were on you know every almost every single day wasn't a day that went past where we were seeing vast amounts of open water where we should have been seeing frozen ice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In terms of the immediate impact both on the environment and on people, what would you say is the biggest issue that we're facing?"
+      }
+    ],
+    "speakername": "David René de Rothschild",
+    "ground_truth": "I think, as you mentioned, we're going to face rising sea levels, which will impact on the low-lying regions around the world, like South Asian coastal region, even vast areas of coastal regions, southeastern coastal state.",
+    "bio": "This is [target]. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], on your trip to the [location], what was the most visible evidence that you saw of global warming in the region? Water."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and lots of it. It should have been a frozen ocean and we were on you know every almost every single day wasn't a day that went past where we were seeing vast amounts of open water where we should have been seeing frozen ice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In terms of the immediate impact both on the environment and on people, what would you say is the biggest issue that we're facing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think, as you mentioned, we're going to face rising sea levels, which will impact on the low-lying regions around the world, like [location], even vast areas of [location], [location]."
+      }
+    ],
+    "speakername": "David René de Rothschild",
+    "ground_truth": "low-lying places in [location] got vast areas of permafrost which trapped in the permafrost are billions of tons of methane and co2 and as they start them out that's also they'll be releasing the atmosphere causing this process this increased process of warming so it's quite a scary thought",
+    "bio": "This is [target]. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In terms of the immediate impact both on the environment and on people, what would you say is the biggest issue that we're facing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think, as you mentioned, we're going to face rising sea levels, which will impact on the low-lying regions around the world, like [region], even vast areas of [country], [state]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "low-lying places in [country] got vast areas of permafrost which trapped in the permafrost are billions of tons of methane and co2 and as they start them out that's also they'll be releasing the atmosphere causing this process this increased process of warming so it's quite a scary thought"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So looking across the globe, what is it that's having the biggest impact on the destruction of the ice caps?"
+      }
+    ],
+    "speakername": "David René de Rothschild",
+    "ground_truth": "Sadly it's you and me, humans, everyday activities that we take, our voracious appetites for greenhouse emitting gases and services and products, flying, driving, all those things that we do on a daily basis have an impact.",
+    "bio": "This is [target]. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "low-lying places in northern Europe got vast areas of permafrost which trapped in the permafrost are billions of tons of methane and co2 and as they start them out that's also they'll be releasing the atmosphere causing this process this increased process of warming so it's quite a scary thought"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So looking across the globe, what is it that's having the biggest impact on the destruction of the ice caps?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sadly it's you and me, humans, everyday activities that we take, our voracious appetites for greenhouse emitting gases and services and products, flying, driving, all those things that we do on a daily basis have an impact."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So if you were to give people out there watching this interview a tip about the things they could do on a daily basis to make a change, what would that be?"
+      }
+    ],
+    "speakername": "David René de Rothschild",
+    "ground_truth": "Turn the tap off and you're brushing your teeth. You know, the simple things, you know, the everyday actions that we can take, refuse a plastic bag, walk to work, you know, change a light bulb in your house, tone your heating down. You know, last year, you know, just if companies had turned down their thermostat by one degree, they could have saved themselves a billion pounds. You know, it really is common sense. And it's just understanding that we don't have infinite resources that we thought we may have had and we have to look after what we've got.",
+    "bio": "This is [target]. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sadly it's you and me, humans, everyday activities that we take, our voracious appetites for greenhouse emitting gases and services and products, flying, driving, all those things that we do on a daily basis have an impact."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So if you were to give people out there watching this interview a tip about the things they could do on a daily basis to make a change, what would that be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Turn the tap off and you're brushing your teeth. You know, the simple things, you know, the everyday actions that we can take, refuse a plastic bag, walk to work, you know, change a light bulb in your house, tone your heating down. You know, last year, you know, just if companies had turned down their thermostat by one degree, they could have saved themselves a billion pounds. You know, it really is common sense. And it's just understanding that we don't have infinite resources that we thought we may have had and we have to look after what we've got."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How do we make this issue a mass consumer issue? How do we take it out of the chattering classes and make everyone aware of it, get tabloid newspapers to write about this on a daily basis?"
+      }
+    ],
+    "speakername": "David René de Rothschild",
+    "ground_truth": "I think we just need to make the issues less layered, more simple, and relatable, you know. I mean, the abstractness of climate change, of the planet's warming, what does that mean to me? You know, I mean, I can't have an impact, I can't even tidy up my bedroom, so how can I tidy up the world? You know, let's bring it back a level and say, you know, these are the implications, this is how simple actions can have a positive impact.",
+    "bio": "This is [target]. The speaker's MBTI type is ISTJ"
+  }
+]

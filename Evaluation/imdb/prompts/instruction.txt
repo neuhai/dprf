@@ -1,0 +1,21 @@
+You are a person with following persona:
+
+{persona}
+
+You are writing a comprehensive film review to be posted on an online movie review platform. Your task is to generate a full-length review that this persona would write after watching the film described below. Instead of simply summarizing or offering a few opinions, you should articulate all the key observations, analyses, and personal reflections the persona would include in a substantive, well-rounded review.
+
+{content}
+
+Your response should:
+
+Closely follow and embody the persona described above
+Present a thorough and nuanced critical assessment of the film from the persona's viewpoint
+Include concrete examples or scenes from the film that support the review’s points
+Employ a writing style and tone that matches the persona’s background, taste, and expertise
+Address multiple aspects of the film, such as narrative, direction, acting, cinematography, sound, themes, and emotional impact
+Anticipate and engage with potential differing opinions or common counterpoints if relevant
+Maintain consistency with the persona’s typical reviewing habits, genre preferences, or known biases
+Provide both overall evaluation and detailed breakdowns, resulting in a coherent and insightful review
+Remember to fully embody the persona described above—use their language choices, analytical approach, aesthetic values, and personal perspective throughout your review.
+
+In response to the film described above, generate a comprehensive review that expresses the persona’s honest, thorough, and distinctive evaluation. Your review should offer an engaging, thoughtful critique that will inform and interest other viewers.

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, folks, back here in studio, very excited to be joined by Senator [target]. How are you doing, Senator?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm doing good. It's first of the year. We made it through Christmas, made it through the New Year's. I kind of tweaked my knee. Oh."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Going down, of course, it's always the last run of the day. And when you're skiing with your son, who's a former racer, and we'd say just one more run on style hung was not a good idea. So I ended up going down in the toboggan. But I'm walking. Yeah, yeah, yeah. I'm doing okay."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Was this reported or?"
+      }
+    ],
+    "speakername": "Lisa Murkowski",
+    "ground_truth": "Well, it depends who you report it to. I reported it to my favorite orthopedic doc, and he checked me out.",
+    "bio": "The subject (born May 22, 1957) is an American politician serving as the senior United States Senator from a northern state, having held that seat since 2002. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Going down, of course, it's always the last run of the day. And when you're skiing with your son, who's a former racer, and we'd say just one more run on style hung was not a good idea. So I ended up going down in the toboggan. But I'm walking. Yeah, yeah, yeah. I'm doing okay."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Was this reported or?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it depends who you report it to. I reported it to my favorite orthopedic doc, and he checked me out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But it wasn't in the media. I've never, I didn't hear it. No."
+      }
+    ],
+    "speakername": "Lisa Murkowski",
+    "ground_truth": "Oh, I'm not going to tell you that because I don't want people telling me I shouldn't be going up and skiing.",
+    "bio": "The target (born May 22, 1957) is an American politician serving as the senior United States Senator from a northern state, having held that seat since 2002. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, this was just right after Christmas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wow, well, you're doing okay?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know what what doesn't kill you makes you stronger I'm just"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I skied a lot growing up. I haven't gone as much lately, but, you know, I've had that last run where you do one more and it's inevitable where something happens."
+      }
+    ],
+    "speakername": "Lisa Murkowski",
+    "ground_truth": "And it was such a great [ski resort] day. I started off snowshoeing and then cross-country, and then I got to go downhill, and then I had to stop.",
+    "bio": "The speaker (born May 22, 1957) is an American politician serving as the senior United States Senator from [state], having held that seat since 2002. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And it was such a great [ski resort] day. I started off snowshoeing and then cross-country, and then I got to go downhill, and then I had to stop."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So are you on a ski break or what's the..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "gonna take a couple weeks off just let it just let it get better"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When do you, so you're in [city] now we're in the studio. What are you, by the way, you're the second."
+      }
+    ],
+    "speakername": "Lisa Murkowski",
+    "ground_truth": "super great look. I am so impressed. This is like really uptown or downtown. I'm never quite sure what the distinction is between uptown and downtown, but it's first class. Let's just say that.",
+    "bio": "The target (born May 22, 1957) is an American politician serving as the senior United States Senator from [state], having held that seat since 2002. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, this was not just kind of spontaneous combustion down at the public area where the event was taking place. This was, look at what we are now learning about what was put in place. And that's why, that's why I supported an actual commission to be stood up. Because we need to understand what not only happened on that day, but what happened before that date, what led up to that, what took place. Because what we cannot have is a repeat of what we saw on that day."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So a prominent politician was on the Daily podcast recently, and they talked about they couldn't get the full congressional commission. So the legislative body did one, and then they were going to have it, you know, even with representation. But then a few of the party members, I guess they didn't want because maybe they were."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think they were afraid of repercussion."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So then they, now it's this committee with mostly one party. And is the concern going to be, well, now it's more partisan, more politics, and nobody's going to really."
+      }
+    ],
+    "speakername": "Lisa Murkowski",
+    "ground_truth": "it almost defeats the purpose of the investigation because you have those who said, we don't want to have a commission because there are committees that can do this, there are others that can do this, so this is just duplicative. We don't need it, we don't need it. Well, you didn't go ahead with an independent commission like we did after the national tragedy. You went ahead with what they could do, which is unfortunately a primarily partisan effort. So when that report comes out, and as we're seeing it unfold, you're seeing the criticism from one side saying, oh, well, it's just a partisan witch hunt.",
+    "bio": "The target (born May 22, 1957) is an American politician serving as a senior United States Senator from a northern state, having held that seat since 2002. The speaker's MBTI type is ISFJ"
+  }
+]

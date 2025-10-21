@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was penniless at the age of 29, so I was poor for a long, long time, almost half my life. But, you know, as I've gone around the country doing public speaking and sitting in my office and getting some emails, a lot of people start asking me about money and financial things. And so I've started to realise that people don't even think about it properly. You know, and they should really sit down, say, once a month with a partner, go through the books, look at the bank statements. It's amazing how many people don't check the bank statements. And, you know, this idea came to me about just over a year ago when I checked. And I don't always check them either. I check my credit card statement. And I found out that a club I was a member of, a grocery club, had taken some money out of my account. And I checked back, and they'd been doing it for over a year, and I hadn't noticed. If I hadn't noticed then, it would never have stopped. They gave me the money back, but it could easily happen to anyone."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Last night I was sat at home reading your book ahead of the interview today and a buddy of mine came round and I said to him, you know, you were at that gym six months ago. Are you still at the gym? Yeah, yeah. I forgot to cancel it. I said, well, how much are you paying? He said Â£42 a month. I said, you can afford to waste Â£42 a month and then you have the cheek to say you can't afford to come out for dinner. It's funny how people put things aside that actually could change their lives."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, you definitely should not be going out for dinner. You should be joining the gym and paying a photo of Â£2 a month. Well, it's not expensive. And actually, the industry is 1% up on last year in new membership sales. And, you know, most people who tell you they've been a member of a health club for six months and haven't gone, forgotten to cancel it, are actually not telling you the truth. The statistics show that. About 92% of my members use the club once a week at least."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're a businessman that's made your money out of getting people into gyms, but it is kind of annoying because you have to turn up."
+      }
+    ],
+    "speakername": "Duncan Bannatyne",
+    "ground_truth": "Health Club members are using the clubs more than what they ever did because they don't have to pay any extra. And if they cancel dinner once a month...",
+    "bio": "The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're a businessman that's made your money out of getting people into gyms, but it is kind of annoying because you have to turn up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Health Club members are using the clubs more than what they ever did because they don't have to pay any extra. And if they cancel dinner once a month..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That covers it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to the fees. I didn't intend on talking about this and we just got on it by accident but are you worried that people won't have the money in this economy to go to the gym because it is a few dinners on the table isn't it a month?"
+      }
+    ],
+    "speakername": "Duncan Bannatyne",
+    "ground_truth": "No, because, you know, we're actually 3% of them turned over from last year and new memberships are up 1% and everybody in the industry is saying the same thing.",
+    "bio": "The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That covers it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to the fees. I didn't intend on talking about this and we just got on it by accident but are you worried that people won't have the money in this economy to go to the gym because it is a few dinners on the table isn't it a month?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, because, you know, we're actually 3% of them turned over from last year and new memberships are up 1% and everybody in the industry is saying the same thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "All right. Moving on back to you and your childhood, I was reading about your family and where you came from, humble beginnings, and then just a few shrewd decisions. And it seems to me people like yourself are very canny. You make certain decisions. I'm sure you've made mistakes as well. But isn't it seeing an opportunity when it's presented to you?"
+      }
+    ],
+    "speakername": "Duncan Bannatyne",
+    "ground_truth": "Yes, but everybody sees those opportunities more than once in their life. I did, and I've turned them down before, and I've taken the opportunity to go into business and build up a great business. And anyone can do it, and everyone will have the opportunity. So why not take the opportunity and go out and do it?",
+    "bio": "The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, because, you know, we're actually 3% of them turned over from last year and new memberships are up 1% and everybody in the industry is saying the same thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "All right. Moving on back to you and your childhood, I was reading about your family and where you came from, humble beginnings, and then just a few shrewd decisions. And it seems to me people like yourself are very canny. You make certain decisions. I'm sure you've made mistakes as well. But isn't it seeing an opportunity when it's presented to you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, but everybody sees those opportunities more than once in their life. I did, and I've turned them down before, and I've taken the opportunity to go into business and build up a great business. And anyone can do it, and everyone will have the opportunity. So why not take the opportunity and go out and do it?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now, what I was reading about you was your first venture, which was an ice cream van, one ice cream van. That then turns into 100 ice cream vans, and next you're making money. How do I do that, then? Do I look for something that's missing in a market, start small, and then grow slowly? Because it seems to me that what businesses try to do these days is grow very quickly and then end up going bust."
+      }
+    ],
+    "speakername": "Duncan Bannatyne",
+    "ground_truth": "you know you answered the question yourself very very correctly that's why I did started with one build up slowly I mean some people will go out and they want to have the biggest hotel chain and they're going to go and get money from this equity provider and this bank what's the point get one own it run it properly open a second one it doesn't matter what the business is take your time and build them up fantastic you know what you do go and do it",
+    "bio": "The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, but everybody sees those opportunities more than once in their life. I did, and I've turned them down before, and I've taken the opportunity to go into business and build up a great business. And anyone can do it, and everyone will have the opportunity. So why not take the opportunity and go out and do it?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now, what I was reading about you was your first venture, which was an ice cream van, one ice cream van. That then turns into 100 ice cream vans, and next you're making money. How do I do that, then? Do I look for something that's missing in a market, start small, and then grow slowly? Because it seems to me that what businesses try to do these days is grow very quickly and then end up going bust."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know you answered the question yourself very very correctly that's why I did started with one build up slowly I mean some people will go out and they want to have the biggest hotel chain and they're going to go and get money from this equity provider and this bank what's the point get one own it run it properly open a second one it doesn't matter what the business is take your time and build them up fantastic you know what you do go and do it"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I was watching a popular talk show the other week and [another businessman] was on. He's brought out a book like yours, which is basically facing this economy head on. He says there's no better time right now to invest in the right business."
+      }
+    ],
+    "speakername": "Duncan Bannatyne",
+    "ground_truth": "He's absolutely right, now's the time to go out and buy property or look for property. You know there was a recession in the early 90s when I was building my first nursing home and because of that recession I was able to get build as an architect fairly reasonably, fairly cheaply if you like and the same is happening now. So if you can buy some land now, start building things, it's a great time to do it and sell the things you're building now in about a year's time.",
+    "bio": "The speaker's MBTI type is ISTP"
+  }
+]

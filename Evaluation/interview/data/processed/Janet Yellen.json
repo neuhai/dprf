@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Secretary [target], thank you so much for sitting down with me. It is great to have you on the program."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thanks for the invitation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Housing affordability has become a major issue for Americans in this country."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You're here today in [city] announcing new initiatives on housing affordability, including a brand new Treasury program that would allocate $100 million over three years to help finance housing affordability. How quickly can Americans expect relief from these programs?"
+      }
+    ],
+    "speakername": "Janet Yellen",
+    "ground_truth": "Well, these are things that are in our power now with the tools we have that I think will be helpful, but I don't want to say that there's a silver bullet. I think we look to Congress to do much more. The President has proposed a program that would lead to the construction of 2 million new housing units, which would really make a sizable dent in the problem that we face. But we want to use every tool that we have, and today we announced, as you said, $100 million from returns on investments that we've been making in community development financial institutions over the next three years. And that can make a noticeable difference. We're also calling on the federal home loan banks, which were chartered to deal with housing and promote affordable housing, to up their contributions, their use of their income, to 20 percent of their income to help with the affordable housing situation. We made a few additional announcements today, things we can do to lower burden in one of our key housing programs, the Magnet Fund. And also, to help housing agencies, local housing agencies, have access to reasonable, low-cost financing through the federal financing bank.",
+    "bio": "Born August 13, 1946, the target is an American economist serving as the Secretary of the Treasury since January 26, 2021. A member of the major political party, they previously served as the 15th chair of the central bank from 2014 to 2018. They are the first woman to hold either role. They are also a professor emerita at a major business school at a prominent West Coast university, and formerly a distinguished fellow in residence at a major policy research institution. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Housing affordability has become a major issue for Americans in this country."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You're here today in a major city announcing new initiatives on housing affordability, including a brand new government program that would allocate $100 million over three years to help finance housing affordability. How quickly can Americans expect relief from these programs?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, these are things that are in our power now with the tools we have that I think will be helpful, but I don't want to say that there's a silver bullet. I think we look to Congress to do much more. The President has proposed a program that would lead to the construction of 2 million new housing units, which would really make a sizable dent in the problem that we face. But we want to use every tool that we have, and today we announced, as you said, $100 million from returns on investments that we've been making in community development financial institutions over the next three years. And that can make a noticeable difference. We're also calling on the federal home loan banks, which were chartered to deal with housing and promote affordable housing, to up their contributions, their use of their income, to 20 percent of their income to help with the affordable housing situation. We made a few additional announcements today, things we can do to lower burden in one of our key housing programs, the Magnet Fund. And also, to help housing agencies, local housing agencies, have access to reasonable, low-cost financing through the federal financing bank."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's not just low-income Americans, though, that are grappling with housing affordability. It's the middle class."
+      }
+    ],
+    "speakername": "Janet Yellen",
+    "ground_truth": "So why not offer tax incentives to try to increase housing supply on the market, whether for home builders or investors who bought up so many of the foreclosures following the financial crisis?",
+    "bio": "The subject (born August 13, 1946) is an American economist serving as a senior government official since January 26, 2021. A member of a major political party, they previously served as the chair of a major financial institution from 2014 to 2018. They are the first woman to hold either role. They are also a professor emerita at a prominent business school at a major public university, and formerly a distinguished fellow in residence at a leading research institution. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's not just low-income Americans, though, that are grappling with housing affordability. It's the middle class."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So why not offer tax incentives to try to increase housing supply on the market, whether for home builders or investors who bought up so many of the foreclosures following the financial crisis?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we agree with that. The most important tax incentive that we have, it's the most important affordable housing program, is the low income housing tax credit. And there is a bipartisan bill that passed the legislature that we're supportive of. We'd love to see the Senate vote on it that would increase the supply of these housing tax credits and boost affordable housing. So the President has also proposed a tax rebate for first time homebuyers. And interestingly, also for sellers of homes, many of whom have seen such a big increase in mortgage rates. They took out their own mortgages when rates were much lower. They have a reason to move, but having to buy a new house at current mortgage rates. This would really boost their housing costs. They're reluctant to move in. Not much housing goes on the market these days. And this would be a credit also that goes to sellers that would help unlock the housing market. Have you been to the grocery store lately? I sure have. I go every week."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "it's sticker shock isn't it i just when you look at shipping costs those have come down global food commodity prices have also come down but food prices still remain high i know they're not rising at the rate that they were last year but they're still up 20 percent from pre-covet so should the u.s invest in agriculture to boost the food supply in this country"
+      }
+    ],
+    "speakername": "Janet Yellen",
+    "ground_truth": "Well, I think largely it reflects cost increases, including labor cost increases that firms, grocery firms have experienced, although there may be some increases in margins. Earlier today, I met with a group of CEOs, including the CEO of a major retail chain, and they explained and they've announced that they understand that households are struggling with costs, including food costs, and they have undertaken cuts in the price of bread, milk, diapers, other core purchases that are necessities for households. And I think that's to be applauded. I think that kind of thing is helpful. But I would try to understand. I would be reluctant to agree that we should be involved in subsidizing agriculture.",
+    "bio": "The individual (born August 13, 1946) is an American economist serving as the Secretary of the Treasury since January 26, 2021. A member of a major political party, they previously served as the 15th chair of the central bank from 2014 to 2018. They are the first woman to hold either role. They are also a professor emerita at a prominent business school at a major public university in California, and formerly a distinguished fellow in residence at a notable policy research institution. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we agree with that. The most important tax incentive that we have, it's the most important affordable housing program, is the low income housing tax credit. And there is a bipartisan bill that passed the legislature that we're supportive of. We'd love to see the Senate vote on it that would increase the supply of these housing tax credits and boost affordable housing. So the President has also proposed a tax rebate for first time homebuyers. And interestingly, also for sellers of homes, many of whom have seen such a big increase in mortgage rates. They took out their own mortgages when rates were much lower. They have a reason to move, but having to buy a new house at current mortgage rates. This would really boost their housing costs. They're reluctant to move in. Not much housing goes on the market these days. And this would be a credit also that goes to sellers that would help unlock the housing market. Secretary [target], have you been to the grocery store lately? I sure have. I go every week."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "it's sticker shock isn't it i just when you look at shipping costs those have come down global food commodity prices have also come down but food prices still remain high i know they're not rising at the rate that they were last year but they're still up 20 percent from pre-covet so should the u.s invest in agriculture to boost the food supply in this country"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think largely it reflects cost increases, including labor cost increases that firms, grocery firms have experienced, although there may be some increases in margins. Earlier today, I met with a group of CEOs, including the CEO of a major retail chain, and they explained and they've announced that they understand that households are struggling with costs, including food costs, and they have undertaken cuts in the price of bread, milk, diapers, other core purchases that are necessities for households. And I think that's to be applauded. I think that kind of thing is helpful. But I would try to understand. I would be reluctant to agree that we should be involved in subsidizing agriculture."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "agriculture. I want to ask you about your overall outlook for inflation. It looked like it was stalling in the first quarter. We have gotten some better readings here in the second quarter, namely that cooler May CPI reading. We have got another inflation reading coming on Friday. Do you expect inflation will fall at a faster rate as we go through the summer months and the rest of the year, or is it going to continue to be sort of a slower slog?"
+      }
+    ],
+    "speakername": "Janet Yellen",
+    "ground_truth": "Well, I do expect inflation to come down. And as we get into next year, I believe that inflation will go back to the central bank's 2 percent target. But there's month to month variation. And one of the pieces that has been keeping inflation above the target is housing costs. The prices, rental prices for new apartments have stabilized and in many parts of the country come down. But people who have existing contracts really only see changes in their rental prices when their contracts renew. And there has been a considerable run up since before the pandemic. So it takes a while before people who have existing rental contracts, see current costs fully priced in, and that's been holding housing cost increases above normal levels. I'm I feel pretty confident that that is something that will come down over the next year and keep moving inflation down. And labor markets, while very strong nationally, are a little bit less tight. Thank you. Thank you. Thank you. And they were.",
+    "bio": "The target (born August 13, 1946) is an American economist serving as the Secretary of the Treasury since January 26, 2021. A member of a major political party, they previously served as the chair of the central bank from 2014 to 2018. They are the first woman to hold either role. They are also a professor emerita at a major business school at a prominent public university, and formerly a distinguished fellow in residence at a major policy research institution. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think largely it reflects cost increases, including labor cost increases that firms, grocery firms have experienced, although there may be some increases in margins. Earlier today, I met with a group of CEOs, including the CEO of a major retail chain, and they explained and they've announced that they understand that households are struggling with costs, including food costs, and they have undertaken cuts in the price of bread, milk, diapers, other core purchases that are necessities for households. And I think that's to be applauded. I think that kind of thing is helpful. But I would try to understand. I would be reluctant to agree that we should be involved in subsidizing agriculture."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "agriculture. I want to ask you about your overall outlook for inflation. It looked like it was stalling in the first quarter. We have gotten some better readings here in the second quarter, namely that cooler May CPI reading. We have got another inflation reading coming on Friday. Do you expect inflation will fall at a faster rate as we go through the summer months and the rest of the year, or is it going to continue to be sort of a slower slog?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I do expect inflation to come down. And as we get into next year, I believe that inflation will go back to the Fed's 2 percent target. But there's month to month variation. And one of the pieces that has been keeping inflation above the Fed's target is housing costs. The prices, rental prices for new apartments have stabilized and in many parts of the country come down. But people who have existing contracts really only see changes in their rental prices when their contracts renew. And there has been a considerable run up since before the pandemic. So it takes a while before people. Who have existing rental contracts, see current costs fully priced in, and that's been holding housing cost increases above normal levels. I'm I feel pretty confident that that is something that will come down over the next year and keep moving inflation down. And labor markets, while very strong nationally, are a little bit less tight. Thank you. Thank you. Thank you. And they were."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "right in the aftermath of the pandemic."
+      }
+    ],
+    "speakername": "Janet Yellen",
+    "ground_truth": "So given your outlook for inflation, you say you do expect we'll hit 2% by next year. And the fact that Americans are grappling with high home costs, part of that is mortgage rates near 40-year highs. When do you think Americans could see interest rates come down?",
+    "bio": "The target (born August 13, 1946) is an American economist serving as the Secretary of the Treasury since January 26, 2021. A member of a major political party, they previously served as the chair of the central bank from 2014 to 2018. They are the first woman to hold either role. They are also a professor emerita at a major business school at a prominent public university, and formerly a distinguished fellow in residence at a major policy research institution. The speaker's MBTI type is ISTJ"
+  }
+]

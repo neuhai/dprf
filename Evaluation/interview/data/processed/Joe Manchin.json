@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Always good to be with you, Chuck."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right, so let me just start with this. Two weeks ago, you said you were adamant you needed to see the July inflation numbers before you were ready to talk about this bigger budget bill with the Democrats called reconciliation. And then abruptly, you didn't need to see those inflation numbers. What changed your mind?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it wasn't abruptly, Chuck. We've been working and negotiating off and on very quietly because I didn't know if it would ever come to fruition. I didn't want to go through the drama that eight months ago that we went through for so long thinking we negotiated, got close, and then it fell apart and this and that. Never could get there on the Build Back Better. It just was too much and I never could get there. On this one here, we started in April and kept working and working and working and back and forth. And all of a sudden, inflation went from 6 to 8.1 to 9.1. And I said, hey, Chuck, listen, we better wait and let's see what's coming in July. Numbers come in in August before we do anything more. And that was the point of where we had been talking and negotiating. And that's when Chuck got upset with me. And I understand that. And he says, oh, here we go again and everything. I said, no, Chuck. I said, I'm just being very cautious. I'm not going to be responsible for inflaming the inflation rates. I'm just not going to do it. So then we got a hot weekend. We all cooled off a little bit and talked on Monday. And I said, Chuck, I've never walked away. We're still working on it. And he says, well, OK, let's do it. And I said, well, let's start talking. So to Chuck's credit, our staffs kept talking. We didn't know if we're going to get there or not. But the bottom line was, as we reduced it and scrubbed it clear down to 739, nothing inflammatory in that piece of legislation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The initial criticism of this bill from Republicans is, in some ways to some people, a predictable response, which is simply this. You should not increase any taxes during a time of recession. Why is now the right time to hit certain businesses with a tax hike?"
+      }
+    ],
+    "speakername": "Joe Manchin",
+    "ground_truth": "First of all, Chuck, I agree with my Republican friends. We should not increase taxes, and we did not increase taxes, Chuck. That's what we scrubbed out from that Thursday when we shut down until we started talking again on Monday. The only thing we have done is basically say that every corporation of a billion dollars of value or greater in America should pay at least 15 percent of minimum corporate tax. Many people in [state] couldn't believe that corporations aren't paying anything, and some of the largest in the country. And with that being said, the rate was at 35 percent in 2017 when my Republican friends took it to 21. We thought it should stop at 25. It went to 21, a 14 percent savings. You would at least think that they would be paying at least 15 percent. Most businesses and all corporations that I know of pay 21 percent. So that's not a tax increase. It's closing a loophole.",
+    "bio": "The speaker (born August 24, 1947) is an American politician serving as the senior United States Senator from [state], a seat held since 2010. A member of the Democratic Party, they previously served as the governor of [state] from 2005 to 2010 and the secretary of state of [state] from 2001 to 2005. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it wasn't abruptly, Chuck. We've been working and negotiating off and on very quietly because I didn't know if it would ever come to fruition. I didn't want to go through the drama that eight months ago that we went through for so long thinking we negotiated, got close, and then it fell apart and this and that. Never could get there on the Build Back Better. It just was too much and I never could get there. On this one here, we started in April and kept working and working and working and back and forth. And all of a sudden, inflation went from 6 to 8.1 to 9.1. And I said, hey, Chuck, listen, we better wait and let's see what's coming in July. Numbers come in in August before we do anything more. And that was the point of where we had been talking and negotiating. And that's when Chuck got upset with me. And I understand that. And he says, oh, here we go again and everything. I said, no, Chuck. I said, I'm just being very cautious. I'm not going to be responsible for inflaming the inflation rates. I'm just not going to do it. So then we got a hot weekend. We all cooled off a little bit and talked on Monday. And I said, Chuck, I've never walked away. We're still working on it. And he says, well, OK, let's do it. And I said, well, let's start talking. So to Chuck's credit, our staffs kept talking. We didn't know if we're going to get there or not. But the bottom line was, as we reduced it and scrubbed it clear down to 739, nothing inflammatory in that piece of legislation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The initial criticism of this bill from Republicans is, in some ways to some people, a predictable response, which is simply this. You should not increase any taxes during a time of recession. Why is now the right time to hit certain businesses with a tax hike?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "First of all, Chuck, I agree with my Republican friends. We should not increase taxes, and we did not increase taxes, Chuck. That's what we scrubbed out from that Thursday when we shut down until we started talking again on Monday. The only thing we have done is basically say that every corporation of a billion dollars of value or greater in America should pay at least 15 percent of minimum corporate tax. Many people in West Virginia couldn't believe that corporations aren't paying anything, and some of the largest in the country. And with that being said, the rate was at 35 percent in 2017 when my Republican friends took it to 21. We thought it should stop at 25. It went to 21, a 14 percent savings. You would at least think that they would be paying at least 15 percent. Most businesses and all corporations that I know of pay 21 percent. So that's not a tax increase. It's closing a loophole."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I understand that, but one person's loophole is another person whose tax bill increased. And, you know, the folks over at the National Association of Manufacturers, and, look, they're not going to like anything that increases their tax bill. I understand that. Sure. But here's their main argument. They say by doing this, you threaten to stifle the very innovation this bill is supposed to spur because if you create that tax penalty and you don't get the credit for investment, then all of a sudden you don't see that. And they'll make the decision not to invest. Do you buy that argument?"
+      }
+    ],
+    "speakername": "Joe Manchin",
+    "ground_truth": "I don't, because I'll tell you why. The last two years have been massive record profits, massive record profits. And with that being said, it's been the lowest investment of capital expenditure that we've ever had. So it's not the taxes that's driving this. What's driving people setting on their money right now is a lack of confidence that we can't get our act together in Congress or government. And they don't have a confidence there. So what we have done is we have total permitting reform. That's the thing everyone has told me. When I've asked them, point blank, they said, if you can just take the leashes off, take the chains off of us, let us go and do it. So we're going to basically reform our permitting. So we're able to get these projects completed that are needed now. Do you trust?",
+    "bio": "Joseph Manchin III (born August 24, 1947) is an American politician serving as the senior United States Senator from West Virginia, a seat he has held since 2010. A âmemberâ?of the Democratic Party, he previously served as the 34th governor of West Virginia from 2005 to 2010 and the 27th secretary of state of West Virginia from 2001 to 2005. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "First of all, Chuck, I agree with my Republican friends. We should not increase taxes, and we did not increase taxes, Chuck. That's what we scrubbed out from that Thursday when we shut down until we started talking again on Monday. The only thing we have done is basically say that every corporation of a billion dollars of value or greater in America should pay at least 15 percent of minimum corporate tax. Many people in my state couldn't believe that corporations aren't paying anything, and some of the largest in the country. And with that being said, the rate was at 35 percent in 2017 when my Republican friends took it to 21. We thought it should stop at 25. It went to 21, a 14 percent savings. You would at least think that they would be paying at least 15 percent. Most businesses and all corporations that I know of pay 21 percent. So that's not a tax increase. It's closing a loophole."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I understand that, but one person's loophole is another person whose tax bill increased. And, you know, the folks over at the National Association of Manufacturers, and, look, they're not going to like anything that increases their tax bill. I understand that. Sure. But here's their main argument. They say by doing this, you threaten to stifle the very innovation this bill is supposed to spur because if you create that tax penalty and you don't get the credit for investment, then all of a sudden you don't see that. And they'll make the decision not to invest. Do you buy that argument?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't, because I'll tell you why. The last two years have been massive record profits, massive record profits. And with that being said, it's been the lowest investment of capital expenditure that we've ever had. So it's not the taxes that's driving this. What's driving people setting on their money right now is a lack of confidence that we can't get our act together in Congress or government. And they don't have a confidence there. So what we have done is we have total permitting reform. That's the thing everyone has told me. When I've asked them, point blank, they said, if you can just take the leashes off, take the chains off of us, let us go and do it. So we're going to basically reform our permitting. So we're able to get these projects completed that are needed now. Do you trust?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I know that was the promise you got, and it's one of those where you were promised a bill later. You support reconciliation now. You're going to get permitting reform later. Why did you not insist on permitting reform first before you gave him your vote for reconciliation?"
+      }
+    ],
+    "speakername": "Joe Manchin",
+    "ground_truth": "We would have done permitting reform in this bill, but basically because of the birdbath and because of reconciliation being around finances, it did not fit. So with that, we have an agreement from the House Leader to Senate Leader to the President. We all have made an agreement on this. And you know what? If someone doesn't fulfill, if I don't fulfill my commitment promise that I will vote and support this bill with all my heart, there's consequences and there's consequences on both sides. So I have all the trust and faith that this will be accomplished. We'll get this done. And if not, we both are going to face some consequences.",
+    "bio": "The speaker (born August 24, 1947) is an American politician serving as a senior United States Senator from a mid-Atlantic state, a seat held since 2010. A member of the Democratic Party, they previously served as the state governor from 2005 to 2010 and the secretary of state from 2001 to 2005. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't, because I'll tell you why. The last two years have been massive record profits, massive record profits. And with that being said, it's been the lowest investment of capital expenditure that we've ever had. So it's not the taxes that's driving this. What's driving people setting on their money right now is a lack of confidence that we can't get our act together in [institution] or government. And they don't have a confidence there. So what we have done is we have total permitting reform. That's the thing everyone has told me. When I've asked them, point blank, they said, if you can just take the leashes off, take the chains off of us, let us go and do it. So we're going to basically reform our permitting. So we're able to get these projects completed that are needed now. Do you trust?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I know that was the promise you got, and it's one of those where you were promised a bill later. You support reconciliation now. You're going to get permitting reform later. Why did you not insist on permitting reform first before you gave him your vote for reconciliation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We would have done permitting reform in this bill, but basically because of the birdbath and because of reconciliation being around finances, it did not fit. So with that, we have an agreement from [official] to [official] to [official]. We all have made an agreement on this. And you know what? If someone doesn't fulfill, if I don't fulfill my commitment promise that I will vote and support this bill with all my heart, there's consequences and there's consequences on both sides. So I have all the trust and faith that this will be accomplished. We'll get this done. And if not, we both are going to face some consequences."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mr. [official] and [official] can keep their word and it's possible the bill still doesn't pass. So what are the consequences if you don't get your permitting reform because they don't have the votes?"
+      }
+    ],
+    "speakername": "Joe Manchin",
+    "ground_truth": "Well, as I've said before, there's other avenues and vehicles that we can use. And I've been committed, I've been promised, and I do believe and I trust. And if any of us don't keep our promises, then there are consequences to pay for this. And I don't think that's going to happen at all. There's too much at stake here. This is the greatest investment we've ever had in energy security. Energy security and also investment in the innovation and technology that we need for the fuels of the future. This is an all-American bill. Red, white, and blue all the way through.",
+    "bio": "The target (born August 24, 1947) is an American politician serving as the senior United States Senator from [state], a seat held since 2010. A member of the Democratic Party, they previously served as the 34th governor of [state] from 2005 to 2010 and the 27th secretary of state of [state] from 2001 to 2005. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We would have done permitting reform in this bill, but basically because of the birdbath and because of reconciliation being around finances, it did not fit. So with that, we have an agreement from Representative and Majority Leader and the President. We all have made an agreement on this. And you know what? If someone doesn't fulfill, if I don't fulfill my commitment promise that I will vote and support this bill with all my heart, there's consequences and there's consequences on both sides. So I have all the trust and faith that this will be accomplished. We'll get this done. And if not, we both are going to face some consequences."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The party leaders can keep their word and it's possible the bill still doesn't pass. So what are the consequences if you don't get your permitting reform because they don't have the votes?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, as I've said before, there's other avenues and vehicles that we can use. And I've been committed, I've been promised, and I do believe and I trust. And if any of us don't keep our promises, then there are consequences to pay for this. And I don't think that's going to happen at all, Chuck. There's too much at stake here. This is the greatest investment we've ever had in energy security. Energy security and also investment in the innovation and technology that we need for the fuels of the future. This is an all-American bill. Red, white, and blue all the way through."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, the name of this bill, some would argue, is a bit misleading, the Inflation Reduction Act. Can you explain where in this bill inflation will be reduced for folks in the next six months?"
+      }
+    ],
+    "speakername": "Joe Manchin",
+    "ground_truth": "Well, first of all, we've got the highest gas prices right now. Inflation is killing. It's hurting everyone in my state right now, and it's hurting all working people across America. And if you want to get the gasoline prices down, you've got to produce your way out of it. And we've got to bring more manufacturing back to America. And let me tell you what the bill does. It gives us a strong fossil energy that's going to produce the cleanest forms of fossil energy in the world. That's carbon reduction when you're replacing the dirtiest oil right now that's going into the climate and atmosphere. That's something we can do. You're producing in America. We become energy independent. You're going to reduce because of supply. Next of all, we pay $300 billion down on debt.",
+    "bio": "The speaker (born August 24, 1947) is an American politician serving as a senior United States Senator from a state in the Appalachian region, a seat held since 2010. A member of their political party, they previously served as the state governor from 2005 to 2010 and the secretary of state from 2001 to 2005. The speaker's MBTI type is ESFJ"
+  }
+]

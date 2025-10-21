@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, there were a lot of those pardons that day that I don't agree with any more than some of the pardons that President Biden dropped that I didn't agree with those as well, too. I actually agreed on a lot of the pardons that I've signed on as lieutenant governor. I believe in second chances. Some people are very deserving of a second chance and get a pardon. And there's some that I don't agree that do that. So I don't agree with I don't agree with them. And many of them that I didn't agree with the president as well, too."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah. What is your response to that? Because I know at one point you had suggested that you thought that it would be a good idea for President Biden to pardon President-elect Trump with regard to the hush money case."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm saying though that that pardons I can agree with some that I don't and I think that's really what it comes down to"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You obviously co-sponsored the [Legislative Act], which was passed late yesterday. Some Democrats have said that they're unhappy with it, including Senator Kaine, who said that it's bad policy. What's your reaction to that?"
+      }
+    ],
+    "speakername": "John Fetterman",
+    "ground_truth": "I mean, they're entitled to their opinions and their views. And I believe, as someone that's very, very pro-immigration, as I have been consistently, that we can be very pro-immigration and we should need a secure border. And if those people that have a criminal record or people that are actively engaging in criminal behavior, I don't know why it's controversial that those people should they need to go.",
+    "bio": "The subject is an American politician serving as the 34th and current Lieutenant Governor of a northeastern state since 2019. A member of the Democratic Party, they previously served as Mayor of a small industrial town from 2005 to 2019. The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm saying though that that pardons I can agree with some that I don't and I think that's really what it comes down to"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You obviously co-sponsored the regional security Act, which was passed late yesterday. Some members of the party have said that they're unhappy with it, including a senior Senator, who said that it's bad policy. What's your reaction to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, they're entitled to their opinions and their views. And I believe, as someone that's very, very pro-immigration, as I have been consistently, that we can be very pro-immigration and we should need a secure border. And if those people that have a criminal record or people that are actively engaging in criminal behavior, I don't know why it's controversial that those people should they need to go."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As you know, the former president declared an emergency at the southern border. Your thoughts on that? Good idea? Bad idea?"
+      }
+    ],
+    "speakername": "John Fetterman",
+    "ground_truth": "Well, I think if 300,000 people were showing up on the border, as they were during a month not that long ago, I think it's important that we create a secure border, and that's really pretty much where we are.",
+    "bio": "The speaker is an American politician serving as a state Lieutenant Governor since 2019. A member of the majority party, they previously served as Mayor of a small town from 2005 to 2019. The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I mean, they're entitled to their opinions and their views. And I believe, as someone that's very, very pro-immigration, as I have been consistently, that we can be very pro-immigration and we should need a secure border. And if those people that have a criminal record or people that are actively engaging in criminal behavior, I don't know why it's controversial that those people should they need to go."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As you know, [senior official] declared an emergency at the southern border. Your thoughts on that? Good idea? Bad idea?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think if 300,000 people were showing up on the border, as they were during a month not that long ago, I think it's important that we create a secure border, and that's really pretty much where we are."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As you know, initially, [senior official] at one point had called you a raging lunatic, but then you went down, you were only the first sitting Democratic senator to actually go down to [private residence]. Days later, he said he thought that you were impressive. Can you take us to that moment and give us a sense of how that meeting went with you and [senior official] at [private residence]?"
+      }
+    ],
+    "speakername": "John Fetterman",
+    "ground_truth": "I just I was invited to have a conversation with the president and that I did and that's what happened",
+    "bio": "The subject is an American politician serving as the current Lieutenant Governor of a northeastern state since 2019. A member of the Democratic Party, he previously served as Mayor of a small town from 2005 to 2019. The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Do I have a lot of his ideals?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm a Democrat. It's a strange question."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I guess I'm wondering what made him go about you."
+      }
+    ],
+    "speakername": "John Fetterman",
+    "ground_truth": "things that I won't agree with. And there might be some that I do agree on that. But I'm a Democrat and I'm going to remain a Democrat. So there's many of his ideals that I don't agree with. But that's pretty much how it works here. Some Democrats aren't going to agree with a lot of the things.",
+    "bio": "The subject is an American politician serving as the current Lieutenant Governor of a northeastern state since 2019. A member of the Democratic Party, they previously served as Mayor of a small industrial town from 2005 to 2019. The speaker's MBTI type is ISTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm a Democrat. It's a strange question."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I guess I'm wondering what made him go about you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "things that I won't agree with. And there might be some that I do agree on that. But I'm a Democrat and I'm going to remain a Democrat. So there's many of his ideals that I don't agree with. But that's pretty much how it works here. Some Democrats aren't going to agree with a lot of the things."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right, but I guess I'm just trying to get a sense of, at one point he's saying you're a raging lunatic and then he describes you as impressive. Was there any kind of extension of an olive branch, a meeting of the minds at [private residence] that caused him to have at least such a shift?"
+      }
+    ],
+    "speakername": "John Fetterman",
+    "ground_truth": "Well, you know, I think if we all refuse to engage and talk to people that may have said things in the past that you appreciate, then we wouldn't be having conversations with a lot of people amongst ourselves.",
+    "bio": "The speaker is an American politician serving as the Lieutenant Governor of a northeastern state since 2019. A member of the Democratic Party, they previously served as Mayor of a small town from 2005 to 2019. The speaker's MBTI type is ISTP"
+  }
+]

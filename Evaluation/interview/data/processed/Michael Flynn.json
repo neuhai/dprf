@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, what are you doing now? What's next with this new administration coming in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Part of what I have been doing is, you know, because my background is intelligence, national security, foreign policy, you know, certainly the military. And so I have been working with and advising sort of in a background way, because that's the way I like I want to be, you know, as things are now, particularly during this transition with the national security team that the president has assembled. So, you know, from people like [Name1], who I've known for a long time, when [Name1] first came in as a first term Democrat representative from [State], I got to know her then. And we've maintained that relationship for a long time, as well as, you know, [Name2], [Name3], who's going to be the national security advisor. [Name2] is going to be, of course, FBI director [Name4], who's who's been nominated to be the secretary of defense. [Name5]. I've been in touch with [Name5] off and on and trying. I help him to, you know, to navigate. [Name5] doesn't need a lot of navigation. [Name5] knows exactly what he's what he wants to do. The challenge is going to be, you know, from my perspective, over my many years of the military and then and then in my time that I got involved in politics, I really particularly by my military background, though, I have a great, great portfolio and network of foreign relations. You know, I mean, I work with a lot of militaries around the world. And so I still have great relationships with many of the countries that that want to work with our country desperately to be able to do the things that need to be done to protect, frankly, to protect ourselves from this rise of sort of globalism, I guess, because that's kind of the challenging component of what we face. And I don't think a lot of people understand that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But tell me this, okay, the presidential approach to national security and foreign policy is peace through strength. Absolutely. That would be fair to say."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's exactly what [Historical Figure]..."
+      }
+    ],
+    "speakername": "Michael Flynn",
+    "ground_truth": "said you know [Historical Figure] said you know basically in order to preserve our country we have to present ourselves as a strong nation and he always believed that because he was a soldier he was a warrior he was a general and the president in a lot of ways he has those same characteristics about about doing things just using good common sense but also making sure that the country is strong and presents our ourselves as a strong healthy country because I think that's that matters and I think with the with the advent of bringing [Name6] into the team that's a that's going to be a component of our nation is not just you know health of your body but health as a nation and I think that the president this idea of peace through strength that is his fundamental idea about how our country needs to present itself around the world",
+    "bio": "The speaker is a retired military officer with the rank of Lieutenant General and former security advisor. In a notable case, the speaker faced legal charges related to providing false statements to federal investigators about governmental contacts during a presidential transition. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And that's exactly what the first president..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "said you know he the first president said you know basically in order to preserve our country we have to present ourselves as a strong nation and he always believed that because he was a soldier he was a warrior he was a general and the former president in a lot of ways he has those same characteristics about about doing things just using good common sense but also making sure that the country is strong and presents our ourselves as a strong healthy country because I think that's that matters and I think with the with the advent of bringing [target] into the team that's a that's going to be a component of our nation is not just you know health of your body but health as a nation and I think that the former president this idea of peace through strength that is his fundamental idea about how our nation needs to present itself around the world"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're very skeptical of our military, frankly, right? I am. But you're also..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "as I understand it, very supportive of the peace through strength model. And to some people, that might seem incongruous. How would you explain it?"
+      }
+    ],
+    "speakername": "Michael Flynn",
+    "ground_truth": "I mean, you know, first of all, today's Purple Heart Day. So this day that we're sitting here together, we recognize as Purple Heart Day. Purple Heart is someone who's wounded in combat, so it's a very special day. And the fact that we're talking about right now, I tell people that I'm not anti-war. I'm anti-stupid war. And, you know, you can take that for whatever you want to take it for. But our country was founded on the idea of being a benevolent nation based on a constitution and an equal and fair justice system for all. And when we project ourselves and what we want to be around the world, we want to be seen as this, you know, this great, humble, benevolent nation that is a nation of givers. And this country, I mean, the people of our country, are the greatest. They're the greatest givers in the world. They give, give, give to everybody around the world that desperately needs help. We're always there. But I think now one of the things that we have to look at is we have to look at taking care of our own country. And I think that this idea of our peace through strength or who we are as a nation and what we need to do going forward, we have some, you know, it's kind of like the body, right? Your body needs to stay fit. Well, our nation needs to stay fit. And in order to do that, we have to, we have to protect certain institutions and make sure that they're ready to do the right things when called upon, particularly our military. Our military cannot be a social experiment to test things about how people should behave in their lives. Our military serves one purpose for our country, and that is to be prepared.",
+    "bio": "[target] is a retired military officer and former government advisor. In December 2017, [target] pleaded guilty to a felony charge of lying to federal investigators about contacts with a foreign government during a presidential transition. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "said you know he [historical figure] said you know basically in order to preserve our country we have to present ourselves as a strong nation and he always believed that because he was a soldier he was a warrior he was a general and [political figure] in a lot of ways he has those same characteristics about about doing things just using good common sense but also making sure that the country is strong and presents our ourselves as a strong healthy country because I think that's that matters and I think with the with the advent of bringing [political figure] into the team that's a that's going to be a component of our nation is not just you know health of your body but health as a nation and I think that [political figure] this idea of peace through strength that is his fundamental idea about how the nation needs to present itself around the world"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're very skeptical of our military, frankly, right? I am. But you're also..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "as I understand it, very supportive of the peace through strength model. And to some people, that might seem incongruous. How would you explain it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, you know, first of all, today's Purple Heart Day. So this day that we're sitting here together, we recognize as Purple Heart Day. Purple Heart is someone who's wounded in combat, so it's a very special day. And the fact that we're talking about right now, I tell people that I'm not anti-war. I'm anti-stupid war. And, you know, you can take that for whatever you want to take it for. But our country was founded on the idea of being a benevolent nation based on a constitution and an equal and fair justice system for all. And when we project ourselves and what we want to be around the world, we want to be seen as this, you know, this great, humble, benevolent nation that is a nation of givers. And this country, I mean, the people of our country, are the greatest. They're the greatest givers in the world. They give, give, give to everybody around the world that desperately needs help. We're always there. But I think now one of the things that we have to look at is we have to look at taking care of our own country. And I think that this idea of our peace through strength or who we are as a nation and what we need to do going forward, we have some, you know, it's kind of like the body, right? Your body needs to stay fit. Well, our nation needs to stay fit. And in order to do that, we have to, we have to protect certain institutions and make sure that they're ready to do the right things when called upon, particularly our military. The military cannot be a social experiment to test things about how people should behave in their lives. Our military serves one purpose for our country, and that is to be prepared."
+      }
+    ],
+    "speakername": "Michael Flynn",
+    "ground_truth": "He's very well-spoken and he's razor-thin in terms of his experience, and a lot of people go back, you know, he's very well-spoken, very articulate, he's razor-thin in terms of his experience. You ought to have him on and ask him about some of his...",
+    "bio": "A retired military officer who served as Lieutenant General and briefly as a national security advisor. In 2017, he pleaded guilty to a felony charge of lying to federal investigators about contacts with a foreign government during a presidential transition. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "as I understand it, very supportive of the peace through strength model. And to some people, that might seem incongruous. How would you explain it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, you know, first of all, today's Purple Heart Day. So this day that we're sitting here together, we recognize as Purple Heart Day. Purple Heart is someone who's wounded in combat, so it's a very special day. And the fact that we're talking about right now, I tell people that I'm not anti-war. I'm anti-stupid war. And, you know, you can take that for whatever you want to take it for. But our country was founded on the idea of being a benevolent nation based on a constitution and an equal and fair justice system for all. And when we project ourselves and what we want to be around the world, we want to be seen as this, you know, this great, humble, benevolent nation that is a nation of givers. And this country, I mean, the people of our country, are the greatest. They're the greatest givers in the world. They give, give, give to everybody around the world that desperately needs help. We're always there. But I think now one of the things that we have to look at is we have to look at taking care of our own country. And I think that this idea of our peace through strength or who we are as a nation and what we need to do going forward, we have some, you know, it's kind of like the body, right? Your body needs to stay fit. Well, our nation needs to stay fit. And in order to do that, we have to, we have to protect certain institutions and make sure that they're ready to do the right things when called upon, particularly our military. The military cannot be a social experiment to test things about how people should behave in their lives. Our military serves one purpose for our country, and that is to be prepared."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He's very well-spoken and he's razor-thin in terms of his experience, and a lot of people go back, you know, he's very well-spoken, very articulate, he's razor-thin in terms of his experience. You ought to have him on and ask him about some of his..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We got on within that town hall. We did multiple. So I'm sorry. Three weeks ago. Yeah. So do you do you? So somebody may say, well, the former president was razor thin with experience in politics when he got elected. So why support him and not be excited about a Vivek?"
+      }
+    ],
+    "speakername": "Michael Flynn",
+    "ground_truth": "Yeah, it's not it's not razor thin in politics. Actually, that would be a badge to wear. It's it's razor thin in life and people experience. And to me, that's a really important aspect of a leader is having somebody who really has dealt with a lot of goods, bads and uglies, a lot of organizations, a lot of employees, if you will, you know, a lot of things and and and had to make really tough decisions.",
+    "bio": "The speaker is a retired military officer who achieved the rank of Lieutenant General and briefly served as a National Security Advisor. In December 2017, the speaker pleaded guilty to a felony charge of lying to federal investigators about contacts with a foreign government during a presidential transition. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think he's I think he's a little bit I think he's been a little bit too much milk toast you know I think he's been just he sees you know when you look at you look at how he got to where he's at you know and and now what he's now he's sort of turned on some things I mean I think it was a big mistake for him to say I'm going to run for governor I'm going to be the best governor and then he jumped off that train and now he's running for president"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What is milk toasting?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. Milk toast is just basically somebody who's, you know, he said, you know, like not not assertive, not like this is what this is what we got to do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You don't think the synthesis is..."
+      }
+    ],
+    "speakername": "Michael Flynn",
+    "ground_truth": "No, I don't. No, I don't. I don't think he's assertive enough. There's problems. I live in [state]. I've been here for a couple of years. I pay very close attention to my communities and my counties and what's happening in this state. And I think that there's a lot of other things that education, there's some areas in education that he could really get on top of. I lived through [hurricane event] last year, you know, where in the town I was in was wasted. And you go all the way down to [city], you know, people over there are still, it's still devastating. And after a couple of political things, you know, you get down there, you do some, you know, handshaking. Now it's like, where are you at?",
+    "bio": "A retired military officer who served as Lieutenant General and briefly as a National Security Advisor. In December 2017, this individual pleaded guilty to a felony charge of lying to federal investigators about contacts with a foreign government during a presidential transition. The speaker's MBTI type is ISTJ"
+  }
+]

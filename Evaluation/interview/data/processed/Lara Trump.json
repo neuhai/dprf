@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good morning, thank you. How are you feeling this morning? I'm feeling great. How are you guys? Bless you."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "I can highly favor. Good morning."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And there you go. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "co-chair of the republican national committee yes what does that mean exactly what yeah what is that"
+      }
+    ],
+    "speakername": "Lara Trump",
+    "ground_truth": "Well, there's a chairman of the national committee. His name is [anonymized]. And as co-chair, I work alongside of him. And, you know, we're basically in charge of the party at this point. And I've been in this position since March. It's been a wild ride. This is probably one of the craziest times in politics.",
+    "bio": "Born: 12 October 1982, [city], [state], United States\nThe speaker is a former television producer and campaign adviser to the 45th president of the United States. She is married to the president's son, with whom she has two children. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_07",
+        "text": "co-chair of the republican national committee yes what does that mean exactly what yeah what is that"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, there's a chairman of the national committee. His name is Michael Watley. And as co-chair, I work alongside of him. And, you know, we're basically in charge of the party at this point. And I've been in this position since March. It's been a wild ride. This is probably one of the craziest times in politics."
+      },
+      {
+        "speaker": "[target]",
+        "text": "we anyone can remember and so um so yeah i'm honored to do it"
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "Your father-in-law has a lot to do with that."
+      }
+    ],
+    "speakername": "Lara Trump",
+    "ground_truth": "Well, you know, actually, the national committee members have to vote you into this position. Now, I did get a call from him back in January one night, and he said, I think you should run for this position. And to be honest, I said, I have two young kids. My kids are five and seven now. I have a lot of personal endeavors that, you know, I have underway as well. I said, I don't know if this is the job for me right now, knowing how big this election was going to be, knowing what laid ahead of me. But he convinced me to run for it. And then the committee members voted me into this position, and I'm honored to do it.",
+    "bio": "Born: 12 October 1982, [City], [State], United States\nA former television producer and campaign adviser to a former president. She is married to the president's son, with whom she has two children. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_08",
+        "text": "Your father-in-law has a lot to do with that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, actually, the committee members have to vote you into this position. Now, I did get a call from him back in January one night, and he said, I think you should run for this position. And to be honest, I said, I have two young kids. My kids are five and seven now. I have a lot of personal endeavors that, you know, I have underway as well. I said, I don't know if this is the job for me right now, knowing how big this election was going to be, knowing what laid ahead of me. But he convinced me to run for it. And then the committee members voted me into this position, and I'm honored to do it."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "Have you been a lifelong Republican?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I would say yes. I've always voted Republican."
+      }
+    ],
+    "speakername": "Lara Trump",
+    "ground_truth": "But, you know, politics were never a big thing discussed in my household when I was growing up. I grew up in southeastern [state].",
+    "bio": "Born: 12 October 1982, [city], [state], United States\nA former television producer and campaign adviser to a former president. She is married to the president's son, with whom she has two children. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Let's let's go back a little bit. Let's let's find out who [target] is. So you're married to [target]'s son, [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "What did you guys meet? And, you know, explain that. Break that down so people know your history and where you came from and how you got into politics. Politics wasn't your thing at first. No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it wasn't anyone's thing with the last name [target], if we're all honest, for a long time."
+      }
+    ],
+    "speakername": "Lara Trump",
+    "ground_truth": "um i yeah i grew up in southeastern [state] like i said and um i moved here i moved to [city] in 2007. i actually moved here to go to culinary school okay of all things",
+    "bio": "Born: 12 October 1982, [city], [state], United States\nA former television producer and campaign adviser to the 45th president of the United States. She is married to the president's son with whom she has two children. The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_07",
+        "text": "What did you guys meet? And, you know, explain that. Break that down so people know your history and where you came from and how you got into politics. Politics wasn't your thing at first. No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it wasn't anyone's thing with the last name [target], if we're all honest, for a long time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "um i yeah i grew up in southeastern [state] like i said and um i moved here i moved to [city] in 2007. i actually moved here to go to culinary school okay of all things"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Chef, you can chef it up."
+      }
+    ],
+    "speakername": "Lara Trump",
+    "ground_truth": "Yeah, well, now don't ask my husband because he gives me a hard time about this. I'm technically a pastry chef. I went to the [school name].",
+    "bio": "Born: 12 October 1982, [city], [state], United States\nA former television producer and campaign adviser to the 45th president of the United States. She is married to the president's son, with whom she has two children. The speaker's MBTI type is ESTP"
+  }
+]

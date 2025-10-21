@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, what I found in studying this entire thing about the, quote, housing crisis is this. Many of the places where you find out where there's a, quote, housing crisis, it comes directly from poor management of areas. When I say poor management, what I mean is this. We're putting undue burden or burdensome regulations on home builders, on renters, things that are making it almost impossible for them to be able to actually make a living by renting and building. We have to remove those regulations. You look across the country, the places that have the lowest regulations and the most sensible regulations have the best and most affordable housing. It's a fact. Governments oftentimes create their own problems by being over-regulatory and burdensome with taxes. We have to make sure that we remove those barriers from home builders and renters so they can rent affordably and build affordably and people can afford the homes that they're building and renting."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Would you be for a red cap or some sort?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I would not be, because I don't think we need to cap the rent. What we need to do is we need to cap ourselves. We don't need to cap the folks that are making a living. We need to cap the government and make sure that we're not overreaching. It's always a thing where we want to reach over and stifle the entrepreneur, the person that's actually helping to supercharge our economy. That's not the person we want to stifle. Governments need to take a step back and realize it's their role to be fiscally responsible, not with their money, but with the taxpayers' money. In order to do that, we have to make sure that our regulations, number one, are sensible and endowed with common sense, and number two, are not an overreach in order to just be a money grab to build revenue."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I just wonder how do we do that as a government because the people who are charging the rent really are charging a whole bunch of rent."
+      }
+    ],
+    "speakername": "Mark Robinson",
+    "ground_truth": "A lot of them are charging a lot of rent, but they have to charge the rent to overcome some of the things that they're facing, whether it be from their county, whether it be from their city, or whether it be at the state level with regulations. So we need to take a good look at that.",
+    "bio": "The subject is a politician serving as lieutenant governor of a southeastern state since 2021. A member of a major political party, they are the first African-American to hold the office. After defeating their opponent in the 2020 lieutenant gubernatorial election, they succeeded the previous lieutenant governor, who had made an unsuccessful run for the governorship against the incumbent. Their political career has been characterized by promotion of conspiracy theories and numerous incendiary statements. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I would not be, because I don't think we need to cap the rent. What we need to do is we need to cap ourselves. We don't need to cap the folks that are making a living. We need to cap the government and make sure that we're not overreaching. It's always a thing where we want to reach over and stifle the entrepreneur, the person that's actually helping to supercharge our economy. That's not the person we want to stifle. Governments need to take a step back and realize it's their role to be fiscally responsible, not with their money, but with the taxpayers' money. In order to do that, we have to make sure that our regulations, number one, are sensible and endowed with common sense, and number two, are not an overreach in order to just be a money grab to build revenue."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I just wonder how do we do that as a government because the people who are charging the rent really are charging a whole bunch of rent."
+      },
+      {
+        "speaker": "[target]",
+        "text": "A lot of them are charging a lot of rent, but they have to charge the rent to overcome some of the things that they're facing, whether it be from their county, whether it be from their city, or whether it be at the state level with regulations. So we need to take a good look at that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "earlier she talked about was education and so child care is a big deal there's not a lot of choices out there and they're expensive so what do you do as governor to help that out"
+      }
+    ],
+    "speakername": "Mark Robinson",
+    "ground_truth": "Well, we've talked to a number of daycare owners since we've been in this office, the lieutenant governor's office. And I think one of the boats that we're missing across the board is this. We're not including the people in the industries fully. Now, when I say that, what I mean is oftentimes if we include people in the industry, it's the people at the highest levels of the industry. But what we oftentimes miss out on is the most important link in things like daycare. One of the most important links in daycare are not the big conglomerate daycares that we see, the chains. One of the things that's most important to communities are small, privately owned daycare centers. They oftentimes are the lifeblood of communities. We need to get some advice and consent from those folks on the challenges they face to bring solutions there. One of the biggest problems that those folks have right now is wages. They are struggling to compete with places like [restaurant chain] and [restaurant chain] and other fast food restaurants that are paying anywhere between $15 and $20 an hour.",
+    "bio": "[target] (born [date]) is an American politician serving as the lieutenant governor of [state] since 2021. A member of the Republican Party, he is the first African-American to hold the office. After defeating Democratic nominee [person name] in the 2020 lieutenant gubernatorial election, he succeeded Republican [person name], who had made an unsuccessful run for the governorship against incumbent Democrat [person name]. His political career has been characterized by promotion of conspiracy theories and numerous incendiary statements. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I just wonder how do we do that as a government because the people who are charging the rent really are charging a whole bunch of rent."
+      },
+      {
+        "speaker": "[target]",
+        "text": "A lot of them are charging a lot of rent, but they have to charge the rent to overcome some of the things that they're facing, whether it be from their county, whether it be from their city, or whether it be at the state level with regulations. So we need to take a good look at that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "earlier she talked about was education and so child care is a big deal there's not a lot of choices out there and they're expensive so what do you do as governor to help that out"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we've talked to a number of daycare owners since we've been in this office, the lieutenant governor's office. And I think one of the boats that we're missing across the board is this. We're not including the people in the industries fully. Now, when I say that, what I mean is oftentimes if we include people in the industry, it's the people at the highest levels of the industry. But what we oftentimes miss out on is the most important link in things like daycare. One of the most important links in daycare are not the big conglomerate daycares that we see, the chains. One of the things that's most important to communities are small, privately owned daycare centers. They oftentimes are the lifeblood of communities. We need to get some advice and consent from those folks on the challenges they face to bring solutions there. One of the biggest problems that those folks have right now is wages. They are struggling to compete with places like [restaurant chain] and [restaurant chain] and other fast food restaurants that are paying anywhere between $15 and $20 an hour."
+      }
+    ],
+    "speakername": "Mark Robinson",
+    "ground_truth": "And they're only able to afford to pay maybe $10 or $12 at the most. I believe as a legislature and as a governor in this state, we need to put our heads together with those folks and others to figure out a way where we can help those small businesses be successful. Because let's make no mistake about it. It's great to have the [company name], and it's great to have the big companies. But when folks go to work there, they're going to need daycare. And if we can't fill in that gap and we can't make an investment to fill in that gap, we're going to find ourselves in a bad spot with our workers. Our workers are going to either choose not to go to work and lean on government assistance or they're going to have to make some hard choices in their house. I think that we need to make some hard choices as a government to help those folks and fill in the gap. Now, what does that look like? I don't know because I have not sat down with those people at length to come up with that plan, but I know that we can. We've met these challenges before in our state and our country, and we can meet them again if we have the right people at the helm.",
+    "bio": "The target is an American politician serving as lieutenant governor of a southeastern state since 2021. A member of a major political party, they are the first African-American to hold the office. After defeating their opponent in the 2020 lieutenant gubernatorial election, they succeeded the previous lieutenant governor, who had made an unsuccessful run for the governorship against the incumbent. Their political career has been characterized by promotion of certain theories and numerous controversial statements. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "earlier she talked about was education and so child care is a big deal there's not a lot of choices out there and they're expensive so what do you do as governor to help that out"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we've talked to a number of daycare owners since we've been in this office, the lieutenant governor's office. And I think one of the boats that we're missing across the board is this. We're not including the people in the industries fully. Now, when I say that, what I mean is oftentimes if we include people in the industry, it's the people at the highest levels of the industry. But what we oftentimes miss out on is the most important link in things like daycare. One of the most important links in daycare are not the big conglomerate daycares that we see, the chains. One of the things that's most important to communities are small, privately owned daycare centers. They oftentimes are the lifeblood of communities. We need to get some advice and consent from those folks on the challenges they face to bring solutions there. One of the biggest problems that those folks have right now is wages. They are struggling to compete with places like McDonald's. And Chick-fil-A and other fast food restaurants that are paying anywhere between $15 and $20 an hour."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And they're only able to afford to pay maybe $10 or $12 at the most. I believe as a legislature and as a governor in this state, we need to put our heads together with those folks and others to figure out a way where we can help those small businesses be successful. Because let's make no mistake about it. It's great to have the Toyotas, and it's great to have the big companies. But when folks go to work there, they're going to need daycare. And if we can't fill in that gap and we can't make an investment to fill in that gap, we're going to find ourselves in a bad spot with our workers. Our workers are going to either choose not to go to work and lean on government assistance or they're going to have to make some hard choices in their house. I think that we need to make some hard choices as a government to help those folks and fill in the gap. Now, what does that look like? I don't know because I have not sat down with those people at length to come up with that plan, but I know that we can. We've met these challenges before in our state and our country, and we can meet them again if we have the right people at the helm."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You had talked about the negativity of the ads. And I think we've all seen negative ads all of our life. But it seems like this year it is really ratcheted up."
+      }
+    ],
+    "speakername": "Mark Robinson",
+    "ground_truth": "It has, and it's very sad because I've always said this. If you're a candidate for governor or a candidate for school board or a candidate for president, if you're going to spend 90% of your time kicking the legs out from underneath your opponent, it's kind of plain you maybe don't have enough legs to stand up on your own. I would think if you're such a great candidate, if you're such a fine and qualified candidate to be the governor or to be the president or be that state senator, you would have so many plans and so many agendas that you want to talk about and so many issues you want to talk about with your constituents that you would spend 95% of your time talking about your plans, talking about what you intend to do. But we don't see that a lot. What we see a lot of is people trying to smirch other people's character to knock somebody else down, to ratchet themselves up. I think the people of this state and, quite frankly, the nation, they're starting to see through that. They're starting to see right through the heart of the matter. And they're starting to ask the essential question, what have you really done? What are you willing to do? What have you laid out as your plan to help the people? And when they don't see any substance there, oftentimes those negative ads don't want them.",
+    "bio": "Mark Keith Robinson (born August 8, 1968) is an American politician serving as the 35th lieutenant governor of North Carolina since 2021. A member of the Republican Party, he is the first African-American to hold the office. After defeating Democratic nominee Yvonne Lewis Holley in the 2020 lieutenant gubernatorial election, he succeeded Republican Dan Forest, who had made an unsuccessful run for the governorship against incumbent Democrat Roy Cooper. His political career has been characterized by promotion of conspiracy theories and numerous incendiary statements. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And they're only able to afford to pay maybe $10 or $12 at the most. I believe as a legislature and as a governor in this state, we need to put our heads together with those folks and others to figure out a way where we can help those small businesses be successful. Because let's make no mistake about it. It's great to have the Toyotas, and it's great to have the big companies. But when folks go to work there, they're going to need daycare. And if we can't fill in that gap and we can't make an investment to fill in that gap, we're going to find ourselves in a bad spot with our workers. Our workers are going to either choose not to go to work and lean on government assistance or they're going to have to make some hard choices in their house. I think that we need to make some hard choices as a government to help those folks and fill in the gap. Now, what does that look like? I don't know because I have not sat down with those people at length to come up with that plan, but I know that we can. We've met these challenges before in our state and our country, and we can meet them again if we have the right people at the helm."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You had talked about the negativity of the ads. And I think we've all seen negative ads all of our life. But it seems like this year it is really ratcheted up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It has, and it's very sad because I've always said this. If you're a candidate for governor or a candidate for school board or a candidate for president, if you're going to spend 90% of your time kicking the legs out from underneath your opponent, it's kind of plain you maybe don't have enough legs to stand up on your own. I would think if you're such a great candidate, if you're such a fine and qualified candidate to be the governor or to be the president or be that state senator, you would have so many plans and so many agendas that you want to talk about and so many issues you want to talk about with your constituents that you would spend 95% of your time talking about your plans, talking about what you intend to do. But we don't see that a lot. What we see a lot of is people trying to smirch other people's character to knock somebody else down, to ratchet themselves up. I think the people of this state and, quite frankly, the nation, they're starting to see through that. They're starting to see right through the heart of the matter. And they're starting to ask the essential question, what have you really done? What are you willing to do? What have you laid out as your plan to help the people? And when they don't see any substance there, oftentimes those negative ads don't want them."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What is the one thing, if you were elected governor, what's the one policy or whatever that you really want to do, make sure that you get accomplished?"
+      }
+    ],
+    "speakername": "Mark Robinson",
+    "ground_truth": "Well, you know, I wouldn't say it's one thing in particular. We talked about those five pillars of our economy, and we talked about building an economy through those five pillars and how the governor plays a role in that. But the ultimate goal here for me is this. One of the things, well, actually the thing that distressed me the most is when I was running for lieutenant governor and I traveled to all 100 counties in this state, the disparaging of economic opportunity in this state from one point in the state to the other. You go through Grainsboro and Charlotte and High Point and Winston and Rollitt, you know, and you see great economic opportunity everywhere you turn. But you head east and you head west, and all of a sudden you see what some people say is a lack of opportunity. What I see when I travel this state to the east and western part of the states is not lack of opportunity. I see opportunities not taken advantage of. It's time for this state to stand up and start taking advantage of those opportunities. So the ultimate goal here through working through the governor's mansion and working with the legislature to continue to build our economy is a dream that I have to build an economy in this state that spans from Murphy to Mania. And as you drive across this state, you don't see any more of those economically depressed places. You see vibrant places where people are making a great living right where they live, no matter what their zip code is. And that is the ultimate goal. And for me, being governor, I know I couldn't do that in four years or even eight years. But many, many years from now, if I'm an old man and I look back and I say, hey, I was part of the team to start the process that made this state even greater and built this great economy that spans from Murphy to Mania, I think that probably would be my proudest accomplishment.",
+    "bio": "Mark Keith Robinson (born August 8, 1968) is an American politician serving as the 35th lieutenant governor of North Carolina since 2021. A member of the Republican Party, he is the first African-American to hold the office. After defeating Democratic nominee Yvonne Lewis Holley in the 2020 lieutenant gubernatorial election, he succeeded Republican Dan Forest, who had made an unsuccessful run for the governorship against incumbent Democrat Roy Cooper. His political career has been characterized by promotion of conspiracy theories and numerous incendiary statements. The speaker's MBTI type is ESTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "global company we started about two and a half years ago we had one of those moments where we thought we were really big and worth a lot of money and then we realized that the local market is relatively small on a global scale and for us to really realize our value we have to expand so two and a half years ago we did 1% of our sales outside of the country now it's almost 35% we're in multiple international markets so we've learned a lot just like a lot of your readers about expansion"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because we've never done that before."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is it correct that about 25% of your business is now in the international market?"
+      }
+    ],
+    "speakername": "Robert Herjavec",
+    "ground_truth": "It's about 22% to 25% and the rest in international markets. But it's so interesting because if you look at",
+    "bio": "The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because we've never done that before."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is it correct that about 25% of your business is now in the U.S.?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's about 22% to 25% and the rest in the major European market and the remainder in the Pacific region. But it's so interesting because if you look at"
+      }
+    ],
+    "speakername": "Robert Herjavec",
+    "ground_truth": "exporting because a lot of small companies don't think about going outside the borders you know you start with one office in your house then you get a real office then you say oh if i had another location in the city and then another state and so on and for us you know especially as people from our country we tend to be a little too nice at times we're like oh we shucks we can't compete with those people from other major markets and the key to exporting was simply going up and doing it and once we did it we realized that there's a lot of similarities in our market across the globe",
+    "bio": "The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is it correct that about 25% of your business is now in the regional market?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's about 22% to 25% and the rest in the overseas market and the remainder in another international market. But it's so interesting because if you look at"
+      },
+      {
+        "speaker": "[target]",
+        "text": "exporting because a lot of small companies don't think about going outside the borders you know you start with one office in your house then you get a real office then you say oh if i had another location in the city and then another state and so on and for us you know especially as citizens from our country we tend to be a little too nice at times we're like oh we shucks we can't compete with those companies from other countries and those people overseas and the key to exporting was simply going up and doing it and once we did it we realized that there's a lot of similarities in our market across the globe"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So who has the worst cyber security problems right now? Where are you getting the most business?"
+      }
+    ],
+    "speakername": "Robert Herjavec",
+    "ground_truth": "It's very interesting, so there's two elements to it. The first one is we used to only sell to a certain vertical, large scale financials. So our market is very segregated. There's people that do the low end of the market and there's people, you know, I always say you don't want to be the major manufacturer of cyber security. You don't want to be the middle market car. You want to be either high end or you want to be low end. And so we tend to focus on very large, complex companies. We only sell to very large enterprises and we're very clear about that. But I would say that every company today is a computer company. Whether you're in mining, whether you're in manufacturing, you're a computer company. If you're a computer company, you're online and you have a cyber threat. So we're seeing a lot of stuff here, obviously in this country, but I would say the number one sector is health care. We were recently at a major government security agency, who we have a relationship with and know a lot of people there, and we went to see them and they have a group that is supposed to look after infrastructure. You would think like utilities, nuclear plants, and they're spending all their time fighting ransomware at hospitals.",
+    "bio": "The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "exporting because a lot of small companies don't think about going outside the borders you know you start with one office in your house then you get a real office then you say oh if i had another location in the city and then another state and so on and for us you know especially as we tend to be a little too nice at times we're like oh we shucks we can't compete with those people overseas and the key to exporting was simply going up and doing it and once we did it we realized that there's a lot of similarities in our market across the globe"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So who has the worst cyber security problems right now? Where are you getting the most business?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's very interesting, so there's two elements to it. The first one is we used to only sell to a certain vertical, large scale financials. So our market is very segregated. There's people that do the low end of the market and there's people, you know, I always say you don't want to be the generic car manufacturer of cyber security. You don't want to be the middle market car. You want to be either high end or you want to be low end. And so we tend to focus on very large, complex companies. We only sell to very large enterprises and we're very clear about that. But I would say that every company today is a computer company. Whether you're in mining, whether you're in manufacturing, you're a computer company. If you're a computer company, you're online and you have a cyber threat. So we're seeing a lot of stuff here, but I would say the number one sector is health care. We were recently at a federal security agency, who we have a relationship with and know a lot of people there, and we went to see them and they have a group that is supposed to look after infrastructure. You would think like utilities, nuclear plants, and they're spending all their time fighting ransomware at hospitals."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I mean, cyber security and hacker attacks have been in the news so much, whether it's the data leaks."
+      }
+    ],
+    "speakername": "Robert Herjavec",
+    "ground_truth": "You know about the large cyber breach last week. Yes, yes. It brought down major social media platforms, e-commerce sites for a while. It did. One of the reasons that that was so catastrophic was because of the Internet of Things.",
+    "bio": "The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So who has the worst cyber security problems right now? Where are you getting the most business?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's very interesting, so there's two elements to it. The first one is we used to only sell to a certain vertical, large scale financials. So our market is very segregated. There's people that do the low end of the market and there's people, you know, I always say you don't want to be the GM of cyber security. You don't want to be the middle market car. You want to be either high end or you want to be low end. And so we tend to focus on very large, complex companies. We only sell to very large enterprises and we're very clear about that. But I would say that every company today is a computer company. Whether you're in mining, whether you're in manufacturing, you're a computer company. If you're a computer company, you're online and you have a cyber threat. So we're seeing a lot of stuff here, but I would say the number one sector is health care. We were recently at a federal security agency, who we have a relationship with and know a lot of people there, and we went to see them and they have a group that is supposed to look after infrastructure. You would think like utilities, nuclear plants, and they're spending all their time fighting ransomware at hospitals."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I mean, cyber security and hacker attacks have been in the news so much, whether it's the data leaks."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know about the large cyber breach last week. Yes, yes. It brought down major social media and e-commerce platforms for a while. It did. One of the reasons that that was so catastrophic was because of the Internet of Things."
+      }
+    ],
+    "speakername": "Robert Herjavec",
+    "ground_truth": "What people don't realize is as you connect everything to the internet, from your fridge to your baby monitor, all those things can become relay points for a large, massive cyber breach and an attack. And so one of the reasons the attack last week was so bad is they actually used home-connected devices to relay in attack stations.",
+    "bio": "The speaker's MBTI type is ENFJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Trump dominates and Kamala Harris loses ground and the country will be feeling the impact of this week for decades to come. Welcome to The Issue Is. I'm Alex Michelson. We got a lot to unpack, so we brought in some of the big guns this week. On our panel for the first time is Democratic Congresswoman [target], who represents [LOCATION] in the House for the next few months. She ran for Senate earlier this year and she has gone viral for years explaining complicated concepts with her famous whiteboard. I don't think she brought the whiteboard today, but we still will get into the complicated concepts. Also with us this week is Peter Hamby, who is the host of Puck's Powers That Be podcast, and he also is the host of Good Luck America on Snapchat, where he recently traveled the country talking to young voters. Great to have both of you here. Thanks for being here. Congresswoman, let's start with you. What happened? Why did Trump win?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think there's probably a lot of things going on. I would remind people at the start of this that while Trump won the presidency, Democrats actually fared pretty well in a lot of ways this election cycle. We won in a lot of states that Trump won, right? [LOCATION], [LOCATION], where we got majorities in the legislature. And the House, I think, is still potentially on a path to Democratic control. So I don't think this is a mandate. I think that Democrats need to continue to fight for the American people, to fight for the issues that matter most to people. And I think in this next immediate aftermath, we need to avoid the blame and instead talk about and be responsive to our constituents. So on election night, I was with I went to pick up my daughter from water polo practice and she's 12 and she got in the car and she was crying. And I said, did someone punch you? Like water polo is a rough sport. I was like, did someone hit you? Did the coach yell at you? What happened? And she said. And I was like, did someone hit you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Mom, Trump won. Trump's going to win. And what if I get raped and I need to have an abortion? This is from a 12-year-old, my 12-year-old daughter. And so it was really a reminder of how scary this time is for people and how important it is for Democrats to have strategies, both at the state level and the federal level, to make sure that we can continue to protect people's rights."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Let me push back a second on the concept that this wasn't sort of a mandate. I mean, he won every single swing state and he gained in almost every single county in the country, gaining in [LOCATION]. Well, I think [LOCATION]."
+      }
+    ],
+    "speakername": "Katie Porter",
+    "ground_truth": "Yeah. I mean, I think gaining is really different than saying, like, everybody agrees, which is how I think about a mandate. OK, so let me.",
+    "bio": "Born January 3, 1974, the speaker is an American law professor, attorney, and politician serving as the U.S. Representative for [LOCATION]'s 45th congressional district since 2019. A member of the Democratic Party, they are the first Democrat to be elected to represent the district, which covers much of south-central [LOCATION], including [LOCATION], [LOCATION] and [LOCATION] along with large slices of [LOCATION] and [LOCATION]. The speaker attended [LOCATION] University and [LOCATION] University; they most recently taught at the University of [LOCATION]. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Mom, [Political Figure] won. [Political Figure] is going to win. And what if I get raped and I need to have an abortion? This is from a 12-year-old, my 12-year-old daughter. And so it was really a reminder of how scary this time is for people and how important it is for Democrats to have strategies, both at the state level and the federal level, to make sure that we can continue to protect people's rights."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Let me push back a second on the concept that this wasn't sort of a mandate. I mean, he won every single swing state and he gained in almost every single county in the country, gaining in [State]. Well, I think [County]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. I mean, I think gaining is really different than saying, like, everybody agrees, which is how I think about a mandate. OK, so let me."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "It's not 1980. It's not 1984. That's right."
+      }
+    ],
+    "speakername": "Katie Porter",
+    "ground_truth": "So, look, I think it's important for us to think about what were the issues and what were the voters that moved toward him. Clearly, Americans feel anxious about economic opportunity. They feel anxious about where our economy is in the world. Younger voters in particular, I think, worry about are they going to be able to afford housing? Are they going to be able to afford to start an economy? What will AI mean for those jobs? And I do think Vice President Harris had a good message on those things. But [Political Figure] ran a very chaotic, noisy campaign. And I think to the extent it was just hard for that message to penetrate.",
+    "bio": "Born January 3, 1974, the subject is a law professor, attorney, and politician serving as the U.S. Representative for a congressional district since 2019. A member of the Democratic Party, they are the first Democrat to be elected to represent the district, which covers much of a south-central county in their state, including several cities. The subject attended two prestigious universities and most recently taught at a public university law school. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I was going to ask that and I'm on the show."
+      },
+      {
+        "speaker": "[target]",
+        "text": "way because it is a decision yep it's not just the west state it's actually most of the west coast so north state west state south state increasingly we have decided that we want to give people the entirety of election day to cast their ballot and to be able to cast their ballot on election day in the way that works best for them which means we can't count the ballots at eight o'clock because they're still being poked into the drop box at 7 59 people are still postmarking them and they're on mail trucks and they're coming in so look the research is really clear when you have this kind of system you allow more people to participate in our democracy you have a more representative democracy it's procrastinators we all know them i'm not one but there are a lot of them out there and we they should have just as much a right to be heard in the election as others so it does take a few more days but it's a very very good election system and it allows people who maybe can't get time off work to drop it off at eight o'clock who may be in the same lane at the same time they're in the same lane they're in the same lane they're in the same lane they're in the same lane they're in the same lane they're in the same lane they're Maybe can't stand in line for three and four hours like we saw in my congressional district this cycle. The lines at the public university were four and five hours long at times. So it does permit people to be able to vote in the way that's best for them."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "So we're allowing for people to mail in ballots which have to come in. We're doing signature verification on all the mail-in ballots, which takes time. If there's an error on the signature verification, we give people time to fix it so that they make sure that their ballot is counted, which is why it takes a lot longer. And we have seen voter participation go way up because of this. In 2020, we were at over 70 percent voter registration, or voter participation, which was the highest that we saw since 1952."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I really like this proud state resident vibe coming from you because I really do think"
+      }
+    ],
+    "speakername": "Katie Porter",
+    "ground_truth": "That we ought to be asking ourselves in some of these states where it's gotten more difficult to vote over the last four years, what is the cost of that? So we are seeing an electorate in some of these states where, yes, it swung for the former president, and I think there's something real there. But we also had a lot of states where it became more difficult to vote, and people were purged from the rolls, and the system of voting is more difficult.",
+    "bio": "Born January 3, 1974, is an American law professor, attorney, and politician serving as the U.S. Representative for a congressional district since 2019. A member of the Democratic Party, they are the first Democrat to be elected to represent the district, which covers much of a southern county, including several cities. They attended two prestigious universities and most recently taught at a public university law school. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I absolutely agree with that. And I think, look, there are a lot of people who [prominent political figure] made clear are going to be kind of in his line of sight, both people who maybe are DACA students, people who are worried about abortion, people who are trans. Like there are a lot of people who are having a lot of anxiety. It's not just I disagree. It's actually we had a presidential candidate who said, I'm going to come and I'm going to go get them. I'm going to go harm them. I'm going to go take away things from them. And so I think it's absolutely appropriate. Look, we have a federalist system. We are the, as [state official] said in his tweet, we should call him [state official]. But as [state official] said in his tweet, we are the United States of America. And I agree with Peter. It's appropriate for states to take action. And also everybody."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And also every, by the way, like, like it or not, how many Republican attorneys general filed lawsuits against the current administration the whole time? Like if a Republican governor did the same thing, you know, like they would also say this is like state's rights. You know, that's the 10th Amendment. It's part of the checks and balances."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So when we talk, there's been so much talk about what can we do at the federal level to potentially check [prominent political figure]? And, you know, I think winning the House is one of the things. And I was certainly part of that check in 2018. But the other is to recognize that our states and even our localities do have the ability to curb some of that excess or to prevent some of that harm."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "We just got some of the law professor, [target], there for a second. So let's look into the future now. [prominent political figure] was the first Democratic presidential nominee ever from [state], somebody that you know well, used to work for. What do you think's next for her? Do you think she's going to run for governor?"
+      }
+    ],
+    "speakername": "Katie Porter",
+    "ground_truth": "Well, I hope some rest is next for her. I have a little bit of a taste of how tiring a campaign is. But look, this is somebody who truly has spent her entire career in government service, in public service, and has continued to seek out new opportunities pretty aggressively. So I can't say exactly what that's going to look like for her, but I would be surprised if this is the last we've seen of her willingness to serve the American people and [state] residents in particular.",
+    "bio": "Born January 3, 1974, is an American law professor, attorney, and politician serving as the U.S. Representative for a congressional district since 2019. A member of the Democratic Party, they are the first Democrat to be elected to represent the district, which covers much of a south-central county, including several cities. They attended two prestigious universities and most recently taught at a public university law school. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So when we talk, there's been so much talk about what can we do at the federal level to potentially check [masked name]? And, you know, I think winning the legislature is one of the things. And I was certainly part of that check in 2018. But the other is to recognize that our states and even our localities do have the ability to curb some of that excess or to prevent some of that harm."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "We just got some of the law professor, [target], there for a second. So let's look into the future now. [masked name] was the first Democratic presidential nominee ever from [masked state], somebody that you know well, used to work for. What do you think's next for her? Do you think she's going to run for governor?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I hope some rest is next for her. I have a little bit of a taste of how tiring a campaign is. But look, this is somebody who truly has spent her entire career in government service, in public service, and has continued to seek out new opportunities pretty aggressively. So I can't say exactly what that's going to look like for her, but I would be surprised if this is the last we've seen of her willingness to serve the American people and [masked state] in particular."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "What about governor?"
+      }
+    ],
+    "speakername": "Katie Porter",
+    "ground_truth": "And I don't know what she's thinking. I don't know what all we have a big race is coming up in twenty twenty six. And I do think it's not just our governor's race, but we have all of the constitutional officers really coming up in twenty six.",
+    "bio": "Born January 3, 1974, the target is a law professor, attorney, and politician serving as a Representative since 2019. A member of the Democratic Party, they are the first Democrat to be elected to represent their district, which covers much of a south-central county in their state, including several cities. The target attended two prestigious universities and most recently taught at a public university law school. The speaker's MBTI type is ESTJ"
+  }
+]

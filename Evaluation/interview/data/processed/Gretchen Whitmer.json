@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "From a major national newspaper, this is The Interview. I'm Lulu Garcia-Navarro. There is one thing that's certain about this year's election. Whatever the result, it will be the end of an era, opening the door to a new generation of political leaders. And for Democrats, there are few politicians buzzier than [state] Governor [target]. After serving in the [state] state legislature, [target] was elected to the governorship in 2018. And when COVID hit, she became a national lightning rod for some of the restrictions she put in place, taking hits from the former president, whose rhetoric she blames for inspiring an assassination attempt against her. But it was what [target] achieved in 2022 that really cemented her as a political force. That year, she was reelected on the back of a reproductive rights ballot referendum. She also achieved something that hadn't happened in nearly 40 years in [state]. With the help of redistricting, she gave Democrats a trifecta, with both the state House and the Senate flipping to blue. In the past few years, [target] has leveraged that majority to enact a progressive wish list of policies, including basic but meaningful gun control legislation, a new clean energy plan. And she's also been pushing for educational reforms like universal pre-K and free community college. [target] is term limited, though. Her governorship will end in 2026. And there's a lot of speculation. What's next for her? Like many politicians with national ambitions, she's written a new book about her life and vision for the country. It's called True [nickname]. She's also raising her profile as co-chair of President Biden's reelection campaign. We talk about Biden's challenges in the second half of our conversation and about whether she can deliver the must-win state of [state]. Here's my conversation with Governor [target]. I want to get the elephant out of the room, which is you're releasing this memoir in the middle of the 2024 election cycle. So what's your take on that? Well, first of all, I just want to say thank you so much for having me on the show. I really appreciate it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bye now."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So it's less of a memoir and more of like a handbook. The question I get whenever I'm traveling, even within [state], but certainly outside of [state] as well, is how do I stay positive? And all the ugliness and craziness that I've had to lead the state of [state] through, how do I stay positive? Why do I want to keep doing this work? And I thought, you know, this is going to be another heavy year, 2024. Sure is. It's going to feel very dark at times with the political rhetoric and this important election coming up. And I thought, if I can put some light out into the world right now, maybe you can laugh at my expense. Or maybe there's a little inspiration here that'll help you get through whatever you were navigating."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Were you worried about how it was going to be perceived, though, putting it there at this moment? Because you can put light into the dark at any time. But this is, as you mentioned, just a very important election, and you are a very prominent Democrat."
+      }
+    ],
+    "speakername": "Gretchen Whitmer",
+    "ground_truth": "You know what? I can't worry about how everything's going to be perceived. That's one lesson I certainly have learned in the last six years. No matter what I do or say, people are going to have their own take on it. So you got to do what you know the right thing to do is.",
+    "bio": "The speaker (born August 23, 1971) is an American politician serving as the 49th governor of a midwestern state. A member of the Democratic Party, they served in the state House of Representatives from 2001 to 2006 and in the state Senate from 2006 to 2015. The speaker was born and raised in the same state. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So it's less of a memoir and more of like a handbook. The question I get whenever I'm traveling, even within the state, but certainly outside of the state as well, is how do I stay positive? And all the ugliness and craziness that I've had to lead the state through, how do I stay positive? Why do I want to keep doing this work? And I thought, you know, this is going to be another heavy year, 2024. Sure is. It's going to feel very dark at times with the political rhetoric and this important election coming up. And I thought, if I can put some light out into the world right now, maybe you can laugh at my expense. Or maybe there's a little inspiration here that'll help you get through whatever you were navigating."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Were you worried about how it was going to be perceived, though, putting it there at this moment? Because you can put light into the dark at any time. But this is, as you mentioned, just a very important election, and you are a very prominent Democrat."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know what? I can't worry about how everything's going to be perceived. That's one lesson I certainly have learned in the last six years. No matter what I do or say, people are going to have their own take on it. So you got to do what you know the right thing to do is."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "This book did help me understand you as a person. It is a book that talks a lot about your own personal story, how you view the world. You write in the book about how you partied in high school and college, and that you didn't really become ambitious until you got into law school. You talk about how you actually threw up on your principal who found you passed out in the parking lot from drinking. And first of all, like mortifying, but you didn't include this in your book for no reason. So I'm curious, what were you hoping?"
+      }
+    ],
+    "speakername": "Gretchen Whitmer",
+    "ground_truth": "to show? Well, every one of us has our flaws, right? That was a period of time when, you know, I was not particularly disciplined and was focused more on having fun. And that's okay, too. I learned a lot during that period of time. But it was that real big screw up that taught me each phase in life, you learn things, you've got opportunities. And my mom and I, we had a very tough relationship during that period of time, as I would have had with my daughters if they'd been as wild as I was at that age. But I also was the moment where I really learned who I was. And when I went to law school is when it all started to click for me. So I was a little bit more of a late bloomer than my sister was. But by the same token, I think these are lessons that help keep me humble. And fortunately, when I was a teenager, we didn't all have phones where we could film one another making, you know, not the greatest judgment. Yeah.",
+    "bio": "The subject (born August 23, 1971) is an American politician serving as the governor of their state. A member of the Democratic Party, they served in the State House of Representatives from 2001 to 2006 and in the State Senate from 2006 to 2015. The subject was born and raised in their home state. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "For sure."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'll see you next time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And in."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "fact you make a point that humor and being able to not take yourself so seriously is part of what you think makes you a powerful politician in a way. You actually put a picture of yourself in the book missing a front tooth because you had an accident growing up. So first of all, it's funny that you married a dentist, right? As a woman, though, we're always so attuned to the way we look, how we're perceived. I mean, women we know and specifically in politics get judged a lot more harshly. Do you worry?"
+      }
+    ],
+    "speakername": "Gretchen Whitmer",
+    "ground_truth": "I do, you know, especially at the beginning of my career as a young woman in going into politics. Women, of course, you know, we can't just switch out ties every day. We've got to be mindful of what we wear on top of how we look, etc. And so it can get expensive. Most of the things that I wear and buy are actually secondhand. And I rented a dress from a clothing rental service to give my first state address speech in. And the predominantly opposition party legislature to whom I was addressing at the time, I knew that there were a lot of things that they weren't going to share as terms of values and vision for the state when I laid out the vision. But I wanted to feel confident going in. I wore this, I thought, attractive blue dress. Oh my God, the fashion police showed up the next day. The critique was not about what I said or the important message that I shared. It was about what I was wearing. And they actually interviewed people about how they thought I looked in that dress. And, you know, as the mother of two young women, it was just crushing, not because it hurt my feelings, but because here I am laying out a vision for a state after just getting elected the chief executive officer of a state of 10 million people, where we have serious issues to tackle. And that's what I was talking about. And the focus was what I was on what I was wearing. And I think that we deal with a lot more of that than than men ever do. And I am mindful of it. Because I want people to focus on what I'm saying, not not anything else.",
+    "bio": "[target] (born August 23, 1971) is an American politician serving as the 49th governor of a midwestern state. A member of the Democratic Party, they served in the state House of Representatives from 2001 to 2006 and in the state Senate from 2006 to 2015. [target] was born and raised in the midwestern state. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "fact you make a point that humor and being able to not take yourself so seriously is part of what you think makes you a powerful politician in a way. You actually put a picture of yourself in the book missing a front tooth because you had an accident growing up. So first of all, it's funny that you married a dentist, right? As a woman, though, we're always so attuned to the way we look, how we're perceived. I mean, women we know and specifically in politics get judged a lot more harshly. Do you worry?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do, you know, especially at the beginning of my career as a young woman in going into politics. Women, of course, you know, we can't just switch out ties every day. We've got to be mindful of what we wear on top of how we look, etc. And so it can get expensive. Most of the things that I wear and buy are actually secondhand. And I rented a dress from a clothing rental service to give my first state speech in. And the predominantly Republican legislature to whom I was addressing at the time, I knew that there were a lot of things that they weren't going to share as terms of values and vision for the state when I laid out the vision. But I wanted to feel confident going in. I wore this, I thought, attractive blue dress. Oh my God, the fashion police showed up the next day. The critique was not about what I said or the important message that I shared. It was about what I was wearing. And they actually interviewed people about how they thought I looked in that dress. And, you know, as the mother of two young women, it was just crushing, not because it hurt my feelings, but because here I am laying out a vision for a state after just getting elected the chief executive officer of a state of 10 million people, where we have serious issues to tackle. And that's what I was talking about. And the focus was what I was on what I was wearing. And I think that we deal with a lot more of that than than men ever do. And I am mindful of it. Because I want people to focus on what I'm saying, not not anything else."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you say you're mindful of it do you forefront your gender or do you pretend that it's not there i'm not going to talk about it i'm a person in a suit and and my gender doesn't matter or do you feel that there is a different thing that as a female politician you bring to the table"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I go back and forth, to be honest, Lulu. I think that there are moments where"
+      }
+    ],
+    "speakername": "Gretchen Whitmer",
+    "ground_truth": "um you might take a situation as a learning opportunity to educate someone there are moments where when you're talking about something that is inherently gender based reproductive rights for instance talk about my experience as a woman as a sexual assault survivor there are moments where i ignore the noise and just muster through it's i think a calculation a calculation maybe sounds too um you know planning it's a assessment that women have to make at all times colleague when i was in the senate came up to me and said something totally out of bounds and very over the line and i remember sitting there thinking i've got to figure out how to respond to this can i educate him why what he just said is totally inappropriate do i ignore it do i laugh and brush it off and tell him you know that he's foolish do i take it on in a very serious way and it's sometimes exhausting to figure out how do i have to respond to someone else's bad behavior but i am mindful because i think about the women who come after me or my my own daughters and what did you decide well in that one i i responded with some very colorful language and put him in his place and he never bothered me again",
+    "bio": "The target (born August 23, 1971) is an American politician serving as the 49th governor of a midwest state. A member of the Democratic Party, they served in the state House of Representatives from 2001 to 2006 and in the state Senate from 2006 to 2015. The target was born and raised in the midwest state. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you say you're mindful of it do you forefront your gender or do you pretend that it's not there i'm not going to talk about it i'm a person in a suit and and my gender doesn't matter or do you feel that there is a different thing that as a female politician you bring to the table"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I go back and forth, to be honest, Lulu. I think that there are moments where"
+      },
+      {
+        "speaker": "[target]",
+        "text": "um you might take a situation as a learning opportunity to educate someone there are moments where when you're talking about something that is inherently gender based reproductive rights for instance talk about my experience as a woman as a sexual assault survivor there are moments where i ignore the noise and just muster through it's i think a calculation a calculation maybe sounds too um you know planning it's a assessment that women have to make at all times colleague when i was in the senate came up to me and said something totally out of bounds and very over the line and i remember sitting there thinking i've got to figure out how to respond to this can i educate him why what he just said is totally inappropriate do i ignore it do i laugh and brush it off and tell him you know that he's foolish do i take it on in a very serious way and it's sometimes exhausting to figure out how do i have to respond to someone else's bad behavior but i am mindful because i think about the women who come after me or my my own daughters and what did you decide well in that one i i responded with some very colorful language and put him in his place and he never bothered me again"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I want to talk a little bit about you as a political leader, because one of the reasons you are viewed as this rising star for Democrats is that you are a popular governor in a battleground state. In 2022, you got a trifecta for the Democrats. You won the House, you won the Senate, and you won the governorship. I guess my question is, there's two ways that you can move when something like that happens, especially in a state that is so closely divided. You can decide to do what some governors in red states and purple states have done, which is to say, I'm going to be a centrist, I'm going to move more incrementally. Or you can enact what is a very partisan agenda, right? You took that second route. What was the calculation there? Why did you decide, I'm going to..."
+      }
+    ],
+    "speakername": "Gretchen Whitmer",
+    "ground_truth": "really try and run with the ball well we ran on an agenda and people elected us on that agenda and so my philosophy is if people have have elected you to do something do it don't waste time don't make excuses deliver and i'm i'm grateful that i've got this second term a lot of folks are writing my political obituary going into the re-elect in 2022 i ended up winning by almost 11 points and that for me made me feel very confident that people expected me to lead on the issues on which i was running i also though want to make sure to recognize i think you can't win an election in this state by double digits if you're not also drawing over people who are not traditional democrats and i'm proud of that one of the stories in the book i tell is about my friend randy richardville the republican leader and we had a lot of knockdown dragouts when i was the democratic leader in the senate he was the republican leader he was in the majority we did battle we'd also often though also end the day going and grabbing a beer together because i think that it's important to not take things personally but to stay focused on on doing the job and also trying to continue to build relationships with diverse sets of interests and people that's what our system is supposed to be about",
+    "bio": "The target (born August 23, 1971) is an American politician serving as the 49th governor of a midwestern state. A member of the Democratic Party, they served in the state House of Representatives from 2001 to 2006 and in the state Senate from 2006 to 2015. The target was born and raised in the same state. The speaker's MBTI type is ENTJ"
+  }
+]

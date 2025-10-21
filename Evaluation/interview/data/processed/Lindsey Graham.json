@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It doesn't matter what Pete says. It doesn't matter how many phone calls are made. What matters is how it ends. If it ends in a way to deter future aggression and to stabilize the continent of Europe, he'll get his fair share of credit. If it ends the right way to keep normalization back on track, then that will be a home run. If it ends badly, he owns it. So that's why I don't get wrapped around the axle about who says what. You own the outcome here. There is no getting away from owning it. And I do believe that President Trump is the best person we could have in America to get a good deal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "He said yesterday, he was asked, about who was to blame for the war. He said, quote, there's a lot of people to blame. Now, look, I understand he's looking for maximum leverage here at the bargaining table, and he's not going to want to upset the leader off in the moment. But Senator, I sort of wonder about, even in the past, the president's never been able to say that the opposing nation launched a war of aggression. Why can't he just say that, do you think? I guess..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "he believes he's saying what he's saying to get the best deal he thinks"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "now, but I mean in the past, he's never said, yeah."
+      }
+    ],
+    "speakername": "Lindsey Graham",
+    "ground_truth": "Who cares? Yeah. It's how it ends. It was a war of aggression. You know, the leader, you know, all the people who are- But why can't he say that and you can't so easily? Because he's gonna negotiate, not you.",
+    "bio": "The target (born July 9, 1955) is an American politician and retired military colonel serving as the senior United States Senator from a southern state, a seat held since 2003. The target is a member of the Republican Party.\nA native of a small town in the southern state, the target graduated from a state university in 1977. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "he believes he's saying what he's saying to get the best deal he thinks"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "now, but I mean in the past, he's never said, yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Who cares? Yeah. It's how it ends. It was a war of aggression. You know, [foreign leader], you know, all the people who are- But why can't he say that and you can't so easily? Because he's gonna negotiate, not you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Lindsey Graham",
+    "ground_truth": "I trust him to understand that the best deal to be had is from being strong, but also being reasonable. So to all the people criticizing [former president], what did you do to get it right? I've been here so many times. Every time I'd come, [political figure] gets stuck to the roof. They don't get it. They don't understand who we're dealing with. [political figure] happened to be right. Now, what is [former president] doing? He's trying to keep lines of communication. He's saying, I have a good relationship with [foreign leader]. I have a good relationship with [foreign leader]. That's fine with me. So I am telling President [former president] and my colleagues in the [legislative body] and the [legislative body], we better get this right. And we better learn from 2014. If we do the same old thing, then we're gonna get the same outcome. And I'm hoping that President [former president] understands that. You're now in charge of ending this war. I agree with you. It would not have happened if you had been president, but it did happen. You are going to be the main person to end this war. And it has to end in a fashion that will create stability we have lost. How do you negotiate with [foreign leader]?",
+    "bio": "[target] (born July 9, 1955) is an American politician and retired military officer serving as the senior United States Senator from [state], a seat held since 2003. The individual is a member of the Republican Party.\nA native of [city], [state], [target] graduated from the [university] in 1977. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "negotiate with [foreign leader]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "from strength."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Lindsey Graham",
+    "ground_truth": "Listen, if you told him in 2014, you invade again, [country] is in [organization], they wouldn't invade it. Yeah. If you'd have put [country], I'm not, you know, [foreign leader] is a thug and a bully. He'll get away with as much as he can, as long as he can, until somebody stops him. I get that. So what do you do? You do what [leader] is doing. You fight like hell. Right. And the [nationality] are going to go down in history as being the most effective fighting force with starting from scratch. Not much. Yeah. I just, I am in awe of what they've been able to do. We were told, Jonathan, [city] would fall in three weeks. Right. So. Three years later. Yeah. Three years later, they're still standing. So when you come and tell me the same people tell me what to do now, go away. I don't believe you anymore. When the people who are criticizing [politician] are the same people who got it wrong before, I don't listen anymore.",
+    "bio": "The subject (born July 9, 1955) is an American politician and retired military officer serving as the senior United States Senator from a southern state, a seat held since 2003. The subject is a member of a major political party.\nA native of a small town in the southern United States, the subject graduated from a state university in 1977. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, if you told him in 2014, you invade again, you wouldn't invade it. Yeah. If you'd have put it, I'm not, you know, he's a thug and a bully. He'll get away with as much as he can, as long as he can, until somebody stops him. I get that. So what do you do? You do what they're doing. You fight like hell. Right. And they are going to go down in history as being the most effective fighting force with starting from scratch. Not much. Yeah. I just, I am in awe of what they've been able to do. We were told, Jonathan, the capital would fall in three weeks. Right. So. Three years later. Yeah. Three years later, they're still standing. So when you come and tell me the same people tell me what to do now, go away. I don't believe you anymore. When the people who are criticizing him. Are the same people who got it wrong before, I don't listen anymore."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So we heard a bunch of different things this week from others in terms of negotiating, in terms of this war. How should we take all that? And is your best advice just wait for what he says? I think the best."
+      },
+      {
+        "speaker": "[target]",
+        "text": "thing people can do is hand-wring because he loves that. No."
+      }
+    ],
+    "speakername": "Lindsey Graham",
+    "ground_truth": "Seriously, though. Come on. No, I'm very serious. See, he, you know, we've created a dynamic where three people are saying similar but different things. Yeah. Welcome to his world. Right. Right. So the point is... This is the world we're in. Yeah. Yeah. Yeah. The senator said, if the country's not independent and sovereign, we'll sanction them, maybe use the military. Right. Right.",
+    "bio": "Born July 9, 1955, the target is an American politician and retired military colonel serving as a senior United States Senator from a southeastern state, a seat held since 2003. The target is a member of the Republican Party.\nA native of a small town in the state, the target graduated from a state university in 1977. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Pete said this, the only thing that matters, the only thing, and I know the president very well, is him getting involved, bringing this to a conclusion. And I will say this, if he offers what he thinks to be a reasonable deal to Putin, and Putin says no, Putin will be making a serious mistake."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What will be the recourse?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "a lot."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean"
+      }
+    ],
+    "speakername": "Lindsey Graham",
+    "ground_truth": "A lot. Sanctions, weapons, you know, you'll make [country] the largest aircraft, land aircraft carrier in the world. A bunch.",
+    "bio": "[target] (born July 9, 1955) is an American politician and retired U.S. Air Force colonel serving as the senior United States Senator from [state], a seat he has held since 2003. He is a member of the Republican Party.\nA native of [city], [state], [target] graduated from the University in [state] in 1977. The speaker's MBTI type is ESTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Uh, budget."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "away with more you get away with yeah I mean it's like really you know you write a war scene or you read a scene in the kitchen and they're about the same amount of money so it was really cool you're right a robot versus a human and the robots actually probably cheaper because it's less animation because he doesn't move as good"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "James Gunn",
+    "ground_truth": "So, yeah, it's really just allowing us to just go all out with the story and show this magical world.",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm gonna paint your house, I'm good. Frank and I have been talking for years, actually. I mean, since I first met you in [city] for that photo shoot, you know?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "What's his name? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, and it was like, I was like, yeah, I want to do something with you because I loved him in his TV show so much in Kingdom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "James Gunn",
+    "ground_truth": "and so um i i was always i'm like i'm like i'm always looking for something to figure out you know where we can do something together and i just kept looking and then all of a sudden you know big flag senior came in",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and so um i i was always i'm like i'm like i'm always looking for something to figure out you know where we can do something together and i just kept looking and then all of a sudden you know big flag senior came in"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "him like a total dill. Yeah. Oh man. Like come on. Let's be like people are be thirsting after this guy. He is dill. You're not the first person to say that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, you've... He's Delphi as fuck. Way to go, buddy. He's Delphi as fuck."
+      }
+    ],
+    "speakername": "James Gunn",
+    "ground_truth": "um but the first person ever cast in the entertainment project was maria who like we had to cast her immediately because you know um because everybody in the foreign location had to speak the same language and i needed to make sure maria could do it and if she could then they would all be speaking a specific language so um so i she was the very first person that we offered a role to and uh what you were sitting on the plane or something when i was sitting",
+    "bio": "The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "that that's the big thing like i didn't tell i knew like he was in every draft of superman from the beginning"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But I didn't tell him until I was absolutely sure that character wasn't gonna be cut from the script. So that's the big thing. I've learned over the years that you just don't, you don't write somebody into a script and then you tell them immediately and then you have to cut them and tell them they're cut. It's hard enough when you cut somebody out of the movie. By the way, Frank, I thought this was the."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "By the way, that happened to me."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Of course. With a famous director. It can happen. And no one told me. I went to the premiere, and guess what? That's when I found out."
+      }
+    ],
+    "speakername": "James Gunn",
+    "ground_truth": "and no one told me i went to the premiere and guess what that's when i found out that happened to me too yeah but that that i'll never do like i have to cut people out and i hate it because sometimes it's what's best for the movie but i'll always tell the actor yeah even you know i'll tell them if it's a big actor and i'll tell them if it's a small actor i'll always let the actor know that we cut him out because the last thing you want is some poor kid who's gotten a couple lines in a movie showing up on the first day with all his friends and he's like oh where was i i thought i had you know",
+    "bio": " The speaker's MBTI type is ENTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "of the seven to audiences seeing."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "You know, it was so long ago that we laid it down, I'm kind of lost a little bit, and I've seen the first four. Same. Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "See you next time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "James Gunn",
+    "ground_truth": "You saw Five, huh? I saw Five. So you guys haven't even seen Five, huh? No. Five was a big one, well...",
+    "bio": "The speaker's MBTI type is ENTP"
+  }
+]

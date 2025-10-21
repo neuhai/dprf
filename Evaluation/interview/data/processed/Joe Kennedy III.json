@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Congressman, first of all, just given the last 24 hours in American politics, it's kind of, there is a sense of chaos here. How real is that sense? Is it kind of a heat and noise, or is it substantive?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, I think, look, the political environment at the moment is chaotic, and it's, for those of us in it, it can be, I would appreciate, a little more boring at the moment. The reality, though, is that after you get outside of [capital city], and I spend about half my time here and half my time at home in my district in [state], you also are spending a great deal of time with folks that are focused on doing what every other person does, right, which is trying to keep a roof over your head and food on your plate and your kid in school and save for retirement. And they're far more focused on the challenges that they confront every day and not necessarily the rumblings and goings-on of what is a bit of chaos inside these buildings. So I think it would behoove all of us in government at the moment to try to do what we can to move towards a more stable footing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I would love to get there. I'm not so sure this administration is going to make that a priority."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, I suppose President [name] would say he would describe it as chaos, but he would argue that that's exactly what he's trying to do. For example, with his tariffs announcement, that is all about making sure that working-class Americans have a chance again to work in industries that have been decimated over the past few years."
+      }
+    ],
+    "speakername": "Joe Kennedy III",
+    "ground_truth": "The president of the United States continues to say a lot of things, and his policies reflect something different. He has professed to be for working families across this country, and he put forth a health care bill that was going to cut health care for working families by $800 billion and strip millions of people from access to health care. He talked about the important impacts of a tax reform bill. The vast majority of those benefits are streamed towards or weighted towards the wealthy into multinational corporations. The money that has come back overseas from those corporations is being used for stock buybacks predominantly, more than anything else. Fifty percent of Americans don't own a single stock. Over 80 percent of stocks are controlled by about 10 percent of American households. That is not reflective of a tax policy that is focused on middle class and working class. He can talk about the import and the impacts of trying to revitalize an American steel and aluminum industry. Fine. Rolling this out without conversation with [government institution], without conversation throughout various agencies in the executive branch, without consensus within his own administration, so is this feeling of chaos and not one of a consistent, reasoned, thoughtful economic policy.",
+    "bio": "The target (born October 4, 1980) is an American lawyer and politician serving as the U.S. Representative for [state]'s 4th congressional district since 2013. A member of the Democratic Party, he represents a congressional district that extends from the western suburbs of [major city] to the state's South Coast. A son of former Representative [name], he worked as a Peace Corps volunteer and as an assistant district attorney in the regional offices before his election to Congress.\n\nThe target is a grandson of U.S. Senator and former United States Attorney General [name], a grand-nephew of 35th President of the United States [name] and U.S. Senator [name], and a great-grandson of [name], former U.S. Ambassador to the United Kingdom. His great-grandmother [name] was the daughter of [name], a member of the U.S. House of Representatives and Mayor of [major city]. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I would love to get there. I'm not so sure this administration is going to make that a priority."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, I suppose the President would say he would describe it as chaos, but he would argue that that's exactly what he's trying to do. For example, with his tariffs announcement, that is all about making sure that working-class Americans have a chance again to work in industries that have been decimated over the past few years."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The president of the United States continues to say a lot of things, and his policies reflect something different. He has professed to be for working families across this country, and he put forth a health care bill that was going to cut health care for working families by $800 billion and strip millions of people from access to health care. He talked about the important impacts of a tax reform bill. The vast majority of those benefits are streamed towards or weighted towards the wealthy into multinational corporations. The money that has come back overseas from those corporations is being used for stock buybacks predominantly, more than anything else. Fifty percent of Americans don't own a single stock. Over 80 percent of stocks are controlled by about 10 percent of American households. That is not reflective of a tax policy that is focused on middle class and working class. He can talk about the import and the impacts of trying to revitalize an American steel and aluminum industry. Fine. Rolling this out without conversation with the legislature, without conversation throughout various agencies in the executive branch, without consensus within his own administration, so is this feeling of chaos and not one of a consistent, reasoned, thoughtful economic policy."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So given that reality, I mean, there are a lot of white working class and middle class Americans who used to vote Democrat, who this time around, last election, decided to vote for the current president. What did the Democrats get so wrong that created the possibility for him to win?"
+      }
+    ],
+    "speakername": "Joe Kennedy III",
+    "ground_truth": "Look, I think the Democratic Party has to do, and I think we've done a fair amount of soul-searching over the course of the past 18 months or so. The biggest issue here is I think Democrats got to earn back that credibility and win back that credibility, and I think we have to do a better case of articulating the fact that a number of the structural economic challenges that the white working class face are not different, or not all that different, from the challenges that a single mom is facing in our urban centers to minority families across our country, and trying to address those concerns, recognizing that we're not falling prey to this or falling victim to a politics that pits one segment of Americans against another. There are real structural challenges that we need to address in this country, both with regards to challenges foreign and domestic. Dividing America up to try to win an election and then continuing on a path of division isn't going to be a good thing. It isn't going to muster the political will that you need to address these concerns. It's a cheap political tactic that might be successful to win an election. It's not going to be successful to govern the country in the long run.",
+    "bio": "Born in 1980, [target] is an American lawyer and politician serving as a U.S. Representative for a congressional district in a northeastern state since 2013. A member of the Democratic Party, he represents a district that extends from suburban areas to the state's coast. He worked as a Peace Corps volunteer and as an assistant district attorney before his election to Congress. He comes from a prominent political family with several generations of public servants, including congressmen, senators, and a former president. His family has been involved in American politics for multiple generations. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The president of the United States continues to say a lot of things, and his policies reflect something different. He has professed to be for working families across this country, and he put forth a health care bill that was going to cut health care for working families by $800 billion and strip millions of people from access to health care. He talked about the important impacts of a tax reform bill. The vast majority of those benefits are streamed towards or weighted towards the wealthy into multinational corporations. The money that has come back overseas from those corporations is being used for stock buybacks predominantly, more than anything else. Fifty percent of Americans don't own a single stock. Over 80 percent of stocks are controlled by about 10 percent of American households. That is not reflective of a tax policy that is focused on middle class and working class. He can talk about the import and the impacts of trying to revitalize an American steel and aluminum industry. Fine. Rolling this out without conversation with Capitol Hill, without conversation throughout various agencies in the White House and the executive branch, without consensus within his own White House, so is this feeling of chaos and not one of a consistent, reasoned, thoughtful economic policy."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So given that reality, I mean, there are a lot of white working class and middle class Americans who used to vote Democrat, who this time around, last election, decided to vote for Donald Trump. What did the Democrats get so wrong that created the possibility for him to win?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, I think the Democratic Party has to do, and I think we've done a fair amount of soul-searching over the course of the past 18 months or so. The biggest issue here is I think Democrats got to earn back that credibility and win back that credibility, and I think we have to do a better case of articulating the fact that a number of the structural economic challenges that the white working class face are not different, or not all that different, from the challenges that a single mom is facing in our urban centers to minority families across our country, and trying to address those concerns, recognizing that we're not falling prey to this or falling victim to a politics that pits one segment of Americans against another. There are real structural challenges that we need to address in this country, both with regards to challenges foreign and domestic. Dividing America up to try to win an election and then continuing on a path of division isn't going to be a good thing. It isn't going to muster the political will that you need to address these concerns. It's a cheap political tactic that might be successful to win an election. It's not going to be successful to govern the country in the long run."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You feel quite angry about the way things are. Is that the right description?"
+      }
+    ],
+    "speakername": "Joe Kennedy III",
+    "ground_truth": "I'm frustrated. It's certainly, look, President Trump won an election, and I understand that, I appreciate that, and he's the President of the United States. He practices a very different form of politics than the one that I believe in. He has professed to be for a middle class and working class in this country, which is where government should be focused. Wealthier families are finding plenty of ways to take care of themselves. Middle class families and striving middle class families might need a little bit of an extra hand. That's where we should be diverting our energy. The policies, I think, that he has put forth betray that as talking points and not actual substance. And so I do believe that for those of us in the system at the moment, standing up and calling that out when we see it is important. And trying to find ways where we can, in fact, work together to advance the ball forward is critical as well. I hope the administration is willing to reach out a bit more than they have.",
+    "bio": "Joseph Patrick Kennedy III (born October 4, 1980) is an American lawyer and politician serving as the U.S. Representative for Massachusetts's 4th congressional district since 2013. A member of the Democratic Party, he represents a congressional district that extends from the western suburbs of Boston to the state's South Coast. A son of former Representative Joseph P. Kennedy II, he worked as a Peace Corps volunteer and as an assistant district attorney in the Cape and Islands and Middlesex County, Massachusetts offices before his election to Congress.\\n\\nKennedy is a grandson of U.S. Senator and former United States Attorney General Robert F. Kennedy, a grand-nephew of 35th President of the United States John F. Kennedy and U.S. Senator Ted Kennedy, and a great-grandson of Joseph Patrick Kennedy, former U.S. Ambassador to the United Kingdom. His great-grandmother Rose Kennedy was the daughter of John F. Fitzgerald, a member of the U.S. House of Representatives and Mayor of Boston. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Look, I think the Democratic Party has to do, and I think we've done a fair amount of soul-searching over the course of the past 18 months or so. The biggest issue here is I think Democrats got to earn back that credibility and win back that credibility, and I think we have to do a better case of articulating the fact that a number of the structural economic challenges that the white working class face are not different, or not all that different, from the challenges that a single mom is facing in our urban centers to minority families across our country, and trying to address those concerns, recognizing that we're not falling prey to this or falling victim to a politics that pits one segment of Americans against another. There are real structural challenges that we need to address in this country, both with regards to challenges foreign and domestic. Dividing America up to try to win an election and then continuing on a path of division isn't going to be a good thing. It isn't going to muster the political will that you need to address these concerns. It's a cheap political tactic that might be successful to win an election. It's not going to be successful to govern the country in the long run."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You feel quite angry about the way things are. Is that the right description?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm frustrated. It's certainly, look, President Trump won an election, and I understand that, I appreciate that, and he's the President of the United States. He practices a very different form of politics than the one that I believe in. He has professed to be for a middle class and working class in this country, which is where government should be focused. Wealthier families are finding plenty of ways to take care of themselves. Middle class families and striving middle class families might need a little bit of an extra hand. That's where we should be diverting our energy. The policies, I think, that he has put forth betray that as talking points and not actual substance. And so I do believe that for those of us in the system at the moment, standing up and calling that out when we see it is important. And trying to find ways where we can, in fact, work together to advance the ball forward is critical as well. I hope the administration is willing to reach out a bit more than they have."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, we'll come back to the midterms fast approaching soon. But if you had to build the kind of ideal democratic opponent to Donald Trump for 2020, if you had to build them from the ground up, what would they look like? What do they need?"
+      }
+    ],
+    "speakername": "Joe Kennedy III",
+    "ground_truth": "I think most importantly for Democrats at this point is to recognize that we need to earn back the credibility and the trust of voters across the country. We are well known and I think have earned a reputation of standing for people in this country regardless of who you are. So color of your skin, gender of your spouse, person that you love, God of your prayers, that you count that we stand for civil rights, we stand for equality. Democrats are known for that. That's a core value of who we are. That's one of the values that actually makes America great. What we also have to recognize is that for families that are struggling to be able to support themselves, to provide for their children, to plan for their future, their anxieties pretty much begin and end at their door. That is their sole focus and we need to recognize that. We have to, you can't separate those kind of civil rights from the economic ones that actually make those values come to life. And so we have to do both. Who does that and how we come to that? I think. What you need is a big messy contest to see who can earn that credibility back. There's no shortcuts to this. This is something that has to be earned and you got to go out there and make your case.",
+    "bio": "Joseph Patrick Kennedy III (born October 4, 1980) is an American lawyer and politician serving as the U.S. Representative for Massachusetts's 4th congressional district since 2013. A member of the Democratic Party, he represents a congressional district that extends from the western suburbs of Boston to the state's South Coast. A son of former Representative Joseph P. Kennedy II, he worked as a Peace Corps volunteer and as an assistant district attorney in the Cape and Islands and Middlesex County, Massachusetts offices before his election to Congress.\\n\\nKennedy is a grandson of U.S. Senator and former United States Attorney General Robert F. Kennedy, a grand-nephew of 35th President of the United States John F. Kennedy and U.S. Senator Ted Kennedy, and a great-grandson of Joseph Patrick Kennedy, former U.S. Ambassador to the United Kingdom. His great-grandmother Rose Kennedy was the daughter of John F. Fitzgerald, a member of the U.S. House of Representatives and Mayor of Boston. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm frustrated. It's certainly, look, the President won an election, and I understand that, I appreciate that, and he's the President. He practices a very different form of politics than the one that I believe in. He has professed to be for a middle class and working class in this country, which is where government should be focused. Wealthier families are finding plenty of ways to take care of themselves. Middle class families and striving middle class families might need a little bit of an extra hand. That's where we should be diverting our energy. The policies, I think, that he has put forth betray that as talking points and not actual substance. And so I do believe that for those of us in the system at the moment, standing up and calling that out when we see it is important. And trying to find ways where we can, in fact, work together to advance the ball forward is critical as well. I hope the administration is willing to reach out a bit more than they have."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, we'll come back to the midterms fast approaching soon. But if you had to build the kind of ideal democratic opponent for 2020, if you had to build them from the ground up, what would they look like? What do they need?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think most importantly for Democrats at this point is to recognize that we need to earn back the credibility and the trust of voters across the country. We are well known and I think have earned a reputation of standing for people in this country regardless of who you are. So color of your skin, gender of your spouse, person that you love, God of your prayers, that you count that we stand for civil rights, we stand for equality. Democrats are known for that. That's a core value of who we are. That's one of the values that actually makes America great. What we also have to recognize is that for families that are struggling to be able to support themselves, to provide for their children, to plan for their future, their anxieties pretty much begin and end at their door. That is their sole focus and we need to recognize that. We have to, you can't separate those kind of civil rights from the economic ones that actually make those values come to life. And so we have to do both. Who does that and how we come to that? I think. What you need is a big messy contest to see who can earn that credibility back. There's no shortcuts to this. This is something that has to be earned and you got to go out there and make your case."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, do you need a white man? I don't think... But is it going to take something like that? I mean, he is such a big personality and it's about persona in part, is it not?"
+      }
+    ],
+    "speakername": "Joe Kennedy III",
+    "ground_truth": "It is absolutely about persona in part, but I don't believe that at this point the public is going to say you need a woman or a white man or a minority or whatever that is. I don't think, I don't put as much stress or importance in that. I think whoever is able to go out, articulate a common vision that is able to unite the various different communities that we have across our country, put that forward, yes draw a contrast with the President, which I think will not be hard, but also articulate a positive vision for what needs to accomplish, what we need as a country to accomplish in order to overcome the challenges that oftentimes the President has diagnosed, but has offered no solution to. That's what we need. And I...",
+    "bio": "The subject (born October 4, 1980) is an American lawyer and politician serving as a Representative for a congressional district since 2013. A member of the Democratic Party, they represent a district that extends from suburban areas to the state's coastal region. They worked as a Peace Corps volunteer and as an assistant district attorney before their election to Congress. The subject comes from a prominent political family and has served in various public service roles. Their personality type is ENFJ."
+  }
+]

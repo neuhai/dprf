@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That was a dream that will never come true."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Look, today the union is very different."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Today's EU is different from the dreams of its founding fathers."
+      }
+    ],
+    "speakername": "Silvio Berlusconi",
+    "ground_truth": "The EU has a very imbalanced economic policy and a very imbalanced tax policy. And they don't have a foreign policy. When we had a meeting with the heads of state, I proposed to have just one president. And I suggested a former British Prime Minister, because he was really charismatic. A former US President, a good friend of mine, rang me up and asked me who to speak to in order to understand the European position in the conflict region. And I told him to try to contact everybody.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Look, today the union is very different."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Today's EU is different from the dreams of its founding fathers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The EU has a very imbalanced economic policy and a very imbalanced tax policy. And they don't have a foreign policy. When we had a meeting with the heads of state, I proposed to have just one president. And I suggested a certain charismatic British politician. A prominent international leader, who was a good friend of mine, rang me up and asked me who to speak to in order to understand the European position in a Middle Eastern conflict. And I told him to try to contact everybody."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm very worried at the moment because..."
+      }
+    ],
+    "speakername": "Silvio Berlusconi",
+    "ground_truth": "I am very concerned, very concerned about what the European Union is doing and its behaviour towards a certain Eastern European nation with these absurd sanctions that the EU and a Western superpower are imposing on people who they think are close to their leader. In doing that, they are putting a distance between our countries, and this could mean that they return to the sort of isolation of the Cold War.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "the euro was always a political project in your judgment is europe growing apart or continuing to grow closer"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We have to make a very strong work of change."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We need to radically change the situation in Europe."
+      },
+      {
+        "speaker": "[target]",
+        "text": "For example, the fact that the UK is not in the Eurozone, and we are, is a complete disaster."
+      }
+    ],
+    "speakername": "Silvio Berlusconi",
+    "ground_truth": "We need radical changes, otherwise the economic situation will force us and other European countries to abandon the euro and go back to our national currencies. The central bank is supposed to fight inflation, and it needs to become a central bank, like the national reserve, like the national bank or the national bank of an Asian country.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "[Foreign Leader] hid behind the"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "pillar."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and did cuckoo to me from behind."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "di grande confidenza."
+      }
+    ],
+    "speakername": "Silvio Berlusconi",
+    "ground_truth": "[Foreign Leader] and I were really on good terms, so when she came to [city] I thought of what [Foreign Leader] had done and I basically hid behind the monument and did the same thing.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Recently, we've had three successive governments that were not directly elected, with [person],"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Lekta?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Go there."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and [person]."
+      }
+    ],
+    "speakername": "Silvio Berlusconi",
+    "ground_truth": "The deadline for the regional elections is looming, and we face two major threats for the future. The first is the remaining risk of a left-wing government, and the other, you've probably heard of him, is from [person].",
+    "bio": "The speaker's MBTI type is ESTP"
+  }
+]

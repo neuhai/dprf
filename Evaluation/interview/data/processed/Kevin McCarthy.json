@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "a lot of builders I mean I've had the privilege of being here 17 years and I've got to be a part of building two majorities I come from [state] I grew up in a family that were Democrats I applied for an internship in a congressional seat I got turned down and now I got elected to that seat I couldn't get an internship for and I got to be the speaker of the house tell me any other country is that possible"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "But at the same time, how do you reconcile all of that good feeling with the eight who pushed you out? And they showed the country they don't really want to govern. They like chaos. That's true."
+      },
+      {
+        "speaker": "[target]",
+        "text": "have that any in any industry in any place that you live"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I think this is pretty particular to this place."
+      }
+    ],
+    "speakername": "Kevin McCarthy",
+    "ground_truth": "Yes, but remember this, for everybody in America, we don't get to hire who works with us and we don't get to fire who works with us.",
+    "bio": "[target] (born January 26, 1965) is an American politician who served as the speaker of the national legislature from January 2023 to October 2023. A member of the Republican Party, he was the Representative for [state]'s 20th congressional district from 2007 until his resignation in 2023. \n\nHe became the first Speaker in national legislative history to be forcibly removed from the speakership in October 2023, when 8 Republicans joined with all House Democrats to vacate the speakership. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yes and the republican party yes and if biden stays as the nominee for the democrats i believe donald trump will win i believe the republicans will gain more seats in the house and the republicans will win the senate"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Can he count on your support? Yes. That's an endorsement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I will support President Trump."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Would you be willing to serve in a Trump cabinet?"
+      }
+    ],
+    "speakername": "Kevin McCarthy",
+    "ground_truth": "In the right position, look, if I'm the best person for the job, yes. Look, I've worked with President Trump on a lot of policies. We work together to win the majority. But we also have a relationship where we're very honest with one another.",
+    "bio": "A prominent American politician who served as the 55th speaker of the national legislature from January 2023 to October 2023. A member of the Republican Party, he was a Representative for a district in California from 2007 until his resignation in 2023. He became the first Speaker in national legislative history to be forcibly removed from the speakership in October 2023, when 8 members of his party joined with opposition party members to vacate the speakership. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He needs to stop that. He needs to stop."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You think he's going to listen to you saying, stop that, stop that? He hasn't listened to anybody before."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's not true. He will adapt when he gets all the facts."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "He's not backing away from his calls for retribution."
+      }
+    ],
+    "speakername": "Kevin McCarthy",
+    "ground_truth": "Yeah, but remember, you have a check-and-balance system, and I think at the end of the day... Where's the check-and-balance on him and the Republican Party? America doesn't want to see the idea of retribution. If it's rebuild, restore, and renew...",
+    "bio": "An American politician who served as the 55th speaker of the national legislature from January 2023 to October 2023. A member of the Republican Party, he was the Representative for a district in the western United States from 2007 until his resignation in 2023. He became the first Speaker in national legislative history to be forcibly removed from the speakership in October 2023, when 8 members of his party joined with all opposition party members to vacate the speakership. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You think he's going to listen to you saying, stop that, stop that? He hasn't listened to anybody before."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's not true. He will adapt when he gets all the facts."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "He's not backing away from his calls for retribution."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, but remember, you have a check-and-balance system, and I think at the end of the day... Where's the check-and-balance on him and the Republican Party? America doesn't want to see the idea of retribution. If it's rebuild, restore, and renew..."
+      }
+    ],
+    "speakername": "Kevin McCarthy",
+    "ground_truth": "And I think he'll see that. And look, that's him. But I'm not going to change who I am. And I'm not going to stop giving him the advice. And look, I lost the role of leadership. Maybe I don't have the best advice. But I know one thing is I love this country. I want tomorrow to be better than today. And I'm going to do everything in my power. And I'm going to be engaged in the process to make it better.",
+    "bio": "The target (born January 26, 1965) is an American politician who served as the leader of the national legislature from January 2023 to October 2023. A member of the major political party, they were a representative for a western state district from 2007 until their resignation in 2023. \n\nThey became the first legislative leader in national history to be forcibly removed from leadership in October 2023, when 8 members of their party joined with all opposition party members to vacate the leadership position. The leader's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I never said I didn't want this job. I loved the challenge. I knew at the time I probably wouldn't be able to end the job. I mean, not on my terms. I knew who I was dealing with. I think history will say they were wrong in that decision. I did love the job."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Now the 58-year-old [target] is quitting Congress a year before his term is out. He leaves Republicans with a slim majority that is struggling mightily to find consensus. Let me read you a quote from the famous speaker Sam Rayburn. Any jackass can kick a barn down, but it takes a carpenter to build it. Is he right, especially when it comes to this place, the [legislative building]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "and it takes"
+      }
+    ],
+    "speakername": "Kevin McCarthy",
+    "ground_truth": "a lot of builders I mean I've had the privilege of being here 17 years and I've got to be a part of building two majorities I come from [state] I grew up in a family that were Democrats I applied for an internship in a congressional seat I got turned down and now I got elected to that seat I couldn't get an internship for and I got to be the 55th speaker of the house tell me any other country is that possible",
+    "bio": "[target] (born January 26, 1965) is an American politician who served as the 55th speaker of the [legislative building] from January 2023 to October 2023. A member of the Republican Party, he was the U.S. Representative for [state]'s 20th congressional district from 2007 until his resignation in 2023. \n\nHe became the first Speaker of the House in US history to be forcibly removed from the speakership in October 2023, when 8 Republicans joined with all House Democrats to vacate the speakership. The speaker's MBTI type is ESFJ"
+  }
+]

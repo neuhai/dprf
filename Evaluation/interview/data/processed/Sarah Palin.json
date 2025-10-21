@@ -1,0 +1,118 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I did not. I thought, yes, right off the bat. When he offered me the position as his running mate, the first thing I said to him was, if you really think that I can help the ticket, if you really think that I can help this country, absolutely I want to do this with you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "and you didn't say to yourself am i experienced enough am i ready"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I didn't hesitate, no."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Doesn't that take some hubris?"
+      }
+    ],
+    "speakername": "Sarah Palin",
+    "ground_truth": "I answered him yes because I have the confidence in that readiness and knowing that you can't blink. You have to be wired in a way of being so committed to the mission, the mission that we're on, reform of this country and victory in the war. You can't blink. So I didn't blink then even when asked to run as his running mate.",
+    "bio": "Born February 11, 1964, the subject is a public figure who has worked as a politician, commentator, author, and reality television personality. They served as the governor of a northern state from 2006 until resigning in 2009. As a major party nominee for Vice President of the United States in the 2008 election, they were the first person from their state on a national ticket of a major political party and their party's first woman selected as a vice presidential candidate. Their memoir has sold more than two million copies. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I didn't hesitate, no."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Doesn't that take some hubris?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I answered him yes because I have the confidence in that readiness and knowing that you can't blink. You have to be wired in a way of being so committed to the mission, the mission that we're on, reform of this country and victory in the war. You can't blink. So I didn't blink then even when asked to run as his running mate."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But this is not just reforming a government, this is also running a government on the huge international stage in a very dangerous world. When I asked [political figure] about your national security credentials, he cited the fact that you have commanded the [state] National Guard and that [state] is close to [foreign country]. Are those sufficient credentials?"
+      }
+    ],
+    "speakername": "Sarah Palin",
+    "ground_truth": "But it is about reform of government, and it's about putting government back on the side of the people. And that has much to do with foreign policy and national security issues. Let me speak specifically about a credential that I do bring to this table, and that's with the energy independence that I've been working on for these years as the governor of this state that produces nearly 20% of the U.S. domestic supply of energy that I worked on as chairman of the [state] Oil and Gas Conservation Commission overseeing the oil and gas developments in our state to produce more for the United States.",
+    "bio": "The subject (born February 11, 1964) is an American politician, commentator, author, and reality television personality, who served as the governor of a northern state from 2006 until resignation in 2009. As the party nominee for Vice President of the United States in the 2008 election alongside presidential nominee, a senior Senator, the subject was the first person from that state on the national ticket of a major political party and the first woman of that party selected as a vice presidential candidate. The subject's book has sold more than two million copies. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I answered him yes because I have the confidence in that readiness and knowing that you can't blink. You have to be wired in a way of being so committed to the mission, the mission that we're on, reform of this country and victory in the war. You can't blink. So I didn't blink then even when asked to run as his running mate."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But this is not just reforming a government, this is also running a government on the huge international stage in a very dangerous world. When I asked John McCain about your national security credentials, he cited the fact that you have commanded the state National Guard and that the state is close to another major nation. Are those sufficient credentials?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But it is about reform of government, and it's about putting government back on the side of the people. And that has much to do with foreign policy and national security issues. Let me speak specifically about a credential that I do bring to this table, Charlie, and that's with the energy independence that I've been working on for these years as the governor of this state that produces nearly 20% of the U.S. domestic supply of energy that I worked on as chairman of the state Oil and Gas Conservation Commission overseeing the oil and gas developments in our state to produce more for the United States."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "National security is a whole lot more than energy."
+      }
+    ],
+    "speakername": "Sarah Palin",
+    "ground_truth": "It is, but I want you to not lose sight of the fact that energy is a foundation of national security. It's that important. It's that significant.",
+    "bio": "The speaker (born February 11, 1964) is an American politician, commentator, author, and reality television personality, who served as the governor of a northern state from 2006 until resignation in 2009. As the major party nominee for Vice President of the United States in the 2008 election alongside presidential nominee, a prominent Senator, the speaker was the first person from that state on the national ticket of a major political party and the first woman of that party selected as a vice presidential candidate. The speaker's book has sold more than two million copies. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But it is about reform of government, and it's about putting government back on the side of the people. And that has much to do with foreign policy and national security issues. Let me speak specifically about a credential that I do bring to this table, Charlie, and that's with the energy independence that I've been working on for these years as the governor of this state that produces nearly 20% of the U.S. domestic supply of energy that I worked on as chairman of the state Oil and Gas Conservation Commission overseeing the oil and gas developments in our state to produce more for the United States."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "National security is a whole lot more than energy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is, but I want you to not lose sight of the fact that energy is a foundation of national security. It's that important. It's that significant."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did you ever travel outside the country prior to your trip to [location] and [location] last year?"
+      }
+    ],
+    "speakername": "Sarah Palin",
+    "ground_truth": "[location], [location], and then, yeah, that trip, that was a trip of a lifetime to visit our troops in [location] and stop and visit our injured soldiers in [location]. That was a trip of a lifetime and it changed my life.",
+    "bio": "The target (born February 11, 1964) is an American politician, commentator, author, and reality television personality, who served as the ninth Governor of a northern state from 2006 until resignation in 2009. As the Republican Party nominee for Vice President of the United States in the 2008 election alongside presidential nominee, a Senator from a southwestern state, the target was the first person from their state on the national ticket of a major political party and the first Republican woman selected as a vice presidential candidate. Their book has sold more than two million copies. The speaker's MBTI type is ESFJ",
+    "images": "https://example.com/image.jpg"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It is, but I want you to not lose sight of the fact that energy is a foundation of national security. It's that important. It's that significant."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did you ever travel outside the country prior to your trip to [country] and [country] last year?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "[country], [country], and then, yeah, that trip, that was a trip of a lifetime to visit our troops in [country] and stop and visit our injured soldiers in [country]. That was a trip of a lifetime and it changed my life."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Have you ever met a foreign head of state?"
+      }
+    ],
+    "speakername": "Sarah Palin",
+    "ground_truth": "I have not. And I think if you go back in history and if you ask that question of many vice presidents, they may have the same answer that I just gave you. But Charlie, again, we got to remember what the desire is in this nation at this time. It is for no more politics as usual and somebody's big fat resume maybe that shows decades and decades in that [government] establishment where, yeah, they've had opportunity to meet heads of state.",
+    "bio": "The subject (born February 11, 1964) is an American politician, commentator, author, and reality television personality, who served as the governor of a northern state from 2006 until resignation in 2009. As the Republican Party nominee for Vice President of the United States in the 2008 election alongside presidential nominee, a Senator from a southwestern state, the subject was the first from their state on the national ticket of a major political party and the first Republican woman selected as a vice presidential candidate. Their book has sold more than two million copies. The speaker's MBTI type is ESFJ"
+  }
+]

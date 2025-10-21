@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let's first get your reaction to the market crash and today. What would you call today if you had to give it a title?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Today, I think it was a relatively happy Tuesday, everything being relative. Last night I was at dinner with a prominent political leader's son, and she was there, and a bunch of business CEOs, and the betting among two of the biggest, a prominent businessman, one of our top of our richest lists that he'd been buying all day Monday, and they had a bet. They had a bet that the market would be down 300 today. The other gentleman, a hotel chain owner, and another very high in the mid-net, bet it wouldn't be down more than 100. Did you get involved in the action? Well, it was up 100."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, no, I listen when these fellows are making bets, but it was up 100. Sure, there were more stocks down than not. I don't see, as I observed last night, after all, it could only go down three more days at the rate it went down Monday and then everything would be zero and we'd begin all over again. But seriously, I think the extent of the plunge, the enormity of it is almost unreal. It's like a nightmare if you're not leveraged and aren't over the barrel. It's not something that, by the time you comprehend it, it's behind us. There are buys out there. Literally today, our own company with investment and pension funds bought things like major tech and telecom companies, and 32 companies announced today that they're buying in their own stocks. Several of the presidents of companies there last night said, you know, these are buying in prices. We're glad to be able to retire the stock and up the earnings at these prices. The plunge was overdone."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, the $500 billion loss in value of the stocks Monday has got to have affected your sizable fortune. If so, how much did it affect your fortune?"
+      }
+    ],
+    "speakername": "Malcolm Forbes",
+    "ground_truth": "Well, it's only affected if I was negotiating to, say, sell our magazine, which I wasn't and am not, except for $3.50 a copy on the newsstands. So we have no loss. It's just if we wanted to sell, we wouldn't get as much today as we would then. But there's no question. People feel a lot poorer when you have an erratic, an erosion, if you will, of stocks at that enormous, of that enormous magnitude. But the real concern is not people and funds in the market. It's what the psychology that the average person has. Are they not going to go to the movies tonight? Are they not going to buy the winter overcoat they'd planned on? Are they panicked? I don't think, by the time, the average person who isn't really in and out of the market as a trader, by the time they, sort of become nervous about this, jobs aren't stopping, record earnings are reported in today's papers, third quarters have been wonderful. I think the recovery will be quick. I think what we had is a solar plexus, and a lot of people are out of wind, but it's not lethal.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, no, I listen when these fellows are making bets, but it was up 100. Sure, there were more stocks down than not. I don't see, as I observed last night, after all, it could only go down three more days at the rate it went down Monday and then everything would be zero and we'd begin all over again. But seriously, I think the extent of the plunge, the enormity of it is almost unreal. It's like a nightmare if you're not leveraged and aren't over the barrel. It's not something that, by the time you comprehend it, it's behind us. There are buys out there. Literally today, our own company with investment and pension funds bought things like two major tech and telecom companies, and 32 companies announced today that they're buying in their own stocks. Several of the presidents of companies there last night said, you know, these are buying in prices. We're glad to be able to retire the stock and up the earnings at these prices. The plunge was overdone."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, the $500 billion loss in value of the stocks Monday has got to have affected your sizable fortune. If so, how much did it affect your fortune?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's only affected if I was negotiating to, say, sell our magazine, which I wasn't and am not, except for $3.50 a copy on the newsstands. So we have no loss. It's just if we wanted to sell, we wouldn't get as much today as we would then. But there's no question. People feel a lot poorer when you have an erratic, an erosion, if you will, of stocks at that enormous, of that enormous magnitude. But the real concern is not people and funds in the market. It's what the psychology that the average person has. Are they not going to go to the movies tonight? Are they not going to buy the winter overcoat they'd planned on? Are they panicked? I don't think, by the time, the average person who isn't really in and out of the market as a trader, by the time they, I don't think, by the time, the average person who isn't really in and out of the market as a trader, by the time they, I don't think, by the time, the average person who isn't really in and out of the market as a trader, by the time they, sort of become nervous about this, jobs aren't stopping, record earnings are reported in today's papers, third quarters have been wonderful. I think the recovery will be quick. I think what we had is a solar plexus, and a lot of people are out of wind, but it's not lethal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As America's favorite capitalist, what type of advice would you give the little guy?"
+      }
+    ],
+    "speakername": "Malcolm Forbes",
+    "ground_truth": "If you're not out, it's too late. And if you got out at a loss, you're one of the few that took it, other than the very big fellows. There had to be a buyer for those 600 million shares yesterday and on Tuesday. If you're not out, it's too late. And stay in. You can't be wrong. And if you have money, seriously, I think you could do well to start to invest some of it.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's only affected if I was negotiating to, say, sell our magazine, which I wasn't and am not, except for $3.50 a copy on the newsstands. So we have no loss. It's just if we wanted to sell, we wouldn't get as much today as we would then. But there's no question. People feel a lot poorer when you have an erratic, an erosion, if you will, of stocks at that enormous, of that enormous magnitude. But the real concern is not people and funds in the market. It's what the psychology that the average person has. Are they not going to go to the movies tonight? Are they not going to buy the winter overcoat they'd planned on? Are they panicked? I don't think, by the time, the average person who isn't really in and out of the market as a trader, by the time they, sort of become nervous about this, jobs aren't stopping, record earnings are reported in today's papers, third quarters have been wonderful. I think the recovery will be quick. I think what we had is a solar plexus, and a lot of people are out of wind, but it's not lethal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As America's favorite capitalist, what type of advice would you give the little guy?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If you're not out, it's too late. And if you got out at a loss, you're one of the few that took it, other than the very big fellows. There had to be a buyer for those 600 million shares yesterday and on Tuesday. If you're not out, it's too late. And stay in. You can't be wrong. And if you have money, seriously, I think you could do well to start to invest some of it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're quite the optimist."
+      }
+    ],
+    "speakername": "Malcolm Forbes",
+    "ground_truth": "Listen, nobody has ever been long right pessimistic about the essential ingredients of this country. People aren't working less. People in this country are not entrepreneuring less. They're not less ambitious. They don't have less things that they want. The ingredients are all here. The guys over the barrel are the rampant speculators, the leveraged buyout guys, the artisans of manipulating unborrowed money. Now, they've got a problem. But that does not constitute the gut of American investment and America's business future.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If you're not out, it's too late. And if you got out at a loss, you're one of the few that took it, other than the very big fellows. There had to be a buyer for those 600 million shares yesterday and on Tuesday. If you're not out, it's too late. And stay in. You can't be wrong. And if you have money, seriously, I think you could do well to start to invest some of it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're quite the optimist."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, nobody has ever been long right pessimistic about the essential ingredients of this country. People aren't working less. People in this country are not entrepreneuring less. They're not less ambitious. They don't have less things that they want. The ingredients are all here. The guys over the barrel are the rampant speculators, the leveraged buyout guys, the artisans of manipulating unborrowed money. Now, they've got a problem. But that does not constitute the gut of American investment and America's business future."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But what about our country's problems, the deficit and all the like, that have been used as explanations for what happened on Monday?"
+      }
+    ],
+    "speakername": "Malcolm Forbes",
+    "ground_truth": "are greater than they were as a result of this decline but I think the feeling of panic is rapidly abating what happened in today's market is an indication it wasn't down 100 it wasn't down 200 it wasn't down 300 was up 100 it doesn't mean it won't be down another 200 maybe in three or four days but basically I think we'll have a leveling off because if you have money and a lot of people have some money that they've not invested and not only individuals but there's a lot of corporate money that's being used now to buy in some of their stocks this is seriously it's a sensible time in with major blue chips to be investing in them there is nothing it really is nothing wrong what you had was a run-up for seven years a people I mean basically an up and people you know I don't know I don't know I don't know I don't know I don't know I don't know have been predicting a drop nobody predicted this and all these people going to come out of the woodwork said we told you we told you nobody could have foreseen what happened and it's as much the fault of the computer is a lot of other things once it starts to that degree they're all computer programmed and all these pension funds and everything's they they're dumping so the big monarchs stomp so they have to find buyers at a time when people are waiting for the dust to settle well they somebody bought all those shares by at a bargain price on Monday.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you had to have seen a drop in those investments."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure, but since I'm not planning to sell them, you don't have a loss until you sell."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I'm not selling."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But the loss on paper amounts to how much?"
+      }
+    ],
+    "speakername": "Malcolm Forbes",
+    "ground_truth": "Oh, you know, I'm less solvent than I was, but my Lord, I'll eat tonight. I can buy a hamburger. No, seriously, you feel less maybe extravagant than you might have felt, but it's not a serious problem. If anybody that doesn't need the money that they might have in the stock market, then it's silly to sell. The value of most of what they own will gradually return. This nation, discounting this nation in the long term, anybody that's ever done it has been wrong and lost money.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  }
+]

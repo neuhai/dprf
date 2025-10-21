@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't even know why there was a discussion on that. Look, people got plenty of time to vote in this election. Let them go vote. This is going to be a turnout election. My message to people is don't get distracted with things like that. Just get the vote out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So you think it's good that there was that extra day of early voting?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I mean, look, counties have always had the option on when they can do early voting or not. So, I mean, I think fighting that fight, we could have been doing other things. But, you know, look, it wasn't my decision. I wasn't involved in it. All that matters is on election day who's got the most votes. It's really that simple. And I just think Republicans don't need to get distracted. That's what happened in the last runoff we had here in this state, and it didn't turn out very good for us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I want to return to that, but since I have seen you, you've won your re-election. You got about 200,000 more votes than the Republican candidate for Senate, [Name Removed], did. You're now appearing with him on the campaign trail in a much bigger way than you were last time I saw you. Why now, and why do you think there were 200,000 people that voted for you but not for [Name Removed]?"
+      }
+    ],
+    "speakername": "Brian Kemp",
+    "ground_truth": "Well, listen, I was focused on making sure that I got re-elected, and I was also, as you know from our past interviews and what people saw us doing and our campaign doing, it wasn't just helping me, it was helping our whole ticket. We had a really good night here in this state. We won every statewide race Republicans did, and then we got an incumbent U.S. Senator in a runoff. So we had an incredible night here. But really, to me, the runoff now is a very simple choice. You know, are you going to vote for somebody that's been with [Name Removed] 96% of the time, or are you going to vote for somebody that's going to go up there and fight for this state? And that's the way I'm voting.",
+    "bio": "[Target] (born [date]) is an American businessman and politician who is the incumbent governor of a southeastern U.S. state, in office since 2019. A member of the Republican Party, he previously was the Secretary of State and a member of the State Senate. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I mean, look, counties have always had the option on when they can do early voting or not. So, I mean, I think fighting that fight, we could have been doing other things. But, you know, look, it wasn't my decision. I wasn't involved in it. All that matters is on election day who's got the most votes. It's really that simple. And I just think Republicans don't need to get distracted. That's what happened in the last runoff we had here in this state, and it didn't turn out very good for us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I want to return to that, but since I have seen you, you've won your re-election. You got about 200,000 more votes than the Republican candidate for Senate, Herschel Walker, did. You're now appearing with him on the campaign trail in a much bigger way than you were last time I saw you. Why now, and why do you think there were 200,000 people that voted for you but not for Herschel Walker?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, I was focused on making sure that I got re-elected, and I was also, as you know from our past interviews and what people saw us doing and our campaign doing, it wasn't just helping me, it was helping our whole ticket. We had a really good night here in this state. We won every statewide race Republicans did, and then we got an incumbent U.S. Senator in a runoff. So we had an incredible night here. But really, to me, the runoff now is a very simple choice. You know, are you going to vote for somebody that's been with Joe Biden 96% of the time, or are you going to vote for somebody that's going to go up there and fight for our state? And that's the way I'm voting."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, Herschel Walker was the only Republican who did not win on November 8th on the statewide ticket. What you just said about the choice, it reminds me of something you said on the campaign trail recently, which was you said, who do you want to fight for you in the Senate? Do you want a guy who represents our values like Herschel Walker, or do you want somebody who has voted with President Biden 96% of the time? Does Herschel Walker share your values?"
+      }
+    ],
+    "speakername": "Brian Kemp",
+    "ground_truth": "Well, listen, when I'm talking about going to the capital and fighting for what our state needs, I'm talking about the border, 40-year high inflation, astronomical gas prices since the current administration took office, and the agenda that Raphael Warnock has supported up there. I mean, to me, it's that simple in this race. And that's, you know, why I'm voting for the candidate. I want somebody to go up there and just go fight for our state and fight for our citizens, not fight to support a president that really, in my view, is not upholding the values of what our citizens want.",
+    "bio": "The speaker (born November 2, 1963) is an American businessman and politician who is the 83rd and incumbent governor of a southeastern U.S. state, in office since 2019. A member of the Republican Party, he previously was the Secretary of State and a member of the State Senate. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, when I'm talking about going to Washington, D.C., and fighting for what Georgians need, I'm talking about the border, 40-year high inflation, astronomical gas prices since Joe Biden took office, and the agenda that Raphael Warnock has supported up there. I mean, to me, it's that simple in this race. And that's, you know, why I'm voting for Herschel Walker. I want somebody to go up there and just go fight for our state and fight for our citizens, not fight to support a president that really, in my view, is not upholding the values of what Georgians want."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you think Herschel Walker does that when it comes to values?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think he will do that in the United States Senate."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're campaigning with Herschel Walker, but Senator Warnock has kind of been campaigning with you. You have been featured in some of his ads. He is showing voters who cast their ballots for you. Well, I did it."
+      }
+    ],
+    "speakername": "Brian Kemp",
+    "ground_truth": "did a press conference talking about, you know, me and my agenda, which, you know, hopefully because they did that, people will listen to what I've been telling them to vote for a guy who's going to fight for us.",
+    "bio": "Brian Porter Kemp (born November 2, 1963) is an American businessman and politician who is the 83rd and incumbent governor of the U.S. state of Georgia, in office since 2019. A member of the Republican Party , he previously was the Secretary of State of Georgia and a member of the Georgia State Senate. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think he will do that in the national legislature."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're campaigning with [candidate 1], but [candidate 2] has kind of been campaigning with you. You have been featured in some of his ads. He is showing voters who cast their ballots for you. Well, I did it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "did a press conference talking about, you know, me and my agenda, which, you know, hopefully because they did that, people will listen to what I've been telling them to vote for a guy who's going to fight for us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's pretty rare to see a Democratic Senate candidate campaigning with people who voted for the Republican governor."
+      }
+    ],
+    "speakername": "Brian Kemp",
+    "ground_truth": "Yeah, I mean, look, [candidate 2] has got a lot of resources. He can do whatever he wants. But at the end of the day, I don't think any of that stuff matters. The money doesn't matter. You know, somebody's views that's going on with television, commercial, doesn't necessarily matter. It matters what people think and what they're dealing with in their everyday lives. And I know people are dealing with 40-year high inflation. I know that they know that the border's a disaster. And you got [president] saying after the November election, he's not going to change a thing. And I just think there's a lot of state residents that want things to change in the capital, and they want people fighting to lower gas prices and lower 40-year high inflation. Interest rates are going up. I mean, it's, you know, a lot of people starting to get laid off, big companies that are out there. Thankfully, our economy has been more insulated than most around the country. And we're very thankful and blessed by that. But, you know, we don't want to risk that continuing into the future.",
+    "bio": "[target] (born November 2, 1963) is an American businessman and politician who is the 83rd and incumbent governor of a southeastern state, in office since 2019. A member of the Republican Party, he previously was the Secretary of State and a member of the State Senate. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "did a press conference talking about, you know, me and my agenda, which, you know, hopefully because they did that, people will listen to what I've been telling them to vote for a guy who's going to fight for us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's pretty rare to see a Democratic Senate candidate campaigning with people who voted for the Republican governor."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, look, Warnock's got a lot of resources. He can do whatever he wants. But at the end of the day, I don't think any of that stuff matters. The money doesn't matter. You know, somebody's views that's going on with television, commercial, doesn't necessarily matter. It matters what people think and what they're dealing with in their everyday lives. And I know people are dealing with 40-year high inflation. I know that they know that the border's a disaster. And you got Joe Biden saying after the November election, he's not going to change a thing. And I just think there's a lot of people that want things to change in the capital, and they want people fighting to lower gas prices and lower 40-year high inflation. Interest rates are going up. I mean, it's, you know, a lot of people starting to get laid off, big companies that are out there. Thankfully, our economy has been more insulated than most around the country. And we're very thankful and blessed by that. But, you know, we don't want to risk that continuing into the future."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You talked about lessons learned after the last runoff election. What are those lessons?"
+      }
+    ],
+    "speakername": "Brian Kemp",
+    "ground_truth": "Well, I think that's one reason we controlled our own destiny on our ground game, which we've turned that over to the Senate Leadership Fund, and they're out there working. They're knocking doors. We're getting people to the polls, which is what this race is all about. And we built something pretty special here that worked. It didn't just work for me. It worked for the rest of the Republicans on the state ticket, and we're trying to make that work, hopefully, in this runoff.",
+    "bio": "The speaker (born November 2, 1963) is an American businessman and politician who is the 83rd and incumbent governor of a southeastern U.S. state, in office since 2019. A member of the Republican Party, they previously served as the Secretary of State and a member of the State Senate. The speaker's MBTI type is ESTJ"
+  }
+]

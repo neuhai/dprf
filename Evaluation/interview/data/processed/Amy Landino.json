@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "it, by the way. You're doing good."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'm getting there."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You are."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "your channel's blowing up, and everybody else's channel's blowing up, and I'm like, I wanna blow up too, so if I wanna blow up even more, like what are some things I should be doing?"
+      }
+    ],
+    "speakername": "Amy Landino",
+    "ground_truth": "Well, I think the biggest thing that people don't pay attention to is the fact that, like, when the platform shows you something is working, you have to pay attention. You have to listen to it and, like, just break it down. Is a video doing well for some reason? That might mean that there's more viewers coming in. They're discovering you somehow and then they come in. And what are you going to do to make them feel more welcome? You need to follow it up with something that works with why they just found you and got hooked.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You are."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "your channel's blowing up, and everybody else's channel's blowing up, and I'm like, I wanna blow up too, so if I wanna blow up even more, like what are some things I should be doing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the biggest thing that people don't pay attention to is the fact that, like, when YouTube shows you something is working, you have to pay attention. You have to listen to it and, like, just break it down. Is a video doing well for some reason? That might mean that there's more viewers coming in. They're discovering you somehow and then they come in. And what are you going to do to make them feel more welcome? You need to follow it up with something that works with why they just found you and got hooked."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "like"
+      }
+    ],
+    "speakername": "Amy Landino",
+    "ground_truth": "Yeah, it's called analytics. If you see any spiking whatsoever, you need to go, what's going on? Where is it coming from? Why is it happening? And how can I continue to increase this?",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the biggest thing that people don't pay attention to is the fact that, like, when video platform shows you something is working, you have to pay attention. You have to listen to it and, like, just break it down. Is a video doing well for some reason? That might mean that there's more viewers coming in. They're discovering you somehow and then they come in. And what are you going to do to make them feel more welcome? You need to follow it up with something that works with why they just found you and got hooked."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "like"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it's called analytics. If you see any spiking whatsoever, you need to go, what's going on? Where is it coming from? Why is it happening? And how can I continue to increase this?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "what kinds of analytical things should I be looking at?"
+      }
+    ],
+    "speakername": "Amy Landino",
+    "ground_truth": "The biggest thing is watch time. The video platform specifically wants you bringing people to their platform and watching lots of content.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it's called analytics. If you see any spiking whatsoever, you need to go, what's going on? Where is it coming from? Why is it happening? And how can I continue to increase this?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "what kinds of analytical things should I be looking at?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The biggest thing is watch time. The platform specifically wants you bringing people to their platform and watching lots of content."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Amy Landino",
+    "ground_truth": "that may not even be your channel the entire time. Let's say you sent out an email to your list and it was your latest video.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The biggest thing is watch time. The platform specifically wants you bringing people to their platform and watching lots of content."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that may not even be your channel the entire time. Let's say you sent out an email to your list and it was your latest video."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Amy Landino",
+    "ground_truth": "and that video is great, and maybe you thought, you know what, the next natural step for you to take is to watch [target]'s video on this, because it's the next step. Even if you send people to my video, it could be your video, it could be a series, it could be somebody else's video, you kept them on the platform watching, that's good for your channel. You started a session, you didn't end a session. The moment you send people to your email list, you start ending sessions, which is why you really have to balance that. Your call to action needs to feed the machine and feed your business, but you have to balance it. Because if you send people away from the platform all the time, they're just gonna be like, well, thanks for using the platform, Pat, but we don't really wanna send any more people your way, because you're not keeping them here.",
+    "bio": "The speaker's MBTI type is ISTJ"
+  }
+]

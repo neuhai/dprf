@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What did they tell you?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Universally, we were told that this conduct was legitimate because the non-payment was fully disclosed to the tax authority, and that senior creditors who had liens on the assets took priority over the tax authority payments. Who were all these people? The corporation general counsel was [name]. Their advisor was [law firm], which is a law firm out of [city], and [firm] was their auditing firm out of [city]. On my side, that was on the corporation side, my attorney was [law firm] and [name] there, and [name] of [law firm]. The accounting firm was [firm]. The principal was [name], and [name], who had just retired as deputy commissioner of the tax authority in charge of criminal investigations. Those were the accountants there. There's about 120 professionals throughout the companies, but those are the primary ones that were giving advice. This is all fairly early."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that"
+      }
+    ],
+    "speakername": "Frank Amodeo",
+    "ground_truth": "least employees the 28,000 families we're going to have no paychecks no insurance no benefits correct",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Universally, we were told that this conduct was legitimate because the non-payment was fully disclosed to the IRS, and that senior creditors who had liens on the assets took priority over the IRS payments. Who were all these people? The corporation general counsel was [name]. Their advisor was [law firm], which is a law firm out of [city], and [firm] was their auditing firm out of [city]. On my side, that was on the corporation side, my attorney was [law firm] and [name] there, and [name] of [law firm]. The accounting firm was [firm]. The principal was [name], and [name], who had just retired as deputy commissioner of the IRS in charge of criminal investigations. Those were the accountants there. There's about 120 professionals throughout the companies, but those are the primary ones that were giving advice. This is all fairly early."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that"
+      },
+      {
+        "speaker": "[target]",
+        "text": "least employees the 28,000 families we're going to have no paychecks no insurance no benefits correct"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's correct"
+      }
+    ],
+    "speakername": "Frank Amodeo",
+    "ground_truth": "and they were $6 million short of being able to meet that obligation and had no insurance available in any event.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "least employees the 28,000 families we're going to have no paychecks no insurance no benefits correct"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's correct"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and they were $6 million short of being able to meet that obligation and had no insurance available in any event."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "correct. And all of the assets were encumbered by a variety of secure creditors, all of who were in default at the time, who had been threatening to seize the proceeds from these contracts pursuant to their security agreement."
+      }
+    ],
+    "speakername": "Frank Amodeo",
+    "ground_truth": "To begin with, I have statements from attorneys that were eyewitnesses to the events. I have audits and reports done by the accounting firms that proved the conduct and said that it was legitimate. A tax memorandum that at least implicitly states that the conduct was legal. I took four polygraph exams and passed them all that support all of those allegations. We have 87 hours of undercover tape that are uniformly consistent with the fact that any intent was negated by the professional advice and the tax authorities constantly being aware of this and allowing it to happen. And then, you know, the final event is some of the companies that were acquired are security companies. So all the rooms were recorded. And we have 27,000 hours of video with about 300 and some. Hours actually addressing this issue in none of those circumstances, did I or anybody else look guilty? We talked about it as if it was a normal event, and that's because everybody thought it was.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and they were $6 million short of being able to meet that obligation and had no insurance available in any event."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "correct. And all of the assets were encumbered by a variety of secure creditors, all of who were in default at the time, who had been threatening to seize the proceeds from these contracts pursuant to their security agreement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "To begin with, I have statements from attorneys that were eyewitnesses to the events. I have audits and reports done by the accounting firms that proved the conduct and said that it was legitimate. A tax memorandum that at least implicitly states that the conduct was legal. I took four polygraph exams and passed them all that support all of those allegations. We have 87 hours of undercover tape that are uniformly consistent with the fact that any intent was negated by the professional advice and the IRS constantly being aware of this and allowing it to happen. And then, you know, the final event is some of the companies that were acquired are security companies. So all the rooms were recorded. And we have 27,000 hours of video with about 300 and some. Hours actually addressing this issue in none of those circumstances, did I or anybody else look guilty? We talked about it as if it was a normal event, and that's because everybody thought it was."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The bottom line is to commit a tax-related crime, you have to know it's a crime, and you did not, so therefore you're factually innocent. Is that? That is correct. That's it in a nutshell. In a nutshell, simple."
+      }
+    ],
+    "speakername": "Frank Amodeo",
+    "ground_truth": "One of the best examples is there were a couple of attorneys who testify at court that I only learned of the duty of the corporation to pay the taxes in 2007, but all the conduct occurred in 2006. So I only knew of the potential illegality after the conduct had ended. There's no way I could have committed the crime.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "To begin with, I have statements from attorneys that were eyewitnesses to the events. I have audits and reports done by the accounting firms that proved the conduct and said that it was legitimate. A tax memorandum that at least implicitly states that the conduct was legal. I took four polygraph exams and passed them all that support all of those allegations. We have 87 hours of undercover tape that are uniformly consistent with the fact that any intent was negated by the professional advice and the IRS constantly being aware of this and allowing it to happen. And then, you know, the final event is some of the companies that were acquired are security companies. So all the rooms were recorded. And we have 27,000 hours of video with about 300 and some. Hours actually addressing this issue in none of those circumstances, did I or anybody else look guilty? We talked about it as if it was a normal event, and that's because everybody thought it was."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The bottom line is to commit a tax-related crime, you have to know it's a crime, and you did not, so therefore you're factually innocent. Is that? That is correct. That's it in a nutshell. In a nutshell, simple."
+      },
+      {
+        "speaker": "[target]",
+        "text": "One of the best examples is there were a couple of attorneys who testify at court that I only learned of the duty of the corporation to pay the taxes in 2007, but all the conduct occurred in 2006. So I only knew of the potential illegality after the conduct had ended. There's no way I could have committed the crime."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And this was your defense team and advisor."
+      }
+    ],
+    "speakername": "Frank Amodeo",
+    "ground_truth": "It was my defense team and advisor. He told the court the facts, but didn't bring forth the legal conclusion. The chairman of [company] was also one of the accountants that provided advice. The president of [company] was the former head of financial institution in Europe. They were the signers on the bank accounts. They had underneath them several other CPAs that signed on the accounts. I never signed on any of the bank accounts. I didn't sign the tax returns until the only tax return I would ever sign would be during the midst of the investigation. The government wouldn't take the tax returns unless somebody signed it. Everybody else had left. I said, bring it to me. I'll verify that the information that was given to you already is accurate. And if it is, I'll say it. So I didn't sign the tax returns. I didn't sign the bank accounts. And I had no legal authority in the company whatsoever.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

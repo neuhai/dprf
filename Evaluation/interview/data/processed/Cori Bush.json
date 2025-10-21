@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], welcome to The Daily Social Distancing Show."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thanks for having me."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um, I thank you for making the time. I mean, we literally had to wait for this interview because you were on the floor giving your remarks in, I'm sure what many people agree, was a fiery condemnation of your colleagues' inability to condemn white supremacy and also condone the actions of, in particular, Marjorie Taylor Greene. Why is this such a major issue for you? I know it's an obvious question, but I want to know why you are so fired up by what's happening in Congress right now."
+      },
+      {
+        "speaker": "[target]",
+        "text": "multiple reasons. One is, if we don't call it out, if we just allow it, we continue with what we have right now. My activist friends and I, we stood out on the streets of [location], day in and day out, rain, sleet, hail, snow, hell no, we won't go, getting our butts kicked out there on the ground, but then also fighting to be able to be here, to be in a place where we get to make these kind of decisions to save lives and especially to save Black lives. And so you think I'm going to make it all the way to Congress and then be quiet when white supremacy comes and knocks at the door, when white supremacy was ready to attack me and my colleagues, when it could have attacked my team? Now, I will say this. It's not that she can't evolve or be reformed. And so that's why I won't shut up, because maybe she just needs to be exposed that there is a whole other side to this thing. It's called loving humanity. And she gave a response earlier today saying that she regrets some of the things that she said, because she didn't realize that those things may not be true. This is the thing. She called me a terrorist. She said I was the leader of a terrorist mob. She said that I called on the rape and the burning of a home, and I called for the murder of a couple."
+      }
+    ],
+    "speakername": "Cori Bush",
+    "ground_truth": "She didn't take that back, she didn't regret that. That's the kind of stuff that's dangerous for our communities, and so that has to be called out.",
+    "bio": "Born July 21, 1976, the speaker is an American politician, registered nurse, pastor, and activist from [location], who is the Democratic nominee for [location]'s 1st congressional district. On August 4, 2020, they defeated 10-term incumbent Lacy Clay in the 2020 U.S. House of Representatives primary election, advancing to the November general election in the solidly Democratic congressional district. If elected, they will be the first African-American woman to serve in the U.S. House of Representatives from [location]. They previously ran in the Democratic primary for the 2018 U.S. House of Representatives election for [location]'s 1st congressional district and the 2016 U.S. Senate election in [location]. The speaker was featured in a major streaming platform documentary. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um, I thank you for making the time. I mean, we literally had to wait for this interview because you were on the floor giving your remarks in, I'm sure what many people agree, was a fiery condemnation of your colleagues' inability to condemn white supremacy and also condone the actions of, in particular, Marjorie Taylor Greene. Why is this such a major issue for you? I know it's an obvious question, but I want to know why you are so fired up by what's happening in Congress right now."
+      },
+      {
+        "speaker": "[target]",
+        "text": "multiple reasons. One is, if we don't call it out, if we just allow it, we continue with what we have right now. My activist friends and I, we stood out on the streets of Ferguson, day in and day out, rain, sleet, hail, snow, hell no, we won't go, getting our butts kicked out there on the ground, but then also fighting to be able to be here, to be in a place where we get to make these kind of decisions to save lives and especially to save Black lives. And so you think I'm going to make it all the way to Congress and then be quiet when white supremacy comes and knocks at the door, when white supremacy was ready to attack me and my colleagues, when it could have attacked my team? Now, I will say this. It's not that she can't evolve or be reformed. And so that's why I won't shut up, because maybe she just needs to be exposed that there is a whole other side to this thing. It's called loving humanity. And she gave a response earlier today saying that she regrets some of the things that she said, because she didn't realize that those things may not be true. This is the thing. She called me a terrorist. She said I was the leader of a terrorist mob. She said that I called on the rape and the burning of a home, and I called for the murder of a couple."
+      },
+      {
+        "speaker": "[target]",
+        "text": "She didn't take that back, she didn't regret that. That's the kind of stuff that's dangerous for our communities, and so that has to be called out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You haven't been afraid to speak your mind about what you see that is going wrong. And you-you have had an interesting journey, because you were an activist marching from Ferguson. You know, this was the pre-George Floyd, you know, before it became a nationwide movement the way people saw in 2020. It's been interesting because some people say that the activists on the streets are the reason that we're seeing the changes, and now you are in Congress. Where do you think that more progress is made? In Congress or through the activism in the streets? Should more activists be trying to get into lawmaking? Absolutely."
+      }
+    ],
+    "speakername": "Cori Bush",
+    "ground_truth": "more activists should be trying to get into lawmaking. But you need both. I don't think you need to have... There is... And you got to have both. You can't just have one. It's not either-or. The reason is, you need the activists that will put pressure, that will do the work to make sure that things are moving, that will keep the awareness and the visibility. But then you need the person that has the pen. You need the person that has the power of the purse to be able to bring those things home. That's what we were missing when we were out there fighting for justice for Michael Brown. But now there is a representative sitting here. And I'm hoping to be able to pull in more, but not just in Congress. We need them on the local levels and on the state level.",
+    "bio": "[target] (born July 21, 1976) is an American politician, registered nurse, pastor, and activist from St. Louis, Missouri, who is the Democratic nominee for Missouri's 1st congressional district. On August 4, 2020, she defeated 10-term incumbent Lacy Clay in the 2020 U.S. House of Representatives primary election, advancing to the November general election in the solidly Democratic congressional district. If elected, Bush will be the first African-American woman to serve in the U.S. House of Representatives from Missouri. She previously ran in the Democratic primary for the 2018 U.S. House of Representatives election for Missouri's 1st congressional district and the 2016 U.S. Senate election in Missouri. She was featured in the Netflix documentary Knock Down the House. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "She didn't take that back, she didn't regret that. That's the kind of stuff that's dangerous for our communities, and so that has to be called out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You haven't been afraid to speak your mind about what you see that is going wrong. And you-you have had an interesting journey, because you were an activist marching from Ferguson. You know, this was the pre-George Floyd, you know, before it became a nationwide movement the way people saw in 2020. It's been interesting because some people say that the activists on the streets are the reason that we're seeing the changes, and now you are in Congress. Where do you think that more progress is made? In Congress or through the activism in the streets? Should more activists be trying to get into lawmaking? Absolutely."
+      },
+      {
+        "speaker": "[target]",
+        "text": "more activists should be trying to get into lawmaking. But you need both. I don't think you need to have... There is... And you got to have both. You can't just have one. It's not either-or. The reason is, you need the activists that will put pressure, that will do the work to make sure that things are moving, that will keep the awareness and the visibility. But then you need the person that has the pen. You need the person that has the power of the purse to be able to bring those things home. That's what we were missing when we were out there fighting for justice for Michael Brown. But now there is a representative sitting here. And I'm hoping to be able to pull in more, but not just in Congress. We need them on the local levels and on the state level."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You are the first black woman to represent Missouri in Congress. You overcame extreme odds. I mean, you know, living an unsheltered life. You were unhomed. You're a mother of two kids. And you've shared being a survivor of sexual assault. It is a story that resonated with many, and some of your constituents have said, I like her because I believe that she will fight for me because she reminds me of me. When you're now in Congress, and you are trying to, I think, enact laws that are specific to your constituents in Missouri, and then there's obviously the laws that are gonna affect the entire country, how do you find that balance? What are you looking to achieve? Every single moment..."
+      }
+    ],
+    "speakername": "Cori Bush",
+    "ground_truth": "thinking about what can we do to make sure that we're doing the absolute most for everybody in our district and around the country, but starting with those who have the very least, because I have been someone who has had the very least. And I understand how we how legislation happens all around us and all above us, but then it misses us, so many of us. Trevor, I can remember the days when I was hungry and I was able to feed my kids, but not myself. I remember being abused by a former partner and not being able to have justice in that situation. And so why would I not? If I'm OK with being vulnerable for my people so that they get changed, why would I not bring that to the forefront and use that to help inform legislation and to help push my colleagues? Like, you may not know what it was like to be hungry. You may not know. These things may not be your story. You may not know what it's like to have your rape kids sit on the shelf for four months and still not get justice. You may not understand. That you may not understand what it's like to make $20,000 less a year simply because you're a black woman when the person next to you is a white man doing the exact same work, but getting more money than you. You may not understand it, but I'm here to tell you what that's like.",
+    "bio": "[target] (born July 21, 1976) is an American politician, registered nurse, pastor, and activist from St. Louis, Missouri, who is the Democratic nominee for Missouri's 1st congressional district. On August 4, 2020, she defeated 10-term incumbent Lacy Clay in the 2020 U.S. House of Representatives primary election, advancing to the November general election in the solidly Democratic congressional district. If elected, Bush will be the first African-American woman to serve in the U.S. House of Representatives from Missouri. She previously ran in the Democratic primary for the 2018 U.S. House of Representatives election for Missouri's 1st congressional district and the 2016 U.S. Senate election in Missouri. She was featured in the Netflix documentary Knock Down the House. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "more activists should be trying to get into lawmaking. But you need both. I don't think you need to have... There is... And you got to have both. You can't just have one. It's not either-or. The reason is, you need the activists that will put pressure, that will do the work to make sure that things are moving, that will keep the awareness and the visibility. But then you need the person that has the pen. You need the person that has the power of the purse to be able to bring those things home. That's what we were missing when we were out there fighting for justice for Michael Brown. But now there is a representative sitting here. And I'm hoping to be able to pull in more, but not just in Congress. We need them on the local levels and on the state level."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You are the first black woman to represent Missouri in Congress. You overcame extreme odds. I mean, you know, living an unsheltered life. You were unhomed. You're a mother of two kids. And you've shared being a survivor of sexual assault. It is a story that resonated with many, and some of your constituents have said, I like her because I believe that she will fight for me because she reminds me of me. When you're now in Congress, and you are trying to, I think, enact laws that are specific to your constituents in Missouri, and then there's obviously the laws that are gonna affect the entire country, how do you find that balance? What are you looking to achieve? Every single moment..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "thinking about what can we do to make sure that we're doing the absolute most for everybody in our district and around the country, but starting with those who have the very least, because I have been someone who has had the very least. And I understand how we how legislation happens all around us and all above us, but then it misses us, so many of us. Trevor, I can remember the days when I was hungry and I was able to feed my kids, but not myself. I remember being abused by a former partner and not being able to have justice in that situation. And so why would I not? If I'm OK with being vulnerable for my people so that they get changed, why would I not bring that to the forefront and use that to help inform legislation and to help push my colleagues? Like, you may not know what it was like to be hungry. You may not know. These things may not be your story. You may not know what it's like to have your rape kids sit on the shelf for four months and still not get justice. You may not understand. That you may not understand what it's like to make $20,000 less a year simply because you're a black woman when the person next to you is a white man doing the exact same work, but getting more money than you. You may not understand it, but I'm here to tell you what that's like."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think that many of your colleagues are out of touch? I mean, one of the stories that you shared, which was pretty insane, was you got to the Capitol and you were wearing a Breonna Taylor mask, and some of your now colleagues thought you were Breonna Taylor. I mean, that surely means that there are some people who are there just like, maybe they've been there for a long time, or maybe they're completely disconnected. Do you feel like many of the lawmakers are out of touch, or some of them?"
+      }
+    ],
+    "speakername": "Cori Bush",
+    "ground_truth": "Absolutely some of them are out of touch. I won't say all, but some of them are. But that's our work. Because the thing is, we all have something to bring. We all have a skill, a gift, a talent, something to bring. And so for me, I'm going to bring the struggle that Black folks and Brown folks have been fighting for such a long time. I'm bringing all of this chocolate, all of this blackness, every single struggle that I've had to the forefront so that they understand what has to change. And you're going to hear it from your own colleague. I'm not, I don't care about a name, a reputation, or a title. I don't care if you look at me like, oh, I'm dirty because I came from being hungry. I came from living on the street. I don't care. Give my people what we need.",
+    "bio": "[target] (born July 21, 1976) is an American politician, registered nurse, pastor, and activist from St. Louis, Missouri, who is the Democratic nominee for Missouri's 1st congressional district. On August 4, 2020, she defeated 10-term incumbent Lacy Clay in the 2020 U.S. House of Representatives primary election, advancing to the November general election in the solidly Democratic congressional district. If elected, Bush will be the first African-American woman to serve in the U.S. House of Representatives from Missouri. She previously ran in the Democratic primary for the 2018 U.S. House of Representatives election for Missouri's 1st congressional district and the 2016 U.S. Senate election in Missouri. She was featured in the Netflix documentary Knock Down the House. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "thinking about what can we do to make sure that we're doing the absolute most for everybody in our district and around the country, but starting with those who have the very least, because I have been someone who has had the very least. And I understand how we how legislation happens all around us and all above us, but then it misses us, so many of us. Trevor, I can remember the days when I was hungry and I was able to feed my kids, but not myself. I remember being abused by a former partner and not being able to have justice in that situation. And so why would I not? If I'm OK with being vulnerable for my people so that they get changed, why would I not bring that to the forefront and use that to help inform legislation and to help push my colleagues? Like, you may not know what it was like to be hungry. You may not know. These things may not be your story. You may not know what it's like to have your rape kids sit on the shelf for four months and still not get justice. You may not understand. That you may not understand what it's like to make $20,000 less a year simply because you're a black woman when the person next to you is a white man doing the exact same work, but getting more money than you. You may not understand it, but I'm here to tell you what that's like."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think that many of your colleagues are out of touch? I mean, one of the stories that you shared, which was pretty insane, was you got to the Capitol and you were wearing a Breonna Taylor mask, and some of your now colleagues thought you were Breonna Taylor. I mean, that surely means that there are some people who are there just like, maybe they've been there for a long time, or maybe they're completely disconnected. Do you feel like many of the lawmakers are out of touch, or some of them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely some of them are out of touch. I won't say all, but some of them are. But that's our work. Because the thing is, we all have something to bring. We all have a skill, a gift, a talent, something to bring. And so for me, I'm going to bring the struggle that Black folks and Brown folks have been fighting for such a long time. I'm bringing all of this chocolate, all of this blackness, every single struggle that I've had to the forefront so that they understand what has to change. And you're going to hear it from your own colleague. I'm not, I don't care about a name, a reputation, or a title. I don't care if you look at me like, oh, I'm dirty because I came from being hungry. I came from living on the street. I don't care. Give my people what we need."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've been very vocal in talking about what you think Joe Biden needs to do. One of the issues has been commuting the sentences of federal inmates who are on death row. This has always been a contentious issue in America. You know, many people have said, look, we don't want the death penalty, we don't want death row, et cetera. But beyond the conversation, I agree with you. I do not support the death penalty. But I always would like to know, from a lawmaker's point of view, how do you speak to those families who have been the victim of some of these people who are on death row and say to them, hey, here's why this person shouldn't be on death row."
+      }
+    ],
+    "speakername": "Cori Bush",
+    "ground_truth": "You know, I not only empathize with those families, I sympathize with those families. As someone who lost a loved one, a very, very close loved one, to an execution-style murder, I absolutely stand with those families. But we cannot continue this cycle of violence and think that we will begin to heal this country. We have to get out of the mindset that that is a way to get justice. There are other ways to get justice. And some of those ways is the work that we're doing right now with legislation, saying that we have to make sure that there are resources in our communities. We have to make sure that people have and communities have the things that we need to be able to behold. And so if we won't do that work, when our work is to build this carceral system, when that's our work, when we're telling our third graders that if you don't score this particular number on this particular proficiency test, that you may have a one in three chance to end up in prison one day, when we're telling that to our third graders, when that's the mindset of America?",
+    "bio": "[target] (born July 21, 1976) is an American politician, registered nurse, pastor, and activist from St. Louis, Missouri, who is the Democratic nominee for Missouri's 1st congressional district. On August 4, 2020, she defeated 10-term incumbent Lacy Clay in the 2020 U.S. House of Representatives primary election, advancing to the November general election in the solidly Democratic congressional district. If elected, Bush will be the first African-American woman to serve in the U.S. House of Representatives from Missouri. She previously ran in the Democratic primary for the 2018 U.S. House of Representatives election for Missouri's 1st congressional district and the 2016 U.S. Senate election in Missouri. She was featured in the Netflix documentary Knock Down the House. The speaker's MBTI type is ENFJ"
+  }
+]

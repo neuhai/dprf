@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you do take my money and I'm happy"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "to give it to you well you know what we should get you some coffee then that's right thank you for being here you got it you mentioned earlier that a lot of the businesses fail because they make bad real estate decisions it's not it's not the widget it's not the product it's not the restaurant and you see a lot of restaurants that never reopen because they can't afford the new leases that the landlords are offering because the price of steak hasn't gone up you know proportionally compared to their rents yeah"
+      },
+      {
+        "speaker": "[target]",
+        "text": "down."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And how do you get around that? And how can you..."
+      }
+    ],
+    "speakername": "Marcus Lemonis",
+    "ground_truth": "Well, I think there's two issues, right? There's there's one issue that I can't solve for, which is landlords perception of the value of their property and the cap rate that they're looking from a return standpoint that you're not going to change their mind. And, you know, I have business owners say to me all the time, I don't understand why the guy won't just take the lease. The thing's been sitting empty for three years. You have to explain to them he may have a loan on the books. It may mess up his portfolio. He doesn't want to establish the lower value, which is going to affect the rest of his real estate.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And how do you get around that? And how can you..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think there's two issues, right? There's there's one issue that I can't solve for, which is landlords perception of the value of their property and the cap rate that they're looking from a return standpoint that you're not going to change their mind. And, you know, I have business owners say to me all the time, I don't understand why the guy won't just take the lease. The thing's been sitting empty for three years. You have to explain to them he may have a loan on the books. It may mess up his portfolio. He doesn't want to establish the lower value, which is going to affect the rest of his real estate."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You can't get into that level of sophistication with somebody that's trying to open up a donut shop."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Marcus Lemonis",
+    "ground_truth": "And the reason that a lot of places like donut shops, flower shops, restaurants, clothing boutiques, every business that we love to support, you love to support, all of us do, they usually fail. Now, there's a handful of them that fail because they're not doing things right. But they usually fail because they picked a bad location. They signed up for something on the real estate side they can't afford. They didn't negotiate TI and they put all of their working capital into TI and then had no working capital to run their business. It runs the gamut.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm not going to rent it to you. Right. And here's why."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think you're amazing, I think your business is a great idea, but I think you're in the wrong location. My friend Johnny is on the right street with the right neighborhood at the right price at the right time. As much as I need the cash flow, I know that I'm not doing you a service."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You sort of see that happen with the bigger developers. Like when they build something and they're like, you know what? We only want grade A tenants in this place. Like, for example, in [commercial district], when they first launched it, there were certain retailers they didn't want in there. I think now they're more likely to take anyone. But in the beginning, they only wanted [luxury brand] and [luxury brand] and all this other stuff. And I feel like those people can't afford to do it because they're trying to create an environment and a community for those certain shops. Those landlords. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Marcus Lemonis",
+    "ground_truth": "those landlords. Yeah. Well, they're trying to establish a premium. In my opinion, I think they believe that the premium nature of their tenants would yield the premium nature of their asset.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think you're amazing, I think your business is a great idea, but I think you're in the wrong location. My friend Johnny is on the right street with the right neighborhood at the right price at the right time. As much as I need the cash flow, I know that I'm not doing you a service."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You sort of see that happen with the bigger developers. Like when they build something and they're like, you know what? We only want grade A tenants in this place. Like, for example, in [location], when they first launched it, there were certain retailers they didn't want in there. I think now they're more likely to take anyone. But in the beginning, they only wanted Cartier and Louis Vuitton and all this other stuff. And I feel like those people can't afford to do it because they're trying to create an environment and a community for those certain shops. Those landlords. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "those landlords. Yeah. Well, they're trying to establish a premium. In my opinion, I think they believe that the premium nature of their tenants would yield the premium nature of their asset."
+      }
+    ],
+    "speakername": "Marcus Lemonis",
+    "ground_truth": "It would sort of move in tangent, right? And people would look at that if they ever wanted to flip that property and say to themselves,",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "know four and a half three and a half four percent cap rate they'll look at that and think that it's going to appreciate their property commercial district found out that major retailer had a great cachet and a really crappy balance sheet they forgot the detail of the balance sheet"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "found out the hard way."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What's in there now?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's empty right now, but there's some ideas of something that could go in there. But you saw major tech company spend a ton of money just pulling out of these leases. And there was so much invested because they were coming here, and they were using that lease to get other people to come here. And now they're like, well, you know what? We don't need a million and a half square feet in the commercial district. And they've spent a fortune just to get out of those deals. You deal with a lot of businesses and family-owned businesses just through this show and just through your interactions with other people who use you for coaching and education. Succession is part of a lot of restaurants and a lot of small businesses in the world. And in a lot of ways, real estate families and real estate owners, they're family businesses at the end of the day. The portfolios gets handed over. And how do you sort of, what are some of the good succession plans that can be applied to real estate? And what are some of the pitfalls that you've seen?"
+      }
+    ],
+    "speakername": "Marcus Lemonis",
+    "ground_truth": "I mean, I, you know, I talk a lot about generational wealth and real estate is one of those segments and one of those sectors where generational wealth is very real. We can pass on these assets that appreciate over time and there may be dips and rises in the market, but over time, over a 5, 10, 20 year horizon, those assets appreciate in value. I think too often a generational wealth, people believe they can establish outside of real estate with some quick fix or some internet, you know, bonanza or some other scheme. Real estate for me has always been a safe haven for anybody.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  }
+]

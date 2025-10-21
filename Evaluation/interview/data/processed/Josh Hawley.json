@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's a 45% increase over last year. Does that sound right?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yes, it does."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What is it you get paid to do exactly?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I get paid to run the company."
+      }
+    ],
+    "speakername": "Josh Hawley",
+    "ground_truth": "Yeah. So just help me understand that. I mean, do you get paid for transparency? Is that is that part of is that one of the metrics for your income?",
+    "bio": "The speaker (born December 31, 1979) is an American attorney and politician, currently serving as the junior Senator for a midwestern state. They served as the state's Attorney General from 2017 to 2019, before defeating a two-term incumbent Senator in the 2018 election. They are currently the youngest member of the legislative body at 39. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What is it you get paid to do exactly?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I get paid to run the [company] company."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So just help me understand that. I mean, do you get paid for transparency? Is that is that part of is that one of the metrics for your income?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think the board counts on me for transparency."
+      }
+    ],
+    "speakername": "Josh Hawley",
+    "ground_truth": "Really? Because you're under investigation for falsifying inspection records. The [company]'s under criminal investigation for the airline flight. You were investigated by [agency] for criminal conspiracy to defraud the [agency]. This is all in your tenure. This doesn't sound like a lot of transparency to me. What about safety? Is that a component of your salary?",
+    "bio": "The speaker (born December 31, 1979) is an American attorney and politician, currently serving as the junior United States Senator for [state]. The speaker served as the Attorney General of [state] from 2017 to 2019, before defeating two-term incumbent Senator from the opposing party in the 2018 election. They are currently the youngest member of the legislative body at 39. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So just help me understand that. I mean, do you get paid for transparency? Is that is that part of is that one of the metrics for your income?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think the board counts on me for transparency."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Really? Because you're under investigation for falsifying inspection records. The company's under criminal investigation for the airline flight. You were investigated by federal authorities for criminal conspiracy to defraud the regulatory agency. This is all in your tenure. This doesn't sound like a lot of transparency to me. What about safety? Is that a component of your salary?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It sure is, Senator."
+      }
+    ],
+    "speakername": "Josh Hawley",
+    "ground_truth": "You know, have you seen the reports that the subcontractor that you use to make that door piece that fell out of the sky, that when the regulatory agency went and toured the facility, they found one door seal being lubricated with common dish soap and cleaned with a wet cheesecloth, and another was being checked with a hotel room key card? Does that sound like safety to you?",
+    "bio": "An American attorney and politician, born December 31, 1979, currently serving as the junior United States Senator for his state. He served as the state's Attorney General from 2017 to 2019, before defeating a two-term Democratic incumbent Senator in the 2018 election. He is currently the youngest member of the legislative body at 39. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Really? Because you're under investigation for falsifying 787 inspection records. The Boeing's under criminal investigation for the flight. You were investigated by federal agency for criminal conspiracy to defraud the regulatory authority. This is all in your tenure. This doesn't sound like a lot of transparency to me. What about safety? Is that a component of your salary?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It sure is, Senator."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, have you seen the reports that the subcontractor that you use to make that door piece that fell out of the sky, that when the regulatory authority went and toured the facility, they found one door seal being lubricated with Dawn liquid dish soap and cleaned with a wet cheesecloth, and another was being checked with a hotel room key card? Does that sound like safety to you?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "senator i i think our relationship with that particular supplier has been well documented reviewed by the regulatory authority and most certainly us and i'm very intent on acquiring that company so that none of that ever happens"
+      }
+    ],
+    "speakername": "Josh Hawley",
+    "ground_truth": "You know the regulatory authority also says that Boeing still has not implemented the recommended steps back from 2019 and 2020 after the max crashes you still have not taken the appropriate safety Procedures or implemented what they recommended. I mean How if safety is a component of your thirty three million dollar compensation package? I mean, how can you possibly qualify for any of this? What about quality is quality part of your compensation package?",
+    "bio": "Born December 31, 1979, is an American attorney and politician, currently serving as the junior United States Senator for a midwestern state. The individual served as the 42nd Attorney General of that state from 2017 to 2019, before defeating a two-term incumbent Senator in the 2018 election. Currently the youngest member of the federal legislative body at 39. The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, have you seen the reports that the subcontractor that you use to make that door piece that fell out of the sky, that when the federal agency went and toured the facility, they found one door seal being lubricated with common dish soap and cleaned with a wet cheesecloth, and another was being checked with a hotel room key card? Does that sound like safety to you?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "senator i i think our relationship with that particular supplier has been well documented reviewed by the federal agency and most certainly us and i'm very intent on acquiring that company so that none of that ever happens"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know the federal agency also says that the company still has not implemented the recommended steps back from 2019 and 2020 after the crashes you still have not taken the appropriate safety Procedures or implemented what they recommended. I mean How if safety is a component of your thirty three million dollar compensation package? I mean, how can you possibly qualify for any of this? What about quality is quality part of your compensation package?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Senator, I meet with the federal agency pretty regularly. They don't hold anything back, and I'm not aware of anything that has been cited with respect to those accidents that we haven't taken action on."
+      }
+    ],
+    "speakername": "Josh Hawley",
+    "ground_truth": "Really? Because we've had whistleblowers. You said you'd listen to whistleblower testimony. We've had multiple whistleblowers come before this committee and allege that the company is cutting every possible corner on quality and safety, not just in the past, but now. They've alleged that you've eliminated safety inspections, that there are fewer inspectors doing quality inspections out there. They've alleged that when they raised quality issues and concerns, they were reassigned, they were retaliated against, they were physically threatened. That doesn't sound like attention to quality to me, and yet you're getting paid $33 million a year.",
+    "bio": "The subject (born December 31, 1979) is an American attorney and politician, currently serving as the junior United States Senator for a midwestern state. The subject served as the 42nd Attorney General of the state from 2017 to 2019, before defeating a two-term incumbent Senator in the 2018 election. The subject is currently the youngest member of the legislative body at 39. The speaker's MBTI type is ENTJ"
+  }
+]

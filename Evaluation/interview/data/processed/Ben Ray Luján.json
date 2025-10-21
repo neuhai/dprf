@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Chuck, you are absolutely correct in that I stand with the leadership and in the words that were shared by our great chairman as well. Look, this next week, we will be voting to hold not only the Attorney General, but also Mr. McGahn in contempt. And there are also other folks that may be held in contempt if they do not cooperate and work with the Congress. Again, no one is above the law, and neither is the president. But it's also important that we continue these investigations to get to the bottom of the facts and present them to the Congress of American people. And again, I would just encourage everyone to read the special counsel's report, look for yourselves. But also, let's make sure that we are using every tool in the toolbox, that we are ensuring that we will continue to develop the strongest case possible, again, to present the facts to the American people and to the Congress."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, it sounded like with your plea to get the American people to read the report, and go ahead and correct me, but here's how I interpreted what you just said. Read the report, and once you read it, then you'll agree with us that there's probably an impeachable offense here. But it sounds like you believe you don't have the will of the country behind you on that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I think it's important for people across the country to read the special council's report so they understand the severity and the importance and urgency of investigating to everything that we are doing as well, chuck. And that's the reason that I am encouraging people across the country and in my district to also read the report. It's critically important that we all do that as a country so that again, we're all on the same page when it comes to our constitutional responsibility and oversight into making sure that we're investigating everything, not just included in the report, but concerns associated with this president, whether it's the financial ties, the documents that have been requested from the bank, including the president's tax returns that have been requested as well. We want to make sure we get these documents and that again, we get to the bottom of all of these concerns that we all have."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What does a contempt vote do, realistically? I mean, I feel like these are empty penalties, kind of empty gestures."
+      }
+    ],
+    "speakername": "Ben Ray Luján",
+    "ground_truth": "I would disagree with that, Chuck. Again, this is holding people accountable with the tools that we have as the legislative branch of government. No one is above the law, and if people are not going to comply, then we will hold them in contempt.",
+    "bio": "This is [target]. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How does this change the Attorney General's behavior?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm hoping that the Attorney General for the United States would understand that he has a responsibility to work with the co-equal branch of government, the legislative branch of government, and this is one tool that we have with the contempt vote. I'm also open to fining these individuals and making sure that we continue to pursue all the penalties that we have at our disposal as members of Congress."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What's your case against starting an impeachment hearing? Inquiry."
+      }
+    ],
+    "speakername": "Ben Ray Luján",
+    "ground_truth": "we have several ongoing investigations investigations that are continuing to gather evidence we had a few wins in court recently as well and so i think the work and the ideas that have been laid out not just by the chairman of the judiciary committee but by the senior legislative leader have also been at work and we're continuing to see how we're able to uncover answers to questions and present them not just to members of congress but to the american people an inquiry into impeachment is one of those tools i want to exhaust every tool that we have though as we lead up to the consideration to what could be an inquiry into impeachment i'm just not there yet",
+    "bio": "This is [target]. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm hoping that Mr. Attorney General for the United States of America would understand that he has a responsibility to work with the co-equal branch of government, the legislative branch of government, and this is one tool that we have with the contempt vote. I'm also open to fining these individuals and making sure that we continue to pursue all the penalties that we have at our disposal as members of Congress."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What's your case against starting an impeachment hearing? Inquiry."
+      },
+      {
+        "speaker": "[target]",
+        "text": "we have several ongoing investigations chuck investigations that are continuing to gather evidence we had a few wins in court recently as well and so i think the work and the ideas that have been laid out not just by the chairman of the judiciary committee but by speaker have also been at work and we're continuing to see how we're able to uncover answers to questions and present them not just to members of congress but to the american people an inquiry into impeachment is one of those tools i want to exhaust every tool that we have though as we lead up to the consideration to what could be an inquiry into impeachment i'm just not there yet"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, it's interesting. We've had some members of Congress describe opening an impeachment inquiry as the ultimate political act, and some members of Congress to say, no, no, no, no, no, we can't let it look like a political decision if we open an impeachment inquiry. Is there any way of avoiding it looking political, no matter which decision you make now at this point?"
+      }
+    ],
+    "speakername": "Ben Ray Luján",
+    "ground_truth": "Look, I don't believe that this is political. This is about carrying out our constitutional responsibilities as members of Congress, as the legislative branch of government, as a co-equal branch of government to the executive branch as well. And again, that's why it's important that we continue to share the facts with the American people and that as a country we understand the urgency of carrying out this constitutional oversight responsibility.",
+    "bio": "This is [target]. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "we have several ongoing investigations chuck investigations that are continuing to gather evidence we had a few wins in court recently as well and so i think the work and the ideas that have been laid out not just by the chairman of the judiciary committee but by the legislative leader have also been at work and we're continuing to see how we're able to uncover answers to questions and present them not just to members of congress but to the american people an inquiry into impeachment is one of those tools i want to exhaust every tool that we have though as we lead up to the consideration to what could be an inquiry into impeachment i'm just not there yet"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, it's interesting. We've had some members of Congress describe opening an impeachment inquiry as the ultimate political act, and some members of Congress to say, no, no, no, no, no, we can't let it look like a political decision if we open an impeachment inquiry. Is there any way of avoiding it looking political, no matter which decision you make now at this point?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, I don't believe that this is political. This is about carrying out our constitutional responsibilities as members of Congress, as the legislative branch of government, as a co-equal branch of government to the executive branch as well. And again, that's why it's important that we continue to share the facts with the American people and that as a country we understand the urgency of carrying out this constitutional oversight responsibility."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you believe, it seems as if the legislative leader believes, unless there are votes in the Senate from Republicans to vote him out of office, you shouldn't bother with impeachment. That feels like a very crass political analysis, a political decision. Do you not believe that if you did this, that the record itself, the case itself, couldn't potentially convince people?"
+      }
+    ],
+    "speakername": "Ben Ray Luján",
+    "ground_truth": "Well, again, I think the legislative leader has abundantly clear that her decision is not guided by politics. It's guided by the Constitution and what we must do for the good of the American people, which is ensure that we're carrying out these investigations to the best of our ability, which we have been doing. It's not just the oversight that we have into wrongdoings and allegations of concerns that I have with the president, but into all of the sabotage that we've seen with the healthcare act, the reluctance to act by this administration to lower prescription drug prices. They are not cooperating with any subpoenas. They're not cooperating in any form or fashion. And that's why we must carry out these constitutional oversight responsibilities to the best of our ability. But in the case of looking into the president, what the legislative leader has been clear about is that we have to get to the bottom of every one of these questions. Every one of our committees and our chairs of our committees, committees have jurisdiction and have the ability to get answers to these questions. And that's what we must do for the American people, Chuck.",
+    "bio": "This is [target]. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Look, I don't believe that this is political. This is about carrying out our constitutional responsibilities as members of Congress, as the legislative branch of government, as a co-equal branch of government to the executive branch as well. And again, that's why it's important that we continue to share the facts with the American people and that as a country we understand the urgency of carrying out this constitutional oversight responsibility."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you believe, it seems as if Speaker Pelosi believes, unless there are votes in the Senate from Republicans to vote him out of office, you shouldn't bother with impeachment. That feels like a very crass political analysis, a political decision. Do you not believe that if you did this, that the record itself, the case itself, couldn't potentially convince people?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, again, I think Speaker Pelosi has abundantly clear that her decision is not guided by politics. It's guided by the Constitution and what we must do for the good of the American people, which is ensure that we're carrying out these investigations to the best of our ability, which we have been doing. It's not just the oversight that we have into wrongdoings and allegations of concerns that I have with President Donald Trump, but into all of the sabotage that we've seen with the healthcare act, the reluctance to act by this administration to lower prescription drug prices. They are not cooperating with any subpoenas. They're not cooperating in any form or fashion. And that's why we must carry out these constitutional oversight responsibilities to the best of our ability. But in the case of looking into President Donald Trump, what the speaker has been clear about is that we have to get to the bottom of every one of these questions. Every one of our committees and our chairs of our committees, committees have jurisdiction and have the ability to get answers to these questions. And that's what we must do for the American people, Chuck."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right, then why is John Dean testifying before Robert Mueller? And why is John Dean testifying at all, but let alone before Robert Mueller? Is that something that helps you get to the bottom of this, a counsel from the 70s?"
+      }
+    ],
+    "speakername": "Ben Ray Luján",
+    "ground_truth": "Well, I think that many of our chairs have put together parameters with what they believe are strong oversight responsibilities and how we carry out these investigations. And I have faith in the committee leaders. I have faith in the leadership of various committees. It's why I voted and supported them to be the leaders of those various committees. And we'll continue to work with their strategy to be able to get answers again to these important questions.",
+    "bio": "This is [target]. The speaker's MBTI type is ISFJ"
+  }
+]

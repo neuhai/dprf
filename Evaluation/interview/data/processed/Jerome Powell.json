@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "David, I think I'll leave the markets out of it for a second, if I can, and just say that it was really a very sad day for our country. Political violence has no place in our society, and I condemn it in the strongest terms. A man died at a political rally. Two other people were critically injured. So just a sad day. And I'll say that I'm grateful that the injuries to the former president were not more serious. I'd rather not comment on the markets. That's too much."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay. Thank you. So let's get another answer that you don't want to give. No foreplay, huh? So there are a few billion people in the world who are waiting to see what interest rates are going to be doing. Do you have any insights on where interest rates might be going?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I'm going to take that as a great opportunity to talk a little bit about the economy and then talk about where that leaves us with policy. So I would just start by saying that the U.S. economy has performed really remarkably well over the last couple of years. 2023 last year was a year in which the economy grew well above 3%. The labor market remained very strong. Unemployment remained very low. And inflation came down at quite a sharp pace, particularly in the second half of the year, by a very large amount. And that forecast was almost unheard of. It was unheard of before 2023. So big upside surprise that year. This year, we had expected the economy to slow a bit gradually, the labor market to continue to gradually cool off after being overheated a couple of years ago, and inflation to continue to make progress. And something like that is basically what has happened. The economy is growing now at about 1.5% in the first half of the year. Most forecasters have not seen that. And that's a big upside. And that's a big upside. And that's a big upside. about a 2% growth rate for the full year. The labor market, again, has moved into better and better balance to the point where I think you can now say it's essentially no tighter than it was in 2019 before the pandemic. Remember that the labor market of 2019 was a very strong labor market. So we're back to that place, no longer overheated. On inflation, in the first quarter, we didn't make any more progress. The second quarter, actually, we did make some more progress. We've had now three better readings. And if you average them, that's a pretty good pace. So turning to policy, your question, what we said is that we didn't think it would be appropriate to begin to loosen policy until we had greater confidence that inflation was moving sustainably down to 2%. We've been waiting on that. And I would say we didn't gain any additional confidence in the first quarter. But the three readings in the second quarter, including the one from last week, do add somewhat to confidence. We've also said that we're a dual mandate bank. For a long time, since inflation arrived, it's been appropriate to focus mainly on inflation. But now that inflation has come down and the labor market has indeed cooled off, we're going to be looking at both mandates. They're in much better balance. And that means that if we were to see an unexpected weakening in the labor market, then that might also be a reason for reaction by us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, I think I understand. So to put it in terms I can for sure understand, the markets are suggesting, the futures markets, that there's a 90% chance that the central bank will lower its discount rate in September. Do you think the markets know what they're talking about?"
+      }
+    ],
+    "speakername": "Jerome Powell",
+    "ground_truth": "so today I'm not going to be sending any signals one way or the other on any particular meeting so just to ruin the fun right at the beginning",
+    "bio": "Chair of the central bank\nhttps://en.wikipedia.org/wiki/[target] The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I'm going to take that as a great opportunity to talk a little bit about the economy and then talk about where that leaves us with policy. So I would just start by saying that the national economy has performed really remarkably well over the last couple of years. 2023 last year was a year in which the economy grew well above 3%. The labor market remained very strong. Unemployment remained very low. And inflation came down at quite a sharp pace, particularly in the second half of the year, by a very large amount. And that forecast was almost unheard of. It was unheard of before 2023. So big upside surprise that year. This year, we had expected the economy to slow a bit gradually, the labor market to continue to gradually cool off after being overheated a couple of years ago, and inflation to continue to make progress. And something like that is basically what has happened. The economy is growing now at about 1.5% in the first half of the year. Most forecasters have not seen that. And that's a big upside. And that's a big upside. And that's a big upside. about a 2% growth rate for the full year. The labor market, again, has moved into better and better balance to the point where I think you can now say it's essentially no tighter than it was in 2019 before the pandemic. Remember that the labor market of 2019 was a very strong labor market. So we're back to that place, no longer overheated. On inflation, in the first quarter, we didn't make any more progress. The second quarter, actually, we did make some more progress. We've had now three better readings. And if you average them, that's a pretty good pace. So turning to policy, your question, what we said is that we didn't think it would be appropriate to begin to loosen policy until we had greater confidence that inflation was moving sustainably down to 2%. We've been waiting on that. And I would say we didn't gain any additional confidence in the first quarter. But the three readings in the second quarter, including the one from last week, do add somewhat to confidence. We've also said that we're a dual mandate bank. For a long time, since inflation arrived, it's been appropriate to focus mainly on inflation. But now that inflation has come down and the labor market has indeed cooled off, we're going to be looking at both mandates. They're in much better balance. And that means that if we were to see an unexpected weakening in the labor market, then that might also be a reason for reaction by us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, I think I understand. So to put it in terms I can for sure understand, the markets are suggesting, the futures markets, that there's a 90% chance that the central bank will lower its discount rate in September. Do you think the markets know what they're talking about?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so today I'm not going to be sending any signals one way or the other on any particular meeting so just to ruin the fun right at the beginning"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Oh."
+      }
+    ],
+    "speakername": "Jerome Powell",
+    "ground_truth": "I simply, you know, we're going to make these decisions meeting by meeting, and we're going to make them on the basis of the data as they come in, the evolving data, the evolving outlook, and also the balance of risks now that the two mandates are basically.",
+    "bio": "Chair of the Central Bank\nhttps://[website_link] The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "it works uh is that you know i talk to the other 18 participants regularly and i talk to all of them at least once in the 10 days before the meeting and i'm thinking about this three or four weeks before the meeting you know what what should we want to achieve what data do we need to see how do we want to change our communications all those things and so i talk to people listen to them and i try to i try to put together an answer that has broad support on the committee and so when we go into the committee on tuesday morning you know i i'm confident usually that i know where this is going to go but you know things happen we get data during the meetings sometimes events happen but largely you go in kind of knowing what's what the likely outcome is and and that's that's that's that's the design of it"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So normally, you know, if somebody calls somebody, you call all the other board members, FOMC members from time to time. When you call them, do you have trouble getting your call returned or you get a call right back or do they take your call right away?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "calls are scheduled generally, and they go all day long. I have like the Friday before the meeting, I think I have 11 half hour calls. And it's pretty, you know, we talk about the economy. We talk about very specific aspects of the economy, about our mandate, and then we talk about policy. So there's a lot to talk about. I take pretty careful notes and people think, but by this point they've read all of the preparatory materials, probably twice. They've talked about it with their staffs. And so, you know, you get a really good sense of what people's thinking is. It's a very good process."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But you don't feel you have to have unanimity when you make a decision, right?"
+      }
+    ],
+    "speakername": "Jerome Powell",
+    "ground_truth": "no i you know i i always try to to listen carefully to everybody if i find that if you if you do listen and understand people's points and try very hard to incorporate them into what we're doing for most people most of the time that's going to be enough people do dissent that's completely fine we actually have given that we have 12 regional offices with their own economic staff and and people with different backgrounds on the board and among the regional offices we have a disparity of views at every meeting on every question and but people do i mean i think there's a there's a there's a you want to dissent on important things and so people are perfectly able to dissent and and when they when they think that's appropriate they do",
+    "bio": "Chair of the central banking system\nhttps://[website_link] The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "calls are scheduled generally, and they go all day long. I have like the Friday before the meeting, I think I have 11 half hour calls. And it's pretty, you know, we talk about the economy. We talk about very specific aspects of the economy, about our mandate, and then we talk about policy. So there's a lot to talk about. I take pretty careful notes and people think, but by this point they've read all of the preparatory materials, probably twice. They've talked about it with their staffs. And so, you know, you get a really good sense of what people's thinking is. It's a very good process."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But you don't feel you have to have unanimity when you make a decision, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "no i you know i i always try to to listen carefully to everybody if i find that if you if you do listen and understand people's points and try very hard to incorporate them into what we're doing for most people most of the time that's going to be enough people do dissent that's completely fine we actually have given that we have 12 reserve banks with their own economic staff and and people with different backgrounds on the board and among the reserve banks we have a disparity of views at every meeting on every question and but people do i mean i think there's a there's a there's a you want to dissent on important things and so people are perfectly able to dissent and and when they when they think that's appropriate they do"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so a lot of people in government agencies are very good at leaking things you're not that good at that why doesn't the institution what isn't the institution leak more why don't you kind of leak a lot more about what you're gonna do you just don't leak that much I am"
+      }
+    ],
+    "speakername": "Jerome Powell",
+    "ground_truth": "of proud of that actually we um we do take our obligations to confidentiality very very seriously and because we know uh you know how consequential it would be for someone at the institution to be leaking you know we just our our whole success depends on having the public's confidence that we that we're ethical and that we're working on behalf of all americans and not on behalf of ourselves and and we're not leaking uh and that kind of thing so we do have a culture when we're working on a for example um a regulatory matter or or or some you know matter involving one of the banks it never leaks out of the institution so i am proud of that record",
+    "bio": "16th Chair of a major financial institution\nThe speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no i you know i i always try to to listen carefully to everybody if i find that if you if you do listen and understand people's points and try very hard to incorporate them into what we're doing for most people most of the time that's going to be enough people do dissent that's completely fine we actually have given that we have 12 reserve banks with their own economic staff and and people with different backgrounds on the board and among the reserve banks we have a disparity of views at every meeting on every question and but people do i mean i think there's a there's a there's a you want to dissent on important things and so people are perfectly able to dissent and and when they when they think that's appropriate they do"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so a lot of people in government agencies are very good at leaking things you're not that good at that why doesn't the financial institution what isn't the financial institution leak more why don't you kind of leak a lot more about what you're gonna do you just don't leak that much I am"
+      },
+      {
+        "speaker": "[target]",
+        "text": "of proud of that actually we um we do take our obligations to confidentiality very very seriously and because we know uh you know how consequential it would be for someone at the financial institution to be leaking you know we just our our whole success depends on having the public's confidence that we that we're ethical and that we're working on behalf of all americans and not on behalf of ourselves and and we're not leaking uh and that kind of thing so we do have a culture when we're working on a for example um a regulatory matter or or or some you know matter involving one of the banks it never leaks out of the financial institution so i am proud of that record"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, so if you go back in history, when inflation began to arise after COVID, at some point people said, including you, that it was transitory. In hindsight, what do you think people missed about the nature of the inflation? Why was it more enduring than people initially thought?"
+      }
+    ],
+    "speakername": "Jerome Powell",
+    "ground_truth": "So these are this is a question that people will be writing papers about and debating longer after all of us are gone. So, and it's early to say it's actually kind of kind of soon to be answering it but I think it's so here's my answer to that question. When inflation arrived in March of 2023. It was really coming out of the goods sector and it was connected to really high demand for goods, and it was. And, you know, the supply chains global supply chains which account for most manufactured goods collapsed because of too much demand and because of coven and, you know, so it but into us that looked like a temporary fleeting situation. We also lost several million people out of the labor force. So wages went way up as the economy really boomed when reopen the economy. And we thought, you know, there, we were getting vaccines were coming in and we thought that that would fix itself to make sure that our kids would go back to school, we essentially overestimated, how quickly the economy would return to normal, it finally these things finally did happen in 2023. But they didn't happen in 2021 or two and what we meant by transitory was that it would go away fairly quickly without the need for our intervention. You don't want to intervene with interest rates. If something's going to go away quickly without us intervening because you know monetary policy as I mentioned, works with long and variable lags. So the lore is, you look through things like a temporary oil shock. So that was the mistake was that it actually, it actually didn't reverse itself the problems with the supply side didn't reverse themselves until 2023 when they really did when we got it we got a big burst of employment and also the supply chains were fixed.",
+    "bio": "Chair of the central bank\nThe speaker's MBTI type is ISTJ"
+  }
+]

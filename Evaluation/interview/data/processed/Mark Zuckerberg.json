@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The podcast show."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Train by day, podcast by night, all day. All right, bro, what's happening? Good to see you. You too. What's going on? You know, chill week. Yeah, sort of. This recent announcement that you did about content moderation, how has that been received? Probably depends."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Depends on who you ask. Right. But, you know, but look, I mean."
+      }
+    ],
+    "speakername": "Mark Zuckerberg",
+    "ground_truth": "I've been working on this for a long time. So, I mean, you got to do what you think is right. You know, we've been on a long journey here, right? I mean, it's...",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I think at some level you start, you only start one of these companies if you believe in giving people a voice, right? I mean, the whole point of social media is basically, you know, giving people the ability to share what they want. Right. And, um."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And, you know, it goes back to our original mission is just give people the power to share and make the world more open and connected."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you think started the pathway towards increasing censorship? Because clearly we were going in that direction for the last few years. It seemed like we really found out about it when Elon bought the social media platform and we got the platform files. And when you came on here and when you were explaining the relationship with federal agency, where they were trying to get you to take down certain things that were true and real and certain things, they tried to get you to limit the exposure to them. So it's these kind of conversations. Like, when did all that start?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, well..."
+      }
+    ],
+    "speakername": "Mark Zuckerberg",
+    "ground_truth": "Well, look, I think going back to the beginning, or like I was saying, I think you start one of these if you care about giving people a voice. You know, I wasn't too deep on our content policies for like the first 10 years of the company. It was just kind of well known across the company that we were trying to give people the ability to share as much as possible. And issues would come up, practical issues, right? So if someone's getting bullied, for example, we deal with that, we put in place systems to fight bullying. You know, if someone is saying, hey, you know, someone's pirating copyrighted content on the surface, it's like, okay, we'll build controls to make it so we'll find IP protected content.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And, you know, it goes back to our original mission is just give people the power to share and make the world more open and connected."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you think started the pathway towards increasing censorship? Because clearly we were going in that direction for the last few years. It seemed like we really found out about it when Elon bought the social media platform and we got the platform files. And when you came on here and when you were explaining the relationship with federal agency, where they were trying to get you to take down certain things that were true and real and certain things, they tried to get you to limit the exposure to them. So it's these kind of conversations. Like, when did all that start?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, well..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, I think going back to the beginning, or like I was saying, I think you start one of these if you care about giving people a voice. You know, I wasn't too deep on our content policies for like the first 10 years of the company. It was just kind of well known across the company that we were trying to give people the ability to share as much as possible. And issues would come up, practical issues, right? So if someone's getting bullied, for example, we deal with that, we put in place systems to fight bullying. You know, if someone is saying, hey, you know, someone's pirating copyrighted content on the surface, it's like, okay, we'll build controls to make it so we'll find IP protected content."
+      }
+    ],
+    "speakername": "Mark Zuckerberg",
+    "ground_truth": "But it was really in the last 10 years that people started pushing for, like, ideological-based censorship. And I think it was two main events that really triggered this. In 2016, there was the election of the president, also coincided with a major political event in the international union and sort of the fragmentation of that union. And then, you know, in 2020, there was the global health crisis. And I think that those were basically these two events where, for the first time, we just faced this massive, massive institutional pressure to basically start censoring content on ideological grounds.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, well..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, I think going back to the beginning, or like I was saying, I think you start one of these if you care about giving people a voice. You know, I wasn't too deep on our content policies for like the first 10 years of the company. It was just kind of well known across the company that we were trying to give people the ability to share as much as possible. And issues would come up, practical issues, right? So if someone's getting bullied, for example, we deal with that, we put in place systems to fight bullying. You know, if someone is saying, hey, you know, someone's pirating copyrighted content on the surface, it's like, okay, we'll build controls to make it so we'll find IP protected content."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But it was really in the last 10 years that people started pushing for, like, ideological-based censorship. And I think it was two main events that really triggered this. In 2016, there was the election of the President, also coincided with basically the referendum in the European region and sort of the fragmentation there. And then, you know, in 2020, there was COVID. And I think that those were basically these two events where, for the first time, we just faced this massive, massive institutional pressure to basically start censoring content on ideological grounds."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm sorry to interrupt you, but when it first came up in 2016, did it come under the guise of the foreign interference controversy? Yeah."
+      }
+    ],
+    "speakername": "Mark Zuckerberg",
+    "ground_truth": "This is the thing. At the time, I was really sort of ill prepared to to kind of parse what was going on. Right. It's, you know, I think part of my reflection looking back on this is I I kind of think in 2016, in the aftermath, I gave too much deference to a lot of folks in the media who were basically saying, OK, there's no way that this candidate could have gotten elected except for misinformation. People can't actually believe this stuff. Right. It has to be that there's this kind of like massive misinformation out there. Some of it started with the interference controversy, but it kind of morphed into different things over time. What was it?",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But it was really in the last 10 years that people started pushing for, like, ideological-based censorship. And I think it was two main events that really triggered this. In 2016, there was the election of the President, also coincided with basically the referendum in the European region and sort of the fragmentation of the union. And then, you know, in 2020, there was COVID. And I think that those were basically these two events where, for the first time, we just faced this massive, massive institutional pressure to basically start censoring content on ideological grounds."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm sorry to interrupt you, but when it first came up in 2016, did it come under the guise of the foreign interference narrative? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is the thing. At the time, I was really sort of ill prepared to to kind of parse what was going on. Right. It's, you know, I think part of my reflection looking back on this is I I kind of think in 2016, in the aftermath, I gave too much deference to a lot of folks in the media who were basically saying, OK, there's no way that this guy could have gotten elected except for misinformation. People can't actually believe this stuff. Right. It has to be that there's this kind of like massive misinformation out there. Some of it started with the foreign interference stuff, but it kind of morphed into different things over time. What was it?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "He was so ideologically polarizing, right? People didn't want to believe that anybody looked at him and said, this should be our president."
+      }
+    ],
+    "speakername": "Mark Zuckerberg",
+    "ground_truth": "Yeah. So I took this and just kind of assumed that everyone was acting in good faith. And I said, okay, well, there are concerns about misinformation. Just like when people raised other concerns in the past and we try to deal with them. Okay. Yeah. People, you know, if you ask people, no one says that they want misinformation. So maybe there's something that we should do to basically try to address this. But I was really worried from the beginning about basically becoming this sort of decider of what is true in the world. Right. That's like kind of a crazy position to be in for billions of people using your service. And so we tried to put in place a system that would deal with it. You know, and early on tried to basically make it so that it was really limited. We're like, all right, we're just going to have this system where there's these third party fact checkers and they can check the worst of the worst stuff. Right. So things that are very clear hoaxes that there's like it's not like like we're not parsing speech about whether something is slightly true or slightly false, like Earth is flat, you know, things like that. Right. So that was sort of the original intent.",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

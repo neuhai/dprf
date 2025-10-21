@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Great to be with you, Claire. Thanks to APAC for a great conference and a chance to join you again."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Senator [target], you just returned from a trip to [location]. We were talking about it backstage. It sounds as though it was fascinating. You had an opportunity to meet with Prime Minister [name], visit the [location] border. What is your candid sense of [location]'s security situation coming away from the trip?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it was a great trip because it was bipartisan. There were four Republicans, three Democrats, Senator [name] and I led this trip. And we had a chance to visit [location] and [location]. And in [location], we spent four days looking at its security situation. And I was truly struck. In my eight years as a senator, I haven't seen an immediate security situation as threatening as today. Think about it. We've got in the [location], ISIS still active, threatening both [location] and [location]. In [location], we have [organization] digging tunnels, preparing to fire rockets. In [location], we have [organization] embedding tens of thousands of advanced munitions and rockets threatening the north of [location]. And we took a helicopter tour of all of this and then got a briefing from the [location] with General [name], the deputy chief of staff of the [organization]. In [location], a failed state, where you've got both ISIS still active and [organization], [organization] still active, the [organization] under a [location] air cover, [location] increasingly and aggressively challenging [location], and recently directly sending a drone into [location] airspace. It is important that we make clear that when [location] and [location] challenge [location] directly, they are also challenging the [location]. We need resolve. We need to stand together."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That sounds serious, and as you mentioned, the trip was part of a bipartisan congressional delegation led by you and Senator [name], with several of your colleagues. In this incredibly partisan time, how important is it that [location] remain a bipartisan issue, and how possible do you think that is?"
+      }
+    ],
+    "speakername": "Chris Coons",
+    "ground_truth": "Well, that's where you come in, because frankly, keeping [location] support for [location], engagement with [location], not just on security issues, but also on innovation and technology and our shared values, it is absolutely essential, because there's so few things that bring us together in Congress these days. We need to show the world that we can sustain a bipartisan commitment to [location], to its security, and to its thriving as the only democracy in the region and our most vital ally in the region.",
+    "bio": "A lawyer and politician serving as the junior United States senator from [location] since 2010. A member of the Democratic Party, the speaker served as the county executive of [location] from 2005 to 2010. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it was a great trip because it was bipartisan. There were four Republicans, three Democrats, Senator Lindsey Graham and I led this trip. And we had a chance to visit [Country1] and [Country2]. And in [Country2], we spent four days looking at its security situation. And I was truly struck. In my eight years as a senator, I haven't seen an immediate security situation as threatening as today. Think about it. We've got in the [Region1], ISIS still active, threatening both [Country3] and [Country2]. In [Region2], we have Hamas digging tunnels, preparing to fire rockets. In [Country4], we have Hezbollah embedding tens of thousands of advanced munitions and rockets threatening the north of [Country2]. And we took a helicopter tour of all of this and then got a briefing from the [Region3] with General Aviv Kohavi, the deputy chief of staff of the IDF. In [Country5], a failed state, where you've got both ISIS still active and Hezbollah, Shia-Malaysia still active, the IRGC under a Russian air cover, Iran increasingly and aggressively challenging [Country2], and recently directly sending a drone into [Country2] airspace. It is important that we make clear that when Iran and Russia challenge [Country2] directly, they are also challenging the United States. We need resolve. We need to stand together."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That sounds serious, and as you mentioned, the trip was part of a bipartisan congressional delegation led by you and Senator Graham, with several of your colleagues. In this incredibly partisan time, how important is it that [Country2] remain a bipartisan issue, and how possible do you think that is?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that's where you come in, because frankly, keeping U.S. support for [Country2], American engagement with [Country2], not just on security issues, but also on innovation and technology and our shared values, it is absolutely essential, because there's so few things that bring us together in Congress these days. We need to show the world that we can sustain a bipartisan commitment to [Country2], to its security, and to its thriving as the only democracy in the [Region4] and our most vital ally in the [Region4]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, we were also talking backstage about the fact that the delegation also traveled to [Country1], which, of course, has a critical and evolving relationship with [Country2]. What were your takeaways from that part of the trip?"
+      }
+    ],
+    "speakername": "Chris Coons",
+    "ground_truth": "We had a remarkable dinner with King Abdullah and heard from him security concerns, yes, but more economic concerns than I've heard before. There's 650,000 Syrian refugees in [Country1], and the downward pressure on their economy is remarkable. The IMF is pushing them to make some very difficult reforms, and I think we need to do more to invest in [Country1]'s economic stability. King Abdullah represents a version of Islam that is moderate. They are a counterterrorism partner to [Country2] and the United States, and they are an island of stability in an otherwise chaotic region. I think we can and should do more to support [Country1].",
+    "bio": "A lawyer and politician serving as the junior United States senator from [State1] since 2010. A member of the Democratic Party, the speaker served as the county executive of [County1] from 2005 to 2010. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, that's where you come in, because frankly, keeping U.S. support for Israel, American engagement with Israel, not just on security issues, but also on innovation and technology and our shared values, it is absolutely essential, because there's so few things that bring us together in Congress these days. We need to show the world that we can sustain a bipartisan commitment to Israel, to its security, and to its thriving as the only democracy in the Middle East and our most vital ally in the Middle East."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, we were also talking backstage about the fact that the delegation also traveled to Jordan, which, of course, has a critical and evolving relationship with Israel. What were your takeaways from that part of the trip?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We had a remarkable dinner with King Abdullah and heard from him security concerns, yes, but more economic concerns than I've heard before. There's 650,000 Syrian refugees in Jordan, and the downward pressure on their economy is remarkable. The IMF is pushing them to make some very difficult reforms, and I think we need to do more to invest in Jordan's economic stability. King Abdullah represents a version of Islam that is moderate. They are a counterterrorism partner to Israel and the United States, and they are an island of stability in an otherwise chaotic region. I think we can and should do more to support Jordan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Last night, we heard from Ambassador Haley about U.S. efforts to combat anti-Israel bias at the U.N., and I know this is an issue you care deeply about. You and Senator Rubio, the two of you apparently do work very well together, authored a letter to the U.N. Secretary General calling for efforts to root out this anti-Israel bias. What impact do you think that letter had?"
+      }
+    ],
+    "speakername": "Chris Coons",
+    "ground_truth": "Well, one of the great things about my working partnership, my friendship with Marco, is that we're on the Foreign Relations Committee together. That's nice. That's important. But we're also on the Appropriations Committee, the specific one that funds the United Nations. And so our communications with the Secretary General that have pressed for more transparency, more efficiency, and serious effort to combat the anti-Israel bias in the UN has produced some early results. Our Ambassador Nikki Haley has been a strong and capable and good leader in this part, but we should be doing more to push back on anti-Israel bias, on, frankly, anti-Semitism in the United Nations.",
+    "bio": "Christopher Andrew Coons is an American lawyer and politician serving as the junior United States senator from Delaware since 2010. A member of the Democratic Party, Coons served as the county executive of New Castle County from 2005 to 2010. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We had a remarkable dinner with the head of state and heard from him security concerns, yes, but more economic concerns than I've heard before. There's 650,000 Syrian refugees in the country, and the downward pressure on their economy is remarkable. The international financial organization is pushing them to make some very difficult reforms, and I think we need to do more to invest in their economic stability. The leader represents a version of Islam that is moderate. They are a counterterrorism partner to the allied nations, and they are an island of stability in an otherwise chaotic region. I think we can and should do more to support this nation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Last night, we heard from the Ambassador about efforts to combat anti-Israel bias at the international organization, and I know this is an issue you care deeply about. You and another Senator, the two of you apparently do work very well together, authored a letter to the Secretary General calling for efforts to root out this anti-Israel bias. What impact do you think that letter had?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, one of the great things about my working partnership, my friendship with my colleague, is that we're on the Foreign Relations Committee together. That's nice. That's important. But we're also on the Appropriations Committee, the specific one that funds the international organization. And so our communications with the Secretary General that have pressed for more transparency, more efficiency, and serious effort to combat the anti-Israel bias has produced some early results. Our Ambassador has been a strong and capable and good leader in this part, but we should be doing more to push back on anti-Israel bias, on, frankly, anti-Semitism in the international organization."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you mentioned that you and your colleague work well together. You've also introduced legislation, of course, in support of security assistance to Israel and expanded cooperation in a number of fields. Can you tell us a little bit more about that initiative and why you decided to lead the effort?"
+      }
+    ],
+    "speakername": "Chris Coons",
+    "ground_truth": "Well, having just come back from this riveting trip to the region where we got to meet with the Ambassador and his great team at the embassy, with the Minister of Defense, with the Prime Minister, we got the security briefing I just described, I thought it was important to act. You know, the theme of this year's conference is choose to lead. And I think it's important that we pull together in a bipartisan way and demonstrate that Congress has our ally's back every bit as much as the president does. So it's a bill that would legislatively authorize the 10-year agreement at $3.3 billion and $500 million a year in missile system support. I view that as a floor, not a ceiling. The proposed bill will also make sure that our ally has access to precision-guided munitions and to ammunition and other munitions should conflict come. It also ensures that we are more tightly coordinating on critical areas like cybersecurity and making sure that we sustain their qualitative military edge. And it continues partnerships that teach about our values, between development agencies, other initiatives that show the world how we promote peace and promote development together. So between the agreement and security package, between support for precision-guided munitions, between loan guarantees and our values partnership, I think this proposed bill is a great idea. But this is where you come in. Because if you're going to choose to lead, it is my hope, my expectation that in your time today coming to the legislative building, you will help us secure more co-sponsors. As of right now, we have two. My hunch is that after you get to work today, we'll have not 20, not 30, not 50, but 70 or 80 co-sponsors of this bill. We need you. Please come do the work and lead.",
+    "bio": "The speaker is an American lawyer and politician serving as the junior Senator from a mid-Atlantic state since 2010. A member of the Democratic Party, the speaker served as a county executive from 2005 to 2010. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, one of the great things about my working partnership, my friendship with Marco, is that we're on the Foreign Relations Committee together. That's nice. That's important. But we're also on the Appropriations Committee, the specific one that funds the international organization. And so our communications with the Secretary General that have pressed for more transparency, more efficiency, and serious effort to combat the bias has produced some early results. Our Ambassador has been a strong and capable and good leader in this part, but we should be doing more to push back on bias and discrimination in the international organization."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you mentioned that you and Senator Rubio work well together. You've also introduced legislation, of course, in support of security assistance and expanded cooperation in a number of fields. Can you tell us a little bit more about that initiative and why you decided to lead the effort?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, having just come back from this riveting trip where we got to meet with the Ambassador and his great team at the embassy, with the Minister of Defense, with the Prime Minister, we got the security briefing I just described, I thought it was important to act. You know, the theme of this year's conference is choose to lead. And I think it's important that we pull together in a bipartisan way and demonstrate that Congress has support every bit as much as the president does. So it's a bill that would legislatively authorize the 10-year MOU at $3.3 billion and $500 million a year in missile system support. I view that as a floor, not a ceiling. The proposed bill will also make sure there is access to precision-guided munitions and to ammunition and other munitions should conflict come. It also ensures that we are more tightly coordinating on critical areas like cybersecurity and making sure that we sustain military advantages. And it continues partnerships that teach about our values, between development agencies and other initiatives that show the world how we promote peace and promote development together. So between the MOU and security package, between support for precision-guided munitions, between loan guarantees and our values partnership, I think the bill is a great idea. But this is where you come in. Because if you're going to choose to lead, it is my hope, my expectation that in your time today coming to the Hill, you will help us secure more co-sponsors. As of right now, we have two. My hunch is that after you get to work today, we'll have not 20, not 30. Not 50, but 70 or 80 co-sponsors of this bill. We need you. Please come do the work and lead."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And, Senator, what do you think, once everybody gets there, what do you think the prospects are? Are you optimistic?"
+      }
+    ],
+    "speakername": "Chris Coons",
+    "ground_truth": "I'm optimistic because I think the security situation is dire. I think the values that unite us are important and enduring. And I think the prospect of our working together through the entire community and across the entire range of members of Congress to demonstrate to the world that when certain nations test like never before, when others provide air cover for that testing, that threats come from multiple directions, that we will continue to be the most reliable ally possible, and that we will show that in a democracy we can come together to support this through citizen advocacy.",
+    "bio": "A lawyer and politician serving as the junior United States senator from a mid-Atlantic state since 2010. A member of the Democratic Party, the speaker served as the county executive of a local county from 2005 to 2010. The speaker's MBTI type is ENFJ"
+  }
+]

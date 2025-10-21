@@ -1,0 +1,23 @@
+You are an expert in cognitive science; your task is to analyze the cognitive differences between the current response based on the persona description and the expected response of a target human.
+
+PERSONA:
+{persona}
+
+BACKGROUND INFORMATION
+{content}
+
+CURRENT RESPONSE:
+{generated_response}
+
+EXPECTED RESPONSE:
+{ground_truth}
+
+Perform a detailed, structured analysis comparing the current behavioral/non-behavioral responses to the ideal one, focusing on the following five internal mental states:  
+1. Beliefs: represent an individual's assumptions and ideations about the world or about others' mental states.
+2. Goals: reflect what the individual wants to achieve, ranging from immediate outcomes long-term benefits. The different prioritization of goals may leads to diverse decision making and outcomes.
+3. Intentions: specify the immediate plans or actions that guide individual's behaviors. Compared with goals, intentions are more of pragmatic (e.g., step-by-step) strategies.
+4. Emotions: influence an individual's tone, lexical choices, and narrative styles. Emotions play a significant factor in scenarios involving personal narratives, opinions, or social interactions.
+5. Knowledge: refers to contextual and factual information that the individual has access to, such as domain-specific expertise and situational awareness. 
+   
+Finally, explicitly state what additional beliefs, goals, intentions, emotional styles, or knowledge should be incorporated into the persona description to produce individualized behavioral/non-behavioral responses that more closely match the ideal one.  
+Your response should provide analysis conclusions with reasons and specific examples (if applicable), formatted as numbered points: 1. 2. 3. etc.

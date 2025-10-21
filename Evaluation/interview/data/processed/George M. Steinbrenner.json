@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you just feel"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that the passion was different. You wanted it more maybe."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Could be. That might be a way of saying it. But I don't say I wanted it more. I know my players probably at times don't understand. They don't."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That would be fair to say."
+      }
+    ],
+    "speakername": "George M. Steinbrenner",
+    "ground_truth": "I give them that. I've had guys leave me who have said, you don't know how bad it was with him. It was this, it was that. And yet when they needed me, I was there for them. I believe in that.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Could be. That might be a way of saying it. But I don't say I wanted it more. I know my players probably at times don't understand. They don't."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That would be fair to say."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I give them that. I've had guys leave me who have said, you don't know how bad it was with him. It was this, it was that. And yet when they needed me, I was there for them. I believe in that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "22 managers, 25."
+      }
+    ],
+    "speakername": "George M. Steinbrenner",
+    "ground_truth": "four years. Yeah. Sixteen. Five the same ones. How about the professional baseball team? How many do you think they've had in the same number of years?",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I give them that. I've had guys leave me who have said, you don't know how bad it was with him. It was this, it was that. And yet when they needed me, I was there for them. I believe in that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "22 managers, 25."
+      },
+      {
+        "speaker": "[target]",
+        "text": "four years. Yeah. Sixteen. Five the same ones. How about the team? How many do you think they've had in the same number of years?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "general managers, here is a guy who is impatient with people who aren't getting it done."
+      }
+    ],
+    "speakername": "George M. Steinbrenner",
+    "ground_truth": "I don't want to dwell on this. I'm just saying, how many have the professional baseball team had in the same period? I would know.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "general managers, here is a guy who is impatient with people who aren't getting it done."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't want to dwell on this. I'm just saying, how many have the local team had in the same period? I would know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I wouldn't know offhand."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You ought to check that out before you... More than me. And I had [manager] five times."
+      }
+    ],
+    "speakername": "George M. Steinbrenner",
+    "ground_truth": "Five times. And [manager] was with me the day he died. He was on the payroll. He was never taken off.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The battle? I love battle. I love it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How would you have been?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "war."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], how would you have been in the field of battle as a general? I would."
+      }
+    ],
+    "speakername": "George M. Steinbrenner",
+    "ground_truth": "have I got to tell you I would probably would have wanted to be like [General A] he is one of my heroes because every time if you study the history of the war every time they needed something done he wasn't a diplomat but who did they turn to they turned to [General A] and the proof of his leadership is that if you're sitting with a bunch of veterans from the war which I was not I was too young but and you say you hear them say well I was in [region A] or I was I served in [region B] they never say who they served with except if it's [General A] they say I was with [General A] in [region A] that meant something special to them so when a player says I was with [target] I was with the team see I was with the team",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "goodness, absolutely. Do you think he will run again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do think he will run again, yeah. Will he win? He shouldn't have to run again because he won the last election."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He will win and the former president will come back with a vengeance."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You talked about the 2020 election and saying that it's stolen. Do you really believe the 2020 election was stolen?"
+      }
+    ],
+    "speakername": "Kari Lake",
+    "ground_truth": "yes absolutely I'm not the only one who believes it the majority of Americans believe it unfortunately the media refuses to cover it we had numerous irregularities and they used each and every one of them",
+    "bio": "[target] is an American politician and former television news anchor. After working at a regional television station for 22 years, she stepped down from her anchor role in March 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He will win and [public figure] will come back with a vengeance."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You talked about the 2020 election and saying that it's stolen. Do you really believe the 2020 election was stolen?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "yes absolutely I'm not the only one who believes it the majority of Americans believe it unfortunately the media refuses to cover it we had a million ways to cheat and they used each and every one of them"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But there was also here in [state] a review commissioned by the Republican Party that found that [political figure] won the state."
+      }
+    ],
+    "speakername": "Kari Lake",
+    "ground_truth": "we know that hundreds of thousands of phony ballots were dropped into these drop boxes and they were counted the media still won't believe it because they're on a mission to discredit that but I'll tell you what people are waking up to that election",
+    "bio": "[target] is an American politician and former television news anchor. After working at [city] television station [station] for 22 years, they stepped down from their anchor role in March 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "we know that hundreds of thousands of phony ballots were dropped into these drop boxes and they were counted the media still won't believe it because they're on a mission to discredit that but I'll tell you what people are waking up to that election"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The former president's team repeatedly challenged the result in court. But there were, what, 65 lawsuits that weren't dismissed? None of the evidence."
+      },
+      {
+        "speaker": "[target]",
+        "text": "was presented."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But you had even the former president's judges throwing out some of the lawsuits."
+      }
+    ],
+    "speakername": "Kari Lake",
+    "ground_truth": "Evidence was not presented. Evidence will be presented, I believe, someday, hopefully soon. And this evidence has been in the hands of our state Attorney General since September of 2020, before the disputed election. He sat on a mountain of evidence and did nothing. And I hope his career is over because of that. Bye, everyone. Bye.",
+    "bio": "[target] is an American politician and former television news anchor. After working at a regional television station for 22 years, she stepped down from her anchor role in March 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, our plan is to immediately, starting on day one, fully fund and expedite the construction of the border wall. We know the border wall works, and we know that because we've seen the video of when there's a gap in the border wall. We've seen the video of hundreds, sometimes thousands of people pouring across. So we want to get that border wall filled in and built from the Gulf Coast to the Pacific Ocean. And that's going to be something we expedite. And then we're going to go back to some of the policies that work so well under President Trump. Remain in Mexico. No more catch and release. And we've found out, and President Trump mentioned it, he sounded the alarm. He said Venezuela is emptying their prisons, emptying their insane asylums. That's been confirmed by DHS. And we need to get these dangerous people out. The people who've poured in during the Biden invasion have not been vetted. And that means Kamala Harris is allowing people in that are dangerous to the people who are here, to the American citizens living in Arizona and other states. So we're going to make sure. We're going to make sure that we work to get the people who've poured in during the Biden invasion sent back to their homeland in order to save our homeland. So we'll start repatriating people back to their homeland, send them back to their families, and then we can work on building up Arizona and our country. On the same note, we need to start confronting the cartels. My opponent, Ruben Gallego, is a mouthpiece for the cartels. My opponent, Ruben Gallego, has supported open borders, sanctuary cities, his idea of taking care of the border is pumping more money into NGOs, the same NGOs that are taking people who cross over and hauling them into our airports, sending them to a city near you. I don't want to send hundreds of millions to NGOs that are part of a human smuggling operation. I want to send hundreds of millions to finish the border wall and stop people from coming in illegally. Listen, I want to have legal immigration. Our country, at large, was built upon it. But we can't do that. We cannot continue to have illegal immigration the way it's going right now. We have known terrorists right now in our country, ready to act against the people of this nation. And we need to get them out of our country ASAP."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "One of the criticisms that's been out there for months, as critics will say, there was a chance to do something about the border with the bipartisan border bill. Republicans voted against it, and they would rather play politics than do something to address the issue. What's your response?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Certainly, Ryan, you've looked a little bit into what that legislation was all about, I hope, and realized that it really wasn't about securing the border. It was about cementing into law this absolutely abject failure of a border plan by border czar Kamala Harris, the one that has allowed for the invasion. It was going to codify that into law so that when President Trump gets into the White House, I get into the Senate, we wouldn't be able to do anything to stop this invasion at our border. That was really a huge spending plan to send $115 billion overseas to kill people disguised as a border act, a border legislation. We don't want a piece of border legislation that's really about funding the military-industrial complex. We want border legislation that actually secures the border. I don't want to have to watch another young person die from fentanyl poisoning. I don't want another. I don't want a mother to mourn the loss of a 17-year-old son or a 20-year-old daughter who died because of the weapon of mass destruction that these cartels, the cartels in Mexico, are pushing into our country. And we've got to confront these cartels, take on this fentanyl crisis. It is a literal weapon of mass destruction, killing 100,000 young people your age and many times younger every single year in America. That bill did nothing to stop it. It was a complete, it was laughable what they tried to do. They tried to call it bipartisan. It was really meant to help Ukraine continue a war and protect their borders and their pensions while it did nothing for our border."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When it comes to crime outside of addressing immigration, what would be your stance and your plan to address crime in America outside of immigration?"
+      }
+    ],
+    "speakername": "Kari Lake",
+    "ground_truth": "Well, it's hard to separate crime from the border because so much of the crime being committed right now is being committed because we've had a wide open border. And you recognize that when you see this new type of crime, migrant crime, on American citizens. A mother of five murdered by a man who shouldn't have even been here. A young nursing student out of Georgia named Laken Riley who's out for a morning jog doesn't know that she's passing a crazed criminal rapist. She doesn't even know. She's expecting our government to protect us, not let these criminals pour through. She gets raped, bludgeoned, and murdered. Sexual predators. So they're taught.",
+    "bio": "Kari Ann Lake is an American politician and former television news anchor. After working at Phoenix television station KSAZ-TV for 22 years, she stepped down from her anchor role in March 2021. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Certainly, Ryan, you've looked a little bit into what that legislation was all about, I hope, and realized that it really wasn't about securing the border. It was about cementing into law this absolutely abject failure of a border plan by the vice president, the one that has allowed for the invasion. It was going to codify that into law so that when the next president gets into the [government building], I get into the Senate, we wouldn't be able to do anything to stop this invasion at our border. That was really a huge spending plan to send $115 billion overseas to kill people disguised as a border act, a border legislation. We don't want a piece of border legislation that's really about funding the military-industrial complex. We want border legislation that actually secures the border. I don't want to have to watch another young person die from fentanyl poisoning. I don't want another. I don't want a mother to mourn the loss of a 17-year-old son or a 20-year-old daughter who died because of the weapon of mass destruction that these cartels are pushing into our country. And we've got to confront these cartels, take on this fentanyl crisis. It is a literal weapon of mass destruction, killing 100,000 young people your age and many times younger every single year in America. That bill did nothing to stop it. It was a complete, it was laughable what they tried to do. They tried to call it bipartisan. It was really meant to help protect their borders and their pensions while it did nothing for our border."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When it comes to crime outside of addressing immigration, what would be your stance and your plan to address crime in America outside of immigration?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's hard to separate crime from the border because so much of the crime being committed right now is being committed because we've had a wide open border. And you recognize that when you see this new type of crime, migrant crime, on American citizens. A mother of five murdered by a man who shouldn't have even been here. A young nursing student from the southeast who's out for a morning jog doesn't know that she's passing a crazed criminal rapist. She doesn't even know. She's expecting our government to protect us, not let these criminals pour through. She gets raped, bludgeoned, and murdered. Sexual predators. So they're taught."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "certainly examples of that, and you talked about"
+      }
+    ],
+    "speakername": "Kari Lake",
+    "ground_truth": "I'm not okay with any of it, and I hope you're not either. I'm not okay with one criminal coming across. And right now we have prisons being let out. And when it comes to other types of crime... You're saying maybe... Other types of crime...",
+    "bio": "The speaker is an American politician and former television news anchor. After working at a regional television station for 22 years, they stepped down from their anchor role in March 2021. The speaker's MBTI type is ESTJ"
+  }
+]

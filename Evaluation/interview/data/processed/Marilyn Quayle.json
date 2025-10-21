@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have a feeling the cheers were more for the fact that you were out of class than the fact that you're down here getting to listen to me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There were a lot of sparks during the question and answer session. One student asked how the vice president could be pro-life when he spoke against single mothers. The second lady said that's a media misrepresentation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He never spoke about single motherhood. He spoke about the attitude that fathers are absolutely unnecessary and unneeded. That's wrong."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Another student cited statistics that show there are fewer jobs now than there were four years ago. She asked why so much money is spent on other countries. That drew student cheers and a stern response."
+      }
+    ],
+    "speakername": "Marilyn Quayle",
+    "ground_truth": "We're not helping other people's economies pick up. I'm trying to explain something to you, which I think you don't understand. We help people at home first before we do anything abroad. And mostly, our aid is to help open markets so that we can have, as we develop other countries' peace and stability, help them. We have more markets to sell our goods.",
+    "bio": "Second Lady of the nation (1989-1992) The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good morning, Jane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you feeling the pressure?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Not really. We're rather excited about tonight. It's an opportunity for Dan to let the American people see him in a completely unedited version, and I think that's a very good thing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It certainly would be unedited, but to see the descriptions of both campaigns rehearsing their men and the cramming books and so forth. Are they going to be so coached that we won't get a chance to see them in any spontaneous way?"
+      }
+    ],
+    "speakername": "Marilyn Quayle",
+    "ground_truth": "Obviously I can't speak for Senator Benson, but Dan Quayle has been very well versed in the issues of the day for the last 12 years. He wasn't necessarily coached, it was more a reviewing of the fine points of national and international affairs that all people would have to brush up on if they're going to be put under the scrutiny that you would for the questions that are going to be given.",
+    "bio": "Second Lady of the [National Government] (1989-1992) The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Not really. We're rather excited about tonight. It's an opportunity for Dan to let the American people see him in a completely unedited version, and I think that's a very good thing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It certainly would be unedited, but to see the descriptions of both campaigns rehearsing their men and the cramming books and so forth. Are they going to be so coached that we won't get a chance to see them in any spontaneous way?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Obviously I can't speak for Senator Benson, but Dan has been very well versed in the issues of the day for the last 12 years. He wasn't necessarily coached, it was more a reviewing of the fine points of national and international affairs that all people would have to brush up on if they're going to be put under the scrutiny that you would for the questions that are going to be given."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You are, and I don't use the phrase lightly, an advisor to your husband in addition to being his wife and helpmate, so to speak. In his entire political career, he has enjoyed speaking off the cuff. And now the campaign has him speaking from a prepared text. Would that be your advice to... or not?"
+      }
+    ],
+    "speakername": "Marilyn Quayle",
+    "ground_truth": "Being a senator is a little bit different than the kind of scrutiny you get in a vice presidential race. I don't think when you're campaigning at home in your state or giving speeches at home, you don't have 45 press people traveling with you waiting to put a five second bite on TV that is not necessarily germane to the entire topic of which you've been speaking. So given the parameters of the national campaign, it really is important that there never be a chance for even a slight misspeak because it's always taken out of context.",
+    "bio": "Second spouse of national leader (1989-1992) The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Obviously I can't speak for Senator Benson, but [target] has been very well versed in the issues of the day for the last 12 years. He wasn't necessarily coached, it was more a reviewing of the fine points of national and international affairs that all people would have to brush up on if they're going to be put under the scrutiny that you would for the questions that are going to be given."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You are, and I don't use the phrase lightly, an advisor to your husband in addition to being his wife and helpmate, so to speak. In his entire political career, he has enjoyed speaking off the cuff. And now the campaign has him speaking from a prepared text. Would that be your advice to... or not?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Being a United States senator is a little bit different than the kind of scrutiny you get in a vice presidential race. I don't think when you're campaigning at home in [state] or giving speeches at home, you don't have 45 press people traveling with you waiting to put a five second bite on TV that is not necessarily germane to the entire topic of which you've been speaking. So given the parameters of the national campaign, it really is important that there never be a chance for even a slight misspeak because it's always taken out of context."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The lead evidently is narrowing. Perhaps you heard John Palmer report this morning. One of the newest polls has found the Republican lead, although they still have the lead narrowing. And it identifies the weak spot as Senator [target]. Is it a legitimate campaign issue whether or not the vice president is competent to be the president?"
+      }
+    ],
+    "speakername": "Marilyn Quayle",
+    "ground_truth": "president obviously one must look tonight at both candidates and see if both men are qualified this isn't just a [target] issue we have to look at lloyd benson also he has not gone under any scrutiny since he was chosen [target] has and the scrutiny he's been given has proven that he is capable of being a heartbeat away from the president i think tonight with the two men together we will definitely have the opportunity to judge the two men and decide if they both are qualified",
+    "bio": "Second Lady of the [country] (1989-1992) The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Being a senator is a little bit different than the kind of scrutiny you get in a vice presidential race. I don't think when you're campaigning at home in your state or giving speeches at home, you don't have 45 press people traveling with you waiting to put a five second bite on TV that is not necessarily germane to the entire topic of which you've been speaking. So given the parameters of the national campaign, it really is important that there never be a chance for even a slight misspeak because it's always taken out of context."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The lead evidently is narrowing. Perhaps you heard the reporter report this morning. One of the newest polls has found the Republican lead, although they still have the lead narrowing. And it identifies the weak spot as the candidate. Is it a legitimate campaign issue whether or not the vice president is competent to be the president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "president obviously one must look tonight at both candidates and see if both men are qualified this isn't just a single candidate issue we have to look at the other candidate also he has not gone under any scrutiny since he was chosen the first candidate has and the scrutiny he's been given has proven that he is capable of being a heartbeat away from the president i think tonight with the two men together we will definitely have the opportunity to judge the two men and decide if they both are qualified"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We know a great deal more about the candidate than we did a few months ago. We still don't know all that much about [target], and you strike many people as an extremely intelligent and a serious woman, good mother and so forth. You come from a very religious family. You grew up with the taped sermons of a religious leader whose name is very new to me. I'm not familiar with the religious figure. Could you tell me a little about him? I take it he's a bit controversial in evangelical circles."
+      }
+    ],
+    "speakername": "Marilyn Quayle",
+    "ground_truth": "And I have no idea whether he is or not. I have never met the religious figure. We attend the local Presbyterian Church, and before that, another Presbyterian Church. Hardly the thing of controversy.",
+    "bio": "Former Second Lady (1989-1992) The speaker's MBTI type is INTJ"
+  }
+]

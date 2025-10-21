@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Tom, the basic idea of the competitive forces starts with the notion that competition is often looked at too narrowly by managers. And the five forces say that, yes, you're competing with your direct competitors, but you're also in a fight for profits with a broader extended set of competitors, customers who have bargaining power, suppliers who can have bargaining power, new entrants who might come in and kind of grab a piece of the action and substitute products or services that essentially place a constraint or a cap on your profitability and growth. So the five forces is kind of a holistic way of looking at any industry and understanding the structural underlying drivers of profitability and competition."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So I use these to think about my rival makes it difficult for me. The threat of substitutes means I can't overcharge. The threat of new entrants means I can't overcharge. Right. And the same thing with the buyers and suppliers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And there's underlying drivers of each of those forces that the model really sort of unveils. And then you can actually apply this. Every industry is different. Every industry will have a different set of economic fundamentals. But the five forces help you home in on, first of all, what's really causing profitability in your industry? What are the trends that are the most likely to be significant in changing the game in the industry? Where are the constraints, which if you can relax and might allow you to find a really strong competitive position?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So how would you apply this analysis to an industry, airlines, for example?"
+      }
+    ],
+    "speakername": "Michael Porter",
+    "ground_truth": "Well, airlines is a great industry. It's actually, you'll see in the article, you've seen in the article, that there's a chart that compares profitability of industries, and airlines, I think, has been on the bottom of that list for decades. It's among the least profitable industries known to man. And the five forces really allows you very quickly to understand why. I mean, let's just go around the chart. The nature of rivalry is incredibly intense, and it's almost exclusively on price. It's been very hard to differentiate, to get the customer to wait even an extra two or three minutes for another flight if they can get on the flight at a cheaper price. So there's been a very intense price competition. Low bearish entry, a constant stream of new airlines coming into the industry, despite the fact that the profitability is low. It's always puzzling.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And there's underlying drivers of each of those forces that the model really sort of unveils. And then you can actually apply this. Every industry is different. Every industry will have a different set of economic fundamentals. But the five forces help you home in on, first of all, what's really causing profitability in your industry? What are the trends that are the most likely to be significant in changing the game in the industry? Where are the constraints, which if you can relax and might allow you to find a really strong competitive position?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So how would you apply this analysis to an industry, airlines, for example?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, airlines is a great industry. It's actually, you'll see in the article, you've seen in the article, that there's a chart that compares profitability of industries, and airlines, I think, has been on the bottom of that list for decades. It's among the least profitable industries known to man. And the five forces really allows you very quickly to understand why. I mean, let's just go around the chart. The nature of rivalry is incredibly intense, and it's almost exclusively on price. It's been very hard to differentiate, to get the customer to wait even an extra two or three minutes for another flight if they can get on the flight at a cheaper price. So there's been a very intense price competition. Low bearish entry, a constant stream of new airlines coming into the industry, despite the fact that the profitability is low. It's always puzzling."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "because you can rent a plane, you don't have to buy one."
+      }
+    ],
+    "speakername": "Michael Porter",
+    "ground_truth": "you can lease a gate you know it's all generic technology you can you can start with one flight between two cities you don't have to you know there's no real need to have a whole network in the beginning and yet people keep coming in I think it's just one of those sexy industry it's a great example of how sexiness or coolness or hotness or cheapness has nothing to do with industry profitability it's in the underlying structure is what drives profitability you know the customer is very fickle and price sensitive suppliers of aircraft and aircraft engines and even aircraft gates at airports now have a lot of clout they can bargain away mark most of the profits you know major manufacturers make a lot more money than airlines they get most of the profit and then of course there's always a substitute of getting on the train or driving your car or shipping your goods by air and and that's that's kind of kept a concern you have powerful suppliers",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, airlines is a great industry. It's actually, you'll see in the article, you've seen in the article, that there's a chart that compares profitability of industries, and airlines, I think, has been on the bottom of that list for decades. It's among the least profitable industries known to man. And the five forces really allows you very quickly to understand why. I mean, let's just go around the chart. The nature of rivalry is incredibly intense, and it's almost exclusively on price. It's been very hard to differentiate, to get the customer to wait even an extra two or three minutes for another flight if they can get on the flight at a cheaper price. So there's been a very intense price competition. Low bearish entry, a constant stream of new airlines coming into the industry, despite the fact that the profitability is low. It's always puzzling."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "because you can rent a plane, you don't have to buy one."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you can lease a gate you know it's all generic technology you can you can start with one flight between two city pairs you don't have to you know there's no real need to have a whole network in the beginning and yet people keep coming in I think it's just one of those sexy industry it's a great example of how sexiness or coolness or hotness or cheapness has nothing to do with industry profitability it's in the underlying structure is what drives profitability you know the the customer is very fickle and price sensitive suppliers of aircraft and aircraft engines and even aircraft gates at airports now have a lot of clout they can bargain away mark most of the profits you know major manufacturers make a lot more money than airlines they get most of the profit and then of course there's always a substitute of getting on the train or driving your car or shipping your goods by by air and and that's that's kind of kept a concern you have powerful suppliers"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's another powerful supplier. Right. Exactly."
+      }
+    ],
+    "speakername": "Michael Porter",
+    "ground_truth": "There's a great case where you have unionized labor and unlike other industries in this industry, particularly with the pilots, the labor can literally shut you down. And there's no way around them. So it's an industry where there are spurts of what you might call mediocre profitability punctuated by long periods of terrible profitability.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you can lease a gate you know it's all generic technology you can you can start with one flight between two city pairs you don't have to you know there's no real need to have a whole network in the beginning and yet people keep coming in I think it's just one of those sexy industry it's a great example of how sexiness or coolness or hotness or cheapness has nothing to do with industry profitability it's in the underlying structure is what drives profitability you know the the customer is very fickle and price sensitive suppliers of aircraft and aircraft engines and and even aircraft gates at airports now have a lot of clout they can bargain away mark most of the profits you know GE and Rolls-Royce and and and Airbus and Boeing make a lot more money than airlines they get most of the profit and then of course there's always a substitute of getting on the train or driving your car or or shipping your goods by by air and and that's that's kind of kept a concern you have powerful suppliers"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's another powerful supplier. Right. Exactly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's a great case where you have unionized labor and unlike other industries in this industry, particularly with the pilots, the labor can literally shut you down. And there's no way around them. So it's an industry where there are spurts of what you might call mediocre profitability punctuated by long periods of terrible profitability."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So every one of the five forces is very strong in that industry. And you could take another industry where the five forces are relatively benign in all."
+      }
+    ],
+    "speakername": "Michael Porter",
+    "ground_truth": "Like soft drinks. I mean, soft drinks has been a license to mint money, and, again, it's the opposite kind of analysis. When I talk with students, we kind of joke around. There's five-star industries where all the forces are attractive, like soft drinks. There's zero-star industries where all the forces are unfavorable, like airlines. And we're always trying to understand, okay, what's the configuration of underlying economic drivers that's going to really shape the proper potential of this industry? And then armed with that insight, what do I do about it? How do I try to relax the constraint that's holding back industry profitability?",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's another powerful supplier. Right. Exactly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's a great case where you have unionized labor and unlike other industries in this industry, particularly with the pilots, the labor can literally shut you down. And there's no way around them. So it's an industry where there are spurts of what you might call mediocre profitability punctuated by long periods of terrible profitability."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So every one of the five forces is very strong in that industry. And you could take another industry where the five forces are relatively benign in all."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Like soft beverages. I mean, soft beverages has been a license to mint money, and, again, it's the opposite kind of analysis. When I talk with students, we kind of joke around. There's five-star industries where all the forces are attractive, like soft beverages. There's zero-star industries where all the forces are unfavorable, like airlines. And we're always trying to understand, okay, what's the configuration of underlying economic drivers that's going to really shape the proper potential of this industry? And then armed with that insight, what do I do about it? How do I try to relax the constraint that's holding back industry profitability?"
+      }
+    ],
+    "speakername": "Michael Porter",
+    "ground_truth": "How can I position myself to kind of insulate from some of the gale winds of those forces? And those implications of the five forces are something that this new article has developed in much more detail.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

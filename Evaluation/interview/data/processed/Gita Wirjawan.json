@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's a little bit warm at this time of the day, though. The YouTube channel description says, a proud citizen who's on a mission to find the best narrators to help tell the story of a country and the region's bright future. That's pretty much what you mentioned already. But you also mentioned that this was an idea experiment. Correct."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "um what is the what would have been the target of the experiment what were you trying to accomplish"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Find as many smart citizens as possible, okay, and we have and we've just discovered we didn't think we were gonna be able to Discover this many"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and we've discovered also that there's a lot more to be discovered who know you know so many things so many different topics"
+      }
+    ],
+    "speakername": "Gita Wirjawan",
+    "ground_truth": "And that is, I think, what serves as an impetus for us to work harder at it. And the result has been tremendously different from what we anticipated, and that's even more impetus for us to move forward.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a mirror"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's a mirror. Very interesting. My team has interesting ways of selecting for a gift. So this was something that can be used as a tool for public speaking. In fact, this is something that you've done before. Why are you laughing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We do this every day, man."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So this is actually a trick that can be used. So tell me a little bit about what's behind it."
+      }
+    ],
+    "speakername": "Gita Wirjawan",
+    "ground_truth": "So I, you know, I was, I was not a very good public speaker decades ago when I first started my real job before that, before that I was washing dishes and, and I, I, I sucked, you know, in talking to clients and my, my former boss was very good at it.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's a mirror. Very interesting. My team has interesting ways of selecting for a gift. So this was something that can be used as a tool for public speaking. In fact, this is something that you've done before. Why are you laughing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We do this every day, man."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So this is actually a trick that can be used. So tell me a little bit about what's behind it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I, you know, I was, I was not a very good public speaker decades ago when I first started my real job before that, before that I was washing dishes and, and I, I, I sucked, you know, in talking to clients and my, my former boss was very good at it."
+      }
+    ],
+    "speakername": "Gita Wirjawan",
+    "ground_truth": "He told me, dude, you know, just look at yourself in the mirror and start talking for about 15 to 20 minutes a day.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So this is actually a trick that can be used. So tell me a little bit about what's behind it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I, you know, I was, I was not a very good public speaker decades ago when I first started my real job before that, before that I was washing dishes and, and I, I, I sucked, you know, in talking to clients and my, my former boss was very good at it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He told me, dude, you know, just look at yourself in the mirror and start talking for about 15 to 20 minutes a day."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Really?"
+      }
+    ],
+    "speakername": "Gita Wirjawan",
+    "ground_truth": "And I did that and I grew in a positive way in terms of my ability to speak more confidently in front of clients or anybody. And I still do that until today.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He told me, dude, you know, just look at yourself in the mirror and start talking for about 15 to 20 minutes a day."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Really?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I did that and I grew in a positive way in terms of my ability to speak more confidently in front of clients or anybody. And I still do that until today."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What were you trying to get over, was it nerves or was it just execution?"
+      }
+    ],
+    "speakername": "Gita Wirjawan",
+    "ground_truth": "got stuck you know my lips were stuck whenever i was in front of a client uh this would have been 1989 a long time ago man and and ever since then you know i've picked up on this uh you know i've gotten a little bit better since then and i tell people around me",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The most game-changing work that I've ever done is. [target] launched a multi-million dollar life coaching business. Star of the award-winning show. An international best-selling author. Can I get a woo-woo? [target]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'm going to read."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Track your time meticulously for seven days. You will be shocked at how much time flitters away that don't create a ton of value for you. And you'll get an idea of like, I would have never thought of that if your face was stuck in streaming services or social media for the seven hours a day that you're not working."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your book is full of solutions to the most important challenges. What are you struggling with?"
+      }
+    ],
+    "speakername": "Marie Forleo",
+    "ground_truth": "i'm someone who has adhd so i can have a very overactive brain i found myself over performing and overworking wanting to control everything so i could have a sense of safety that's where the real cost came in for me i started dreading waking up in the morning like i wish i could just disappear like wow yeah see these were scary thoughts and it almost destroyed my relationship",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Track your time meticulously for seven days. You will be shocked at how much time flitters away that don't create a ton of value for you. And you'll get an idea of like, I would have never thought of that if your face was stuck in streaming services or social media for the seven hours a day that you're not working."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your book is full of solutions to the most important challenges. What are you struggling with?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "i'm someone who has adhd so i can have a very overactive brain i found myself over performing and overworking wanting to control everything so i could have a sense of safety that's where the real cost came in for me i started dreading waking up in the morning like i wish i could just disappear like wow yeah see these were scary thoughts and it almost destroyed my relationship"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In the book, you talk about these three rules that underpin this figureoutable mindset."
+      }
+    ],
+    "speakername": "Marie Forleo",
+    "ground_truth": "Yes, and it's just helped me in every different facet. My relationships, my mental health, my business.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Was there a moment when you realised that this is what you wanted to do with your life?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Because I know you went to the financial district. I didn't know it was very long in the new."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh my goodness, I failed at so many jobs. So I remember when I was in the financial district at the stock exchange, I was really excited about it because it was this place where there's tremendous potential for income, right? And I was around people that were making millions of dollars a year, which is so far beyond anything I could have imagined in my life at that time. And I kept hearing this little voice inside, Stephen, that was like, this isn't who you are. This isn't what you're meant to do. This isn't who you're supposed to be. And that little voice kept getting louder and louder, but the little voice didn't tell me what else I was supposed to do. And one day I was crying my eyes out because I felt like such a failure. My parents had busted their buns to help me get through college, first in my family to go to school. And I knew that I was so lucky to have that job, just any job, right? Healthcare, a steady paycheck. And here I was miserable. I wanted to quit so bad. And I just felt trapped because I didn't want to bring shame upon my family. I felt like a total failure. And the little voice then said, call your dad. So I took out my flip phone at the time, which gives you an idea. It was like the late nineties. And I was crying to my dad and I said, dad, I'm so sorry. Like you and mom worked so hard to get me through school. And I just, I can't stand this job. I want to quit. And he broke in while my sniffly, snotty crying. And he's like, Rhi, he's like, calm down. He's like, if this job is getting you this sick and you hate it, you have to quit. I said, but dad, I don't know what I'm supposed to do. Like, this isn't like me. And he said, look, you're going to work for the next year. You're going to work for the next year. And I said, 40 or 50 years of your life, you have got to find something you love. And if this job isn't it, then start bartending, do whatever you need to do again, but don't stop looking until you find something that you really, really want to go to do every single day. So the only things I knew about myself were that I loved business, but I was also highly creative. And the only combination that felt like it could work in an industry was magazine publishing. At the time, that was still a thing. And I went to a temp agency. Got a job at a food magazine. But about six months into that job, which was interesting, I started hearing that same voice again, Steven. I was like, oh, this isn't who you are. This isn't what you're supposed to do. This isn't what you're supposed to be. So I'm on the internet one day at work, probably when I shouldn't have been. And I stumbled upon this new profession at the time called coaching. When I read this article, it was as though something in my soul lit up like a Christmas tree. It was like the clouds parted and little angels came out and I was like, oh, this is what you're supposed to do."
+      }
+    ],
+    "speakername": "Marie Forleo",
+    "ground_truth": "And I said, I'm going to do this life coaching business. And I went back to bartending and waiting tables and just devoted myself to figuring out how to build a business during the day.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I said, I'm going to do this life coaching business. And I went back to bartending and waiting tables and just devoted myself to figuring out how to build a business during the day."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, so let's go back through. So the voice inside."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What is that voice?"
+      }
+    ],
+    "speakername": "Marie Forleo",
+    "ground_truth": "to me i believe it is my intuition it is my when i say higher self i believe the part of me that is timeless that's probably been here before and that will be here beyond this particular incarnation and if anyone out there i certainly do believes in a higher power that there are other levels of intelligence that are actually supportive of us that's who i think that voice is",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What is that voice?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "to me i believe it is my intuition it is my when i say higher self i believe the part of me that is timeless that's probably been here before and that will be here beyond this particular incarnation and if anyone out there i certainly do believes in a higher power that there are other levels of intelligence that are actually supportive of us that's who i think that voice is"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Does everyone have that voice?"
+      }
+    ],
+    "speakername": "Marie Forleo",
+    "ground_truth": "I absolutely believe so, that's my personal belief. Everyone has that voice. They may not have been trained to articulate and understand and discern it, but I believe it's there.",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

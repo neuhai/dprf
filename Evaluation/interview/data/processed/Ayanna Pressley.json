@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I think about the squad often. I lift you all up in prayer because I don't think people understand the courage it takes for someone in your position to speak out against the celebrity in chief, the president of the United States of America. Where does that courage come from?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first I just want to say, you know, so what did you call him?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The celebrity in chief."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Celebrity in chief, yeah, that's appropriate. I call him the occupant because he's just occupying space. The squatter."
+      }
+    ],
+    "speakername": "Ayanna Pressley",
+    "ground_truth": "Yeah, I mean, it's like, you know, we went from a president who sang Amazing Grace to someone that displays zero of it. He does not embody the integrity.",
+    "bio": "The target (born February 3, 1974) is an American politician serving as the U.S. Representative for a congressional district since 2019. A member of the Democratic Party, their district, which was once represented by prominent political figures, includes parts of a major northeastern city and several surrounding communities. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The celebrity in chief."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Celebrity in chief, yeah, that's appropriate. I call him the occupant because he's just occupying space. The squatter."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, it's like, you know, we went from a president who sang Amazing Grace to someone that displays zero of it. He does not embody the integrity."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I mean, it's like, you know."
+      }
+    ],
+    "speakername": "Ayanna Pressley",
+    "ground_truth": "the empathy, the compassion. And so I will never refer to him as the president, not because I dishonored the office, but because he does. And as far as any courage, you know, I have to tell just the whole truth here. I am so grateful for the solidarity and the love and support and the prayers and the covering that people have extended to us throughout this journey. And in particular, during those that that intense three week period of really targeted assaults and hateful, you know, rhetoric. But I felt that I was really sitting in a position of privilege that we could garner that level of support.",
+    "bio": "[target] (born February 3, 1974) is an American politician serving as the U.S. Representative for [location] congressional district since 2019. A member of the Democratic Party, their district, which was once represented by [historical figure] and [historical figure], includes the northern three-fourths of [city], most of [city], parts of [city], as well as all of [city], [city], [city], and [city]. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I don't think when I cross the threshold of an august institution or government body that suddenly, you know, the things that I deal with in navigating the world go away."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But I will say we find ourselves in really unprecedented terrain and uncharted landscape. I mean, this level of vitriol. And that's because it's being this climate is being created and this hate is being emboldened by the occupant of this [government building]. Now, on the death threat front, let me just I'll just argue that I don't think any leader, if you are really disruptive in the pursuit of progress and justice, if you are challenging conventional thought and wisdom, is not going to be subject to death threats."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mm."
+      }
+    ],
+    "speakername": "Ayanna Pressley",
+    "ground_truth": "So to me, in my striving to be a leader and certainly being a black woman, that is just par for the course.",
+    "bio": "[target] (born February 3, 1974) is an American politician serving as the U.S. Representative for [state]'s 7th congressional district since 2019. A member of the Democratic Party, her district, which was once represented by [former politician 1] and [former politician 2], includes the northern three-fourths of [major city], most of [city 1], parts of [city 2], as well as all of [city 3], [city 4], [city 5], and [city 6]. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But I will say we find ourselves in really unprecedented terrain and uncharted landscape. I mean, this level of vitriol. And that's because it's being this climate is being created and this hate is being emboldened by the occupant of this [government building]. Now, on the death threat front, let me just I'll just argue that I don't think any leader, if you are really disruptive in the pursuit of progress and justice, if you are challenging conventional thought and wisdom, is not going to be subject to death threats."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So to me, in my striving to be a leader and certainly being a black woman, that is just par for the course."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It comes with the territory."
+      }
+    ],
+    "speakername": "Ayanna Pressley",
+    "ground_truth": "It's par for the course. I mean, you know, I serve on the Oversight and Reform Committee. And one of the subcommittees I serve on is Civil Rights and Civil Liberties. And, you know, one of the things that I went at the [federal agency] really hard about was this designation they created of black identity extremists.",
+    "bio": "[target] (born February 3, 1974) is an American politician serving as the U.S. Representative for [state]'s 7th congressional district since 2019. A member of the Democratic Party, their district, which was once represented by [former politicians], includes the northern three-fourths of [major city], most of [city], parts of [town], as well as all of [cities]. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So to me, in my striving to be a leader and certainly being a black woman, that is just par for the course."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It comes with the territory."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's par for the course. I mean, you know, I serve on the Oversight and Reform Committee. And one of the subcommittees I serve on is Civil Rights and Civil Liberties. And, you know, one of the things that I went at the federal investigation agency really hard about was this designation they created of black identity extremists."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes."
+      }
+    ],
+    "speakername": "Ayanna Pressley",
+    "ground_truth": "Which to me is just another excuse to profile and survey black folk, because you could argue that someone affiliated with a civil rights movement is a black identity extremist. And this category was created because of six tragic shootings. So, again, I want to honor the fact that there were six lives that were lost. But the only common denominator in those six separate tragic shootings is that the perpetrators were all black.",
+    "bio": "[target] (born February 3, 1974) is an American politician serving as the U.S. Representative for a northeastern state's congressional district since 2019. A member of the Democratic Party, their district includes parts of a major northeastern city and several surrounding communities. The speaker's MBTI type is ESFJ"
+  }
+]

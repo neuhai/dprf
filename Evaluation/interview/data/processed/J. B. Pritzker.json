@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, let me start with, with or without the current administration, my role is to protect the people of this state, to raise their standard of living, to make life better for state families, and to grow this state. And that's what we've been doing. Now, we have a challenge ahead because the new president clearly wants to attack places like our state, where he didn't win the election. And it's going to be challenging for working families across our state, for the most vulnerable across our state and across the country. And so my job is to stand up for what is the law of our state, to make sure that we're doing everything we can to make life more affordable, to protect people from having their rights taken away. That's my job. And his job should be to follow the law. And I would expect that he would, but already he has proposed something that's unconstitutional and other things that I think are really bad for working families."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're referring, I'm sure, to birthright citizenship?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Indeed, and also the tariffs that he wants to impose that are just going to raise prices for families."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let's just go back just a second though about how it'll impact our state. How will your budget be impacted? Because what I understand is some state agencies have already been told, hey, that federal money that you had last year, you're not going to get it this year."
+      }
+    ],
+    "speakername": "J. B. Pritzker",
+    "ground_truth": "Well, that's not true yet. We haven't been notified that things that we were getting last year won't come. We expect it, however, that there are things that will be under attack. For example, the president for many years has been trying to get rid of the expansion of health care, right? The healthcare program, as you know it, the ACA. And it is truly a challenge for hundreds of thousands of people that they might have their health care taken away by this new federal administration. So this is a problem, right? It's not something that the state cannot fill in the billions of dollars that come with Medicaid coverage where 50 percent of it is covered by the federal government. We just can't. We don't have those dollars. So if that is something that he does that takes away health care from people in our state, it is the administration that is ruining the opportunity for people to live healthy lives in our state.",
+    "bio": "The speaker (born January 19, 1965) is an American business leader, philanthropist, and politician serving as the governor of a midwestern state since 2019. His family, which owns a worldwide hotel chain, is considered among the country's richest families. The speaker is based in a major midwestern city and has started several venture capital and investment startups, where he is a managing partner. His estimated personal net worth is $3.6 billion. He has been a longtime financial supporter and active member of the Democratic Party. He became the Democratic nominee for governor in the 2018 gubernatorial election after winning a crowded primary election. He defeated the Republican incumbent in the general election on November 6, 2018, and took office on January 14, 2019. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Indeed, and also the tariffs that he wants to impose that are just going to raise prices for families."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let's just go back just a second though about how it'll impact [state]. How will your budget be impacted? Because what I understand is some state agencies have already been told, hey, that federal money that you had last year, you're not going to get it this year."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that's not true yet. We haven't been notified that things that we were getting last year won't come. We expect it, however, that there are things that will be under attack. For example, Donald Trump for many years has been trying to get rid of the expansion of health care, right? The health care act, as you know it, the ACA. And it is truly a challenge for hundreds of thousands of people that they might have their health care taken away by this new federal administration. So this is a problem, right? It's not something that the state of [state] cannot fill in the billions of dollars that come with Medicaid coverage where 50 percent of it is covered by the federal government. We just can't. We don't have those dollars. So if that is something that he does that takes away health care from people in the state of [state], it is Donald Trump. That is ruining the opportunity for people to live healthy lives in our state."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Might the transit extension be impacted?"
+      }
+    ],
+    "speakername": "J. B. Pritzker",
+    "ground_truth": "Well, we'll see. That money was awarded. He has announced that he's freezing the awards that were made. Having said that, those were done under the prior administration. Everything that was necessary to make that happen has been done. And so it's just a question of whether Donald Trump is going to stand in the way. There will be lawsuits if he does. We certainly know that the federal government owes us that money now. And again, Donald Trump may break the law because he's known to do that. And we're going to have to take him to court if he does.",
+    "bio": "[target] (born January 19, 1965) is an American business leader, philanthropist, and politician serving as the governor of [state] since 2019. His family, which owns a worldwide hotel chain, is considered among the country's richest families. [target] is based in a major midwestern city and has started several venture capital and investment startups like his investment group, where he is a managing partner. His estimated personal net worth is $3.6 billion. [target] has been a longtime financial supporter and active member of the Democratic Party. He became the Democratic nominee for governor of [state] in the 2018 gubernatorial election after winning a crowded primary election. He defeated the Republican incumbent in the general election on November 6, 2018, and took office on January 14, 2019. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, that's not true yet. We haven't been notified that things that we were getting last year won't come. We expect it, however, that there are things that will be under attack. For example, the former president for many years has been trying to get rid of the expansion of health care, right? The healthcare reform act, as you know it, the ACA. And it is truly a challenge for hundreds of thousands of people that they might have their health care taken away by this new federal administration. So this is a problem, right? It's not something that the state cannot fill in the billions of dollars that come with Medicaid coverage where 50 percent of it is covered by the federal government. We just can't. We don't have those dollars. So if that is something that he does that takes away health care from people in our state, it is the former president. That is ruining the opportunity for people to live healthy lives in our state."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Might the public transit extension be impacted?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we'll see. That money was awarded. He has announced that he's freezing the awards that were made. Having said that, those were done under the prior administration. Everything that was necessary to make that happen has been done. And so it's just a question of whether the former president is going to stand in the way. There will be lawsuits if he does. We certainly know that the federal government owes us that money now. And again, the former president may break the law because he's known to do that. And we're going to have to take him to court if he does."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Who is your contact? Who is your call at the capital where you say, help? I mean, you certainly had many in the previous administration. Who's your person now that you say, who are we gonna deal with on all of this?"
+      }
+    ],
+    "speakername": "J. B. Pritzker",
+    "ground_truth": "Well, let's start with the new administration and people in his administration. They haven't called us to connect with us. We're one of the 50 states that he represents and serves, and I would expect that they, too, would reach out to us. In terms of, you know, if we need to lobby the administration for something, there are plenty of people that are in our state, business people, for example, who supported the former president, who we know, and who want to do what's best for the state. And so we'll work with his allies that are in our state to get done what we need.",
+    "bio": "The target (born January 19, 1965) is an American business leader, philanthropist, and politician serving as the state governor since 2019. Their family, which owns a worldwide hotel chain, is considered among the country's richest families. The target is based in a major midwestern city and has started several venture capital and investment startups, where they serve as a managing partner. Their estimated personal net worth is $3.6 billion. The target has been a longtime financial supporter and active member of their political party. They became their party's nominee for governor in the 2018 gubernatorial election after winning a crowded primary election. They defeated the incumbent in the general election on November 6, 2018, and took office on January 14, 2019. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we'll see. That money was awarded. He has announced that he's freezing the awards that were made. Having said that, those were done under the prior administration. Everything that was necessary to make that happen has been done. And so it's just a question of whether he is going to stand in the way. There will be lawsuits if he does. We certainly know that the federal government owes us that money now. And again, he may break the law because he's known to do that. And we're going to have to take him to court if he does."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Who is your contact? Who is your call at the capital where you say, help? I mean, you certainly had many in the administration. Who's your person now that you say, who are we gonna deal with on all of this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, let's start with the new administration and people in his administration. They haven't called us to connect with us. We're one of the 50 states that he represents and serves, and I would expect that they, too, would reach out to us. In terms of, you know, if we need to lobby the administration for something, there are plenty of people that are in our state, business people, for example, who supported him, who we know, and who want to do what's best for the state. And so we'll work with his allies that are in our state to get done what we need."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're confident that the state is not going to miss out because of this difficult relationship you and him personally have?"
+      }
+    ],
+    "speakername": "J. B. Pritzker",
+    "ground_truth": "That shouldn't be the case. I mean, if he decides that he wants to punish people or states, right, which is not something that presidents do. You didn't see the previous president do that. There were plenty of opportunities to do that. He didn't, right? He delivered things for conservative states as well as progressive states. But he may not be that even-handed. In fact, he, again, over and over, demonstrates that he'll do whatever's in his own best interests, whatever's in the best interests of his wealthy allies, and not necessarily in the interests of ordinary, everyday families in our state.",
+    "bio": "The speaker (born January 19, 1965) is an American billionaire heir, businessman, philanthropist, and politician serving as the governor of a major midwestern state since 2019. Their family, which owns a worldwide hotel chain, is considered among the country's richest families. The speaker is based in a major midwestern city and has started several venture capital and investment startups where they serve as a managing partner. Their estimated personal net worth is $3.6 billion. They have been a longtime financial supporter and active member of their political party. They became their party's nominee for governor in the 2018 gubernatorial election after winning a crowded primary election. They defeated the incumbent in the general election on November 6, 2018, and took office on January 14, 2019. The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, let's start with the new administration and people in his administration. They haven't called us to connect with us. We're one of the 50 states that he represents and serves, and I would expect that they, too, would reach out to us. In terms of, you know, if we need to lobby the administration for something, there are plenty of people that are in the state, business people, for example, who supported the administration, who we know, and who want to do what's best for the state. And so we'll work with his allies that are in our state to get done what we need."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're confident that the state is not going to miss out because of this difficult relationship you and the administration personally have?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That shouldn't be the case. I mean, if the administration decides that they want to punish people or states, right, which is not something that presidents do. You didn't see the previous president do that. There were plenty of opportunities to do that. He didn't, right? He delivered things for all states regardless of political alignment. But the current administration may not be that even-handed. In fact, they, again, over and over, demonstrate that they'll do whatever's in their own best interests, whatever's in the best interests of their wealthy allies, and not necessarily in the interests of ordinary, everyday families in our state."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let's talk about yesterday, the events that took place. You've said that the tech CEO should apologize. However, the organization does not see it as a Nazi salute. What is the difference of what you see and what you think they sees?"
+      }
+    ],
+    "speakername": "J. B. Pritzker",
+    "ground_truth": "Well, anybody that watches that video saw him do it, not once, but twice. And even if it was inadvertent, even if it was inadvertent, it's a clear, you know, symbol and gesture that everybody knows. You would have recognized it. I recognized it. Anybody that studied history recognizes it. I guarantee the tech CEO knew what it was. He may have mistakenly done it. And by the way, people make mistakes. He should apologize. And the former president should call it out, too. It was his rally. These are people who are on stage because he asked them to be. And he should say something about it, denounce it. And, again, that's something simple for each one of them to do. Neither one has done it.",
+    "bio": "The speaker (born January 19, 1965) is an American business leader, philanthropist, and politician serving as the governor of a major midwestern state since 2019. Their family, which owns a worldwide hotel chain, is considered among the country's richest families. The speaker is based in a major midwestern city and has started several venture capital and investment startups, where they serve as a managing partner. Their estimated personal net worth is $3.6 billion. They have been a longtime financial supporter and active member of their political party. They became their party's nominee for governor in the 2018 gubernatorial election after winning a crowded primary election. They defeated the incumbent in the general election on November 6, 2018, and took office on January 14, 2019. The speaker's MBTI type is ENFJ"
+  }
+]

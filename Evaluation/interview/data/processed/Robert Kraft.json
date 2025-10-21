@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I've learned in doing my interviews how leaders make it to the top. I asked him how much he wanted. He said 250. I said fine. I didn't negotiate with him. I did no due diligence. I have something I'd like to sell and how they stay there. You don't feel inadequate now because being only the second wealthiest man in the world, is that right? Over the past quarter century, the most successful sports owner in the world has been [target]. He's taken his team, the professional football team, to six championship games with the help of his star quarterback. I had a chance to sit down with [target] at his sports stadium in the Northeast, to talk about how he's been so successful as a sports team owner, but also his newfound and very deeply felt interest in fighting anti-Semitism. Bob, in your wildest dreams, when you bought this team in 1994, did you ever imagine you'd win six championships and be the most famous owner in professional sports?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I sat in the stands of the old stadium and then when they came here, I sat in the stands here and dreamt about one day trying to buy this team and own it and run it the way I wanted. I said if I could ever get this team, I'd just dream of having home playoff games and going to the championship and winning it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now, when you bought the team, I think you paid roughly $175 million, something like that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "hundred and seventy two hundred seventy two million dollars"
+      }
+    ],
+    "speakername": "Robert Kraft",
+    "ground_truth": "Okay, $172 million, which was a lot of money in those days, the highest price ever paid for a professional football team at the time.",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, $172 million, which was a lot of money in those days, the highest price ever paid for a football team at the time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "any sports franchise anywhere in the world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, so I'm sure your friend said, Bob, are you crazy? My..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "friends, my wife. It's the one time in our marriage that she was ready to really wring my neck."
+      }
+    ],
+    "speakername": "Robert Kraft",
+    "ground_truth": "But now, the professional football team, they were sold recently for a purchase price of $6 billion. And they haven't won six championships. So if you put your team up for sale, presumably it's worth $8 billion, $10 billion or more, would you ever consider selling or you're never going to sell?",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, so I'm sure your friend said, are you crazy? My..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "friends, my wife. It's the one time in our marriage that she was ready to really wring my neck."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But now, the team, they were sold recently for a purchase price of $6 billion. And they haven't won six championships. So if you put your team up for sale, presumably it's worth $8 billion, $10 billion or more, would you ever consider selling or you're never going to sell?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Never in my lifetime will we sell this team, and I hope my children keep it going as well. It also builds community. It's a way to build bridges. You bring people of all background together. I think back to when we were privileged to win our first championship three, four months after 9-11, and [city], a city of 600,000 people, a million and a half people came out on the streets, very cold day, black, white, Asian, gay, every background, all putting community and team first, and that's a privilege and an honor. So I look at this team as like a community asset, and I'm never gonna sell it."
+      }
+    ],
+    "speakername": "Robert Kraft",
+    "ground_truth": "So let me ask you about the league generally. The league prices for the value of the team has gone up, as I mentioned earlier, and that's because TV contracts have gone up. How much higher do you think TV contracts can really go? Is there any limit to how much you can get paid by the broadcasters?",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But now, the [sports team], they were sold recently for a purchase price of $6 billion. And they haven't won six [championships]. So if you put your team up for sale, presumably it's worth $8 billion, $10 billion or more, would you ever consider selling or you're never going to sell?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Never in my lifetime will we sell this team, and I hope my children keep it going as well. It also builds community. It's a way to build bridges. You bring people of all background together. I think back to when we were privileged to win our first championship three, four months after 9-11, and [major city], a city of 600,000 people, a million and a half people came out on the streets, very cold day, black, white, Asian, gay, every background, all putting community and team first, and that's a privilege and an honor. So I look at this team as like a community asset, and I'm never gonna sell it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So let me ask you about the professional league generally. The league prices for the value of the team has gone up, as I mentioned earlier, and that's because TV contracts have gone up. How much higher do you think TV contracts can really go? Is there any limit to how much you can get paid by the broadcasters?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I've been privileged to be chair of the media committee for the last couple of decades. And three years ago, three seasons ago, we were able to do seven to 10 year contracts that exceeded $130 billion. And that was tremendous because it gave us great stability in the league, where we could do a 10 year labor deal. And we basically share 50-50 with the players, the revenue. So they have been able to grow and succeed with us. We know linear TV is really challenged now. And we've been doing things that we brought in two tech partners now, who Amazon and Google or YouTube. And I think we are developing our own league streaming service, where we go direct to consumer. And I think we'll have some serious decisions to make down the road when we see what happens in the whole media environment."
+      }
+    ],
+    "speakername": "Robert Kraft",
+    "ground_truth": "Now, the professional league is the most popular, I guess, spectator sport in the [country], you could argue. It gets better TV ratings than virtually any other sport. But around the world, the most popular sport seems to be, for this purpose, what is called soccer in this country and football outside. Can you make American football as popular outside the [country] as European football is around the world, or is that not realistic?",
+    "bio": "The speaker's MBTI type is ESTP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So let me ask you about the sports league generally. The league prices for the value of the team has gone up, as I mentioned earlier, and that's because TV contracts have gone up. How much higher do you think TV contracts can really go? Is there any limit to how much you can get paid by the broadcasters?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I've been privileged to be chair of the media committee for the last couple of decades. And three years ago, three seasons ago, we were able to do seven to 10 year contracts that exceeded $130 billion. And that was tremendous because it gave us great stability in the league, where we could do a 10 year labor deal. And we basically share 50-50 with the players, the revenue. So they have been able to grow and succeed with us. We know linear TV is really challenged now. And we've been doing things that we brought in two tech partners now, who Amazon and Google or YouTube. And I think we are developing our own league streaming service, where we go direct to consumer. And I think we'll have some serious decisions to make down the road when we see what happens in the whole media environment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now, the league is the most popular, I guess, spectator sport in this country, you could argue. It gets better TV ratings than virtually any other sport. But around the world, the most popular sport seems to be, for this purpose, what is called soccer in this country and football outside. Can you make our sport as popular outside this country as European football is around the world, or is that not realistic?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't think it's realistic, partly because to play soccer, all you need is a ball really, you don't need equipment, you don't need anything but a net and a ball. Two-thirds of the world's population can actually play the game. Unfortunately, except for Europe, we haven't really had the game played. Like we're going to a European country this year and the stadium we're playing has 55 or 60,000 seats and demand for tickets was 3 million within the first 24 hours. So the demand is there and the appreciation of the game and I think we're going to work to have the game appreciated more globally and I think with gaming coming on that people throughout the world, our sport has a 40-second delay between plays, the prop betting and other kinds of gaming as we educate more internationally, that's where the marketplace really is open for us. But I don't think unfortunately they'll be playing the game all over the world."
+      }
+    ],
+    "speakername": "Robert Kraft",
+    "ground_truth": "Now, one of the issues that the league has had to deal with is the concussion issue. When you were playing the sport, it wasn't probably as big a deal. When I played when I was 10 or 12, you know, I wasn't getting hit in the head that much by people who were weighing 200 or 300 pounds. Today, when you have a lot of players that weigh 300 pounds, they hit you, you can really get hurt. You've settled the litigation, I think, on concussions. And do you think the concussion issue has largely been addressed? And do you think better protective equipment will help the problem in the future a bit?",
+    "bio": " The speaker's MBTI type is ESTP"
+  }
+]

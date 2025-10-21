@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But let's admit it, that was a down payment on the work that we have yet to do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "because it's gotten worse hundreds of viewers told us so on social media the mayor says going into the next budget cycle he'll call on fellow city commissioners to increase funding for these programs but that budget doesn't go into effect until the summer in the meantime he'll look to move funding around to ramp up these programs as soon as possible we asked for specifics so how soon might that because that's kind of what i'm getting at what can be done in the meantime"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know I don't give specific timelines and you know why."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, I don't, why not? For people who wanna know when."
+      }
+    ],
+    "speakername": "Ted Wheeler",
+    "ground_truth": "I don't want to over-promise and under-deliver. I want to make sure that we have a thoughtful program and we will be completely transparent with the public about both the plans and the resources as they're developed. But I'm not going to sit here and guess.",
+    "bio": "The subject (born August 31, 1962) is an American politician who has served as the mayor of a major Pacific Northwest city since 2017. They were State Treasurer from 2010 to 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I don't think it's productive to get into a back and forth with the head of the Police Union. And I want to be clear, the union is separate from the police bureau as a whole. I believe I continue to have the confidence of the leadership as well as the rank and file in the Police Bureau. I'm going to continue to work to not only support the police in terms of making sure they have the tools and the resources and the training they need to be effective. But as the mayor of the city, I'm also going to hold them accountable, just as I hold every other bureau in my portfolio accountable. And I'm going to continue to work going forward with anybody who will work with me on the reforms the community is asking for. They're saying they want and they expect their police bureau to provide safety and do it in a manner that's consistent with the values of the community. And I support that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "but the specific vote was that they had no confidence in you or the city commission to stop the violence downtown and to protect the businesses and to protect people in the city. Is that true?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "my directive to the leadership of the police bureau has been clear with regard to what we're seeing late at night which is a very small handful of people two three hundred people coming downtown and committing acts of violence and vandalism which i believe detracts from the larger movement we're seeing around racial justice and equity i've told them to bring those late night antics to a close and do so safely meaning both for those who are demonstrating as well as for the men and women in the police bureau and they have embraced that as a strategy they update me on a daily basis i've supported their efforts i'll continue to support their efforts so that's going to continue to be my focus is the big picture"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How do you think that effort is going so far, just targeting those violent protesters late at night?"
+      }
+    ],
+    "speakername": "Ted Wheeler",
+    "ground_truth": "Well, it's obviously been a struggle for the Police Bureau when you have a small group of people who are very determined to commit acts of violence or vandalism, including trying to enter the Government Center and set it on fire with 300 people who are incarcerated inside. That creates a potentially volatile situation. And what I'm hearing from command staff, because I've asked, well, why can't you just go in and arrest everybody and bring it to a conclusion? If they're engaged in criminal activity, and you can demonstrate that, why not just arrest them? And the answer they've given me makes a lot of good sense. And what they've said is, even though it's two or 300 people, sending police into that kind of a situation could be very dangerous, both for them, as well as potentially inciting an even more volatile situation. So they're trying to deescalate, they're trying to make selective arrests, they're trying to do what they can to keep a lid on the violence and the vandalism without potentially creating a much larger situation. And I trust them when they say that that is the right strategy to pursue. And what we're already seeing this week is significant deescalation. We're seeing those groups grow smaller and smaller by the night. And in the last few days, I believe they've, they have reached the containment situation. I expect that this will be wrapped up quickly. And as I say,",
+    "bio": "An American politician who has served as the mayor of a major city in the Pacific Northwest since 2017. He was State Treasurer from 2010 to 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's obviously been a struggle for the local Police Bureau when you have a small group of people who are very determined to commit acts of violence or vandalism, including trying to enter the government building and set it on fire with 300 people who are incarcerated inside. That creates a potentially volatile situation. And what I'm hearing from command staff, because I've asked, well, why can't you just go in and arrest everybody and bring it to a conclusion? If they're engaged in criminal activity, and you can demonstrate that, why not just arrest them? And the answer they've given me makes a lot of good sense. And what they've said is, even though it's two or 300 people, sending police into that kind of a situation could be very dangerous, both for them, as well as potentially inciting an even more volatile situation. So they're trying to deescalate, they're trying to make selective arrests, they're trying to do what they can to keep a lid on the violence and the vandalism without potentially creating a much larger situation. And I trust them when they say that that is the right strategy to pursue. And what we're already seeing this week is significant deescalation. We're seeing those groups grow smaller and smaller by the night. And in the last few days, I believe they've, they have reached the containment situation. I expect that this will be wrapped up quickly. And as I say,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "safely."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you see a distinction between what the police are calling those late night agitators and the general protest?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I absolutely do. And I've said this from day one. And you've got tens of thousands of people marching through the streets of this city in a nonviolent manner, seeking racial justice and equity and asking for reasonable police reforms. After all, the police bureau works for the public. And if the public says they still want to be safe, they still want a police bureau, but they want us to review the tactics and the strategies and the culture of our police bureau, we have an obligation."
+      }
+    ],
+    "speakername": "Ted Wheeler",
+    "ground_truth": "to address the needs and the concerns of the public so that's one set of people that have been very peaceful and in fact the police bureau hasn't engaged in most situations for those peaceful demonstrations then those folks go home and a completely different group of people show up late at night often after midnight sometimes 3 4 a.m in the morning and they are throwing things they are shooting commercial grade fireworks at the police officers they're endangering their lives as well as their own lives they're seeking to break into the government building and set it on fire the other day they went to the police precinct tried to lock the doors and then set that building on fire they attacked small businesses including businesses owned and operated by people in the historic minority community clearly they are doing something that is completely separate and distinct from the larger moment the movement that is seeking racial justice and equity in a sense i believe the folks who are coming and engaging late night criminal activity are actually distracting from the moment and they're distracting from the message around racial justice and equity and that's why i have decried those activities from day one and i'm going to continue to do so we have an obligation to protect first amendment rights path for those non-violent demonstrators but small business owners and operators and the businesses that are trying to get back on their feet after the health crisis and the economic fallout and now you know targeted violence and vandalism we have to protect their rights too",
+    "bio": "The speaker (born August 31, 1962) is an American politician who has served as the mayor of a major city in the Pacific Northwest since 2017. They were State Treasurer from 2010 to 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you see a distinction between what the police are calling those late night agitators and the general protest?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I absolutely do. And I've said this from day one. And you've got tens of thousands of people marching through the streets of this city in a nonviolent manner, seeking racial justice and equity and asking for reasonable police reforms. After all, the police borough works for the public. And if the public says they still want to be safe, they still want a police borough, but they want us to review the tactics and the strategies and the culture of our police borough, we have an obligation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "to address the needs and the concerns of the public so that's one set of people that have been very peaceful and in fact the police bureau hasn't engaged in most situations for those peaceful demonstrations then those folks go home and a completely different group of people show up late at night often after midnight sometimes 3 4 a.m in the morning and they are throwing things they are shooting commercial grade fireworks at the police officers they're endangering their lives as well as their own lives they're seeking to break into the justice center and set it on fire the other day they went to north precinct tried to lock the doors and then set that building on fire they attacked small businesses including businesses owned and operated by people in the historic black community clearly they are doing something that is completely separate and distinct from the larger moment the movement that is seeking racial justice and equity in a sense i believe the folks who are coming and engaging late night criminal activity are actually distracting from the moment and they're distracting from the message around racial justice and equity and that's why i have decried those activities from day one and i'm going to continue to do so we have an obligation to protect first amendment rights path for those non-violent demonstrators but small business owners and operators and the businesses that are trying to get back on their feet after the covid crisis and the economic fallout and now you know targeted violence and vandalism we have to protect their rights too"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I've heard criticism though from the business community that you and the rest of the council aren't standing up on a regular basis and decrying this violence."
+      }
+    ],
+    "speakername": "Ted Wheeler",
+    "ground_truth": "what I don't know where that criticism comes I have held numerous press conferences I've stood with business leaders in front of the cameras last week I stood with black leaders and leaders from Northeast Portland and I decried the violence I decried the vandalism I've supported the police in attempting to bring a quick and peaceful closure to the late-night antics from my perspective look it's not an either-or and I keep hearing from two camps you get the Daryl Turner's on one hand saying you know that the police are not being aggressive enough and that's somehow the mayor's fault and then you get people on the other side like the Speaker of the House Tina Kotech the governor and others saying the mayor is letting the police run wild and they are being too aggressive in their tactics it's not either-or over the last six weeks what we've seen is that the mayor is letting the police run wild and they're being too aggressive in their tactics it's not either-or over the last six weeks what we've seen is the police doing great things de-escalating making smart moves and we've also seen the police make some mistakes and in some cases overreact it's an evolving organization I think we all need to take a step back let's review tactics as they unfold we have an independent Police Review Commission and I pledge that each and every one of the complaints that goes to IPR will be fully investigated they will be transparent with the public about their actions and their next steps. Thank you very much. about their findings and we'll have as many people as we need engaged and if we need to change tactics or if we need to change directions or strategies, we're committed to doing that. I'm 100% committed. It's not either or. It's about protecting civil rights and it's also about protecting the rights of people in the community who do not wanna be subjected to violence or vandalism. Both of those things can be true and they are.",
+    "bio": "Edward Tevis Wheeler (born August 31, 1962) is an American politician who has served as the mayor of Portland, Oregon since 2017. He was Oregon State Treasurer from 2010 to 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to address the needs and the concerns of the public so that's one set of people that have been very peaceful and in fact the police bureau hasn't engaged in most situations for those peaceful demonstrations then those folks go home and a completely different group of people show up late at night often after midnight sometimes 3 4 a.m in the morning and they are throwing things they are shooting commercial grade fireworks at the police officers they're endangering their lives as well as their own lives they're seeking to break into the justice center and set it on fire the other day they went to north precinct tried to lock the doors and then set that building on fire they attacked small businesses including businesses owned and operated by people in the historic black community clearly they are doing something that is completely separate and distinct from the larger moment the movement that is seeking racial justice and equity in a sense i believe the folks who are coming and engaging late night criminal activity are actually distracting from the moment and they're distracting from the message around racial justice and equity and that's why i have decried those activities from day one and i'm going to continue to do so we have an obligation to protect first amendment rights path for those non-violent demonstrators but small business owners and operators and the businesses that are trying to get back on their feet after the covid crisis and the economic fallout and now you know targeted violence and vandalism we have to protect their rights too"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I've heard criticism though from the business community that you and the rest of the council aren't standing up on a regular basis and decrying this violence."
+      },
+      {
+        "speaker": "[target]",
+        "text": "what I don't know where that criticism comes I have held numerous press conferences I've stood with business leaders in front of the cameras last week I stood with black leaders and leaders from Northeast Portland and I decried the violence I decried the vandalism I've supported the police in attempting to bring a quick and peaceful closure to the late-night antics from my perspective look it's not an either-or and I keep hearing from two camps you get the Daryl Turner's on one hand saying you know that the police are not being aggressive enough and that's somehow the mayor's fault and then you get people on the other side like the Speaker of the House Tina Kotech the governor and others saying the mayor is letting the police run wild and they are being too aggressive in their tactics it's not either-or over the last six weeks what we've seen is that the mayor is letting the police run wild and they're being too aggressive in their tactics it's not either-or over the last six weeks what we've seen is the police doing great things de-escalating making smart moves and we've also seen the police make some mistakes and in some cases overreact it's an evolving organization I think we all need to take a step back let's review tactics as they unfold we have an independent Police Review Commission and I pledge that each and every one of the complaints that goes to IPR will be fully investigated they will be transparent with the public about their actions and their next steps. Thank you very much. about their findings and we'll have as many people as we need engaged and if we need to change tactics or if we need to change directions or strategies, we're committed to doing that. I'm 100% committed. It's not either or. It's about protecting civil rights and it's also about protecting the rights of people in the community who do not wanna be subjected to violence or vandalism. Both of those things can be true and they are."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Where do you see this going over the next two weeks or two months? Will this violence stop and downtown open up again?"
+      }
+    ],
+    "speakername": "Ted Wheeler",
+    "ground_truth": "Well, look, if I was great at predicting exactly how this would unfold, I would have predicted something very different than where we are today. Who would have predicted six months ago we'd be in a global pandemic, a global recession bordering on depression, civil unrest all across the United States? Nobody could have predicted this. So I'm officially, I'm out of the prediction business. But here's what I think is going to happen. Number one, calmer voices are going to prevail that the highly emotional, charged moment that we're in today, I hope that will subside. I hope the divisions we see in the community, people will start putting their passion and their divisions towards working together on meaningful common sense reform based on data, fact, and true information so that we can actually make some smart decisions. The council's already made a number of reforms, including moving the equity office in the police bureau under the police chief. We've supported, again, legislation at the state level that has passed. We've disbanded some specialty units that have disproportionately impacted people of color. But the hard work lies ahead. And the hard work is about reimagining what public safety looks like, reimagining what basic patrol services look like, and reforming this antiquated Byzantine oversight and accountability mechanism has really hobbled both the police bureau and the public at large for generations. I think there's a lot of hard work for all of us, but we've got to stop the back and the forth, the divisiveness, the politicization of this issue, and really start focusing on the facts and what it's going to take to provide a smart, strong, effective, well-resourced police bureau that has everybody's safety interests at mind. That's what really the goal is here.",
+    "bio": "Edward Tevis Wheeler (born August 31, 1962) is an American politician who has served as the mayor of Portland, Oregon since 2017. He was Oregon State Treasurer from 2010 to 2016. The speaker's MBTI type is ESFJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Very nice to be with you. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're a frequent visitor to the [region], but this visit comes at a very turbulent time in the area, with the three Israeli teenagers kidnapped and the U.S. Secretary of State currently in [country] trying to make some order out of the mess. Do you think that the administration's foreign policy has succeeded?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's been a big disappointment to those of us who have followed the [region] for a long time. For me personally, I've been coming to this country for 41 years. It's the first time I've really been concerned about the relationship that our country has had with this ally. And it didn't matter. Democrat and Republican presidents alike have been, I think, very clear, forceful to the whole world that this nation was our ally, our friend, and that was an inseparable relationship. And I'm not sure the world knows that right now to the degree that they need to, and I'm not sure our ally knows that right now. So I want to make sure that we do everything possible to say that we clearly stand with them, because I believe we do. And we recognize that they are a true ally, a friend, a mirror of the kind of personal liberty, democracy, and freedom that we so cherish in our country. And it's the only country in all of this part of the world that gives its citizens that kind of freedom and empowers its women and allows people to fulfill their dreams, argue about their politics, and they are good at that. So I think it's very important that they know that we are still with them."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We've heard a lot about the bad relationship between the president and the prime minister, but how much does that really affect the alliance between the two nations?"
+      }
+    ],
+    "speakername": "Mike Huckabee",
+    "ground_truth": "I think the prime minister is extraordinarily popular in our country. I think if he came here, he would win an election. So I don't sense there's any sense of people feeling that the prime minister has shown disrespect to the president. Not any whatsoever. If anything, I think there are many people who feel that he is a Churchill in a world of Chamberlains, that he has been clear, unequivocal in his commitment to saying that neighboring country's not going to get a nuclear device. That's refreshing for us to hear. We don't see that as disrespect. We see it as the kind of courageous stand that we want every world leader to take.",
+    "bio": "The speaker (born August 24, 1955) is an American politician, religious minister and political commentator who served as the 44th governor of a southern state from 1996 to 2007. The speaker was a candidate in the United States Republican presidential primaries in both 2008 and 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's been a big disappointment to those of us who have followed this region for a long time. For me personally, I've been coming to this country for 41 years. It's the first time I've really been concerned about the relationship that our country has had with this ally. And it didn't matter. Leaders from both major parties alike have been, I think, very clear, forceful to the whole world that this nation was our ally, our friend, and that was an inseparable relationship. And I'm not sure the world knows that right now to the degree that they need to, and I'm not sure our ally knows that right now. So I want to make sure that we do everything possible to say that we clearly stand with them, because I believe we do. And we recognize that they are a true ally, a friend, a mirror of the kind of personal liberty, democracy, and freedom that we so cherish in our country. And it's the only country in all of this part of the world that gives its citizens that kind of freedom and empowers its women and allows people to fulfill their dreams, argue about their politics, and they are good at that. So I think it's very important that they know that we are still with them."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We've heard a lot about the bad relationship between our president and their prime minister, but how much does that really affect the alliance between the two nations?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think their Prime Minister is extraordinarily popular in our country. I think if he came here, he would win an election. So I don't sense there's any sense of people feeling that the prime minister has shown disrespect to the president. Not any whatsoever. If anything, I think there are many people who feel that he is a great leader in a world of appeasers, that he has been clear, unequivocal in his commitment to saying that neighboring country's not going to get a nuclear device. That's refreshing for us to hear. We don't see that as disrespect. We see it as the kind of courageous stand that we want every world leader to take."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In recent months, there have been numerous reports in a major magazine about claiming that this ally has spied on our country. From your knowledge, do these allegations have any base?"
+      }
+    ],
+    "speakername": "Mike Huckabee",
+    "ground_truth": "I'm not aware of any. I know that my own government is snooping on me, according to everything we've learned, that they're collecting my emails and recording my calls. So I'm upset about that, that we know about. And as citizens, I think most of us are quite unhappy about it, because we have a system, we have a process. If we're suspected of criminal activity, then you go with probable cause, you get a warrant. But you don't just go snooping around on people's privacy. That's sacred in our country. And it should be across the world. It's part of our human rights. And one of the reasons that I think we have great respect for our allies, where people's personal and human rights are treated with respect. That is not true in many parts of the world.",
+    "bio": "The speaker (born August 24, 1955) is an American politician, religious minister and political commentator who served as the governor of a southern state from 1996 to 2007. He was a candidate in the presidential primaries in both 2008 and 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think the foreign leader is extraordinarily popular in the United States. I think if he came to the U.S., he would win an election. So I don't sense there's any sense of people feeling that the leader has shown disrespect to the president. Not any whatsoever. If anything, I think there are many people who feel that he is a Churchill in a world of Chamberlains, that he has been clear, unequivocal in his commitment to saying that nation's not going to get a nuclear device. That's refreshing for us to hear. We don't see that as disrespect. We see it as the kind of courageous stand that we want every world leader to take."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In recent months, there have been numerous reports in the media about claiming that the nation has spied on the U.S. From your knowledge, do these allegations have any base?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm not aware of any. I know that my own government is snooping on me, according to everything we've learned, that they're collecting my emails and recording my calls. So I'm upset about that, that we know about. And as Americans, I think most of us are quite unhappy about it, because we have a system, we have a process. If we're suspected of criminal activity, then you go with probable cause, you get a warrant. But you don't just go snooping around on people's privacy. That's sacred in the U.S. And it should be across the world. It's part of our human rights. And one of the reasons that I think we have great respect for certain nations, where people's personal and human rights are treated with respect. That is not true in many parts of the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've stated repeatedly in the past that you don't believe in the two-state solution. So what solution do you think the nation and the U.S. should promote instead?"
+      }
+    ],
+    "speakername": "Mike Huckabee",
+    "ground_truth": "Well, the fact is, the reason that it's ludicrous to talk about a two-state solution is you would have to have two partners who both recognize and respect each other, deserving an indigenous homeland that's safe and secure. The opposing group has never accepted the right of the other side and their people to a homeland, a homeland that is indigenous to them. And I've seen the maps, the opposing group's maps that don't even have the nation on the map. I've read excerpts out of the textbooks in which children are taught to hate and to live for their death. You can't have peace like that. So I respect that they have been very protective of providing a sense of sanctity to all the holy sites for all the people of the world. For me as a religious person, when I come here, the scenes and sites that are special to me, the government protects and gives me access to. They give access to others to see sites that are important to them. And they protect their own sites. I'm wondering, can anybody tell me how many religious sites are being protected in neighboring countries? Can anybody tell me how many places of worship are being built in nearby nations? Anybody know of any religious activity that's being encouraged in those regions? I don't think so. So why shouldn't the world be grateful to this nation for the manner in which it allows people to think for themselves and to believe?",
+    "bio": "The speaker (born August 24, 1955) is an American politician, religious minister and political commentator who served as the governor of a southern state from 1996 to 2007. The speaker was a candidate in the United States Republican presidential primaries in both 2008 and 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm not aware of any. I know that my own government is snooping on me, according to everything we've learned, that they're collecting my emails and recording my calls. So I'm upset about that, that we know about. And as Americans, I think most of us are quite unhappy about it, because we have a system, we have a process. If we're suspected of criminal activity, then you go with probable cause, you get a warrant. But you don't just go snooping around on people's privacy. That's sacred in the U.S. And it should be across the world. It's part of our human rights. And one of the reasons that I think we have great respect for countries like Israel, where people's personal and human rights are treated with respect. That is not true in many parts of the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've stated repeatedly in the past that you don't believe in the two-state solution. So what solution do you think Israel and the U.S. should promote instead?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the fact is, the reason that it's ludicrous to talk about a two-state solution is you would have to have two partners who both recognize and respect each other, deserving an indigenous homeland that's safe and secure. Palestinians have never accepted the right of the Israelis and the Jewish people to a Jewish homeland, a homeland that is indigenous to them. And I've seen the maps, the Palestinian maps that don't even have Israel on the map. I've read excerpts out of the textbooks in which children are taught to hate Jews and to live for their death. You can't have peace like that. So I respect that the Israelis have been very protective of providing a sense of sanctity to all the holy sites for all the people of the world. For me as a Christian, when I come here, the scenes and sites that are special to me, the Israeli government protects and gives me access to. They give access to, to Muslims, to see sites that are important to them. And they protect the Jewish sites. I'm wondering, can anybody tell me how many Christian sites are being protected in Saudi Arabia? Can anybody tell me how many churches are being built in Syria? Anybody know of any Christian activity that's being encouraged, you know, in Iraq or Iran? I don't think so. So why shouldn't the world be grateful to Israel for the manner in which it allows people? Why shouldn't the world be grateful to Israel for the manner in which it allows people to think for themselves and to believe?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to ask you a bit about the linkage between Christianity and Zionism. Just last week the Presbyterian Church voted to divest from companies that do business with the settlements. And we've been hearing a lot of reports of decline of the support of Evangelical Christians of Israel. Should Israel be worried?"
+      }
+    ],
+    "speakername": "Mike Huckabee",
+    "ground_truth": "Israel does not have a problem with most evangelicals that I know. Israel has been the target of a lot of anti-Semitic hatred, and it's irrational. The entire BDS movement is not only irrational and bigoted, but it is anti-Semitic. It's racist. And for the Presbyterian church to engage in something like this is indefensible and abominable, and it's based on lies, misunderstanding, or maybe, as one person said, dis-understanding, because it's misinformation that's intentional. And I think that's true. There are a lot of people who, for reasons that I don't understand, other than just an anti-Semitic hatred, are determined to see Israel weakened. This makes no sense to me. I want Israel to be strong. It's free. People elect their own government here. That's a good thing. That's what we wished would happen around the world. What America gets, all excited about when people vote and they have their purple fingers. And it doesn't work out real well there because the individuals aren't free. In Israel, they are. And for people to say, let's boycott and divest from Israel and let's create sanctions, that's the craziest thing I've ever seen. I'd want to invest more in Israel, put more in this country. It has a future, and its economy is growing, and it's empowering and prospering not only its people, but it's empowering and prospering even Arabs who live here.",
+    "bio": "Michael Dale Huckabee (born August 24, 1955) is an American politician, Southern Baptist minister and political commentator who served as the 44th governor of Arkansas from 1996 to 2007. He was a candidate in the United States Republican presidential primaries in both 2008 and 2016. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the fact is, the reason that it's ludicrous to talk about a two-state solution is you would have to have two partners who both recognize and respect each other, deserving an indigenous homeland that's safe and secure. Palestinians have never accepted the right of the Israelis and the Jewish people to a Jewish homeland, a homeland that is indigenous to them. And I've seen the maps, the Palestinian maps that don't even have Israel on the map. I've read excerpts out of the textbooks in which children are taught to hate Jews and to live for their death. You can't have peace like that. So I respect that the Israelis have been very protective of providing a sense of sanctity to all the holy sites for all the people of the world. For me as a Christian, when I come here, the scenes and sites that are special to me, the Israeli government protects and gives me access to. They give access to, to Muslims, to see sites that are important to them. And they protect the Jewish sites. I'm wondering, can anybody tell me how many Christian sites are being protected in Saudi Arabia? Can anybody tell me how many churches are being built in Syria? Anybody know of any Christian activity that's being encouraged, you know, in Iraq or Iran? I don't think so. So why shouldn't the world be grateful to Israel for the manner in which it allows people? Why shouldn't the world be grateful to Israel for the manner in which it allows people to think for themselves and to believe?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to ask you a bit about the linkage between Christianity and Zionism. Just last week the Presbyterian Church voted to divest from companies that do business with the settlements. And we've been hearing a lot of reports of decline of the support of Evangelical Christians of Israel. Should Israel be worried?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Israel does not have a problem with most evangelicals that I know. Israel has been the target of a lot of anti-Semitic hatred, and it's irrational. The entire BDS movement is not only irrational and bigoted, but it is anti-Semitic. It's racist. And for the Presbyterian church to engage in something like this is indefensible and abominable, and it's based on lies, misunderstanding, or maybe, as one person said, dis-understanding, because it's misinformation that's intentional. And I think that's true. There are a lot of people who, for reasons that I don't understand, other than just an anti-Semitic hatred, are determined to see Israel weakened. This makes no sense to me. I want Israel to be strong. It's free. People elect their own government here. That's a good thing. That's what we wished would happen around the world. What America gets, all excited about when people vote and they have their purple fingers. And it doesn't work out real well there because the individuals aren't free. In Israel, they are. And for people to say, let's boycott and divest from Israel and let's create sanctions, that's the craziest thing I've ever seen. I'd want to invest more in Israel, put more in this country. It has a future, and its economy is growing, and it's empowering and prospering not only its people, but it's empowering and prospering even Arabs who live here."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've been a staunch supporter of the clemency for Jonathan Pollard. Do you think that given the bad relationship between Netanyahu and Obama, is there any chance?"
+      }
+    ],
+    "speakername": "Mike Huckabee",
+    "ground_truth": "See, it's hard to say, because I don't know all that goes into the thinking of this administration. Obviously, they're not calling and consulting me on a regular basis. But I would like to think that there comes a point, and hopefully soon, that we recognize Jonathan Pollard has been more than adequately punished for that which he did. There's no purpose being served by us keeping him. I think his physical and health condition is such that it now becomes a humanitarian gesture to allow him to go free. And there's no downside that I can see for America or the American president.",
+    "bio": "Michael Dale Huckabee (born August 24, 1955) is an American politician, Southern Baptist minister and political commentator who served as the 44th governor of Arkansas from 1996 to 2007. He was a candidate in the United States Republican presidential primaries in both 2008 and 2016. The speaker's MBTI type is ESFJ"
+  }
+]

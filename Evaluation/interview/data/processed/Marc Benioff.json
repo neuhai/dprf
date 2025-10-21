@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you have this bubble developing in a precarious world economy that has the effects that you're seeing. It doesn't mean that technology is bad, it just means we have the other four forces that are bad and we have high prices."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "economy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It doesn't mean that technology is bad. It just means we have the other four forces that are bad and we have high prices. Another way to look at that is, we've all heard about these multi-hundred billion dollar data center investments every week. There's another multi-hundred billion dollar data center investment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "happening. And we have not been doing that. We're a software company. So we're all about building that software over the last 26 years to run on those data centers. And we've just never seen prices this low for deployment because it is a huge level of investment. And when you get this huge level of investment, it drops prices. And that means that for us, we're able to run and deploy at a very low cost. And it's a commodity product."
+      }
+    ],
+    "speakername": "Marc Benioff",
+    "ground_truth": "you know data center against the data center against the data center a chipset against the gas chipset against the chipset these are fundamental you know commodities so whether we're running on major tech platform in Asia or major tech companies in North America or maybe somebody else in the future these are just commodity centers and the prices have never been lower so you have this opportunity to take advantage of companies who are competing with each other to be the next generation hyper scaler",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Brian, it's great to be with you again, and I'm so thrilled. And, you know, well, we were together at our annual conference, and you were there when we laid out our profitability framework that by fiscal year 26, that we would exceed 25% margins. Well, we actually did that today. We hit that hyperspace button, accelerated everything by two years. We delivered for this quarter an incredible 29.2% operating margin while also delivering 17% revenue growth. It was pretty awesome this quarter, and I couldn't be more proud of our team and what everyone has done to make this happen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You also talked about it being a new day at the company. Walk us through that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's connected to what we're talking about. We've really been focused on getting to higher levels of margin and higher levels of profitability. And now you can see the North Star more than 30%. How we're moving forward as a company is not just being the number one CRM in the world. Obviously that's incredibly important for this company in sales and service, in marketing, in commerce, in all of our critical areas where our customers connect with their customers. But to really also deliver all the financial metrics, we want to be the most profitable software company in the world, one of the very largest, which we are, and also the highest cash flows. You saw we delivered more than 7.1 billion in cash flow for the year. These were incredible numbers, and we're committed to much higher results."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], I was talking to a couple of analysts while the earnings call was going on. I think you knocked them off their seats with a call out of a 30% operating margin by the first quarter of what, calendar 2024? How do you get there? Do you need more headcount reductions? Does the economy have to come back? How do you hit that number?"
+      }
+    ],
+    "speakername": "Marc Benioff",
+    "ground_truth": "Well, you can see the direction you know we've had increases in our operating margin, each and every year in the last five years, but you'll see also. That we were able to exactly like you said hit the hyperspace button look we added. Four points this year, not for not for basis points four points in operating margin and next year we're going to add or the current year that we're in fiscal year 24 four and a half points. So directionally we're going in this incredible area and we're moving as fast as we can into the 30s.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's connected to what we're talking about. We've really been focused on getting to higher levels of margin and higher levels of profitability. And now you can see the North Star more than 30%. How we're moving forward as a company is not just being the number one CRM in the world. Obviously that's incredibly important for this company in sales and service, in marketing, in commerce, in all of our critical areas where our customers connect with their customers. But to really also deliver all the financial metrics, we want to be the most profitable software company in the world, one of the very largest, which we are, and also the highest cash flows. You saw we delivered more than 7.1 billion in cash flow for the year. These were incredible numbers, and we're committed to much higher results."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mark, I was talking to a couple of analysts while the earnings call was going on. I think you knocked them off their seats with a call out of a 30% operating margin by the first quarter of what, calendar 2024? How do you get there? Do you need more headcount reductions? Does the economy have to come back? How do you hit that number?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you can see the direction you know we've had increases in our operating margin, each and every year in the last five years, but you'll see also. That we were able to exactly like you said hit the hyperspace button look we added. Four points this year, not for not for basis points four points in operating margin and next year we're going to add or the current year that we're in fiscal year 24 four and a half points. So directionally we're going in this incredible area and we're moving as fast as we can into the 30s."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'd love to unpack a couple of things you mentioned on this call. Let's start with you working with the team at Bain. Are you trying to find more efficiencies? Why did you tap them and what are you working on with them?"
+      }
+    ],
+    "speakername": "Marc Benioff",
+    "ground_truth": "I should just bring them in or knock on the, I should just hit my foot on the floor because they're actually in our building, which is how I know Manny, the CEO of Bain is here. I bump into him on the elevator all the time. And I said to him, hey, we're trying, and our company, we're a scaled software company now, number three software company in the world. We want to improve these financial performance metrics. And he has just a whole playbook. He just rips out and just says, here we go, one, two, three, four, five. We're already implementing a lot of his ideas. There's a lot more to do. Honestly, we're just getting started. I couldn't be more excited about where we are, but I couldn't be more excited about where we're going. And Bain is going to be an important part of Salesforce's future and Manny especially. Where do you see Salesforce going? Well, look, we're moving into this incredible new AI world where everything and anything and everyone is all connected. And to make that happen, we're going to have to have a level of technology infrastructure inside all of our customers. It's amazing. It's really completely different than we have today. A great example is Ford. You know, Ford, I have a Mach-E. I also have the new Ford Lightning. These are electric cars that are autonomous. You know, the Lightning's an electric truck. It's really cool. But all the telemetry data and all the connectivity from those cars is going into our data cloud. And that data cloud then ingests it. And then through our artificial intelligence, through the real-time capabilities, through the automation, it's communicating back to us. And that data cloud is going to be able to communicate back to me as I hit different thresholds of product performance and I get texts, I get emails, I get offers, I'm getting sold, I'm getting serviced all through my data cloud. It's this connectivity between Salesforce's core clouds and kind of this new world that we're in. That is really exciting to me. You saw incredible traction this quarter. It became our fastest growing cloud, but not just at Ford, at companies like Boston Scientific. They did amazing things. With the data cloud, F1, you know, the guys who do the sports racing, you know, 99% of their customers, they never even get to meet. Data cloud connects them all automagically. And this is what's getting me excited that we're going to be a huge player in the new AI world.",
+    "bio": " The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you can see the direction you know we've had increases in our operating margin, each and every year in the last five years, but you'll see also. That we were able to exactly like you said hit the hyperspace button look we added. Four points this year, not for not for basis points four points in operating margin and next year we're going to add or the current year that we're in fiscal year 24 four and a half points. So directionally we're going in this incredible area and we're moving as fast as we can into the 30s."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'd love to unpack a couple of things you mentioned on this call. Let's start with you working with the team at Bain. Are you trying to find more efficiencies? Why did you tap them and what are you working on with them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I should just bring them in or knock on the, I should just hit my foot on the floor because they're actually in our building, which is how I know Manny, the CEO of Bain is here. I bump into him on the elevator all the time. And I said to him, hey, we're trying, and our company, we're a scaled software company now, number three software company in the world. We want to improve these financial performance metrics. And he has just a whole playbook. He just rips out and just says, here we go, one, two, three, four, five. We're already implementing a lot of his ideas. There's a lot more to do. Honestly, we're just getting started. I couldn't be more excited about where we are, but I couldn't be more excited about where we're going. And Bain is going to be an important part of Salesforce's future and Manny especially. Where do you see Salesforce going? Well, look, we're moving into this incredible new AI world where everything and anything and everyone is all connected. And to make that happen, we're going to have to have a level of technology infrastructure inside all of our customers. It's amazing. It's really completely different than we have today. A great example is Ford. You know, Ford, I have a Mach-E. I also have the new Ford Lightning. These are electric cars that are autonomous. You know, the Lightning's an electric truck. It's really cool. But all the telemetry data and all the connectivity from those cars is going into our data cloud. And that data cloud then ingests it. And then through our artificial intelligence, through the real-time capabilities, through the automation, it's communicating back to us. And that data cloud is going to be able to communicate back to me as I hit different thresholds of product performance and I get texts, I get emails, I get offers, I'm getting sold, I'm getting serviced all through my data cloud. It's this connectivity between Salesforce's core clouds and kind of this new world that we're in. That is really exciting to me. You saw incredible traction this quarter. It became our fastest growing cloud, but not just at Ford, at companies like Boston Scientific. They did amazing things. With the data cloud, F1, you know, the guys who do the sports racing, you know, 99% of their customers, they never even get to meet. Data cloud connects them all automagically. And this is what's getting me excited that we're going to be a huge player in the new AI world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "For the layperson out there that is not as tech-savvy as you, Mark, talk to us about Einstein GPT. Is that going to go to battle with the Microsoft Chat GPT? Explain it to us."
+      }
+    ],
+    "speakername": "Marc Benioff",
+    "ground_truth": "Well, Einstein is our core artificial intelligence platform at Salesforce. You know, we are the leaders in artificial intelligence and CRM and commerce. We've delivered incredible results for our customers, making sure that when their customers are online buying from them, we're able to provide an artificial intelligence framework that we've been developing for a decade. That is really incredibly state of the art. With this next generation of generative AI, what it means is is that that AI is going to be able to do even more for you. It can code for you. It can write letters for you. If you're a sales executive or a service executive, it's going to be able to create content. There's a lot of things that AI is able to do today that we couldn't do 10 years ago. And we're really about to enter an incredible new world where AI is going to really help all of our customers be more productive, have higher performance and ultimately be far more profitable.",
+    "bio": " The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I should just bring them in or knock on the, I should just hit my foot on the floor because they're actually in our building, which is how I know Manny, the CEO of Bain is here. I bump into him on the elevator all the time. And I said to him, hey, we're trying, and our company, we're a scaled software company now, number three software company in the world. We want to improve these financial performance metrics. And he has just a whole playbook. He just rips out and just says, here we go, one, two, three, four, five. We're already implementing a lot of his ideas. There's a lot more to do. Honestly, we're just getting started. I couldn't be more excited about where we are, but I couldn't be more excited about where we're going. And Bain is going to be an important part of Salesforce's future and Manny especially. Where do you see Salesforce going? Well, look, we're moving into this incredible new AI world where everything and anything and everyone is all connected. And to make that happen, we're going to have to have a level of technology infrastructure inside all of our customers. It's amazing. It's really completely different than we have today. A great example is Ford. You know, Ford, I have a Mach-E. I also have the new Ford Lightning. These are electric cars that are autonomous. You know, the Lightning's an electric truck. It's really cool. But all the telemetry data and all the connectivity from those cars is going into our data cloud. And that data cloud then ingests it. And then through our artificial intelligence, through the real-time capabilities, through the automation, it's communicating back to us. And that data cloud is going to be able to communicate back to me as I hit different thresholds of product performance and I get texts, I get emails, I get offers, I'm getting sold, I'm getting serviced all through my data cloud. It's this connectivity between Salesforce's core clouds and kind of this new world that we're in. That is really exciting to me. You saw incredible traction this quarter. It became our fastest growing cloud, but not just at Ford, at companies like Boston Scientific. They did amazing things. With the data cloud, F1, you know, the guys who do the sports racing, you know, 99% of their customers, they never even get to meet. Data cloud connects them all automagically. And this is what's getting me excited that we're going to be a huge player in the new AI world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "For the layperson out there that is not as tech-savvy as you, Mark, talk to us about Einstein GPT. Is that going to go to battle with the Microsoft Chat GPT? Explain it to us."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Einstein is our core artificial intelligence platform at Salesforce. You know, we are the leaders in artificial intelligence and CRM and commerce. We've delivered incredible results for our customers, making sure that when their customers are online buying from them, we're able to provide an artificial intelligence framework that we've been developing for a decade. That is really incredibly state of the art. With this next generation of generative AI, what it means is is that that AI is going to be able to do even more for you. It can code for you. It can write letters for you. If you're a sales executive or a service executive, it's going to be able to create content. There's a lot of things that AI is able to do today that we couldn't do 10 years ago. And we're really about to enter an incredible new world where AI is going to really help all of our customers be more productive, have higher performance and ultimately be far more profitable."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mark, I hope it doesn't start creating finance content. I need to be out here keeping this gig. Please, please. I just can't take that stuff. All right. So we have Einstein GPT. Second thing that picked up to me on this earnings call, and I almost couldn't believe I heard it. You disbanded your M&A committee. Holy cow. That is a big signal, I think you said to investors. I mean, just walk us through that."
+      }
+    ],
+    "speakername": "Marc Benioff",
+    "ground_truth": "Well, we've done some great acquisitions here, MuleSoft and Tableau, both who had great quarters in the fourth quarter, Slack, which I know you use at Yahoo very aggressively. It's a great product. By the way, it'll be a huge part of the AI future because Slack for so many of our customers is a critical data set for their AI future, as well as a user interface in the AI. Like a lot of these new AI startups that are emerging in the Bay Area, they're all Slack-first companies, and they use Slack as the primary interface to their AI system. So that's something that we're going to definitely be demonstrating. And when we walk in, we don't have to do the development work for the AI to Slack. It's already done because that's how they kind of built their whole company. This is really where the world is moving to. We're having a new kind of world, and our acquisitions have set us up very well. At the same time, for us to deliver these much higher levels of profitability and performance that we're committed to, new levels of prioritization of our core organic products like data cloud, Brian, that's going to mean that we're going to have to slow down and mitigate what we've been doing with M&A. And so we disbanded our M&A committee to do that. We created a new business transformation committee to focus on profitability. And, hey, well, you can see it in the results this quarter, 29.2% operating margin. We delivered. 8.4 billion in revenue. Brian, how many software companies have you reported on that have ever delivered a quarter quite like that?",
+    "bio": " The speaker's MBTI type is ENFP"
+  }
+]

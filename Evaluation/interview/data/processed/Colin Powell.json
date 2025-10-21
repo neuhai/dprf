@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'm sorry, it's your..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Your doctrine, you get to tell me what it is."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "This war, right now, does not have support from the public, and I don't know if the force is decisive. If General McChrystal is saying, after all this, the improvement means we're at a draw, I don't know if that's decisive. Are they adhering to the [target] Doctrine? Well, [target] Doctrine."
+      },
+      {
+        "speaker": "[target]",
+        "text": "is the [target] Doctrine. It's not in any military magazine or military field manual. But what it reflects is classical military thought. And what's called the [target] Doctrine is essentially the principle of objective and mass. You decide what it is you're trying to achieve and then you apply the mass needed to achieve that objective in a decisive way."
+      }
+    ],
+    "speakername": "Colin Powell",
+    "ground_truth": "The president has added close to 68,000 troops in the last year since he came into office, not just the 30 you hear, but the others that were added before that. So 68,000 troops were added to it. That is a significant number. And remember, they're not going after a fixed enemy. They're trying to control ground. They're trying to give some comfort to people that their life is going to get better. And I'm sure anywhere you put an American infantry or Marine battalion or one of our NATO battalions, things are going to get quiet. Things are going to get better. But as Stan McChrystal said, at that point, it is still a draw because you have to bring in Afghan national authorities. You have to bring in the Afghan army and the Afghan police to take it over. You've got to get the people to buy into it. So I don't think he was saying it's a draw forever. What he was saying is we have stopped the Taliban advance. We have contained that. Oh, no, the opposite of it's a draw.",
+    "bio": "A distinguished statesman and retired four-star general in the military (April 5, 1937 - October 18, 2021). During his military career, he served as National Security Advisor (1987-1989), as Commander of the military Forces Command (1989) and as Chairman of the Joint Chiefs of Staff (1989-1993), holding the latter position during a major international conflict. He was the first, and so far the only, person of Jamaican American heritage to serve on the Joint Chiefs of Staff. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The president has added close to 68,000 troops in the last year since he came into office, not just the 30 you hear, but the others that were added before that. So 68,000 troops were added to it. That is a significant number. And remember, they're not going after a fixed enemy. They're trying to control ground. They're trying to give some comfort to people that their life is going to get better. And I'm sure anywhere you put an American infantry or Marine battalion or one of our NATO battalions, things are going to get quiet. Things are going to get better. But as Stan McChrystal said, at that point, it is still a draw because you have to bring in Afghan national authorities. You have to bring in the Afghan army and the Afghan police to take it over. You've got to get the people to buy into it. So I don't think he was saying it's a draw forever. What he was saying is we have stopped the Taliban advance. We have contained that. Oh, no, the opposite of it's a draw."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I mean, he's saying when we withdraw, they might take over again."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That may well be the case."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Colin Powell",
+    "ground_truth": "Because ultimately, the military forces cannot remain in this region forever as police forces. The challenge here, and the president will have to face this late next year, as he said he would, is, OK, we have had this additional input of 68,000 soldiers, bringing it to over 100,000 soldiers. We have done what we said we were going to do. Have the local forces done what they must do, build an army that is capable, an army that is connected to the central government, an army that the people believe in? And do we have a police force that is not corrupt? And do we have a government in the capital that is really reaching out and connecting the people together into some kind of political system that people believe in? So ultimately, we can do just so much. But to win this conflict and to create the kind of nation that we all want to see, it ultimately is going to be in the hands of the local people, just as the other nation is ultimately going to be in the hands of its people.",
+    "bio": "[target] (April 5, 1937 - October 18, 2021) was a statesman and a retired four-star general in the military. During his military career, he also served as National Security Advisor (1987-1989), as Commander of the Forces Command (1989) and as Chairman of the Joint Chiefs of Staff (1989-1993), holding the latter position during a major conflict. He was the first, and so far the only, Jamaican American to serve on the Joint Chiefs of Staff. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because ultimately, the military forces cannot remain in [location] forever as police forces. The challenge here, and the president will have to face this late next year, as he said he would, is, OK, we have had this additional input of 68,000 soldiers, bringing it to over 100,000 soldiers. We have done what we said we were going to do. Have the people of [location] done what they must do, build an army that is capable, an army that is connected to the central government, an army that the people believe in? And do we have a police force that is not corrupt? And do we have a government in the capital that is really reaching out and connecting the people together into some kind of political system that people believe in? So ultimately, we can do just so much. But to win this conflict and to create the kind of country that we all want to see, it ultimately is going to be in the hands of the local people, just as [location] is ultimately going to be in the hands of its people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And let's talk about that, because this week, for the first time ever, there are more U.S. troops in [location] than [location]. The U.S. is preparing to withdraw all combat forces. There's still a lot of sectarian violence in [location]. Is [location] ready for the U.S. withdrawal?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Ready or not, it's going to"
+      }
+    ],
+    "speakername": "Colin Powell",
+    "ground_truth": "And I think it is ready. There are bombings taking place, but it's nothing like it was two or three years ago. It might be 10 or 12 a day compared to hundreds a day that used to be the case. And it's not clear that it is the outbreak of the kind of sectarian war that we saw in 2005 and 2006. And it has not reached a level where the government starts to look like it's going to collapse. What we're seeing is an interesting democratic process where they're trying to figure out who the next prime minister is going to be. We've gone through this right here in this country, as you recall, my friend.",
+    "bio": "The subject (born April 5, 1937 - October 18, 2021) was an American statesman and a retired four-star general in the military. During their military career, they served as National Security Advisor (1987-1989), as Commander of the Armed Forces Command (1989) and as Chairman of the Joint Chiefs of Staff (1989-1993), holding the latter position during a major conflict. They were the first, and so far the only, person of Jamaican American heritage to serve on the Joint Chiefs of Staff. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And so they'll have to go through this and come up with a government that represents all parts of the society. And if they do that, and if they build up their army, if they continue to show the effectiveness that their army has shown recently, they should be able to contain this and hold it as we continue our withdrawal. We're not going to withdraw to zero. We're going to withdraw to a lower number that is there to help them, to train them, to provide military assistance to them, to protect our installations that are still there, but they have to do whatever fighting is required. And so far, it's moving in the right direction, and I think the president is correct to keep it on track and continue with the drawdown. Sooner or later, we cannot maintain this level of deployment forever. It not only is a burden on our troops, it is enormously expensive in a time of..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "budget deficits and"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "national debt. In fact, the national security strategy President Obama revealed this week talked a lot about deficits. Yes. Moving to neighboring country, sanctions have so far, the three previous regimes of sanctions have so far not convinced that country to stop its nuclear program. Here you are in March."
+      }
+    ],
+    "speakername": "Colin Powell",
+    "ground_truth": "I don't yet see a set of sanctions coming along that would be so detrimental to them that they're going to stop that program.",
+    "bio": "The subject (April 5, 1937 - October 18, 2021) was an American statesman and a retired four-star general in the military. During his military career, he served as National Security Advisor (1987-1989), as Commander of the Armed Forces Command (1989) and as Chairman of the Joint Chiefs of Staff (1989-1993), holding the latter position during a major conflict. He was the first, and so far the only, person of Jamaican American descent to serve on the Joint Chiefs of Staff. The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "budget deficits and"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "national debt. In fact, the national security strategy current administration revealed this week talked a lot about deficits. Yes. Moving to neighboring country, sanctions have so far, the three previous regimes of sanctions have so far not convinced that country to stop its nuclear program. Here you are in March."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't yet see a set of sanctions coming along that would be so detrimental to them that they're going to stop that program."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now, since you said that there is a new regime of sanctions at the international organization, it would ban sale of heavy weapons to that country, it would create cargo ship inspections, and tighter sanctions on their banking and financial sector. Is this strong enough, do you think?"
+      }
+    ],
+    "speakername": "Colin Powell",
+    "ground_truth": "I don't think so. They have been around for thousands of years trading and selling and getting around various constraints and whatnot. They're very clever. And they know what sanctions might be coming. And I'm sure that they have done their own planning and have their own counter-sanction strategy. So I don't see that this causes sufficient pain that will cause them to say, gee, why didn't we realize we were so off on this? And we're going to stop all of our nuclear program. The nuclear program is there. It's operating. And I don't think they're going to give it up easily. I think we may have to eventually reach a point where we say, well, maybe we have to accept a nuclear program that's designed strictly for power generation and for their medical research reactor. But they say they don't want a weapon. So let's put them to that test and put in place. Let's put in place a set of inspections and a regime of inspections of the international atomic agency and the international community that if they violate, if they agree to these constraints because they say they don't want a weapon, and then they violate them, then the hammer comes down in a way that they cannot ignore. But right now, it's a dangerous situation. I wish they were not pursuing any nuclear program. But the fact of the matter is, whether we argue about whether they should or shouldn't, they have it. The centrifuges are spinning. They're producing the material. And the power is there. Policy so far has not caused them to stop doing that.",
+    "bio": "[target] (April 5, 1937 - October 18, 2021) was a statesman and a retired four-star general in the military. During his military career, he also served as National Security Advisor (1987-1989), as Commander of the Armed Forces Command (1989) and as Chairman of the military's highest advisory body (1989-1993), holding the latter position during a major international conflict. He was the first, and so far the only, Jamaican American to serve on this advisory body. The speaker's MBTI type is INTJ"
+  }
+]

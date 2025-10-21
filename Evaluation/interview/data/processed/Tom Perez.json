@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Opportunity and inclusion into votes. What is the next party chair a spokesperson for the party? The challenger to the President or the mechanic of for the party"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think in a way it's all of the above and then some. I think you need the chair to be the organizer-in-chief because I think we need to get back to basics. We need to organize, organize, organize, and we need it to be a 12-month strategy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you need to be in the organization. I saw that you were critical, you thought that the organization for action or organizing for action or organizing for progress, whatever name they came up with, none of it was national committee. Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it ended up hurting the party."
+      }
+    ],
+    "speakername": "Tom Perez",
+    "ground_truth": "That was the impact. And so we need to organize and develop that capacity with our state partners. We need. So you need someone who is obviously a fighter and frankly, who knows how to win fights. You need someone who can inspire people and get folks who have been doubtful about the party or skeptical about the party to come back in the fold. And you need someone who is that turnaround agent. And, you know, we need to change the culture of the party. And, you know, that's what I've done in the last two jobs I've had. And culture change is hard, especially with a complex organization.",
+    "bio": "The individual (born October 7, 1961) is an American politician and attorney who is the Chair of a major national political committee since February 2017. They previously served as Assistant Attorney General for Civil Rights (2009-2013) and Cabinet Secretary (2013-2017). The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "it ended up hurting the party."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That was the impact. And so we need to organize and develop that capacity with our state partners. We need. So you need someone who is obviously a fighter and frankly, who knows how to win fights. You need someone who can inspire people and get folks who have been doubtful about the party or skeptical about the party to come back in the fold. And you need someone who is that turnaround agent. And, you know, we need to change the culture of the party. And, you know, that's what I've done in the last two jobs I've had. And culture change is hard, especially with a complex organization."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to get you to react to something I had former Democratic Senator Jim Webb on Meet the Press last Sunday, and he had some tough words for where he thinks the Democratic Party is today. I want you to take a listen and respond to it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But the Democrats have not done the kind of self-reflection that they should have starting in 2010. And I was talking about this in the 10 elections. You've lost white working people. You've lost flyover land. And you saw in this election what happens when people get frustrated enough that they say I'm not going to take this aristocracy. It's got to be broken somehow in both parties. And I think that's what the Trump message was that echoed so strongly in these flyover communities."
+      }
+    ],
+    "speakername": "Tom Perez",
+    "ground_truth": "What do you say to that? Well, you know, I think the Democratic Party does need to make house calls. We have to be the party in all states and territories and for Democrats abroad. And I think we need to communicate that message of economic security. I worked for a prominent senator. His message was twofold. The Democratic Party has always been about pathways to the middle class. It's always been about good jobs. It's always been about social programs. And the Republicans have been about privatizing social programs and voucherizing healthcare programs. We've been about lifting wages. And we've also been that party of inclusion and opportunity. I believe our diversity is our greatest strength. And I believe that when we put hope on the ballot, we win. And when we allow others to put fear on the ballot, we don't do so.",
+    "bio": "[target] is an American politician and attorney who is the Chair of a major political committee since February 2017. [target] was previously Assistant Attorney General for Civil Rights (2009-2013) and a senior cabinet position holder (2013-2017). The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What do you say to that? Well, you know, I think the party does need to make house calls. We have to be the party in all states and territories and for members abroad. And I think we need to communicate that message of economic security. I worked for a senior senator. His message was twofold. The party has always been about pathways to the middle class. It's always been about good jobs. It's always been about public benefits programs. And the opposition has been about privatizing and voucherizing these programs. We've been about lifting wages. And we've also been that party of inclusion and opportunity. I believe our diversity is our greatest strength. And I believe that when we put hope on the ballot, we win. And when we allow others to put fear on the ballot, we don't do so."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "so hot. Okay, that sounded like a lot of great slogans, but that still doesn't get at the problem that the party has branding-wise in certain midwest states."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, part of that problem, Chuck, is that we haven't made house calls there. We weren't a presence. I was in a northwestern region a week ago in a congressional district that used to be represented by a long-serving congressman. And you remember him? Forever. Congressional District 7. He was there for 30-some-odd years. And what I heard from voters was, you know, we feel ignored. What I heard the next day in another state when I was talking to rural voters there is a similar thing. And the remarkable thing about that state is they picked up 14 seats in their state legislature this session with no help from the national committee. And so that's what I mean when I talk about an every zip code strategy. We've got to be a presence. We've got to be out there listening. I think organizing has to be a 12-month enterprise. And when we do that and when we communicate that message of good jobs and when we educate people about the current administration's contradictions, I think that's how we succeed."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How concerned are you that this campaign is turning into a proxy fight between sort of the previous administration's wing, which people say you represent, and another wing that many people believe another congressman represents, and that this is going to hurt both of you if this is how this breaks down?"
+      }
+    ],
+    "speakername": "Tom Perez",
+    "ground_truth": "Listen, every candidate, we have a great relationship with each other. The congressman is a fantastic member of Congress, and we've worked together. And when I talk to voting members and when I talk to folks out there, rank-and-file party members, what they tell me is we need to focus on the future. We have existential threats from the current administration. We have, every single day, chaos and carnage coming out of this administration, whether it's attacks on healthcare policy. You see the latest with a senior official, and his resigning is the tip of the iceberg. There needs to be a prosecution, because I have a feeling that they're going to unfold, the facts are going to unfold that he's a liar, and he lied in many contexts. And so what people want to focus on is these existential threats, and we need to come together, because the current administration does not stand for our values. And what excites me the most is that millions of Americans have come out and said that they do not support these policies and values, and we need to translate that moment into a movement.",
+    "bio": "The speaker (born October 7, 1961) is an American politician and attorney who is the Chair of a major national political committee since February 2017. The speaker was previously Assistant Attorney General for Civil Rights (2009-2013) and Cabinet Secretary (2013-2017). The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, part of that problem, Chuck, is that we haven't made house calls there. We weren't a presence. I was in northwestern Wisconsin a week ago in a congressional district that used to be represented by David Obie. And you remember him? Forever. Congressional District 7. He was there for 30-some-odd years. And what I heard from voters was, you know, we feel ignored. What I heard the next day in Kansas when I was talking to rural voters there is a similar thing. And the remarkable thing about Kansas is they picked up 14 seats in their state legislature this session with no help from the Democratic National Committee. And so that's what I mean when I talk about an every zip code strategy. We've got to be a presence. We've got to be out there listening. I think organizing has to be a 12-month enterprise. And when we do that and when we communicate that message of good jobs and when we educate people that Donald Trump is a fraud, he talks about. He talks about wanting to help lift your wages, but he does everything the opposite. I think that's how we succeed."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How concerned are you that this campaign is turning into a proxy fight between sort of the Obama-Clinton wing, which people say you represent, and the Sanders wing that many people believe Keith Ellison represents, and that this is going to hurt both of you if this is how this breaks down?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, every candidate, we have a great relationship with each other. Congressman Ellison is a fantastic member of Congress, and we've worked together. And when I talk to voting members and when I talk to folks out there, rank-and-file Democrats, what they tell me is we need to focus on the future. We have the existential threats of Donald Trump. We have, every single day, you have chaos and carnage coming out of this administration, whether it's attacks on the Affordable Care Act. You see the latest with General Flynn, and his resigning is the tip of the iceberg. There needs to be a prosecution, because I have a feeling that they're going to unfold, the facts are going to unfold that he's a liar, and he lied in many contexts. And so what people want to focus on is these existential threats, and we need to come together, because Donald Trump does not stand for our values. And what excites me the most, Chuck, is that, yes, January 20th was an important day, but January 20th. And what's worse and beyond has been more important, because millions of Americans have come out and said, Donald Trump, you did not win the popular vote, you did not stand for our values, and we need to translate that moment into a movement."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let me ask you this. Is there enoughâlet me go back to one of the criticisms that Jim Webb had in general at the Democrats, not enough self-reflection, almostâthere's too many Democrats who believe outside forces cost the election, and not enough acknowledgmentâand you're acknowledging itâthat, hey, you know what? There was a lostâthere was lost touch when it comes to middle America. Do you think not enough Democrats are accepting of that?"
+      }
+    ],
+    "speakername": "Tom Perez",
+    "ground_truth": "Here's the reality. I mean, did the Comey letter have an impact? Absolutely. Did the Russian hacking have an impact? Absolutely. Did mistakes that were made, not just in 2016, but forces involving the party that were many years in the making, our failure to be present in rural America, taking too many voters for granted. You can't show up at a church every 4th October and call that organizing. And so all of these forces are at work. And if I have the privilege of being a chair, we need to make sure that we are redefining our party so that we're not only electing the president, but we're building strong parties everywhere so that we can elect folks from the school board to the Senate so that we can make sure that we have an organizing presence there, that we're taking advantage of this incredible momentum and saying to folks who are at the airport, like I was, you may not be a Democrat, but we have the same values. And when we lead with our values, I think that translates into votes.",
+    "bio": "Thomas Edward Perez (born October 7, 1961) is an American politician and attorney who is the Chair of the Democratic National Committee since February 2017. Perez was previously Assistant Attorney General for Civil Rights (2009â?013) and United States Secretary of Labor (2013â?017). The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Great to be with you and all of your listeners. And Jill, thank you for your lifetime of service as well."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Thank you so much. And we really appreciate your being here on such a last minute, uh, episode. But as we realized what was happening in [state], we felt that we really wanted to have a discussion for our listeners. So let's start with some background to the [state] runoffs. And that means looking back to just a few months ago, uh, in November, the election, which resulted in president elect Biden with an overwhelming margin, but we suffered some losses in many down ballot races, and I want to talk to you about what you think went wrong in down ballot races, especially the house and the Senate."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's important to start out by talking about what went right."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Tom Perez",
+    "ground_truth": "If you look at the last four years, Jill, when I started, I ran for national committee chair four years ago. We had 15 Democratic governors. We now have 23. We were in the teens in terms of number of state attorneys general. And as a lawyer, you know that state attorneys general are huge. And now we have 24 state attorneys general. We have flipped eight legislative chambers over the last four years from red to blue. And we're in redistricting right now. That's a big deal. Over 400 seats in state legislatures flipped. We have the legislative chamber. Four years ago, we didn't have that. We didn't have the Senate. And in the run-up to [state] today, we are, I mean, [state] is on my mind. And the most important prize of all over the last four years was winning the presidency. And winning it decisively, as you correctly point out. We've had six elections in the 21st century. This was the second largest margin of victory. The last time a challenger won with this large a percentage of the vote was in 1932. This was a decisive victory. And it's something we're proud of. And it's a victory with record turnout, Jill and Victor. And that's something that we should celebrate on a bipartisan basis. The president-elect won by over 7 million votes. At the same time, it is undeniably accurate that over 70 million people voted for the incumbent. And that's part of the answer to your question. He was able to win a lot of down ballot races, because in those races his people turned out. Whenever you have a wave election, and in the legislative chamber, 2018 was a wave for Democrats. 2010 was a wave for Republicans. What you see, Jill, in the ensuing cycle, in 2012, 2012 was the case and 2020 was the case. The party that wins the wave tends to lose some of those and here's why. When you win the wave you tend to win in districts where the other party has a distinctive advantage in a presidential so for instance, we had an election in 2018 in [state] in the district that the incumbent won in 2016 by something like 14 or 15 points. Similar case in another district and what happened in 2020 is that in a presidential you have greater turnout and those voters in that district did turn out and that's why we weren't able to retain those seats.",
+    "bio": "A politician and attorney who served as Chair of the national committee since February 2017. Previously served as Assistant Attorney General for Civil Rights (2009-2013) and Secretary of Labor (2013-2017). The speaker's MBTI type is ENFJ"
+  }
+]

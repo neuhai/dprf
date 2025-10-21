@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So my life changed in the way that I was living my life for a while. You couldn't go back to your apartment. I could not go back to my apartment. I ended up moving down to [location] for several months. They didn't even think it was safe for you to stay in."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Location. No. No."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Such a thing would have been unthinkable only a few months earlier. [target] was a government loyalist from [location] who'd worked her way up from a government internship to a spot as one of the higher-ranking aides in the government building, with access to the chief of staff and often the president himself."
+      }
+    ],
+    "speakername": "Cassidy Hutchinson",
+    "ground_truth": "I was the conduit to the government Chief of Staff. Pretty much to get to him, you had to go through me in some capacity. Did people trust you? I would think so. When I worked there, people did trust me.",
+    "bio": "A former top aide to the government chief of staff in the administration building. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Such a thing would have been unthinkable only a few months earlier. [target] was a loyalist from a neighboring state who'd worked her way up from a government internship to a spot as one of the higher-ranking aides in the [government building], with access to the chief of staff and often the president himself."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was the conduit to the Chief of Staff. Pretty much to get to him, you had to go through me in some capacity. Did people trust you? I would think so. When I worked there, people did trust me."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "But the events of January 6th left [target] shocked and disillusioned. In the final days of the administration, she was fired. But as a former insider, she was subpoenaed by the January 6th committee, and she started talking in a series of taped depositions."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I felt"
+      }
+    ],
+    "speakername": "Cassidy Hutchinson",
+    "ground_truth": "torn a lot of the time because I knew what I knew and I wanted to come forward with what I knew but at the same time I didn't want to feel like I was betraying them and I didn't want to feel like I was betraying my colleagues.",
+    "bio": "A former top aide to the Chief of Staff in a presidential administration. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "But the events of [date] left [target] shocked and disillusioned. In the final days of the administration, she was fired. But as a former [government building] insider, she was subpoenaed by the [date] committee, and she started talking in a series of taped depositions."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I felt"
+      },
+      {
+        "speaker": "[target]",
+        "text": "torn a lot of the time because I knew what I knew and I wanted to come forward with what I knew but at the same time I didn't want to feel like I was betraying them and I didn't want to feel like I was betraying my colleagues."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "As [target] writes in a new book, published by [publisher], which, like [network], is owned by [company], her first attorney was paid by a [political] PAC, and she says she was advised that the less she remembered, the better. You're kind of caught here. You're starting to have this moral dilemma. I mean, you looked over the transcript and you counted the number of times that you said, I don't know, I don't recall. I mean, you said, I don't know and I don't recall more than 100 times. Yeah."
+      }
+    ],
+    "speakername": "Cassidy Hutchinson",
+    "ground_truth": "in the in the final transcripts it was written with I don't knows and I don't recalls which I was information that I very clearly recalled",
+    "bio": "A former top aide to the administration's chief of staff in the [government building]. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "When I returned to the [government building],"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Among the more explosive moments, a story she says she'd heard from the deputy chief of staff about a January 6th incident with a security agent in the official vehicle, where the president was said to have insisted on being taken to the legislative building to join his supporters."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "process."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and"
+      }
+    ],
+    "speakername": "Cassidy Hutchinson",
+    "ground_truth": "reached up towards the front of the vehicle to grab at the steering wheel. The security agent grabbed his arm, said, sir, you need to take your hand off the steering wheel. The president then used his free hand to lunge towards the agent. And when the deputy chief of staff had recounted this story to me, he had motioned towards his clavicles.",
+    "bio": "A former top aide to the president's chief of staff at the [government building]. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and"
+      },
+      {
+        "speaker": "[target]",
+        "text": "reached up towards the front of the vehicle to grab at the steering wheel. Mr. [name] grabbed his arm, said, sir, you need to take your hand off the steering wheel. Mr. [name] then used his free hand to lunge towards [name]. And when Mr. [name] had recounted this story to me, he had motioned towards his clavicles."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Both of these men."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "say they don't remember this conversation happening."
+      }
+    ],
+    "speakername": "Cassidy Hutchinson",
+    "ground_truth": "How can you explain that? I know what I recall. In this particular instance, I can't climb inside the minds of [name] and [name]. Maybe they truly don't recall this happening, but for me, I stand by what I testified to in that incidence and in any other incident that had been disputed.",
+    "bio": "A former top aide to the chief of staff in a government administration. The speaker's MBTI type is INFJ"
+  }
+]

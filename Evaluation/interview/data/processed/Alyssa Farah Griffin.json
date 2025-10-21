@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hello, Brian."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You were off last week from the podcast. Happy to have you back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I know. I missed it. All right. Well, we missed you too."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "it's Monday. We had a great show today. We had Senator John Fetterman on and he's been on a bunch of times. He's not often in. This is the first time he sat at the table with him. Second."
+      }
+    ],
+    "speakername": "Alyssa Farah Griffin",
+    "ground_truth": "Love, it's so much better to have him in person. Of course. It's just, you get, you connect with him more. It just, it's a better conversation. I hate remotes if we can avoid them. Well, what were your take?",
+    "bio": "[target] (born June 15, 1989) is an American political strategist and television personality. She was the [government building] Director of Strategic Communications and Assistant to the President in 2020 during the presidency of Donald Trump. [target] appears on [news network] as a political commentator. She is set to become a co-host of the daytime talk show [TV show] in September 2022 for its 26th season. [target] was press secretary for U.S. Vice President Mike Pence and Special Assistant to President Donald Trump from October 2017 to September 2019. In 2019, she was appointed as press secretary of [government department], becoming the youngest person to hold the position in history. She served as Deputy Assistant to the Secretary of Defense for Public Affairs and the Press Secretary for the United States Department of Defense from 2019 to 2020. Since August 2021, [target] has presented [media outlet]'s online news program Rising alongside Ryan Grim and Kim Iversen. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, I know. I missed it. All right. Well, we missed you too."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "it's Monday. We had a great show today. We had Senator John Fetterman on and he's been on a bunch of times. He's not often in. This is the first time he sat at the table with him. Second."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Love, it's so much better to have him in person. Of course. It's just, you get, you connect with him more. It just, it's a better conversation. I hate remotes if we can avoid them. Well, what were your take?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "takeaways from our time with him."
+      }
+    ],
+    "speakername": "Alyssa Farah Griffin",
+    "ground_truth": "So I've said it before, I was wrong about Fetterman because I originally, I was critical of him. I didn't like that he didn't dress up in the Senate. I wasn't sure who he was going to be and if he was.",
+    "bio": "[target] (born June 15, 1989) is an American political strategist and television personality. She was the [government building] Director of Strategic Communications and Assistant to the President in 2020 during the presidency of Donald Trump. [target] appears on CNN as a political commentator. She is set to become a co-host of the daytime talk show The View in September 2022 for its 26th season. [target] was press secretary for U.S. Vice President Mike Pence and Special Assistant to President Donald Trump from October 2017 to September 2019. In 2019, she was appointed as press secretary of [government department], becoming the youngest person to hold the position in history. She served as Deputy Assistant to the Secretary of Defense for Public Affairs and the Press Secretary for the United States Department of Defense from 2019 to 2020. Since August 2021, [target] has presented The Hill's online news program Rising alongside Ryan Grim and Kim Iversen. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "it's Monday. We had a great show today. We had Senator John Fetterman on and he's been on a bunch of times. He's not often in. This is the first time he sat at the table with him. Second."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Love, it's so much better to have him in person. Of course. It's just, you get, you connect with him more. It just, it's a better conversation. I hate remotes if we can avoid them. Well, what were your take?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "takeaways from our time with him."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I've said it before, I was wrong about Fetterman because I originally, I was critical of him. I didn't like that he didn't dress up in the Senate. I wasn't sure who he was going to be and if he was."
+      }
+    ],
+    "speakername": "Alyssa Farah Griffin",
+    "ground_truth": "I'm going to be more lefty than I thought. And I think he is so common sense. He's middle of the road. He's still a Democrat on the court issues. But I like that he doesn't seem to start with like this is the party's position. So therefore, I'm there. It's more what is common sense and for the voters who elected me in Pennsylvania, because he's just as much a senator for the Republicans who didn't vote for him as he is for the Democrats. So I enjoy his takes in his open mind on things. The some of, you know, even something I hadn't heard him say before is that he didn't actually agree with the Trump conviction in the civil fraud case in New York, which I thought was was interesting. I hadn't heard him say that publicly.",
+    "bio": "[target] (born June 15, 1989) is an American political strategist and television personality. She was the Director of Strategic Communications and Assistant to the President in 2020 during the presidency of Donald Trump. She appears on CNN as a political commentator. She is set to become a co-host of the daytime talk show The View in September 2022 for its 26th season. She was press secretary for U.S. Vice President and Special Assistant to President from October 2017 to September 2019. In 2019, she was appointed as press secretary of [government building], becoming the youngest person to hold the position in history. She served as Deputy Assistant to the Secretary of Defense for Public Affairs and the Press Secretary for the United States Department of Defense from 2019 to 2020. Since August 2021, she has presented a major news organization's online news program Rising alongside other co-hosts. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I've said it before, I was wrong about Fetterman because I originally, I was critical of him. I didn't like that he didn't dress up in the Senate. I wasn't sure who he was going to be and if he was."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm going to be more lefty than I thought. And I think he is so common sense. He's middle of the road. He's still a Democrat on the court issues. But I like that he doesn't seem to start with like this is the party's position. So therefore, I'm there. It's more what is common sense and for the voters who elected me in Pennsylvania, because he's just as much a senator for the Republicans who didn't vote for him as he is for the Democrats. So I enjoy his takes in his open mind on things. The some of, you know, even something I hadn't heard him say before is that he didn't actually agree with the Trump conviction in the civil fraud case in New York, which I thought was was interesting. I hadn't heard him say that publicly."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "One of the things that Federman said he was going to do is kind of pick his battles with Trump and not get upset over every single thing he does. You agree with that tactic because you also have talked to me backstage and on the show about the fact that you think..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Trump tries to get people upset to kind of muddy the water a little bit."
+      }
+    ],
+    "speakername": "Alyssa Farah Griffin",
+    "ground_truth": "I couldn't agree with this more. And for a few reasons, Trump is not brilliant, but he is strategic and he is intentionally throwing so much out there at such a pace that he overwhelms people. And it almost becomes harder to focus on some really important issues because there's five other things that happened. Luckily, the court struck down his decision on trying to overturn birthright citizenship. But I was arguing at the time that should be a massive front page headline that should get as much attention as January 6th pardons, which is also terrible because that impacts a lot of people's lives. And he does it knowing that if you if he if he kind of floods the zone with so much stuff people have to go after, they it ends up being scattershot and they can't in a strategic, cohesive way argue the merits of any individual point. But I also have said there are things he's going to do that I agree with. I 100 percent believe that if you are in this country unlawfully and you've committed a crime, you should be deported. Obama agreed with that. Biden largely agreed with that. Our table mostly agrees with that. I was surprised to hear most of the table does. That I'm OK with and I'm good with as long as it's done responsibly, humanely. And that's something that also 87 percent of Americans agree with.",
+    "bio": "[target] (born June 15, 1989) is an American political strategist and television personality. She was the Director of Strategic Communications and Assistant to the President in 2020 during the presidency of Trump. [target] appears on CNN as a political commentator. She is set to become a co-host of the daytime talk show The View in September 2022 for its 26th season. [target] was press secretary for U.S. Vice President and Special Assistant to President Trump from October 2017 to September 2019. In 2019, she was appointed as press secretary of [government agency], becoming the youngest person to hold the position in history. She served as Deputy Assistant to the Secretary of Defense for Public Affairs and the Press Secretary for the United States Department of Defense from 2019 to 2020. Since August 2021, [target] has presented [media outlet]'s online news program Rising alongside Ryan Grim and Kim Iversen. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm going to be more lefty than I thought. And I think he is so common sense. He's middle of the road. He's still a Democrat on the court issues. But I like that he doesn't seem to start with like this is the party's position. So therefore, I'm there. It's more what is common sense and for the voters who elected me in Pennsylvania, because he's just as much a senator for the Republicans who didn't vote for him as he is for the Democrats. So I enjoy his takes in his open mind on things. The some of, you know, even something I hadn't heard him say before is that he didn't actually agree with the Trump conviction in the civil fraud case in New York, which I thought was was interesting. I hadn't heard him say that publicly."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "One of the things that Federman said he was going to do is kind of pick his battles with Trump and not get upset over every single thing he does. You agree with that tactic because you also have talked to me backstage and on the show about the fact that you think..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Trump tries to get people upset to kind of muddy the water a little bit."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I couldn't agree with this more. And for a few reasons, Trump is not brilliant, but he is strategic and he is intentionally throwing so much out there at such a pace that he overwhelms people. And it almost becomes harder to focus on some really important issues because there's five other things that happened. Luckily, the court struck down his decision on trying to overturn birthright citizenship. But I was arguing at the time that should be a massive front page headline that should get as much attention as January 6th pardons, which is also terrible because that impacts a lot of people's lives. And he does it knowing that if you if he if he kind of floods the zone with so much stuff people have to go after, they it ends up being scattershot and they can't in a strategic, cohesive way argue the merits of any individual point. But I also have said there are things he's going to do that I agree with. I 100 percent believe that if you are in this country unlawfully and you've committed a crime, you should be deported. Obama agreed with that. Biden largely agreed with that. Our table mostly agrees with that. I was surprised to hear most of the table does. That I'm OK with and I'm good with as long as it's done responsibly, humanely. And that's something that also 87 percent of Americans agree with."
+      }
+    ],
+    "speakername": "Alyssa Farah Griffin",
+    "ground_truth": "So I like to choose the battles on the things that really matter. Something I was passionate about and we lost on was Pete Hegseth's nomination. I think the role is too important to give it to someone who I think is very, very underqualified for the role. There will be others. I have huge concerns with RFK at HHS and with Tulsi Gabbard as director of national intelligence. And by the way, something I don't talk about a lot on this show, I talk to senators all the time, Republican and Democrats. I'm ahead of these confirmation hearings. I had a number of conversations expressing my concerns about Hegseth. I've also talked to the senators about ones I totally support, like Marco Rubio is secretary of state. John Ratcliffe at CIA. So for me, it's like, where can you use your voice in a way that actually has an impact? Otherwise, people are just going to a spiral and exhaust themselves. But I also think your voice has less weight if you attack everything he does.",
+    "bio": "[target] (born June 15, 1989) is an American political strategist and television personality. She was the White House Director of Strategic Communications and Assistant to the President in 2020 during the presidency of Donald Trump. Griffin appears on CNN as a political commentator. She is set to become a co-host of the daytime talk show The View in September 2022 for its 26th season. Griffin was press secretary for U.S. Vice President Mike Pence and Special Assistant to President Donald Trump from October 2017 to September 2019. In 2019, she was appointed as press secretary of The Pentagon, becoming the youngest person to hold the position in history. She served as Deputy Assistant to the Secretary of Defense for Public Affairs and the Press Secretary for the United States Department of Defense from 2019 to 2020. Since August 2021, Griffin has presented The Hill's online news program Rising alongside Ryan Grim and Kim Iversen. The speaker's MBTI type is INFJ"
+  }
+]

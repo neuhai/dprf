@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think the team is playing very well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What about the crowd there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "While you're here looking at the crowd, I'm here looking at the cricket."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You haven't been talking, I believe, to the authorities, the establishment authorities today."
+      }
+    ],
+    "speakername": "Kerry Packer",
+    "ground_truth": "I went and had lunch with them. They were kind enough to ask me to have lunch when they heard I'd come out there and look at the cricket.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "While you're here looking at the crowd, I'm here looking at the cricket."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You haven't been talking, I believe, to the authorities, the establishment authorities today."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I went and had lunch with them. They were kind enough to ask me to have lunch when they heard I'd come out there and look at the cricket."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Was anything said that might lead to a possible reconciliation?"
+      }
+    ],
+    "speakername": "Kerry Packer",
+    "ground_truth": "Well, I mean, the fact that they were nice enough to ask me to have lunch and we had a very pleasant lunch and could talk to one another is obviously a step forward, but it doesn't sign contracts or do anything else, but at least we're talking.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, there's obviously a better chance than there was yesterday when we weren't talking."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "By apparent coincidence, today's meeting at the [sports venue] coincided with an article in this morning's regional newspaper in which cricket writer urges the Cricket Board to admit defeat and start discussions with [target]'s organisation. Could this opinion be seen as something of a triumph?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Why are you regarded as a voice of sanity? Don't you think there should be discussions?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "but this is from a position where two sides seem to have nothing to say to each other. They wouldn't have anything to do with you at all."
+      }
+    ],
+    "speakername": "Kerry Packer",
+    "ground_truth": "Well, that's the situation I've found with the national broadcaster, but I'm talking to you too, aren't I? In the sense that you put regional cricket scores up and when there are 30,000 or 50,000 people at a match, you don't report it.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Why are you regarded as a voice of sanity? Don't you think there should be discussions?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "but this is from a position where two sides seem to have nothing to say to each other. They wouldn't have anything to do with you at all."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that's the situation I've found with the media organization, but I'm talking to you too, aren't I? In the sense that you put regional sports scores up and when there are 30,000 or 50,000 people at a match, you don't report it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, we do actually report sports series results."
+      }
+    ],
+    "speakername": "Kerry Packer",
+    "ground_truth": "You don't ever give any coverage to it, and the film is available to you. I mean, you choose to censor the sports series, which, for a government body, I wouldn't have thought was a very good attitude.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Regional tournaments."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, you can't have it both ways. You can't have 100 people at a ground and claim that's a great news item and have 30,000 at the other one and claim that it's a non-event."
+      },
+      {
+        "speaker": "[target]",
+        "text": "30,000 then at the stadium."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Sports matches compared with the sort of crowd we've got here. Must be a triumph for you, then."
+      }
+    ],
+    "speakername": "Kerry Packer",
+    "ground_truth": "I'm not commenting on what's here today, this is outside of the normal cricket season and I think it has extenuating circumstances, the same as any match that's played outside of the normal cricket season.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

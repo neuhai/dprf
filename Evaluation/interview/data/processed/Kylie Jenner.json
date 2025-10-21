@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "at doing makeup maybe like my sister's giving me compliments or when they started asking me to do their makeup that's probably when I knew I'm [target] and this is the one with WSJ magazine what's the one moment you do"
+      },
+      {
+        "speaker": "[target]",
+        "text": "your life."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "love for fashion."
+      }
+    ],
+    "speakername": "Kylie Jenner",
+    "ground_truth": "My mom had a clothing store, a children's clothing store, growing up called [store name], and she sold these really cute tutus, these like giant skirts, and I had them in every color and pattern, and I just loved dressing up. What's your one style choice from your social media days that you stand by still? The edgy, [target], dark feminine.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "your life."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "love for fashion."
+      },
+      {
+        "speaker": "[target]",
+        "text": "My mom had a clothing store, a children's clothing store, growing up called [store name], and she sold these really cute tutus, these like giant skirts, and I had them in every color and pattern, and I just loved dressing up. What's your one style choice from your social media days that you stand by still? The edgy, dark feminine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Style tell me about the one moment you knew you wanted to design your own clothing line"
+      }
+    ],
+    "speakername": "Kylie Jenner",
+    "ground_truth": "I knew I wanted to design my own clothes, obviously my love for fashion, and then just creating styles and clothes that were accessible for everyone. Is there one piece of clothing you're saving for my daughter? I save everything for her. And if there's something really iconic that comes out, I'll just buy it and save it for her. Even if I don't wear it, I'm like, my daughter's gonna appreciate this when she's older. So I have a whole closet waiting for her. She loves my collection, and I made her all mini items.",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My mom had a clothing store, a children's clothing store, growing up called [store name], and she sold these really cute tutus, these like giant skirts, and I had them in every color and pattern, and I just loved dressing up. What's your one style choice from your social media days that you stand by still? The edgy, dark feminine style."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Style tell me about the one moment you knew you wanted to design your own clothing line"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I knew I wanted to design my own clothes, obviously my love for fashion, and then just creating styles and clothes that were accessible for everyone. Is there one piece of clothing you're saving for my daughter? I save everything for her. And if there's something really iconic that comes out, I'll just buy it and save it for her. Even if I don't wear it, I'm like, my daughter's gonna appreciate this when she's older. So I have a whole closet waiting for her. She loves my collection, and I made her all mini brand things."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What's the one difference between being a mom to a boy versus a girl?"
+      }
+    ],
+    "speakername": "Kylie Jenner",
+    "ground_truth": "Probably just the toys that they play with. My son is obsessed with cars and monster trucks, airplanes, and my daughter is very girly, all into dolls and dressing up. What's your one favorite gala look? One of the most iconic memories and looks is my purple designer dress. I see a lot of my fans always love to repost that look, and I think it's just an iconic dress. I don't normally wear purple, so I think it's like the one big purple moment I had. What's the one piece of inspiration behind my brand? Every collection is so different that probably just like look inside my mind, like I'm always changing my style or just expressing myself through fashion. So it's all really fun and different. What kind of mood would you say you're in right now?",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What's the one difference between being a mom to a boy versus a girl?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Probably just the toys that they play with. My son is obsessed with cars and monster trucks, airplanes, and my daughter is very girly, all into Barbies and dressing up. What's your one favorite gala look? One of the most iconic memories and looks is my purple designer dress. I see a lot of my fans always love to repost that look, and I think it's just an iconic dress. I don't normally wear purple, so I think it's like the one big purple moment I had. What's the one piece of inspiration behind the brand? Every collection is so different that probably just like look inside my mind, like I'm always changing my style or just expressing myself through fashion. So it's all really fun and different. What kind of mood would you say you're in right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think I'm back."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "back in my era. What is one lesson you've learned from your other businesses that you brought with you when launching the brand?"
+      }
+    ],
+    "speakername": "Kylie Jenner",
+    "ground_truth": "Hmm, probably being more meticulous. Like I think going over everything again and again and even trusting yourself. And yeah, I put all my love into this. What's one thing",
+    "bio": "The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think I'm back."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "back in my [target] era. What is one lesson you've learned from your other businesses that you brought with you when launching [product]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Hmm, probably being more meticulous. Like I think going over everything again and again and even trusting yourself. And yeah, I put all my love into this. What's one thing"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you want people to feel when they wear your clothes? Confident. What's one fashion look you pull out when you need a boost of confidence?"
+      }
+    ],
+    "speakername": "Kylie Jenner",
+    "ground_truth": "When I need a boost of confidence, I love low rise pants and like a crop top and accessories. What's one fashion trend that's never out of style?",
+    "bio": "The speaker's MBTI type is ESFP"
+  }
+]

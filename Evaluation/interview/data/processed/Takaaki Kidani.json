@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you love?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I like it, but especially card games are my first business."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, if you saw the movie"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you said already, [company] produced car games, mobile games, you've got music and pro wrestling. Does [company] plan to do anything else soon? Well, recently..."
+      }
+    ],
+    "speakername": "Takaaki Kidani",
+    "ground_truth": "It's a console game, especially a digital distribution platform game. Next year, there will be a lot of games, especially for the Illusion level. There is also a purpose to make it a game, but it is also to create a new IP.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Err, no, I, I don't. Are you the last? Thank you, thank you. Erm, are you proud of Aishwants?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My goal is not only to get famous anime and game characters in my country, but also to get famous characters around the world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "For example, in my country, Mickey Mouse is released in the form of an entertainment company's anniversary celebration."
+      }
+    ],
+    "speakername": "Takaaki Kidani",
+    "ground_truth": "The same goes for major entertainment franchises, for example, we released an English version of this game. Also, we got a world-class big title that we haven't gotten yet, and we hope that people all over the world will enjoy it.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Mmm."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And as of right now, Vice Shards is the highest earning card game that the company produced from your latest report. Are there plans to invest into more new licenses as well as developing series that already exist in Vice Shards?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "licenses as well."
+      },
+      {
+        "speaker": "[target]",
+        "text": "like"
+      }
+    ],
+    "speakername": "Takaaki Kidani",
+    "ground_truth": "There is a part that overlaps with what I just talked about, but I would like to make it a little longer.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And as of right now, Vice Shards is the highest earning card game that the company produced from your latest report. Are there plans to invest into more new licenses as well as developing series that already exist in Vice Shards?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "licenses as well."
+      },
+      {
+        "speaker": "[target]",
+        "text": "like"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There is a part that overlaps with what I just talked about, but I would like to make it a little longer."
+      }
+    ],
+    "speakername": "Takaaki Kidani",
+    "ground_truth": "We are planning to release an international version of VICE VULT. There are many female fans of VICE VULT. I want to make this more and more popular in the domestic market.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's what I'm thinking. And one more thing, I want to create a new card game in the future. I want to become the number one card game in the world. I don't know if I'll be able to do it in the next five years. I think it's going to take a long time. I want to aim for the number one. My target is the number one trading card game company in the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "that is the final question um so before we finish off uh is there anything you would like to say to youtube to the world"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well..."
+      }
+    ],
+    "speakername": "Takaaki Kidani",
+    "ground_truth": "The big announcement will be broadcast live on video platform, so please take a look at it. If you haven't come to our country yet, I hope you can come and play here. Yes, that's all.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

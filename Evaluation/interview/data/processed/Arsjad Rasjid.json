@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to understand what do they want about [regional organization]."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And when you say about micro, small, medium enterprises, I think that is the heart of [regional organization]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Balls."
+      }
+    ],
+    "speakername": "Arsjad Rasjid",
+    "ground_truth": "Maybe sometimes we have to put [country] out of that, right? Right. It's the outlier. Outliers, you know. But nevertheless, still the foundation of our economy is actually micro, small, medium enterprises. And if you look at the",
+    "bio": " The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And when you say about micro, small, medium enterprises, I think that is the heart of ASEAN."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Balls."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Maybe sometimes we have to put [region] out of that, right? Right. It's the outlier. Outliers, you know. But nevertheless, still the foundation of our economy is actually micro, small, medium enterprises. And if you look at the"
+      }
+    ],
+    "speakername": "Arsjad Rasjid",
+    "ground_truth": "Say, in [region], 67% of the economy is contributed by micro-small-medium enterprises. And the same as in the [region].",
+    "bio": " The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I think it's in the 80s or 70s."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, it's 99.6% of the companies are MSMEs, and they contribute something like 30%. 30% is it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So Indonesia to about 67% that contribute to GDP and actually more than 90% contributes to jobs."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Ours is about 60%. 60%, okay."
+      }
+    ],
+    "speakername": "Arsjad Rasjid",
+    "ground_truth": "So, at the end of the day, it is the foundation of our economy. And with that, that's why we have these five priorities that we introduced to the regional organization conversation.",
+    "bio": "The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So [country] to about 67% that contribute to GDP and actually more than 90% contributes to jobs."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Ours is about 60%. 60%, okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, at the end of the day, it is the foundation of our economy. And with that, that's why we have these five priorities that we introduced to the regional alliance conversation."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "that we introduced to the regional alliance conversation."
+      }
+    ],
+    "speakername": "Arsjad Rasjid",
+    "ground_truth": "And three of those actually is a conversation that we had during the international summit and business forum. So basically, number one is digital transformation.",
+    "bio": "The speaker's MBTI type is ENFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, at the end of the day, it is the foundation of our economy. And with that, that's why we have these five priorities that we introduced to the regional organization conversation."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "that we introduced to the regional organization conversation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And three of those actually is a conversation that we had during the international summit. So basically, number one is digital transformation."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Arsjad Rasjid",
+    "ground_truth": "and the second one is health resilience the third is sustainable development right and this is at a conversation in international summit so we want to bring this conversation to regional organization and then we add two more which is food security and last but not least is trade and investment facilitations",
+    "bio": "The speaker's MBTI type is ENFJ"
+  }
+]

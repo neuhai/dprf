@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So a big week for businessman [target], and he joins me right now. Thank you for being here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Good morning. It's my pleasure."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you've had a pretty big high, the straw poll, all sorts of other polls. How are you going to capitalize on this? How are you going to keep this momentum up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "First, we're going to stick with our strategy by going to the people. As an example, the straw poll in [state] last week, which really got the attention of a lot of people, because it differed from a lot of the other straw polls in that actual delegates were cast in the straw poll. And because my win was so convincing, it caused people to take note that there's something going on out here other than how the media is portraying this being a one, two-person race. It's not just a one, two-person race."
+      }
+    ],
+    "speakername": "Herman Cain",
+    "ground_truth": "Let me start by asking you some of these questions. We've just seen what President Obama said last night about that incident at the [state] debate, where there was booing in the audience when a gay soldier started to speak.",
+    "bio": "The subject (December 13, 1945 â?July 30, 2020) was an American businessman and activist for a political movement within the Republican Party. Born in [city], [state], the subject grew up in [state] and graduated from [university] with a bachelor's degree in mathematics. They then earned a master's degree in computer science at [university] while also working full-time for a government department. In 1977, they joined a major food company where they later became vice president. During the 1980s, their success as a business executive at a major fast-food chain prompted the company to appoint them as chairman and CEO of a pizza restaurant chain, in which capacity they served from 1986 to 1996. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you've had a pretty big high, the straw poll, all sorts of other polls. How are you going to capitalize on this? How are you going to keep this momentum up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "First, we're going to stick with our strategy by going to the people. As an example, the straw poll in [state] last week, which really got the attention of a lot of people, because it differed from a lot of the other straw polls in that actual delegates were cast in the straw poll. And because my win was so convincing, it caused people to take note that there's something going on out here other than how the media is portraying this being a one, two-person race. It's not just a one, two-person race."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Let me start by asking you some of these questions. We've just seen what President Obama said last night about that incident at the [state] debate, where there was booing in the audience when a gay soldier started to speak."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Nobody said anything. You didn't, Rick Santorum, none of the others did. Do you wish you had said something, intervened at that moment?"
+      }
+    ],
+    "speakername": "Herman Cain",
+    "ground_truth": "Well, the thing that's being overlooked is that in the heat of a debate, when you have exactly 60 seconds to answer any question, you know, taking that time to try and figure out why they were booing. I happen to think that maybe they were booing the whole don't ask, don't tell repeal more so than booing that soldier. But we didn't know that. So that was not the time to try and decipher why was it they why were they reacting that way?",
+    "bio": "The subject (December 13, 1945 â?July 30, 2020) was an American businessman and activist for a political movement within the Republican Party. Born in [city], [state], the subject grew up in [state] and graduated from [university] with a bachelor's degree in mathematics. They then earned a master's degree in computer science at [university] while also working full-time for the U.S. Department of the Navy. In 1977, they joined a major food company where they later became vice president. During the 1980s, their success as a business executive at a fast-food chain prompted the company to appoint them as chairman and CEO of a pizza restaurant chain, in which capacity they served from 1986 to 1996. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "not have that luxury because I was not in control. I was not the moderator."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Would you have done something, given the controversies touched up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "retrospect, because of the controversy it has created and because of the different interpretations that it could have had, yes, that would have been appropriate. But at the moment, it was not the focus of the people up there on that stage, I can assure you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And what do you think when the President says, this is not the people we are, we're not so small as to boo anybody, much less a soldier serving and defending this country?"
+      }
+    ],
+    "speakername": "Herman Cain",
+    "ground_truth": "I would agree with that statement. But I would also challenge the president and his administration for the way they're going about trying to cut costs. And they basically have a formula that's going to cut costs in the Defense Department. I would describe what he's doing in terms of all of the costs in defense as putting a bullseye on the back of our men and women in uniform. So I could make that case.",
+    "bio": "The subject (December 13, 1945 - July 30, 2020) was an American businessman and activist for a political movement within the Republican Party. Born in a major city in Tennessee, the subject grew up in a southeastern state and graduated from a prestigious historically black college with a bachelor's degree in mathematics. They then earned a master's degree in computer science at a major midwestern university while also working full-time for the U.S. Department of the Navy. In 1977, they joined a major food company where they later became vice president. During the 1980s, their success as a business executive at a major fast-food chain prompted the company to appoint them as chairman and CEO of a pizza restaurant chain, in which capacity they served from 1986 to 1996. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good morning. It's my pleasure."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you've had a pretty big high, the straw poll, all sorts of other polls. How are you going to capitalize on this? How are you going to keep this momentum up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Let me start by asking you some of these questions. We've just seen what the President said last night about that incident at the debate, where there was booing in the audience when a gay soldier started to speak."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Nobody said anything. You didn't, Rick Santorum, none of the others did. Do you wish you had said something, intervened at that moment?"
+      }
+    ],
+    "speakername": "Herman Cain",
+    "ground_truth": "Well, the thing that's being overlooked is that in the heat of a debate, when you have exactly 60 seconds to answer any question, you know, taking that time to try and figure out why they were booing. I happen to think that maybe they were booing the whole don't ask, don't tell repeal more so than booing that soldier. But we didn't know that. So that was not the time to try and decipher why was it they why were they reacting that way?",
+    "bio": "[target] (December 13, 1945 - July 30, 2020) was an American businessman and activist for a political movement within the Republican Party. Born in [city], [state], [target] grew up in [state] and graduated from [university] with a bachelor's degree in mathematics. He then earned a master's degree in computer science at [university] while also working full-time for the government. In 1977, he joined a major food company where he later became vice president. During the 1980s, [target]'s success as a business executive at a fast-food chain prompted the company to appoint him as chairman and CEO of a pizza restaurant chain, in which capacity he served from 1986 to 1996. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I would agree with that statement. But I would also challenge the president and his administration for the way they're going about trying to cut costs. And they basically have a formula that's going to cut costs in the Defense Department. I would describe what he's doing in terms of all of the costs in defense as putting a bullseye on the back of our men and women in uniform. So I could make that case."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me get to another question."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "On the front page of a major national newspaper today, there's a story about a political figure and a hunting lodge that belonged to his family, bought in the 1980s. And on a rock, apparently near the entrance there, there is a word that is a very ugly, racial word, a slur. Yes."
+      }
+    ],
+    "speakername": "Herman Cain",
+    "ground_truth": "Apparently it's been it's been painted over but the report raises questions about whether this rock this stone With that word on it was still on display even quite recently in the last several years What is your reaction to that?",
+    "bio": "The subject (December 13, 1945 - July 30, 2020) was an American businessman and activist for a political movement within the Republican Party. Born in a major Tennessee city, the subject grew up in a southeastern state and graduated from a prestigious historically black college with a bachelor's degree in mathematics. He then earned a master's degree in computer science at a major Midwestern university while also working full-time for the U.S. Department of the Navy. In 1977, he joined a major food corporation where he later became vice president. During the 1980s, his success as a business executive at a major fast-food chain prompted the corporation to appoint him as chairman and CEO of a national pizza chain, in which capacity he served from 1986 to 1996. The speaker's MBTI type is ESTJ"
+  }
+]

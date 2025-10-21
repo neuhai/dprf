@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's right. They probably would not have happened without it. There have been several hundred state arrests and approximately 200 federal. The most important thing is how these cases are handled. With the federal law enforcement system, we have stronger penalties, and we're also able to detain these people before trial when they pose a threat to the community, whereas the state law hasn't been providing that protection."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Meaning what? They can get out on bail and re-offend?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, and that's one of the primary problems in [location] and in [location] right now, and in many states, in many cities around the country, returning to a revolving door where they will not hold even violent offenders, murderers, serious felons, people who have shot at other people, are not being held, not being detained. And a lot of the crime, it's common to see multiple felonies, multiple gun violations on people who commit gun homicides."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Murder has been up in a lot of American cities this summer. Why do you think that is?"
+      }
+    ],
+    "speakername": "William Barr",
+    "ground_truth": "I think there could be a number of reasons for it. I think some of it was releasing a lot of violent offenders during the COVID period, and they didn't take into account how dangerous some of these people were. But I think also I am told, and I've visited a lot of cities, talked to a lot of chiefs, a lot of the criminals, the shooters, the gang members have become emboldened, and they don't think there are going to be any consequences for them carrying guns and engaging in this kind of activity. And the police in many cities, and perhaps a little here, initially pulled back somewhat during the defund the police and the demonization of police that occurred in the wake of the [person] killing.",
+    "bio": "The subject (born May 23, 1950) is an American attorney serving as Attorney General since 2019, and previously from 1991 to 1993. They served as the 77th Attorney General from 1991 to 1993 during the [administration] administration, and returned to the post as the 85th Attorney General in February 2019 during the [administration] administration. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, and that's one of the primary problems in [location] and in [location] right now, and in many states, in many cities around the country, returning to a revolving door where they will not hold even violent offenders, murderers, serious felons, people who have shot at other people, are not being held, not being detained. And a lot of the crime, it's common to see multiple felonies, multiple gun violations on people who commit gun homicides."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Murder has been up in a lot of American cities this summer. Why do you think that is?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think there could be a number of reasons for it. I think some of it was releasing a lot of violent offenders during the COVID period, and they didn't take into account how dangerous some of these people were. But I think also I am told, and I've visited a lot of cities, talked to a lot of chiefs, a lot of the criminals, the shooters, the gang members have become emboldened, and they don't think there are going to be any consequences for them carrying guns and engaging in this kind of activity. And the police in many cities, and perhaps a little here, initially pulled back somewhat during the defund the police and the demonization of police that occurred in the wake of the public incident."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is there also what what's sometimes called a [location] effect where you believe where police are reluctant to mix it up with people?"
+      }
+    ],
+    "speakername": "William Barr",
+    "ground_truth": "Yes, I think that's an element. That's what I meant by pull back a bit. It's the [location] effect. And I think that that's happened in many cities around the country.",
+    "bio": "The target (born May 23, 1950) is an American attorney serving as senior government legal official since 2019, and previously from 1991 to 1993. They served as the 77th senior government legal official from 1991 to 1993 during the first administration, and returned to the post as the 85th senior government legal official in February 2019 during the second administration. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think there could be a number of reasons for it. I think some of it was releasing a lot of violent offenders during the COVID period, and they didn't take into account how dangerous some of these people were. But I think also I am told, and I've visited a lot of cities, talked to a lot of chiefs, a lot of the criminals, the shooters, the gang members have become emboldened, and they don't think there are going to be any consequences for them carrying guns and engaging in this kind of activity. And the police in many cities, and perhaps a little here, initially pulled back somewhat during the defund the police and the demonization of police that occurred in the wake of the civil unrest."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is there also what what's sometimes called a Ferguson effect where you believe where police are reluctant to mix it up with people?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, I think that's an element. That's what I meant by pull back a bit. It's the Ferguson effect. And I think that that's happened in many cities around the country."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you have any thoughts about why violence is up so much in [city]?"
+      }
+    ],
+    "speakername": "William Barr",
+    "ground_truth": "[city] has had, has been more violent and has had a higher homicide rate than most of the country, you know, for quite a while. But it really, as you know, is going out of control with, you know, 60 people shot on one weekend and things like that. I don't have a, you know, holistic theory as to why that is here. Gangs are the driving force of it.",
+    "bio": "The speaker (born May 23, 1950) is an American attorney serving as senior government legal official since 2019, and previously from 1991 to 1993. They served as the 77th senior legal official from 1991 to 1993 during the first administration, and returned to the post as the 85th senior legal official in February 2019 during the second administration. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, I think that's an element. That's what I meant by pull back a bit. It's the effect we saw in that Missouri city. And I think that that's happened in many cities around the country."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you have any thoughts about why violence is up so much in that major Midwestern city?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That city has had, has been more violent and has had a higher homicide rate than most of the country, you know, for quite a while. But it really, as you know, is going out of control with, you know, 60 people shot on one weekend and things like that. I don't have a, you know, holistic theory as to why that is here. Gangs are the driving force of it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm curious about your thoughts about the concern over police conduct, especially when we see shootings of what appear to be unarmed people. Do you think that there is something to be learned from this, that police can do their jobs differently to reduce these encounters?"
+      }
+    ],
+    "speakername": "William Barr",
+    "ground_truth": "No, I think the common denominator really is resistance to police. I'm not saying that if one resists police, then anything goes. But all of these episodes, or virtually every one of them, start with physical resistance to the police, and things get out of control. Also, the number of unarmed people shot is very small compared to all the encounters. Because of the number of guns in this country and the high crime rates in this country, we have a high volume of contact between police and violators. And yet, last year, there were nine African Americans who were unarmed who were shot by white police officers. And I think there were a total of 40 or so, maybe, nationwide of people shot who were unarmed. But in that range, it's small. But even there, in many cases, those individuals were fighting with the police and attacking the police officer.",
+    "bio": "The target (born May 23, 1950) is an American attorney serving as a senior government legal official since 2019, and previously from 1991 to 1993. He served as the 77th official in this role from 1991 to 1993 during one administration, and returned as the 85th official in February 2019 during another administration. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "A major city has had, has been more violent and has had a higher homicide rate than most of the country, you know, for quite a while. But it really, as you know, is going out of control with, you know, 60 people shot on one weekend and things like that. I don't have a, you know, holistic theory as to why that is here. Gangs are the driving force of it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm curious about your thoughts about the concern over police conduct, especially when we see shootings of what appear to be unarmed people. Do you think that there is something to be learned from this, that police can do their jobs differently to reduce these encounters?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I think the common denominator really is resistance to police. I'm not saying that if one resists police, then it's Katie bar the door and anything goes. But all of these episodes, or virtually every one of them, start with physical resistance to the police, and things get out of control. Also, the number of unarmed people shot is very small compared to all the encounters. Because of the number of guns in this country and the high crime rates in this country, we have a high volume of contact between police and violators. And yet, last year, there were nine African Americans who were unarmed who were shot by white police officers. And I think there were a total of 40 or so, maybe, nationwide of people shot who were unarmed. But in that range, it's small. But even there, in many cases, those individuals were fighting with the police and attacking the police officer."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But would you favor what some police executives have talked about is more training for de-escalation, where it seems in the minds of many that if you don't obey a policeman's command, they just keep upping the force until you do. Is there some advantage to so-called de-escalation training, do you think?"
+      }
+    ],
+    "speakername": "William Barr",
+    "ground_truth": "I think police, by and large, do de-escalation from the very moment they encounter people. I know that it's become a buzzword, hey, we need to do more de-escalation, but that's what police do. They try to de-escalate, and it's basically trying to give an opportunity to a person to comply and trying to get them to comply without using force. Police are not out there to necessarily start physical confrontation and get into fights with people. People have to remember something. The police officer doesn't have the luxury of walking away. He can't say, oh, you don't want to be arrested today? I'll see you some other time. When someone resists, they have to obtain compliance, and they usually try to do it verbally without physicality. But obviously de-escalation has been, should remain, part of the arsenal, so to speak, of the police in dealing. According to some of the laws, the police don't really deal with potential criminals or suspects. But there's a double standard going on. This is what's happening. Normally we would say, wait until all the facts are in before you judge somebody. But that's not happening for police officers. The prosecutors frequently don't put out all the facts in a shooting, and the media piles on right away with the most nefarious interpretation of events and usually picks up the facts. up the chant of extremists who have an axe to grind against the police. So a police officer is personally demonized and the episode is frequently mischaracterized from the beginning and the truth never catches up with it. And that's the conundrum that we face in law enforcement. The prosecution holds back the information. Now in the current environment, I think we should get out facts much more quickly to be fair to the police officers.",
+    "bio": "The target (born May 23, 1950) is an American attorney serving as a senior government legal official since 2019, and previously from 1991 to 1993. They served as the 77th official from 1991 to 1993 during one administration, and returned as the 85th official in February 2019 during another administration. The speaker's MBTI type is ISTJ"
+  }
+]

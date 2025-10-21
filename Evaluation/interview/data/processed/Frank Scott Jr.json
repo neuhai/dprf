@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Good. If you had to pick one single thing that happened this year that you feel was accomplished this year, what would it be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I couldn't pick one single thing, and the reason why is because we've done so much in this close to 340 days or so. We've reorganized and restructured governance at the municipal building. We have implemented our act plan of being accountable, clear, and transparent. We've had a high focus on public safety. We've kept campaign promises from our campaigning about a citizen's review board. That's a campaign promise that was kept, as well as identifying funding through the federal justice department, as well as city dollars, to fully fund our body-worn cameras, our Knobbin machine, which is basically what I call a CSI system that will help us fight crime and prevent crime. We've recruited a number of people. We've been announced close to 1,100 new jobs in one year, and we're keeping our fingers crossed that we may double that by the end of the year. So very high expectations on what we're doing there. We've created, well, we've tore down silos within planning and development to make certain that entrepreneurs, small businesses, business owners understand what we're doing. We're changing the attitude at the municipal building and the culture that we have a how-to versus a I don't know or a no attitude so we can be very responsive and engage with our customers, which are the citizens of our city. They pay our bills. And when you think about that, we've had a number of different community-engaged task forces. That was a great effort. We were met with challenges, we now see opportunities for growth when we think about the local parks and what we plan to do to reimagine, to revitalize and reinvest into those parks and our entire park system as we focus on quality of life and place initiatives. And the reason why we're focusing on quality of life and place initiatives is because as an elder millennial myself, I understand that we choose where we want to live first before we decide on our career. And as we engage and understand that our brothers and sisters that are aging in place and are age friendly, they too are choosing where they want to reside and retire based on the quality of life. And so we see the nexus between generations that we're all focused on. How do we identify the identity of our city? And we've truly been focused on how our city reestablishes its swagger as the state capital city, that we're charting a culture of being bold, focused on change and overall economic growth for all."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And so when you think about that, we've done a lot, it's just been great."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, it did seem like you did come right out of the gate with a lot of new and bold things. What was it like working with the city board that had been in those seats for years and maybe not used to a mayor that was bringing things to them in quite the same way?"
+      }
+    ],
+    "speakername": "Frank Scott Jr",
+    "ground_truth": "Well, change is, I think Machiavelli shares that change is the most difficult task when you're trying to initiate a new order. And so with change, it takes time. It takes some adaptation. But we have a wonderful city board of directors of committed city servant leaders who are all committed to the citizens of our city. And it took time. They were under a mayor for 12 years prior to me.",
+    "bio": "This is [target]. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, it did seem like you did come right out of the gate with a lot of new and bold things. What was it like working with the city board that had been in those seats for years and maybe not used to a mayor that was bringing things to them in quite the same way?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, change is, I think Machiavelli shares that change is the most difficult task when you're trying to initiate a new order. And so with change, it takes time. It takes some adaptation. But we have a wonderful city board of directors of committed city servant leaders who are all committed to the citizens of [city]. And it took time. They were under a mayor for 12 years prior to me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "many of them have been on the city board for close to 30 years and with anything i'm a different type of leader than the former mayor and so you get used to one style of leadership and now there's a new style of leadership and so with that it takes time to adapt but again i just want to share how grateful and humbled i am to work alongside them to help lead our city towards the future together they're wonderful to work with"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, one thing I do want to ask about is how you use Twitter. It seems like a way that you interact with constituents that wasn't really done before. Do you have a strategy there?"
+      }
+    ],
+    "speakername": "Frank Scott Jr",
+    "ground_truth": "tell it all. I mean, I'm a millennial, I'm just a creature of my generation, I think. And I think it's past time for the city of [city] to share its story. And it's a tactic to ensure that everyone in [city], everyone in the state of [state] knows what [city] is doing, that we tell our good news. Because sometimes the media doesn't share good news. And when I say it doesn't share good news, just because sometimes from the media standpoint, as you would attest, that sometimes good things aren't selling ads. It's just from a TV standpoint or from a media standpoint. And so I want to make sure that every good deed is known from the city of [city] to its people. And then two, it's also, it's an accountability measure. It goes with our act plan of being accountable, clear, and transparent. And I think the citizens of [city] ought to know what their mayor is doing, and ought to know what the city board is doing, what City Hall is doing for them, and how we're serving them. And so, yes, I manage my own social media accounts from a Twitter standpoint and LinkedIn. Instagram and Facebook, and even a smoke signal. We want to make sure you can reach and contact us. Thank you for sharing.",
+    "bio": "This is [target]. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Just a tad bit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, you know what last night one of the things that really stood out for me and I'm sure a lot of other people who were watching was your victory speech. You paused as you stood there for I counted it 40 seconds before you said anything holding the microphone looking as though you were getting ready to say something but it would never come out. I'm wondering what was going through your mind."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "right before you said [city] has never looked so good or something like that you said."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was a moment and a pause of appreciation, humility, and just to be totally honest that this is real."
+      }
+    ],
+    "speakername": "Frank Scott Jr",
+    "ground_truth": "And when you get the opportunity to see your entire city, young, old, white, black, brown, all races, all cultures, all sexual orientations, gender identities, that's [city]. And it was just a grateful moment and I couldn't find words at that point in time but just to appreciate the moment in time.",
+    "bio": "This is [target]. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "right before you said [city] has never looked so good or something like that you said."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was a moment and a pause of appreciation, humility, and just to be totally honest that this is real."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And when you get the opportunity to see your entire city, young, old, white, black, brown, all races, all cultures, all sexual orientations, gender identities, that's [city]. And it was just a grateful moment and I couldn't find words at that point in time but just to appreciate the moment in time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, we could tell you were definitely taking it all in. It looked very emotional and obviously it was the Fraternal Order of Police did not support your campaign. They posted some negative things about you on social media. How will you work with the FOP as well as a police department that seems to be racially divided?"
+      }
+    ],
+    "speakername": "Frank Scott Jr",
+    "ground_truth": "Well, first and foremost, I have the utmost respect, honor, and appreciation to the men and women of the [city] Police Department, who may or may not be members of the [city] Fraternal Order of Police. But that's my first priority, is to always show my gratefulness and appreciation towards them. As it relates to the FOP and the divisive smear attacks that were against my campaign and my character and integrity, I've been extended a lot of grace in my life, as well as mercy. And so I will definitely extend grace and forgiveness. That's in the past now. We're looking towards a new future. And I look forward to working with the [city] Fraternal Order of Police, as well as all the men and women who wake up every morning to protect not only my life, but your life and this entire city, which are the men and women of the [city] Police Department. So I appreciate them, I respect them, and honor them.",
+    "bio": "This is [target]. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And when you get the opportunity to see your entire city, young, old, white, black, brown, all races, all cultures, all sexual orientations, gender identities, that's [city]. And it was just a grateful moment and I couldn't find words at that point in time but just to appreciate the moment in time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, we could tell you were definitely taking it all in. It looked very emotional and obviously it was the Fraternal Order of Police did not support your campaign. They posted some negative things about you on social media. How will you work with the FOP as well as a police department that seems to be racially divided?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first and foremost, I have the utmost respect, honor, and appreciation to the men and women of the [city] Police Department, who may or may not be members of the [city] Fraternal Order of Police. But that's my first priority, is to always show my gratefulness and appreciation towards them. As it relates to the FOP and the divisive smear attacks that were against my campaign and my character and integrity, I've been extended a lot of grace in my life, as well as mercy. And so I will definitely extend grace and forgiveness. That's in the past now. We're looking towards a new future. And I look forward to working with the [city] Fraternal Order of Police, as well as all the men and women who wake up every morning to protect not only my life, but your life and this entire city, which are the men and women of the [city] Police Department. So I appreciate them, I respect them, and honor them."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And so when you think about that, we've done a lot, it's just been great."
+      }
+    ],
+    "speakername": "Frank Scott Jr",
+    "ground_truth": "Yeah, it did seem like you did come right out of the gate with a lot of new and bold things. What was it like working with the city board that had been in those seats for years and maybe not used to a mayor that was bringing things to them in quite the same way?",
+    "bio": "This is [target]. The speaker's MBTI type is INFJ"
+  }
+]

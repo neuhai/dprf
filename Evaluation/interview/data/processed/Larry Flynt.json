@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was on trial for obscenity in [location], and I was shot on my way to the courthouse. I woke up three months later, and actually I was a whole year recovering. I really almost died as a result of the gunshot wounds. But the man who shot me was never apprehended for several years. He had been prosecued and convicted for killing some war people that were all racially motivated crimes. He was an avowed racist himself and he supposedly had shot me over a black and white photo feature that we had published in the magazine. That was what instigated it. But the fact that he got to death. . . and these other shootings that he'd done never really changed my mind about that particular issue. I just never felt it was a deterrent, and I always felt that we focused more on revenge than justice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "He's scheduled to die next month. What would you like to see happen to him?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm opposed to the death penalty, I think he should spend the rest of his life in prison. If the death penalty was a deterrent, I could support it. And most of the civilized nations, you know, agree on that point. We happen to be one that don't, and I think it's ridiculous."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've said you'd like to spend an hour in a room with him. What did you mean by that?"
+      }
+    ],
+    "speakername": "Larry Flynt",
+    "ground_truth": "Oh, well, I would like to inflict the same kind of punishment on him that he did on me. I said, give me a power wire, a person, a screwdriver, and I could really have some fun with him. It's not that I don't want to see him punished for what he's done. It's just I don't think that the government should be in the business of killing people.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm opposed to the death penalty, I think he should spend the rest of his life in prison. If the death penalty was a deterrent, I could support it. And most of the civilized nations, you know, agree on that point. We happen to be one that don't, and I think it's ridiculous."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've said you'd like to spend an hour in a room with him. What did you mean by that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, well, I would like to inflict the same kind of punishment on him that he did on me. I said, give me a power wire, a person, a screwdriver, and I could really have some fun with him. It's not that I don't want to see him punished for what he's done. It's just I don't think that the government should be in the business of killing people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Does it make any difference if the families of the other men he's killed want to see him die on death row?"
+      }
+    ],
+    "speakername": "Larry Flynt",
+    "ground_truth": "No, it doesn't make any difference. I can't help it because these people are ill-informed, you know. They subscribe to the biblical philosophy, an eye for an eye, and it just doesn't make sense.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, well, I would like to inflict the same kind of punishment on him that he did on me. I said, give me a power wire, a person, a screwdriver, and I could really have some fun with him. It's not that I don't want to see him punished for what he's done. It's just I don't think that the government should be in the business of killing people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Does it make any difference if the families of the other men he's killed want to see him die on death row?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, it doesn't make any difference. I can't help it because these people are ill-informed, you know. They subscribe to the biblical philosophy, an eye for an eye, and it just doesn't make sense."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], you mentioned your trial for obscenity. You, of course, scandalised America 20 years ago with your take on the adult entertainment industry. What do you think of that industry now?"
+      }
+    ],
+    "speakername": "Larry Flynt",
+    "ground_truth": "Today, you know, what I was being criticized for and accused of everything that was wrong in America is now being commonplace on the Internet and on a great deal of television. So the magazine is very tame compared to what you see out there and the rest of the media.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, it doesn't make any difference. I can't help it because these people are ill-informed, you know. They subscribe to the biblical philosophy, an eye for an eye, and it just doesn't make sense."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], you mentioned your trial for obscenity. You, of course, scandalised the country 20 years ago with your take on the adult entertainment industry. What do you think of that industry now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Today, you know, what I was being criticized for and accused of everything that was wrong in the country is now being commonplace on the Internet and on a great deal of television. So the magazine is very tame compared to what you see out there and the rest of the media."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you think of the content on the internet now? Should the internet be unfettered or should there be controls?"
+      }
+    ],
+    "speakername": "Larry Flynt",
+    "ground_truth": "that's like being partially pregnant. You know, you've either got a free press or you don't. And the one thing that people still cherish is the right to a free press.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Today, you know, what I was being criticized for and accused of everything that was wrong in America is now being commonplace on the Internet and on a great deal of television. So the magazine is very tame compared to what you see out there and the rest of the media."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you think of the porn on the internet now? Should the internet be unfettered or should there be controls?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "that's like being partially pregnant. You know, you've either got a free press or you don't. And the one thing that Americans still cherish is the right to a free press."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "At the moment, the British press is consumed with questions of its own freedoms. Do you believe that freedom of speech within the British media and press is under threat?"
+      }
+    ],
+    "speakername": "Larry Flynt",
+    "ground_truth": "Well, I think they have a right to be concerned because, as you know, in that country you don't have a constitutional right to a free press. So there's reasons to have pause about this, but the new technology is what's raising all of these questions. So I think it's time that governments get together with the technology people and come out with some rules for us to live by.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

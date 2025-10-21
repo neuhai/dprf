@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "[target] must be involved in this. He lives right there.\" And the rumor started that burglary tools were hidden in my apartment. So Joe Lastelik, who's a, you know, a good guy, a party Democrat, had to interview me and ask me, were the burglary tools hidden in your apartment? And my answer was, no, Joe, that was my night off. I was on a job in [major city], you know, some foolish thing. But, so it got pretty close to home. I mean, they were trying to nail me quietly behind my, everybody's back. That's why Senator Irvin, without any coaching, did me a great favor from, but, uh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How did you react to that news? I mean, in a sense, it was your opposite numbers places burglarized. Do you remember what your reaction was?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it was disbelief. I mean, it wasn't gonna be a contest anyway. You know, it was gonna be a wipeout. McGovern's my friend. You know, we, we do work together now on international school lunch program. And, uh, I mean, it was, it was something, the mentality of the whole thing is, it was just hard to get your hand around. And for a while you could deny it happened, then pretty soon you knew it happened."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Who did you talk to at the [government building] about it?"
+      }
+    ],
+    "speakername": "Bob Dole",
+    "ground_truth": "Well, I did raise it at this meeting. I said, Mr. President, because you had to, you know, address the president. I was in the, not at the table, but behind, Mr. President, I said, I've been traveling the country a lot as a chairman, and I'm starting to, this Watergate stories are starting to percolate, and I just want to mention that because I'm certain everybody's aware of it, and whether anything we can do or should do, and that was pretty much what I said. And shortly thereafter, I was no longer there to say it. And I assume that's all to be my guess.",
+    "bio": "The subject (July 22, 1923 - December 5, 2021) was an American politician and attorney who represented a midwestern state in the United States Senate from 1969 to 1996. He was the Republican Leader of the United States Senate during the final 11 years of his tenure, including three nonconsecutive years as Senate Majority Leader. Prior to his 27 years in the Senate, he served in the United States House of Representatives from 1961 to 1969. The subject was also the Republican presidential nominee in the 1996 election and the vice presidential nominee in the 1976 election. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I did raise it at this meeting. I said, Mr. President, because you had to, you know, address the president. I was in the, not at the table, but behind, Mr. President, I said, I've been traveling the country a lot as a chairman, and I'm starting to, this political scandal stories are starting to percolate, and I just want to mention that because I'm certain everybody's aware of it, and whether anything we can do or should do, and that was pretty much what I said. And shortly thereafter, I was no longer there to say it. And I assume that's all to be my guess."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There was an article in the October 72 Evans and Novak that said that privately you were calling the, you were critical of the federal government's handling of the political scandal."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Probably right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "was this your one effort to get them to do something I mean to come out in front of it"
+      }
+    ],
+    "speakername": "Bob Dole",
+    "ground_truth": "I mean, you know, Richard, the next thing you're going to say, I'm not a crook. And I say, when did he say that? When was that? That was made later on. 1973. 1973. But you could see the thing was cooking.",
+    "bio": "The subject (July 22, 1923 - December 5, 2021) was an American politician and attorney who represented a midwestern state in the United States Senate from 1969 to 1996. He was the Republican Leader of the United States Senate during the final 11 years of his tenure, including three nonconsecutive years as Senate Majority Leader. Prior to his 27 years in the Senate, he served in the United States House of Representatives from 1961 to 1969. The subject was also the Republican presidential nominee in the 1996 election and the vice presidential nominee in the 1976 election. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There was an article in the October 72 Evans and Novak that said that privately you were calling the, you were critical of the [government building]'s handling of the Watergate."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Probably right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "was this your one effort to get them to do something I mean to come out in front of it"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, you know, Richard, the next thing you're going to say, I'm not a crook. And I say, when did he say that? When was that? That was made later on. 1973. 1973. But you could see the thing was cooking."
+      }
+    ],
+    "speakername": "Bob Dole",
+    "ground_truth": "and it wasn't going to go away because the media wasn't going to let it go away. They didn't like Nixon anyway. And it's probably a real story. They shouldn't let it go. But my own view is that there's no reason he couldn't have burned the tapes. And it wasn't anybody's information. I mean, Johnson had tapes. The president before Johnson had—Kennedy had tapes. And these were, I guess you could say, government property, but they're also the president's property. I mean, they were to be used for historical purposes, not to spy on anybody. And what worried me ever since this has all happened, I mean, they keep releasing excerpts of— when you're sitting— when you're sitting there having a meeting with the president, I think, well, I got by this time, maybe next installment I'll be—my name will be in the paper. [target] said this in 1973. I don't think so, but—because, you know, when you're sitting there with the president of the United States and you're a lowly senator, you're not really going to disagree with him too often. Now, maybe that's a sign of immaturity or lack of courage, but, you know, I didn't want to—I didn't like some of the people around Nixon, but I didn't want to make myself believe that Nixon did this, that he actually participated. I kept trying to figure out, well, that's some staffer, that's Chuck Colson, or that's Haldeman, or maybe that—well, Ehrlichman, I wasn't ever sure what he was doing. But, uh— it was a tragic chapter in political history.",
+    "bio": "[target] (July 22, 1923 - December 5, 2021) was an American politician and attorney who represented [state] in the United States Senate from 1969 to 1996. He was the Republican Leader of the United States Senate during the final 11 years of his tenure, including three nonconsecutive years as Senate Majority Leader. Prior to his 27 years in the Senate, he served in the United States House of Representatives from 1961 to 1969. [target] was also the Republican presidential nominee in the 1996 election and the vice presidential nominee in the 1976 election. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "was this your one effort to get them to do something I mean to come out in front of it"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, you know, Richard, the next thing you're going to say, I'm not a crook. And I say, when did he say that? When was that? That was made later on. 1973. 1973. But you could see the thing was cooking."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and it wasn't going to go away because the media wasn't going to let it go away. They didn't like Nixon anyway. And it's probably a real story. They shouldn't let it go. But my own view is that there's no reason he couldn't have burned the tapes. And it wasn't anybody's information. I mean, Johnson had tapes. The president before Johnson had—Kennedy had tapes. And these were, I guess you could say, government property, but they're also the president's property. I mean, they were to be used for historical purposes, not to spy on anybody. And what worried me ever since this has all happened, I mean, they keep releasing excerpts of— when you're sitting— when you're sitting there having a meeting with the president, I think, well, I got by this time, maybe next installment I'll be—my name will be in the paper. [target] said this in 1973. I don't think so, but—because, you know, when you're sitting there with the president of the United States and you're a lowly senator, you're not really going to disagree with him too often. Now, maybe that's a sign of immaturity or lack of courage, but, you know, I didn't want to—I didn't like some of the people around Nixon, but I didn't want to make myself believe that Nixon did this, that he actually participated. I kept trying to figure out, well, that's some staffer, that's Chuck Colson, or that's Haldeman, or maybe that—well, Ehrlichman, I wasn't ever sure what he was doing. But, uh— it was a tragic chapter in political history."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When they released the smoking gun tape, how did that affect your sense of Nixon's role?"
+      }
+    ],
+    "speakername": "Bob Dole",
+    "ground_truth": "was over. And it got down to about, what, 12 senators who called on him. And I wasn't in that group. I mean, I was never part of the Senator group. So it wasn't that I had that, and these people didn't have a close, I think I had a sort of a personal relationship with Nixon, but not close.",
+    "bio": "A prominent American politician and attorney who represented a midwestern state in the United States Senate from 1969 to 1996. He served as the Republican Leader of the United States Senate during the final 11 years of his tenure, including three nonconsecutive years as Senate Majority Leader. Prior to his 27 years in the Senate, he served in the United States House of Representatives from 1961 to 1969. He was also the Republican presidential nominee in the 1996 election and the vice presidential nominee in the 1976 election. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "was over. And it got down to about, what, 12 senators who called on him. And I wasn't in that group. I mean, I was never part of the Jim Eastland, Senator Stennis and others. So it wasn't that I had that, and these people didn't have a close, I think I had a sort of a personal relationship with Nixon, but not close."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He knew me and I think he appreciated some things I did and I thought he had great ideas. The thing I liked about Nixon is the way he picked his cabinet and I remember being in the hotel, I can't remember which hotel, the night he kind of unveiled the cabinet publicly the first time, I mean Nixon picked very bright, honorable, high class people. He wasn't afraid to pick somebody smarter than he was. And that impressed me. I mean, you know, he didn't bring in a bunch of political hacks, so I don't know, I had a struggle in sort of giving up on him and I never really did because I brought him back to the [government building] years later saying, you know, you ought to come and visit. And he'd come down to check in to [local] Hotel. And he would get his little yellow pad out and he would sit there all day and about half the night and he'd come up to the [government building] with no notes and dazzle them."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let me ask you about"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The selection of Gerald Ford as Vice President, did you play a role at all in that?"
+      }
+    ],
+    "speakername": "Bob Dole",
+    "ground_truth": "No, the role I played was getting Gerald Ford into a leadership role in the House. The three from [state], three of us in [state], voted for Ford, and he won by three votes against Charlie Halleck. But certainly I didn't have any, I assume if I were asked, I would have said he'd be a great choice.",
+    "bio": "The speaker (July 22, 1923 - December 5, 2021) was an American politician and attorney who represented [state] in the United States Senate from 1969 to 1996. He was the Republican Leader of the United States Senate during the final 11 years of his tenure, including three nonconsecutive years as Senate Majority Leader. Prior to his 27 years in the Senate, he served in the United States House of Representatives from 1961 to 1969. The speaker was also the Republican presidential nominee in the 1996 election and the vice presidential nominee in the 1976 election. The speaker's MBTI type is ISTJ"
+  }
+]

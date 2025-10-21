@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "with this agency, and in one year, what have you accomplished in pursuit of that directive?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, the president has been so focused on results. And when you look at the world today versus when he came in, we're safer today, but we're more optimistic and more prosperous in the economy. And I think a lot of it has to do with what's going on domestically as far as regulatory reform and regulatory certainty. We had many regulations that this agency had adopted historically that had created confusion and then not served advancing protection of the environment. So we spent the past year trying to achieve regulatory certainty, regulatory clarity to make sure that people knew what was expected of them so they could invest, achieve good outcomes for the environment, but also know that there wasn't an agency in the capital trying to pick winners and losers in the marketplace. So I think the president has done an extraordinary job at impacting the economy in a very positive way. And we see that in all markers. And there's as much optimism as we had in 2018."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And is the philosophy in accordance with that directive to protect the environment or protect business?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "neither. I mean, our focus here should be on stewardship. It should be on taking the statutes that we are vested and responsible for administering from Clean Air Act to Clean Water Act and adopting regulations that are consistent with the authority in those acts. I mean, what the past administration did, as you know, is created regulations like the Water of the United States rule that defined a Water of the United States as a puddle in the southwest. And so imagine if you're going to build a subdivision in the southwest and you've got to get permission from the capital because you've got uncertainty about the use of your own land. The Clean Power Plan was an example of this administration picking winners and losers in the development of electricity, in the generation of electricity. The loser would be coal. Choosing renewables at the expense of what? Natural resources that we have. Meaning coal. Well, across the full spectrum, natural gas and the rest."
+      }
+    ],
+    "speakername": "Scott Pruitt",
+    "ground_truth": "And so this agency shouldn't be in the business of saying we're going to favor certain sources of energy over others. It should be taking the Clean Air Act and adopting regulations that are an extension of our authority. And you know this, but the Supreme Court, because the past administration did that wrongly, intervened and issued a stay against that clean power plant because it was so unlawful. So that doesn't achieve any outcomes for the environment or the economy.",
+    "bio": "A lawyer, lobbyist and politician from a midwestern state. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And is the philosophy in accordance with that directive to protect the environment or protect business?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "neither. I mean, our focus here should be on stewardship. It should be on taking the statutes that we are vested and responsible for administering from Clean Air Act to Clean Water Act and adopting regulations that are consistent with the authority in those acts. I mean, what the past administration did, as you know, is created regulations like the Water of the United States rule that defined a Water of the United States as a puddle in [state]. And so imagine if you're going to build a subdivision in [state] and you've got to get permission from [capital city] because you've got uncertainty about the use of your own land. The Clean Power Plan was an example of this administration picking winners and losers in the development of electricity, in the generation of electricity. The loser would be coal. Choosing renewables at the expense of what? Natural resources that we have. Meaning coal. Well, across the full spectrum, natural gas and the rest."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And so this agency shouldn't be in the business of saying we're going to favor certain sources of energy over others. It should be taking the Clean Air Act and adopting regulations that are an extension of our authority. And you know this, Major, but the Supreme Court, because the past administration did that wrongly, intervened and issued a stay against that clean power plant because it was so unlawful. So that doesn't achieve any outcomes for the environment or the economy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And your position on clean air, for example, is that effort did not take into account other aspects of clean air that you want to prioritize. Do I understand that correct?"
+      }
+    ],
+    "speakername": "Scott Pruitt",
+    "ground_truth": "When you look at attainment in this country, you know, air attainment, air quality standards. What does that mean? What does that mean? Well, air quality standards that we set, we set for years, something called the Ambient Air Quality Standards Program, where we set standards for every area of the country on how to improve outcomes for SOx and NOx and ozone and particulate matter and all those types of things. And as we've done that major. SOx.",
+    "bio": "A lawyer, lobbyist and politician from [state]. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And so this agency shouldn't be in the business of saying we're going to favor certain sources of energy over others. It should be taking the regulations that are an extension of our authority. And you know this, but the Supreme Court, because the past administration did that wrongly, intervened and issued a stay against that power plant because it was so unlawful. So that doesn't achieve any outcomes for the environment or the economy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And your position on clean air, for example, is that effort did not take into account other aspects of clean air that you want to prioritize. Do I understand that correct?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "When you look at attainment in this country, you know, air attainment, air quality standards. What does that mean? What does that mean? Well, air quality standards that we set, we set for years, something called the Ambient Air Quality Standards Program, where we set standards for every area of the country on how to improve outcomes for SOx and NOx and ozone and particulate matter and all those types of things. And as we've done that major. SOx."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and knocks for the audience."
+      }
+    ],
+    "speakername": "Scott Pruitt",
+    "ground_truth": "Pollutants that we regulate under the regulations, the mainstay of what we do, 40% of the country, as we came into this position, as the president came into office, 40% of the country, 120 million people live in areas that don't meet those standards. And that's what we've really said to, you know, focused upon here is how do we improve outcomes there? How do we focus on achieving real, meaningful progress at improving air quality standards in those key programs? How do we improve investment in water infrastructure to prevent [location 1] and [location 2]? How do we eradicate lead from our drinking water? You know, those are issues that we can focus upon today that are tangible, beneficial outcomes for our citizens, and we're not speculating about what may be happening in the year 2100 or beyond.",
+    "bio": "A lawyer, lobbyist and politician from [location 3]. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Pollutants that we regulate under the Clean Air Act, the mainstay of what we do, 40% of the country, as we came into this position, as the president came into office, 40% of the country, 120 million people live in areas that don't meet those standards. And that's what we've really said to, you know, focused upon here is how do we improve outcomes there? How do we focus on achieving real, meaningful progress at improving air quality standards in those key programs? How do we improve investment in water infrastructure to prevent [location] and [location]? How do we eradicate lead from our drinking water? You know, those are issues that we can focus upon today that are tangible, beneficial outcomes for our citizens, and we're not speculating about what may be happening in the year 2100 or beyond."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So answer your own question. How do you do that without creating uncertainty or new regulations for business? Don't you have to do that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, don't you have?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "to tell them to do things they're not doing now? Absolutely."
+      }
+    ],
+    "speakername": "Scott Pruitt",
+    "ground_truth": "And you do that consistent. Even if they may not want to? You do that consistent with the statutory authority. And that's where the past administration missed it.",
+    "bio": "A lawyer, lobbyist and politician from the state of [location]. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So answer your own question. How do you do that without creating uncertainty or new regulations for business? Don't you have to do that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, don't you have?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "to tell them to do things they're not doing now? Absolutely."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And you do that consistent. Even if they may not want to? You do that consistent with the statutory authority. And that's where the past administration missed it."
+      }
+    ],
+    "speakername": "Scott Pruitt",
+    "ground_truth": "is because they went to things like the environmental protection legislation and they created these rules out of thin air that the industry and citizens and states across the country said, that's not consistent with your authority and created this litigious, uncertain environment and progress wasn't made. And so what we've said is let's get back to the basics, focusing upon rule of law, focusing upon process, focusing upon federalism principles, learning from the states and partnering with them to achieve good outcomes, and also setting clear guidelines and rules in place so that industry know what's expected of them.",
+    "bio": "The target is an American lawyer, lobbyist and Republican politician from a southern state. The speaker's MBTI type is ESTJ"
+  }
+]

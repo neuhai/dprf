@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "would hire a lot of people and they would come from outside and they would keep telling me this is not how things work we at [company] we are very crazy type we make changes very quickly"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Whether it's a prize or an offer. And people are saying that they are leaving the [company]. Because there are a lot of changes here. Okay. Right? This is wrong. All the crucial and needed things in the world are uncommon. And which is why 99.9% of the people tell you that this is wrong. And that is the reason why"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "watching"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Peyush Bansal",
+    "ground_truth": "a lot of the organizations are not changing what they wanted to change and only that one percent are or point one percent are because they have figured it out",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Goodie goodie, man."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, there are two types of businesses, one of which starts as a business."
+      },
+      {
+        "speaker": "[target]",
+        "text": "If I do something today, I'll do it the same way because now I'm wiser."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Mm."
+      }
+    ],
+    "speakername": "Peyush Bansal",
+    "ground_truth": "But when we started [company], we didn't have that much of a business mind, to be honest. It was pure engineering background to begin with. But yes, it felt like no one was working on it. And everything else was getting digitized, to be honest. Everything else was going online. Everything else was getting disrupted. No one was doing anything about it.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But when we started our eyewear company, we didn't have that much of a business mind, to be honest. It was pure engineering background to begin with. But yes, it felt like no one was working on it. And everything else was getting digitized, to be honest. Everything else was going online. Everything else was getting disrupted. No one was doing anything about it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But yes, it seemed like no one was working on it and everything else was getting digitized, to be honest. Everything else was going online, everything else was getting disrupted, no one was doing anything about it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, literally it was that kind of feeling that it is one of those things that no one is working on."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It started like a business only, like an opportunity. Why are all these things going online? Why aren't the glasses going online? Let's start."
+      }
+    ],
+    "speakername": "Peyush Bansal",
+    "ground_truth": "Yeah, luck is a big factor of all of this, right? Right place, right time, you try to do something in it. So you were actually...",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, literally it was that kind of feeling that it is one of those things that no one is working on."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It started like a business only, like an opportunity. Why are all these things going online? Why aren't the glasses going online? Let's start."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, luck is a big factor of all of this, right? Right place, right time, you try to do something in it. So you were actually..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Actively thinking that I want to do business and you were doing the college thing."
+      }
+    ],
+    "speakername": "Peyush Bansal",
+    "ground_truth": "No, no. We were already doing a sort of start-up. Okay. Right? So, which was that students have a problem with housing. We were trying to solve that. So we had a small garage, 20-25 people team. Okay. In my own house garage. And we used to work from there. And the whole philosophy was that create customer value. Because I had just come from [tech company]. And that's what I was trained on for the last one and a half years there. That think about customer, think about customer. Okay.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, luck is a big factor of all of this, right? Right place, right time, you try to do something in it. So you were actually..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Actively thinking that I want to do business and you were doing the college thing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, no. We were already doing a sort of start-up. Okay. Right? So, which was that students have a problem with housing. We were trying to solve that. So we had a small garage, 20-25 people team. Okay. In my own house garage. And we used to work from there. And the whole philosophy was that create customer value. Because I had just come from [company]. And that's what I was trained on for the last one and a half years there. That think about customer, think about customer. Okay."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And"
+      }
+    ],
+    "speakername": "Peyush Bansal",
+    "ground_truth": "and and then the idea was how do we do something which is really revolutionary but what desire to do something which was really like [company]",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

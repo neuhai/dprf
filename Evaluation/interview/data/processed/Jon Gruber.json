@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sure. This is an amazing fact that not many people know, which is that in the wake of a major conflict, the country made an enormous investment in public financing of research and development. By the mid-1960s, 2% of our entire economy, one in every $50, was government-funded research and development. Out of that came everything that makes the modern economy. Like what? Every part of your phone, satellites, digital computing, modern pharmaceuticals, all came out of investments that the government made. And more importantly, the growing middle class came out of those investments. Those investments yielded a job and economic growth. So if it was such a great idea and it was working, why did it end? Well, three reasons. First of all, the hubris of scientists. Scientists decided that science would solve all our problems. They proposed a nuclear pen. A pen? A pen, a nuclear pen. They sort of ignored some of the hazards. Second was the scientists and the politicians found it easy to agree when it was worse, cold or hot. Once we got away from that, scientists and politicians started disagreeing. As we say in our book, if you speak truth to power, power will cut your funding. And then finally, we've run to some tighter budget constraints, which got in the way."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I think selectively. The thing about the healthcare policy that's probably the number one thing, and we'll see this politically too, is just the heterogeneity across states. It's going so differently in different states. It's perceived differently in different states. I can see one state people running on it. I can't imagine another state people running on it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "ironically even though it's it's such a big success there"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So if it's such a good idea, as you suggest, why isn't the private sector doing it? They like making money, as far as I understand."
+      }
+    ],
+    "speakername": "Jon Gruber",
+    "ground_truth": "likes making money, but the private sector invests in research to the extent that it benefits their bottom line, not the extent that it benefits economic growth. And to point this out, we turn to one, I think, one of the most compelling examples in the book, which is the Human Genome Project. Okay, in 1975, two economists won the major scientific prize, two scientists won the major scientific prize for discovering the sequence of human DNA. One of them in the 1980s proposed setting up a company to sequence the human genome. Prize winner who'd founded already another startup could not raise $10 million from the private sector. Why? Because no company could make money off sequencing the human genome. Instead, the federal government put $3 billion into what we call the Human Genome Project. Fast forward to today. The country has a genomics industry which has created $1 trillion in economic value, 300,000 jobs, an average wage of $70,000 a job, all because of the government investment the private sector wouldn't make.",
+    "bio": "The subject (born September 30, 1965) is an American professor of economics at a prestigious technical institute, where they have taught since 1992. They are also the director of the Health Care Program at a national research bureau, where they are a research associate. An associate editor of both the Journal of Public Economics and the Journal of Health Economics, the subject has been heavily involved in crafting public health policy.\n\nThey have been described as a key architect of both the 2006 state healthcare reform and the 2010 national healthcare legislation. They became the focus of media and political controversy in late 2014 when videos surfaced in which they made controversial statements about the legislative process, marketing strategies, and public perception surrounding the passage of the healthcare act. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "ironically even though it's it's such a big success there"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So if it's such a good idea, as you suggest, why isn't the private sector doing it? They like making money, as far as I understand."
+      },
+      {
+        "speaker": "[target]",
+        "text": "likes making money, but the private sector invests in research to the extent that it benefits their bottom line, not the extent that it benefits economic growth. And to point this out, we turn to one, I think, one of the most compelling examples in the book, which is the genetic research initiative. Okay, in 1975, two economists won the prestigious science prize, two scientists won the prestigious science prize for discovering the sequence of human DNA. One of them in the 1980s proposed setting up a company to sequence the human genome. Prize winner who'd founded already another startup could not raise $10 million from the private sector. Why? Because no company could make money off sequencing the human genome. Instead, the federal government put $3 billion into what we call the genetic research initiative. Fast forward to today. The country has a genomics industry which has created $1 trillion in economic value, 300,000 jobs, an average wage of $70,000 a job, all because of the government investment the private sector wouldn't make."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I think that's a great question, and I think the big issue is going to be can Medicaid continue to pay its doctors so poorly as it's covering a larger and larger share of the population? I mean, part of the reason Medicaid is cheap is because it pays doctors so poorly. Can that continue when it's covering a third of the population? I'm not entirely sure that's possible."
+      }
+    ],
+    "speakername": "Jon Gruber",
+    "ground_truth": "So I think there's going to be some real dynamics. There's actually some good research that suggests if you pay doctors more to Medicaid, it improves health outcomes. So it wouldn't be the end of the world if we paid Medicaid doctors a bit more, especially for primary care and obstetrics.",
+    "bio": "The target (born September 30, 1965) is an American professor of economics at a prestigious technical institute, where they have taught since 1992. They are also the director of the Health Care Program at a national research bureau, where they are a research associate. An associate editor of both the Journal of Public Economics and the Journal of Health Economics, the target has been heavily involved in crafting public health policy.\n\nThey have been described as a key architect of both the 2006 state healthcare reform and the 2010 national healthcare act. They became the focus of media and political controversy in late 2014 when videos surfaced in which they made controversial statements about the legislative process, marketing strategies, and public perception surrounding the passage of the healthcare act. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "likes making money, but the private sector invests in research to the extent that it benefits their bottom line, not the extent that it benefits economic growth. And to point this out, we turn to one, I think, one of the most compelling examples in the book, which is the Human Genome Project. Okay, in 1975, two economists won the Nobel Prize, two scientists won the Nobel Prize for discovering the sequence of human DNA. One of them in the 1980s proposed setting up a company to sequence the human genome. Nobel Prize winner who'd founded already another startup could not raise $10 million from the private sector. Why? Because no company could make money off sequencing the human genome. Instead, the federal government put $3 billion into what we call the Human Genome Project. Fast forward to today. The U.S. has a genomics industry which has created $1 trillion in economic value, 300,000 jobs, an average wage of $70,000 a job, all because of the government investment the private sector wouldn't make."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I think that's a great question, and I think the big issue is going to be can Medicaid continue to pay its doctors so poorly as it's covering a larger and larger share of the population? I mean, part of the reason Medicaid is cheap is because it pays doctors so poorly. Can that continue when it's covering a third of the population? I'm not entirely sure that's possible."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I think there's going to be some real dynamics. There's actually some good research that suggests if you pay doctors more to Medicaid, it improves health outcomes. So it wouldn't be the end of the world if we paid Medicaid doctors a bit more, especially for primary care and obstetrics."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "They're â by the way, one of the things that drives me crazy is Republicans have discovered that people on Medicaid can't always get the doctors that they want to see and that Medicaid isn't a perfect program. And as someone who's taken care of someone on Medicaid for almost 10 years now, I sort of feel like women do when they're being mansplained to about â when a man is explaining menstrual cramps or something like that. It's like you mean that I can't â sometimes people are rude to me when I call up and I say I have a Medicaid patient who needs an appointment. But what's striking is that all of the critiques that Paul Ryan and others are making of Medicaid, when you look at their actual policy proposals, every one of them would make those features of Medicaid worse. If we block-granted Medicaid, that's the single worst thing we could do in terms of encouraging states to raise provider rates and dealing with these augmentation. There are other problems that are essentially related to the incentive to underfund aspects of Medicaid or to try to underpay for things."
+      }
+    ],
+    "speakername": "Jon Gruber",
+    "ground_truth": "I think the fundamental challenge, Harold, that liberals face politically is explain to the American voter the cost of those types of policies. I think the average American voter is actually a charitable person, a big-hearted person. I don't think it's that the voters in Florida don't care about the low-income uninsured. I think they're just misinformed. And I really believe that if we could politically help explain the cost to society of cutting provider rates, of cutting back Medicaid, I think we'd get the majority of people to support strengthening that program. I think it's just because of racial reasons and other things, we just haven't managed to get through with that message.",
+    "bio": "Jonathan Holmes Gruber (born September 30, 1965) is an American professor of economics at the Massachusetts Institute of Technology, where he has taught since 1992. He is also the director of the Health Care Program at the National Bureau of Economic Research, where he is a research associate. An associate editor of both the Journal of Public Economics and the Journal of Health Economics, Gruber has been heavily involved in crafting public health policy.\\n\\nHe has been described as a key architect of both the 2006 Massachusetts health care reform, sometimes referred to as \\\"Romneycare\\\", and the 2010 Patient Protection and Affordable Care Act, sometimes referred to as the \\\"ACA\\\" and \\\"Obamacare\\\". He became the focus of media and political controversy in late 2014 when videos surfaced in which he made controversial statements about the legislative process, marketing strategies, and public perception surrounding the passage of the ACA. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I think there's going to be some real dynamics. There's actually some good research that suggests if you pay doctors more to Medicaid, it improves health outcomes. So it wouldn't be the end of the world if we paid Medicaid doctors a bit more, especially for primary care and obstetrics."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "They're â by the way, one of the things that drives me crazy is Republicans have discovered that people on Medicaid can't always get the doctors that they want to see and that Medicaid isn't a perfect program. And as someone who's taken care of someone on Medicaid for almost 10 years now, I sort of feel like women do when they're being mansplained to about â when a man is explaining menstrual cramps or something like that. It's like you mean that I can't â sometimes people are rude to me when I call up and I say I have a Medicaid patient who needs an appointment. But what's striking is that all of the critiques that Paul Ryan and others are making of Medicaid, when you look at their actual policy proposals, every one of them would make those features of Medicaid worse. If we block-granted Medicaid, that's the single worst thing we could do in terms of encouraging states to raise provider rates and dealing with these augmentation. There are other problems that are essentially related to the incentive to underfund aspects of Medicaid or to try to underpay for things."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think the fundamental challenge, Harold, that liberals face politically is explain to the American voter the cost of those types of policies. I think the average American voter is actually a charitable person, a big-hearted person. I don't think it's that the voters in Florida don't care about the low-income uninsured. I think they're just misinformed. And I really believe that if we could politically help explain the cost to society of cutting provider rates, of cutting back Medicaid, I think we'd get the majority of people to support strengthening that program. I think it's just because of racial reasons and other things, we just haven't managed to get through with that message."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This is healthinsurance.org, Curbside Consult. This is Harold Pollack talking with John Gruber. I should, by the way, just to close this part of the conversation off. So we have this primary care provider challenge, and it certainly existed basically independent of ACA, but it's going to be aggravated as we bring in more people into the system. What are some things that we can do in policy to try to lessen the shortage of primary care options for people?"
+      }
+    ],
+    "speakername": "Jon Gruber",
+    "ground_truth": "Yeah, I think, first of all, let me emphasize the point you made, because people say, oh, we're going to have this primary care crisis because of the ACA. Well, that's not true. I mean, I think the facts in Massachusetts perfectly summarize it, which is the average waiting time for a family doctor went from 47 days to 51 days. Now, because of our health care reform, there's two ways you can look at that. One, you could say, wow, four days, that's a big increase. The other, you could say, 47 days, that's outrageous. And that sort of summarizes the point that, yes, it'll get a bit worse, but it's already a problem. By the way, that's my bird you're hearing in the back with the whistle. If you're in the whistling and cheeping, that's the bird.",
+    "bio": "Jonathan Holmes Gruber (born September 30, 1965) is an American professor of economics at the Massachusetts Institute of Technology, where he has taught since 1992. He is also the director of the Health Care Program at the National Bureau of Economic Research, where he is a research associate. An associate editor of both the Journal of Public Economics and the Journal of Health Economics, Gruber has been heavily involved in crafting public health policy.\\n\\nHe has been described as a key architect of both the 2006 Massachusetts health care reform, sometimes referred to as \\\"Romneycare\\\", and the 2010 Patient Protection and Affordable Care Act, sometimes referred to as the \\\"ACA\\\" and \\\"Obamacare\\\". He became the focus of media and political controversy in late 2014 when videos surfaced in which he made controversial statements about the legislative process, marketing strategies, and public perception surrounding the passage of the ACA. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are we seeing some things that we should be changing in the way the law was written or the way it's operating that should we have an opportunity to make some legislative fixes that we might want to go do?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um, let's separate the substance from the politics. Substantively, I don't think we know enough yet that we should change anything. Uh, I, I don't see, I mean, there are things I would change that I would have changed a year ago. Um, for example, I think that the cost sharing protections for people in the sort of not the poorest people, sort of people in the low income, 150 to 300% of poverty, uh, they're going to face some pretty high costs relative to their income. That's something I wrote about a couple of years ago in a brief for the research organization. So, um, that I'd fix, but there's really nothing we've learned in the past six months of substance that should impact the law. We've learned a lot of political problems. We didn't do a good enough job anticipating, but I don't think we learned anything of substance that's wrong with the law in the last six months."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are there some political problems that we haven't talked about that we should just mention?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the big thing is, you know, the employer mandate, you know, the employer mandate, you know, represents, I don't know, something like a tenth of the revenue of this law, but it a and it represents maybe."
+      }
+    ],
+    "speakername": "Jon Gruber",
+    "ground_truth": "three percent of the benefits in terms of covering people, but it's causing maybe 90 percent of the political headaches.",
+    "bio": "The subject (born September 30, 1965) is an American professor of economics at a prominent technical institute, where they have taught since 1992. They are also the director of the Health Care Program at a national research bureau, where they are a research associate. An associate editor of both the Journal of Public Economics and the Journal of Health Economics, they have been heavily involved in crafting public health policy.\n\nThey have been described as a key architect of both the 2006 state healthcare reform and the 2010 national healthcare act. They became the focus of media and political controversy in late 2014 when videos surfaced in which they made controversial statements about the legislative process, marketing strategies, and public perception surrounding the passage of the healthcare act. The speaker's MBTI type is ESTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So I'm here tonight with [target] and what a treat it is to be here with you. Thank you for coming."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thanks very much for having me on, and especially thanks for making Shoe Dog a pick. It's huge. It's huge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Um, okay, so what made you decide to finally put pen to paper? Well..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I got asked over the years for a lot of times to do a memoir, and I never really had any interest."
+      }
+    ],
+    "speakername": "Phil Knight",
+    "ground_truth": "As I describe in the book, there comes a period when, you know, what's on my bucket list, and I realized that if I was ever going to do it, I better do it now. And there really is, in terms of the dedication was sincere, that I didn't want my grandchildren to have them be told about their grandfather by somebody else.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and fewer still become enterprises of significance but literally one in maybe 50 million that gets started turn out to be a major sportswear company what is the secret what is the secret that made this one of the greatest brands ever to exist"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, you're right that the odds of success are not high. When I graduated from business school, the stats were that 26 out of every 27 new businesses fail and I think the odds might be worse now. You know, there's two elements obviously to what happened is I think it shows quite clearly in the book. It's a whole lot of hard work and some good luck."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Hard work and good luck in equal measure you you put together early in the story early in the founding of the company You put together this unusual group of people really unusual group of people Starting with I think what must have been an amazing event for you when your coach You somehow connected with your coach. Tell us that that story because he was special to you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He was, and really still is, even though he's been deceased for, I think, 17 years. But he was a very unique human being. He was, first of all, in my view, the greatest track coach that ever lived. [Coach]. [Coach]. That he had more sub-4-minute milers when he retired than any other coach in the world."
+      }
+    ],
+    "speakername": "Phil Knight",
+    "ground_truth": "But he never wanted to be called a track coach. He says, I am a professor of competitive response. And that's the way he treated his athletes. And that he had a bit of [Coach] in him, and yet he had, you know, a soft side as well that he showed very rarely. And he meant a lot really to all his athletes, but to me maybe especially. I don't know that I got to know him well when I was a runner there. He used me to experiment with on shoes a lot. It was safer than using them on [Athlete], who was our best runner.",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's pretty funny. And so that..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that, you know, if he has to shrink, maybe this is a way for me to stay contacted with him. But anyway, yes, he was very special and meant a lot to the company."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You originally, you had this beginning shoe, the first one you were going to try, you send it to him."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in the hope that he might tell you it's a good shoe give you the courage to go on and then what i really want what i really want"
+      }
+    ],
+    "speakername": "Phil Knight",
+    "ground_truth": "wanted from him was an order and so he called and said let's have lunch and we had lunch up in [city] when he was up there with his team for a track meet and so I thought that was a good sign and so I had my order pad with me and he said how about letting your old coach be a partner with you and I was stunned and but before I could finish my hamburger I said by all means",
+    "bio": " The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Basically, another odd character named Jeff Johnson. Really odd character. Yes, very much so, and is odd to this day, living as a hermit. He makes J.D. Sollinger look social, but he lives not far from where J.D. Sollinger lives, near [location]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "in [location]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you know, Bowerman is kind of your technological innovator and gives you the credibility."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And Johnson is the ultimate salesman in a way."
+      }
+    ],
+    "speakername": "Phil Knight",
+    "ground_truth": "He basically, more than anything else, he believed in running more than anything in his whole life, and runners, and running, and running equipment, and he was just totally into it. So yes, that made him a great salesman, but I don't know if he'd have been a great salesman with encyclopedias, which I had failed at earlier, or insurance, if you will, but he was a great shoe salesman.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's everything. Yeah. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I think a lot of entrepreneurs would share that view."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So who joins next?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then basically next came [target]."
+      }
+    ],
+    "speakername": "Phil Knight",
+    "ground_truth": "that the coach called me that a student athlete was an outstanding long jumper on his team who had broken his back in a freak accident and would be confined to a wheelchair the rest of his life. And the coach said, you know, he's thinking about being a track coach, I don't think that's going to work. How about giving him a job? And so I met him for lunch and was taken with him and he became kind of the great administrator of the group.",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

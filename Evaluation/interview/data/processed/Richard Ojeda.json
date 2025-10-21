@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you very much."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, you are a military veteran, so thank you for your service, and can you explain a little bit of what you're bringing to the state senate from a military background?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, in the military, I like to, you know, believe in, you know, we don't eat until our men are fed, where I come from in the military. And I think that I'm trying to bring that to our state. You know, I think it's time that we look at the people that actually make this state operate in the way that it does. And we look at them and realize that they are the most important people in this state. And it's time that we put them first in many different areas. You know, we have people across our state that are doing without. I just left and drove through [county name]. You know, this is an area here that is struggling. And, you know, I think it's important that we start putting the needs of the people ahead of the needs of corporations and things like that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, what are your goals for this session, or if there's one thing you really want to see done or fixed or started, what would that be?"
+      }
+    ],
+    "speakername": "Richard Ojeda",
+    "ground_truth": "Well, right now, I think that I would love to be able to fully fund [healthcare program], and I think that we can do that. I'm going to push legislation in this next week here that's going to try to call for a raise in the gas severance and to have a specific amount of that money used to fully fund [healthcare program], because if we are able to do that in our state, it would be like giving every teacher a real pay raise, not a 1%, but an actual pay raise. It would take care of bus drivers, police officers, firefighters, all state employees. You know, there are so many people, thousands upon thousands of people across the state that fall under [healthcare program], and there's a lot of issues with [healthcare program]. And I would love to be able to take a lot of that off of the backs of our working class citizens by doing that, by fully funding [healthcare program]. There's also some things I would like to do in terms of the medical marijuana bill that we passed last session.",
+    "bio": "A politician and retired Army Major who served as the State Senator from the 7th district from 2016 until resignation in January 2019. A member of the Democratic Party, running a campaign for President of the United States in the upcoming election.\n\nReceived national attention when becoming a vocal supporter of the 2018 teachers' strike and advocated for the legalization of cannabis in the state. Announced candidacy for the presidency of the United States on November 12, 2018. While considering self a moderate, political views have been likened more to left-wing populism. Running on a Medicare for all, legalization of cannabis, anti-lobbyism and government accountability platform. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, in the military, I like to, you know, believe in, you know, we don't eat until our men are fed, where I come from in the military. And I think that I'm trying to bring that to our state. You know, I think it's time that we look at the people that actually make this state operate in the way that it does. And we look at them and realize that they are the most important people in this state. And it's time that we put them first in many different areas. You know, we have people across our state that are doing without. I just left and drove through [county]. You know, this is an area here that is struggling. And, you know, I think it's important that we start putting the needs of the people ahead of the needs of corporations and things like that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, what are your goals for this session, or if there's one thing you really want to see done or fixed or started, what would that be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, right now, I think that I would love to be able to fully fund PEIA, and I think that we can do that. I'm going to push legislation in this next week here that's going to try to call for a raise in the gas severance and to have a specific amount of that money used to fully fund PEIA, because if we are able to do that in our state, it would be like giving every teacher a real pay raise, not a 1%, but an actual pay raise. It would take care of bus drivers, police officers, firefighters, all state employees. You know, there are so many people, thousands upon thousands of people across the state that fall under PEIA, and there's a lot of issues with PEIA. And I would love to be able to take a lot of that off of the backs of our working class citizens by doing that, by fully funding PEIA. There's also some things I would like to do in terms of the medical marijuana bill that we passed last session."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's my next question to you."
+      }
+    ],
+    "speakername": "Richard Ojeda",
+    "ground_truth": "Outstanding. Outstanding. You know, the bill went through. We passed. It was historic legislation. But you know, there was a lot of damage that was done to that bill. And you know, I want to give people the ability to have the medicine that they need. I want to give people the ability to grow their own medicine. You know, this isn't just anybody can do it. You have to have the card. But you know, when we have people that have horrible insurance, no insurance, you know, those people get cancer too. Poor people, I would say, probably get cancer more than rich people because poor people have to drink from the tap when the rich people drink from bottled water and things like that. So you know, I want to be able to give those people the ability to be able to have the medicine that they need. And once again, I think that is absolutely taking it out of the hands of drug dealers, which is who you can get it from now.",
+    "bio": "The subject is an American politician and retired Army Major who served as the State Senator from the 7th district from 2016 until resignation in January 2019. A member of the Democratic Party, they ran a campaign for President of the United States in the 2020 election.\n\nThe subject received national attention when becoming a vocal supporter of the 2018 teachers' strike and advocated for the legalization of cannabis in their state. They announced their candidacy for the presidency of the United States on November 12, 2018. While considering themselves a moderate, their political views have been likened more to left-wing populism. They ran on a Medicare for all, legalization of cannabis, anti-lobbyism and government accountability platform. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, right now, I think that I would love to be able to fully fund the state employee insurance program, and I think that we can do that. I'm going to push legislation in this next week here that's going to try to call for a raise in the gas severance and to have a specific amount of that money used to fully fund the insurance program, because if we are able to do that in our state, it would be like giving every teacher a real pay raise, not a 1%, but an actual pay raise. It would take care of bus drivers, police officers, firefighters, all state employees. You know, there are so many people, thousands upon thousands of people across the state that fall under this insurance program, and there's a lot of issues with it. And I would love to be able to take a lot of that off of the backs of our working class citizens by doing that, by fully funding it. There's also some things I would like to do in terms of the medical marijuana bill that we passed last session."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's my next question to you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Outstanding. Outstanding. You know, the bill went through. We passed. It was historic legislation. But you know, there was a lot of damage that was done to that bill. And you know, I want to give people the ability to have the medicine that they need. I want to give people the ability to grow their own medicine. You know, this isn't just anybody can do it. You have to have the card. But you know, when we have people that have horrible insurance, no insurance, you know, those people get cancer too. Poor people, I would say, probably get cancer more than rich people because poor people have to drink from the tap when the rich people drink from bottled water and things like that. So you know, I want to be able to give those people the ability to be able to have the medicine that they need. And once again, I think that is absolutely taking it out of the hands of drug dealers, which is who you can get it from now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. And that's, you know, also speaking to the opioid crisis."
+      }
+    ],
+    "speakername": "Richard Ojeda",
+    "ground_truth": "Absolutely. You know, there have been so many things that have proven where, you know, people who are going through, you know, you know, coming off of the opioids, you know, the withdrawal and things like that, you know, medical marijuana has proven to show great results for that. You know, let's help our people. You know, we need, I think we need to decriminalize marijuana. You know, right now, if you get caught growing marijuana, you know, a plant, one plant is one to five years in prison. Growing a plant, you know, think about how much money we are spending housing people in these prisons when we literally could just find them and let them go.",
+    "bio": "The subject is an American politician and retired Army Major who served as a State Senator from the 7th district from 2016 until resignation in January 2019. A member of the Democratic Party, they launched a campaign for national office in the upcoming 2020 election. The subject received national attention when becoming a vocal supporter of the 2018 teachers' strike and advocated for the legalization of cannabis in their state. They announced their candidacy for national office on November 12, 2018. While considering themselves a moderate, their political views have been likened more to left-wing populism. They are running on a Medicare for all, legalization of cannabis, anti-lobbyism and government accountability platform. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's my next question to you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Outstanding. Outstanding. You know, the bill went through. We passed. It was historic legislation. But you know, there was a lot of damage that was done to that bill. And you know, I want to give people the ability to have the medicine that they need. I want to give people the ability to grow their own medicine. You know, this isn't just anybody can do it. You have to have the card. But you know, when we have people that have horrible insurance, no insurance, you know, those people get cancer too. Poor people, I would say, probably get cancer more than rich people because poor people have to drink from the tap when the rich people drink from bottled water and things like that. So you know, I want to be able to give those people the ability to be able to have the medicine that they need. And once again, I think that is absolutely taking it out of the hands of drug dealers, which is who you can get it from now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. And that's, you know, also speaking to the opioid crisis."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. You know, there have been so many things that have proven where, you know, people who are going through, you know, you know, coming off of the opioids, you know, the withdrawal and things like that, you know, medical marijuana has proven to show great results for that. You know, let's help our people. You know, we need, I think we need to decriminalize marijuana. You know, right now, if you get caught growing marijuana, you know, a plant, one plant is one to five years in prison. Growing a plant, you know, think about how much money we are spending housing people in these prisons when we literally could just find them and let them go."
+      }
+    ],
+    "speakername": "Richard Ojeda",
+    "ground_truth": "you know we could use that money that right there is revenue in itself and and we desperately need that in our state and rather than spend 150 to 200 dollars a day you know housing an inmate that's money that we could use to to better our state",
+    "bio": "The target is an American politician and retired Army Major who served as a State Senator from a mid-Atlantic state from 2016 until resignation in January 2019. A member of the Democratic Party, they ran a campaign for President of the United States in the 2020 election.\n\nThe target received national attention when becoming a vocal supporter of the 2018 teachers' strike and advocated for the legalization of cannabis in their state. The target announced candidacy for the presidency of the United States on November 12, 2018. While considering themselves a moderate, their political views have been likened more to left-wing populism. The target's campaign platform included Medicare for all, legalization of cannabis, anti-lobbyism and government accountability. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. And that's, you know, also speaking to the opioid crisis."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. You know, there have been so many things that have proven where, you know, people who are going through, you know, you know, coming off of the opioids, you know, the withdrawal and things like that, you know, medical marijuana has proven to show great results for that. You know, let's help our people. You know, we need, I think we need to decriminalize marijuana. You know, right now, if you get caught growing marijuana, you know, a plant, one plant is one to five years in prison. Growing a plant, you know, think about how much money we are spending housing people in these prisons when we literally could just find them and let them go."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know we could use that money that right there is revenue in itself and and we desperately need that in our state and rather than spend 150 to 200 dollars a day you know housing an inmate that's money that we could use to to better our state"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now you're running for Congress in the 3rd District, what do you think you can bring to the capital that really benefits state residents, but not just state residents, Southern state residents who have been forgotten?"
+      }
+    ],
+    "speakername": "Richard Ojeda",
+    "ground_truth": "Absolutely. We have. You know, I think that, you know, the one thing that I think everyone knows, who knows me, I'm very energetic. I'm also not the type of person that sits quiet when I believe in something. When I believe in something, I will fight wholeheartedly for it. And I think that Southern state residents are desperate to find people that are willing to stand up and fight for them. You know, we are standing on the richest grounds. You show me the richest grounds and I will always show you the poorest people. But why do the citizens of our state, why do the working class citizens of our state never benefit from it? You know, it's time that we start having leaders that get out there and say, we're going to start doing more for our people. You know, we have third congressional district is it's like going back in time and it's unacceptable. We deserve so much better. And we need leaders that are willing to go up there and absolutely stand up and fight for our region. And have their voices heard and get things done. And I absolutely know that I can do that.",
+    "bio": "The target (born September 25, 1970) is an American politician and retired Army Major who served as a State Senator from the 7th district from 2016 until resignation in January 2019. A member of the Democratic Party, they ran a campaign for President of the United States in the 2020 election.\n\nThe target received national attention when becoming a vocal supporter of the 2018 teachers' strike and advocated for the legalization of cannabis in the state. They announced candidacy for the presidency of the United States on November 12, 2018. While considering themselves a moderate, their political views have been likened more to left-wing populism. The target ran on a Medicare for all, legalization of cannabis, anti-lobbyism and government accountability platform. The speaker's MBTI type is ISTJ"
+  }
+]

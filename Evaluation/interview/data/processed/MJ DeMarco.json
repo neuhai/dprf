@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's probably about, I want to say half a million."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "All right. All right. There it is. Okay. Yeah. Glad we got that there. Let's dive in now with the favorite success quote or a saying that you've lived by that's helped you on your journey."
+      },
+      {
+        "speaker": "[target]",
+        "text": "If you accept conventional wisdom from conventional people living conventional lives, can you expect to be anything but conventional?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "How has this played a role in your journey?"
+      }
+    ],
+    "speakername": "MJ DeMarco",
+    "ground_truth": "But when you think about it, we're not educated by people who are living rock star lives, people who are living their dreams. We're, for the most part, educated by a system that is a dream crusher. We're educated by a system that, you know, from the time you're, I don't know, seven, eight years old, your dreams start getting crushed. You're put into an educational system that teaches you, you know, Monday through Friday is for doing things you'd rather not do, and then Saturday and Sunday is for you. And we go through that for what, you know, 18 years. And then once you graduate college, you're put into that same identical system. So the education system is not set up to have us, you know, live our dreams or do what we want or do work that we really enjoy. And I think that's a shame. And that's kind of what my new book is about, about how society... has us scripted to follow a predictable path that ultimately leads to mediocrity.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If you accept conventional wisdom from conventional people living conventional lives, can you expect to be anything but conventional?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "How has this played a role in your journey?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But when you think about it, we're not educated by people who are living rock star lives, people who are living their dreams. We're, for the most part, educated by a system that is a dream crusher. We're educated by a system that, you know, from the time you're, I don't know, seven, eight years old, your dreams start getting crushed. You're put into an educational system that teaches you, you know, Monday through Friday is for doing things you'd rather not do, and then Saturday and Sunday is for you. And we go through that for what, you know, 18 years. And then once you graduate college, you're put into that same identical system. So the education system is not set up to have us, you know, live our dreams or do what we want or do work that we really enjoy. And I think that's a shame. And that's kind of what my new book is about, about how society... has us scripted to follow a predictable path that ultimately leads to mediocrity."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "And so it sounds like we're not being educated by people who have the results, the life that we want."
+      }
+    ],
+    "speakername": "MJ DeMarco",
+    "ground_truth": "Sure. I mean, that's, that's exactly right. I mean, if you're looking to aspire beyond the nine to five, Monday through Friday, let's watch some football games on the weekend, and then this repeat for 50 years, the education system is going to teach you that. And there's, there's so many other things involved with as far as normalizing certain behaviors, as if, you know, like a 30 year mortgage, that's normal. Monday is for work, that's normal. There's invest with the stock market for 50 years, be frugal. Because you know, if you wait 50 years, you're eventually become a millionaire, and then you can live your dreams. That's the standard doctrine, or the script that is being fed to everyone. And it's, it's non consensual, you don't consent to it, it's automatic, and it becomes a part of your programming. And people don't really step out of that to say, Hey, wait a second, you know, I don't need to be doing this, there's a different way. go about life. And that's kind of been my philosophy since I started writing.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But when you think about it, we're not educated by people who are living rock star lives, people who are living their dreams. We're, for the most part, educated by a system that is a dream crusher. We're educated by a system that, you know, from the time you're, I don't know, seven, eight years old, your dreams start getting crushed. You're put into an educational system that teaches you, you know, Monday through Friday is for doing things you'd rather not do, and then Saturday and Sunday is for you. And we go through that for what, you know, 18 years. And then once you graduate college, you're put into that same identical system. So the education system is not set up to have us, you know, live our dreams or do what we want or do work that we really enjoy. And that's a shame. And that's kind of what my new book is about, about how society... has us scripted to follow a predictable path that ultimately leads to mediocrity."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "And so it sounds like we're not being educated by people who have the results, the life that we want."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure. I mean, that's, that's exactly right. I mean, if you're looking to aspire beyond the nine to five, Monday through Friday, let's watch some football games on the weekend, and then this repeat for 50 years, the education system is going to teach you that. And there's, there's so many other things involved with as far as normalizing certain behaviors, as if, you know, like a 30 year mortgage, that's normal. Monday is for work, that's normal. There's invest with the stock market for 50 years, be frugal. Because you know, if you wait 50 years, you're eventually become a millionaire, and then you can live your dreams. That's the standard doctrine, or the script that is being fed to everyone. And it's, it's non consensual, you don't consent to it, it's automatic, and it becomes a part of your programming. And people don't really step out of that to say, Hey, wait a second, you know, I don't need to be doing this, there's a different way. go about life. And that's kind of been my philosophy since I started writing."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "So are you against the current education system?"
+      }
+    ],
+    "speakername": "MJ DeMarco",
+    "ground_truth": "Yes and no. I'm not against education for people that want that education. There are plenty of people that want to become doctors and engineers and we absolutely need the education system for that. But there's a certain tiny subset of people that are like, you know, I got an art history degree, what am I going to do with this? And they get out of college and they have $90,000 in debt and they find themselves working at a coffee shop, you know, a job they could have had straight out of high school. So I'm not for or against college. I am against massive debt, unrestrained debt for the sole purpose of getting an education, which does not guarantee you a job. A college degree doesn't guarantee you to any job whatsoever. And yet they're issuing these things as if there's unlimited jobs and that doesn't even go into the fact that entrepreneurs and businesses are like the redheaded stepchild of society now. So it's like society loves babies, but they hate mothers. I mean, that's in effect, the business, the cantankerous business to a job relationship there is right now.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sure. I mean, that's, that's exactly right. I mean, if you're looking to aspire beyond the nine to five, Monday through Friday, let's watch some football games on the weekend, and then this repeat for 50 years, the education system is going to teach you that. And there's, there's so many other things involved with as far as normalizing certain behaviors, as if, you know, like a 30 year mortgage, that's normal. Monday is for work, that's normal. There's invest with the stock market for 50 years, be frugal. Because you know, if you wait 50 years, you're eventually become a millionaire, and then you can live your dreams. That's the standard doctrine, or the script that is being fed to everyone. And it's, it's non consensual, you don't consent to it, it's automatic, and it becomes a part of your programming. And people don't really step out of that to say, Hey, wait a second, you know, I don't need to be doing this, there's a different way. go about life. And that's kind of been my philosophy since I started writing."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "So are you against the current education system?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes and no. I'm not against education for people that want that education. There are plenty of people that want to become doctors and engineers and we absolutely need the education system for that. But there's a certain tiny subset of people that are like, you know, I got an art history degree, what am I going to do with this? And they get out of college and they have $90,000 in debt and they find themselves working at Starbucks, you know, a job they could have had straight out of high school. So I'm not for or against college. I am against massive debt, unrestrained debt for the sole purpose of getting an education, which does not guarantee you a job. A college degree doesn't guarantee you to any job whatsoever. And yet they're issuing these things as if there's unlimited jobs and that doesn't even go. into the fact that entrepreneurs and businesses are like the redheaded stepchild of society now. So it's like society loves babies, but they hate mothers. I mean, that's in effect, the business, the cantankerous business to a job relationship there is right now."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Okay. Yeah, that answers that. So if someone needs to get the right education, then, you know, for a specific job role and do so. But, you know, myself, I had a degree in social science, which I don't, I don't know. It is one of those degrees where everyone's like, Oh, well, what are you going to do? And it's like, you're, I was in a similar position when I graduated to when I first graduated high school. When I graduated college, I was kind of confused. I graduated high school, I was still, you know, I was, I was confused, too. So what is the script that most people are living on? Like, like, how, what does this look like? If we play the life, and we fast forward from from, let's say, college, all the way until death? What does that script look like?"
+      }
+    ],
+    "speakername": "MJ DeMarco",
+    "ground_truth": "Well, the script is basically, as soon as you enter into education, the script begins. And I mean, we're talking five or six years old. Now, if you think about it, when you were a child, your parents were like, well, you can be anything you want to. Whatever you can set your mind to, you can do. And then suddenly something changed. You know, get realistic. You can't do that. You know, you need to get a job. You need to go to college. Well, you need to get good grades. And the script is a series of hyper realities that everyone lives by, and they don't actually question those hyper realities. A good example is, since we've been talking about going into school, is Monday through Friday. You know, there is no celestial reason for a seven-day work cycle or a Monday through Friday. There's no celestial reason for it. It's a human-created construct to create order. So if aliens were coming to the planet and they analyzed the planet, they would say, OK. So one day is 24 hours, and one year is 365 days. But Monday through Friday, Saturday, Sunday, that kind of thing, name days, plays no role in that. Your dog doesn't know the difference between a Sunday or a Tuesday. It's all the same, except for humans, because we've created that construct. So the construct we're taught as soon as we get into that kindergarten, five years old, is we are taught Monday through Friday is for the system. And Saturday. And Sunday is for you. And the sad thing about that is, that's a negative rate of return.",
+    "bio": " The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes and no. I'm not against education for people that want that education. There are plenty of people that want to become doctors and engineers and we absolutely need the education system for that. But there's a certain tiny subset of people that are like, you know, I got an art history degree, what am I going to do with this? And they get out of college and they have $90,000 in debt and they find themselves working at a coffee shop, you know, a job they could have had straight out of high school. So I'm not for or against college. I am against massive debt, unrestrained debt for the sole purpose of getting an education, which does not guarantee you a job. A college degree doesn't guarantee you to any job whatsoever. And yet they're issuing these things as if there's unlimited jobs and that doesn't even go into the fact that entrepreneurs and businesses are like the redheaded stepchild of society now. So it's like society loves babies, but they hate mothers. I mean, that's in effect, the business, the cantankerous business to a job relationship there is right now."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Okay. Yeah, that answers that. So if someone needs to get the right education, then, you know, for a specific job role and do so. But, you know, myself, I had a degree in social science, which I don't, I don't know. It is one of those degrees where everyone's like, Oh, well, what are you going to do? And it's like, you're, I was in a similar position when I graduated to when I first graduated high school. When I graduated college, I was kind of confused. I graduated high school, I was still, you know, I was, I was confused, too. So what is the script that most people are living on? Like, like, how, what does this look like? If we play the life, and we fast forward from from, let's say, college, all the way until death? What does that script look like?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the script is basically, as soon as you enter into education, the script begins. And I mean, we're talking five or six years old. Now, if you think about it, when you were a child, your parents were like, well, you can be anything you want to. Whatever you can set your mind to, you can do. And then suddenly something changed. You know, get realistic. You can't do that. You know, you need to get a job. You need to go to college. Well, you need to get good grades. And the script is a series of hyper realities that everyone lives by, and they don't actually question those hyper realities. A good example is, since we've been talking about going into school, is Monday through Friday. You know, there is no celestial reason for a seven-day work cycle or a Monday through Friday. There's no celestial reason for it. It's a human-created construct to create order. So if aliens were coming to the planet and they analyzed the planet, they would say, OK. So one day is 24 hours, and one year is 365 days. But Monday through Friday, Saturday, Sunday, that kind of thing, name days, plays no role in that. Your dog doesn't know the difference between a Sunday or a Tuesday. It's all the same, except for humans, because we've created that construct. So the construct we're taught as soon as we get into that kindergarten, five years old, is we are taught Monday through Friday is for the system. And Saturday. And Sunday is for you. And the sad thing about that is, that's a negative rate of return."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Right."
+      }
+    ],
+    "speakername": "MJ DeMarco",
+    "ground_truth": "That's not an interest payment. You don't get that time back. It's gone. So if someone approached you in finance and said, Hey, you know, give me $5 and after a couple of days, I'll give you two, but you're not going to get your $5 back. You would reject that flat out.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

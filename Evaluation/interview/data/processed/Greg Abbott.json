@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Let's just dive right in. I want to talk about next session. You know, if you become governor, you're going to be having to hear a lot of reevaluation of some of the issues that your office as attorney general has had to defend. So let's just go down the list. As governor, how would you treat school finance? You know, you've had to deal with it as attorney general, but you're going to have a lot of Democrats that are trying to come back in and put more money towards schools. Right."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I believe in putting more money into schools, but I also believe in moving beyond these legal fights that we've been caught up in over the past few decades. What we need to do is really focus on reinventing our schools and building better schools for our kids and then finding the way to fund them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "HOW IS IT DIFFERENT AS A GOVERNOR APPROACHING THAT SUBJECT, BECAUSE YOU'VE GOT TO WORK WITH BOTH PARTIES INSTEAD OF JUST FROM A LEGAL ANGLE? What you do..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "as you cast the vision for what you want to achieve in this state, my vision is one that will take this state on a pathway toward being number one in the nation for educating our children. That starts with helping the legislators understand that we must build a solid foundation for education for our children beginning at pre-k all the way through grade 12."
+      }
+    ],
+    "speakername": "Greg Abbott",
+    "ground_truth": "Abortion restrictions are another one, you know, it consistently keeps getting brought back up in the court system, you know, is this something that you see is going to keep playing out throughout the rest of next session or are there other more important topics that you feel lawmakers need to focus on?",
+    "bio": "A state governor who has served since 2015. A member of a major political party, they served as state attorney general from 2002 to 2015. They are the third governor of any state to permanently use a wheelchair and the first governor with a disability in their state's history. They were elected governor in 2014 with 59 percent of the vote and re-elected in 2018 with 56 percent. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Those issues will continue to play out in the courts over the next year or so. And as a result, we're going to be focusing on the issues that will keep our economy growing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What about gay marriage? It's been brought up in other states recently, and I know that it's something that you have strong views about."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We will talk about that between now and the special session to see if there were any items that were missed. I do know from talking to legislators, they are very pleased with the product they got across the finish line."
+      }
+    ],
+    "speakername": "Greg Abbott",
+    "ground_truth": "As it relates to working out differences on key issues, that's something that you wanted lawmakers to do before you called them back for a special session. Will you share what some of those issues are right now that you want lawmakers to iron out before we get to a special?",
+    "bio": "The public official (born November 13, 1957) is an American attorney and politician serving as the current governor of a southern state since 2015. A member of the Republican Party, they served as attorney general of the state from 2002 to 2015. They are the third governor of any U.S. state to permanently use a wheelchair. They are also the first governor with a disability in their state's history. The official was elected governor in 2014 with 59 percent of the vote and re-elected in 2018 with 56 percent. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We will talk about that between now and the special session to see if there were any items that were missed. I do know from talking to legislators, they are very pleased with the product they got across the finish line."
+      },
+      {
+        "speaker": "[target]",
+        "text": "As it relates to working out differences on key issues, that's something that you wanted lawmakers to do before you called them back for a special session. Will you share what some of those issues are right now that you want lawmakers to iron out before we get to a special?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor, I'd be remiss if I didn't ask you this before we let you go. This state is a huge baseball state. Major League Baseball literally just shared a July 24th opening day for baseball, and that means the local teams, under your current limits, will be able to welcome fans back at 50% capacity. As we sit here today with the numbers ramping up that we see, are you comfortable with that right now, that on July 24th, 50% of fans will be welcomed into stadiums?"
+      }
+    ],
+    "speakername": "Greg Abbott",
+    "ground_truth": "We're not changing that standard right now. For one, we hope to have the coronavirus better under control. But for another, we look forward to working with the teams to find out their strategies to make sure that they will be able to open their stadiums up safely. Know this, and that is if those teams cannot make the case to the public that their stadiums will be safe, the public will not show up. So I feel confident we will find safe ways to open up these stadiums and have fans in stands watching Major League Baseball.",
+    "bio": "An American attorney and politician serving as the current governor of a southern state since 2015. A member of the Republican Party, he served as attorney general from 2002 to 2015. He is the third governor of any U.S. state to permanently use a wheelchair. He is also the first governor with a disability in his state's history. He was elected governor in 2014 with 59 percent of the vote and re-elected in 2018 with 56 percent. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "As it relates to working out differences on key issues, that's something that you wanted lawmakers to do before you called them back for a special session. Will you share what some of those issues are right now that you want lawmakers to iron out before we get to a special?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor, I'd be remiss if I didn't ask you this before we let you go. This state is a huge baseball state. Major League Baseball literally just shared a July 24th opening day for baseball, and that means two professional teams, under your current limits, will be able to welcome fans back at 50% capacity. As we sit here today with the numbers ramping up that we see, are you comfortable with that right now, that on July 24th, 50% of fans will be welcomed into stadiums?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're not changing that standard right now. For one, we hope to have the coronavirus better under control. But for another, we look forward to working with the teams and to find out their strategies to make sure that they will be able to open their stadiums up safely. Know this, and that is if those teams cannot make the case to the public that their stadiums will be safe, the public will not show up. So I feel confident we will find safe ways to open up these stadiums and have fans in stands watching Major League Baseball."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "OKAY, GOVERNOR [target], WE APPRECIATE THE TIME AND GETTING A FEW ANSWERS. THANK YOU. WE APPRECIATE IT."
+      }
+    ],
+    "speakername": "Greg Abbott",
+    "ground_truth": "All right. And in terms of the quantity of special sessions, do you have an idea as to how many we'll see?",
+    "bio": "The target (born November 13, 1957) is an American attorney and politician serving as the 48th and current governor of a southern state since 2015. A member of the Republican Party, they served as 50th attorney general of the state from 2002 to 2015. They are the third governor of any U.S. state to permanently use a wheelchair. They are also the first governor with a disability in their state's history. The target was elected governor in 2014 with 59 percent of the vote and re-elected in 2018 with 56 percent. The speaker's MBTI type is ISTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "All right. And in terms of the quantity of special sessions, do you have an idea as to how many we'll see?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We'll announce it when it occurs."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And is anything off the table at this point in terms of bringing lawmakers back?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, we're not putting anything on the table or off the table other than those items that I mentioned."
+      }
+    ],
+    "speakername": "Greg Abbott",
+    "ground_truth": "Do you believe that social media censorship, taxpayer-funded lobbying, transgender athletes, do you believe those constitute an emergency worthy of a special session?",
+    "bio": "The target (born November 13, 1957) is an American attorney and politician serving as the 48th and current governor of a southern state since 2015. A member of the Republican Party, they served as 50th attorney general of the state from 2002 to 2015. They are the third governor of any U.S. state to permanently use a wheelchair. They are also the first governor with a disability in their state's history. The target was elected governor in 2014 with 59 percent of the vote and re-elected in 2018 with 56 percent. The speaker's MBTI type is ISTJ"
+  }
+]

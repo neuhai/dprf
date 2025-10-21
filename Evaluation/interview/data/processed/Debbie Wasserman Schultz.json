@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "really pleased to see that we've had gas prices actually drop for the last 30 days anytime you can have people especially during the summer months pay less at the pump that's a good thing for people's bottom line and i think it's demonstrative of the all hands on deck effort that the president has been making and congress has been focused on um you know we passed the lower food and fuel cost act and we're working to try to make sure that we can do everything we can to improve the the economy and and help make sure that we can affect people's household bottom line um food costs obviously are impacted by the supply chain issues which you know between the pandemic and putin's war on ukraine um those have really really been determinant factors on the supply chain issue but you know today on friday um i know this will air on sunday but on friday i was really excited to see how the economy is going to change and you know if you're on friday you have a lot of people who are going to be needing to be on friday and friday's going to be important to the economy um and it's also important to the economy because the economy is not only um sales are up one percent i mean that's not really a typical thing when you have uh you know such a high rate of inflation so because we've been able to have historic unemployment you know historic levels of employment um it it shows you that the economy is in a little bit of an odd state right now we need to continue to make sure that we take the issues that people are facing seriously we are doing that and you know we're doing that by the way without a single effort or vote from Republicans."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I've always subscribed to the adage that says if you, you know, put six economists in a room and you can get nine different opinions as a result. I do not, I'm always, whether it's a Republican president or a Democratic president, I'm not sure how much a president impacts the state of the economy or those variables such as inflation. Tell me, to what extent do you think that the Biden administration should be doing something other than what it's doing right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that's right. I think that's a difficult, cold thing to say when you're an elected official like me. I mean, that almost feels like a let them let them eat cake statement. So it's true that presidents, no matter what party they are, don't really have a lot of ability directly to impact inflation or gas prices. However, there are things that you can do at a granular level that can make a difference. And those things like, you know, releasing oil from the strategic strategic reserve is something that President Biden has been doing, making sure that we can focus on price gouging because, look, we've had a 30 day drop in oil prices. Now we've seen I mean, gas prices. Now we've seen a little bit more of an impact from the drop in the cost of a barrel of oil. But but overall, the oil companies are making bank billions and billions of dollars and they are proportionately reducing prices at the pump based on the price of a barrel of oil. And so that's on them. And that's why we that we push the lower food and fuel cost act so that we can put pressure on the gas companies and the oil companies to lower their price."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "President Biden had promised to make Saudi Arabia pariah, and he has now traveled to Saudi Arabia, somewhat hat in hand to try to encourage them to increase oil production because of the domestic issues we have here at home. Is this a, I mean, this is a bit of embarrassing for the president to have to go to Saudi Arabia in this way after trying to say that they were gonna create, they were gonna create them as a pariah going forward in his administration."
+      }
+    ],
+    "speakername": "Debbie Wasserman Schultz",
+    "ground_truth": "Well, I disagree with your characterization. President Biden certainly isn't in Saudi Arabia to pat on hand or to beg them to do anything. The Middle East is one of the most strategic and critical regions of the world. And the Abraham Accords were an important and significant achievement. I was in Israel earlier this year, had a chance to meet with the ambassadors from the United Arab Emirates, from Morocco and Bahrain. And the progress that we're making with making sure that Israel is able to be more normalized and embraced in the region is critical. And Saudi Arabia and that relationship is something that we can't just isolate and shove off to the side because we have Iran as a major threat. And so making sure that we maintain that relationship is critical. And so making sure that we maintain that relationship is critical. While also making it clear that the actions, the horrific actions of the Saudi Arabian government are unacceptable or important. I think that's a tough balancing act that the president has.",
+    "bio": "Deborah Wasserman Schultz (born September 27, 1966) is a Jewish American politician serving as theÂ U.S. RepresentativeÂ fromÂ Florida's 23rd congressional district, first elected to Congress inÂ 2004. A member of theÂ Democratic Party, she is a former Chair of theÂ Democratic National Committee. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that's right. I think that's a difficult, cold thing to say when you're an elected official like me. I mean, that almost feels like a let them let them eat cake statement. So it's true that presidents, no matter what party they are, don't really have a lot of ability directly to impact inflation or gas prices. However, there are things that you can do at a granular level that can make a difference. And those things like, you know, releasing oil from the strategic reserve is something that President Biden has been doing, making sure that we can focus on price gouging because, look, we've had a 30 day drop in oil prices. Now we've seen I mean, gas prices. Now we've seen a little bit more of an impact from the drop in the cost of a barrel of oil. But but overall, the oil companies are making bank billions and billions of dollars and they are proportionately reducing prices at the pump based on the price of a barrel of oil. And so that's on them. And that's why we that we push the lower food and fuel cost act so that we can put pressure on the gas companies and the oil companies to lower their price."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "President Biden had promised to make [nation] pariah, and he has now traveled to [nation], somewhat hat in hand to try to encourage them to increase oil production because of the domestic issues we have here at home. Is this a, I mean, this is a bit of embarrassing for the president to have to go to [nation] in this way after trying to say that they were gonna create, they were gonna create them as a pariah going forward in his administration."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I disagree with your characterization. President Biden certainly isn't in [nation] to pat on hand or to beg them to do anything. The [region] is one of the most strategic and critical regions of the world. And the Abraham Accords were an important and significant achievement. I was in [nation] earlier this year, had a chance to meet with the ambassadors from [nation], from [nation] and [nation]. And the progress that we're making with making sure that [nation] is able to be more normalized and embraced in the region is critical. And [nation] and that relationship is something that we can't just isolate and shove off to the side because we have [nation] as a major threat. And so making sure that we maintain that relationship is critical. And so making sure that we maintain that relationship is critical. While also making it clear that the actions, the horrific actions of the [nation] government are unacceptable or important. I think that's a tough balancing act that the president has."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The Abraham Accords were under the Trump administration. This was one of the Trump administration's signature issues, was it not?"
+      }
+    ],
+    "speakername": "Debbie Wasserman Schultz",
+    "ground_truth": "no um i know that that's certainly the hyperbole that president trump engaged in they happened during the trump administration but much of the groundwork if you follow [region] policies for those three agreements were the groundwork was laid for many years before that the culmination which i was pleased to see occurred during the trump administration i wouldn't say the trump administration had a whole lot to do with the work done to fight to finalize",
+    "bio": "A political figure (born September 27, 1966) is an American politician serving as the Representative from a congressional district, first elected to Congress in 2004. A member of their party, they are a former Chair of the National Committee. The speaker's MBTI type is ESFJ",
+    "original_keys": [
+      "background",
+      "speakername",
+      "ground_truth",
+      "bio"
+    ]
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I disagree with your characterization. The President certainly isn't in [location] to pat on hand or to beg them to do anything. The region is one of the most strategic and critical regions of the world. And the regional peace agreements were an important and significant achievement. I was in [location] earlier this year, had a chance to meet with the ambassadors from [location], from [location] and [location]. And the progress that we're making with making sure that [location] is able to be more normalized and embraced in the region is critical. And [location] and that relationship is something that we can't just isolate and shove off to the side because we have [location] as a major threat. And so making sure that we maintain that relationship is critical. And so making sure that we maintain that relationship is critical. While also making it clear that the actions, the horrific actions of the [location] government are unacceptable or important. I think that's a tough balancing act that the president has."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The regional peace agreements were under the previous administration. This was one of the previous administration's signature issues, was it not?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "no um i know that that's certainly the hyperbole that the former president engaged in they happened during that administration but much of the groundwork if you follow regional policies for those three agreements were the groundwork was laid for many years before that the culmination which i was pleased to see occurred during that administration i wouldn't say that administration had a whole lot to do with the work done to fight to finalize"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "so even on something like that there's no room to give that administration credit i mean"
+      }
+    ],
+    "speakername": "Debbie Wasserman Schultz",
+    "ground_truth": "It happened on his watch. He naturally gets credit for the fact that that happens on his watch. Most regional experts expected this to happen eventually. I'm glad that it was brought in for a landing whenever it was.",
+    "bio": "[target] (born September 27, 1966) is an American politician serving as the Representative from a congressional district, first elected to Congress in 2004. A member of a major political party, she is a former Chair of the party's National Committee. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no um i know that that's certainly the hyperbole that president engaged in they happened during that administration but much of the groundwork if you follow middle east policies for those three agreements were the groundwork was laid for many years before that the culmination which i was pleased to see occurred during that administration i wouldn't say that administration had a whole lot to do with the work done to fight to finalize"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "so even on something like that there's no room to give that administration credit i mean"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It happened on his watch. He naturally gets credit for the fact that that happens on his watch. Most policy experts expected this to happen eventually. I'm glad that it was brought in for a landing whenever it was."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, let's talk a little bit about the midterm elections. Give me your assessment as to what your anticipation is as to what's going to happen. Do Democrats lose control of the legislature? Do they lose control of the upper chamber?"
+      }
+    ],
+    "speakername": "Debbie Wasserman Schultz",
+    "ground_truth": "Right now, we have opposition party members who, if they are able to gain the majority of the national legislature, are going to end women's reproductive freedom nationwide. With the overturning from the extremist high court of the landmark case, essentially, the opposition party has made women's bodies government property. They are forcing government mandated pregnancy. And beyond that, you have an opposition party that is so beholden to the gun rights organization and to the gun extremists that we see a mass shooting every other week and horrific gun violence on our streets because we have this massive proliferation of guns and opposition members interpreting that anyone can have a gun basically anytime, anywhere. Add to that the hearings that have shown that they were willing to go to any length to essentially stage a coup and leave the former president in office. And those are the things that are going to be on the minds of voters when they go to the polls in November. And I think that will keep the majority in both chambers.",
+    "bio": "[target] (born September 27, 1966) is an American politician serving as a Representative from a southeastern state's congressional district, first elected to Congress in 2004. A member of the majority party, they are a former Chair of the national party committee. The speaker's MBTI type is ESFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It happened on his watch. He naturally gets credit for the fact that that happens on his watch. Most regional experts expected this to happen eventually. I'm glad that it was brought in for a landing whenever it was."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, let's talk a little bit about the midterm elections. Give me your assessment as to what your anticipation is as to what's going to happen. Do Democrats lose control of the House? Do they lose control of the Senate?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right now, we have Republicans who, if they are able to gain the majority of the Congress, are going to end women's reproductive freedom nationwide. With the overturning from the Republican extremist Supreme Court of Roe versus Wade, essentially, Republicans have made women's bodies government property. They are forcing government mandated pregnancy. And beyond that, you have a Republican Party that is so beholden to the gun rights organizations and to the gun extremists that we see a mass shooting every other week and horrific gun violence on our streets because we have this massive proliferation of guns and Republicans interpreting that anyone can have a gun basically anytime, anywhere. Add to that the January hearings that have shown that the Republicans were willing to go to any length to essentially stage a coup and leave Donald Trump in office. And those are the things that are going to be on the minds of voters when they go to the polls in November. And I think that will keep the majority in both the House and Senate."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You recently gave a speech at the academic institute and spoke about some of your concerns, particularly as it relates to the state Governor. What was your message in that speech?"
+      }
+    ],
+    "speakername": "Debbie Wasserman Schultz",
+    "ground_truth": "My message was that we have to fight authoritarianism and despotism, no matter where it's coming from. You know, there are there are folks on my side of the aisle that sort of waxed poetically about the aggressive policies and quotes of certain leaders. And they choose to conveniently ignore the absolute brutality and repression and economic terror that rained down on their people from their despotism. At the same time, you have foreign leaders migrating their reach into our region. And the state governor, who is banning books, bullying gay people and teaching. And, you know, creating a despotic authoritarian state and Republicans refuse to call that out as well.",
+    "bio": "The speaker (born September 27, 1966) is an American politician serving as the U.S. Representative from a congressional district, first elected to Congress in 2004. A member of the Democratic Party, they are a former Chair of the Democratic National Committee. The speaker's MBTI type is ESFJ"
+  }
+]

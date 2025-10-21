@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, if you are hardworking, if you have the dreams and the ambitions and the aspirations of what I believe you do, you're in my plan. You know, I have to tell you, I really love and am so energized by what I know to be the spirit and character of the American people. We have ambition. We have aspirations. We have dreams. We can see what's possible. We have an incredible work ethic. But not everyone has the access to the opportunities that allow them to achieve those things. But we don't lack for those things. But not everyone, you know, gets handed stuff on a silver platter. And so my vision for the economy, I call it an opportunity economy, is about making sure that all Americans, wherever they start, wherever they are, have the ability to actually achieve those dreams and those ambitions, which include for middle class families, just being able to know that their hard work allows them to get ahead, right? I think we can't and we shouldn't aspire to have an economy that just allows people to get by. People want to do more than just get by. They want to get ahead. And I come from the middle class. Look, my mother raised my sister and me. She worked hard. She worked hard. She worked hard. She worked hard. She worked hard. She worked hard. She worked hard. She saved up. By the time I was a teenager, she was able to buy her first home. And, you know, home ownership for too many people in our country now is elusive. You know, gone is the day of everyone thinking they could actually live the American dream. So part of my vision for the economy is let's deal with some of the everyday challenges that people face and address them with common sense solutions, such as affordable housing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Over the last four years, there have been tremendous economic wins, and you've just laid out a big plan. But still, polling shows that most likely voters still think Donald Trump is better to handle the economy. Why do you think that is?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, here's what I know in terms of the facts. Donald Trump left us with the worst economy since the Great Depression when you look at, for example, the employment numbers."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It was during COVID, and employment was so high because we shut down the government, we shut down the country."
+      }
+    ],
+    "speakername": "Kamala Harris",
+    "ground_truth": "before the pandemic. He lost manufacturing jobs by most people's estimates, at least 200,000. He lost manufacturing plants. Ask the auto workers how he lost auto plants. We have grown over 20 new auto plants. He has an agenda. Let's just deal with right now going forward, not to mention what happened in the past. He has an agenda that would include making it more difficult for workers to earn overtime, an agenda that would include cutting off access to small business loans for small businesses, an agenda that includes tariffs to the point that the average working person will spend 20% more on everyday necessities and an estimated $4,000 more a year on those everyday necessities, to the point that top economists in our country, from Nobel laureates to people at Moody's and Goldman's, have compared my plan with his and said my plan would grow the economy, his would shrink the economy. Some of them have actually assessed that his plan would increase inflation and invite a recession by the middle of next year. So the facts remain that Donald Trump has a history of taking care of very rich people. And I'm not mad at anybody for being rich, but they should pay their fair share. But taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but tax cuts for the billionaires and the top corporations in our country and then not really paying much attention to middle class families. My perspective on the economy is when you grow the middle class, America's economy is stronger. And there's empirical evidence to prove my point correct.",
+    "bio": "Kamala Devi Harris (born 1964) is an American politician and attorney who is the vice president of the United States. Harris served as a United States senator from California from 2017 to 2021, and as attorney general of California from 2011 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, here's what I know in terms of the facts. [Person] left us with the worst economy since the economic crisis when you look at, for example, the employment numbers."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It was during COVID, and employment was so high because we shut down the government, we shut down the country."
+      },
+      {
+        "speaker": "[target]",
+        "text": "before the pandemic. He lost manufacturing jobs by most people's estimates, at least 200,000. He lost manufacturing plants. Ask the auto workers how he lost auto plants. We have grown over 20 new auto plants. He has an agenda. Let's just deal with right now going forward, not to mention what happened in the past. He has an agenda that would include making it more difficult for workers to earn overtime, an agenda that would include cutting off access to small business loans for small businesses, an agenda that includes tariffs to the point that the average working person will spend 20% more on everyday necessities and an estimated $4,000 more a year on those everyday necessities, to the point that top economists in our country, from Nobel laureates to people at major financial institutions, have compared my plan with his and said my plan would grow the economy, his would shrink the economy. Some of them have actually assessed that his plan would increase inflation and invite a recession by the middle of next year. So the facts remain that [Person] has a history of taking care of very rich people. And I'm not mad at anybody for being rich, but they should pay their fair share. But taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but tax cuts for the billionaires and the top corporations in our country and then not really paying much attention to middle class families. My perspective on the economy is when you grow the middle class, America's economy is stronger. And there's empirical evidence to prove my point correct."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Then let me ask you about taxes, because lots of people will say, I don't like [Person], but he cut my taxes. He didn't just cut corporate taxes, he cut individual taxes. Now, that expires next year, and there are some people confused, saying, I don't know what's going to happen next year. Under a [target] administration, at what income level should someone expect their taxes to go up? And that state and local tax deduction that's currently capped and matters to a lot of people in blue states, are you going to lift that cap?"
+      }
+    ],
+    "speakername": "Kamala Harris",
+    "ground_truth": "so first of all when it relates to anybody making less than four hundred thousand dollars a year your taxes will not go up your taxes will not go up and in fact under my plan taxes for a hundred million americans will actually be cut including six thousand dollars a year for for young couples for the first year of their child's life in a tax cut a tax credit essentially by expansion of the child tax credit and why is that because during the first year of a young couple of a person's child's life they're going to need help buying a crib buying a car seat and we all benefit when they're actually able to do what they naturally want to do to take care of their child",
+    "bio": "The target (born 1964) is an American politician and attorney who is a senior government official. The target served as a senator from a western state from 2017 to 2021, and as attorney general of that state from 2011 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "before the pandemic. He lost manufacturing jobs by most people's estimates, at least 200,000. He lost manufacturing plants. Ask the auto workers how he lost auto plants. We have grown over 20 new auto plants. He has an agenda. Let's just deal with right now going forward, not to mention what happened in the past. He has an agenda that would include making it more difficult for workers to earn overtime, an agenda that would include cutting off access to small business loans for small businesses, an agenda that includes tariffs to the point that the average working person will spend 20% more on everyday necessities and an estimated $4,000 more a year on those everyday necessities, to the point that top economists in our country, from Nobel laureates to people at major financial institutions, have compared my plan with his and said my plan would grow the economy, his would shrink the economy. Some of them have actually assessed that his plan would increase inflation and invite a recession by the middle of next year. So the facts remain that he has a history of taking care of very rich people. And I'm not mad at anybody for being rich, but they should pay their fair share. But taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but taxing the rich is not a good thing. And I'm not mad at anybody for being rich, but tax cuts for the billionaires and the top corporations in our country and then not really paying much attention to middle class families. My perspective on the economy is when you grow the middle class, America's economy is stronger. And there's empirical evidence to prove my point correct."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Then let me ask you about taxes, because lots of people will say, I don't like him, but he cut my taxes. He didn't just cut corporate taxes, he cut individual taxes. Now, that expires next year, and there are some people confused, saying, I don't know what's going to happen next year. Under a [target] administration, at what income level should someone expect their taxes to go up? And that state and local tax deduction that's currently capped and matters to a lot of people in certain states, are you going to lift that cap?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so first of all when it relates to anybody making less than four hundred thousand dollars a year your taxes will not go up your taxes will not go up and in fact under my plan taxes for a hundred million americans will actually be cut including six thousand dollars a year for for young couples for the first year of their child's life in a tax cut a tax credit essentially by expansion of the child tax credit and why is that because during the first year of a young couple of a person's child's life they're going to need help buying a crib buying a car seat and we all benefit when they're actually able to do what they naturally want to do to take care of their child"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And expanding that child tax credit, or you mentioned housing before, giving that extra money for a first home. If you can't raise corporate taxes or if opposition takes control of the Senate, where do you get the money to do that? Do you still go forward with those plans and borrow?"
+      }
+    ],
+    "speakername": "Kamala Harris",
+    "ground_truth": "Well, but we're going to have to raise corporate taxes and we're going to have to raise. We're going to have to make sure that the biggest corporations and billionaires pay their fair share. That's just it. It's about paying their fair share. I am not mad at anyone for achieving success, but everyone should pay their fair share. And it is not right that the teachers and the firefighters that I meet every day across our country are paying a higher tax.",
+    "bio": "The target (born 1964) is an American politician and attorney who is a senior government official. The target served as a senator from a western state from 2017 to 2021, and as attorney general of that state from 2011 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, but we're going to have to raise corporate taxes and we're going to have to raise. We're going to have to make sure that the biggest corporations and billionaires pay their fair share. That's just it. It's about paying their fair share. I am not mad at anyone for achieving success, but everyone should pay their fair share. And it is not right that the teachers and the firefighters that I meet every day across our country are paying a higher tax."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Then the rich."
+      },
+      {
+        "speaker": "[target]",
+        "text": "just"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "people in our country. Bill Gates just said it this week. If he was in charge of taxes, he would have paid more. But how do you find that line to make sure corporations are paying their fair share, but they're not leaving our country?"
+      }
+    ],
+    "speakername": "Kamala Harris",
+    "ground_truth": "Well, listen, I work with a lot of CEOs. I have spent a lot of time with CEOs. And I'm going to tell you that the business leaders who are actually part of the engine of America's economy agree that people should pay their fair share. They also agree that when we look at a plan such as mine that is about investing in the middle class, investing in new industries, investing in bringing down costs, investing in entrepreneurs like small businesses, that the overall economy is stronger and everyone benefits. Part of my plan for the economy is investing in new industries in a way that we have active partnership with the private sector. I've worked with the private sector my entire career. I, even as vice president, working with some of the biggest banks and biggest tech companies to increase by billions of dollars the money going into community banks to increase access to the internet. I've worked with the private sector my entire career. I've worked with the private sector my entire career. I've worked with the private sector my entire career. I've worked with the private sector my entire career. Why do those biggest corporations and CEOs do that? Because they know those kinds of investments, like in our small businesses, in startups and entrepreneurs, actually strengthens the nation's economy overall and everyone benefits. So this is not about bilking anybody, but it is certainly about saying, let's make sure that we create opportunities for everyone to grow wealth. I believe that it is not sufficient and it should not be our goal to just make sure everyone is working. That should be the baseline, that should be a given and let's create an economy where people have the ability to buy a home, to start a business, to take a nice vacation from time to time.",
+    "bio": "The speaker (born 1964) is an American politician and attorney who is the vice president of the United States. The speaker served as a United States senator from a western state from 2017 to 2021, and as attorney general of that state from 2011 to 2017. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "just"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "people in our country. Bill Gates just said it this week. If he was in charge of taxes, he would have paid more. But how do you find that line to make sure corporations are paying their fair share, but they're not leaving our country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, I work with a lot of CEOs. I have spent a lot of time with CEOs. And I'm going to tell you that the business leaders who are actually part of the engine of America's economy agree that people should pay their fair share. They also agree that when we look at a plan such as mine that is about investing in the middle class, investing in new industries, investing in bringing down costs, investing in entrepreneurs like small businesses, that the overall economy is stronger and everyone benefits. Part of my plan for the economy is investing in new industries in a way that we have active partnership with the private sector. I've worked with the private sector my entire career. I, even as vice president, working with some of the biggest banks and biggest tech companies to increase by billions of dollars the money going into community banks to increase access to the internet. I've worked with the private sector my entire career. I've worked with the private sector my entire career. I've worked with the private sector my entire career. I've worked with the private sector my entire career. Why do those biggest corporations and CEOs do that? Because they know those kinds of investments, like in our small businesses, in startups and entrepreneurs, actually strengthens America's economy overall and everyone benefits. So this is not about bilking anybody, but it is certainly about saying, let's make sure that we create opportunities for everyone to grow wealth. I believe that it is not sufficient and it should not be our goal to just make sure everyone is working. That should be the baseline, that should be a given and let's create an economy where people have the ability to buy a home, to start a business, to take a nice vacation from time to time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "right for people who want to buy a home yes getting a 25 000 kicker would be great but it's not just affording a home we don't have enough in this country absolutely right and one of the main problems are regulations and rules strict strict rules at a local level how does the federal government cut through all that red tape and get down to i know the suburbs of pittsburgh and say we're going to have to build some affordable housing here how do you connect the two"
+      }
+    ],
+    "speakername": "Kamala Harris",
+    "ground_truth": "So you're absolutely right. So across our country, people rightly are concerned about the cost of housing. So is homeownership, to your point. We need more supply. That is, without any question, part of the solution. Creating more supply under my plan includes creating tax incentives to work with the private sector and home builders. Part of my goal and the plan would be to create three million new housing units for rent and for ownership by the end of my first term. Now, it includes also what we must do to cut red tape. You're absolutely right. It takes far too long and there's too much bureaucracy associated with home building. And I say that as a devout public servant. I know that we have to reduce the red tape and speed up what we need to do around building. And that is going to require working from the federal level with state and local governments. And it's going to be different in different places, depending on the needs of that community, the needs of that local. Government, that municipality, but working in consultation and coordination and also around incentives that we can create. For example, some of the work is going to be through what we do in terms of giving benefits and assistance to state and local governments around transit dollars. And looking holistically at the connection between that and housing and looking holistically at the incentives we in the federal government can create for local and state governments to actually engage in planning. And that's what we're going to do. And we're going to do it in a holistic manner that includes prioritizing affordable housing for working people.",
+    "bio": "Kamala Devi Harris (born 1964) is an American politician and attorney who is the vice president of the United States. Harris served as a United States senator from California from 2017 to 2021, and as attorney general of California from 2011 to 2017. The speaker's MBTI type is ESTJ"
+  }
+]

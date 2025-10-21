@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'd like to be able to answer that question definitively. There's still some things being worked out. We're dealing with the same circumstances that every team is. I know that there's a group of people that are working incredibly hard to bring clarity to those things. What I can tell you is that there's been a tremendous amount of preparation put in place by our coaching staff and our support staff, and we'll be ready when we get clarity on exactly what we'll be able to do and when."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "You kind of hit on what I was about to ask you. I mean, normally you have like four months or so for free agency. You've got 16 days. I mean, talk about the challenges of that, I guess, and how do you get ready for something like that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the challenges are obviously condensed time. That doesn't necessarily limit your ability to prepare. You have to be adaptable without knowing what's coming ahead, and we will be. But I also want to stress that we're going to continue to focus on making the best decisions for our team, both in the short and long term, and not allowing the circumstances to allow us to make a decision that would be inconsistent with our processes in the past."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Some have said with the condensed schedule it might favor a younger team, fresh legs. Others have said maybe it would favor a veteran team because they wouldn't need as much practice time. Do you buy into either of those theories?"
+      }
+    ],
+    "speakername": "Sam Presti",
+    "ground_truth": "Um, I think the schedule is the schedule. Everybody has to play the same amount of games. I think it's going to be up to each team to prepare themselves from on a day-to-day basis and I've got tremendous confidence in our coach and our players that they're going to you know manage that and be ready to play each night.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], some have said with the condensed schedule it might favor a younger team, fresh legs. Others have said maybe it would favor a veteran team because they wouldn't need as much practice time. Do you buy into either of those theories?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um, I think the schedule is the schedule. Everybody has to play the same amount of games. I think it's going to be up to each team to prepare themselves from on a day-to-day basis and I've got tremendous confidence in the coach and our players that they're going to you know manage that and be ready to play each night."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "If you do open Friday, do you expect everybody to be here, or do you see any obstacles to getting guys in on time?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um."
+      }
+    ],
+    "speakername": "Sam Presti",
+    "ground_truth": "We anticipate to have our group in place and ready to take the floor. That's not to say that there couldn't be some hiccups along the way, but as of now we expect to take the floor and have our group in place.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "If you do open Friday, do you expect everybody to be here, or do you see any obstacles to getting guys in on time?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We anticipate to have our group in place and ready to take the floor. That's not to say that there couldn't be some hiccups along the way, but as of now we expect to take the floor and have our group in place."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "What was your reaction to the schedule when you first saw it? Did you cringe? Did you go, eh, we can do that? I mean, did you have an overall emotion?"
+      }
+    ],
+    "speakername": "Sam Presti",
+    "ground_truth": "What was your reaction to the schedule when you first saw it? Did you cringe? Did you go, eh, we can do that? I mean, did you have an overall emotion? We've never really focused on looking or overanalyzing the schedule. We've got to play the amount of games, and we have to be prepared to do that. So looking at it, dissecting it, we just look at the first game and figure out how we can be best prepared to play on the 25th.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We anticipate to have our group in place and ready to take the floor. That's not to say that there couldn't be some hiccups along the way, but as of now we expect to take the floor and have our group in place."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "What was your reaction to the schedule when you first saw it? Did you cringe? Did you go, eh, we can do that? I mean, did you have an overall emotion?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What was your reaction to the schedule when you first saw it? Did you cringe? Did you go, eh, we can do that? I mean, did you have an overall emotion? We've never really focused on looking or overanalyzing the schedule. We've got to play the amount of games, and we have to be prepared to do that. So looking at it, dissecting it, we just look at the first game and figure out how we can be best prepared to play on the 25th."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "As the lockout continued, did you and Scott just say, OK, now we've got to adjust this way, we've got to tweak this? Was it a day-to-day adjustment for you guys?"
+      }
+    ],
+    "speakername": "Sam Presti",
+    "ground_truth": "Well, it was a lot of communication. We talked about a lot of different scenarios and tried to take advantage of the preparation time. But as I said before, you have to be comfortable being uncomfortable sometimes. And we're prepared and remain adaptable. But as I said before, the focus is going to be on approaching this like every other season we have and putting the work in, being consistent with the overall approach, and allowing the results to take shape from that.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What was your reaction to the schedule when you first saw it? Did you cringe? Did you go, eh, we can do that? I mean, did you have an overall emotion? We've never really focused on looking or overanalyzing the schedule. We've got to play the amount of games, and we have to be prepared to do that. So looking at it, dissecting it, we just look at the first game and figure out how we can be best prepared to play on the 25th."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "As the lockout continued, did you and Scott just say, OK, now we've got to adjust this way, we've got to tweak this? Was it a day-to-day adjustment for you guys?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it was a lot of communication. We talked about a lot of different scenarios and tried to take advantage of the preparation time. But as I said before, you have to be comfortable being uncomfortable sometimes. And we're prepared and remain adaptable. But as I said before, the focus is going to be on approaching this like every other season we have and putting the work in, being consistent with the overall approach, and allowing the results to take shape from that."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Have you absorbed the new CBA as relates to the other one? And also, during the lockout, were you at all nervous hearing what the player was doing?"
+      }
+    ],
+    "speakername": "Sam Presti",
+    "ground_truth": "uh first question um the cba issue i can't really comment on it until i'm given clearance to do so so i have to stay away from that and if and when i'm allowed to comment i'll be happy to to talk to you guys about that any questions you have i can say it will be a long absorption process um obviously when that does take take place um in terms of the player um in terms of his i'm sorry in terms of just off season oh um well one thing we know about the player is um you know he he's an active guy he's gonna play um and i've got total confidence in him that the number one priority for him is always to be ready to perform at the highest level and knowing him he wouldn't do anything to jeopardize that",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

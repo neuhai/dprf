@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "um you know august of 2024 have been through uh gains in in post training yeah um and uh this is through better sft rlhf dpo um of the models and the use of you know data sets of increasing uh complexity uh you know going into more and more expert areas and really driving for the performance of the models using high you know quality over quantity so smaller data sets but a very very high"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now you're actually creating effectively data sets that are unique to the explicit purpose that the model maker wants, right? Exactly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so we think about our role now as more of a data foundry than a data annotator. The industry is very, very excited about agents. There's very little data that can train these models of what are the series of actions that a human takes and what is their internal thought process as they go through each of those steps. We actually view one of our most important roles, especially over the next few years, is to lay the groundwork for agents to actually become a possibility in the industry."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm guessing that the biggest opportunity for agents is actually more in the enterprise space and that enterprises are going to need very specific kinds of agents to do the work that they do. So what does that mean for scale in terms of developing your business over onto the enterprise side?"
+      }
+    ],
+    "speakername": "Alexandr Wang",
+    "ground_truth": "Our responsibility is to utilize the exact same infrastructure and data factory that we've built to support these large AGI efforts, to support every enterprise in their own journey, to make use of all of their proprietary data towards building customized, specialized agents for their own businesses. Yeah.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now you're actually creating effectively data sets that are unique to the explicit purpose that the model maker wants, right? Exactly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so we think about our role now as more of a data foundry than a data annotator. The industry is very, very excited about agents. There's very little data that can train these models of what are the series of actions that a human takes and what is their internal thought process as they go through each of those steps. We actually view one of our most important roles, especially over the next few years, is to lay the groundwork for agents to actually become a possibility in the industry."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm guessing that the biggest opportunity for agents is actually more in the enterprise space and that enterprises are going to need very specific kinds of agents to do the work that they do. So what does that mean for scale in terms of developing your business over onto the enterprise side?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Our responsibility is to utilize the exact same infrastructure and data factory that we've built to support these large AGI efforts, to support every enterprise in their own journey, to make use of all of their proprietary data towards building customized, specialized agents for their own businesses. Yeah."
+      }
+    ],
+    "speakername": "Alexandr Wang",
+    "ground_truth": "So, where we see a lot of enterprises struggle today is in the jump from pilot to production. Is your pilot model good enough to actually ship to production? And then if it isn't good enough, if it's good enough, great, deploy it and continue monitoring. And if it isn't good enough, aiding in the process of tuning the model or improving the model with proprietary data or with new data to get to that point of production.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm guessing that the biggest opportunity for agents is actually more in the enterprise space and that enterprises are going to need very specific kinds of agents to do the work that they do. So what does that mean for scale in terms of developing your business over onto the enterprise side?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Our responsibility is to utilize the exact same infrastructure and data factory that we've built to support these large AGI efforts, to support every enterprise in their own journey, to make use of all of their proprietary data towards building customized, specialized agents for their own businesses. Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, where we see a lot of enterprises struggle today is in the jump from pilot to production. Is your pilot model good enough to actually ship to production? And then if it isn't good enough, if it's good enough, great, deploy it and continue monitoring. And if it isn't good enough, aiding in the process of tuning the model or improving the model with proprietary data or with new data to get to that point of production."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "know, one of the topics that you are pretty passionate and talk about is AI safety. There's obviously the ongoing debate between, you know, sort of unleashing through open source. Where do you think that all lands? And maybe talk also about this in the context of sovereign nations and how that plays out and the importance of this in terms of the democratic nations being able to keep our universe more or less the way it is."
+      }
+    ],
+    "speakername": "Alexandr Wang",
+    "ground_truth": "I think over the next few years it will become more and more obvious that these models are powerful and that we need to be thoughtful about what their capabilities are and I think even today we already see some of that with disinformation campaigns powered by AI. If you look through the history of tense geopolitical situations or wars writ large, technology plays an incredibly key role and there's no technology more important today than AI in terms of its ability to fundamentally shape the world.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, where we see a lot of enterprises struggle today is in the jump from pilot to production. Is your pilot model good enough to actually ship to production? And then if it isn't good enough, if it's good enough, great, deploy it and continue monitoring. And if it isn't good enough, aiding in the process of tuning the model or improving the model with proprietary data or with new data to get to that point of production."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "know, one of the topics that you are pretty passionate and talk about is AI safety. There's obviously the ongoing debate between, you know, sort of unleashing through open source. Where do you think that all lands? And maybe talk also about this in the context of sovereign nations and how that plays out and the importance of this in terms of, you know, the democratic nations being able to keep our universe more or less the way it is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think over the next few years it will become more and more obvious that these models are powerful and that we need to be thoughtful about what their capabilities are and I think even today we already see some of that with disinformation campaigns powered by AI. If you look through the history of tense geopolitical situations or wars writ large, technology plays an incredibly key role and there's no technology more important today than AI in terms of its ability to fundamentally shape the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "of how this all plays out. There was always this never-ending conflict between the good guys and the bad guys. Each would reassess and understand the new context under which they were competing with each other, use the latest and greatest tools, and then attempt to out-compete with each other. How realistic is it to think that the bad guys will be prevented from access versus a reality of we just have to be constantly, the good guys have to be just constantly ahead in terms of innovation, technological development, et cetera, et cetera."
+      }
+    ],
+    "speakername": "Alexandr Wang",
+    "ground_truth": "think you're right you know some of that may change now the export controls of high-end chips to certain regions is quite um draconian and and could could start causing more divergence but um to your point i think it's unrealistic to believe that we could ever have a huge gap in capability between um between the grass and bad guys but it's also our",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "know, one of the topics that you are pretty passionate and talk about is AI safety. There's obviously the ongoing debate between, you know, sort of unleashing through open source. Where do you think that all lands? And maybe talk also about this in the context of sovereign nations and how that plays out and the importance of this in terms of, you know, the democratic nations being able to keep our universe more or less the way it is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think over the next few years it will become more and more obvious that these models are powerful and that we need to be thoughtful about what their capabilities are and I think even today we already see some of that with disinformation campaigns powered by AI. If you look through the history of tense geopolitical situations or wars writ large, technology plays an incredibly key role and there's no technology more important today than AI in terms of its ability to fundamentally shape the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "of how this all plays out. There was always this never-ending conflict between the good guys and the bad guys. Each would reassess and understand the new context under which they were competing with each other, use the latest and greatest tools, and then attempt to out-compete with each other. How realistic is it to think that the bad guys will be prevented from access versus a reality of we just have to be constantly, the good guys have to be just constantly ahead in terms of innovation, technological development, et cetera, et cetera."
+      },
+      {
+        "speaker": "[target]",
+        "text": "think you're right you know some of that may change now the export controls of high-end chips to certain regions is quite um draconian and and could could start causing more divergence but um to your point i think it's unrealistic to believe that we could ever have a huge gap in capability between um between the grass and bad guys but it's also our"
+      }
+    ],
+    "speakername": "Alexandr Wang",
+    "ground_truth": "responsibility as a nation, I think our country as a nation to figure out how we ensure that lead is as great as possible.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

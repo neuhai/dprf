@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "i hired you because you're a beauty queen there is no network without you i need it absolutely"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Russell, Sienna, Seth and Naomi. Good morning. First of all, I'll say two of you are totally unrecognizable in this role. You, Russell, Seth, I recognize and Naomi, too. But Sienna, you play Elizabeth [target]. You play [target]. A total transformation. What did that do for you as an actor?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you Russell right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "recognized."
+      }
+    ],
+    "speakername": "Roger Ailes",
+    "ground_truth": "Well, it's a lot of fun, actually, because you put all that stuff on. I mean, the difficulty of being in the chair for many hours and sitting still is not really my thing. But once you have that stuff on, it's kind of freeing. You know, you know the makeup's doing a lot of work for you, so you can just relax with it.",
+    "bio": "The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "recognized."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's a lot of fun, actually, because you put all that stuff on. I mean, the difficulty of being in the chair for many hours and sitting still is not really my thing. But once you have that stuff on, it's kind of freeing. You know, you know the makeup's doing a lot of work for you, so you can just relax with it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But you turn in these incredible performances. What did you think the first time you saw yourself as Elizabeth [target]? It's so convincing. It's very strange to look in a mirror and not recognize any part of yourself. I have to say, Sienna, I went back. I was like, no, who's playing what? I really didn't know who it was. Yeah. Yeah, it was fun. I found it really liberating once you were in, like Russell said. Well, [target] was this larger-than-life character. I would say this is a pretty damning portrayal. What did you learn about him? What did you come to know or think or believe about [target] having done this research and gotten into this?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "it was it's so convincing that it's very strange to look in a mirror and not recognize any part i have to say sienna i like went back i was like no who's"
+      }
+    ],
+    "speakername": "Roger Ailes",
+    "ground_truth": "You know [target] through the frame of a major news network, and if you know more than that, you probably know he was an advisor to three presidents. What was surprising and fun for me was to find out that when he was in high school and when he was in college, he was obsessed with Broadway musicals. And between the presidential campaign, which he worked on, and before he worked on another presidential campaign, he was a Broadway producer. And his one minor success was a particular theater production. You know, so that sort of feeds a lot of information into you. The things that he was doing with the network and the way he was changing graphics and grabbing people's attention had a very theatrical perspective. So that was interesting to learn.",
+    "bio": " The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your reply?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You ever read her website? I mean, you want to talk about paranoia? It's, you know, she's got her own gimmick going. Okay. I didn't."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I didn't tell her I enjoyed her on green acres, but I was tempted to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "All right. Segment one, how you did it. I want to get to the launch of the news network in a moment, but first, a series of earlier events. During the first half of the 1990s, the media corporation hired a number of executives to head the network, including Van Gordon Sauter, a former president of a major broadcast network. Twenty years' experience with the broadcast network rising to president. None of those guys, including Van Gordon Sauter, succeeded in doing what you were about to do. How come?"
+      }
+    ],
+    "speakername": "Roger Ailes",
+    "ground_truth": "Well, Van's a very talented guy, but he did grow up in the network system, and cable is, they don't have as many zeros at the end of the budget lines as network, and I think that was part of it. I think at different times, I'm a great admirer of Van Sauter's, and the other guys, I'm not sure what happened because I wasn't here at the time. I was president of a cable news network for a couple of years. When I left politics in the very early 90s, after the 88 campaign, I decided that was the end of politics for me, and I, you know, my mother always thought I couldn't find a job because I told her I was a consultant. But I finally found one, and I went to the cable network, and then I came over here, and the executive asked me if I could...",
+    "bio": " The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Van's a very talented guy, but he did grow up in the network system, and cable is, they don't have as many zeros at the end of the budget lines as network, and I think that was part of it. I think at different times, I'm a great admirer of Van Sauter's, and the other guys, I'm not sure what happened because I wasn't here at the time. I was president of [media company] for a couple of years. When I left politics in the very early 90s, after the 88 campaign, I decided that was the end of politics for me, and I, you know, my mother always thought I couldn't find a job because I told her I was a consultant. But I finally found one, and I went to [media company], and then I came over here, and [executive] asked me if I could..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can I ask you there, [target], so let me, another way of putting a similar question is you at [media company] running their cable operations, [media company], you didn't do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "what you would then do at [media corporation]. There's this, the meeting of [media corporation] with [target] seems to have been the mixture."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What was going on? I think part of it is the meeting of [executive] and [target]. [executive] is a great..."
+      }
+    ],
+    "speakername": "Roger Ailes",
+    "ground_truth": "entrepreneur probably the greatest media entrepreneur in history certainly a guy who has had tremendous success in his own life and he prefers his executives to be sort of intrapreneurs he he gives you the time he listens to the idea he funds it and as long as you can deliver it he expects you to do your job so it isn't quite the same way as it was working at [media company] when i worked at [media company] it's much more corporate there were many more meetings there were a lot of cya meetings where everybody had to get their fingerprints on something so if you failed everybody was guilty here it's very clear [executive] gives you the budget gives you the time and says get it done if you don't then of course you fail but",
+    "bio": " The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I operate better in that kind of a climate, and I respect, I think that's the reason [Name]"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's had so many successes. Okay. You launched [Network] in 1996. At the time, [Network] had access to 17 million homes, [Network2] to 22 million homes, [Network3] to 70 million homes. And yet from that beginning, we go to the night of the special election in [State] here in January when [Network] attracted 6 million viewers, more than three times as many as [Network3] and [Network2] put together. That's the viewership. Here's the money from the [Publication]. Quote, [Network] is believed to make more money than [Network3], [Network2], and the evening newscasts of [Network4], [Network5], and [Network6] combined. Close quote. How did you do it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think that [Network] probably is more in touch with the American people. When I traveled around the country, I've probably worked in 35 different states. I've been in television stations in states. I produced the [Show] show back in the 60s, so I had a sense of audience. In fact, we began in that show to use politicians' wives. We filmed in [Politician]'s home. We had his wife [Name] on as a co-host. So I had a sense of what was going to happen in television, that there would be a mixture of entertainment, information, politics. It's all one now, and if they looked at [Name], they wanted their politicians to be as comfortable as he was telling a story. And [Name], of course, changed everything because he was so handsome and articulate. And so I think that the times changed. I was there. I saw what was going on. And I brought all of those to [Network], including the ability just to talk in a conversational manner. In the old days, it used to be, I'm the anchorman, I know the news, you don't, and please be quiet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[Name], [Network] is opinionated and conservative, and its news is delivered by people who are often opinionated and conservative. And this is the big take on [Network]. You did it by recognizing that, according to [Organization], 40% of Americans call themselves conservative. They were being underserved in television. And that's the opportunity [target] spotted. It's politics."
+      }
+    ],
+    "speakername": "Roger Ailes",
+    "ground_truth": "Well, with all of my respect for [Name], everybody's a conservative to [Name] because he's a liberal. And of course, if you look at other networks and say, well, don't you have too many conservatives on? I say, yes, compared to none on the other channels, we look very much like that. But we have as many liberals as we have conservatives on the [Network] channel. What I recognized was the American people didn't want to be told what to think about the information they were receiving. So we came up with, we report, you decide, fair and balanced. We've never told anybody what not to say. We've never not booked any liberal on the network that wants to be on. We just want a dialogue. And we believe the ideas and the issues will sort them.",
+    "bio": " The speaker's MBTI type is ESTJ"
+  }
+]

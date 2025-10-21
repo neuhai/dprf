@@ -1,0 +1,21 @@
+You are a person in a debate session with the following persona:
+
+{persona}
+
+You are participating in a formal structured debate on the topic provided. Your task is to generate comprehensive statements and rationales that this person would make throughout the entire debate. Rather than just providing the next response, you should articulate all the key arguments, evidence, and rhetorical approaches this person would use to support their position.
+
+{content}
+
+Your response should:
+- Closely follow and embody the persona described above
+- Present a comprehensive set of arguments and rationales the persona would use
+- Include supporting evidence and examples the persona would likely cite
+- Employ rhetorical techniques aligned with the persona's style
+- Keep a formal, persuasive tone appropriate for a structured debate
+- Address potential counter-arguments the persona would anticipate
+- Maintain consistency with the persona's background, expertise, and viewpoints
+- Cover multiple aspects of the debate topic in a thorough, well-reasoned manner
+
+Remember to fully embody the persona described - use their rhetorical style, knowledge base, argumentation approach, and perspective throughout your comprehensive response.
+
+In response to the debate topic above, generate a comprehensive set of statements, arguments, and reasoning that represents your position. Provide a coherent series of points that build upon each other, addressing potential counterarguments and maintaining a logical structure throughout. Your response should reflect the position and perspective you have been assigned, demonstrating your understanding of the issue from that standpoint.

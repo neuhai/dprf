@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, it's a reasonable question. Thank you for asking it. And thank you all for the conversation we're going to have tonight. I promise you honest answers about anything you ask. The difference laid with the type of cases that they were and the place in which they were. The challenge all along of the Clinton investigation, which was not about her use of a server, it was about whether she had mishandled classified information. The challenge all along was going to be, if it ends with no charges, how do we explain that in a way that the American people believe it was done in a credible way? The Obama Justice Department giving a clean bill of health to the Democratic nominee for president during the election year, how do we do that, end that, in a way that maintains faith and confidence, which is the bedrock of the FBI? And so that was something I struggled with, I know Loretta Lynch struggled with, Sally Yates struggled with. And so I'll spare you the details of the decisions, but all of those decisions were based on choices to try and achieve a result. Most consistent with our practice, because I disagree with the predicate of your question, and with maintaining public faith and confidence. The difference was it was a criminal case that ended in July. And then you're right, I went up to Congress and in the face of a whole lot of lying by Republicans, defended the work of the Justice Department and the FBI. And so it was done. We had announced publicly that it began back in the fall of 2015. And so as we do in cases of tremendous public interest, we not only announced the closing, but we offered transparency details, which you've done many, many times. The difference was I stepped away from the Attorney General to offer that transparency. And that's a decision I never could have imagined making. And if people want to ask about the whys behind that, I'll get into that. But we were done with that investigation."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now contrast that with the investigation that we began on July 29th, not into the Trump campaign, not into the candidate himself, but into four Americans who had been associated with his campaign in some way or another to try and figure out is there anything to the smoke we smell? Is there anything that would indicate that Americans are helping the Russians? We had just begun that in the end of July, and I actually don't remember a conversation about whether to disclose that publicly for a few reasons. Like what would we say? We've just begun this thing. We don't know if there's anything there, but we have a basis to investigate. It's classified. The hard thing that summer was President Obama's decision. Do I tell the American people about what the Russians are doing? That's right. But that's the difference."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But that's the difference. At the time, I was Pentagon Chief of Staff, so totally lived through that experience the summer of 2016, reading all the intelligence in the president's daily brief, understand that part. And again, when someone in the audience hears you say, it would have been difficult to figure out how to talk about the investigation of the Trump campaign, and they know it was very difficult to talk about the investigation into Hillary Clinton's campaign, the logic is different."
+      }
+    ],
+    "speakername": "James Comey",
+    "ground_truth": "It wasn't, I mean, the Clinton campaign, the investigation that related to Secretary Clinton came to us publicly, the FBI, and even then we refused to talk about it for three months. Finally, in the fall of 2015, we confirmed only that we had an investigation because the whole world knew it already, and then we didn't speak again until it was completed, or we thought it was completed, the nightmare would follow, but we thought it was over in July of 2016. The counterintelligence investigation literally just begun, didn't know whether we had anything, and didn't, the candidate was not the target of the investigation, we didn't have any information that the candidate was involved in an effort like that.",
+    "bio": "James Brien Comey Jr. (born December 14, 1960) is an American lawyer who was the 7th Director of the Federal Bureau of Investigation (FBI) from 2013 until his dismissal in May 2017. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I had obviously concerns about that earlier, having watched him on the campaign, that he is someone for whom the truth is not a high value."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The story of how [target] came to have that meeting with [masked] begins in an unassuming house in [masked], a suburb of [masked]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How old are you here? I think I'm about six in that picture. And I was rocking the bangs. Wasn't working in the 60s either. But my mom cut our hair, and that's the way she cut it. Describe what life was like in this house. It was fun. My father always made it his business to be here for dinner. And you'd have to talk about what happened to you during the day."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But in that house, an armed intruder broke in, terrifying 16-year-old [target] and his younger brother. You say it changed your life."
+      }
+    ],
+    "speakername": "James Comey",
+    "ground_truth": "How? It gave me a tremendous sense of urgency and the preciousness of life. It also gave me great, great empathy for the victims of crime. The boy would grow up to be",
+    "bio": "The subject (born December 14, 1960) is an American lawyer who was the 7th Director of a federal law enforcement agency from 2013 until his dismissal in May 2017. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How old are you here? I think I'm about six in that picture. And I was rocking the bangs. Wasn't working in the 60s either. But my mom cut our hair, and that's the way she cut it. Describe what life was like in this house. It was fun. My father always made it his business to be here for dinner. And you'd have to talk about what happened to you during the day."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But in that house, an armed intruder broke in, terrifying 16-year-old [target] and his younger brother. You say it changed your life."
+      },
+      {
+        "speaker": "[target]",
+        "text": "How? It gave me a tremendous sense of urgency and the preciousness of life. It also gave me great, great empathy for the victims of crime. The boy would grow up to be"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "to enter the elite of law enforcement. Senior Prosecutor, Deputy Attorney General under the administration, and finally, Director of the federal investigative agency. It was the job of a lifetime. Then came the 2016 election, where his decisions have been blamed for changing the course of history. Your critics say this is where your ego got the best of you. This was your original sin. Hi everyone, George Stephanopoulos here. Thanks for checking out the news network YouTube channel. If you'd like to get more videos, show highlights, and watch live event coverage, click on the right over here to subscribe to our channel, and don't forget to download the news app for breaking news alerts. Thanks for watching."
+      }
+    ],
+    "speakername": "James Comey",
+    "ground_truth": "That's really important, but you need the capability. And so it'll be up to Congress and the executive branch to figure out are there ways to change and improve the surveillance program without losing the capability.",
+    "bio": "The target (born December 14, 1960) is an American lawyer who was the 7th Director of a federal investigative agency from 2013 until his dismissal in May 2017. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Probably the last question, because we have a lot of good questions from the audience here. It's always important to look close to home here. And recently here at this university, there was some law enforcement action against senior faculty who were, I'll use my term, inappropriately cooperating with a foreign government in research. That on top of the fact that I am positive that foreign intelligence agents, like they do around the country, are trying to steal secrets from this institution from a research perspective, intellectual property perspective. Can you talk about that a little bit as a national security issue? And what should we at this institution learn from the fact that even, you know, distinguished faculty in our own ranks are doing something inappropriate like that? Yeah. Inappropriate. I'm, you see, I'm lawyer enough to know I'm not making any comments. That has anything to do with legality."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't know the particular case, so I can't comment on the case, but I can say in general, foreign adversaries, that specific government being highest among them, want to collect things from our country that they see as in their national interest. A lot of it is traditional espionage. What's the government doing? What are the key data that the government departments are gathering or something? But a fair amount of it, especially when it comes to that specific government, is what we would consider intellectual property, in part because they don't accept our dichotomy between public and private. It's one of the real challenges in our conversations with that government, was we would say, you can't steal for private purposes. They would say, we don't accept your division, because we see a paint formula. As we see an aircraft, it's all in the interests of their republic. And so what do we do? As citizens, we have to just sensitize our academic communities to know this is going on. It's sort of like with my own children. I'm a very depressing parent, because I try to have them know, look, there is darkness in the world. Evil has an ordinary face. It's really a nightmare to be one of my kids."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "With my kids, it's forced listening to public radio on the way to school. And they're like, Daddy, please stop quizzing me on the news."
+      }
+    ],
+    "speakername": "James Comey",
+    "ground_truth": "Okay, well, I'm a little darker than public radio. But here's the challenge. Our academic community is, in a way, like the seven-year-old wandering out. Everyone's a friend, and that's a great thing, in a way, because it's a culture of openness. But what we have to do in law enforcement is simply sensitize the academic community to know everyone's not a friend. And some people wanna collaborate to develop better ideas, better formulas, but some people are working for an adversary to steal your stuff. And so it's easier to describe in the abstract than to say what you should do about it, but just being aware of it is the first step. And it's lumpy across the country. There's some university communities, and even within universities, where people get the presence of the threat more than in other places. Knowing about it can help us get to a healthier place.",
+    "bio": "[target] (born December 14, 1960) is a legal professional who was the 7th Director of a federal law enforcement agency from 2013 until dismissal in May 2017. The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I knew this was a no-win situation. One half of the partisan divide is going to be angry at us no matter what we do. The deputy director looked at me and said, you know you're totally screwed, right? And I smiled and I said, yep, nobody gets out alive. And this may sound strange, that's kind of freeing."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Critics say the fix was in from the start. The head of state says you were writing the conclusion even before you interviewed the candidate. That is just wrong."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Anybody who's actually done investigations knows that if you've been investigating something for almost a year and you don't have a general sense of where it's likely to end up, you should be fired because you're incompetent."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And to those who say you should have brought the candidate before a grand jury?"
+      }
+    ],
+    "speakername": "James Comey",
+    "ground_truth": "We would prefer with a subject of investigation to do an informal interview, lot more flexibility there. They're still required to tell the truth.",
+    "bio": "Born December 14, 1960, is an American lawyer who was the 7th Director of a federal investigative agency from 2013 until his dismissal in May 2017. The speaker's MBTI type is ISFJ"
+  }
+]

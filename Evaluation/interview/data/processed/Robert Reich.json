@@ -1,0 +1,118 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, before we get there, let me say to anybody who's interested, I love this guy. And that what [target] has done, which not enough academics are doing, is actually try to talk about the issues that he's concerned with, with the whole world. I mean, using the media, writing books that people can understand. So, [target], I just want to congratulate you very much."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm a big fan thank you and there are very few politicians around who do the same thing and who lead movements in fact here we are we're in my office we can be we can be frank and you're always nobody but nobody is watching nobody well"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There are a few dozen out there. So here's the question. This is the most regressive stuff I have witnessed in maybe the past 30, 40, possibly 50 years, maybe going back to [former president]. What is going on? I mean, where is the..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "the"
+      }
+    ],
+    "speakername": "Robert Reich",
+    "ground_truth": "coming you got it and that's the right question and here's the very simple answer and actually you've seen occasionally some media reports to this what you are seeing now is [former president] and his friends [politician] uh [politician] implementing beginning to implement the [organization] agenda so it doesn't you would think if you were a politician and you were a politician that if there's overwhelming opposition the polls are incredible nobody wants to see this more opposition to this legislation than there was to the financial sector bailout all right that's how bad it is why are they pushing it because the [organization] have a view along with their other billionaire friends that we should basically end federal support for any and all programs they would they would just as soon get rid of social security medicare medicaid get rid of it and this is the beginning in that direction you hear [politician] say this is the first time we can actually roll back a federal universal health care program that is what it's about and mark my words if they are successful on this one they will go after social security they will go after medicare already efforts to move to a privatization of the federal agencies privatization of the postal service you name the federal agency they want to eliminate it or privatize it or make substantial cutbacks that's",
+    "bio": "[target] (born June 24, 1946) is an American economist, professor, author, and political commentator. He served in the administrations of multiple presidents. He was Secretary of Labor from 1993 to 1997. He was a member of a president's economic transition advisory board. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "this is what their agenda is their agenda is to give enormous tax breaks to the people who need it the lease and to create a society where people have no support in terms of programs that will protect them and that's what these guys"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But what I was getting at was a slightly different question, which is you've got in the highest reaches of corporate America and even some financial institutions, you've got a realization that if we continue to go down this road, you're not going to have enough purchasing power in the country to keep the economy going. You're asking for social upheaval and unrest. A former president is part of what you get when so many people are on a downward escalator. And there are, and I've talked to them, CEOs, corporate members of a major party who say, this is bad. I am opposed to this. Why don't those voices have the same kind of power that certain wealthy individuals have?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I've not been hearing those words. They may tell you in the confines of your office or as a friend. I don't hear them talking about it publicly. And that is one of the tragic moments because I'm not here to tell you that every member of that party in Congress or every CEO is some terrible, awful human being. I don't think they are. But I think they know where their bread is butted and they may tell you one thing quietly and maybe they believe that. But certainly there has not been a willingness for them to stand up and say, hey, this is not good. Maybe good for short term profits. It's not good long term for the economy."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But how about even the other major party or even its members? I don't want to put you into a difficult, awkward spot, but you've got a lot of senators from that party who voted in favor of that military authorization. What's going on with them? I would suggest."
+      }
+    ],
+    "speakername": "Robert Reich",
+    "ground_truth": "You bring the mirror and ask him that question But what I will tell you is what is astounding to me is there has been very very little public debate All right, you know the world has changed Since the decline of a former superpower, right? Is it a safe world? God knows that it is not How do we deal with international terrorism? How do you deal with an East Asian nation?",
+    "bio": "The subject (born June 24, 1946) is an American economist, professor, author, and political commentator. They served in multiple presidential administrations. They were Secretary of Labor from 1993 to 1997. They were a member of a presidential economic transition advisory board. The speaker's MBTI type is INFJ",
+    "id": "0"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But what I was getting at was a slightly different question, which is you've got in the highest reaches of corporate America and even some Wall Street firms, you've got a realization that if we continue to go down this road, you're not going to have enough purchasing power in the country to keep the economy going. You're asking for social upheaval and unrest. [Political Figure] is part of what you get when so many people are on a downward escalator. And there are, and I've talked to them, CEOs, corporate Republicans who say, this is bad. I am opposed to this. Why don't those voices have the same kind of power that the [Wealthy Family] brothers have?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I've not been hearing those words. They may tell you in the confines of your office or as a friend. I don't hear them talking about it publicly. And that is one of the tragic moments because I'm not here to tell you that every Republican in Congress or every CEO is some terrible, awful human being. I don't think they are. But I think they know where their bread is butted and they may tell you one thing quietly and maybe they believe that. But certainly there has not been a willingness for them to stand up and say, hey, this is not good. Maybe good for short term profits. It's not good long term for the economy."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But how about even the Democratic Party or even the Democrats? I don't want to put you into a difficult, awkward spot, but you've got a lot of Democratic senators who voted in favor of that military authorization. What's going on with them? I would suggest."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You bring the mirror and ask him that question But what I will tell you is what is astounding to me is there has been very very little public debate All right, you know the world has changed Since the decline of the [Former Nation], right? Is it a safe world? God knows that it is not How do we deal with international terrorism? How do you deal with [Asian Nation]?"
+      }
+    ],
+    "speakername": "Robert Reich",
+    "ground_truth": "Etc. Etc. There's a really serious problems, but we are no longer facing a superpower with a massive level of Nuclear weapons and a large standing army the world has changed have we adopted to that? change I think",
+    "bio": "The speaker (born June 24, 1946) is an American economist, professor, author, and political commentator. They served in the administrations of multiple Presidents. They were Secretary of Labor from 1993 to 1997. They were a member of a presidential economic transition advisory board. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Etc. Etc. There's a really serious problems, but we are no longer facing a superpower with a massive level of Nuclear weapons and a large standing army the world has changed have we adopted to that? change I think"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Perhaps not."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, what I try to do with the 2.3 million followers we have on social media, thank you, by the way, for continuing to watch what we do here, is offer some upbeat assessment. That is, what can people out there do? It looks bleak. We have the worst president in certainly my memory, as long as I've been a sentient human being. I thought previous presidents were the worst, but this is beyond belief. And we have an administration that is doing the opposite of what..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you're supposed to do when you faithfully execute the law they are they every cabinet member I know of is actually repealing or trying not to execute the law what can people out there do as as just day-to-day where you want change we don't wanna we don't want this country to go down the toilet"
+      }
+    ],
+    "speakername": "Robert Reich",
+    "ground_truth": "begin by saying obviously I share your exact concerns about the current administration but I will tell you something else which is really quite good news is that on every major issue facing this country the American people increasingly are moving in a progressive direction and that cannot be overshadowed by the disastrous administration I'm giving examples of you and I here five six years ago and I said if I'm gonna introduce legislation raised the minimum wage and I know a secretary of labor you were involved very heavily tonight if I I'm gonna introduce legislation to raise the minimum wage from seven and a quarter to 15 bucks an hour you would have said that is whoa that is really off the wall right I mean why don't you start a little bit more modestly today here on the coastal region all over this country more and more people understand and legislation is being passed to raise the minimum wage to 15 bucks an hour. My bill in the legislative body now has 31 co-sponsors. How's that? And that is because working people have been out on the streets, people from various fast food chains, and they're saying, you know what? We can't make it on eight, nine bucks an hour. We need a living wage. Real progress in that area. Give me another.",
+    "bio": "The target (born June 24, 1946) is an American economist, professor, author, and political commentator. They served in multiple presidential administrations. They were Secretary of Labor from 1993 to 1997. They were a member of a presidential economic transition advisory board. The speaker's MBTI type is INFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "begin by saying obviously I share your exact concerns about the current administration but I will tell you something else which is really quite good news is that on every major issue facing this country the American people increasingly are moving in a progressive direction and that cannot be overshadowed by the disastrous administration I'm giving examples of you and I here five six years ago and I said Bob I'm gonna introduce legislation raised the minimum wage and I know a secretary of labor you were involved very heavily tonight if I I'm gonna introduce legislation to raise the minimum wage from seven and a quarter to 15 bucks an hour you would have said Bernie that is whoa that is really off the wall right I mean why don't you start a little bit more modestly today here on the coast all over this country more and more people understand and legislation is being passed to raise the minimum wage to 15 bucks an hour. My bill in the Senate now has 31 co-sponsors. How's that? And that is because working people have been out on the streets, people from fast food restaurants, and they're saying, you know what? We can't make it on eight, nine bucks an hour. We need a living wage. Real progress in that area. Give me another."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Medicare for all bill. I, you know, if I credit you, your campaign and what you've done."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Medicare for All was a pipe dream, you know, just a few years ago. Before you ran for the nomination, everybody, you know, people, I talk about it in the capital and people would roll their eyes. They said, yes, we have to get there, but not in this generation, not while you're still alive. And you almost single-handedly made that a possibility. And then you introduced legislation and you've got a huge number of co-sponsors. Sixteen co-sponsors. And that, to me, is about social change and political change. That is exactly my point."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's exactly what I'm talking about here."
+      }
+    ],
+    "speakername": "Robert Reich",
+    "ground_truth": "so you may want to be discouraged but the last three public polls that came out in the last week you know what they said majority of the american people want to move toward a medicare for all single-payer program my point again is we are making progress at the grassroots level of moving this country in a progressive direction another area all right you and i have talked about this in the past and i know you are strongly believe that we can create a whole lot of jobs rebuilding our crumbling infrastructure right you and i talked about this a few years ago and i said well a trillion dollars is what i think we need well a lot of people in the congress was saying that's too much maybe 400 billion right now that is the position of the democratic party one trillion dollars we can create over 13 million decent paying jobs criminal justice reform immigration reform we are making real progress among the american people in moving this country in the direction of saying we need a government that represents all of us and not just the one percent so i am not pessimistic i'm not pessimistic obviously the disaster in the government building is something that we have got to fight every single day but we cannot just fight him and his outrageous reactionary agenda we need a progressive agenda to bring people into the system working people young people a vision for where this country can go so that is the two-pronged approach we need fight them every step of the way no we're not going to throw 800 000 young people out of this country because they weren't born here no we're not going to support your idea and we're not going to support your idea and we're not going to support your idea that climate change is a hoax we're going to fight you tooth and nail but on the other hand we need a progressive agenda",
+    "bio": "The speaker (born June 24, 1946) is an American economist, professor, author, and political commentator. They served in the administrations of multiple presidents. They were Secretary of Labor from 1993 to 1997. They were a member of a presidential economic transition advisory board. The speaker's MBTI type is INFJ"
+  }
+]

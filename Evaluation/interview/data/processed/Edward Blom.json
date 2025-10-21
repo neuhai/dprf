@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, I'm fine, thank you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now you've definitely done a lot in your past with the media on camera but you've never sung on a stage like this before. How are you feeling after you've done the rehearsals?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Tired but very happy. Before I should enter the stage it was really jelly in my legs."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So this is probably one of the most nervous things you've done?"
+      }
+    ],
+    "speakername": "Edward Blom",
+    "ground_truth": "Yes, as a young student in a foreign country I once fenced a mensur and that's, you're fencing with a, you could get big, what do you call it, big wounds in your head. That was even worse. Before that I was even more nervous, which is the second worst thing.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Tired but very happy. Before I should enter the stage it was really jelly in my legs."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So this is probably one of the most nervous things you've done?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, as a young student in a foreign country I once fenced a mensur and that's, you're fencing with a, you could get big, what do you call it, big wounds in your head. That was even worse. Before that I was even more nervous, which is the second worst thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now you hurt the audience and I'm sure you've seen that you've your clips have gotten a lot of views online So you're definitely a favorite of the country does that make you feel extra pressure to perform tomorrow night?"
+      }
+    ],
+    "speakername": "Edward Blom",
+    "ground_truth": "No, actually, it's not so important for me if I win or if I lose, because I'm not so used to this. The important thing is that I manage to have all the lyrics correct, the melody correct, doing the things correct, and if I do a correct performance and be happy and people like it, then I'm happy, even if I should be the last from the point, because I'm not professional. All the others are professional. I do it as a funny thing, and I'm happy to be here, and I'm happy if I could survive.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, as a young student in a foreign country I once fenced a mensur and that's, you're fencing with a, you could get big, what do you call it, big wounds in your head. That was even worse. Before that I was even more nervous, which is the second worst thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now you hurt the audience and I'm sure you've seen that you've your clips have gotten a lot of views online So you're definitely a favorite of this country's does that make you feel extra pressure to perform tomorrow night?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, actually, it's not so important for me if I win or if I lose, because I'm not so used to this. The important thing is that I manage to have all the lyrics correct, the melody correct, doing the things correct, and if I do a correct performance and be happy and people like it, then I'm happy, even if I should be the last from the point, because I'm not professional. All the others are professional. I do it as a funny thing, and I'm happy to be here, and I'm happy if I could survive."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "but you never know though because You might with this public support win the whole contest might go to Eurovision. Have you thought about that?"
+      }
+    ],
+    "speakername": "Edward Blom",
+    "ground_truth": "I think that then the national broadcasting network, the National Television Committee, would be really shocked. I don't think it's the best way to win the whole Eurovision.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, actually, it's not so important for me if I win or if I lose, because I'm not so used to this. The important thing is that I manage to have all the lyrics correct, the melody correct, doing the things correct, and if I do a correct performance and be happy and people like it, then I'm happy, even if I should be the last from the point, because I'm not professional. All the others are professional. I do it as a funny thing, and I'm happy to be here, and I'm happy if I could survive."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "but you never know though because You might with this public support win the whole contest might go to Eurovision. Have you thought about that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think that then the national broadcasting company, the Television Committee, would be really shocked. I don't think it's the best way to win the whole Eurovision."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, you never know what happens, but we're in [location] now and you know, you know a bit about food and drinks Oh, yes, what should I eat here in [location] or this region before before I go?"
+      }
+    ],
+    "speakername": "Edward Blom",
+    "ground_truth": "The most typical dish from this part of the region is the hackkorv, that's a grey sausage made from lungs, liver and heart, and what you call that in English, grain.",
+    "bio": "The speaker's MBTI type is ENFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think that then the public broadcasting committee would be really shocked. I don't think it's the best way to win the whole song contest."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, you never know what happens, but we're in [location] now and you know, you know a bit about food and drinks Oh, yes, what should I eat here in [location] or this region before before I go?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The most typical dish from this part of the region is the hackkorv, that's a grey sausage made from lungs, liver and heart, and what you call that in English, grain."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "me after liver but it's good though"
+      }
+    ],
+    "speakername": "Edward Blom",
+    "ground_truth": "I think it's nice, but you can't find it in any restaurants, I think. You could find it all in the shops, three different kinds. You could go to the shop and buy it and then bring it to a restaurant and ask them to store it for you.",
+    "bio": "The speaker's MBTI type is ENFP"
+  }
+]

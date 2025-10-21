@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to dive right into this trade war. The justification President [masked] invoked these tariffs under had to do with fentanyl. A national leader said Thursday that customs and border protection figures show seizures of fentanyl on the border have dropped over the past year. She claimed they plummeted 75 percent in the past six months. Doesn't that show the existing system is working?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We've seen incredible progress as far as what we've been able to stop at the border since President [masked] has taken office, and I think that progress can be built on. These partnerships that we have in going after traffickers, cartels, the drug trade and also human trafficking can be even stronger and built on in the future. That's one of the things we've been asking for in specific to the government is how can we work better together to make sure we not only have the enforcement mission at the border, but south of the border and make sure we're going after these cartels. You've seen the president name them as terrorist organizations, and a neighboring country just recently is starting to allow us to access some of their criminal background histories that we need in order to know who's coming across our border and what they're bringing. So because of his strong stance on tariffs, we're seeing them wanting to be better partners with us to keep our people safe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So a national leader said it's totally false to claim they're unwilling to fight fentanyl. You just indicated they're willing to do more here. He pointed to CBP data that showed a 97% drop in fentanyl seizures from January compared to December, a near zero low, he said."
+      },
+      {
+        "speaker": "[target]",
+        "text": "data accurate? The data is getting better and I would say in the conversations that I've had this week with officials, they were hoping to avoid the tariffs and had a lot of conversations but not a lot of action. So this is the hope is that the fact that President [masked] has said something and now has enforced consequences, we really are hoping for even better partnerships. We need access to their criminal background system so that we know when someone crosses that border, who they are, why they're in our country and who they may be partnering with. We also need them to work with us on identifying packages, technology investments. They have said they will do that. We just want to see them actually do it. In the past, promises have been made by both neighboring countries that they didn't follow through on. Their naming of a fentanyl czar is important. That's great. Now let's see really what happens. President [masked]'s been strong and I think that's why you've seen the data going our direction. But boy, every day people in this country are dying."
+      }
+    ],
+    "speakername": "Kristi Noem",
+    "ground_truth": "of overdoses and I don't want any more families to have to deal with that tragedy if we can be if it can be avoided and we can have a stronger relationship.",
+    "bio": "The speaker is an American politician serving as the governor of a midwestern state since 2019. A member of the Republican Party, they served as a U.S. Representative for their state's congressional district from 2011 to 2019 and as a member of the state House of Representatives from 2007 to 2011. They were elected governor in 2018 and are the state's first female governor. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So the neighboring country's prime minister said it's totally false to claim they're unwilling to fight fentanyl. You just indicated they're willing to do more here. He pointed to CBP data that showed a 97% drop in fentanyl seizures from January compared to December, a near zero low, he said."
+      },
+      {
+        "speaker": "[target]",
+        "text": "data accurate? The data is getting better and I would say in the conversations that I've had this week with officials from the neighboring country, they were hoping to avoid the tariffs and had a lot of conversations but not a lot of action. So this is the hope is that the fact that the President has said something and now has enforced consequences, we really are hoping for even better partnerships. We need access to their criminal background system so that we know when someone crosses that northern border, who they are, why they're in our country and who they may be partnering with. We also need them to work with us on identifying packages, technology investments. They have said they will do that. We just want to see them actually do it. In the past, promises have been made by both countries that they didn't follow through on. Their naming of a fentanyl czar is important. That's great. Now let's see really what happens. The President's been strong and I think that's why you've seen the data going our direction. But boy, every day people in this country are dying."
+      },
+      {
+        "speaker": "[target]",
+        "text": "of overdoses and I don't want any more families to have to deal with that tragedy if we can be if it can be avoided and we can have a stronger relationship."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So you just gave specific examples of what the neighboring countries can do, presumably to avoid the tariffs that are now being pushed off till April 2nd. The Commerce Secretary said in another network, if fentanyl ends, I think these will come off. But if fentanyl does not end or he's uncertain about it, meaning the president, they will stay on until he's comfortable. Is it that general or are these very specific things that you can kind of go through and check to avoid these tariffs?"
+      }
+    ],
+    "speakername": "Kristi Noem",
+    "ground_truth": "Yeah, I've had very specific conversations with officials from both neighboring countries. So they know what they can do to help avoid tariffs in the future and what we're expecting of them. If they do it, we shall see. We all recognize that each one of these leaders has political environments in their home countries as well. But the President means business. And he meant it when he ran to be president again. And since he's taken office, that he will put the country first. And every day in this country, we have seen over the last several years, violence and unsafe streets and cities and people lose their children and grandchildren. And he's taking action to make sure that we're cleaning up the mess that the previous administration left behind and that we have a much safer country and where citizens can look forward to the future.",
+    "bio": "Born November 30, 1971, the target is a politician serving as the 33rd and current governor of a midwest state since January 5, 2019. A member of the Republican Party, they served as the U.S. Representative for their state's at-large congressional district from 2011 to 2019 and a member of the state House of Representatives from 2007 to 2011. The target was elected governor in 2018 and is the state's first female governor. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "of overdoses and I don't want any more families to have to deal with that tragedy if we can be if it can be avoided and we can have a stronger relationship."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So you just gave specific examples of what Canada and Mexico can do, presumably to avoid the tariffs that are now being pushed off till April 2nd. The Commerce Secretary said in another network, if fentanyl ends, I think these will come off. But if fentanyl does not end or he's uncertain about it, meaning the president, they will stay on until he's comfortable. Is it that general or are these very specific things that you can kind of go through and check to avoid these tariffs?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I've had very specific conversations with Canadian officials and Mexican officials on what they can do. So they know what they can do to help avoid tariffs in the future and what we're expecting of them. If they do it, we shall see. We all recognize that each one of these leaders has political environments in their home countries as well. But President Trump means business. And he meant it when he ran to be president of the United States again. And since he's taken office, that he will put America first. And every day in this country, we have seen over the last several years, violence and unsafe streets and cities and people lose their children and grandchildren. And he's taking action to make sure that we're cleaning up the mess that Joe Biden left behind and that we have a much safer country and where Americans can look forward to the future."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So this is not just leverage to get a better free trade deal. This is not just because President Trump truly believes that tariffs are the heart of his economic policy. You're saying this really is about fentanyl?"
+      }
+    ],
+    "speakername": "Kristi Noem",
+    "ground_truth": "It really is about fentanyl. It really is. And I think the president obviously wants a strong economy, obviously wants better trade deals as well. But this is about fentanyl and what we can do to stop the cartels from partnering with foreign officials, laundering money and bringing a poison into our country that is specifically designed to kill the next generation. I think a lot of people don't understand the strategy of these enemies of our nation and what they're utilizing. They are bringing this in not just to make money. They're bringing it in here to kill our citizens. And it's time that we stand up for the people that live here and make sure that we're stopping this war against our children.",
+    "bio": "The speaker (born November 30, 1971) is an American politician serving as the 33rd and current governor of a midwestern state since January 5, 2019. A member of the Republican Party, they served as the U.S. Representative for their state's at-large congressional district from 2011 to 2019 and a member of the state House of Representatives from 2007 to 2011. The speaker was elected governor in 2018 and is their state's first female governor. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I've had very specific conversations with Canadian officials and Mexican officials on what they can do. So they know what they can do to help avoid tariffs in the future and what we're expecting of them. If they do it, we shall see. We all recognize that each one of these leaders has political environments in their home countries as well. But the former president means business. And he meant it when he ran to be president again. And since he's taken office, that he will put this country first. And every day in this country, we have seen over the last several years, violence and unsafe streets and cities and people lose their children and grandchildren. And he's taking action to make sure that we're cleaning up the mess that the current administration left behind and that we have a much safer country and where citizens can look forward to the future."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So this is not just leverage to get a better free trade deal. This is not just because the former president truly believes that tariffs are the heart of his economic policy. You're saying this really is about fentanyl?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It really is about fentanyl. It really is. And I think the president obviously wants a strong economy, obviously wants better trade deals as well. But this is about fentanyl and what we can do to stop the cartels from partnering with foreign officials, laundering money and bringing a poison into our country that is specifically designed to kill the next generation. I think a lot of people don't understand the strategy of these enemies and what they're utilizing. They are bringing this in not just to make money. They're bringing it in here to kill our citizens. And it's time that we stand up for the people that live here and make sure that we're stopping this war against our children."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to ask you, border crossings, they're at a 25-year low. They are. It's fantastic. There are 6,000 military personnel working at the border now. That number could go up to 9,000 by the end of the month. How long do you have to keep them there if the numbers are already dropping like this?"
+      }
+    ],
+    "speakername": "Kristi Noem",
+    "ground_truth": "continue the partnership with the Department of Defense, but also we've got partnerships with Commerce, with the Attorney General's office. You know, we're working every day with the Secretary of State. We'll keep them there until that border is completely secure. And we see all-time record lows of encounters. Our Border Patrol is doing fantastic work, but we're going to keep them there until the whole world gets the message that this isn't the current administration's world anymore. This is the former president's country where we have a border, where we have laws, and it applies equally to everybody. I think that is what is so refreshing, is that we're not picking and choosing winners and losers anymore. Citizens have to live by the law. So do those who come to this country. You have to come here legally or there will be consequences.",
+    "bio": "The speaker (born November 30, 1971) is an American politician serving as the 33rd and current governor of a Midwestern state since January 5, 2019. A member of the Republican Party, they served as the U.S. Representative for their state's at-large congressional district from 2011 to 2019 and a member of the state House of Representatives from 2007 to 2011. They were elected governor in 2018 and are the state's first female governor. The speaker's MBTI type is ESTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It really is about fentanyl. It really is. And I think the president obviously wants a strong economy, obviously wants better trade deals as well. But this is about fentanyl and what we can do to stop the cartels from partnering with foreign officials, laundering money and bringing a poison into our country that is specifically designed to kill the next generation. I think a lot of people don't understand the strategy of these enemies of our country and what they're utilizing. They are bringing this in not just to make money. They're bringing it in here to kill Americans. And it's time that we stand up for the people that live here and make sure that we're stopping this war against our children."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to ask you, border crossings, they're at a 25-year low. They are. It's fantastic. There are 6,000 military personnel working at the border now. That number could go up to 9,000 by the end of the month. How long do you have to keep them there if the numbers are already dropping like this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "continue the partnership with the Department of Defense, but also we've got partnerships with Commerce, with the Attorney General's office. You know, we're working every day with the Secretary of State. We'll keep them there until that border is completely secure. And we see all-time record lows of encounters. Our Border Patrol is doing fantastic work, but we're going to keep them there until the whole world gets the message that this isn't the current administration's world anymore. This is the former president's country where we have a border, where we have laws, and it applies equally to everybody. I think that is what is so refreshing, is that we're not picking and choosing winners and losers anymore. Americans have to live by the law. So do those who come to this country. You have to come here legally or there will be consequences."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "let me ask you about what's happening internally when it comes to excuse me migration the administration has revived this policy of detaining migrant families parents with children in detention centers previous administrations did it the current one did not have you seen these state facilities where children are being held with their parents are you comfortable with it"
+      }
+    ],
+    "speakername": "Kristi Noem",
+    "ground_truth": "We've got detention facilities across the country and they're specific ones that are built specifically for families if they are detained. But remember, everybody has an option. They have an option to be here legally or illegally and they can self-deport as well. We've set up a system and a website where people who are here illegally right now can register and they can choose to go home on their own and keep their families united. Well, the kids do have a choice. If they have parents, they make a choice to keep their families together if they want to or not. If parents make a decision to leave their children behind, then that's a choice that they made as a family. And we need to remember that when Americans break the law and they have consequences or face a situation, they're separated from their families too. I don't believe we should prioritize people from other countries above Americans.",
+    "bio": "The speaker is an American politician serving as the governor of a midwestern state since January 5, 2019. A member of the Republican Party, they served as the U.S. Representative for their state's at-large congressional district from 2011 to 2019 and as a member of the state House of Representatives from 2007 to 2011. They were elected governor in 2018 and are the state's first female governor. The speaker's MBTI type is ESTJ"
+  }
+]

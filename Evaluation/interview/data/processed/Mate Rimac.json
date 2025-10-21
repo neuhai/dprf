@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's proper, it's like..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you you looked at my chairs the idle chat chairs and you'd really tried to channel the"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Authenticity. Yeah, and as Chris Harris said, we did the DNA test. It has lots of DNA on it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "i first heard about you i reckon it was 2008 2000 and something like that and i remember when you had the green vehicle and i got in contact with you because i was i was deeply impressed by what you were trying to achieve and then when i started to come up with the idea of building my own electric race car i thought well this guy already has a pretty good idea of what he's doing he's already set some what do you call it records so i thought and you were really good i remember you you always emailed me back you're always really encouraging little did i realize what would happen three years later five years later ten years later and you can't imagine what will happen in the next 10 years i know well this is the thing about you you're very forward facing aren't you i think you're looking you're always looking ahead i don't know where you get your energy from"
+      }
+    ],
+    "speakername": "Mate Rimac",
+    "ground_truth": "You know, that's something people ask me, like, are you surprised about where the company is now? And I'm like, no. When I started the company, I wanted to do great things. Yeah. And I had a very clear business plan at the beginning. Yeah. And, of course, we are miles away from that. I expected at that time to build many vehicles and maybe do a little bit of stuff for other vehicle companies. Yeah. That has turned around our main businesses doing stuff for other vehicle companies. Yes. And doing very low-volume vehicles. Yeah. But I set out to do this, to build something great. Yeah. And I thought you can achieve it much faster. Of course. Yeah. Of course. With a lot less money. Yeah. With a lot less people. Yeah. You know, I thought I will never have more than 100 employees. Now we have 1,000. So this...",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "just the start you think absolutely I feel like we just about built the foundations of the company like I have this vision for chapter one of the company and I see chapter one closed when we are in our campus which is something amazing check it out"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Such a big, I mean, yeah, that's such a big first chapter that you incorporate the campus idea."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, campus is chapter one. Shipping cars every week around the world from that campus and being the best at what we do, being the highest performance, best electric hypercars and shipping hundreds or thousands of batteries and powertrain systems, truckloads and truckloads of components and systems to major automotive manufacturers. For me, that's chapter one."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And shipping hundreds or thousands of batteries and powertrain systems, truckloads and truckloads of components and systems to major automotive manufacturers."
+      }
+    ],
+    "speakername": "Mate Rimac",
+    "ground_truth": "and then you know we start from there and start chapter two which is going to be something on another scale",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, campus is chapter one. Shipping cars every week around the world from that campus and being the best at what we do, being the highest performance, best electric hypercars and shipping hundreds or thousands of batteries and powertrain systems, truckloads and truckloads of components and systems to major automotive manufacturers that we work with. For me, that's chapter one."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And shipping hundreds or thousands of batteries and powertrain systems, truckloads and truckloads of components and systems to major automotive manufacturers that we work with."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and then you know we start from there and start chapter two which is going to be something on another scale"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you were at school, like when you were a kid, how did you see yourself, what were your skills, what were your interests?"
+      }
+    ],
+    "speakername": "Mate Rimac",
+    "ground_truth": "I was born in a region that was previously part of a former Eastern European country, but is now an independent nation. This nation is currently one of the economically challenged regions in Europe, and I'm from an especially underdeveloped area. There were no proper roads, barely any vehicles. It was primarily agricultural. The development level was comparable to pre-industrial times. Both my parents grew up without basic amenities like indoor plumbing or electricity in their homes. The area was quite underdeveloped.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and then you know we start from there and start chapter two which is going to be something on another scale"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you were at school, like when you were a kid, how did you see yourself, what were your skills, what were your interests?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was born in, at that time it was [region], but in what is today [country]. Today [country] is the poorest country in [region], and where I'm from is the poorest part of [country]. So there were no streets, no cars, basically. It was very agricultural. It's probably like [country] 200 years ago. So both my parents didn't have toilets, running water in their houses at the time. They didn't have electricity. So it was that much backward."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "were no streets no cars basically it was very agricultural it's probably like [country] 200 years ago so wow like my both my parents didn't have toilets running water in their houses at the time they didn't have electricity so it was that much backward gosh"
+      }
+    ],
+    "speakername": "Mate Rimac",
+    "ground_truth": "And I was just crazy about cars since before I could walk or talk. And then the war started there when I was two years old and we emigrated to [country]. And all of a sudden there was cars everywhere. So, you know, I was just walking around and going crazy about all of these cars there. So I don't have any background in the family about cars, but for some reason I was absolutely insane about it. Born with it. I don't know why.",
+    "bio": "The speaker's MBTI type is INTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was born in, at that time it was a Eastern European country, but in what is today a small nation. Today this nation is the poorest country in Europe, and where I'm from is the poorest part of it. So there were no streets, no cars, basically. It was very agricultural. It's probably like a developed country 200 years ago. So both my parents didn't have toilets, running water in their houses at the time. They didn't have electricity. So it was that much backward."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "were no streets no cars basically it was very agricultural it's probably like a developed country 200 years ago so wow like my both my parents didn't have toilets running water in their houses at the time they didn't have electricity so it was that much backward gosh"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I was just crazy about cars since before I could walk or talk. And then the war started there when I was two years old and we emigrated to a Western European country. And all of a sudden there was cars everywhere. So, you know, I was just walking around and going crazy about all of these cars there. So I don't have any background in the family about cars, but for some reason I was absolutely insane about it. Born with it. I don't know why."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "there's something clicked."
+      }
+    ],
+    "speakername": "Mate Rimac",
+    "ground_truth": "Yeah, I think like now looking back, it's just a fascination of the car because it's such a, it's a machine that combines everything humanity knows. Science, art, because of design and much more than design, everything counts in the car. That's the difference between a car and a plane. In a plane you have a trained operator who doesn't care how it looks, how it sounds like when you close the door or the click of the button, it just has to work. As long as it works. Yeah, in the car everything matters. When you walk up to it, how will the lights turn on? When you close the door, what's the clunk of the door closing? The button on the door and the button on the steering wheel have to feel the same and click the same. And the transitions between screens on the, you know, all of this stuff matters. The smells in the car matter, everything. So it's art, it's really art.",
+    "bio": "The speaker's MBTI type is INTJ"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Do you feel sentimental when you pass by this road? This is where you started your career 20 years ago. I started here in 1985."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You've been saying hello to a lot of people."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I know a lot of people here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Rakesh Jhunjhunwala",
+    "ground_truth": "no office here i used to come here with a bag we used to get a ticket to enter the trading area which i you know i could not get the permission so i used to stand outside the area and see trading take place",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I know a lot of people here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "no office here i used to come here with a bag we used to get a ticket to enter the trading area which i you know i could not get the permission so i used to stand outside the area and see trading take place"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Rakesh Jhunjhunwala",
+    "ground_truth": "And that's how I learnt and I remember how I struggled, how I raised money, it's a moment of great happiness. There was a food vendor here.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And that's how I learnt and I remember how I struggled, how I raised money, it's a moment of great happiness. There was a street food vendor here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Huh."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right then we were at the garden earlier and we used to eat street snacks."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'll"
+      }
+    ],
+    "speakername": "Rakesh Jhunjhunwala",
+    "ground_truth": "It was a lovely celebration for me but you know we had a bomb blast in the [financial exchange] and I was in the trading floor on the day of the blast and the poor street food vendor died here. We had 12 exits from the trading floor and there was such panic after the bomb blast and I kept shouting because I was afraid of a stampede. Don't worry if you die, we'll die together. Don't try to save only yourself. And I saw the viewing gallery in the [financial exchange] trading floor and the glass broke off and a person's head got cut in the trading floor. Very vivid and tragic memories of that day but this street, when I come here it really reminds me how I used to come here.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right then we were at the garden earlier and we used to eat local snacks."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'll"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was a lovely celebration for me but you know we had a bomb blast in the [financial center] and I was in the trading floor on the day of the blast and the poor food vendor died here. We had 12 exits from the trading floor and there was such panic after the bomb blast and I kept shouting because I was afraid of a stampede. Don't worry if you die, we'll die together. Don't try to save only yourself. And I saw the viewing gallery in the trading floor and the glass broke off and a person's head got cut in the ring. Very vivid and tragic memories of that day but this street, when I come here it really reminds me how I used to come here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Everybody saw how [city], how the stock exchange was back on its feet so quickly after the blast. Now, is there something about making money, about trading, about business that is linked to the survival instinct, you think?"
+      }
+    ],
+    "speakername": "Rakesh Jhunjhunwala",
+    "ground_truth": "You know, training always keeps you on your feet. It makes you alert. So that's one of the reasons I like to train.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "They are the best mechanism to build societies, right? That I personally feel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You're philosophical about what you do, isn't it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I didn't want to make money."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and borrowed knowledge fair enough [target] but your breakout moment if I recall correctly came in 1989 with a significant budget announcement that was the first act in your career that bought you both fame and fortune am I right"
+      }
+    ],
+    "speakername": "Rakesh Jhunjhunwala",
+    "ground_truth": "Yeah, it did. Surely it did. Over a period of four or five years, not only the budget, right up to 1993, we made a lot of money.",
+    "bio": "The speaker's MBTI type is ENTJ"
+  }
+]

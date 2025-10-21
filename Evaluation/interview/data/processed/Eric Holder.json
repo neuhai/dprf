@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "In connection with the investigation, they have been, I think, extremely aggressive. They've been cooperative with us, and I think we have been satisfied with the work that they have done. We want to make sure that that kind of cooperation continues to the extent that it does not. We will, as Secretary Clinton indicated, take the appropriate steps. But as of now, with regard to Shahzad, I think we're satisfied with the level of cooperation we have received."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did the Pakistani government know about Shahzad before this happened? And did they tell the U.S. government at all anything about that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We don't have any indication that the Pakistani government was aware of his plans or the attack that was planned by the Pakistani Taliban. We don't have any indication of that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "OK. Pakistani Taliban leader Hakeemullah Massoud of the Pakistani Taliban appeared in a video last month saying the time is very near when our fedayeen, our soldiers, will attack the American states in the major cities. At the time that he issued that warning, U.S. policymakers didn't think the Pakistani Taliban had the ability to reach into the United States. They were obviously wrong."
+      }
+    ],
+    "speakername": "Eric Holder",
+    "ground_truth": "Well, I'm not sure that we didn't think they had that ability. We didn't think that necessarily was their aim. We certainly have seen with the Shahzad incident that they have not only the aim but the capability of doing that. And that's why they have taken on, I think, a new significance in our anti-terror fight.",
+    "bio": "Born January 21, 1951, the speaker is an American lawyer who served as the 82nd Attorney General from 2009 to 2015. Serving in the administration of a former president, they were the first African American to hold the position of Attorney General (in both a confirmed and acting position). The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We don't have any indication that the foreign government was aware of his plans or the attack that was planned by the militant group. We don't have any indication of that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "OK. Militant group leader of the militant organization appeared in a video last month saying the time is very near when our operatives, our soldiers, will attack this country in the major cities. At the time that he issued that warning, policymakers didn't think the militant group had the ability to reach into this country. They were obviously wrong."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm not sure that we didn't think they had that ability. We didn't think that necessarily was their aim. We certainly have seen with the incident that they have not only the aim but the capability of doing that. And that's why they have taken on, I think, a new significance in our security fight."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The suspect was on a government department watch list since the late 1990s for bringing large sums of cash into this country. He was taken off that watch list. Did the government drop the ball?"
+      }
+    ],
+    "speakername": "Eric Holder",
+    "ground_truth": "No, I don't think so. I think we have done a good job in monitoring those people who we need to identify as potential threats to the government. And I think one has to understand that in connection with the resolution of this plot, national law enforcement, I think, was very successful.",
+    "bio": "The subject (born January 21, 1951) is an American lawyer who served as a senior government official from 2009 to 2015. The subject, serving in the presidential administration, was the first African American to hold this senior position (in both a confirmed and acting position). The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm not sure that we didn't think they had that ability. We didn't think that necessarily was their aim. We certainly have seen with the Shahzad incident that they have not only the aim but the capability of doing that. And that's why they have taken on, I think, a new significance in our anti-terror fight."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Shehzad was on a [government agency] watch list since the late 1990s for bringing large sums of cash into this country. He was taken off that watch list. Did the [national] government drop the ball?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I don't think so. I think we have done a good job in monitoring those people who we need to identify as potential threats to the government. And I think one has to understand that in connection with the resolution of this plot, [national] law enforcement, I think, was very successful."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "More than 200,000 people from the [country] traveled to [foreign country] last year. How on earth do you keep track of which ones intend to do us harm?"
+      }
+    ],
+    "speakername": "Eric Holder",
+    "ground_truth": "This is a difficult job. We have to try to use the various intelligence sources that we have, try to look for telltale signs for who we should be concerned about. The vast majority of people who go to [foreign country] and come from [foreign country] to the [country] are well-intentioned. They have relatives. They have cultural ties to both countries. So we have to really try to focus and make sure that our attention is directed at those people who would do our nation harm.",
+    "bio": "The speaker, born January 21, 1951, is an [nationality] lawyer who served as the 82nd [government position] from 2009 to 2015. Serving in the administration of President [name], they were the first African American to hold the position of [government position] (in both a confirmed and acting position). The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I don't think so. I think we have done a good job in monitoring those people who we need to identify as potential threats to the government. And I think one has to understand that in connection with the resolution of this plot, American law enforcement, I think, was very successful."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "More than 200,000 people from the U.S. traveled to [country] last year. How on earth do you keep track of which ones intend to do us harm?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is a difficult job. We have to try to use the various intelligence sources that we have, try to look for telltale signs for who we should be concerned about. The vast majority of people who go to [country] and come from [country] to the United States are well-intentioned. They have relatives. They have cultural ties to both countries. So we have to really try to focus and make sure that our attention is directed at those people who would do our nation harm."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There have been reports that others arrested this year in terrorist plots in the United States had traveled to [country]. Are there any ties with [person]?"
+      }
+    ],
+    "speakername": "Eric Holder",
+    "ground_truth": "Well, the investigation is ongoing, and we're looking at a variety of things to try to make sure that we hold everybody accountable who was responsible for this attempted attack. I think the investigation is proceeding at a good pace. We have developed, I think, a good amount of information in a relatively short period of time, but we will be continuing to work on it.",
+    "bio": "A lawyer who served as the 82nd Attorney General of the United States from 2009 to 2015. Serving in the administration of a former president, they were the first African American to hold the position of U.S. Attorney General (in both a confirmed and acting position). The speaker's MBTI type is ISFJ"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This is a difficult job. We have to try to use the various intelligence sources that we have, try to look for telltale signs for who we should be concerned about. The vast majority of people who go to [country] and come from [country] to the United States are well-intentioned. They have relatives. They have cultural ties to both countries. So we have to really try to focus and make sure that our attention is directed at those people who would do our nation harm."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There have been reports that others arrested this year in terrorist plots in the United States had traveled to [country]. Are there any ties with [person]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the investigation is ongoing, and we're looking at a variety of things to try to make sure that we hold everybody accountable who was responsible for this attempted attack. I think the investigation is proceeding at a good pace. We have developed, I think, a good amount of information in a relatively short period of time, but we will be continuing to work on it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There was a time when the federal agency and law enforcement lost track of [person] after the attempted incident before he got on the plane. What happened?"
+      }
+    ],
+    "speakername": "Eric Holder",
+    "ground_truth": "Well, we lost contact with him for just a bit of time, but I think what people have to understand is that we had a layered approach so that at the end of the day, I think we were always confident that he would be picked up, and the question was only where he would be picked up and when he would be picked up. A surveillance was conducted, but we wanted to have him at a fairly good distance so that we could observe him and see if he would make contact with other people who were connected to the plot. Contact was lost for a relatively short period of time. How long? An hour? Oh, I don't know about an hour, so maybe something along those lines, but what was key and what ultimately proved to be successful was this layered approach. He was caught before he was able to leave the country.",
+    "bio": "The speaker served as a senior government official from 2009 to 2015. They served in a presidential administration and was the first person of their background to hold their position. The speaker's MBTI type is ISFJ"
+  }
+]

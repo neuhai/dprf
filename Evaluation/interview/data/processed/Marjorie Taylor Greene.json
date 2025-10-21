@@ -1,0 +1,117 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "[country]! [initials]!"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Hey, Congresswoman, quick question about what you're excited about today in [state] and what the foreign president's chances are here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "My goodness. Well, you can see by this crowd the president is going to blow it away on Saturday And I'm I'm excited to be here with all of these folks They know what I know that the president was the greatest president of our lifetime. We had four great years with the president Are you uh, are you bring them back? We need four more years"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Are you a vice presidential possibility?"
+      }
+    ],
+    "speakername": "Marjorie Taylor Greene",
+    "ground_truth": "That's up to the president. He'll pick that. But I'm interested in seeing [state] turn out big for the president and beating neocon [opponent]. We're gonna beat [opponent], right? Yeah! Woo! Exactly, yep.",
+    "bio": "[target] (born May 27, 1974) also known by their initials, is an American politician and businesswoman, serving as a U.S. representative for [state]'s 14th congressional district. A member of the Republican Party, they were elected to Congress in November 2020 and sworn into office on January 3, 2021.\nThey were one of the 139 representatives who challenged the results of the 2020 U.S. presidential election in Congress on January 7, 2021, the day after the storming of the [government building]. They have voiced support for various conspiracy theories, including false flag shootings as a means for Congress to legislate for gun control. Their social media account has expressed support for executing prominent opposition politicians. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My goodness. Well, you can see by this crowd the candidate is going to blow it away on Saturday. And I'm excited to be here with all of these folks. They know what I know that the candidate was the greatest president of our lifetime. We had four great years with him. Are you bringing them back? We need four more years"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Are you a vice presidential possibility?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's up to the candidate. He'll pick that. But I'm interested in seeing the state turn out big for him and beating the opposing candidate. We're gonna beat her, right? Yeah! Woo! Exactly, yep."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you you've identified as a christian nationalist there's a lot of talk about christian nationalism now do you feel like that's something that they're going to be making a big part of this campaign"
+      }
+    ],
+    "speakername": "Marjorie Taylor Greene",
+    "ground_truth": "Are you aware that the historical leaders were Christians and nationalists? I mean, I don't know why you think that's such a bad thing. Of course I'm a proud Christian, and of course I love my country.",
+    "bio": "[target] (born May 27, 1974) also known by initials, is an American politician and businesswoman, serving as a U.S. representative for a congressional district. A member of the political party, [target] was elected to Congress in November 2020 and sworn into office on January 3, 2021.\n[target] was one of the 139 representatives who challenged the results of the 2020 U.S. presidential election in Congress on January 7, 2021, the day after the incident at the government building. [target] has voiced support for various controversial theories, including conspiracy theories about government operations and political figures. The representative's social media account has expressed controversial views about opposing political figures. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One of the ones that we hear about over and over and over again is inflation. People are worried about it. If you're sent back to Congress, what will you do to stop inflation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we have to start with the core principle of what causes inflation, which has been the massive amount of government spending. I'm one of those that's critical of not only Democrats, but Republicans as well. And Congress has been spending too much money, not just for a few years, but actually for decades. And I'm a fiscal conservative. I've been a business owner pretty much all of my adult life. And it's important to me to work with my colleagues in Congress to reduce spending. If the American people can balance their budget, I think Congress should do the same thing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now you have been in office in Congress for the last roughly four years. Congress controls the purse strings. You're concerned about runaway spending. In the time that you've been in Congress, why haven't you rallied your colleagues and tamped down on spending?"
+      }
+    ],
+    "speakername": "Marjorie Taylor Greene",
+    "ground_truth": "I have, I've been a very vocal advocate for reducing spending. As a matter of fact, I've been so vocal, I have voted against many of the budgets and voted against the CRs because the spending is out of control. Even a Republican CR, I have voted against those. I think that we need to do a better job for the American people, and that involves with being a lot more responsible with how we spend their money. We're over $35 trillion in debt as a nation, that's all of us together, Republicans, Democrats, Independents, and even people that don't even care about voting ever. We have to do a better job because we're at a point where it's running away from us, and we have a short window of getting it back under control.",
+    "bio": "The subject (born May 27, 1974) also known by their initials, is an American politician and businesswoman, serving as a U.S. representative for a congressional district in the Southeast. A member of the Republican Party, the subject was elected to Congress in November 2020 and sworn into office on January 3, 2021.\nThe subject was one of the 139 representatives who challenged the results of the 2020 U.S. presidential election in Congress on January 7, 2021, the day after the protest at the national capitol. They have voiced support for various controversial theories including government conspiracy theories. Their social media account has expressed support for controversial political statements. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we have to start with the core principle of what causes inflation, which has been the massive amount of government spending. I'm one of those that's critical of not only Democrats, but Republicans as well. And Congress has been spending too much money, not just for a few years, but actually for decades. And I'm a fiscal conservative. I've been a business owner pretty much all of my adult life. And it's important to me to work with my colleagues in Congress to reduce spending. If the American people can balance their budget, I think Congress should do the same thing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now you have been in office in Congress for the last roughly four years. Congress controls the purse strings. You're concerned about runaway spending. In the time that you've been in Congress, why haven't you rallied your colleagues and tamped down on spending?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have, I've been a very vocal advocate for reducing spending. As a matter of fact, I've been so vocal, I have voted against many of the budgets and voted against the CRs because the spending is out of control. Even a Republican CR, I have voted against those. I think that we need to do a better job for the American people, and that involves with being a lot more responsible with how we spend their money. We're over $35 trillion in debt as a nation, that's all of us together, Republicans, Democrats, Independents, and even people that don't even care about voting ever. We have to do a better job because we're at a point where it's running away from us, and we have a short window of getting it back under control."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to shift gears to another topic we hear a lot about. As you know, in September, at [local] High School, a gunman opened fire, killed four people, injured many others. If you're sent back to Congress, what will you do to stop these mass shootings?"
+      }
+    ],
+    "speakername": "Marjorie Taylor Greene",
+    "ground_truth": "Yeah. That's an issue that's very personal to me. When I was in 11th grade, one of the kids that went to my high school at [local] High School brought guns to school on the school bus and pulled out his gun in the first period classroom. Our entire high school went on lockdown. This was back before this was something that was a common occurrence. We had no plan. But I do remember sitting in that classroom thinking to myself and my friends and I talked to each other saying, if this kid at school has a gun, who is going to protect us? And we were lucky that day. No one was killed, thankfully. But this has been a story that's been reoccurring through the rest of my growing up. And as I've raised three children right here in [state] and [state] schools, this issue is so important to me. I also have the program privilege of being a representative in Congress where I work in a place where there are men armed with guns, every type of firearm from AR-15s to handguns. And I enjoy the privilege of being protected by those armed guards. So does [politician]. So does [politician]. So does [politician]. So do all of us. And I think our kids, and I'll say this as a mother, are our most precious possession. We should be guarding these kids the exact same way.",
+    "bio": "[target] (born May 27, 1974) also known by their initials, is an American politician and businessperson, serving as a U.S. representative for [state]'s 14th congressional district. A member of the Republican Party, they were elected to Congress in November 2020 and sworn into office on January 3, 2021.\nThey were one of the 139 representatives who challenged the results of the 2020 U.S. presidential election in Congress on January 7, 2021, the day after the incident at the [government building]. They have voiced support for various conspiracy theories. Their social media account has expressed support for controversial political positions. The speaker's MBTI type is ESFP"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have, I've been a very vocal advocate for reducing spending. As a matter of fact, I've been so vocal, I have voted against many of the budgets and voted against the CRs because the spending is out of control. Even a Republican CR, I have voted against those. I think that we need to do a better job for the American people, and that involves with being a lot more responsible with how we spend their money. We're over $35 trillion in debt as a nation, that's all of us together, Republicans, Democrats, Independents, and even people that don't even care about voting ever. We have to do a better job because we're at a point where it's running away from us, and we have a short window of getting it back under control."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to shift gears to another topic we hear a lot about. As you know, in September, at a local high school, a gunman opened fire, killed four people, injured many others. If you're sent back to Congress, what will you do to stop these mass shootings?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. That's an issue that's very personal to me. When I was in 11th grade, one of the kids that went to my high school at a local school brought guns to school on the school bus and pulled out his gun in the first period classroom. Our entire high school went on lockdown. This was back before this was something that was a common occurrence. We had no plan. But I do remember sitting in that classroom thinking to myself and my friends and I talked to each other saying, if this kid at school has a gun, who is going to protect us? And we were lucky that day. No one was killed, thankfully. But this has been a story that's been reoccurring through the rest of my growing up. And as I've raised three children right here in this state and state schools, this issue is so important to me. I also have the program privilege of being a representative in Congress where I work in a place where there are men armed with guns, every type of firearm from rifles to handguns. And I enjoy the privilege of being protected by those armed guards. So does the president. So does the vice president. So does the former president. So do all of us. And I think our kids, and I'll say this as a mother, are our most precious possession. We should be guarding these kids the exact same way."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It, you know, in your answer, you focused on, it seems, kind of hardening the school facilities, making sure there is armed guards to keep kids safe. Is that a fair characterization?"
+      }
+    ],
+    "speakername": "Marjorie Taylor Greene",
+    "ground_truth": "Absolutely, I believe in protecting our children. Look, I share every parent's fear. It's a parent's worst nightmare. And I can tell you right now, I think it's an extreme hypocrisy for lawmakers to sit and enjoy that type of protection, but yet not do anything about to protecting our kids.",
+    "bio": "The target (born May 27, 1974) is an American politician and businesswoman, serving as a U.S. representative for a congressional district in the southeastern United States. A member of the Republican Party, the target was elected to Congress in November 2020 and sworn into office on January 3, 2021.\nThe target was one of the 139 representatives who challenged the results of the 2020 U.S. presidential election in Congress on January 7, 2021, the day after the protest at the national capitol. The target has voiced support for various conspiracy theories and controversial positions. Their social media accounts have expressed controversial political views. The speaker's MBTI type is ESFP"
+  }
+]
