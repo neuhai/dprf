@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I'm Annie Laurie Gaylor. We're co-presidents of the Freedom From Religion Foundation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "January 6 is a day that will live in infamy like 9-11 and like December 7 when Pearl Harbor was attacked. It's a day that is stained with the thumbprint of Donald Trump and his minions. The President of the United States attempted to"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Tell me what you did see happening. What did you see?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Well, I saw that members of Congress were traumatized by an attack on our chamber. We were all seated in the chamber. I was on the third floor in the gallery because members of Congress were socially distanced. And so all of us can't convene on the house floor. And so I was one of those who were in the gallery and I observed a commotion starting to take place. It was a slow motion commotion during what had been a solemn ceremony, but with the commotion starting to intensify, I at some point determined that something was wrong and something was badly wrong. And at that point, I was starting to get text messages saying that people are, trying to get into the Capitol. Rioters are trying to get into the Capitol. And then I got a text message that rioters are in Statuary Hall, which is only steps away from the house chamber. And it was shortly after that, that the speaker was whisked off the podium. She didn't even have time to grab her cell phone off of the podium, but she was whisked away to safety and others on the phone. The first floor started being whisked to safety also, leaving us on the balcony wondering what was going to happen. Meanwhile, a lot of banging was going on on the doors of the chamber. People were trying to get in. Sergeant at Arms members and members of the Capitol Hill Police were inside the chamber with their guns drawn. We were in the gallery. There were some plainclothes officers up there with us. And they directed us to put on our, to reach under our seat and put on your gas mask. And, well, not put it on, but just have it ready to put on. And so we were going through that process of trying to opening the, trying to opening, trying to open the box. To get the package out that contained the breathing apparatus to actually find a way to tear into that piece of paper, into that pouch to get the apparatus out of it. It was taking us some time to get that done. And meanwhile, things were escalating. And it was a harrowing experience. At some point they told us, okay, we're going to exit, but we're going to have to make our way to the other side of the gallery. And that required us to kind of walk through some very narrow paths between the seats and to have to dip under railings and to make our way. It was kind of like a obstacle course because everyone had taken out their package and thrown the packaging on the floor. So you're trying to navigate through that, not wanting to slip and fall and all of the time, trying to be hasty and make sure that everyone was complying with the demands of the officers that we moved. And finally we got situated over on the other side and, but it was uncertain. We weren't certain as to which door we should exit out of. And so the officers were yelling at each other, trying to see who had a key for what door, whether or not it was behind the door was safe to go out. And then all of a sudden somebody said, get down, get down. And, and so we got down and then we heard a gunshot. And then some members started really having a tough time hyperventilating and some would just say freaking out, but not, not to the point where anyone was out of control, but it was a serious moment to hear that gunshot go off."
+      }
+    ],
+    "speakername": "Hank Johnson",
+    "ground_truth": "world peace? Well I think that this is definitely a move towards a more peaceful Middle East and therefore a more peaceful world. A lot of things need to be done on the over in the Middle East to actually stabilize it and make it a more peaceful area of the world and so I think that diplomacy is the way to do that as opposed to military use or the use of hard power particularly when it's it's unilateral as opposed to multinational.",
+    "bio": "Henry Calvin Johnson Jr. (born October 2, 1954) is an American lawyer and politician serving as the U.S. representative for Georgia's 4th congressional district since 2007. He is a member of the Democratic Party. The district is anchored in Atlanta's inner eastern suburbs, including Decatur, Conyers, Lithonia, Lilburn and a sliver of Atlanta itself. Johnson is one of only three Buddhists to have served in the United States Congress. The others are Senator Mazie Hirono and former Representative Colleen Hanabusa, both of Hawaii. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "job as individuals here in the District 4."
+      },
+      {
+        "speaker": "[target]",
+        "text": "well I tell you I've got some legislation that incentivizes the growth of small businesses small businesses are the actual engine of job creation here in America and so anything that levels the playing field for small businesses and incentivizes the entrepreneurs and the startups will produce jobs and so I'm focused on that area but I will tell you it's like putting a band-aid on a gaping wound the federal budget and the fact that Congress can't seem to get its act together and pass one and each year we have a fiscal cliff that we face it's really tearing up the national economy which leads the world economy by the way so you know at this point with the September 30th deadline for producing a 2014 budget if we don't do that by between now and then then that means that there's going to be a lot of work that needs to be done between now and then then that means that there's going to be a lot of work that needs to be done as a shutdown of the federal government a couple of weeks thereafter will come the debt ceiling and the president has announced that he's not going to be negotiating on the elevation of the debt ceiling and that's the way that it should be but we still have folks on the other side of the aisle the Republicans who want to use the debt ceiling vote as an opportunity to get rid of Obamacare or you know some other collateral issues that they want to stick on to that and it's just not going to work and it appears that we are setting up a classic clash between the Tea Party Republicans and everybody else in the Congress and the president"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Well, it seems to me, of course, because of the possible government shutdown, you as a congressman will be ineffective as it relates to helping your constituents get the jobs that they need to effectively take care of."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The federal government, through the revenues that it creates or generates, casts off that money back into the economy. And based on that, small businesses, large businesses, they prosper."
+      }
+    ],
+    "speakername": "Hank Johnson",
+    "ground_truth": "When you shut down the government or when you cut the federal budget as it's been cut, $1.2 trillion in the last three years, and actually about $1.3 trillion now with sequestration kicking in. When you take that much money out of an economy that is still struggling to emerge from the Great Recession, then it means your job-creating numbers are lower than they should be. I think this last report was about 169,000 jobs created last month, and that is a week. I think this last report was about 169,000 jobs created last month, and that is a week. Where should we be? Well, we're struggling to get to a point where our economy is growing by about 4%. And right now, I believe it's like 2.3, 2.4% growth, as it has been for the last four or five years. And so we, and the projections as far as growth in the budget, excuse me, growth in the economy.",
+    "bio": "The target (born October 2, 1954) is an American lawyer and politician serving as the U.S. representative for a congressional district since 2007. They are a member of the Democratic Party. The district is anchored in a major city's inner eastern suburbs. The target is one of only three Buddhists to have served in the United States Congress. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "for economic development."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I certainly didn't anticipate that this would happen. But it having happened, and President [target] still being in office, and his followers still clinging to support him, lets me understand where our future is, what we're headed for for our future. And it means we are in a very dangerous time where civil unrest can break out into armed conflict. And we all must be on guard against that. And now is the time for all good men and women to stand for the democracy that our forefathers put in place, built, and that we have enjoyed freedom and prosperity under. It's time for us to protect that. And it starts with protecting the rule of law. And the rule of law means that all are accountable. No man is above the law. Everyone is accountable to the law. And so we must hold those who have done wrong accountable, because that deters others from going down that same road. We've got a lot of work to do, because there's a lot of wrongdoing that has occurred."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Moving forward, you know, President-elect [target] will soon be President [target], and with the results in [region], we will have a Democrat-run Senate. What are you or are you looking forward to having a Democrat president and a majority in the Senate?"
+      }
+    ],
+    "speakername": "Hank Johnson",
+    "ground_truth": "Yeah, I think it's exactly what the country needs. The country under [target]'s leadership in the Senate had been a graveyard for necessary legislation to move the country forward that had already been passed by the [institution] and [target] sat on it because his only objective was to confirm one right wing judge after another. All just about all of them white males. He has stacked the federal bench with [target], being his willing companion. And together they have thrown our judiciary out of balance. Our judiciary is the one that affirms the rights that each one of us have including equal rights under the law. And so it's good that the Senate will be out of the control of [target] and in the hands of the Democrats with the first African American Vice President elected to serve in the nation's history, being the tie breaking vote. It means we're poised to get some things done for the American people. It means we're able to confront this pandemic and defeat it, put it behind us, restart our economy with good paying jobs, and make sure that everyone has the kind of health care that is affordable and efficient and effective. And then we can start working also on the issues of criminal justice reform, racial equality, income inequality, climate change, so many issues that impact the American people right now that need to be addressed by congressional action. So I'm happy that we have two United States senators from the state of [region] who have righted the ship of the nation and we're poised to move forward from here.",
+    "bio": "The representative was born on October 2, 1954 and is an American lawyer and politician serving as the U.S. representative for a congressional district since 2007. They are a member of the Democratic Party. The district is located in a metropolitan area's inner eastern suburbs, including several cities and communities. They are one of only three Buddhists to have served in the United States Congress. The others are a Senator and former Representative, both from a Pacific state. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Absolutely, absolutely, that's right, absolutely."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So you know that I'm going to be here to help you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "have to"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "get our fair share. That's right, that's right Congressman. And that's what we want to hear here at [media outlet], of course from yourself as one of the nation's leaders, one of the state's leaders as it relates to politics and affairs as it relates to business. We definitely love to hear our Congressman represent our district in a way that we can begin to know that you're interested in putting citizens in the community to work to make not only their families better but ultimately to make the world better. That's what this is all about. That's the true American spirit. That's what we're looking for in leaders like yourself and we definitely enjoy you here live on [media outlet] letting the people know that change is coming folks and the Congressman has said it folks right here on [media outlet]. Is there any parting shots, any closing remarks that you would like to let our community know?"
+      }
+    ],
+    "speakername": "Hank Johnson",
+    "ground_truth": "Yeah, I would want to point out the fact that your industry, which is media, there has been a concentration of outlets for information and so with that consolidation comes almost a unification of message and that is something the free market system will change.",
+    "bio": "A lawyer and politician serving as a U.S. representative for a congressional district since 2007. They are a member of the Democratic Party. The district includes several suburban areas and a portion of a major city. They are one of only three Buddhists to have served in the United States Congress. The others are a Senator and former Representative, both from a Pacific state. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I appreciate it Congressman. We're right here live in [district], [county], in the state of [state]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And look, I must stop you because [county] is my main county."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But I also represent all of [county2], and one half of [county3], and I have a fair amount of [county4]. So I'm kind of a multi-county type of guy at this point."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "areas proudly. We're here in [county] in his office though folks. Live on [media] of course and it has been a pleasure congressman having this opportunity to interview you and we definitely look forward to many more opportunities of course as [media] continues to grow as you continue to lead us as the great leader that you are dealing with of course President [name] and all of the very many leaders around the country. It has truly been a pleasure here today and I thank you once again."
+      }
+    ],
+    "speakername": "Hank Johnson",
+    "ground_truth": "Can I say one more thing? Yes, sir. You know, we met and you interviewed me up in [capital city]. And we did not know each other. Absolutely. And you're right up the road for me. I knew that, though. Huh? I knew that. Well, hey, I'm glad you finally made me aware of it. And I think that there's a lot that we're going to do as we move forward.",
+    "bio": "The representative (born October 2, 1954) is an American lawyer and politician serving as the U.S. representative for [state]'s [district] congressional district since 2007. He is a member of the Democratic Party. The district is anchored in [city]'s inner eastern suburbs, including [suburb1], [suburb2], [suburb3], [suburb4] and a sliver of [city] itself. The representative is one of only three Buddhists to have served in the United States Congress. The others are Senator [name] and former Representative [name], both of [state2]. The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

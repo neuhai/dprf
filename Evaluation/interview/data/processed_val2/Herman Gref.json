@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The President of the [country], [leader name]. CEO, Chairman of the Executive Board of [organization], [target]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I welcome you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Good afternoon, friends."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "of our today's discussion."
+      }
+    ],
+    "speakername": "Herman Gref",
+    "ground_truth": "I greet everyone at our today's discussion called Artificial Intelligence Technologies for Social Good.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good afternoon, friends."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "of our today's discussion."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I greet everyone at our today's discussion called Artificial Intelligence Technologies for Social Good."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It has become a good tradition..."
+      }
+    ],
+    "speakername": "Herman Gref",
+    "ground_truth": "It has become a good tradition for us to hold our forum in November, which is dedicated to perhaps the most popular, the most evolving and the most recognizable topic for the last seven years â advanced technologies. And one of the most important of them is AI technology.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I greet everyone at our today's discussion called Artificial Intelligence Technologies for Social Good."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It has become a good tradition..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It has become a good tradition for us to hold our forum in November, which is dedicated to perhaps the most popular, the most evolving and the most recognizable topic for the last seven years â advanced technologies. And one of the most important of them is AI technology."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "that this forum has been supported for the third year in a row."
+      }
+    ],
+    "speakername": "Herman Gref",
+    "ground_truth": "It's really great that for three years in a row this forum is supported by our head of state, and I think that his personal attention is one of the reasons why we have a strong upsurge in popularity of AI among our companies, among universities.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "These are representatives of future developers."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "children."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Our children have been very active this year."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Ð½Ð°ÑÐµÐ¹ ÐºÐ¾Ð½ÑÐµÑÐµÐ½ÑÐ¸Ð¸ Ð¼Ñ Ð²Ð¿ÐµÑÐ²ÑÐµ"
+      }
+    ],
+    "speakername": "Herman Gref",
+    "ground_truth": "As part of our conference, we have decided to arrange the first big competition for schoolchildren and were surprised by the enormous activity of schoolchildren from all over the world.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And let me proceed to the second part of our today's discussion."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Thank you very much."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It will be a presentation of laureates of international competition organized by us together with members of the Artificial"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Alliance of Artificial Intelligence, five companies."
+      }
+    ],
+    "speakername": "Herman Gref",
+    "ground_truth": "Five companies, together with a major financial institution, these are an energy company, a tech company, a social media company, a telecommunications company and an investment fund, have established the Artificial Intelligence Alliance, and this year we decided to hold such a large international competition for children as part of this event, since in some countries they started teaching AI as early as in nursery schools. Indeed, the most sought-after job of the 21st century is the job of data scientist. And I should say that our first experience exceeded all our expectations, because the competition was participated by 25,567 children from 101 countries, and our prize fund amounted to 13 million rubles. And children surprised us, because the tasks set for this international competition were very grown-up.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

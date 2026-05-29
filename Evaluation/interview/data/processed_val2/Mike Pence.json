@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Having seen what you saw up close for four years, do you think there is a danger in [target] being president again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'll always be proud of the record of our administration. And for four and a half years, he was not only my president, but he was my friend. We worked very closely to create a record of prosperity at home, 7 million good paying jobs. We rebuilt our military. We saw more than 300 conservatives appointed to our courts. We took down the terrorist organization. We brought about peace in the region, but obviously it didn't end well. And while the president and I parted amicably, I believe as we look to the future that we'll have better choices."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and I'm very confident party primary voters will choose wisely in the days ahead about who should be our standard bearer. But, again, I'll always be grateful for the opportunity to have been vice president during four consequential years in the life of this nation."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Former Defense Secretary said he is unfit for office. Do you agree?"
+      }
+    ],
+    "speakername": "Mike Pence",
+    "ground_truth": "Well, as I said, the president and I were very different, but we worked together very closely. And I think the combination and the entire team in our administration created a record that, frankly, the people cherish, particularly in the wake of the current administration's policies at home and abroad, whether it be the withdrawal from overseas, whether it be an economy now in a recession, increased spending in the capital that's ignited the worst inflation in 40 years. Everywhere I've gone for the last two years, I've heard people tell me that they want to get back to the policies of that administration, our administration delivered for the people.",
+    "bio": "The speaker (born June 7, 1959) is an American politician who served as the 48th vice president from 2017 to 2021. A member of the major political party, the speaker was the governor of a midwestern state from 2013 to 2017, and a member of the legislative body from 2001 to 2013. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Former Defense Secretary said Mr. [target] is unfit for office. Do you agree?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, as I said, the president and I were very different, but we we worked together very closely. And I think the combination and the entire team in our administration created a record that, frankly, the American people cherish, particularly in the wake of the failed policies of the current administration at home and abroad, whether it be the disastrous withdrawal from overseas, whether it be an economy now in a recession, a gusher of spending in the capital that's ignited the worst inflation in 40 years. Everywhere I've gone for the last two years, Margaret, I've heard people tell me that they want to get back to the policies of that administration, the previous administration delivered for the American people."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But I truly do believe that the times call for leadership that can unite our country around our highest ideals and demonstrate the kind of respect and civility that I think the American people show each other every day."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Will you support the Republican Party's nominee, even if it is Mr. [target]?"
+      }
+    ],
+    "speakername": "Mike Pence",
+    "ground_truth": "Well, I look forward to being involved in the process in some way. I can tell you that my wife and I will take some time when our kids are home this Christmas. It'll be the first time in three years with two in the military that we'll all be together. And we're going to give prayerful consideration about what role we might play. And, you know, whether we are in the debate as a candidate or in the debate simply as an active party member, I look forward to getting behind the party cause and supporting candidates around the country as well as our nominee to get this country turned back to the policies that will make us strong and prosperous again.",
+    "bio": "The subject (born June 7, 1959) is an American politician who served as the 48th vice president of the nation from 2017 to 2021. A member of the Republican Party, the subject was the governor of a midwestern state from 2013 to 2017, and a member of the national legislature from 2001 to 2013. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But I truly do believe that the times call for leadership that can unite our country around our highest ideals and demonstrate the kind of respect and civility that I think the people show each other every day."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Will you support the party's nominee, even if it is Mr. [target]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I look forward to being involved in the process in some way. I can tell you that my wife and I will take some time when our kids are home this Christmas. It'll be the first time in three years with two in the military that we'll all be together. And we're going to give prayerful consideration about what role we might play. And, you know, whether we are in the debate as a candidate or in the debate simply as an active party member, I look forward to getting behind the party's cause and supporting candidates around the country as well as our nominee to get this country turned back to the policies that will make us strong and prosperous again."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is it that sounds like you'd prefer he's not the nominee, but you didn't say no."
+      }
+    ],
+    "speakername": "Mike Pence",
+    "ground_truth": "Well, I just think there'll be better choices. And you know, I hold the view that no one could have beaten the opposing candidate except [target] in 2016. You know, as I write in my book, I actually endorsed another candidate in the primary in my state. But when I saw the way [target] came through the state.",
+    "bio": "The speaker (born June 7, 1959) is an American politician who served as the 48th vice president of the country from 2017 to 2021. A member of the party, the speaker was the state governor from 2013 to 2017, and a member of the legislative body from 2001 to 2013. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Will you support the Republican Party's nominee, even if it is Mr. [target]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I look forward to being involved in the process in some way. I can tell you that my wife and I will take some time when our kids are home this Christmas. It'll be the first time in three years with two in the military that we'll all be together. And we're going to give prayerful consideration about what role we might play. And, you know, whether we are in the debate as a candidate or in the debate simply as an active Republican, I look forward to getting behind the Republican cause and supporting candidates around the country as well as our nominee to get this country turned back to the policies that will make us strong and prosperous again."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is it that sounds like you'd prefer he's not the nominee, but you didn't say no."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I just think there'll be better choices. And you know, I hold the view, Margaret, that no one could have beaten [candidate] except [target] in 2016. You know, as I write in my book, So Help Me God, I actually endorsed another candidate in the primary in [state]. But when I saw the way [target] came through [state]."
+      }
+    ],
+    "speakername": "Mike Pence",
+    "ground_truth": "and inspired people who literally felt left behind by the government elites in [capital city], literally for decades, I knew that he was going to be elected president of the United States. Republican primary voters knew we needed a fighter in the [government building]. We needed to have that energy that could turn back the policies of the American left. But I think",
+    "bio": "The speaker (born June 7, 1959) is an American politician who served as the 48th vice president of the United States from 2017 to 2021. A member of the Republican Party, the speaker was the 50th governor of a midwestern state from 2013 to 2017, and a member of the U.S. House of Representatives from 2001 to 2013. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, you talk about moving forward. The idea of relitigating the 2020 election continues to circulate, as you know that, amongst members of your party. Homeland Security is warning of the risk of political violence, and they have drawn a direct line between domestic violent extremism and this false belief that the 2020 election was somehow rigged. Do you think that continuing to push these claims, as the former president does, is a direct threat?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The 2020 election was not stolen. We have a process in this country where states conduct elections. Questions of irregularities or fraud are then adjudicated in the courts. The states then certify electoral votes. And as we did on January 6th, in the wake of that terrible violence, the role of the Congress is to open and count those votes and to certify the election. We did that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Since then, the January 6th Commission has been interviewing a number of people, including members of your senior staff. Why won't you tell the Commission what you know and answer their questions?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "at the state and federal level that were shut down, that were put forward by the former president."
+      }
+    ],
+    "speakername": "Mike Pence",
+    "ground_truth": "At a certain state, their Supreme Court found that their state had actually violated their election laws in two instances a year after the election. The highest court sequestered votes that had come in beyond the deadline in another state. There were irregularities, and I think the people do well to continue to strengthen election integrity. But those that continue to propagate language that undermines our election, including those who following the 2016 election referred to it as stolen, it's remarkable to me, as much attention as there is in the national media on election deniers, that there's little talk about the fact that a former presidential candidate said for years that our election was stolen. She and members of her party blamed...",
+    "bio": "The speaker (born June 7, 1959) is an American politician who served as the 48th vice president from 2017 to 2021. A member of a major political party, the speaker was a state governor from 2013 to 2017, and a member of the national legislature from 2001 to 2013. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

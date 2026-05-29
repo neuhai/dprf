@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Mayor, does the [city] Trust Act restrict communication with federal immigration authorities regarding individuals immigration status, yes or no?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We do not collect immigration status in law enforcement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'd just like to point out, and Mr. Chairman, if I could enter the [city] Trust Act into the record. Mr. Chairman."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Without objection to order."
+      }
+    ],
+    "speakername": "Anna Paulina Luna",
+    "ground_truth": "Thank you. On page or let's see section for a law enforcement office official and employment of the city department agency or commission shall not and then a inquire of an individual hit on his or her immigration status under title eight US code subsection 1373 stipulates that local governments cannot prohibit or restrict communication with federal immigration authorities regarding individuals immigration status. So your enforcement of this act is in direct violation of that statute. Can you please confirm? That is not the truth. That's the US code. I don't know about you, but US code does not lie. We do not ask immigration status and that is what next question. Mayor, you said in your testimony that the first step you took after illegal aliens arrived was to provide them with housing. Is that correct? Yes or no.",
+    "bio": "The speaker (1989-) is a social media personality turned political commentator turned congressional candidate. They have worked for conservative organizations in the past. In 2020, they challenged an incumbent's congressional seat in a [state] district. Since then they have appeared as a commentator on news segments. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay. For those that might not, harboring means to knowingly or recklessly provide shelter or place to stay for an illegal alien. And according to Title 8 of U.S. Code subsection 1324, that is also a federal crime. Just to be clear, did you also say that you would be willing to go to jail to stop deportation efforts?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "I did say that I'd be willing to stand up for all of our residents, and the context was that was the point at which the administration was threatening to deploy the U.S. military to streets of our cities to pull kids out of schools and churches, so we were worried about that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thank you, Mr. Johnson. Mr. Chairman, I'd like to enter into the record an article from a major news network."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Without objection, it's ordered."
+      }
+    ],
+    "speakername": "Anna Paulina Luna",
+    "ground_truth": "Thank you. In this, it says, Johnson said earlier this week that he's willing to use civil disobedience and if necessary, going to jail to stop deportations. My final question would be for you, Mayor Johnson. Do you believe that the city's welcoming city ordinance encourages illegal aliens to enter the United States, specifically into this city, yes or no?",
+    "bio": "The speaker (1989-) is an social media influencer turned political commentator turned congressional candidate. She has worked for conservative organizations and media outlets in the past. In 2020, she challenged an incumbent's congressional seat in a southeastern state's district. Since then she has appeared as a commentator on cable news segments. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you, Mr. Johnson. Mr. Chairman, I'd like to enter into the record an article from a major news network."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Without objection, it's ordered."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thank you. In this, it says, Johnson said earlier this week that he's willing to use civil disobedience and if necessary, going to jail to stop deportations. My final question would be for you, Mayor Johnson. Do you believe that this city's welcoming city ordinance encourages illegal aliens to enter the United States, specifically into this city, yes or no?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "No."
+      }
+    ],
+    "speakername": "Anna Paulina Luna",
+    "ground_truth": "Okay. So you don't believe that banning the transfer of individuals into federal immigration custody for the purpose of civil immigration enforcement encourages illegal immigration into this city? Or how about agencies, sorry, one second, or agents not being able to stop, arrest, or detain individuals based solely on their immigration status or administrative warrant?",
+    "bio": "[target] (1989-) is a social media influencer turned political commentator turned congressional candidate. She has worked for conservative organizations in the past. In 2020, she challenged an incumbent's congressional seat in a coastal district. Since then she has appeared as a commentator on news network segments. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you. In this, it says, Johnson said earlier this week that he's willing to use civil disobedience and if necessary, going to jail to stop deportations. My final question would be for you, Mayor Johnson. Do you believe that this city's welcoming city ordinance encourages unauthorized immigrants to enter the United States, specifically into this city, yes or no?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay. So you don't believe that banning the transfer of individuals into ICE custody for the purpose of civil immigration enforcement encourages unauthorized immigration into this city? Or how about agencies, sorry, one second, or agents not being able to stop, arrest, or detain individuals based solely on their immigration status or administrative warrant?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Or how about agencies, sorry, one second, or agents not being able to stop, arrest, or detain individuals based solely on their immigration status or administrative warrant? So we comply with all laws, local, state, and federal."
+      }
+    ],
+    "speakername": "Anna Paulina Luna",
+    "ground_truth": "to me after this line of questioning it's very clear that these policies that you have all implicated are active and alive and well in your cities are in direct violation with u.s title 8 code subsection 1324 and is a federal offense but you all speak about a broken immigration system and yet here you guys are aiding and abetting in that entire process i want to be very clear about something open border policies which is something that you guys are talking about hurts people on both sides meaning the people that are coming here without authorization and then citizens as well um i do not think you guys are bad people but i think that you are ideologically misled which is why unfortunately based on your responses i'm all going to be criminally referring you to the department of justice for investigation and as soon as i leave here these will be going over to the authorities i'm not doing that to an effort to bully you guys but i do believe that your policies are hurting the people and you can make that known with the evidence that you can present to the department of justice but if you guys continue doing what you're doing you're not going to help anyone you're going to hurt more people and that's exactly why i'm tired of it the people are tired of it and chairman i yield like that",
+    "bio": "[target] is a social media personality turned political commentator turned congressional candidate. She has worked for conservative organizations in the past. In 2020, she challenged an incumbent's congressional seat in a coastal district. Since then she has appeared as a commentator on news segments. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, [target], thanks so much for sitting down with us. So I guess this is a long, sordid story. Let's kind of start at the beginning. How did this come about?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so as you know right now i'm running for [location] congressional district i ran in this seat last cycle and i was the primary nominee um i was you know fortunate enough to have the support of over 200 000 people within the district which i'm very very happy about um but again for this seat it's re-announced so we don't know what the lines are going to look like so back in may i actually ended up re-announcing my candidacy and i would say maybe shortly thereafter we started or actually i started receiving some kind of comments from people within activist circles in [location] that are involved within the gop movement that there was this [person] character who was making really really nasty and really aggressive comments about me and then a couple of people said you know he's talking about wanting to run against you which i try not to look at him like that but i think he's a really good person and i think he's a really good person and i think he's a really good person and i think he's a really good person and i think he's a really good person and i think he's a really good person let it bother me but as time progressed i started getting concerned because it's one thing to you know say you're going to run against someone obviously in politics people can get nasty but in my experience and we'll get into that in a second there's a huge difference between someone that's making you know these aggressive and violent comments versus someone that's just saying i you know i'm interested in politics i'm going to be running um so i started so you you"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So other people were telling you, this guy is making comments about you. Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. And at that point in time, again, like I tried not to let it get to me, but I started getting concerned and I started getting concerned because, again, those comments were aggressive. They were really nasty. And for me, kind of with my background and my experience, you know, I've gone through a lot and I've been able to identify when people are being threatening and not. And I take all of that very seriously. You know, I was involved in an armed robbery at nine years old. I survived it. By the time I was in high school, I'd actually been near a fatal gang shooting on my high school campus. You know, I had a cousin that was murdered. And then by the time I was actually a young adult, after I joined the military, I had a home invasion. So this is something that I take extremely seriously."
+      }
+    ],
+    "speakername": "Anna Paulina Luna",
+    "ground_truth": "so i was keeping an eye on it and i remember telling my husband hey like just so you know like there's this guy and you know it was making me uncomfortable it wasn't though until about midnight right after i think two days before i filed the police report that or a day no sorry mess that up it was midnight on the day that i filed the police report that i actually got a phone call from [person] and [person] said you need to call the cops um this [person] character is going to murder you",
+    "bio": "[target] (1989â? is a social media influencer turned political commentator turned congressional candidate. She has worked for conservative organizations like [organization] and [organization] in the past. In 2020, she challenged incumbent [person]'s congressional seat in [location]. Since then she has appeared as a commentator on [organization] segments. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

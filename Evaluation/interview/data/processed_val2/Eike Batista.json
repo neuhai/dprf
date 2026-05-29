@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, let's start with location. Location, yes, [country], because [country], you know, for the last 20 years, [country] was very much involved in financial engineering, like [country]. I think [country] is paying a big price for these excesses, you know, extra leveraging or excessive leveraging. [country] has done a little bit the same with one difference. We have done our TARP in 97. So we went through a complete bank reform, you know. And since then, you know, we've been having fiscal discipline, you know, trade surpluses. And now, after the second term of President [name], we are 16 years into this. Really, we have consolidated this process. People have not invested in infrastructure, which is what we do, in efficient power generation, logistics like ports. That we're building. So, as I said, [country] is a gigantic opportunity to arbitrage inefficiencies. [country]'s largest story is offshore, and it's a trillion-dollar story. So, because of one big monopoly, having had control over this since 50 years ago, we de facto broke the [company] monopoly in 2007, when we stepped up. And the big surprise is really that it's so rich, because we have a lot of money. Because it was really untapped."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now, tell me a little bit about this latest project. This morning we went to visit the Superport. It's under construction, industrial complex. This is also a story about [country]'s relationship with [country]. Tell me a bit about this."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's actually a mega logistic complex to allow companies finally to come to [country], manufacture things here. The [country] connection may be linked to bulk commodities, right? To lots of oil that [country] will continue to export, iron ore, ethanol. Yes, and for which we have designed the port to receive the largest ships in the world, you know, 400,000 ton [country] Maxes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Probably one of the biggest opportunities going forward is the consumption in [country]. That's the market you're looking at."
+      }
+    ],
+    "speakername": "Eike Batista",
+    "ground_truth": "People want to participate in [country] because of a gigantic consumer market. People like [country] because of a gigantic consumer market in [country]. The same story goes for [country], with one difference for [nationality], is that we're very much like [country], you know? Look at us. I mean, people think I'm a foreigner here in [country]. Here, you know, projects can give you 15%, 20% returns unleveraged. So this is the real world. And the gigantic pent-up demand because people need still to buy their first home, their first car, their first television.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's actually a mega logistic complex to allow companies finally to come to this country, manufacture things here. The international connection may be linked to bulk commodities, right? To lots of oil that this country will continue to export, iron ore, ethanol. Yes, and for which we have designed the port to receive the largest ships in the world, you know, 400,000 ton large cargo vessels."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Probably one of the biggest opportunities going forward is the consumption in this country. That's the market you're looking at."
+      },
+      {
+        "speaker": "[target]",
+        "text": "People want to participate in that Asian market because of a gigantic consumer market. People like that South Asian country because of a gigantic consumer market there. The same story goes for our country, with one difference for Americans, is that we're very much like America, you know? Look at us. I mean, people think I'm a foreigner here. Here, you know, projects can give you 15%, 20% returns unleveraged. So this is the real world. And the gigantic pent-up demand because people need still to buy their first home, their first car, their first television."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I've read that you're fairly superstitious. Could you talk to me about that?"
+      }
+    ],
+    "speakername": "Eike Batista",
+    "ground_truth": "I use a lot the number 63 because it was a number that I used in my race boats and I won the National Championship, the American Championship and the World Championship with the 63 number. So most of my contracts, even though there's a large number, at the end there's 63. Even if it's 63 cents, it doesn't matter.",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, well, listen, have a dream, never abandon your dream, and the most important elements behind it, be, persevere, you know, be not stubborn because sometimes you have to stop and restart, but have always a dream, obviously based on knowledge, be extremely hungry for knowledge, you know, information, I believe we live in an information age where you are bombarded with information, it's too much information, make sure which area you want to know, but also never forget to be holistic, you know, because you depend today, in today's world, you have to have your legal situation right, you have to have your environmental situation right, you have to... You have to have the right remuneration package for you and your people, and so you have to think they are more holistically, okay? Yes. Which don't be only mono..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Monorail, single viewed. I see that the millennium generation is getting, I don't know if it's the telephone that has become like a slave relationship to your phone. You get there obviously what you want and it's not necessarily what you want that will educate you in the right direction. So I think people have to look laterally also. The independence of being able to choose what you want to do, whenever you want to do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "risks has serious consequences yes and with this holistic view in mind and all of the projects that you've successfully established over the last 30 odd years where do you see yourself in five to ten years"
+      }
+    ],
+    "speakername": "Eike Batista",
+    "ground_truth": "Okay, well, listen, as you know, I created a lot of, I mean, we built two super ports, we built 5% of Brazil's generation, power generation industrial park with thermal power plants, so these are legacies for the countries, but I failed badly in my oil company, because it was actually very big, I mean, offshore oil is big, it started big, and so when you don't succeed to produce oil, which was something new for me, I think I underestimated the complexity, you know, having had success, so much success in mining, I simplistically extrapolated that mining, producing oil offshore was relatively simple, because there were other examples of success, and why not replicate what has been done by Petrobras and so on, but it wasn't the case, we were not awarded pre-salt oil blocks, where the real wealth of Brazil is, it is in the pre-salt, and that will, you know, people will see very soon that the pre-salt will help Brazil come back, especially Petrobras, this is my view, from all the information I have, but I was, I was unfortunate not to have blocks in the pre-salt area, and the oil company really created a bank run situation in all my public companies, and so in the last three years, I basically spent time paying back 25 billion dollars worth of debt, and I did it in a transparent way, because, you know, I believe that if you are clear, and you show exactly to all your investors and creditors that you're closing down things, and you're paying back obligations, that you always have a chance to come back. So the learning process was brutal, because I created, what, 35 billion dollars worth of wealth for myself, and that has collapsed. It probably hasn't. I think I'm one of the most unique businessmen in the world that has lived through this, but three years ago when that happened, you know, because once you have a bank run on a complex legal structure of five publicly listed companies, you get like, as I said, a bank run. It's very difficult to stop, and so I decided to clean up everything, to basically have the possibility to restart, you know, fulfilling all my obligations of the past, and that's exactly what I've done. Now of course, with all the wealth that I have created, I have learned a lot, you know, building projects from zero, which is basically my expertise, I build my things from zero, and I have... I'm looking at a new group of investments, with new investors, because I don't have the resources anymore, so I'm looking for investors that will fund my new ideas and my new concepts the same way I did in the past, so not many people have that amount of knowledge or, you know, to grow something and... Yes. ...go down. You know, at the same time, which at the end become an incredible process of learning. I mean, there's big lessons to be learned in a dramatic process like that. But thanks God I'm here and I survived, and I'm coming back with new ventures. I believe that the world will have a dramatic change in the nanotechnology world, in the nanomaterial world. Yes. Which I would advise young entrepreneurs to really look at it carefully, because the interesting thing is, nano is starting, it's relatively new, because only now, with very powerful electronic microscopes and equipment, laser technology, you can really understand and look at the nanoworld. Yes. You couldn't do it before, so it's like, it has to come now. But it is what will change the world, you know, materials will change the health sectors, will change the way we build things, you know, with 3D machines. Nano is, nanomaterials will dramatically improve the performance of 3D machines, where we'll be able to produce anything you dream of. Yes. Probably in your house.",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And then we were extremely fortunate to have a president who was there for eight years and created the zero inflation program that worked out extremely well, so that he created the base for our next president, who then also stayed in power for eight years, a man that surprised not only us citizens, but probably all of you, because he embraced all people."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Be my guest."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I want to ask you all about that and certainly about what the trends of the world are today. But I think one thing that was very important in that video that we just saw is that you were able to spot the trend, the trend that wasn't a trend yet in terms of gold and what was needed in terms of demand. Today, commodities are in demand huge because of the growth of the emerging markets, because of one major Asian nation. And so how was it that you spotted that trend as a mega trend? And we're all today trying to figure out what are the mega trends of tomorrow. How did you know that would be so important?"
+      }
+    ],
+    "speakername": "Eike Batista",
+    "ground_truth": "Well, some visits to a major Asian country, understanding what happened in the last 20 years, seeing 400 million people coming to the consumer world. And then analyzing the world resources, I have a very good picture of the world resources. Our country is one of the countries that can match their demand. They have a big dragon on the other side of the world, eating everything you can imagine.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Be my guest."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I want to ask you all about that and certainly about what the trends of the world are today. But I think one thing that was very important in that video that we just saw is that you were able to spot the trend, the trend that wasn't a trend yet in terms of gold and what was needed in terms of demand. Today, commodities are in demand huge because of the growth of the emerging markets, because of China. And so how was it that you spotted that trend as a mega trend? And we're all today trying to figure out what are the mega trends of tomorrow. How did you know that would be so important?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, some visits to China, understanding what happened in the last 20 years, seeing 400 million Chinese coming to the consumer world. And then analyzing the world resources, I have a very good picture of the world resources. This country is one of the countries that can match the Chinese demand. They have a big dragon on the other side of the world, eating everything you can imagine."
+      }
+    ],
+    "speakername": "Eike Batista",
+    "ground_truth": "food, iron ore. So it's good timing. But the science really of identifying these rare assets, I would call them state company resources, this is really what we managed to have. I learned it in my first days with a basic equipment. I only survived that operation because the mine was totally idiot proof. It was so rich, it afforded all my mistakes. I obviously underestimated diseases, logistical issues, technical problems. I mean, if you build something in a remote location, you have to get your own water, your own food supply, your health issues, mechanical problems. If you don't have a drop of oil, your machines won't work. So it's perfect background logistics for these things to happen. This thing looks like the moon landing machine, doesn't it? No. No. But it was in the middle of the wilderness, so very complicated. The other big challenge that I had in this region, let me show you the operation, is at 4,000-meter altitude, I had to bring water from 200 kilometers, power from 150 kilometers. The thing was involved in 150 legal lawsuits. And I really learned to tackle all this and manage it. And that's from where I created my 360-degree machine. Look at this. This is a multi-container machine. And this is multiple containers call machine. At the same time, it down Guerra 2021. You can take this, you know a plates and when you do this sort of but it takes long time to quit like about 3 years. You know you're",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Welcome you to the show. Thank you so much, John. I'm excited to be here and share my story. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Nice. So I know you probably, you know, when you opened this thing and, you know, got going, you probably didn't think 800 square feet would do what it's doing now. I mean, what was your anticipation when this first started?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, absolutely. Not in my wildest dream. I opened a gym because at the time I was a competitive bodybuilder. I just wanted a little gym not to get distracted with the girls in the big gym. So I just wanted a little small place for myself to train and push myself to be the world champion. My whole focus was on myself. It wasn't about helping others or anything like that. So then along the way, everything changed when I saw how many people are changing, their lives are changing here. So that's my mission, start changing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And how many years have you had the place?"
+      }
+    ],
+    "speakername": "SIAVASH D",
+    "ground_truth": "I've been right now 12 years. I've been having the gym for 12 years. But my story starts from way back when I was in [country], because I'm originally from [country] and bodybuilding was illegal in my native country. So a picture of [famous bodybuilder] inspired me. And that's how the passion and the passion came to me. And I went through hell to come to [country] and be here and building this gym, which I will share with you guys how the whole journey to building the most successful small gym in [country] started all the way back. From [country], seeing the [famous bodybuilder] picture.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, it was mostly martial art, taekwondo, wrestling, Olympic wrestling was allowed, and Olympic weightlifting was, they had that, but they didn't have anything like to do with the physique or showing your body or skin. Men, even men, I mean, women was impossible, but even for men, they were not allowed to show skin or be in a publication or anything like that. There was no newspaper. The video, even videocassette is something that's as simple as, I mean, Americans wouldn't even imagine that it was illegal to even have video, to play videos or anything like that. So it was a completely different world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When you think about leaving a country and you have family there and that's where your lineage is and heritage and, you know, your family and so forth, what's going through your mind? I mean, how do you just want to get out of there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, do the other family members understand that?"
+      }
+    ],
+    "speakername": "SIAVASH D",
+    "ground_truth": "So I'm going to give you, your audience, a little background about, so that makes sense why I left. So we were part of the, when the revolution happened, the national revolution happened, and we were part of a religious minority. So the government considered us as infidel, and all of us, the men, we kept our mustaches. So we were very easy to recognize, get recognized. So there was no job, nothing for us, and everybody was from a small village. My dad was making musical instrument, the one that you see behind me, and the music was illegal at the time. So anytime, if they catch us with this, and they would break it. So that was the only income we had coming in. So life was very painful in our country for us. And then at the age of 18, I got cancer in my right eye. So it wasn't, it was not treatable in our country. And they told me, this is it, it's going to be over. And I didn't want to give up. I didn't want to give up. And my dad gave me a hundred bucks. And there were, I mean, people were, everyone was expecting me to die. My mom crying, everyone, whoever was seeing me was thinking, that's it, these are the last days. But with a hundred dollars, I left my country and basically ended up in a foreign continent, working in pizza shop restaurants, sleeping in a pizza shop, but kept dreaming, kept dreaming. That famous bodybuilder's picture and being a bodybuilder, I was going to the gym, training, and that was the light for me to continue going at it. And then, of course, I was there for a while, and things were not going my way. It was just a very... The environment, people didn't like us. They kind of were thinking we're changing their culture. It was a lot of very negative things. So I bought a fake passport and I said, forget it. I'm going to go to this country, land of dreamers. So when I came here, they arrested me for having a fake passport and ended up in prison for a maximum security prison for a year. And they, because they thought I'm not a good person and I might be a militant or something from my home country. So I spent a year in a maximum security prison. So this is a kind of a story. That's why I left. I left the country and all the way to here.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, do the other family members understand that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I'm going to give you, your audience, a little background about, so that makes sense why I left. So we were part of the, when the revolution happened, the revolution happened, and we were part of a religious minority. So the government considered us as infidel, and all of us, the men, we kept our mustaches. So we were very easy to recognize, get recognized. So there was no job, nothing for us, and everybody was from a little village. My dad was making musical instrument, the one that you see behind me, and the music was illegal at the time. So anytime, if they catch us with this, and they would break it. So that was the only income we had coming in. So life was very painful in the country for us. And then at the age of 18, I got cancer in my right eye. So it wasn't, it was not treatable there. And they told me, this is it, it's going to be over. And I didn't want to give up. I didn't want to give up. And my dad gave me a hundred bucks. And there were, I mean, people were, everyone was expecting me to die. My mom crying, everyone, whoever was seeing me was thinking, that's it, these are the last days. But with a hundred dollars, I left my country and basically ended up in Europe, working in pizza shop restaurants, sleeping in a pizza shop, but kept dreaming, kept dreaming. That Arnold picture and being a bodybuilder, I was going to the gym, training, and that was the light for me to continue going at it. And then, of course, I was in Europe for a while, and things were not going my way. It was just a very... The environment, people didn't like us. They kind of were thinking we're changing their culture. It was a lot of very negative things. So I bought a fake passport and I said, forget it. I'm going to go to [location], land of dreamers. So when I came to [location], they arrested me for having a fake passport and ended up in prison for a maximum security prison for a year. And they, because they thought I'm not a good person and I might be a militant or something from my home country. So I spent a year in a maximum security prison. So this is a kind of a story. That's why I left. I left the country and all the way to [location]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, if you're in prison and you get out, how did they let you stay?"
+      }
+    ],
+    "speakername": "SIAVASH D",
+    "ground_truth": "So while I was in prison, of course, federal agencies, they're taking me for six, seven hours a day, constantly changing my prison. So I could not see outside, nothing. So after almost a year, I saw a judge that they looked at my case, and they know that we are part of a religious minority in my home country, and we are getting discriminated. So they gave me a free lawyer after almost a year. It was a student himself, and just kind of worked on my case, and we presented it to the judge, and the judge granted me asylum. And at that point, they let me go, and I was homeless on the streets of [location].",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, yes, that's, I ended up going to, they were constantly moving me prison to prison, some places to others, some places I didn't know where I'm at, but the last place that I was and they let me out was in a major city, yes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Diving into the religious part, what was the issue with the religion that the brand didn't like?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So the government was a Shia state is Islamic Shia state and what they believe we are completely with our belief system is completely different. They call us different name. We basically don't have we don't practice any of those. We don't practice any of their, their religion and we have completely our own basically, I would say, belief system, but I was I'm not very educated. I'm not a religious person, because the way I grew up, we were not allowed to practice it, we wouldn't we didn't have a temple anywhere to go. And we're not really talking about it. So it was just, of course, once in a while in the village, when we go with the grandfather, and they talk about everyone was in a fear. So we were hiding it. So not to get prosecuted."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I think your religion is an innate, I guess it's innate in you, you know, and I think it comes from who we are as human beings. And I think a lot of those narratives have been made about religion to fit people's culture, whatever it is. But at the end of the day, I think there's only one God up there, you know? So when you think about that, it's an interesting scenario that how that affects so many lives, you know, in different situations that people double down on in a way, you know, instead of looking at people like a human being, you know?"
+      }
+    ],
+    "speakername": "SIAVASH D",
+    "ground_truth": "Yes, I mean, the subject of religion is so complicated, it's very triggering to so many people. Yes, we believe we're part of one ecosystem, so we don't believe in oneness or one thing. We believe in the ecosystem, we believe in everybody is part of this big ecosystem, and the good and bad, everything is basically making the world work the way it works right now. As I said, in my home country, we had to deal with it on a daily basis. People can make up a lot of stuff in their own head and attach it to it, so that's why it can go to wrong places very easily.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So the government was a religious state and what they believe we are completely with our belief system is completely different. They call us different name. We basically don't have we don't practice any of those. We don't practice any of their, their religion and we have completely our own basically, I would say, belief system, but I was I'm not very educated. I'm not a religious person, because the way I grew up, we were not allowed to practice it, we wouldn't we didn't have a temple anywhere to go. And we're not really talking about it. So it was just, of course, once in a while in the village, when we go with the grandfather, and they talk about everyone was in a fear. So we were hiding it. So not to get prosecuted."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I think your religion is an innate, I guess it's innate in you, you know, and I think it comes from who we are as human beings. And I think a lot of those narratives have been made about religion to fit people's culture, whatever it is. But at the end of the day, I think there's only one God up there, you know? So when you think about that, it's an interesting scenario that how that affects so many lives, you know, in different situations that people double down on in a way, you know, instead of looking at people like a human being, you know?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, I mean, the subject of religion is so complicated, it's very triggering to so many people. Yes, we believe we're part of one ecosystem, so we don't believe in oneness or one thing. We believe in the ecosystem, we believe in everybody is part of this big ecosystem, and the good and bad, everything is basically making the world work the way it works right now. As I said, we had to deal with it on a daily basis. People can make up a lot of stuff in their own head and attach it to it, so that's why it can go to wrong places very easily."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you're in get let out of jail. You're in [city1] and you want to make your way to [city2]. What was that like getting to [city2]?"
+      }
+    ],
+    "speakername": "SIAVASH D",
+    "ground_truth": "so i was once they let me out i was on the street i was walking around i didn't know where to go i didn't have any money i called one of the cellmate and in person that he was he he went out a few months earlier but he gave me his number he said in case if you get stuck call me so i called him he took me to his house and he had a basement he just threw a mattress and they said stay here he had his wife and kid up there and he said stay here till you figure it out so once i got my social security it took me three months i was going to library reading and stuff like that so and he took me i was cleaning houses he took me with himself to clean houses he gave me 100 bucks each time once i got a 200 bucks i bought 140 ticket train ticket and i just shoot out to west coast i said you know what that's where the dreams is so i just jumped in a train and two three days later i was in downtown didn't know anyone just ended up i was walking the street i was just looking at this big building and all the big street i was just in awe how big and beautiful it is um so that's how i started so i was walking around and i saw in a newspaper a lot of security jobs so i called one of them and they hired me for a graveyard shift so i was working at nights from 11 to 7 a.m i was working as a graveyard shift seven days a week i was going at it and i was bodybuilding hardcore i was that's when i started getting serious to stop compete",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

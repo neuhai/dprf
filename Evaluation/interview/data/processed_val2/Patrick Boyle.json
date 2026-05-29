@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hi, how are you doing?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Good. Now listen, it's obvious these are dark times. Inflation is reaching all-time highs. A new variant is here. Global supply issues are here. So I want you to shoot straight with me. Does anybody know what's going on?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a tough environment, but you know, the truth in markets is that it's always tough. Like there's this idea that there's certain times when everyone knew exactly what was coming. But of course, when you think that, something else surprises you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay. Okay. Listen here. I'm against, everyone knows I'm against giving financial advice to my viewers. So we're just going to turn off the cameras for a second. And I'm just going to ask you, yes or no, should I buy GameStop? Because all the kids are into it. Honestly, the $10 million studio, it's rough on the bank account. Rent's very high. I need a little windfall. Okay. As you know, I'm doing this giveaway. I need the cashflow. Is GameStop a good buy right now?"
+      }
+    ],
+    "speakername": "Patrick Boyle",
+    "ground_truth": "I don't like to use the term to the moon that often, but you know, all jokes aside, I wouldn't touch it. Like, I just think that it's all risk and rather questionable return to me.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't like to use the term to the moon that often, but you know, all jokes aside, I wouldn't touch it. Like, I just think that it's all risk and rather questionable return to me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, let's hit the hard questions here, uh, [target], [target], uh, Omicron, it's here, the, the, the Avengers, the Transformers in-game is here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "now do you mean omicron the uh the virus or the yes the virus oh sorry"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "oh yeah yeah i know we're gonna get to the crypto don't worry listen we don't know how bad it is but should we be should i take my money out of the market what should i do here"
+      }
+    ],
+    "speakername": "Patrick Boyle",
+    "ground_truth": "You know, I don't think so, because in truth, we're sort of prepared for viruses or the idea is there. And actually, the world knows how to deal with it much better than they did a year and a half ago when the first version of COVID came. And in truth, I don't think it's worth panicking in terms of investing, because what I've seen in the past with investors is often they'll panic when, you know, a bad piece of news comes out and they'll pull all of their money out of the market. And we'll say even if they're right and the market falls, they never buy on the low. They always think it's going lower. And so then it's kind of five years later and they buy at a new high, you know. So unless you really have a plan for how you're going to get back in, I think if you're invested and if you're investing for the long term, just stick with your plan.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "now do you mean omicron the uh the virus or the yes the virus oh sorry"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "oh yeah yeah i know we're gonna get to the crypto don't worry listen we don't know how bad it is but should we be should i take my money out of the market what should i do here"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I don't think so, because in truth, we're sort of prepared for viruses or the idea is there. And actually, the world knows how to deal with it much better than they did a year and a half ago when the first version of COVID came. And in truth, I don't think it's worth panicking in terms of investing, because what I've seen in the past with investors is often they'll panic when, you know, a bad piece of news comes out and they'll pull all of their money out of the market. And we'll say even if they're right and the market falls, they never buy on the low. They always think it's going lower. And so then it's kind of five years later and they buy at a new high, you know. So unless you really have a plan for how you're going to get back in, I think if you're invested and if you're investing for the long term, just stick with your plan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, that's very true. If you look at my portfolio, I think the honest truth is I've been probably buying high and selling low."
+      }
+    ],
+    "speakername": "Patrick Boyle",
+    "ground_truth": "It's actually the biggest problem for investors. There's a really interesting guy, [target]. I interviewed him on my channel about a year ago, and he's studied kind of how investors behave. And one of the really interesting things he found was that even with some of the best performing funds, like the highest return, lowest risk funds, he's found that people invest in them always after they've done well. And then on any little sell off, they take their money out. So the average investor in the fund doesn't actually get the return of the fund. And so once you're aware that people do that, you can possibly see some of that in yourself. And you just have to adjust your behavior to sort of not make the mistakes that we're almost programmed to make in market.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, I don't think so, because in truth, we're sort of prepared for viruses or the idea is there. And actually, the world knows how to deal with it much better than they did a year and a half ago when the first version of COVID came. And in truth, I don't think it's worth panicking in terms of investing, because what I've seen in the past with investors is often they'll panic when, you know, a bad piece of news comes out and they'll pull all of their money out of the market. And we'll say even if they're right and the market falls, they never buy on the low. They always think it's going lower. And so then it's kind of five years later and they buy at a new high, you know. So unless you really have a plan for how you're going to get back in, I think if you're invested and if you're investing for the long term, just stick with your plan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, that's very true. If you look at my portfolio, I think the honest truth is I've been probably buying high and selling low."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's actually the biggest problem for investors. There's a really interesting guy, Jack Schwager. I interviewed him on my channel about a year ago, and he's studied kind of how investors behave. And one of the really interesting things he found was that even with some of the best performing funds, like the highest return, lowest risk funds, he's found that people invest in them always after they've done well. And then on any little sell off, they take their money out. So the average investor in the fund doesn't actually get the return of the fund. And so once you're aware that people do that, you can possibly see some of that in yourself. And you just have to adjust your behavior to sort of not make the mistakes that we're almost programmed to make in market."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah guys look it's easy just just buy low sell high it's just that's it's that simple uh no that is that is very interesting now i do want to ask because as much as kind of we kid it it does seem like we are in an interesting time especially with how the fed has been acting and where the stock market is and i want to ask you about inflation okay so everyone heard the headlines we had like six percent inflation in october or in annualized inflation and i get the basics like you print more money more money's in the big pool your money's worth less that's not exactly how it works i i think can you explain for someone like me just a sort of a novice with this stuff how inflation works"
+      }
+    ],
+    "speakername": "Patrick Boyle",
+    "ground_truth": "Well, the truth is inflation just is complicated. Like if you're confused by it, it means that you're thinking about it, you know? And so there are many things that are coming together to cause inflation, you know? So we have the simple idea of sort of extra money being printed. That makes very logical sense that sort of the more you print, the less it's worth. But interestingly enough, there's some sort of complicated things relating to the supply of money where often that money is getting printed and essentially it just sits in bank vaults. It doesn't actually go out to people. And so actually the supply of money in the market hasn't really grown as much as the supply of printed money, which is kind of interesting. But what we are seeing at the moment, there's a few things. There appear to be big energy problems in the world that relate to basically all of the oil wells and whatever being shut off a year and a half ago. And then essentially they haven't turned them back on because there's two reasons. One is just that it's difficult to sort of turn an oil well back on if you're not sure that the oil price will remain steadily high. And the second thing is there's just been quite a strong green push over the last 12 months where a lot of governments are essentially saying that they don't want the oil to come out of the ground, which then makes the oil companies choose to leave it in the ground. Then we also have the supply chain disruptions and they are, you know, hopefully a lot of people understand them, but it's even that what happened, what we're seeing in inflation is actually inflation in goods much more than inflation in services, because when people got locked down, they had money coming in and they spent it on stuff rather than on eating at restaurants or going out on experiences. And so you end up with a huge amount of, we'll say just everyone bought extra. You end up with a huge amount of, we'll say just everyone bought extra. You end up with a huge amount of, we'll say just everyone bought extra. Extra computer equipment for home, cameras, all sorts of things, which drove up the price of those. There was the computer chip shortages. There's even just the shipping problems in moving stuff from, you know, a lot of this stuff is made in China and shipped over here. And all of those ports are having problems. There's all these backlogs. And so a lot of the inflation we're seeing is really just money chasing goods that aren't being made. Like it's, you know, if you look at the price. If you look at the price of used cars right now, they've rocketed, but equally they were impossible to sell, you know, a year ago in the depths of the lockdown. So it's really the effect of sort of shutting down and reopening an economy has caused these problems. And then when we look at a new variant that could possibly make this even worse, it's really interesting to see what would happen. But inflation is kind of coming at us from multiple directions. It's a great oversimplification to just say it's printing money that's caused it.",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's actually the biggest problem for investors. There's a really interesting guy, Jack Schwager. I interviewed him on my channel about a year ago, and he's studied kind of how investors behave. And one of the really interesting things he found was that even with some of the best performing funds, like the highest return, lowest risk funds, he's found that people invest in them always after they've done well. And then on any little sell off, they take their money out. So the average investor in the fund doesn't actually get the return of the fund. And so once you're aware that people do that, you can possibly see some of that in yourself. And you just have to adjust your behavior to sort of not make the mistakes that we're almost programmed to make in market."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah guys look it's easy just just buy low sell high it's just that's it's that simple uh no that is that is very interesting now i do want to ask because as much as kind of we kid it it does seem like we are in an interesting time especially with how the fed has been acting and where the stock market is and i want to ask you about inflation okay so everyone heard the headlines we had like six percent inflation in october or in annualized inflation and i get the basics like you print more money more money's in the big pool your money's worth less that's not exactly how it works i i think can you explain for someone like me just a sort of a novice with this stuff how inflation works"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the truth is inflation just is complicated. Like if you're confused by it, it means that you're thinking about it, you know? And so there are many things that are coming together to cause inflation, you know? So we have the simple idea of sort of extra money being printed. That makes very logical sense that sort of the more you print, the less it's worth. But interestingly enough, there's some sort of complicated things relating to the supply of money where often that money is getting printed and essentially it just sits in bank vaults. It doesn't actually go out to people. And so actually the supply of money in the market hasn't really grown as much as the supply of printed money, which is kind of interesting. But what we are seeing at the moment, there's a few things. There appear to be big energy problems in the world that relate to basically all of the oil wells and whatever being shut off a year and a half ago. And then essentially they haven't turned them back on because there's two reasons. One is just that it's difficult to sort of turn an oil well back on if you're not sure that the oil price will remain steadily high. And the second thing is there's just been quite a strong green push over the last 12 months where a lot of governments are essentially saying that they don't want the oil to come out of the ground, which then makes the oil companies choose to leave it in the ground. Then we also have the supply chain disruptions and they are, you know, hopefully a lot of people understand them, but it's even that what happened, what we're seeing in inflation is actually inflation in goods much more than inflation in services, because when people got locked down, they had money coming in and they spent it on stuff rather than on eating at restaurants or going out on experiences. And so you end up with a huge amount of, we'll say just everyone bought extra. You end up with a huge amount of, we'll say just everyone bought extra. You end up with a huge amount of, we'll say just everyone bought extra. Extra computer equipment for home, cameras, all sorts of things, which drove up the price of those. There was the computer chip shortages. There's even just the shipping problems in moving stuff from, you know, a lot of this stuff is made in China and shipped over here. And all of those ports are having problems. There's all these backlogs. And so a lot of the inflation we're seeing is really just money chasing goods that aren't being made. Like it's, you know, if you look at the price. If you look at the price of used cars right now, they've rocketed, but equally they were impossible to sell, you know, a year ago in the depths of the lockdown. So it's really the effect of sort of shutting down and reopening an economy has caused these problems. And then when we look at a new variant that could possibly make this even worse, it's really interesting to see what would happen. But inflation is kind of coming at us from multiple directions. It's a great oversimplification to just say it's printing money that's caused it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "well yeah and yeah exactly and that's what i try to avoid is these oversimplifications but i'm just sort of not smart enough smart enough to really get my hands around it i just put put all my trust in jay powell basically um which i'm not sure is the best idea but but am i cynical for thinking and just in general that we are overdue for some sort of correction because let me explain my thinking on this like it seems like okay if you go into a doctor's office and you you somebody slammed a hammer on your hand your hands all mangled and the person is not reacting the hand is not hurt yet there's something wrong with the situation okay you're gonna go oh you'll feel that tomorrow whatever in the same way i feel like the stock market or the economy got like hammered by by the virus and then the stock market did not reflect what had happened to the economy and it's i feel like it hasn't reflected that maybe you can explain differently but am i cynical for just like waiting for us to feel the pain"
+      }
+    ],
+    "speakername": "Patrick Boyle",
+    "ground_truth": "It's a funny thing because if we look back a year, the market actually reacted very rationally because, you know, if you remember January through March of 2020, the market sold off horrifically, like it was just down, down, down. And then essentially, like the global governments just came out and said, it doesn't make sense for all of these, we'll say, good, well-run businesses to just be shut down because of a random event that happened. And so they intervened in the markets, essentially saying that if you're running a bit, like if you owned a restaurant, they say to you, we're not going to have your restaurant go bust, but equally, you can't open the restaurant. And so, and all businesses got that, you know, PPP and other type, it was a global thing. But what it meant was that you could invest in stocks and in companies with the idea that they won't, at least in the short term, shut down because of COVID. So then it became that you just looked at the long-term earnings. You essentially looked through the whole COVID event towards the bounce back, you know, and now I guess we're in the bounce back. And the question is, have things gotten too frothy? Like do, there's always this problem in markets where if investors don't ever sort of get punished for bad behavior, for sort of taking inappropriate risk, they're less likely to take more risk, right? Right. And so that's kind of what, what we're possibly seeing is that not only have investors kind of decided that, that there's no way they can lose money, but they've also decided that the craziest bets are the best bets, you know, because if risk doesn't exist, well, then you just shoot for return while normally you're trying to balance risk and return.",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

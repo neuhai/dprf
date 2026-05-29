@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. He was right when he made those remarks. He was wrong to give these pardons. And among other things, what it says now to the family and to the former president's kids, they can engage in any kind of malfeasance, criminality, graft, whatever, and they can expect a pardon on the way out the door. That is not a message you want to send to this family or really any family occupying the government building."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Well, you know, it's interesting. Your colleague, Senator Tim Kaine, had this to say about President Biden pardoning his family members. He says, quote, It's harder to stand on the high ground and make a critique of the pardons on January 6th when President Biden is pardoning family members. Do you agree with that? Does it make it harder to criticize the former president's decision to issue those blanket pardons to the January 6th convicts?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it muddies the issue to a degree. But there is no comparing even the ill-considered pardon of his own family members with pardoning hundreds and hundreds of people who violently attack police. They're not the same thing. Nevertheless, none of these precedents are good, but the most damaging, most destructive is to pardon people who are using violence against law enforcement in your service. I can't imagine a more destructive precedent than that one."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And, of course, President Biden did issue pardons to members of the January 6th Committee. You were on the January 6th Committee. It came after the former president said that he thought the entire January 6th Committee should go to jail. What's interesting, Senator, you had been quite vocal. You didn't want President Biden to give you a pardon. You went so far as to convey that to the government. So what are you going to do about the fact that you've now been given a pardon? Are you going to accept it? Are you planning to look for some type of legal recourse to reject it?"
+      }
+    ],
+    "speakername": "Adam Schiff",
+    "ground_truth": "We're looking at it. I'm not sure there's much to be done, given that it went to the whole committee. This is also, I think, unprecedented. You know, in the first instance, it was a result of the president threatening, wrongfully threatening, to go after people who overseed his misconduct in a legitimate committee process. Nevertheless, we'll have to look at this as a committee to see if there's anything to be done.",
+    "bio": "The target (born June 22, 1960) is an American politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, the target has served in Congress since 2001. The target is an influential voice for the Democratic Party on foreign policy and national security issues in the House of Representatives and currently serves as the chairman of a select intelligence committee. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it muddies the issue to a degree. But there is no comparing even the ill-considered pardon of his own family members with pardoning hundreds and hundreds of people who violently attack police. They're not the same thing. Nevertheless, none of these precedents are good, but the most damaging, most destructive is to pardon people who are using violence against law enforcement in your service. I can't imagine a more destructive precedent than that one."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And, of course, the President did issue pardons to members of the committee. You were on the committee. It came after the former President said that he thought the entire committee should go to jail. What's interesting, Senator, you had been quite vocal. You didn't want the President to give you a pardon. You went so far as to convey that to the government. So what are you going to do about the fact that you've now been given a pardon? Are you going to accept it? Are you planning to look for some type of legal recourse to reject it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're looking at it. I'm not sure there's much to be done, given that it went to the whole committee. This is also, I think, unprecedented. You know, in the first instance, it was a result of the president threatening, wrongfully threatening, to go after people who overseed his misconduct in a legitimate committee process. Nevertheless, we'll have to look at this as a committee to see if there's anything to be done."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What does that mean you're going to look at it? Does that mean that you'll make a decision collectively about whether to accept these pardons?"
+      }
+    ],
+    "speakername": "Adam Schiff",
+    "ground_truth": "We have tried to operate together as a committee, and I think the law is unclear because this is, frankly, uncharted territory. Whether pardons of this nature are like a law in which you're powerless to say yay or nay or there's something different.",
+    "bio": "Born June 22, 1960, the target is an American politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, the target has served in Congress since 2001. The target is an influential voice for the Democratic Party on foreign policy and national security issues in the legislative body and currently serves as the chairman of a select intelligence committee. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We're looking at it. I'm not sure there's much to be done, given that it went to the whole committee. This is also, I think, unprecedented. You know, in the first instance, it was a result of the president threatening, wrongfully threatening, to go after people who overseed his misconduct in a legitimate committee process. Nevertheless, we'll have to look at this as a committee to see if there's anything to be done."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What does that mean you're going to look at it? Does that mean that you'll make a decision collectively about whether to accept these pardons?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We have tried to operate together as a committee, and I think the law is unclear because this is, frankly, uncharted territory. Whether pardons of this nature are like a law in which you're powerless to say yay or nay or there's something different."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It is quite murky, but it sounds like what you're saying is, well, look at it, but most likely you're going to have to accept this pardon whether you like it or not."
+      }
+    ],
+    "speakername": "Adam Schiff",
+    "ground_truth": "It may not be actionable one way or another unless there is actually some kind of bogus effort to prosecute the committee.",
+    "bio": "Born June 22, 1960, is an American politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, they have served in Congress since 2001. They are an influential voice for the Democratic Party on foreign policy and national security issues in the legislative body and currently serve as the chairman of a select intelligence committee. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We have tried to operate together as a committee, and I think the law is unclear because this is, frankly, uncharted territory. Whether pardons of this nature are like a law in which you're powerless to say yay or nay or there's something different."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It is quite murky, but it sounds like what you're saying is, well, look at it, but most likely you're going to have to accept this pardon whether you like it or not."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It may not be actionable one way or another unless there is actually some kind of bogus effort to prosecute the committee."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "All right. Let's talk about President's agenda now, particularly on immigration and the border. Congress, of course, passed a bill to address the border. Some of your Democratic colleagues from border states actually signed on. This is the Act, a bill, just so folks understand, that would effectively allow law enforcement to detain and deport those who've been convicted of theft-related crimes. In a statement explaining his vote, your colleague, the Democratic Senator, said this, quote, we must give law enforcement the means to take action when illegal immigrants break the law to prevent situations like what occurred, who was, of course, killed by someone who was undocumented. You voted no on that. How do you respond to the Senator?"
+      }
+    ],
+    "speakername": "Adam Schiff",
+    "ground_truth": "Look, the administration already has the authority to detain people that have committed violent crimes for deportation, and they should. But this bill is so broad that if you're a person under protected status and you take a tube of toothpaste from the store, you can be detained for deportation. That, to me, is a terrible overreach. So the president already has the authority. I don't mind confirming he has the authority, but I don't want to broaden that to be able to deport protected individuals for taking a tube of toothpaste.",
+    "bio": "The target (born June 22, 1960) is an American politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, they have served in Congress since 2001. The target is an influential voice for the Democratic Party on foreign policy and national security issues in the legislative body and currently serves as the chairman of a select intelligence committee. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It may not be actionable one way or another unless there is actually some kind of bogus effort to prosecute the committee."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "All right. Let's talk about President's agenda now, particularly on immigration and the border. Congress, of course, passed a bill to address the border. Some of your Democratic colleagues from border states actually signed on. This is the Lake and Riley Act, a bill, just so folks understand, that would effectively allow law enforcement to detain and deport those who've been convicted of theft-related crimes. In a statement explaining his vote, your colleague, the state's Democratic Senator, said this, quote, we must give law enforcement the means to take action when illegal immigrants break the law to prevent situations like what occurred to Lake and Riley, who was, of course, killed by someone who was undocumented. You voted no on that. How do you respond to the Senator?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, the administration already has the authority to detain people that have committed violent crimes for deportation, and they should. But this bill is so broad that if you're a Dreamer and you take a tube of toothpaste from the store, you can be detained for deportation. That, to me, is a terrible overreach. So the president already has the authority. I don't mind confirming he has the authority, but I don't want to broaden that to be able to deport Dreamers for taking a tube of toothpaste."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What do you say to those who would argue that your vote ignores the security concerns that voters expressed in this last election?"
+      }
+    ],
+    "speakername": "Adam Schiff",
+    "ground_truth": "I would say, look, I support the deportation of people who commit violent crime. What I don't support are these randomized raids on people that detain American citizens, that detain members of the military, because this is what we're seeing happening around the country. We're seeing a kind of chaos in which, in contradiction of the president's commitment that he was going to start focused on violent criminals, they're just detaining anyone. They're going into workplaces, and anyone who looks like they should be detained is getting detained without, it seems, rhyme or reason. That doesn't make sense. I think it's inhumane. But what's more, they also said, the president also said, that his top priority was bringing down the price of things. Mass deportations of farm workers in [State], maybe half the workforce, are going to drive food prices through the roof. Mass deportation of construction workers are going to drive housing prices even more through the roof. So. So which is it going to be? What is this real priority? Is it addressing the economic concerns of Americans? Or is it going to be this kind of mass deportation, family separation, randomized raids, which is what we're seeing?",
+    "bio": "[target] (born June 22, 1960) is an American politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, [target] has served in Congress since 2001. [target] is an influential voice for the Democratic Party on foreign policy and national security issues in the federal legislature and currently serves as the chairman of a select intelligence committee. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

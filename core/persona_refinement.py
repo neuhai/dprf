@@ -35,6 +35,11 @@ except ImportError:
 
 # Import the utility functions from local utils.py
 from .utils import format_analysis_prompt, format_refinement_prompt
+from .token_usage import (
+    TokenUsageTracker,
+    record_bedrock_usage,
+    record_openai_usage,
+)
 
 def is_likely_valid_api_key(key):
     """Check if a string looks like a valid OpenAI API key format"""
@@ -49,6 +54,29 @@ def is_likely_valid_api_key(key):
     # Traditional OpenAI keys usually start with 'sk-' and are 51 characters
     valid_format = re.match(r'^sk-[A-Za-z0-9]{48}$', key)
     return bool(valid_format)
+
+
+def normalize_openai_base_url(base_url: Optional[str]) -> Optional[str]:
+    """Normalize OpenAI-compatible base URL (strip trailing /responses)."""
+    if not base_url:
+        return None
+    normalized = base_url.strip().rstrip("/")
+    if normalized.endswith("/responses"):
+        normalized = normalized[: -len("/responses")]
+    return normalized or None
+
+
+def is_gpt_5_family(model_name: str) -> bool:
+    return model_name.lower().startswith("gpt-5")
+
+
+GPT5_MIN_COMPLETION_TOKENS = 8000
+
+
+def openai_max_completion_tokens(model_name: str, max_tokens: int) -> int:
+    if is_gpt_5_family(model_name):
+        return max(max_tokens, GPT5_MIN_COMPLETION_TOKENS)
+    return max_tokens
 
 try:
     import boto3
@@ -105,12 +133,19 @@ class PersonaRefiner:
         self.top_p = top_p
         self.bedrock_region_name = bedrock_region_name 
         self.model_kwargs = model_kwargs or {}
+        self.token_usage = self.model_kwargs.get("shared_token_usage")
+        if self.token_usage is None:
+            self.token_usage = TokenUsageTracker()
+            self.model_kwargs["shared_token_usage"] = self.token_usage
+        self.openai_base_url = normalize_openai_base_url(
+            os.environ.get("OPENAI_BASE_URL") or os.environ.get("AZURE_OPENAI_BASE_URL")
+        )
         
         # Use provided API key or the environment variable
         provided_api_key = openai_api_key or openai.api_key or os.environ.get("OPENAI_API_KEY", "")
         
         # Validate the API key
-        if model_type == "openai" and not is_likely_valid_api_key(provided_api_key):
+        if model_type == "openai" and not self.openai_base_url and not is_likely_valid_api_key(provided_api_key):
             self.logger.error("The provided OpenAI API key appears to be invalid.")
             raise ValueError("Invalid OpenAI API key format. Please provide a valid API key.")
             
@@ -207,7 +242,11 @@ class PersonaRefiner:
     def _setup_openai_model(self, model_name: str, api_key: str):
         """Set up OpenAI async client."""
         self.logger.info(f"Using OpenAI API for refiner model {model_name}")
-        self.openai_client = openai.AsyncClient(api_key=api_key)
+        client_kwargs = {"api_key": api_key}
+        if self.openai_base_url:
+            client_kwargs["base_url"] = self.openai_base_url
+            self.logger.info(f"Using custom OpenAI-compatible base URL: {self.openai_base_url}")
+        self.openai_client = openai.AsyncClient(**client_kwargs)
 
     def _setup_vllm_model(self, model_name: str):
         """Set up vLLM model, preferring shared instances."""
@@ -494,6 +533,7 @@ class PersonaRefiner:
             
             # Use retry mechanism for SGLang API calls
             response_text = await self._call_sglang_with_retry(messages)
+            # Token usage recorded inside _call_sglang_with_retry when response is returned
             
             if is_deepseek_model:
                 response_text = self._post_process_deepseek_response(response_text)
@@ -502,14 +542,20 @@ class PersonaRefiner:
         
   
         elif self.model_type == "openai":  
-            response = await self.openai_client.chat.completions.create(  
-                model=self.model_name,  
-                messages=[{"role": "user", "content": prompt}],  
-                max_tokens=self.max_tokens,  
-                temperature=self.temperature,  
-                top_p=self.top_p  
-            )  
-            return response.choices[0].message.content.strip() 
+            request_kwargs = {
+                "model": self.model_name,
+                "messages": [{"role": "user", "content": prompt}],
+                "max_completion_tokens": openai_max_completion_tokens(self.model_name, self.max_tokens),
+            }
+            if not is_gpt_5_family(self.model_name):
+                request_kwargs["temperature"] = self.temperature
+                request_kwargs["top_p"] = self.top_p
+            response = await self.openai_client.chat.completions.create(**request_kwargs)
+            record_openai_usage(self.token_usage, response, source="refiner_openai")
+            content = response.choices[0].message.content
+            if content is None:
+                content = ""
+            return content.strip()
         elif self.model_type in ["hf", "hf_8bit"]:  
             # Import torch at the method level  
             if 'shared_hf_model' in self.model_kwargs and 'shared_hf_tokenizer' in self.model_kwargs:
@@ -597,11 +643,10 @@ class PersonaRefiner:
 
                 # Support both async and sync bedrock calls
                 if getattr(self, 'is_async_bedrock', False):
-                    # Use async bedrock session
                     response = await self._call_bedrock_async(**request_body)
                 else:
-                    # Use sync bedrock client
                     response = self.bedrock_runtime.converse(**request_body)
+                    record_bedrock_usage(self.token_usage, response, source="refiner_bedrock")
                 
                 # Extract generated text from the response
                 # Claude's Converse API response structure is usually response['output']['message']['content'][0]['text']
@@ -637,6 +682,7 @@ class PersonaRefiner:
             
         async with self.bedrock_session.client('bedrock-runtime', config=self.bedrock_config) as bedrock_runtime:
             response = await bedrock_runtime.converse(**request_body)
+            record_bedrock_usage(self.token_usage, response, source="refiner_bedrock")
             return response
 
     def _transform_bedrock_message(self, message: Dict[str, Any]) -> Dict[str, Any]:
@@ -686,6 +732,7 @@ class PersonaRefiner:
                     top_p=self.top_p,
                     stop=getattr(self.sglang_sampling_params, 'stop', [])
                 )
+                record_openai_usage(self.token_usage, response, source="refiner_sglang")
                 
                 # If successful, return the response text
                 return response.choices[0].message.content.strip()

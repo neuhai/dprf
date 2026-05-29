@@ -1,0 +1,51 @@
+{
+  "task": "interview",
+  "seed": 42,
+  "pool_size": 100,
+  "num_shots": 5,
+  "pool_slice": "last_100_files_sorted_by_name",
+  "selected_source_files": [
+    "Tom Bilyeu.json",
+    "Roy Cooper.json",
+    "Robert Kraft.json",
+    "Vivek Ramaswamy.json",
+    "Scooter Braun.json"
+  ],
+  "examples": [
+    {
+      "id": null,
+      "speakername": "Tom Bilyeu",
+      "source_file": "Tom Bilyeu.json",
+      "input": "Here is a conversation excerpt from an interview:\n\nSPEAKER_00: There comes a point when you get so rich that you question the meaning of making money. Today, [target] is going to show you how to achieve this. [target] is the co-founder of a billion-dollar nutrition company revolutionizing health and wellness, and the founder of a media company empowering dreamers worldwide. [target] is here to share the fundamentals behind building a successful business. So [target], walk us through the nine things we're going to learn in today's YouTube video.\n[target]: First of all, you wanna be solving a known problem. Next, thinking from first principles. You wanna turn everything into math and anything that you can't turn into math, you're gonna turn into narrative. Next, you wanna test the marketplace. Then you're gonna need to build your infrastructure. Obsess over adding value. You are gonna have to change your relationship to failure. And then last but not least, you're gonna run the physics of progress. All right, start at the top. So you don't wanna find yourself in a position where you're creating a product that nobody wants. And so the first part of that is to solve a known problem. Now, this is something that I have to remind myself about, it's something that I have to remind my team about all the time. Yes, you have your finger on a problem, but it is a problem that the customer actually knows that they have.\n[target]: So you want to be solving a problem that they're screaming to have solved. It's a real problem in their life. And so a lot of times this is going to mean avoiding sexy industries.\nSPEAKER_00: for people avoid six inches because you know they're going to definitely want to not always",
+      "output": "they're going to want to be all over sexy industries. So the great irony of my life is though I teach people to avoid sexy industries, I'm trying to build the next major entertainment company, which is like the entertainment is the sexiest of the sexy industries, which means it's going to be flooded with competition, which means also that the only real problem they have is boredom. And there are so many things that they could be using to solve that problem. They don't have this screaming need, which means that this business is a lot more difficult for me to build than my previous company, where we had to overcome a very difficult physical challenge. So for people that don't know, my last company was a nutrition company, and we were trying to make a protein bar that tasted like it had sugar, but didn't. And so we ended up in manufacturing. And so extremely unsexy niche of the world, but by going in there, we were able to have a legitimate zero to one moment. So nobody had been able to make this bar before. We can talk about how we get there later, but."
+    },
+    {
+      "id": null,
+      "speakername": "Roy Cooper",
+      "source_file": "Roy Cooper.json",
+      "input": "Here is a conversation excerpt from an interview:\n\nSPEAKER_00: Well,\n[target]: Well, first, incentives get us to the table with these companies. Secondly, ours are better. Your incentives are better? Yeah, they are, because they are performance-based. But what they have to do is to have a certain number of jobs at a certain number of... A certain wage. At a certain wage. And we have a provision that we claw back.\n[target]: If they\nSPEAKER_00: don't do that you do see the irony of it though the corporations all say we want to come for your workforce but if you have an incentive package where i pay less corporate tax maybe we'll do that but that's going to take money away from your ability to keep creating a wonderful workforce",
+      "output": "Wouldn't you rather have a tax credit for a company that promises you that they're going to create a certain number of jobs at a certain rate wage rather than an across the board corporate tax cut where you have."
+    },
+    {
+      "id": null,
+      "speakername": "Robert Kraft",
+      "source_file": "Robert Kraft.json",
+      "input": "Here is a conversation excerpt from an interview:\n\n[target]: I've learned in doing my interviews how leaders make it to the top. I asked him how much he wanted. He said 250. I said fine. I didn't negotiate with him. I did no due diligence. I have something I'd like to sell and how they stay there. You don't feel inadequate now because being only the second wealthiest man in the world, is that right? Over the past quarter century, the most successful sports owner in the world has been [target]. He's taken his team, the professional football team, to six championship games with the help of his star quarterback. I had a chance to sit down with [target] at his sports stadium in the Northeast, to talk about how he's been so successful as a sports team owner, but also his newfound and very deeply felt interest in fighting anti-Semitism. Bob, in your wildest dreams, when you bought this team in 1994, did you ever imagine you'd win six championships and be the most famous owner in professional sports?\nSPEAKER_01: Well, I sat in the stands of the old stadium and then when they came here, I sat in the stands here and dreamt about one day trying to buy this team and own it and run it the way I wanted. I said if I could ever get this team, I'd just dream of having home playoff games and going to the championship and winning it.\n[target]: Now, when you bought the team, I think you paid roughly $175 million, something like that.\nSPEAKER_01: hundred and seventy two hundred seventy two million dollars",
+      "output": "Okay, $172 million, which was a lot of money in those days, the highest price ever paid for a professional football team at the time."
+    },
+    {
+      "id": null,
+      "speakername": "Vivek Ramaswamy",
+      "source_file": "Vivek Ramaswamy.json",
+      "input": "Here is a conversation excerpt from an interview:\n\n[target]: going to be number one.\nSPEAKER_01: Yeah.\n[target]: That's the goal, but it's a steady climb to get there. I mean, it's like where [public figure] was in 2015. That's about where we are in the polling nationally. Look, I'm not a political scientist. My projections of who's going to do what over the course of a year and a half, those predictions aren't worth much. But what I am in this race to do is to speak truth at every step. And my entire electoral strategy is I'm going to actually say what I believe. And we'll find out whether that's a winning strategy or not. My bet is that it is. I just came here from [state], spent five days on a 10-county bus tour there. If we're doing what we're doing in rooms of 100 or 200 people at a time, and we can take that nationally, I have full confidence we win this election. But more importantly, it's not about who wins this election that matters. It's the fact of how we actually revive our missing national identity. That's why I'm in this race. And I'd rather speak truth and lose the election rather than to play some political snakes and ladders and figure out how to .\nSPEAKER_01: the number one issue revive our national identity i actually think it is and explain what that means",
+      "output": "So, look, if you ask people my age—I'm 37, I'm a millennial—what does it mean to be American? You get a blank stare in response. I think that is a moral vacuum. It is a vacuum at the heart of our national soul. What would you wish the response to be? I'd wish the response to be something that was grounded in the principles that set this country into motion, that said we're a nation built on basic ideas like the rule of law, like free speech and open debate, that we embrace meritocracy over grievance, that we embrace the unapologetic pursuit of excellence, that we live in a country where the people who we elect to run the government are the ones who actually run the government. Even if I disagree with them, let it be the people we elect, rather than a permanent managerial bureaucratic permanent state class that actually runs the show today. That's what it means to be American. We fought a revolution to bring ourselves together, that we're—yes, may come from many different skin colors, that there's two different genders. There are two different political parties. But what unites us is a commitment to those common set of ideals. That's what it means to be American. Yet now you get a dull, lobotomized stare. That's effectively what you get when you ask somebody what it means to be American, if not an actual shameful response, almost apologizing for the existence of a nation founded on those ideals. And yes, I think that's the most important issue. Why? Because our economic revival depends on a revival of self-confidence, because the revival of our leadership. On the global stage, the revival of American self-confidence on the global stage starts with restoring self-confidence at home and in each of ourselves. And so that's where this presidential campaign for me is more of a cultural campaign than a political campaign, though it's taken the form."
+    },
+    {
+      "id": null,
+      "speakername": "Scooter Braun",
+      "source_file": "Scooter Braun.json",
+      "input": "Here is a conversation excerpt from an interview:\n\nSPEAKER_01: We are friends.\n[target]: Yes, we are.\nSPEAKER_01: someone that i haven't known for like the last decade of my life i get it that's all the guests that we've had on i would like\n[target]: Look, the fun part for me is that.",
+      "output": "I know that you've had a lot of people on the show so far, I think two, and both of those people are better friends than me, but I am closer to you than you are with Jack when that's all that matters to me."
+    }
+  ]
+}

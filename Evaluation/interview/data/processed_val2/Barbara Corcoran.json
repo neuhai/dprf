@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What I would love to do is call someone to my office on Friday. I love firing people on Friday. [target] in the house! My next guest is one of the biggest names in real estate, a successful entrepreneur and star of a hit TV show. Now the female titan is getting some heat. The minute a woman cries, you're giving away your power."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "A prestigious university is definitely over the top."
+      },
+      {
+        "speaker": "[target]",
+        "text": "If I wasn't dyslexic and I didn't have a hard time in school, I don't think I would have been successful. I think I had 22 jobs before I started my own business."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Every person I meet is in real estate in a major city. So how do you become the best?"
+      }
+    ],
+    "speakername": "Barbara Corcoran",
+    "ground_truth": "I was competing with the established business network, and they were asleep at the wheel. Nobody was thinking of new ideas in real estate. I would think of the greatest bullshit to create publicity. Did I manipulate them? I played my cards. Everything I've done in my life has been one long attempt to show the world that I'm not stupid.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If I wasn't dyslexic and I didn't have a hard time in school, I don't think I would have been successful. I think I had 22 jobs before I started my own business."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Every person I meet is in real estate in this city. So how do you become the best?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was competing with the established business network, and they were asleep at the wheel. Nobody was thinking of new ideas in real estate. I would think of the greatest ideas to create publicity. Did I manipulate them? I played my cards. Everything I've done in my life has been one long attempt to show the world that I'm not stupid."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Ramon Simone"
+      }
+    ],
+    "speakername": "Barbara Corcoran",
+    "ground_truth": "He was my boyfriend at the time, and he offered to loan me $1,000 to start a business with him. He was my 51% business partner. He ran off with my secretary the seventh year we were in business. He said, you'll never succeed without me. You know, insult can really be a wonderful motivator. I knew I was going to succeed. I had to. Just because I had to show him that he was wrong.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "First off, I'd say competition. I was one of 10 children. We, of course, only had two parents to share. We were in very tight quarters, a two-bedroom, and just to get the attention of a parent was very hard to do. So I think everyone in my family, certainly myself, grew up very competitive, competitive for attention, competitive to do something better than the next kid. And what also came with it, we grew up in a team. So we never knew what it was like to be alone. My idea of doing anything is who's with me, who's with me. And I think we all, I shouldn't speak to everyone in my family, but I'll speak just for myself now. I think I'm phenomenal at building a team, but it's second nature to me. It was so easy for me to think of who would go with who, who wouldn't go with who, who would get along, who had the right task. I could just size somebody up really fast and make a great tight team. And I don't think that would have happened. If I didn't grow up in a very crowded household, looking for more attention and competing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That ability to suss people out and understand them, you're saying that came from having nine siblings?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I certainly think it did. Yeah, because you see all kinds of dynamics when you have a crowded household. So you know who the leaders are on what category. You know who's going to squeal to the parents. You know who's going to shut up. You know who can do your work for you when you don't want to do it yourself. You know who you could snow. You develop all the talents to get life in a form that you want it in. And you come out of the household at 18 years old with a lot of skills that other kids really haven't had the opportunity to do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What about the influence of your mother and father?"
+      }
+    ],
+    "speakername": "Barbara Corcoran",
+    "ground_truth": "Oh, and I was, thank God, I had a mother and father who loved us. I think that's the most important gift in life. It makes you somewhere deep inside secure if you feel loved. And I had two parents who loved me, you know. And my mother was a phenomenal role model. I never saw her sleep. She worked 24-7. She just never sat down. I don't know even when she slept. I've never seen her go to bed ever in my life. And my father worked two jobs his whole life to support us. So we were very much influenced by each parent as needing to work hard. I mean, we were all having jobs when we were 11 years old. I think I had 22 jobs before I started my own business because we were out working to contribute to the family. And think about the life skills you get outside a household when you're working young. I don't think anybody ever has any job where they didn't learn something about themselves. So even though when I went out into the workforce, when I started my business at 23, I may have had a job. I may have looked 23, but inside I felt like I was 53 based on experience. And so there was nothing naive about me at that point. I had already an awful lot of experience.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I certainly think it did. Yeah, because you see all kinds of dynamics when you have a crowded household. So you know who the leaders are on what category. You know who's going to squeal to the parents. You know who's going to shut up. You know who can do your work for you when you don't want to do it yourself. You know who you could snow. You develop all the talents to get life in a form that you want it in. And you come out of the household at 18 years old with a lot of skills that other kids really haven't had the opportunity to do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What about the influence of your mother and father?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, and I was, thank God, I had a mother and father who loved us. I think that's the most important gift in life. It makes you somewhere deep inside secure if you feel loved. And I had two parents who loved me, you know. And my mother was a phenomenal role model. I never saw her sleep. She worked 24-7. She just never sat down. I don't know even when she slept. I've never seen her go to bed ever in my life. And my father worked two jobs his whole life to support us. So we were very much influenced by each parent as needing to work hard. I mean, we were all having jobs when we were 11 years old. I think I had 22 jobs before I started my own business because we were out working to contribute to the family. And think about the life skills you get outside a household when you're working young. I don't think anybody ever has any job where they didn't learn something about themselves. So even though when I went out into the workforce, when I started my business at 23, I may have had a job. I may have looked 23, but inside I felt like I was 53 based on experience. And so there was nothing naive about me at that point. I had already an awful lot of experience."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When I was reading through your story, I read that your father struggled with work and struggled with, I think, having a boss."
+      }
+    ],
+    "speakername": "Barbara Corcoran",
+    "ground_truth": "he did. And he set up the pattern that we all share in my family. Nine out of the 10 kids have their own business. My father was a printing press foreman and a very good worker. But he didn't like someone telling him what to do. So he would regularly come home, sit at the dinner table and tell us he was fired from his job. It was a regular event. We all asked him to tell us a story and it was the same story. He would basically, he said, I told Ms. S we're to shove the job where the sun don't shine. That was my, and we'd all clap for him and say, dad, our hero. And my mother, of course, would not even know how we were going to be fit until he found a new job. But he was our hero. And so when we grew up, even though he never worked for himself, the fact of the matter is, is we knew we wanted to work for ourself. We didn't want to work for a boss. And honestly, I never had a boss I liked, even though I had so many. And I'm sure they were perfectly fine people. But I didn't like the fact that I was. I wasn't the boss. It was clear to me.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, and I was, thank God, I had a mother and father who loved us. I think that's the most important gift in life. It makes you somewhere deep inside secure if you feel loved. And I had two parents who loved me, you know. And my mother was a phenomenal role model. I never saw her sleep. She worked 24-7. She just never sat down. I don't know even when she slept. I've never seen her go to bed ever in my life. And my father worked two jobs his whole life to support us. So we were very much influenced by each parent as needing to work hard. I mean, we were all having jobs when we were 11 years old. I think I had 22 jobs before I started my own business because we were out working to contribute to the family. And think about the life skills you get outside a household when you're working young. I don't think anybody ever has any job where they didn't learn something about themselves. So even though when I went out into the workforce, when I started my business at 23, I may have had a job. I may have looked 23, but inside I felt like I was 53 based on experience. And so there was nothing naive about me at that point. I had already an awful lot of experience."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When I was reading through your story, I read that your father struggled with work and struggled with, I think, having a boss."
+      },
+      {
+        "speaker": "[target]",
+        "text": "he did. And he set up the pattern that we all share in my family. Nine out of the 10 kids have their own business. My father was a printing press foreman and a very good worker. But he didn't like someone telling him what to do. So he would regularly come home, sit at the dinner table and tell us he was fired from his job. It was a regular event. We all asked him to tell us a story and it was the same story. He would basically, he said, I told Mrs. Stein we're to shove the job where the sun don't shine. That was my, and we'd all clap for him and say, dad, our hero. And my mother, of course, would not even know how we were going to be fit until he found a new job. But he was our hero. And so when we grew up, even though he never worked for himself, the fact of the matter is, is we knew we wanted to work for ourself. We didn't want to work for a boss. And honestly, I never had a boss I liked, even though I had so many. And I'm sure they were perfectly fine people. But I didn't like the fact that I was. I wasn't the boss. It was clear to me."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your father drunk drank sometimes."
+      }
+    ],
+    "speakername": "Barbara Corcoran",
+    "ground_truth": "Yes, he did drink sometimes, and I'll tell you how that played a role in our family. He was a social drinker, so he was probably the best father in the world, played with us, was our playmate. We adored him, everything he did. But then when we went out to a party, which wasn't that often, a family party, he would drink too much, and he would come back, and he was a different person. He was a gorilla, and we all feared him. What that does is it makes you very fond of control. When you're with a parent who drinks, I think as a child, you never really feel like you're in control of things because you don't know when the lion might come out. And so it made us insecure and very fond of control, and I'm a control freak. I like to control everything I do, and I credit my dad with that. I don't want any curveballs or surprises.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

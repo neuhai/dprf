@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "New ones coming along, they're not even bright red."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That's true, that's true. Are you still in touch with some of your alumni from the university? Oh, yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "sorts of different things, which is wonderful."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, that's great. Very often, though, [target], when you look at a colossal success like the company, you do go back and you find a founder that would just be willing to do anything, so obsessed by their business that they'd be willing to do anything. And as you said already, think differently, think creatively, come at it at a different perspective. And I remember I was watching a video of you when you were talking about how you needed a chip for a prototype. Could you just tell that story? You can tell it far better than I can. Can you just share? Well, I was"
+      }
+    ],
+    "speakername": "Mike Lynch",
+    "ground_truth": "desperate to build what would now be called a sampling synthesizer, a digital synthesizer and I really wanted one of these but the problem was that the way I saw to do it revolved around having a chip that was really powerful to do make all the music and the sound. The problem is they were only available for the use in the head end of military equipment at the time and they're very expensive so I needed one of these to make a prototype so I rang up the sales rep and I learned a little bit out how the sales rep works.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That's true, that's true. Are you still in touch with some of your alumni from the [university]? Oh, yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "sorts of different things, which is wonderful."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, that's great. Very often, though, [target], when you look at a colossal success like [company], you do go back and you find a founder that would just be willing to do anything, so obsessed by their business that they'd be willing to do anything. And as you said already, think differently, think creatively, come at it at a different perspective. And I remember I was watching a video of you when you were talking about how you needed a chip for a prototype. Could you just tell that story? You can tell it far better than I can. Can you just share? Well, I was"
+      },
+      {
+        "speaker": "[target]",
+        "text": "desperate to build what would now be called a sampling synthesizer, a digital synthesizer and I really wanted one of these but the problem was that the way I saw to do it revolved around having a chip that was really powerful to do make all the music and the sound. The problem is they were only available for the use in the head end of nuclear missiles at the time and they're very expensive so I needed one of these to make a prototype so I rang up the sales rep and I learned a little bit out how the sales rep works."
+      }
+    ],
+    "speakername": "Mike Lynch",
+    "ground_truth": "and rather than asking for one, which I would never have got, the first thing I did was ask them to quote for 10,000 and of course at that point sales rep reaches for the Porsche brochure thinking that you know they've made a massive commission fail but at the end of the conversation I said can you just send me one for our testing department and of course one nuclear missile somewhere is missing that ship which I feel very happy about and it arrived and we made the system and then that went on and of course they did sell more chips because we made a decision but the carpenters did come. At the time I was living in a bed sit down by the railway station in [university city] and being a PhD in engineering I used to get up at about 11 in the morning and then work into the night. 10.30 the doorbell went and there was a whole delegation from this company wearing suits asking for [target] and there I was in my dressing gown and so I just told them I'd never heard of him and closed the door. Anyway, not a practice I'd recommend. Yeah.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "be very very much more approachable and fluffy than that."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, I know, but I suppose in a debate you can be, I mean, you're very clear thinking, I bet when it gets into debate you could probably knock the socks off anyone I imagine, is that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "no I just like people to you know what I don't like is people who say something because it's what's always been said or you know who just spout some management book at you I want them to have thought about a problem actually as long as you thought about why you're saying what you're saying you're not gonna have a problem"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Mike Lynch",
+    "ground_truth": "Because then you can always explain, well, I think that we should do this because of that, and that's fine. What I don't like is people that sleepwalk into decisions or do it that way because that's the way it was always done. That's not...",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "my world."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "No. A former governor of a national bank we interviewed here, said that during the economic crisis, when he was the governor, he had to carve out time for thinking. So in the mornings he'd think, and then in the afternoon he'd be in meetings and do everything else. Knowing the fact that thinking differently is so important, have you tried to turn that into a habit of yours, to make sure you spend enough time using the computer?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's actually, I think, one of the biggest problems in business today is people aren't, in that sense, spending time thinking. And I actually predate the problem because the problem is driven by things like email. So what happens when people arrive in the office in the morning is they get lots of emails in and then they think they're working by responding to the emails. And what they're doing is completely reacting to a process. And it's actually like some sort of chain reaction because then everyone responds to those emails. So it's very, very, very important to sit down and just think on your agenda."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Mike Lynch",
+    "ground_truth": "and you know some people do it in the bath some people do it on the bus it doesn't matter but it is really important that you're doing that and you're setting the goals so you know the way i like to wake up in the morning is i'll have a think about things",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "No. A former governor of a national bank we interviewed here, said that during the economic crisis, when he was the governor, he had to carve out time for thinking. So in the mornings he'd think, and then in the afternoon he'd be in meetings and do everything else. Knowing the fact that thinking differently is so important, have you tried to turn that into a habit of yours, to make sure you spend enough time using the computer?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's actually, I think, one of the biggest problems in business today is people aren't, in that sense, spending time thinking. And I actually predate the problem because the problem is driven by things like email. So what happens when people arrive in the office in the morning is they get lots of emails in and then they think they're working by responding to the emails. And what they're doing is completely reacting to a process. And it's actually like some sort of chain reaction because then everyone responds to those emails. So it's very, very, very important to sit down and just think on your agenda."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and you know some people do it in the bath some people do it on the bus it doesn't matter but it is really important that you're doing that and you're setting the goals so you know the way i like to wake up in the morning is i'll have a think about things"
+      }
+    ],
+    "speakername": "Mike Lynch",
+    "ground_truth": "and then I might work out five things that really matter that I want to make happen today and then that's what you do. You only answer the emails at the end if you've got spare time.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

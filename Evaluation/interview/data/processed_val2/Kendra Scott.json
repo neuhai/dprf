@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The School of Greatness."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Really? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Please welcome Lewis Howe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But how did you overcome all these obstacles in the last few years? And how long did that stress or pain last for?"
+      }
+    ],
+    "speakername": "Kendra Scott",
+    "ground_truth": "Well, you know, you look at 2020 and obviously the whole world was suffering, you know, and you turn on the TV, you couldn't escape it and you're stuck in your house just right dealing with all this. But in the midst of all that, my father, who is my rock in my book, you'll just see he and I have this unbelievable bond, had suffered two major heart attacks. I had to go pick him up in [state].",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "because he wasn't getting the medical care he needed and brought him to [city] where I live."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Wow."
+      },
+      {
+        "speaker": "[target]",
+        "text": "ambulances at the you know on the airport waiting to take him to the hospital and where he spent until March almost March 12th from you know December 31st so ringing in that year was already starting out stressful going through a divorce you know I had some my own personal health issues happen I ended up being in the same hospital that my dad was in you"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "No way."
+      }
+    ],
+    "speakername": "Kendra Scott",
+    "ground_truth": "During that time period it was one of those years where but on the outside Everyone thought [target] was fine",
+    "bio": " The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Wow."
+      },
+      {
+        "speaker": "[target]",
+        "text": "ambulances at the you know on the regional terminal waiting to take him to the medical center and where he spent until March almost March 12th from you know December 31st so ringing in that year was already starting out stressful going through a divorce you know I had some my own personal health issues happen I ended up being in the same medical center that my dad was in you"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "No way."
+      },
+      {
+        "speaker": "[target]",
+        "text": "During that time period it was one of those years where but on the outside Everyone thought [target] was fine"
+      }
+    ],
+    "speakername": "Kendra Scott",
+    "ground_truth": "The Instagrams are great, she's smiling, things are good. And I just felt so, you know, like this isn't real.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But when they see the success in 20 years, they see you on a TV show, they see you at the book, they see you as this inspiring leader in the business world as well. What is the thing that most people don't see? What is the biggest insecurity, shame or fear that you never share that people, if they knew you were working on overcoming?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "would see you differently."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I think one of the things that's so important is that we're not, no one is superwoman. And yet we try so hard in our life to make people think that we're Superman or superwoman, that we are these just, we've got it all together, you know? And I think it's, you know, as a mom."
+      }
+    ],
+    "speakername": "Kendra Scott",
+    "ground_truth": "I'm always struggling. The people will be like, oh, how do you balance it all, [target]? That is a myth. No, if anyone tells you they've got it figured out, they are lying, okay? That is a total myth. We, I work every day to be like, okay, how do I make sure that I'm there for my kids when they need me? Or if I forgot, is it a bake sale? Oh my gosh, you know, I'm racing to the store, picking up cookies and trying to package them in a Tupperware so I don't feel like my kid doesn't think I actually baked the cookie, you know? We do things right because we are doing the best that we can every day. And I think for us to say to one another and have these open conversations of, I've got this, thank you for helping me or reaching out and asking for help. I now have a group of moms at school where we are all working together. It's like, I can't do this today, can you help? Yeah, I can do that. Or, and instead of being critical of one another, oh, she didn't bake her own cookies. It's like, we support one another. And that.",
+    "bio": " The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Sure, sure."
+      },
+      {
+        "speaker": "[target]",
+        "text": "is what I think is I think what you know for me is I'm I've stopped trying to be perfect"
+      },
+      {
+        "speaker": "[target]",
+        "text": "because no one's perfect. And I've started to laugh at myself more and be vulnerable and to just be like, you know, I don't have it all together today and be okay with that."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Kendra Scott",
+    "ground_truth": "know and i think that has taken time because in the early days of my business i felt like i was always being judged as this girl from [state] who you know in [city] where it was very tech savvy you know environment i'm starting a fashion brand where you know i was laughed out of boardrooms asking for you know investment funding and",
+    "bio": " The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

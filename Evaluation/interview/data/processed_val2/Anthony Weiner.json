@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When [target] was 27 years old, he was elected to the city council, then the youngest person to serve. Now he's 60, there's been a lot of water under the bridge, and he's thinking of running for the council again. So I have to ask you this question. You've carved out a nice life for yourself. You have a wonderful radio show. People turn in. You're a respected pundit. Why do this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I get that question a lot. Like, what are you thinking? I mean, look, for years, and I've been a civilian for a while. I ran a countertop company out in the industrial district. I'm on the radio on a major station. And like you said, I've got a lot. I've got a great deal of blessings. And I did this for a very long time. You pointed out somewhat embarrassingly that you and I have been doing this for decades now. We have. But I have to tell you, I really do think that our city has lost its way a little bit. Not in the sense that it's on fire like it was in the 70s, or that it's unsafe like it was maybe in the 90s. But there is a sense among my neighbors, and I share this sense, that we just aren't solving problems anymore. That, you know, it used to be that if you went to the city council, you went, you were the mayor, you didn't always get everything right. But at least you got the sense that people recognize we have the problems. Whether it be the illegal pot shops, or the chronic problem of the same homeless people that are on our streets, that we know them. We know their names. We can, we probably, you know, we walk by them every single day, and we find it mysterious that we can't solve these problems. And for someone like me who grew up in this city,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, we have this ethos of we get better generation by generation, year by year. And I feel that we're stagnating now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But why is that? I mean, why is the mayor and the city council unable to say, these are our common problems, let's find a common solution?"
+      }
+    ],
+    "speakername": "Anthony Weiner",
+    "ground_truth": "have a theory about that. I think that we are very good as Democrats of coming up with ideas to solve problems. But once we do, we are not very good about making sure they're working. The idea, like take the pot shops, for example, the idea of decriminalizing marijuana was right. People going to prison for small amounts of marijuana was right. But then we set up a system where we have illegal shops everywhere, people smoking in the park, people smoking on the corner. The legal guys can't survive. We created that problem. It wasn't some power on high. It wasn't Republicans. So how do you fix it? Oh, that's relatively easy. We never should have taken the law enforcement out of the job of enforcing those rules. We gave it to this cannabis authority in the state capital, who of course were not going to be able to do it. When it comes to the people who are the chronic homeless, who have disabilities, you know, listen, we have to return our relationship to common spaces to realize that it's for the rest of us also. And no progressive I know likes the idea of decriminalizing marijuana. That there are people who aren't paying to get on the bus. They're sleeping on five on five seats. It's not safe. Well, maybe not safe. It's not orderly.",
+    "bio": "[target] (born September 4, 1964) is a Jewish American former Democratic congressman, convicted felon who represented a major metropolitan congressional district from January 1999 until June 2011. He won seven terms as a Democrat, never receiving less than 60% of the vote. [target] resigned from Congress in June 2011 after an incident in which a sexually suggestive photo that he sent to a woman via social media was captured and publicized. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, we have this ethos of we get better generation by generation, year by year. And I feel that we're stagnating now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But why is that? I mean, why is the mayor and the city council unable to say, these are our common problems, let's find a common solution?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "have a theory about that. I think that we are very good as Democrats of coming up with ideas to solve problems. But once we do, we are not very good about making sure they're working. The idea, like take the pot shops, for example, the idea of decriminalizing marijuana was right. People going to prison for small amounts of marijuana was right. But then we set up a system where we have illegal shops everywhere, people smoking in the park, people smoking on the corner. The legal guys can't survive. We created that problem. It wasn't some power on high. It wasn't Republicans. So how do you fix it? Oh, that's relatively easy. We never should have taken the law enforcement out of the job of enforcing those rules. We gave it to this cannabis authority in the state capital, who of course were not going to be able to do it. When it comes to the people who are the chronic homeless, who have disabilities, you know, listen, we have to return our relationship to common spaces to realize that it's for the rest of us also. And no progressive I know likes the idea of decriminalizing marijuana. That there are people who aren't paying to get on the bus. They're sleeping on five on five seats. It's not safe. Well, maybe not safe. It's not orderly."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So what should the city do? If you were elected in the city council, what ideas would you propose to fix these problems?"
+      }
+    ],
+    "speakername": "Anthony Weiner",
+    "ground_truth": "Well, it's funny. I have a website now, [target].com, where I have 25 ideas for 2025. As you know, that's my thing. I start every effort with a whole bunch of new ideas. I had two books of ideas when I ran for mayor. Look, here are a couple of things. One, the conversation needs to be about not only having more police on the beat, which I think we should, although it's preposterous to me that even the city council wouldn't even consider that idea, but get them out of their cars. Put them walking the beat again. And not just standing in front of a store like there is in my neighborhood. Get them walking around the block. Get them out of the patrol cars, racing from place to place. Put them on a bike. When it comes to the chronic homeless, listen, people who have mental issues, getting them off the streets is a relatively easy problem. However, keeping them someplace that they can take care of themselves is very hard. More supportive housing? More supportive housing. But also, we're using the medical facility now to develop out in the outer borough, out close to where I used to represent. We have facilities there for people with mental challenges. And rather than... Reopen them. Rather than develop it, a housing that a lot of people don't even want there, let's expand our ability. But here's something else we have to do. Those people have certain rights, but so do we as the public. These people are unable to take care of themselves. And when me and my neighbors walk by the same couple of people, there's one guy who's in front of a coffee shop every morning on the street corner. I know him. I say hello to him. He is not able to take care of himself. It's our job to return that sidewalk to the city.",
+    "bio": "[target] (born September 4, 1964) is a Jewish American former Democratic congressman, convicted felon who represented a congressional district from January 1999 until June 2011. He won seven terms as a Democrat, never receiving less than 60% of the vote. [target] resigned from Congress in June 2011 after an incident in which a sexually suggestive photo that he sent to a woman via social media was captured and publicized. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "have a theory about that. I think that we are very good as Democrats of coming up with ideas to solve problems. But once we do, we are not very good about making sure they're working. The idea, like take the pot shops, for example, the idea of decriminalizing marijuana was right. People going to prison for small amounts of marijuana was right. But then we set up a system where we have illegal shops everywhere, people smoking in the park, people smoking on the corner. The legal guys can't survive. We created that problem. It wasn't some power on high. It wasn't Republicans. So how do you fix it? Oh, that's relatively easy. We never should have taken the NYPD out of the job of enforcing those rules. We gave it to this cannabis authority in Albany, who of course were not going to be able to do it. When it comes to the people who are the chronic homeless, who have disabilities, you know, listen, we have to return our relationship to common spaces to realize that it's for the rest of us also. And no progressive I know likes the idea of decriminalizing marijuana. That there are people who aren't paying to get on the bus. They're sleeping on five on five seats. It's not safe. Well, maybe not safe. It's not orderly."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So what should the city do? If you were elected in the city council, what ideas would you propose to fix these problems?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's funny. I have a website now, AnthonyWiener.com, where I have 25 ideas for 2025. As you know, that's my thing. I start every effort with a whole bunch of new ideas. I had two books of ideas when I ran for mayor. Look, here are a couple of things. One, the conversation needs to be about not only having more police on the beat, which I think we should, although it's preposterous to me that even the city council wouldn't even consider that idea, but get them out of their cars. Put them walking the beat again. And not just standing in front of a target like there is in my neighborhood. Get them walking around the block. Get them out of the RMPs, racing from place to place. Put them on a bike. When it comes to the chronic homeless, listen, people who have mental issues, getting them off the streets is a relatively easy problem. However, keeping them someplace that they can take care of themselves is very hard. More supportive housing? More supportive housing. But also, we're using Creedmoor now to develop out in Queens, out close to where I used to represent. We have facilities there for people with mental challenges. And rather than... Reopen them. Rather than develop it, a housing that a lot of people don't even want there, let's expand our ability. But here's something else we have to do. Those people have certain rights, but so do we as the public. These people are unable to take care of themselves. And when me and my neighbors walk by the same couple of people, there's one guy who's in front of Dunkin' Donuts every morning on Avenue B and 14th Street. I know him. I say hello to him. He is not able to take care of himself. It's our job to return that sidewalk to New York. So are you saying..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "that you would take people off the streets against their will?"
+      }
+    ],
+    "speakername": "Anthony Weiner",
+    "ground_truth": "Here's what I do. We should change the law that says right now the only way they can be held is if they are an imminent threat to do harm to themselves or others. Well, very few judges find that. OK, there's a there is a category we should add to that. If they're unable to to participate in their own care, then we should be able to hold them to be able if they can't take care of themselves.",
+    "bio": "Anthony David WeinerÂ (born September 4, 1964) is a Jewish American formerÂ DemocraticÂ congressman, convicted felon who representedÂ New York's 9th congressional districtÂ from January 1999 until June 2011. He won seven terms as aÂ Democrat, never receiving less than 60% of the vote. Weiner resigned from Congress in June 2011 after anÂ incidentÂ in which a sexually suggestive photo that he sent to a woman viaÂ TwitterÂ was captured and publicized. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's funny. I have a website now where I have 25 ideas for 2025. As you know, that's my thing. I start every effort with a whole bunch of new ideas. I had two books of ideas when I ran for mayor. Look, here are a couple of things. One, the conversation needs to be about not only having more police on the beat, which I think we should, although it's preposterous to me that even the city council wouldn't even consider that idea, but get them out of their cars. Put them walking the beat again. And not just standing in front of a store like there is in my neighborhood. Get them walking around the block. Get them out of the patrol cars, racing from place to place. Put them on a bike. When it comes to the chronic homeless, listen, people who have mental issues, getting them off the streets is a relatively easy problem. However, keeping them someplace that they can take care of themselves is very hard. More supportive housing? More supportive housing. But also, we're using a medical facility now to develop out in the suburbs, out close to where I used to represent. We have facilities there for people with mental challenges. And rather than... Reopen them. Rather than develop it, a housing that a lot of people don't even want there, let's expand our ability. But here's something else we have to do. Those people have certain rights, but so do we as the public. These people are unable to take care of themselves. And when me and my neighbors walk by the same couple of people, there's one guy who's in front of a coffee shop every morning on the corner. I know him. I say hello to him. He is not able to take care of himself. It's our job to return that sidewalk to the city."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "that you would take people off the streets against their will?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Here's what I do. We should change the law that says right now the only way they can be held is if they are an imminent threat to do harm to themselves or others. Well, very few judges find that. OK, there's a there is a category we should add to that. If they're unable to to participate in their own care, then we should be able to hold them to be able if they can't take care of themselves."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is that a state law that you'd have to change?"
+      }
+    ],
+    "speakername": "Anthony Weiner",
+    "ground_truth": "We'd have to change. A lot of these are state laws. A lot of these are. And by the way, that's one of the things I will constantly chafe at. I want the state government out of our life more. And one of the things they can do is if they can't solve these problems, they should turn it over to those of us in the city level.",
+    "bio": "The subject (born September 4, 1964) is a former congressman and convicted felon who represented a congressional district from January 1999 until June 2011. He won seven terms as a member of his party, never receiving less than 60% of the vote. He resigned from Congress in June 2011 after an incident involving inappropriate social media communications. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Here's what I do. We should change the law that says right now the only way they can be held is if they are an imminent threat to do harm to themselves or others. Well, very few judges find that. OK, there's a there is a category we should add to that. If they're unable to to participate in their own care, then we should be able to hold them to be able if they can't take care of themselves."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is that a state law that you'd have to change?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We'd have to change. A lot of these are state laws. A lot of these are. And by the way, that's one of the things I will constantly chafe at. I want [state capital] out of our life more. And one of the things they can do is if they can't solve these problems, they should turn it over to those of us in the city level."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So in terms of crime, in addition to having more cops on the beat, one of the things that seems to have been unsolvable has been subway crime. You know, we've seen a woman set on fire. We've seen somebody pushed under the subway. How do you fix that?"
+      }
+    ],
+    "speakername": "Anthony Weiner",
+    "ground_truth": "Well, you know, the problem we have, you know, we have this argument that's almost pointless that goes on with the mayor talks about, well, crime is down because some categories of crimes are down. Murders are up. But look, for the most part, I believe that we are we're a safe city, but we're a disorderly city. You know, the idea that, you know, when you are a taxpaying, progressive person, liberal in every sense of the word. And I was a I sponsored single payer health care when I was in [federal legislature]. I'm frustrated when I see people not paying the fare. I'm frustrated when I see people sleeping, sleeping on the subway. I think we have to realize and this is this is where we're failing as a city. It is there is no progressive value in the world that says it's OK to be taking up public spaces by sleeping in them.",
+    "bio": "[target] (born September 4, 1964) is a Jewish American former Democratic congressman, convicted felon who represented [district name] from January 1999 until June 2011. He won seven terms as a Democrat, never receiving less than 60% of the vote. [target] resigned from [federal legislature] in June 2011 after an incident in which a sexually suggestive photo that he sent to a woman via social media was captured and publicized. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

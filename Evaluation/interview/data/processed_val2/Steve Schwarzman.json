@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Welcome to the broadcast. We're at a prestigious business school for our continuing series of conversations about business, leadership, management, people who have achieved something in our society and are doing something in a whole range of areas. [target] is certainly that. He is the chairman and CEO of a major private equity firm. He is also at a national cultural center, where he is a chairman of that wonderful institution, a job that he has just taken on. We want to talk to him about a whole range of things, but I am pleased with some students from the business school to welcome to this room [target]. Good to have you here. Thank you, Charlie. You're one of those people who went to another ivy league university and then came to the business school like the president and others. Tell me about the business school that you attended and why you came here and how did it change? How did it shape you in terms of what you have gone on to do?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "This business school at that time was actually a lot different than it was. It didn't necessarily get the best and the brightest like it does now. At that point, everybody who was the best and the brightest pretty much was going to law school or to medical school. It was the middle of the Vietnam War, and it was a relatively unpopular place to be."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You came here because you knew from an early age you wanted to be in business."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Steve Schwarzman",
+    "ground_truth": "I wasn't that driven. I looked at some law school classes and I found those pretty boring and I found the business school stuff a lot easier actually and ended up that I was, for whatever the reason,",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You came here because you knew from an early age you wanted to be in business."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I wasn't that driven. I looked at some law school classes and I found those pretty boring and I found the business school stuff a lot easier actually and ended up that I was, for whatever the reason,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "suited for it what is it what was the drive to form your own firm and and how did that come into being you know and what does it do"
+      }
+    ],
+    "speakername": "Steve Schwarzman",
+    "ground_truth": "Well, the drive to form my own firm was really sort of an accident, like a lot of things in life. I was quite happy at [financial firm A]. I was head of the merger department, and we were doing an enormous number of deals. It was really an exciting place, a wonderful place. And then we got into financial difficulty, and the firm blew up, and basically I sold it to [financial firm B]. And during that process, I got to watch some truly unattractive behavior by people who were supposed to be protecting the firm, people 10 years older than me. And I decided I didn't want to stay there, and I had done a lot of work while I was at [financial firm A] with the chairman of the firm, who was a fellow named [Person A]. And [Person A] and I enjoyed working together. And [Person A] had left in a power struggle a year before we sold the firm. And so I decided that after we sold the firm that I wanted to join [Person A], and [Person A] decided he wanted to join me, and what we wanted to do was to work together again. It was sort of a logical thing to want to do with one's life, and it had a good feeling, which is sort of when you do things in life that have a good feeling, it tends to work out well, as opposed to coming up with a wonderful strategic plan. And we came up with a good strategic plan to do. Advisory work to pay the rent, to go into the buyout business, because it looked like a pretty easy way, frankly, to make money in the mid-'80s. And then the third piece of our strategic plan was to attract very gifted people who wanted to be in business with us, sort of split the ownership of that business or the profits. And that was a good strategy because Wall Street was growing so rapidly at that point that people often felt a sense of just being alienated from the firms where they grew up. When I joined [financial firm A], we had 550 people, and now any respectable securities firm has numbers in the tens of thousands. And how many does [financial firm C] have? We have 550 people. Isn't that curious? Right where I started. So, in effect, no progress was made.",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I wasn't that driven. I looked at some law school classes and I found those pretty boring and I found the business school stuff a lot easier actually and ended up that I was, for whatever the reason,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "suited for it what is it what was the drive to form your own firm and and how did that come into being you know and what does it do"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the drive to form my own firm was really sort of an accident, like a lot of things in life. I was quite happy at [financial firm]. I was head of the merger department, and we were doing an enormous number of deals. It was really an exciting place, a wonderful place. And then we got into financial difficulty, and the firm blew up, and basically I sold it to [financial company]. And during that process, I got to watch some truly unattractive behavior by people who were supposed to be protecting the firm, people 10 years older than me. And I decided I didn't want to stay there, and I had done a lot of work while I was at [financial firm] with the chairman of the firm, who was a fellow named [executive]. And [executive] and I enjoyed working together. And [executive] had left in a power struggle a year before we sold the firm. And so I decided that after we sold the firm that I wanted to join [executive], and [executive] decided he wanted to join me, and what we wanted to do was to work together again. It was sort of a logical thing to want to do with one's life, and it had a good feeling, which is sort of when you do things in life that have a good feeling, it tends to work out well, as opposed to coming up with a wonderful strategic plan. And we came up with a good strategic plan to do. Advisory work to pay the rent, to go into the buyout business, because it looked like a pretty easy way, frankly, to make money in the mid-'80s. And then the third piece of our strategic plan was to attract very gifted people who wanted to be in business with us, sort of split the ownership of that business or the profits. And that was a good strategy because Wall Street was growing so rapidly at that point that people often felt a sense of just being alienated from the firms where they grew up. When I joined [financial firm], we had 550 people, and now any respectable securities firm has numbers in the tens of thousands. And how many does [investment firm] have? We have 550 people. Isn't that curious? Right where I started. So, in effect, no progress was made."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, a lot of progress was made. You may be the largest private equity firm in the country. Tell me what private equity is and what it is that you do."
+      }
+    ],
+    "speakername": "Steve Schwarzman",
+    "ground_truth": "Well, what we do is pretty simple. We raise large amounts of money from principally institutions, pension funds, endowments, and then we buy companies using those funds, and we basically borrow about $3, sometimes a little more, sometimes a little less, to every dollar of equity that we put up in the deal. We tend to control the deals. We try and improve the companies, and we own them for a while, and then we sell them and hopefully make a lot of money for our investors. That is what we do.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the drive to form my own firm was really sort of an accident, like a lot of things in life. I was quite happy at [financial firm]. I was head of the merger department, and we were doing an enormous number of deals. It was really an exciting place, a wonderful place. And then we got into financial difficulty, and the firm blew up, and basically I sold it to [financial company]. And during that process, I got to watch some truly unattractive behavior by people who were supposed to be protecting the firm, people 10 years older than me. And I decided I didn't want to stay there, and I had done a lot of work while I was at [financial firm] with the chairman of the firm, who was a fellow named [executive]. And [executive] and I enjoyed working together. And [executive] had left in a power struggle a year before we sold the firm. And so I decided that after we sold the firm that I wanted to join [executive], and [executive] decided he wanted to join me, and what we wanted to do was to work together again. It was sort of a logical thing to want to do with one's life, and it had a good feeling, which is sort of when you do things in life that have a good feeling, it tends to work out well, as opposed to coming up with a wonderful strategic plan. And we came up with a good strategic plan to do. Advisory work to pay the rent, to go into the buyout business, because it looked like a pretty easy way, frankly, to make money in the mid-'80s. And then the third piece of our strategic plan was to attract very gifted people who wanted to be in business with us, sort of split the ownership of that business or the profits. And that was a good strategy because Wall Street was growing so rapidly at that point that people often felt a sense of just being alienated from the firms where they grew up. When I joined [financial firm], we had 550 people, and now any respectable securities firm has numbers in the tens of thousands. And how many does [investment firm] have? We have 550 people. Isn't that curious? Right where I started. So, in effect, no progress was made."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, a lot of progress was made. You may be the largest private equity firm in the country. Tell me what private equity is and what it is that you do."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, what we do is pretty simple. We raise large amounts of money from principally institutions, pension funds, endowments, and then we buy companies using those funds, and we basically borrow about $3, sometimes a little more, sometimes a little less, to every dollar of equity that we put up in the deal. We tend to control the deals. We try and improve the companies, and we own them for a while, and then we sell them and hopefully make a lot of money for our investors. That is what we do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And the kinds of companies you want to buy are simply good deals or do you have other kinds of standards when you go and search for an opportunity?"
+      }
+    ],
+    "speakername": "Steve Schwarzman",
+    "ground_truth": "Well, one is always searching, it's a lot like, you know, sort of a good date, what's a good date? And there are a lot of different, you know, elements that go into that, a lot of different kinds of, you know, the way people look, you know, sort of how interesting they are, and it's the same with, in a curious way, with companies. There are different reasons to buy different companies.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, a lot of progress was made. You may be the largest private equity firm in the country. Tell me what private equity is and what it is that you do."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, what we do is pretty simple. We raise large amounts of money from principally institutions, pension funds, endowments, and then we buy companies using those funds, and we basically borrow about $3, sometimes a little more, sometimes a little less, to every dollar of equity that we put up in the deal. We tend to control the deals. We try and improve the companies, and we own them for a while, and then we sell them and hopefully make a lot of money for our investors. That is what we do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And the kinds of companies you want to buy are simply good deals or do you have other kinds of standards when you go and search for an opportunity?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, one is always searching, it's a lot like, you know, sort of a good date, what's a good date? And there are a lot of different, you know, elements that go into that, a lot of different kinds of, you know, the way people look, you know, sort of how interesting they are, and it's the same with, in a curious way, with companies. There are different reasons to buy different companies."
+      }
+    ],
+    "speakername": "Steve Schwarzman",
+    "ground_truth": "uh... sort of the price uh... value relationship uh... is always key uh... you pay less for a company that doesn't grow uh... uh... rapidly uh... then then uh... then then you would if the company grows rapidly and uh... you know part of part of the art is trying to figure out how rapidly the company will grow and what profit and how much uh... financial uh... leverage uh... the company can can handle in a comfortable way to not inhibit",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

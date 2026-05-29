@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I will fight like hell for you every single day, like I've always done."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You can always go. That's it. That's what it's all about. You can get a brother."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Amen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "welcome to this week's edition of [region] now i'm dan clark we're almost at the end of another difficult year for residents and a lot of people around the country the cost of living is up from prices at the grocery store to the cost of rent and we don't really know when that will change some economists say we're headed for a mild economic recession and that already has governor [target] warning about next year's state budget due in march"
+      }
+    ],
+    "speakername": "Kathy Hochul",
+    "ground_truth": "My eye is always on not just this year, but also what we're going to find ourselves in next year. And I have to anticipate worst-case scenarios with respect to the economy. I just have to. And that's why we'll approach our budgeting with that frame.",
+    "bio": "The speaker is an American politician serving as the governor of a northeastern state since 2021. A member of the Democratic Party, they are the state's first female governor, as well as the first governor from the upstate region since 1920. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Amen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "welcome to this week's edition of [region] now i'm dan clark we're almost at the end of another difficult year for residents and a lot of people around the country the cost of living is up from prices at the grocery store to the cost of rent and we don't really know when that will change some economists say we're headed for a mild economic recession and that already has governor [target] warning about next year's state budget due in march"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My eye is always on not just this year, but also what we're going to find ourselves in next year. And I have to anticipate worst-case scenarios with respect to the economy. I just have to. And that's why we'll approach our budgeting with that frame."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target] will present her plan for the state budget next month. But this week with the holiday weekend, we're going to take a break and give you a second look at our interview with Governor [target] from a few months back. So if you've seen that or you're not interested, we'll see you next week. And if you're staying with us, just to note that we aired this interview in August. A lot of what we talked about, like the state's cost of living, looks the same, but other things might be different. Take a look. Governor, thank you so much for being here. I appreciate it. Thank you. Of course. So it has been a long year with you in office. Can you tell me, I'm curious, are you a different person now than you were at this time last year, you think? I am definitely a different person. So I have to imagine you've changed."
+      }
+    ],
+    "speakername": "Kathy Hochul",
+    "ground_truth": "Under the theory, if it doesn't kill you, it makes you stronger, I feel stronger. I feel more confident. We've had...",
+    "bio": "The speaker is serving as the 57th governor of [region] since August 24, 2021. A member of the Democratic Party, they are the region's first female governor, as well as the first governor from the northern part of the state since 1920. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "welcome to this week's edition of [state] now i'm dan clark we're almost at the end of another difficult year for residents and a lot of people around the country the cost of living is up from prices at the grocery store to the cost of rent and we don't really know when that will change some economists say we're headed for a mild economic recession and that already has governor [target] warning about next year's state budget due in march"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My eye is always on not just this year, but also what we're going to find ourselves in next year. And I have to anticipate worst-case scenarios with respect to the economy. I just have to. And that's why we'll approach our budgeting with that frame."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target] will present her plan for the state budget next month. But this week with the holiday weekend, we're going to take a break and give you a second look at our interview with Governor [target] from a few months back. So if you've seen that or you're not interested, we'll see you next week. And if you're staying with us, just to note that we aired this interview in August. A lot of what we talked about, like the state's cost of living, looks the same, but other things might be different. Take a look. Governor, thank you so much for being here. I appreciate it. Thank you. Of course. So it has been a long year with you in office. Can you tell me, I'm curious, are you a different person now than you were at this time last year, you think? I am definitely a different person. So I have to imagine you've changed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Under the theory, if it doesn't kill you, it makes you stronger, I feel stronger. I feel more confident. We've had..."
+      }
+    ],
+    "speakername": "Kathy Hochul",
+    "ground_truth": "many successes that people thought weren't possible. So we've really talked about how we've governed in a very different way. And I said, I'm going to come here and restore people's faith in government. I've worked hard to do that, but I've also felt this inner strength that perhaps I didn't even know was there that had to come out in so many really challenging circumstances. So I feel I even feel more confident today than I did a year ago.",
+    "bio": "The subject is an American politician serving as the governor of [state] since 2021. A member of the Democratic Party, they are the state's first female governor, as well as the first governor from the upstate region since 1920. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target] will present her plan for the state budget next month. But this week with the holiday weekend, we're going to take a break and give you a second look at our interview with Governor [target] from a few months back. So if you've seen that or you're not interested, we'll see you next week. And if you're staying with us, just to note that we aired this interview in August. A lot of what we talked about, like the state's cost of living, looks the same, but other things might be different. Take a look. Governor, thank you so much for being here. I appreciate it. Thank you. Of course. So it has been a long year with you in office. Can you tell me, I'm curious, are you a different person now than you were at this time last year, you think? I am definitely a different person. So I have to imagine you've changed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Under the theory, if it doesn't kill you, it makes you stronger, I feel stronger. I feel more confident. We've had..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "many successes that people thought weren't possible. So we've really talked about how we've governed in a very different way. And I said, I'm going to come here and restore people's faith in government. I've worked hard to do that, but I've also felt this inner strength that perhaps I didn't even know was there that had to come out in so many really challenging circumstances. So I feel I even feel more confident today than I did a year ago."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Something I've always wondered about were those few weeks between when the former governor announced his resignation and then he actually resigned and you became governor. Can you take me back to what those two, I think it was only two weeks, what were those like for you?"
+      }
+    ],
+    "speakername": "Kathy Hochul",
+    "ground_truth": "Well, it was a blur. You know, all of a sudden our lives were turned upside down, but in a way that I knew I just needed to take the time to prepare. I was reading budget books and procedure books and talking about assembling a team of individuals. I wanted to have the most diverse administration in history. We've accomplished that because I knew there were a lot of people that would not continue in office on the first day, and I had to have a team in place. You know, my top leadership, primarily women, strong women, and I have a real talent for attracting talent. My communications team, second to none, our secretary to the governor, bringing on.",
+    "bio": "The speaker is an American politician serving as the governor of a northeastern state since 2021. A member of the Democratic Party, they are the state's first female governor, as well as the first governor from the upstate region since 1920. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Something I've always wondered about were those few weeks between when the former governor announced his resignation and then he actually resigned and you became governor. Can you take me back to what those two, I think it was only two weeks, what were those like for you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it was a blur. You know, all of a sudden our lives were turned upside down, but in a way that I knew I just needed to take the time to prepare. I was reading budget books and procedure books and talking about assembling a team of individuals. I wanted to have the most diverse administration in history. We've accomplished that because I knew there were a lot of people that would not continue in office on the first day, and I had to have a team in place. You know, my top leadership, primarily women, strong women, and I have a real talent for attracting talent. My communications team, second to none, our secretary to the governor, bringing on."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Karen Persichilli-Keough, Brianna and Catherine Garcia, strong policy people. So I'm really fortunate that during that time, I could start in a quick time. We didn't have a lot of opportunities for vetting and things, but I had to pull together a team because literally one week later, we're dealing with a hurricane. And kids going back to school and the uncertainty of COVID and masks or no mask and vaccines or no. So we had a lot to deal with in a short time. So those two weeks were part of preparation just for the position itself."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, you're right. A week in, [severe weather event] hit [state]. We're coming right up on the anniversary. Take me through that response for you. It was the first really major thing you had to deal with as governor, and it was a tragic event. And I know you went right down into [urban area] and [urban area], I think, the day after."
+      }
+    ],
+    "speakername": "Kathy Hochul",
+    "ground_truth": "We did. We were there immediately. This community, it was emotionally heartbreaking. You walk in and you see this, people have been living in really substandard conditions in basement dwellings because that's all they could afford, and the water, raging waters came down a street and just, the water was up to the ceiling and people were drowning in their homes. I talked to one man who just escaped by breaking through his windows and he almost got stuck and he would have drowned. It was emotional, but I also knew I couldn't dwell on my own feelings, my feelings of strong empathy for people, but I had to jump into action. They needed to see that I was a leader who could bring in the resources, okay, federal government, what are you doing, [federal agency], my state team.",
+    "bio": "The target is an American politician serving as the governor of [state] since August 24, 2021. A member of the Democratic Party, they are [state]'s first female governor, as well as the first governor from the upstate region since 1920. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

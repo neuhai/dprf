@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good evening."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "First tell me, should I be afraid or can I feel safe here in Europe?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think you can be afraid when you are with me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Fabrizio Corona",
+    "ground_truth": "my workspace, yes, but you are with me so it can be dangerous because it can happen everything in every moment.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "OK, but this time, it's really serious. It's not so easy to be in a problem with the prime minister. What happened here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "In a certain country something really strange happened, you know, because a powerful politician is already from the 94s, he has the power, he still has a strong power. The opposite of the politics against him, they find the way to kick him out from the politics, from the power in this country. So they try every time, in every business, and now they try to destroy this image to show the private life, you know. And they put the private telephone in the magazine, they show how is the private life that is really... Wild. Wild, because you have every night a big party that they don't know. They don't know what happened really in this party. They think they don't have the picture or the video of this, so they're trying this way to destroy him. It's really..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "difficult. The only thing that can destroy him is to show the picture of the party."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and they think that you have the bottom."
+      }
+    ],
+    "speakername": "Fabrizio Corona",
+    "ground_truth": "Yeah, they think that I have the photo because I have everything that the people look, you know? Do you have the photo? The photo of naked politician doesn't exist.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no it is some picture of the party but it's a normal picture i i see this picture"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes, but the body on the photo is the girl that was 17 years old."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and"
+      }
+    ],
+    "speakername": "Fabrizio Corona",
+    "ground_truth": "Okay, yeah, he's on the photo, but it's not something that can prove that you have sex with some girl of 70 years old. So they miss something like this. They have to move in another way.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, yeah, he's on the photo, but it's not something that can prove that you have sex with some girl of 70 years old. So they miss something like this. They have to move in another way."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But there are no scandals about the relationship between [target] and [prominent politician]. After the prostitute [name], [another person] appeared, who said that she was also in [prominent politician]'s parties. By the way, she is the former [athlete]'s girlfriend and the current footballer [athlete]. Some well-known regional newspapers, after transcripts of [name]'s phone conversations, reported that the old lady [name] is a prostitute with whom the regional criminal organization trades, and with whom [target] also cooperates closely."
+      }
+    ],
+    "speakername": "Fabrizio Corona",
+    "ground_truth": "that's and she make she she's crazy because she take drugs something like one years ago she get crazy she start to be at nymphomaniac you know nymphomaniac with this yes and she have sex with everybody if you are here if she have sex with him with him with him she don't sell the the body and she get crazy so these people from [location] they are stupid they give the center to the to the people to have sex but it's a normal thing they don't make they don't sell the girls for prostitute when i wasn't on jail i was something like four months on jail i make many i take many many friendly with the people from criminal organizations",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, yeah, he's on the photo, but it's not something that can prove that you have sex with some girl of 70 years old. So they miss something like this. They have to move in another way."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But there are no scandals about the relationship between [target] and [politician]. After the Moroccan prostitute [name], [person] appeared, who said that she was also in [politician]'s parties. By the way, she is the former [athlete]'s girlfriend and the current footballer [athlete]. Some well-known regional newspapers, after transcripts of [person]'s phone conversations, reported that the old lady [person] is a prostitute with whom the regional organized crime trades, and with whom [target] also cooperates closely."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that's and she make she she's crazy because she take drugs something like one years ago she get crazy she start to be at nymphomaniac you know nymphomaniac with this yes and she have sex with everybody if you are here if she have sex with him with him with him she don't sell the the body and she get crazy so these people from the region they are stupid they give the center to the to the people to have sex but it's a normal thing they don't make they don't sell the girls for prostitute when i wasn't on jail i was something like four months on jail i make many i take many many friendly with the people from local criminal groups"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But I've read that you offer the Balanced Sister to one client."
+      }
+    ],
+    "speakername": "Fabrizio Corona",
+    "ground_truth": "no no this is a mistake i was in the region with this guy on the business he passed me the phone the phone call was recording his own with the from the police i say in this recording okay was something like a big events for the new year i say if you want [name] for these big events you have to pay 4 000 euro because she worked in television too like the sister because she make campaign she make modeling right [person] say is something like say i don't want me to a prostitute so [target] i'll try to sell to offer",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

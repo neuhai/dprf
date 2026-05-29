@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "One of the signs of a smart company is not to throw a lot of money at digital without knowing how to use it. So take 10% of your budget, put it into digital, but put it in the hands of a team of very capable net netizens. A netizen is someone who grew up with the net, a young millennial person or earlier. Give them the money and say play around with it and we're going to give you more if it shows that it's working. Maybe another 5%, but if it's not working, we're going to wait to watch how it works for other companies. We're going to learn from others as well as ourselves. Now, how far will it go? Well, at a major consumer goods company, they're telling me that depending on the product, they are now at a range of 25% to 35% being spent on digital. Sure. Okay. By the way, I think they're still growing their total advertising. Budget because they don't want to let go of the branding built by the 32nd commercial."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it will go to 50-50."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mr. [target], if I ask you to look at the marketing function and how it's evolved over the years within an organization, right, and the kind of prominence it used to have or it has currently, as the case may be, do you think the marketing function actually has progressed within an organization or actually regressed?"
+      }
+    ],
+    "speakername": "Philip kotler",
+    "ground_truth": "Well, no. It is progressing. The problem that is facing marketers is that the CEO, along with the chief financial officer, want a measure of ROMA. ROMA is return on marketing investment.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it will go to 50-50."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "If I ask you to look at the marketing function and how it's evolved over the years within an organization, right, and the kind of prominence it used to have or it has currently, as the case may be, do you think the marketing function actually has progressed within an organization or actually regressed?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, no. It is progressing. The problem that is facing marketers is that the CEO, along with the chief financial officer, want a measure of ROMA. ROMA is return on marketing investment."
+      }
+    ],
+    "speakername": "Philip kotler",
+    "ground_truth": "Ro-me or Ro-my. It depends on whether it's return on marketing assets or on investment. And those numbers don't exist yet. This is why I urge the CMO to become a friend of the CFO because the CFO is your enemy in marketing because he or she keeps telling the CEO we're spending too much money on marketing. Now, if the two go down to have lunch together and work out a metric system that will satisfy the CFO, he may become your best ally.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's correct."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "not digital citizens. And the fact that they have to suddenly, you know, take on so much is a little bit intimidating. They're doing it, but they're not very comfortable with it. It's not their natural leaning."
+      },
+      {
+        "speaker": "[target]",
+        "text": "They admit that they aren't adequately trained in digital."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Given that, do you think CMOs should be as old as they are while running these companies?"
+      }
+    ],
+    "speakername": "Philip kotler",
+    "ground_truth": "I've been predicting that marketing will be run by younger and younger people in the future. I can imagine the CMO of a company being 20 years old.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, Anthony, we're not going to have the CEO just sit down and intuit these things. He's going to draw together some people in the company from the different functions. For example, marketing is that function that should really supply the opportunity side, and also the arguments for not cutting the budget. I mean, cutting your budget that creates your sales is a funny thing to do, unless the budget was being wasted in some ways. Certainly, you cut a budget when there's fat. But when it's working for you, if you know how to account for your marketing resources, and by the way, that's the biggest issue today, how do we show accountability for the money we're spending on campaigns? But if you can show accountability, maybe your budget won't be cut. Every marketing head is facing that issue. How to tell the CEO and the CFO that the budget is helping us rather than hurting."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's a bit silly to cut a cost that's generating you a 300, 400% ROI. That's just killing your profit, isn't it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The link has to be proven between expenditure and sales and profit results."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Philip kotler",
+    "ground_truth": "It's easy to prove, by the way, in direct mail, because you know the cost of sending out your mail and offers, and then you know how much response you got, and it's ROI, straightforward. It's very hard to know with 30-second commercials, unless you set up experimental design. Some companies are playing with that, companies like P&G and Unilever, but otherwise it's more an article of art and faith.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The link has to be proven between expenditure and sales and profit results."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's easy to prove, by the way, in direct mail, because you know the cost of sending out your mail and offers, and then you know how much response you got, and it's ROI, straightforward. It's very hard to know with 30-second commercials, unless you set up experimental design. Some companies are playing with that, companies like [company] and [company], but otherwise it's more an article of art and faith."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let's talk about accountability and how to measure the marketing spend. I mean, it's easy, as you said, in direct marketing, direct response, you can measure it. But in non-direct response, direct marketing arenas, how do you identify ROI on your marketing spend, whether there's intermediaries involved, for example?"
+      }
+    ],
+    "speakername": "Philip kotler",
+    "ground_truth": "Well, the key idea is this. Suppose we can put commercials into neighborhoods. And we have some comparable neighborhoods. I mean, they've been both buying as much as each other. And then we put more budget into one neighborhood and less in another. And then we do recall scores and recognition scores to see if they remember seeing it. But we also see what they spent. You have to also have links to these stores, like [store] or whatever, to find out what happened. And then you might say, look, we spent twice as much in this neighborhood than that neighborhood, but they were the same at the beginning. And look at the sales difference. We have to attribute it largely, unless there's other causes, to expenditure differences. That's hard to do, but that's the theory of trying to get some measure on advertising expenditures.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

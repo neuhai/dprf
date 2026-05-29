@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think a lot of that came from outside the district, from a group in the East Coast. I don't know how much the president's endorsement, how much of a difference that made, but I do know that negative attacks that are based on falsehoods probably hurt quite a bit. And that came from a group in East Coast, Club for Growth. And I don't know why they're doing it, but they did it. And I keep going with my message ahead, and they know that what they're saying isn't true. And once that's found out by folks, they don't really like that in the district. People in the district are optimistic, and they don't like negative campaigning. And so we're going to carry on with the message that we had before. And I think that folks will coalesce around a positive candidacy and someone who's looking for the brighter days ahead."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Were you surprised that Senator Cruz questioned your conservative credentials along with the Club for Growth?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, you'd have to ask him about that. I don't know him, but he did pair at the same talking points that the club did. And so you'd have to ask him specifically. I've never met him. But the fact is that what they are saying is patently false, and I'll call him out on it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What are your priorities in Congress?"
+      }
+    ],
+    "speakername": "Jake Ellzey",
+    "ground_truth": "should you be elected? We need to address the border. We need to address immigration. We need to close down the border. When I was in the Middle East in 2006, it was the worst part of the war. The president called for a surge, which sent tens of thousands of troops to the border. And we locked down the region, and we turned it around. It's way past time that we did that at the border. And I'm not talking about troops, but I am talking about the federal authorities who are sent in, law enforcement agencies to lock down the border and stop this humanitarian disaster. A lot of people like to address this issue as something about illegal aliens coming through. And it's true, that is not what we want. No country continue to exist unless it secures its border. But the evil that exists in the smugglers and the criminal organizations selling people into slavery for all different kinds of reasons, children into slavery in our modern day is a catastrophe. And it has to stop. I'm a father of a beautiful 12-year-old girl, and I think about these young kids that are being sent in, boys and girls, into our nation for human trafficking, and I'm appalled at it. Let's lock this border down and stop this nightmare.",
+    "bio": "The representative (born January 24, 1970) is an American politician and former military officer serving as the U.S. representative for a congressional district in a southern state. A member of the Republican Party, he previously served as a member of the state House of Representatives from January to July 2021. He served in the military as a fighter pilot, completing tours in the Middle East. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, you'd have to ask him about that. I don't know him, but he did pair at the same talking points that the club did. And so you'd have to ask him specifically. I've never met him. But the fact is that what they are saying is patently false, and I'll call him out on it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What are your priorities in Congress?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "should you be elected? We need to address the border. We need to address immigration. We need to close down the border. When I was in a Middle Eastern country in 2006, it was the worst part of the war. The President called for a surge, which sent tens of thousands of troops to the border. And we locked down that region, and we turned it around. It's way past time that we did that at the border. And I'm not talking about troops, but I am talking about the federal authorities who are sent in, law enforcement agencies to lock down the border and stop this humanitarian disaster. A lot of people like to address this issue as something about illegal aliens coming through. And it's true, that is not what we want. No country continue to exist unless it secures its border. But the evil that exists in the smugglers and the criminal organizations selling people into slavery for all different kinds of reasons, children into slavery in our modern day is a catastrophe. And it has to stop. I'm a father of a beautiful 12-year-old girl, and I think about these young kids that are being sent in, boys and girls, into our nation for human trafficking, and I'm appalled at it. Let's lock this border down and stop this nightmare."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And let me ask you, because a lot of Republicans have said that, uh, they believe the current administration should go back to the former president's policy of remain in Mexico, but that that's not going to happen. So, um, given that, uh, what do you think can be done with the Democrats and Republicans coming together?"
+      }
+    ],
+    "speakername": "Jake Ellzey",
+    "ground_truth": "Bring them down to the border and show them exactly what's going on. Because if you hide them long enough, they're going to think there's not a problem. Let's go down to the border. Let's go see what's actually going on. Let's go see what's going on with these people in these detention facilities. But additionally, we're housing these unaccompanied minors, so-called, 15- to 17-year-old males at a major convention center, and they're starting to keep them all over the country. What are we going to do with these people? They need to see this stuff, and we need to put a stop to it. You can't ignore it forever. And it's way past the time that we actually gave it the attention that it deserves.",
+    "bio": "A politician and former military officer serving as a U.S. representative for a congressional district. A member of the Republican Party, he previously served as a member of the state House of Representatives. He served in the military as a fighter pilot, completing tours in Middle Eastern countries. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "should you be elected? We need to address the border. We need to address immigration. We need to close down the border. When I was in Iraq in 2006, it was the worst part of the war. President Bush called for a surge, which sent tens of thousands of troops to the border. And we locked down Iraq, and we turned it around. It's way past time that we did that at the border. And I'm not talking about troops, but I am talking about the federal authorities who are sent in, ICE and Border Patrol, to lock down the border and stop this humanitarian disaster. A lot of people like to address this issue as something about illegal aliens coming through. And it's true, that is not what we want. No country continue to exist unless it secures its border. But the evil that exists in the coyotes and the cartels selling people into slavery for all different kinds of reasons, children into slavery in our modern day is a catastrophe. And it has to stop. I'm a father of a beautiful 12-year-old girl, and I think about these young kids that are being sent in, boys and girls, into our nation for human trafficking, and I'm appalled at it. Let's lock this border down and stop this nightmare."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And let me ask you, because a lot of Republicans have said that, uh, they believe the Biden administration should go back to former president Trump's policy of remain in Mexico, but that that's not going to happen. So, um, given that, uh, what do you think can be done with the Democrats and Republicans coming together?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bring them down to the border and show them exactly what's going on. Because if you hide them long enough, they're going to think there's not a problem. Let's go down to the border. Let's go see what's actually going on. Let's go see what's going on with these people in these detention facilities. But additionally, we're housing these unaccompanied minors, so-called, 15- to 17-year-old males at the Dallas Convention Center, and they're starting to keep them all over the country. What are we going to do with these people? They need to see this stuff, and we need to put a stop to it. You can't ignore it forever. And it's way past the time that we actually gave it the attention that it deserves."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I also wanted to ask you about President Biden's speech to the American people last week. He talked about his infrastructure plans. He also talked about what he calls the American Families Plan, which would provide universal pre-K, free community college for two years and paid leave. When you look at the price tag for both of those, it's about $4 trillion. And this comes after the $1.9 trillion for the COVID relief package that was approved by Congress and signed by the president. And the president said he would pay for these programs, at least the infrastructure and also the American Families Plan through higher taxes. What is your thought on this?"
+      }
+    ],
+    "speakername": "Jake Ellzey",
+    "ground_truth": "Just at the time that we need this economy to grow, he's talking about higher taxes and he's also talking about restating what the word infrastructure actually means and saying daycare is infrastructure. It's not. This is the far left using words as Orwellian as they can in order to say what they're doing is actually addressing infrastructure. First of all, that's a state's role. Infrastructure, other than interstate highways and military bases, the federal government really has no role to play in that. But additionally, let's not call it one thing when you know it's something else. The $1.9 trillion COVID relief plan, 10% of that went to COVID relief. Everything else went to gross spending on numerous things. I remember in 2008 when the banks were about to fail and our economy was about to go under and we raised holy cane when we were talking about spending $800 billion for the bailout. Now we're throwing around trillions of dollars like it doesn't matter. President Biden... President Biden's not paying for that. You and I are. And more importantly, states that are actually working right now and that are open and that are having revenue and having businesses open, we're the ones paying for that. It's a self-licking ice cream cone so the states that are shut down and destroy their economies can get bailed out and we're going to be the ones doing it. We're broke. The country is broke and we can't keep spending money like this.",
+    "bio": "John Kevin \\\"Jake\\\" Ellzey Sr. (born January 24, 1970) is an American politician and former military officer serving as the U.S. representative for Texas's 6th congressional district. A member of the Republican Party, he previously served as a member of the Texas House of Representatives for the 10th district from January to July 2021. He served in the United States Navy as a fighter pilot, completing tours in Afghanistan and Iraq. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Bring them down to the border and show them exactly what's going on. Because if you hide them long enough, they're going to think there's not a problem. Let's go down to the border. Let's go see what's actually going on. Let's go see what's going on with these people in these detention facilities. But additionally, we're housing these unaccompanied minors, so-called, 15- to 17-year-old males at the Dallas Convention Center, and they're starting to keep them all over the country. What are we going to do with these people? They need to see this stuff, and we need to put a stop to it. You can't ignore it forever. And it's way past the time that we actually gave it the attention that it deserves."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I also wanted to ask you about President Biden's speech to the American people last week. He talked about his infrastructure plans. He also talked about what he calls the American Families Plan, which would provide universal pre-K, free community college for two years and paid leave. When you look at the price tag for both of those, it's about $4 trillion. And this comes after the $1.9 trillion for the COVID relief package that was approved by Congress and signed by the president. And the president said he would pay for these programs, at least the infrastructure and also the American Families Plan through higher taxes. What is your thought on this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just at the time that we need this economy to grow, he's talking about higher taxes and he's also talking about restating what the word infrastructure actually means and saying daycare is infrastructure. It's not. This is the far left using words as Orwellian as they can in order to say what they're doing is actually addressing infrastructure. First of all, that's a state's role. Infrastructure, other than interstate highways and military bases, the federal government really has no role to play in that. But additionally, let's not call it one thing when you know it's something else. The $1.9 trillion COVID relief plan, 10% of that went to COVID relief. Everything else went to gross spending on numerous things. I remember in 2008 when the banks were about to fail and our economy was about to go under and we raised holy cane when we were talking about spending $800 billion for the bailout. Now we're throwing around trillions of dollars like it doesn't matter. President Biden... President Biden's not paying for that. You and I are. And more importantly, states that are actually working right now and that are open and that are having revenue and having businesses open, we're the ones paying for that. It's a self-licking ice cream cone so the states that are shut down and destroy their economies can get bailed out and we're going to be the ones doing it. We're broke. The country is broke and we can't keep spending money like this."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One thing that some of the experts who I've talked to say that the pandemic did expose vulnerabilities by many people in the population as far as needing help. So how would you address that as far as, you know, childcare and is it just a question of reopening the economy so that kids can get back to school? I know we don't really have that issue here in Texas because people have been back in schools or at least the families have a choice. But, you know, what do you say about some of the issues that real people are facing?"
+      }
+    ],
+    "speakername": "Jake Ellzey",
+    "ground_truth": "Jack, that's a great question. I think it's interesting that after 18 months, we talk about health experts. There isn't a single so-called health expert that's been right on much of anything, including Anthony Fauci, since this whole thing began. He has flipped and flopped, so has everybody else on exactly what's going on. Additionally, you'll see that the states on the East and West Coast continuing to lock down. They have a higher incidence of these COVID cases. We're wide open, and we're lower. Somebody's following political and fair science. We're following medical science. The truth is in the numbers and what's going on here. Additionally, when you stop, when you pause, the Johnson & Johnson, seven million doses of Johnson & Johnson in six cases have turned out to, I believe, have some high blood pressure issues, and you pause. That's a power grab. Statistically, that is almost nothing, and so we paused giving out the Johnson & Johnson single dose virus that didn't have to be maintained at extremely cold levels so that we can check out these six incidences. That is unreal. There is no reason to have done that. This is continued power. When the president, this is a continued power grab, when the president continues to wear a mask after he's been inoculated, he's not giving people any faith in saying, well, I'm going to go get inoculated now. If he's inoculated, he's not going to get it. He needs to take off the mask, and so does everybody else if they've been inoculated because they say they're following the science, but in reality, they're showing us fear. The two can't coexist at the same time.",
+    "bio": "John Kevin \\\"Jake\\\" Ellzey Sr. (born January 24, 1970) is an American politician and former military officer serving as the U.S. representative for Texas's 6th congressional district. A member of the Republican Party, he previously served as a member of the Texas House of Representatives for the 10th district from January to July 2021. He served in the United States Navy as a fighter pilot, completing tours in Afghanistan and Iraq. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Just at the time that we need this economy to grow, he's talking about higher taxes and he's also talking about restating what the word infrastructure actually means and saying daycare is infrastructure. It's not. This is the far left using words as Orwellian as they can in order to say what they're doing is actually addressing infrastructure. First of all, that's a state's role. Infrastructure, other than interstate highways and military bases, the federal government really has no role to play in that. But additionally, let's not call it one thing when you know it's something else. The $1.9 trillion COVID relief plan, 10% of that went to COVID relief. Everything else went to gross spending on numerous things. I remember in 2008 when the banks were about to fail and our economy was about to go under and we raised holy cane when we were talking about spending $800 billion for the bailout. Now we're throwing around trillions of dollars like it doesn't matter. President Biden... President Biden's not paying for that. You and I are. And more importantly, states that are actually working right now and that are open and that are having revenue and having businesses open, we're the ones paying for that. It's a self-licking ice cream cone so the states that are shut down and destroy their economies can get bailed out and we're going to be the ones doing it. We're broke. The country is broke and we can't keep spending money like this."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One thing that some of the experts who I've talked to say that the pandemic did expose vulnerabilities by many people in the population as far as needing help. So how would you address that as far as, you know, childcare and is it just a question of reopening the economy so that kids can get back to school? I know we don't really have that issue here in Texas because people have been back in schools or at least the families have a choice. But, you know, what do you say about some of the issues that real people are facing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Jack, that's a great question. I think it's interesting that after 18 months, we talk about health experts. There isn't a single so-called health expert that's been right on much of anything, including Anthony Fauci, since this whole thing began. He has flipped and flopped, so has everybody else on exactly what's going on. Additionally, you'll see that the states on the East and West Coast continuing to lock down. They have a higher incidence of these COVID cases. We're wide open, and we're lower. Somebody's following political and fair science. We're following medical science. The truth is in the numbers and what's going on here. Additionally, when you stop, when you pause, the Johnson & Johnson, seven million doses of Johnson & Johnson in six cases have turned out to, I believe, have some high blood pressure issues, and you pause. That's a power grab. Statistically, that is almost nothing, and so we paused giving out the Johnson & Johnson single dose virus that didn't have to be maintained at extremely cold levels so that we can check out these six incidences. That is unreal. There is no reason to have done that. This is continued power. When the president, this is a continued power grab, when the president continues to wear a mask after he's been inoculated, he's not giving people any faith in saying, well, I'm going to go get inoculated now. If he's inoculated, he's not going to get it. He needs to take off the mask, and so does everybody else if they've been inoculated because they say they're following the science, but in reality, they're showing us fear. The two can't coexist at the same time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And just my last question, as far as universal pre-K, childcare, do you think there is a need there for some people?"
+      }
+    ],
+    "speakername": "Jake Ellzey",
+    "ground_truth": "No, sir. And that should be up to the states. There's nothing in the Constitution that would describe the federal government starting a new program like pre-K. A state wants to do that. A state should be able to do that. A state should have to pay for it. That is not the function of the federal government. With everything else we got going on here, that is nothing but a bad new system. It's way too much money for too little accomplishment. Let the states do that. That's what a federal republic is supposed to be doing anyway.",
+    "bio": "John Kevin \\\"Jake\\\" Ellzey Sr. (born January 24, 1970) is an American politician and former military officer serving as the U.S. representative for Texas's 6th congressional district. A member of the Republican Party, he previously served as a member of the Texas House of Representatives for the 10th district from January to July 2021. He served in the United States Navy as a fighter pilot, completing tours in Afghanistan and Iraq. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, really Kara."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I was first. You were first. Don't. Just for facts. Don't try to spin me, [target]. Anyway, let's talk about your book. I'm so excited. I did just leave, just was in Germany. I was interviewing Kim Kardashian, so this will be similar."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I know."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Heh."
+      }
+    ],
+    "speakername": "Jen Psaki",
+    "ground_truth": "She texted me this today, and she was like, just so you know, the last person I interviewed was Kim Kardashian. That's, like, all she said. I was like, okay, I'll try to keep it interesting.",
+    "bio": "An American political advisor who serves as the 34th [government building] press secretary in the current administration. Previously, served as the spokesperson for the [government department] and held various senior press and communications roles in the previous administration. Has also been a news network contributor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Really?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "cool that works too that works too yeah it did incredibly um and you could get it wet um so to talk a little bit about that door knocking because it brought me back to doing that which i did not like at all but you enjoyed that idea you learned a lot about communication yeah"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um, I did, you know, door knocking, if people haven't done it here, just you get a list of basically people on a street and then you, they're, they're voting history. So you, you know who you're, you're either door knocking and you know that you're trying to convince them to support your candidate or you're trying to get them out to vote. You kind of know what your assignment is. The voter file is imperfect. So sometimes it's like, you think it's an 80 year old lady and it's like a guy in his underwear and with a shotgun. This literally happened to me. So like, you know, it's not, it's imperfect, but you know, the point is you have about 15 seconds to convince people."
+      }
+    ],
+    "speakername": "Jen Psaki",
+    "ground_truth": "to listen to you. I will say now when people come and knock on my door, I'm like, oh, what do they want, right? And I'm usually like, thank you so much, thank you for what you're doing. Okay, I'm good, you know, I vote. But what it taught me is kind of how you can, the importance of that first five or 10 seconds, right? Of convincing people to engage with you. So it sticks with me. I also went in people's houses when I wasn't supposed to. I did lots of things you're not supposed to do. My mother's here, I blame her for this quality of mine. But yes.",
+    "bio": "The speaker is an American political advisor who serves as the 34th press secretary in the federal administration. Previously, they served as the spokesperson for the Department of State and held various senior press and communications roles in the previous administration. They have also been a news network contributor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "From where you move."
+      },
+      {
+        "speaker": "[target]",
+        "text": "next."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it gave me, I mean, there was a lot of time between that and standing at the [government building] podium, but being able to be, hopefully, building my ability to be good at my feet, and trying to approach answering questions or asking people questions with a demeanor that wouldn't make people want to shut the door on your face. I mean, [Person] and others still want to shut the door on my face, but you get what I'm saying."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So when you moved on pretty quickly and up you moved up the ranks relatively quickly And I'm gonna fast-forward you work for the [previous administration] administration work for different things, but you also worked in the [government department] and that that to me was the most interesting part of that because this is this is there You didn't have much expertise in right?"
+      }
+    ],
+    "speakername": "Jen Psaki",
+    "ground_truth": "It is true. When I went to the [government department], and I talk a lot about people who have mentored me and given you advice and what you take and what you don't take, and one of my mentors at the time, [Person 1], said, you shouldn't do this job. You could really mess up. You are on a good career trajectory. Another friend, [Person 2], said, you should do it. You will be great. You can learn the beat. I ended up doing it. Sometimes people tell me not to do something. I want to do it more. I ended up doing it. It was a huge education, not just in foreign policy, but also in how communications is a tool in moving an objective forward. When you are at the [government department], this is true in negotiations, in Congress, too.",
+    "bio": "[target] is an American political advisor who serves as the 34th [government building] press secretary in the current administration. Previously, she served as the spokesperson for the [government department] and held various senior press and communications roles in the previous administration. She has also been a news network contributor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It is true. When I went to the State Department, and I talk a lot about people who have mentored me and given you advice and what you take and what you don't take, and one of my mentors at the time, Robert Gibbs, said, you shouldn't do this job. You could really mess up. You are on a good career trajectory. Another friend, Ben Rhodes, said, you should do it. You will be great. You can learn the beat. I ended up doing it. Sometimes people tell me not to do something. I want to do it more. I ended up doing it. It was a huge education, not just in foreign policy, but also in how communications is a tool in moving an objective forward. When you are at the State Department, this is true in negotiations, in Congress, too."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Communications is like how you send a message to another country. And when I was there, this was in 2014 and 2015, there was a lot happening in the world. A coup in Egypt, we didn't call it a coup at the time, it was definitely a coup. Middle East peace negotiations, Iran nuclear deal that we were working through. Assad had used chemical weapons against his own people. It was a lot. Ben Rhodes actually called me at one point and said, I know I convinced you to do this job, it's not always like this. It was just so crazy. Yes, it is. But what it taught me is I would do a briefing sometimes and the Foreign Secretary of Russia, Lavrov, would call John Kerry and say, why did she say that?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "a coup in Egypt, we didn't call it a coup at the time, it was definitely a coup, Middle East peace negotiations, Iran nuclear deal that we were working through, Assad had used chemical weapons against his own people. It was a lot. Ben Rhodes actually called me at one point and said, I know I convinced you to do this job, it's not always like this. Like it was just so."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "crazy. Yes, it is."
+      }
+    ],
+    "speakername": "Jen Psaki",
+    "ground_truth": "Or Prime Minister Netanyahu, still the same guy who was in the job back then, would say, why did she say that?",
+    "bio": "Jennifer Rene Psaki (/sÉËkiË/; born December 1, 1978) is an American political advisor who serves as the 34th White House press secretary in the Biden administration. Previously, she served as the spokesperson for the United States Department of State and held various senior press and communications roles in the Obama White House. She has also been a CNN contributor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "a coup in [country], we didn't call it a coup at the time, it was definitely a coup, regional peace negotiations, international nuclear deal that we were working through, the leader had used chemical weapons against his own people. It was a lot. A senior advisor actually called me at one point and said, I know I convinced you to do this job, it's not always like this. Like it was just so."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "crazy. Yes, it is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Or the foreign leader, still the same guy who was in the job back then, would say, why did she say that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because sometimes you were sending a message."
+      }
+    ],
+    "speakername": "Jen Psaki",
+    "ground_truth": "from one country to another country. And really the audience of those briefings was other countries and the people who",
+    "bio": "An American political advisor who serves as the press secretary in the current administration. Previously, served as the spokesperson for the Department of State and held various senior press and communications roles in a previous administration. Has also been a news network contributor. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

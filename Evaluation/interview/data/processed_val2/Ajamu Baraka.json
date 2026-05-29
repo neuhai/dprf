@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My pleasure to be here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I want to know your experience here in [country] in this crucial moment in times where the country is being attacked directly by foreign forces. What have been your experiences here so far?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and what have you seen?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we came into the country on Sunday and that was right in the middle of the blackout and as we were discussing off camera, it seemed like a proper welcome for a committee of individuals from [country] and [country] who were here in solidarity with the [country] people for us to experience firsthand and to see firsthand the consequence of this kind of criminal attack. Now, our position is that unless proven otherwise, this blackout was the consequence of a nefarious criminal attack by one source or emanating from one source and that is [country]. It makes no sense that there could be a national blackout in that way and with the evidence that we've seen thus far that suggests that it was as an attack that took advantage of some of the vulnerabilities of the electrical grid here in this country. Also, it was a political attack, an attack that according to international law is a criminal attack. So, we experienced that on Sunday and Monday. We've had a chance to meet with a number of organizations and individuals including the foreign minister from [country] to begin the process of"
+      }
+    ],
+    "speakername": "Ajamu Baraka",
+    "ground_truth": "getting an assessment of the consequences of not only the cyber attack but the sanctions and the impact on the [country] people, sanctions that are objectively violations of international law and international human rights law. So we've been gathering information that we believe will enhance our ability to go back and tell the story of what is unfolding here in this country.",
+    "bio": "[target] (born October 25, 1953) is a political activist and former political party nominee for Vice President of [country] in the 2016 election. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we came into the country on Sunday and that was right in the middle of the blackout and as we were discussing off camera, it seemed like a proper welcome for a committee of individuals from the U.S. and Canada who were here in solidarity with the people for us to experience firsthand and to see firsthand the consequence of this kind of criminal attack. Now, our position is that unless proven otherwise, this blackout was the consequence of a nefarious criminal attack by one source or emanating from one source and that is the [Nation]. It makes no sense that there could be a national blackout in that way and with the evidence that we've seen thus far that suggests that it was as an attack that took advantage of some of the vulnerabilities of the electrical grid here in this country. Also, it was a political attack, an attack that according to international law is a criminal attack. So, we experienced that on Sunday and Monday. We've had a chance to meet with a number of organizations and individuals including the foreign minister to begin the process of"
+      },
+      {
+        "speaker": "[target]",
+        "text": "getting an assessment of the consequences of not only the cyber attack but the sanctions and the impact on the people, sanctions that are objectively violations of international law and international human rights law. So we've been gathering information that we believe will enhance our ability to go back and tell the story of what is unfolding here in this country."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We must remember our audience that you came here in the middle of the national blackout that hit the country since Thursday the 8th until..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "this last Wednesday, because that's been an experience. Tell me what have you seen in those days that the blackout affected the country? How did you saw the people reacting? What was your impression on how the government reacted to facilitate the immediate resolution of this?"
+      }
+    ],
+    "speakername": "Ajamu Baraka",
+    "ground_truth": "Well, we saw that, of course, the government was concerned because you have people who are now in a situation where the basic needs for human beings are now being undermined. I mean, the basic need for water, for example, the ability to safeguard your food through refrigeration, all of these were impacted by this blackout. So we saw that, but what we also saw was the spirit of the people. When we went to the community today, the message from the people of the local area was that they are in resistance and that they're not going to allow their spirit to be broken. They're not going to give up their support for this process.",
+    "bio": "The speaker (born October 25, 1953) is an American political activist and former political party nominee for Vice President of the United States in the 2016 election. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "As you know, some years ago, the regional countries, they signed this proclaim saying that this region is a zone of peace. How that regional will of defending the peace of this region also combines with the fight for the defense of the human rights? Is peace also human rights from your perspective for the peace committee?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, peace is fundamental to the realization of human rights. Human rights are indivisible. They are not only the right to speak, to have access to information, to participate in the electoral process, but they also include the right to housing, the right to medicine, the right to education, the right to dignity as an elder. These rights cannot be separated. So when you have a situation like what we have here in this country, where you have sanctions being imposed on a sovereign nation that makes it difficult for it to protect the fundamental rights of its citizens, the right to housing, the right to health care, the right to clean water. These are violations of human rights. So the idea that"
+      },
+      {
+        "speaker": "[target]",
+        "text": "war should be eliminated in order to realize human rights is front and center of what we are fighting for the idea that the region should be a zone of peace is a very important one it has the idea that the only way we can realize human race is within the context of peace so you know the idea that there are nations that are joining aggressive military alliances like international military organizations undermines that commitment to making the region its own of peace and we see the consequence we see that certain nations working through their so-called global partner in a neighboring country in a very belligerent and aggressive way with the real possibility of some type of intervention using some of those forces so this kind of activity undermines that very high high and broad and principled position to make this region a zone of peace"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "in that fight for defending that zone of peace. It's been very important for the region the support of the peace movement and also what small communities in the country have done with their solidarity movements. How is that relationship between the solidarity movements of the peace committee in the country with the region, specifically with this nation?"
+      }
+    ],
+    "speakername": "Ajamu Baraka",
+    "ground_truth": "was all interconnected, that we stand in solidarity with the people of this nation and the region for a political goal. That goal is to create the conditions in which we all can live as human beings, free of war, free of material want, free of aggression, free of destabilization. So the solidarity and the peace agenda are connected. It says that the only way we're going to be able to realize these things is as a consequence of the political will of the people. When these states engage in militarism, aggression, the only counter force that we have are the people. So solidarity has to have a grounding and a vision, and that vision is the possibility of peace in this region, the possibility of transcending the states that we have in place now that are not addressing the real needs of the people, the possibility of building a new world. So these concepts and principles are fundamentally interrelated.",
+    "bio": "[target] is a political activist and former third-party nominee for Vice President in the 2016 election. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "war should be eliminated in order to realize human rights is front and center of what we are fighting for the idea that that the nation should be a zone of peace is a very important one it has the the idea that the only way we can realize human race is within the context of peace so you know the idea that there are nations that are joining aggressive military alliances like international military organizations undermines that commitment to making the region its own of peace and we see the consequence we see that major powers working through their so-called global partner in a neighboring country in a very belligerent and aggressive way with the real possibility of some type of intervention using some of those forces so this kind of activity undermines that very high high and broad and principled position to make this region a zone of peace"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "in that fight for defending that zone of peace. It's been very important for the region the support of the peace movement and also what small communities have done with their solidarity movements. How is that relationship between the solidarity movements of the peace committee with the region, specifically with the country in question?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "was all interconnected, that we stand in solidarity with the people of the region for a political goal. That goal is to create the conditions in which we all can live as human beings, free of war, free of material want, free of aggression, free of destabilization. So the solidarity and the peace agenda are connected. It says that the only way we're going to be able to realize these things is as a consequence of the political will of the people. When these states engage in militarism, aggression, the only counter force that we have are the people. So solidarity has to have a grounding and a vision, and that vision is the possibility of peace in this region, the possibility of transcending the states that we have in place now that are not addressing the real needs of the people, the possibility of building a new world. So these concepts and principles are fundamentally interrelated."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Solidarity, anti-imperialism, aren't those the kind of attitudes that capitalism used to define that is socialism? When people want to help the others in need, when they fight those who are abusing or using their influence, their power to put the others on their knees, why? Why those attitudes, which are simply human attitudes and which are very simple, why they are seen like that?"
+      }
+    ],
+    "speakername": "Ajamu Baraka",
+    "ground_truth": "Well, you know, it's interesting, the attitudes, but they also spring from an ethical framework, an alternative ethical framework from the terms you use, capitalism and imperialism. The ethical framework that we have to ground our struggles in is one in which we see solidarity, human solidarity, collective action as a fundamental principle. What we see, the right to have healthcare as a fundamental principle. The notion that we don't have to be in competition with each other as individuals or nations is a fundamental alternative principle. So the principles that animate the idea of socialism are the kinds of principles that we have to fight for. The principles that say that one nation should not be in a position to exploit and to oppress another nation. That we should have international cooperation. So we are not apologetic at all in embracing those principles, embracing that ethical framework, that those values that says that these values reflect a higher humanity, a higher commitment our real potential is really able to realize.",
+    "bio": "The subject (born October 25, 1953) is an political activist and former alternative party nominee for Vice President of the nation in the 2016 election. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "was all interconnected, that we stand in solidarity with the people of regional nations for a political goal. That goal is to create the conditions in which we all can live as human beings, free of war, free of material want, free of aggression, free of destabilization. So the solidarity and the peace agenda are connected. It says that the only way we're going to be able to realize these things is as a consequence of the political will of the people. When these states engage in militarism, aggression, the only counter force that we have are the people. So solidarity has to have a grounding and a vision, and that vision is the possibility of peace in this region, the possibility of transcending the states that we have in place now that are not addressing the real needs of the people, the possibility of building a new world. So these concepts and principles are fundamentally interrelated."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Solidarity, anti-imperialism, aren't those the kind of attitudes that capitalism used to define that is socialism? When people want to help the others in need, when they fight those who are abusing or using their influence, their power to put the others on their knees, why? Why those attitudes, which are simply human attitudes and which are very simple, why they are seen like that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, it's interesting, the attitudes, but they also spring from an ethical framework, an alternative ethical framework from the terms you use, capitalism and imperialism. The ethical framework that we have to ground our struggles in is one in which we see solidarity, human solidarity, collective action as a fundamental principle. What we see, the right to have healthcare as a fundamental principle. The notion that we don't have to be in competition with each other as individuals or nations is a fundamental alternative principle. So the principles that animate the idea of socialism are the kinds of principles that we have to fight for. The principles that say that one nation should not be in a position to exploit and to oppress another nation. That we should have international cooperation. So we are not apologetic at all in embracing those principles, embracing that ethical framework, that those values that says that these values reflect a higher humanity, a higher commitment our real potential is really able to realize."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Talking about those principles and the relationship they, that's why they forge, they make stronger that relationship between peace movements, solidarity movements, and the people of the region, of other countries in this area, like we can say also, I don't know, the people of neighboring nations also. Leaders of the movement, but many other leaders here in the region have also defended that relationship, that brotherly relation. And also they have called to, in a way, to make a closer bond between the minority communities and other small communities in the country. How? Has that relation forged through the years?"
+      }
+    ],
+    "speakername": "Ajamu Baraka",
+    "ground_truth": "Well, those relationships have been very important. Regional leaders have understood that in the context of our country, for example, the minority movement has been very important. That movement is a movement that embraced the principles we talked about a moment ago, including the principles of internationalism. So that's part of building the regional-wide solidarity. That solidarity has to include all peoples, the indigenous, all ethnic groups, everyone, animated by this vision of what we can be collectively. So those leaders had that vision. The movements that they helped to build reflected that vision.",
+    "bio": "The subject (born October 25, 1953) is an American political activist and former third-party nominee for Vice President of the United States in the 2016 election. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

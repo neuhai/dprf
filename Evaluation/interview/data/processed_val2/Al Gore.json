@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We've got to end our dependence on oil and coal. They're rising rapidly in price. That's why gasoline prices are going up, and it's why electricity rates are going up. But the new demand for oil and coal from these other fast-growing countries means that the only way we're going to escape the rising prices and the dependence on foreign sources is by switching to renewable sources. And now that the coal and oil have gone up so high and the engineers have brought down the cost of solar and wind and geothermal, now it's competitive. And if we make a big commitment to take all our electricity over to renewable sources, then the cost will come down more quickly, we'll have less pollution, lower cost, and a better national security guarantee."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Don't we get a lot of our electricity from natural gas as well?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, some. Most of it comes from coal, some of it from nuclear, from hydro, some from natural gas, and some of the new units built in the last few years have come from natural gas. Natural gas is a little bit cleaner than oil and much cleaner than coal, and it's a transition fuel. But in the longer term, we really should switch to solar and geothermal and wind energy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think clean coal is an oxymoron?"
+      }
+    ],
+    "speakername": "Al Gore",
+    "ground_truth": "There's no such thing as clean coal. It's nonexistent. Theoretically, it might be possible many years from now to come up with a way to clean it as it's burned, but there's not a single demonstration project in the country. They're not doing anything to put substance to the slogan, clean coal.",
+    "bio": "A prominent American politician and environmentalist who served as the second-highest federal official from 1993 to 2001. The individual was a running mate in a successful campaign in 1992, and they were re-elected in 1996. Near the end of their colleague's second term, they were selected as the party nominee for the 2000 presidential election but lost the election in a very close race after a state recount. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, some. Most of it comes from coal, some of it from nuclear, from hydro, some from natural gas, and some of the new units built in the last few years have come from natural gas. Natural gas is a little bit cleaner than oil and much cleaner than coal, and it's a transition fuel. But in the longer term, we really should switch to solar and geothermal and wind energy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think clean coal is an oxymoron?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's no such thing as clean coal. It's nonexistent. Theoretically, it might be possible many years from now to come up with a way to clean it as it's burned, but there's not a single demonstration project in this country. They're not doing anything to put substance to the slogan, clean coal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Clean coal doesn't exist. Doesn't it take as much energy to produce it as it would to burn coal? I mean, isn't that the argument against it? The whole process is, I mean, we don't have to get into great detail here, but that's my understanding anyway."
+      }
+    ],
+    "speakername": "Al Gore",
+    "ground_truth": "reasons they have been slow to install these systems for capturing the CO2 when the coal is burned is that it's expensive but with more work and some point in the future after that work is done it may be possible but the burden should be on those who are burning it to show that it can be clean it's not now and just to say it's clean that's deceptive",
+    "bio": "A prominent American politician and environmentalist who served as the Vice President from 1993 to 2001. The individual was a running mate in their successful campaign in 1992, and the pair was re-elected in 1996. Near the end of the second term, the individual was selected as the nominee for the 2000 presidential election but lost the election in a very close race after a state recount. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "There's no such thing as clean coal. It's nonexistent. Theoretically, it might be possible many years from now to come up with a way to clean it as it's burned, but there's not a single demonstration project in the country. They're not doing anything to put substance to the slogan, clean coal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Clean coal doesn't exist. Doesn't it take as much energy to produce it as it would to burn coal? I mean, isn't that the argument against it? The whole process is, I mean, we don't have to get into great detail here, but that's my understanding anyway."
+      },
+      {
+        "speaker": "[target]",
+        "text": "reasons they have been slow to install these systems for capturing the CO2 when the coal is burned is that it's expensive but with more work and some point in the future after that work is done it may be possible but the burden should be on those who are burning it to show that it can be clean it's not now and just to say it's clean that's deceptive"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've set a 10-year deadline. Is that realistic?"
+      }
+    ],
+    "speakername": "Al Gore",
+    "ground_truth": "I think it is because there's some challenges. Think of the space program, the national highway system. There's some challenges that are really important to the future of the country that can't be done in a single year or two years. But setting a 40-year goal, nobody takes that seriously. Ten years is about the limit of what we can stay focused on and can sustain a really sizable national commitment. And an awful lot's at stake, because the scientists are telling us that we have less than ten years to begin massive reductions in global warming pollution or else this climate crisis might not be retrievable. It is retrievable and solvable if we start now on a bold program.",
+    "bio": "Born March 31, 1948, this American politician and environmentalist served as the 45th Vice President of the country from 1993 to 2001. The individual was a running mate in a successful campaign in 1992, and the pair was re-elected in 1996. Near the end of the second term, they were selected as the party nominee for the 2000 presidential election but lost the election in a very close race after a state recount. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's almost as much as the cost of the war, and it's almost as much as we would have to pay to go out and build new coal plants and new oil drilling rigs in order to get the energy that way. We're going to make investments in new energy supply. If we choose to do it with renewable energy, it will cost money, but once we build it, the fuel is free, the sunshine and the wind are here. The competition can't bid up the price. It's not going to run out. So we need to switch to a new system that doesn't pollute, that won't be disrupted by some war in the region, and that will steadily come down in price as we make a bigger commitment to it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think the political will is there to change the way we do business so dramatically in this country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think we're getting there. I don't think it's there in the legislature. I don't think it's there in the government center. I think it's beginning to build pretty steadily among the people. People are really hurt by these high gasoline prices. And people have caught on after 35 years to the fact that simply producing more oil does not bring down the price of gasoline. Hasn't in the past, won in the future, because these new growing economies in the east and elsewhere are bidding up the price of oil. And so gasoline prices are bidding. We've got to break free of this limited supply of dirty fuels and shift over to a source of energy that's based on fuel that's free and equipment that's high technology and is steadily coming down in price."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What about nuclear power because countries like [target country] get something like 75 to 80 percent of their power from nuclear."
+      }
+    ],
+    "speakername": "Al Gore",
+    "ground_truth": "[target country] is unique, it's a special case. We have a lot of nuclear plants in this country and I'm not anti-nuclear, I'm a little skeptical that it's going to play a much bigger role than it does now. I think it'll continue to play a role. But the problems with nuclear are it's very expensive, it takes a long time to build, and these nuclear plants only come in one size, extra large, and the utilities don't want to commit all that money for 15 years to get a plant that's rising in cost. And of course the fuel also has some problems because if it gets out to other countries that can't be trusted, it feeds the problem of proliferating nuclear weapons.",
+    "bio": "The subject (born March 31, 1948) is an American politician and environmentalist who served as a senior government official from 1993 to 2001. The subject was part of a successful campaign team in 1992, and was re-elected in 1996. Near the end of the administration's second term, the subject was selected as the party nominee for the 2000 presidential election but lost the election in a very close race after a regional recount. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I knew in broad outline what I thought the solutions were. But as always, when you dig deeply into topics and go down below the first few layers, you find a lot of new stuff. And it was very exciting because I came away from the process with a very strong conviction that we have enough tools to solve three or four climate crises. And we've only got to solve one."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Is it generational? There's a whole group of kids who are growing up in a world with a black president, right? And you know that in 10 years it will be different, and that a lot of the people in the government, they're of a certain vintage, and where this is not part of the conversation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "resemble that remark."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You do?"
+      }
+    ],
+    "speakername": "Al Gore",
+    "ground_truth": "You might resemble it. But the, well, even recycling. There's generations that understand what recycling is. When you walk into a public place and there isn't a recycling bin, you hold your can and don't know what to do with it, right? So I wonder if this, not to be crass about it, but a whole group needs to be gone before any real change is going to actually happen.",
+    "bio": "Born March 31, 1948, this American politician and environmentalist served as the Vice President of the United States from 1993 to 2001. The subject was a presidential running mate in their successful campaign in 1992, and was re-elected in 1996. Near the end of the administration's second term, the subject was selected as the party nominee for the 2000 presidential election but lost the election in a very close race after a state recount. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

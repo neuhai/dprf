@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Actually there was nothing here, it was just vegetation, you know, nothing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It does nothing, yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The people that were living here, what facilities did they have?"
+      }
+    ],
+    "speakername": "Aliko Dangote",
+    "ground_truth": "They had nothing. They had no water, no power, no roads, nothing. So whatever you see here, we made it.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I think."
+      },
+      {
+        "speaker": "[target]",
+        "text": "no regret i would have said that yes maybe a bit of regret if we hadn't uh succeeded in delivering but you know to tell you the truth it was a very very it was a monster monster in the sense that what i keep telling people if i knew how difficult uh it was sort of putting this kind of you know edifice this kind of refinery i wouldn't have started at all but you know so but by the time we realized that it was a very difficult thing we had already started so we had no choice than to deliver"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But what's the hardest bit? So you have a relationship with the government. They're getting rid of subsidies. You have to find the crude, you refine it, you sell it back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think that is not really only the hardest part. The hardest part, Francine, is delivering the project on its own. We never, ever expected the kind of challenges that we face. You know, we launched the project in 2013 and then we had a lot of problems with the state governments. You know, it's not the federal government, you know, because we have three tiers of government. So while we bought a land, you know, it was in a state not far away from Lagos. And the guy dribbled us for almost about three and a half years. And we had to now move the refinery to Lagos. We go to Lagos. We had community issues. So it took us really five years to start just battling here and there. After we had already taken loans of about 2.4 billion to start and interest was counting. But then still, you know, we went ahead. Then again, the challenges of building that kind of, you know, project, we realized that, you know, we had to build our own port. We built the port. After building the port, we realized that nobody could supply us with cranes, equipment. So we had to take something that people don't know or they don't realize. What we did now, we now made ourselves as the EPC contractor, which is engineering, procurement and construction. So we did it on our own. And because we have never, ever."
+      }
+    ],
+    "speakername": "Aliko Dangote",
+    "ground_truth": "Well, you see, the diversification structure, you know, at first, we're sort of like a trading company, as you said. We tried a couple of things, banking, you know, processing, fish trading, textile, manufacturing. You know, so we tried a couple of things. Well, now in 1997, we're now focused on just industry. Right now, the diversification is good in business because there is nothing that is 100% fully safe. You know, when I say fully safe, which means you are not going to have challenges in business. I mean, it's like today we have different types of businesses and we're in so many other different countries. You know, if five countries out of 18, for example, maybe they're having challenges, we'll still be able to remain afloat by doing what we're supposed to be, you know, doing, moving on, not being stressed in any way. So the diversification is extremely variable, but also the diversification has to be monitored closely so that you just don't keep establishing different types of businesses. You know, with us, we only move into a business that we fully do understand. Well, at least 10 of our top guys, even if you wake them up from sleep, they can tell you exactly the process A to Z because the most dangerous thing for an entrepreneur to do, you know, is actually, you know, to go into a business that he does not understand fully. You don't have to be an engineer, you don't have to be, you know, but you need to understand the business in and out. So diversification is extremely, very, very good. And you're also spreading out your risk. You know, I mean, if I now go, let's say before, we're only in sugar refining, for example. And if we remain only in sugar refining, if sugar turns out to be bad, then we've had, you know, so the risk is very, very high. So the risk is very, very high. So the risk is very, very high. So the best way to do things is to diversify. And you've raised one issue saying, yes, we're now building the biggest, you know, refinery. If you look at it right from the beginning, our group made an effort to make sure that we stay out of oil business. You know, because if you are, you know, lifting crude or, you know, having oil blocks or something, you know, anything that you say oil. People will tend to be a corrupt area. So we decided totally to remain out of oil. And even now that we're getting into oil, we're getting into the downstream, mainly downstream and then upstream. We've already established a name. And there's nothing that will make us do things that will tarnish the brand. So that's why now we're there. And we've been pushed to oil actually because we realize. That we have so much cash is too much cash for the type of businesses that we're running today.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But what's the hardest bit? So you have a relationship with the government. They're getting rid of subsidies. You have to find the crude, you refine it, you sell it back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think that is not really only the hardest part. The hardest part, Francine, is delivering the project on its own. We never, ever expected the kind of challenges that we face. You know, we launched the project in 2013 and then we had a lot of problems with the state governments. You know, it's not the federal government, you know, because we have three tiers of government. So while we bought a land, you know, it was in a state not far away from Lagos. And the guy dribbled us for almost about three and a half years. And we had to now move the refinery to Lagos. We go to Lagos. We had community issues. So it took us really five years to start just battling here and there. After we had already taken loans of about 2.4 billion to start and interest was counting. But then still, you know, we went ahead. Then again, the challenges of building that kind of, you know, project, we realized that, you know, we had to build our own port. We built the port. After building the port, we realized that nobody could supply us with cranes, equipment. So we had to take something that people don't know or they don't realize. What we did now, we now made ourselves as the EPC contractor, which is engineering, procurement and construction. So we did it on our own. And because we have never, ever."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you see, the diversification structure, you know, at first, we're sort of like a trading company, as you said. We tried a couple of things, banking, you know, processing, fish trading, textile, manufacturing. You know, so we tried a couple of things. Well, now in 1997, we're now focused on just industry. Right now, the diversification is good in business because there is nothing that is 100% fully safe. You know, when I say fully safe, which means you are not going to have challenges in business. I mean, it's like today we have different types of businesses and we're in so many other different countries. You know, if five countries out of 18, for example, maybe they're having challenges, we'll still be able to remain afloat by doing what we're supposed to be, you know, doing, moving on, not being stressed in any way. So the diversification is extremely variable, but also the diversification has to be monitored closely so that you just don't keep establishing different types of businesses. You know, with us, we only move into a business that we fully do understand. Well, at least 10 of our top guys, even if you wake them up from sleep, they can tell you exactly the process A to Z because the most dangerous thing for an entrepreneur to do, you know, is actually, you know, to go into a business that he does not understand fully. You don't have to be an engineer, you don't have to be, you know, but you need to understand the business in and out. So diversification is extremely, very, very good. And you're also spreading out your risk. You know, I mean, if I now go, let's say before, we're only in sugar refining, for example. And if we remain only in sugar refining, if sugar turns out to be bad, then we've had, you know, so the risk is very, very high. So the risk is very, very high. So the risk is very, very high. So the best way to do things is to diversify. And you've raised one issue saying, yes, we're now building the biggest, you know, refinery. If you look at it right from the beginning, our group made an effort to make sure that we stay out of oil business. You know, because if you are, you know, lifting crude or, you know, having oil blocks or something, you know, anything that you say oil. People will tend to be a corrupt area. So we decided totally to remain out of oil. And even now that we're getting into oil, we're getting into the downstream, mainly downstream and then upstream. We've already established a name. And there's nothing that will make us do things that will tarnish the brand. So that's why now we're there. And we've been pushed to oil actually because we realize. That we have so much cash is too much cash for the type of businesses that we're running today."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Right?"
+      }
+    ],
+    "speakername": "Aliko Dangote",
+    "ground_truth": "so we need to diversify that's number one on diversification again we look at what are the areas that can actually take nigeria to the next level and that's why we map out all the issues and the problems that we're facing as a country for lack of diversifying the economy you know because when we're selling oil at hundred dollars we ought to have diversified the economy fully because the money wasn't for just paying salaries we should have used that money to diversify the economy into various things so that we don't end up as an importer nation you know they said that importer nations what they normally use are you import poverty and export jobs out and that's what we try to do to make sure that we make nigeria great and nigerians proud",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you see, the diversification structure, you know, at first, we're sort of like a trading company, as you said. We tried a couple of things, banking, you know, processing, fish trading, textile, manufacturing. You know, so we tried a couple of things. Well, now in 1997, we're now focused on just industry. Right now, the diversification is good in business because there is nothing that is 100% fully safe. You know, when I say fully safe, which means you are not going to have challenges in business. I mean, it's like today we have different types of businesses and we're in so many other different countries. You know, if five countries out of 18, for example, maybe they're having challenges, we'll still be able to remain afloat by doing what we're supposed to be, you know, doing, moving on, not being stressed in any way. So the diversification is extremely variable, but also the diversification has to be monitored closely so that you just don't keep establishing different types of businesses. You know, with us, we only move into a business that we fully do understand. Well, at least 10 of our top guys, even if you wake them up from sleep, they can tell you exactly the process A to Z because the most dangerous thing for an entrepreneur to do, you know, is actually, you know, to go into a business that he does not understand fully. You don't have to be an engineer, you don't have to be, you know, but you need to understand the business in and out. So diversification is extremely, very, very good. And you're also spreading out your risk. You know, I mean, if I now go, let's say before, we're only in sugar refining, for example. And if we remain only in sugar refining, if sugar turns out to be bad, then we've had, you know, so the risk is very, very high. So the risk is very, very high. So the risk is very, very high. So the best way to do things is to diversify. And you've raised one issue saying, yes, we're now building the biggest, you know, refinery. If you look at it right from the beginning, our group made an effort to make sure that we stay out of oil business. You know, because if you are, you know, lifting crude or, you know, having oil blocks or something, you know, anything that you say oil. People will tend to be a corrupt area. So we decided totally to remain out of oil. And even now that we're getting into oil, we're getting into the downstream, mainly downstream and then upstream. We've already established a name. And there's nothing that will make us do things that will tarnish the brand. So that's why now we're there. And we've been pushed to oil actually because we realize. That we have so much cash is too much cash for the type of businesses that we're running today."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so we need to diversify that's number one on diversification again we look at what are the areas that can actually take nigeria to the next level and that's why we map out all the issues and the problems that we're facing as a country for lack of diversifying the economy you know because when we're selling oil at hundred dollars we ought to have diversified the economy fully because the money wasn't for just paying salaries we should have used that money to diversify the economy into various things so that we don't end up as an importer nation you know they said that importer nations what they normally use are you import poverty and export jobs out and that's what we try to do to make sure that we make nigeria great and nigerians proud"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, it's understood worldwide that in terms of the continent, you are the benchmark of entrepreneurship. But what drives you in business is the goal to be the richest man in the world at some point."
+      }
+    ],
+    "speakername": "Aliko Dangote",
+    "ground_truth": "No, it's not the goal to be the richest man. I've never really, I'm not in competition with anybody. That's number one. So number two, I think it is mainly to see how impactful we are going to be to humanity.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, it's understood worldwide that in terms of the continent, you are the benchmark of entrepreneurship. But what drives you in business is the goal to be the richest man in the world at some point."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, it's not the goal to be the richest man. I've never really, I'm not in competition with anybody. That's number one. So number two, I think it is mainly to see how impactful we are going to be to humanity."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So number two, I think it is mainly to see how impactful we are going to be to humanity."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Bye."
+      }
+    ],
+    "speakername": "Aliko Dangote",
+    "ground_truth": "so everything can be accounted for and most of the trucks or ships that will come unload from us we are going to actually you know put a tracker on them to be sure they are going to take the oil within the country and that i think can help the government save quite a lot of money",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

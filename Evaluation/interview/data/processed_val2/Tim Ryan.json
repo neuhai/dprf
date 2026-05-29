@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, we haven't heard from anybody. You know, last two public polls have us up three points. We've got a bunch of grassroots supporters that are helping us, and we're prepared to go it alone here, but we're going to win it. And I think that's going to be something that's going to be good for everybody because I'll get to [government center] knowing that we did this on our own and I'll be an independent voice for [state], which is kind of what we want."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That's a striking thing to hear on your own. It's October 11th, the election less than a month away. At this point, is the Democratic Senatorial Campaign Committee doing enough and spending enough in [state]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I mean, I would like to think that you have a candidate that's up three, blue-collar guy from outside of [city], [state], kind of the area of the country, the kind of groups of people, working-class people, whether they're white or black or brown, men or women, working-class people that I'm connecting with in a very significant way, pulling significant Republican voters and independent voters. You would think they would want to be actively engaged in this race, that it would be good for us to win this seat, but also good for the party. But, you know, we'll have to see. They got a lot of different calculations that they got to make. We're prepared to go at this on our own. But I'm telling you, we're going to win the race because the other advantage is, you know, [opponent] is losing support. He's losing Republican support. And after the debate last night, he said, you know, we're going to win the race. Last night, our phones were ringing off the hook with Republicans, Republican donors, Republican voters that want to come help. So, you know, we've got a lot of momentum now. We've just got to keep it going."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "YOU'RE CALLING YOURSELF AN INDEPENDENT VOICE RUNNING AS A DEMOCRAT. YOU HAVE CHOICES TO MAKE IN THE COMING WEEKS. DO YOU WANT PRESIDENT [NAME] TO COME TO [STATE] AND PUBLICLY CAMPAIGN WITH YOU IN THIS FINAL LAP?"
+      }
+    ],
+    "speakername": "Tim Ryan",
+    "ground_truth": "No, no, I won't be asking the president to come in or very, very few, if any, national people, you know, to come in and actually campaign with us because I want to be the main face, the main messenger of this campaign. I grew up in [state]. I'm [state] in my bones. My wife is from just outside the [city] area like me. She's a 20 year public school teacher. Our kids go to public schools like we're just, you know, we're an [state] family that wants. To connect with other [state] residents. And I don't think anybody can come in like [former president] coming in for [opponent] actually was an absolute net negative for him. You know, it's like run your own race, stand on your own two feet. That's what [state] residents want. And that's what I'm going to do.",
+    "bio": "The speaker (born July 16, 1973) is an American politician serving as the U.S. Representative for [state]'s 13th congressional district since 2003. The district, numbered as the 17th district from 2003 to 2013, takes in a large swath of northeast [state], from [city] to [city]. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, I mean, I would like to think that you have a candidate that's up three, blue-collar guy from outside of Youngstown, Ohio, kind of the area of the country, the kind of groups of people, working-class people, whether they're white or black or brown, men or women, working-class people that I'm connecting with in a very significant way, pulling significant Republican voters and independent voters. You would think they would want to be actively engaged in this race, that it would be good for us to win this seat, but also good for the party. But, you know, we'll have to see. They got a lot of different calculations that they got to make. We're prepared to go at this on our own. But I'm telling you, we're going to win the race because the other advantage is, you know, J.D. Vance is losing support. He's losing Republican support. And after the debate last night, he said, you know, we're going to win the race. Last night, our phones were ringing off the hook with Republicans, Republican donors, Republican voters that want to come help. So, you know, we've got a lot of momentum now. We've just got to keep it going."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "YOU'RE CALLING YOURSELF AN INDEPENDENT VOICE RUNNING AS A DEMOCRAT. YOU HAVE CHOICES TO MAKE IN THE COMING WEEKS. DO YOU WANT PRESIDENT BIDEN TO COME TO OHIO AND PUBLICLY CAMPAIGN WITH YOU IN THIS FINAL LAP?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, no, I won't be asking the president to come in or very, very few, if any, national people, you know, to come in and actually campaign with us because I want to be the main face, the main messenger of this campaign. I grew up in Ohio. I'm Ohio in my bones. My wife is from just outside the Youngstown area like me. She's a 20 year public school teacher. Our kids go to public schools like we're just, you know, we're an Ohio family that wants. To connect with other Ohioans. And I don't think anybody can come in like Trump coming in for J.D. Vance actually was an absolute net negative for him. You know, it's like run your own race, stand on your own two feet. That's what Ohioans want. And that's what I'm going to do."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Congressman, the January 6th committee run by some of your colleagues in the House holding a hearing on Thursday, does that committee and its work matter at all in your race, the Ohio Senate race, and is its work breaking through with voters?"
+      }
+    ],
+    "speakername": "Tim Ryan",
+    "ground_truth": "Well, I think it's breaking through in the sense that it is really narrowing that group of extremists who are who will continue to try to defend the indefensible. And I think it's the unique part about it is it's a great service to our democracy. Kudos to Liz Cheney. Kudos to Adam Kinzinger, the Republicans who are showing great courage. But it's also speaking to that sliver of the electorate that is also probably Republican or independent minded that are also concerned about the Dobbs decision. They're also concerned about what happened with the Supreme Court and the overreach on the issue of choice and then nullifying same sex marriages and wanting to go down the road of birth control. It opens the door to the conversation of the extremism. And so in that regard, I think it's helpful to pull a lot of those voters over. And, Jay. J.D. Vance is in with the Marjorie Taylor Greens, the Lindsey Graham and a national abortion ban. Ted Cruz is in campaigning for him. So all of these people are kind of highlighting the fact that J.D. Vance is in with the Looney Tunes group of the Republican Party. And so those moderates and independent voters, it will give them more reason to come our way.",
+    "bio": "Timothy John Ryan (born July 16, 1973) is an American politician serving as the U.S. Representative for Ohio's 13th congressional district since 2003. The district, numbered as the 17th district from 2003 to 2013, takes in a large swath of northeast Ohio, from Youngstown to Akron. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, no, I won't be asking the president to come in or very, very few, if any, national people, you know, to come in and actually campaign with us because I want to be the main face, the main messenger of this campaign. I grew up in this state. I'm this state in my bones. My wife is from just outside a suburban area like me. She's a 20 year public school teacher. Our kids go to public schools like we're just, you know, we're a local family that wants. To connect with other locals. And I don't think anybody can come in like Trump coming in for my opponent actually was an absolute net negative for him. You know, it's like run your own race, stand on your own two feet. That's what locals want. And that's what I'm going to do."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Congressman, the January 6th committee run by some of your colleagues in the legislative body holding a hearing on Thursday, does that committee and its work matter at all in your race, the state Senate race, and is its work breaking through with voters?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's breaking through in the sense that it is really narrowing that group of extremists who are who will continue to try to defend the indefensible. And I think it's the unique part about it is it's a great service to our democracy. Kudos to my colleagues who are showing great courage. But it's also speaking to that sliver of the electorate that is also probably Republican or independent minded that are also concerned about the Dobbs decision. They're also concerned about what happened with the Supreme Court and the overreach on the issue of choice and then nullifying same sex marriages and wanting to go down the road of birth control. It opens the door to the conversation of the extremism. And so in that regard, I think it's helpful to pull a lot of those voters over. And my opponent is in with the extremist groups of the Republican Party. So all of these people are kind of highlighting the fact that he is in with the radical group of the Republican Party. And so those moderates and independent voters, it will give them more reason to come our way."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You just mentioned birth control. Abortion rights has galvanized some voters across the country in the wake of the Supreme Court overturning Roe v. Wade. To what extent is this issue galvanizing Democrats and some others in your state? Is it dramatically changing the dynamics in your race?"
+      }
+    ],
+    "speakername": "Tim Ryan",
+    "ground_truth": "Well, we registered 90,000 people to vote in the month of August. We're still waiting on the September numbers, but they're going to be blockbuster. We've seen the college campuses. I was just down at a state university the other day. They registered 2,000 people on campus to vote. So there are going to be thousands of young people energized, women energized. We were right beneath our state was right beneath another state as far as registering new people to vote. We saw what happened with the referendum there. I think that's going to be even stronger in the month of September. So it's animating the electorate big time. And I think, again, it's speaking to those moderate Republican independent-minded voters who see this as big government overreaching of the private lives of individual citizens. Like, this is big government. This is in our bedroom, in our doctor's offices, and people don't want that in our state. We want the government out of our business here. So in that sense, it's opening the door again to this broader conversation. About how extreme these groups are.",
+    "bio": "The target (born July 16, 1973) is an American politician serving as the U.S. Representative for a congressional district since 2003. The district, numbered differently from 2003 to 2013, takes in a large swath of northeast region of the state, from one major city to another. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's breaking through in the sense that it is really narrowing that group of extremists who are who will continue to try to defend the indefensible. And I think it's the unique part about it is it's a great service to our democracy. Kudos to the representatives who are showing great courage. But it's also speaking to that sliver of the electorate that is also probably Republican or independent minded that are also concerned about the decision. They're also concerned about what happened with the Court and the overreach on the issue of choice and then nullifying same sex marriages and wanting to go down the road of birth control. It opens the door to the conversation of the extremism. And so in that regard, I think it's helpful to pull a lot of those voters over. And the opponent is in with the extremist representatives, and a national abortion ban. Other politicians are campaigning for him. So all of these people are kind of highlighting the fact that the opponent is in with the extreme group of the Republican Party. And so those moderates and independent voters, it will give them more reason to come our way."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You just mentioned birth control. Abortion rights has galvanized some voters across the country in the wake of the Court overturning the previous ruling. To what extent is this issue galvanizing Democrats and some others in the state? Is it dramatically changing the dynamics in your race?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we registered 90,000 people to vote in the month of August. We're still waiting on the September numbers, but they're going to be blockbuster. We've seen the college campuses. I was just down at a state university the other day. They registered 2,000 people on campus to vote. So there are going to be thousands of young people energized, women energized. We were right beneath our state as far as registering new people to vote. We saw what happened with the referendum in another state. I think that's going to be even stronger in the month of September. So it's animating the electorate big time. And I think, again, it's speaking to those moderate Republican independent-minded voters who see this as big government overreaching of the private lives of individual citizens. Like, this is big government. This is in our bedroom, in our doctor's offices, and people don't want that in our state. We want the government out of our business here. So in that sense, it's opening the door again to this broader conversation. About how extreme these groups are."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And in the final weeks here, you're going to have to make a decision in this major Senate race in your state, how you lean into certain issues. Yesterday, I interviewed a Senator from Vermont. He told news media that Democrats do need to put an emphasis on abortion rights, but he argued they also need to make sure they're countering Republican overtures to working people. In other words, to not just talk about abortion. Is the Senator right?"
+      }
+    ],
+    "speakername": "Tim Ryan",
+    "ground_truth": "Yeah, we have to have a robust economic message going into the last three or four weeks here. Without a question, if we go all in on one issue, that would be wrong because gas is still, you know, in the high threes, 375, 385, depending on where you're at. You know, bread, milk, all these costs are still high. And so you have to speak to that. I've been calling for a tax cut for working people. But if you don't recognize the economic strain that people are under and it is solely about the Court decision, I think that would be a huge mistake for Democrats. So I would encourage, you know, anybody running right now to make sure you have a robust economic message as well as the big government overreach, the violation of personal freedom that came with the decision.",
+    "bio": "The speaker (born July 16, 1973) is an American politician serving as the U.S. Representative for a congressional district since 2003. The district, numbered differently from 2003 to 2013, takes in a large swath of northeast region of the state, from one major city to another. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we came in last night, had a big rally in [city], over 1,000 people there, and then down here today. This just goes to the heart, I think, of what we believe in as far as average people having the ability to work together to negotiate a fair wage and fair benefits. I think that the workers have always been willing to make some sacrifices. They did under Ted. They're willing to do it in other states. They've conceded to the whole kit and caboodle, it seems like, in [state]. But it's not about that. It's about going to the right to collectively bargain. And those of us who remember our grandparents talking about what the world was like 70, 80, 90 years ago, it was a much different world where the workers didn't have these rights. And I think we don't want to turn the clock back. What's next? Minimum wage? What else is going to get repealed?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "This is exactly where it starts, but what happens? It looks like this could very well pass the Senate, the Governor could very well sign that, what next?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I will say quite clearly that the Republicans in [state] and across the country have woken a sleeping giant, and that is the American worker. You look at the great movements in American history, Social Security, Medicare, civil rights. It was the working families in the country that made that happen. And there are thousands of people that are here now because they're getting into their pocketbook. Wage has been stagnant for 30 years. There's been a decline in average wages. While the CEOs are getting $270 to $1 that their workers get."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Patriotism is here."
+      }
+    ],
+    "speakername": "Tim Ryan",
+    "ground_truth": "It's basically woken up a sleeping giant, and that's American labor. And so they may win this battle in the short term. I still think there's a chance to pick off a few senators here in [state] and maybe prevent this from happening. But I think in the long run, this could lead to a generation of changes in [state] and across the country.",
+    "bio": "The subject (born July 16, 1973) is an American politician serving as the U.S. Representative for [state]'s 13th congressional district since 2003. The district, numbered as the 17th district from 2003 to 2013, takes in a large swath of northeast [state], from [city] to [city]. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

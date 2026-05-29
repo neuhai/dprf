@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "the more the fed has to tighten in order to get inflation down the bigger the chance of a recession and the more severe it will be how much the fed has to tighten depends in turn on what happens to these factors they can't control like the supply chains and the commodity prices so that prediction requires you to make a prediction not only about the fed's behavior but about a lot of other things the ukraine war etc so it's a very hard thing very uncertain thing to say i guess that i still tend to believe that some of these forces uh pushing up inflation like the supply chains like the preference for durable goods over services and some of the commodity price increases gas prices and so on that they will at least stabilize and begin to moderate sometime during this year which would mean that inflation will come down to some extent let's say by itself but without the fed's direct intervention if that happens the fed would have to raise rates perhaps uh moderately above neutral say in the threes somewhere when they do that they'll slow demand but as jay powell has pointed out the economy is pretty strong we're not going into recession as often as the case with a troubled economy in fact the underlying economy as we recover from the pandemic is quite strong we have a very strong labor market for example we have a strong financial system we have strong uh so if if the inflation slows as i expect it ultimately will although i've been disappointed about how slow that process is then the fed should not have to raise rates you know too far and what we would get then would be a slowing slowing of the economy maybe even a stall but not a severe recession the severe recession would only come if these other factors simply do not cooperate and in particular the thing the thing people should watch most closely is inflation expectations if inflation expectations as measured by break-evens in the inflation-protected securities market as measured by surveys and so on begin to move up in a significant way that people have lost confidence in the credibility of the fed the fed will have to react much more strongly and the effects in the economy will be much more uh deleterious how can"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "concern to you about that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "For the moment, knock on wood, this is a big difference between today and the 1970s. In the 1970s, inflation expectations were all over the place, and nobody had any confidence in the Fed that it would bring inflation back down. Today, most indicators suggest that people are still pretty confident that the Fed, or maybe some combination of the Fed at the end of the pandemic, will lead to more normal inflation in the future."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We couldn't have a conversation without talking about Bitcoin. Take a look at this. Bitcoin right now down a little under $30,000. And in Bernanke's new book, he writes about the potential of the digital dollar. So of course, I asked him to share his point of view on cryptocurrency these days. This is what he had to say."
+      }
+    ],
+    "speakername": "Ben Bernanke",
+    "ground_truth": "Bitcoin and other currencies, cryptocurrencies, whose value changes minute to minute, they've been successful as a speculative asset. And people, you're seeing the downside of that right now. But they were intended to be a substitute for fiat money. And I think in that respect, they have not succeeded. Because if Bitcoin were a substitute for fiat money, you could use Bitcoin to go buy your groceries. Nobody buys groceries with Bitcoin because it's too expensive and too inconvenient to do that. Moreover, the price of groceries, the price of celery, varies radically day to day in terms of Bitcoin. And so there's no stability either in the value of Bitcoin. The main use of Bitcoin is mostly for underground economy activities and often things that are illegal or illicit. So I don't think that Bitcoin is going to take over as an alternative form of money. It'll be around as long as people are believers and they want to speculate in this. But again, I don't think it's going to.",
+    "bio": "Ben Shalom BernankeÂ (born December 13, 1953) is an American economist at theÂ Brookings InstitutionÂ who served two terms as the 14thÂ Chair of the Federal Reserve, from 2006 to 2014.Â During his tenure as chair, Bernanke oversaw theÂ Federal Reserve's response to theÂ late-2000s financial crisis, for which he was named the 2009Â Time Person of the Year.Â Before becoming Federal Reserve chair, Bernanke was a tenured professor atÂ Princeton UniversityÂ and chaired theÂ department of economicsÂ there from 1996 to September 2002, when he went on public service leave. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "For the moment, knock on wood, this is a big difference between today and the 1970s. In the 1970s, inflation expectations were all over the place, and nobody had any confidence in the central bank that it would bring inflation back down. Today, most indicators suggest that people are still pretty confident that the central bank, or maybe some combination of the central bank at the end of the pandemic, will lead to more normal inflation in the future."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We couldn't have a conversation without talking about Bitcoin. Take a look at this. Bitcoin right now down a little under $30,000. And in [target]'s new book, he writes about the potential of the digital dollar. So of course, I asked him to share his point of view on cryptocurrency these days. This is what he had to say."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bitcoin and other currencies, cryptocurrencies, whose value changes minute to minute, they've been successful as a speculative asset. And people, you're seeing the downside of that right now. But they were intended to be a substitute for fiat money. And I think in that respect, they have not succeeded. Because if Bitcoin were a substitute for fiat money, you could use Bitcoin to go buy your groceries. Nobody buys groceries with Bitcoin because it's too expensive and too inconvenient to do that. Moreover, the price of groceries, the price of celery, varies radically day to day in terms of Bitcoin. And so there's no stability either in the value of Bitcoin. The main use of Bitcoin is mostly for underground economy activities and often things that are illegal or illicit. So I don't think that Bitcoin is going to take over as an alternative form of money. It'll be around as long as people are believers and they want to speculate in this. But again, I don't think it's going to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You don't buy into the idea of it as being a store of value or some kind of version of digital gold."
+      }
+    ],
+    "speakername": "Ben Bernanke",
+    "ground_truth": "said, it's a speculative asset. But it's it's one that whose underlying use value gold has underlying use value, you can use it to fill cavities. The underlying use value of Bitcoin is to do ransomware or something like that. So one of the other risks that Bitcoin has is that it could at some point, be subject to a lot more regulation. And the anonymity is also at risk, I think, at some point. So you know, investors in Bitcoin should be should be aware of that.",
+    "bio": "The target (born December 13, 1953) is an American economist at a prominent research institution who served two terms as the chair of the national central bank, from 2006 to 2014. During his tenure as chair, the target oversaw the institution's response to the late-2000s financial crisis, for which he was named a major magazine's Person of the Year. Before becoming chair, the target was a tenured professor at a prestigious university and chaired the department of economics there from 1996 to September 2002, when he went on public service leave. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Is this a case of banks that were eager to take risks that ruined the economy being now unwilling to take risks to support the recovery?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "We want them to take risks, but not excessive risks. We want to go for a happy medium. I think banks are back in the business of lending, but they have not yet come back to the level of confidence or overconfidence that they had prior to the crisis. We want to have an appropriate balance."
+      },
+      {
+        "speaker": "[target]",
+        "text": "[target]'s first interview ever came in 2009, shortly after the panic. Wow. It was then that he gave us a rare opportunity to see the [Institution] headquarters in [City]. Last month, [target] announced the [Institution]'s intent to buy $600 billion in U.S. Treasury securities, which is supposed to have the effect of lowering rates on long-term loans for things like cars and homes. [target] wanted to emphasize that these are the [Institution]'s own reserves. It's not tax money, and it doesn't add to the federal deficit. What did you see that caused you to pull the trigger on the $600 billion at this point?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It has to do with two aspects. The first is unemployment. The other concern I should mention is that inflation is very, very low, which you think is a good thing and normally is a good thing, but we're getting awfully close to the range where prices would actually start falling."
+      }
+    ],
+    "speakername": "Ben Bernanke",
+    "ground_truth": "falling prices lead to falling wages it lets the steam out of the economy and you start spiraling downward exactly that's deflation and that's what happened in the great depression how great a danger is that now",
+    "bio": "[target] (born December 13, 1953) is an American economist at the [Research Institution] who served two terms as the 14th Chair of the [Institution], from 2006 to 2014. During his tenure as chair, [target] oversaw the [Institution]'s response to the late-2000s financial crisis, for which he was named the 2009 [Magazine] Person of the Year. Before becoming [Institution] chair, [target] was a tenured professor at [University] and chaired the department of economics there from 1996 to September 2002, when he went on public service leave. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "[target]'s first interview ever came in 2009, shortly after the panic. Wow. It was then that he gave us a rare opportunity to see the [government institution] headquarters in [city]. Last month, [target] announced the [institution]'s intent to buy $600 billion in U.S. Treasury securities, which is supposed to have the effect of lowering rates on long-term loans for things like cars and homes. [target] wanted to emphasize that these are the [institution]'s own reserves. It's not tax money, and it doesn't add to the federal deficit. What did you see that caused you to pull the trigger on the $600 billion at this point?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It has to do with two aspects. The first is unemployment. The other concern I should mention is that inflation is very, very low, which you think is a good thing and normally is a good thing, but we're getting awfully close to the range where prices would actually start falling."
+      },
+      {
+        "speaker": "[target]",
+        "text": "falling prices lead to falling wages it lets the steam out of the economy and you start spiraling downward exactly that's deflation and that's what happened in the great depression how great a danger is that now"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, I would say at this point, because the [institution] is acting, I would say the risk is pretty low. But if the [institution] did not act, then given how much inflation has come down since the beginning of the recession, I think it would be a more serious concern."
+      }
+    ],
+    "speakername": "Ben Bernanke",
+    "ground_truth": "Critics of [target]'s [institution] have the opposite worry. They say that the $600 billion and holding down interest rates could overheat the recovering economy, causing prices to rise out of control. Some people think the $600 billion is a terrible idea.",
+    "bio": "The target (born December 13, 1953) is an American economist at the [research institution] who served two terms as the 14th Chair of the [government institution], from 2006 to 2014. During his tenure as chair, the target oversaw the [institution]'s response to the late-2000s financial crisis, for which he was named the 2009 Time Person of the Year. Before becoming [institution] chair, the target was a tenured professor at [university] and chaired the department of economics there from 1996 to September 2002, when he went on public service leave. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "falling prices lead to falling wages it lets the steam out of the economy and you start spiraling downward exactly that's deflation and that's what happened in the great depression how great a danger is that now"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, I would say at this point, because the Fed is acting, I would say the risk is pretty low. But if the Fed did not act, then given how much inflation has come down since the beginning of the recession, I think it would be a more serious concern."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Critics of the Federal Reserve have the opposite worry. They say that the $600 billion and holding down interest rates could overheat the recovering economy, causing prices to rise out of control. Some people think the $600 billion is a terrible idea."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I know that some people think that. What I think they're doing is they're looking at some of the risks and uncertainties associated with doing this policy action. What I think they're not doing is looking at the risk of not acting."
+      }
+    ],
+    "speakername": "Ben Bernanke",
+    "ground_truth": "I think it's something we have to watch out for. It's not evidently true. If you take a look, for example, at [Country], which has had zero interest rates for 30 years. I haven't seen a whole lot of booms and busts in [Country], but I think it's something you have to watch out for. But the other thing I would say is that low interest rates are not, and I know some of you will be skeptical, but it's just a fact that low interest rates around the world are not primarily a monetary policy phenomenon. Interest rates around the world have been declining since the 80s. If you look at the 10-year Treasury yield since 1980 from then until now, 40 years, it looks like a ski slope. The rate just keeps coming down and down and down. And as I've talked about before, I think what we have in the world is a global savings glut, that there's longer lifespans, rising incomes, and for a variety of reasons, there's a lot of savings in the world. Any asset manager will take it. It's hard to pay that, and it's hard to find good uses for that money, hard to find good capital projects. So even when monetary policy is at a normal level, and we got pretty close to a normal level when the Fed was raising rates earlier, interest rates are going to be much lower than in the past. So low interest rates are something we're going to have to live with for a while, very likely, and we have to be very alert about financial risk. The Fed is looking at that. Right. Right. Right. Right. It's much more detailed than we used to, but again, it's not a monetary policy thing. It's a long-term trend.",
+    "bio": "[Target] (born December 13, 1953) is an economist at a prominent research institution who served two terms as the Chair of the Federal Reserve, from 2006 to 2014. During their tenure as chair, [target] oversaw the Federal Reserve's response to the late-2000s financial crisis, for which they were named a major publication's Person of the Year. Before becoming Federal Reserve chair, [target] was a tenured professor at a prestigious university and chaired the department of economics there from 1996 to September 2002, when they went on public service leave. The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

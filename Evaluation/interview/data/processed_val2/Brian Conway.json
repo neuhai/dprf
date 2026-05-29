@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "series of changes that are taking place in education. We've got the national curriculum which has been revised and introduced from September. We've got a new examination and accountability system which has had an impact already upon schools across the region in terms of the curricula and the courses that are now recognised as part of the performance and accountability measures within schools. We've got exam changes that are coming up, changes to GCSEs to make them more rigorous and also in some subjects such as English and maths there's some changes with the way they're even going to be graded and we have to plan for those. And we also, post-16, because we've got students who do A-levels with us, we've got changes because the A-level courses are changing and AS levels are being decoupled from A2s. It means that there's no real point for many subjects in doing AS levels. The students will be starting on courses that will just be standardised. You've also got then the challenge of an election this year. The two main parties have got different points of view and different things that they want to do. One example, a very clear example, is that Labour has indicated that as soon as they get elected they will recouple AS levels and AS levels will be back in as a part of the constitution of A2s. Now we are a little bit waiting for that. We've got a lot of work to do. We've got a lot of work to do to see what's going to happen in the election. So you've got within schools responding to changes that we know are going to take place, such as introducing the curriculum, the new accountability measures, but also that little bit of not knowing exactly what's going to happen depending on the..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Regional meeting out in the resort area."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And it's being orchestrated by [target]. [target] is the State Historic Preservation Officer. We just have not been given the credit that the state deserves for its impact on the modernism movement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. This is exactly why we initiated the State Modern Project several years ago to tell the rest of the country and actually the world about our state's role in the development of modernism. And because of certain things that were happening in our state that just were not happening anywhere else in the country, our region did play a very important role in the development of modernism. Of course, we had the auto industry on the east side of the state. At the same time, we had the furniture industry on the west side of the state. And we had outstanding design educational institutions such as a prestigious art academy and the state university Architecture Program. Those three things, together with all the money that was in the state as a result of the industry here, it was a center for design. It still is a center for design today. So one of our intents was to tell this historical story and at the same time tell the world that our state still exists here as a very, very strong, or with a very strong design industry."
+      }
+    ],
+    "speakername": "Brian Conway",
+    "ground_truth": "So the first question we have for you is like what is your role in the Regional Medical Centre?",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "A regional gathering out in the desert in a western resort city."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And it's being orchestrated by [target]. [target] is the State Historic Preservation Officer. We just have not been given the credit that the state deserves for its impact on the modernism movement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. This is exactly why we initiated the State Modern Project several years ago to tell the rest of the country and actually the world about our state's role in the development of modernism. And because of certain things that were happening in our state that just were not happening anywhere else in the country, our state did play a very important role in the development of modernism. Of course, we had the auto industry on the east side of the state. At the same time, we had the furniture industry on the west side of the state. And we had outstanding design educational institutions such as a renowned art academy and a major state university Architecture Program. Those three things, together with all the money that was in our state as a result of the industry here, it was a center for design. It still is a center for design today. So one of our intents was to tell this historical story and at the same time tell the world that our state still exists here as a very, very strong, or with a very strong design industry."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So the first question we have for you is like what is your role in the Regional Infectious Disease Centre?"
+      }
+    ],
+    "speakername": "Brian Conway",
+    "ground_truth": "Well, I'm an infectious disease specialist, and in particular, I'm a virologist. So I jumped from virus to virus. I came of age, let us say, with the HIV pandemic. And then when HCV treatments got a lot better, I kind of added HCV to the portfolio, and I thought that was going to be my last virus. And then next thing you know, COVID comes around. So being a specialist in virology, there was a natural fit. And given that we work in the inner city, our focus has been, as with HIV and hepatitis C, to try and make sure that the inner city vulnerable people are just not forgotten as part of the COVID pandemic. So we design and evaluate systems of care that are geared at the inner city, but we do a whole lot more than that. We're interested in the diagnosis and treatment of infectious diseases in general, viral diseases in particular, and of course, in the era of COVID, COVID.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm an infectious disease specialist, and in particular, I'm a virologist. So I jumped from virus to virus. I came of age, let us say, with the HIV pandemic. And then when HCV treatments got a lot better, I kind of added HCV to the portfolio, and I thought that was going to be my last virus. And then next thing you know, COVID comes around. So being a specialist in virology, there was a natural fit. And given that we work in the urban area, our focus has been, as with HIV and hepatitis C, to try and make sure that the vulnerable people are just not forgotten as part of the COVID pandemic. So we design and evaluate systems of care that are geared at the urban area, but we do a whole lot more than that. We're interested in the diagnosis and treatment of infectious diseases in general, viral diseases in particular, and of course, in the era of COVID, COVID."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So in the local news article, you mentioned that you haven't seen numbers to prove that there's been significant spread of COVID in gyms and fitness centers. Currently, the regional government has not really shared any information on this. Unlike other provinces, is the data and likely source of transmission information accessible to you as an infectious disease expert?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, it's not. I think these are not data that our health authorities choose to share. They would be helpful, I think, to reassure us all that the decisions to keep certain places open and other places being compelled to close down, that this was based on data. Of course, if we look at different types of places where people will congregate together for extended periods of time that tend to be indoors, where there may be additional risks, such as breathing hard, singing and the like, they may be targeted just on the basis of first principles, that that's how infections spread. But it would be useful to me, I think, to understand where some of the very stringent and effective protocols that gyms have put in place may have failed us and mandate a closing of all the gyms across the entire province for a period of time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Why do you think the region has not been transparent with the data?"
+      }
+    ],
+    "speakername": "Brian Conway",
+    "ground_truth": "Well, I think that every week an epidemiologic summary is published. I think that there's a feeling from the point of view of the public health authorities that this is sufficient information. And I think if we could make a case that additional information would be helpful, that that could possibly be considered. If I go back to last year, 100% of all restaurants were closed. And in the final analysis, it turns out that transmissions only occurred in somewhere between 1% and 2% of all restaurants across the province. It begs the question as to whether some measures could have been taken to keep those 98% open while protecting the population at the same time.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So in the regional news article, you mentioned that you haven't seen numbers to prove that there's been significant spread of COVID in gyms and fitness centers. Currently, the local government has not really shared any information on this. Unlike other provinces, is the data and likely source of transmission information accessible to you as an infectious disease expert?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, it's not. I think these are not data that our health authorities choose to share. They would be helpful, I think, to reassure us all that the decisions to keep certain places open and other places being compelled to close down, that this was based on data. Of course, if we look at different types of places where people will congregate together for extended periods of time that tend to be indoors, where there may be additional risks, such as breathing hard, singing and the like, they may be targeted just on the basis of first principles, that that's how infections spread. But it would be useful to me, I think, to understand where some of the very stringent and effective protocols that gyms have put in place may have failed us and mandate a closing of all the gyms across the entire province for a period of time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Why do you think the region has not been transparent with the data?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that every week an epidemiologic summary is published. I think that there's a feeling from the point of view of the public health authorities that this is sufficient information. And I think if we could make a case that additional information would be helpful, that that could possibly be considered. If I go back to last year, 100% of all restaurants were closed. And in the final analysis, it turns out that transmissions only occurred in somewhere between 1% and 2% of all restaurants across the province. It begs the question as to whether some measures could have been taken to keep those 98% open while protecting the population at the same time."
+      }
+    ],
+    "speakername": "Brian Conway",
+    "ground_truth": "So if only 1-2% of infections came from restaurants, where is the bulk of the transmission occurring?",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So if only 1-2% of infections came from restaurants, where is the bulk of the transmission occurring?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I should say 1% to 2% of restaurants were identified where infections had been transmitted."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right now, the bulk of infections are coming to us from private social events."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "that"
+      }
+    ],
+    "speakername": "Brian Conway",
+    "ground_truth": "are either too long indoors with not enough public health restrictions in place so people aren't wearing masks, ventilation is poor, that people are allowed in that weren't part of a particular bubble. So a friend, an acquaintance, someone from the outside joins the gathering and given the very high rate of transmission in the community, these individuals are at particular risk to be infected and to potentially transmit the infection in that setting. I think that's where we're seeing many of the cases.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

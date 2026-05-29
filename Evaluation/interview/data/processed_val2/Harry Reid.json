@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you very much."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you for having me here, it's good to see you. I haven't talked to you in a long time and we've watched and known that you've been facing some health challenges so I'm gonna begin with, how are you, how are you feeling?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm doing fine. You know, the cancer's in remission, and my mobility is not as good as I'd like it to be, but the chemo messed up my back a little bit, but I feel good, and I'm strong, and just don't move around like I used to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You keep them very active, I mean here we are at [corporate venue] and you've got a role here and you're at [university] and you really haven't slowed down."
+      }
+    ],
+    "speakername": "Harry Reid",
+    "ground_truth": "Well, I slowed down a little bit, but I'm enjoying life. [spouse] and I are happy. We love the weather here in southern [state], which we were away from a lot of the time for 37 years. So it's great to be back.",
+    "bio": "The speaker is a retired attorney and politician who served as a United States Senator from [state] from 1987 to 2017. They led the Senate's Democratic Conference from 2005 to 2017 and was the Senate Majority Leader from 2007 to 2015. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I slowed down a little bit, but I'm enjoying life. Landry and I are happy. We love the weather here in [region], which we were away from a lot of the time for 37 years. So it's great to be back."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're good."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Just your reaction to something. News came out yesterday. [Person] has non-Hodgkin's lymphoma cancer. Any reaction to that? I mean, I know that you've had contact with him occasionally over your time. He's facing some stuff. Any thoughts on what that is?"
+      }
+    ],
+    "speakername": "Harry Reid",
+    "ground_truth": "Well, of course, I know what it is to be sick and the only thing I can say is I wish him well. He's got the best care in the world. He's surrounded by a family that cares a lot about him. He's got [Person] running the operation, who's one of the finest executives we've ever had in [region], and I just wish him well.",
+    "bio": "A retired American attorney and politician who served as a United States Senator from [region] from 1987 to 2017. He led the Senate's Democratic Conference from 2005 to 2017 and was the Senate Majority Leader from 2007 to 2015. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We're good."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Just your reaction to something. News came out yesterday. [Person] has non-Hodgkin's lymphoma cancer. Any reaction to that? I mean, I know that you've had contact with him occasionally over your time. He's facing some stuff. Any thoughts on what that is?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, of course, I know what it is to be sick and the only thing I can say is I wish him well. He's got the best care in the world. He's surrounded by a family that cares a lot about him. He's got [Person] running the operation, who's one of the finest executives we've ever had in [State], and I just wish him well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, let's talk about, if I can, I'm going to talk to you about 2020, just how Democrats are shaping up. First, I just want to get to President [Person]. Obviously, you have, you've been a vocal critic of him for a very, very long time. Has he done anything that has surprised you?"
+      }
+    ],
+    "speakername": "Harry Reid",
+    "ground_truth": "I am not going to say any more about [Person]. I think that I've said enough and as my mom used to say, enough's enough.",
+    "bio": "A retired attorney and politician who served as a United States Senator from [State] from 1987 to 2017. They led the Senate's Democratic Conference from 2005 to 2017 and was the Senate Majority Leader from 2007 to 2015. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, of course, I know what it is to be sick and the only thing I can say is I wish him well. He's got the best care in the world. He's surrounded by a family that cares a lot about him. He's got Rob Goldstein running the operation, who's one of the finest executives we've ever had in this state, and I just wish him well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, let's talk about, if I can, I'm going to talk to you about 2020, just how Democrats are shaping up. First, I just want to get to President Trump. Obviously, you have, you've been a vocal critic of him for a very, very long time. Has he done anything that has surprised you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I am not going to say any more about Donald Trump. I think that I've said enough and as my mom used to say, enough's enough."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Can I ask you about this? There was the Cohen testimony this week. Did you catch any of it? And if you did, what did you think?"
+      }
+    ],
+    "speakername": "Harry Reid",
+    "ground_truth": "I caught a lot of it. My little wife watched every minute of it. So I got reports whenever there was a break, when there weren't that many. So I, of course, I've read the press reports afterwards andâexcuse me, I'm so sorryâI've read the press reports and I just feel the whole situation is not good for the country. I'm really terribly disappointed that we're at this point where you did this, he did this, now this. But he's doing what he feels is right, and that's what we need to do in the world.",
+    "bio": "A retired American attorney and politician who served as a United States Senator from a western state from 1987 to 2017. He led the Senate's Democratic Conference from 2005 to 2017 and was the Senate Majority Leader from 2007 to 2015. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am not going to say any more about [Person]. I think that I've said enough and as my mom used to say, enough's enough."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Can I ask you about this? There was the [Person] testimony this week. Did you catch any of it? And if you did, what did you think?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I caught a lot of it. My wife watched every minute of it. So I got reports whenever there was a break, when there weren't that many. So I, of course, I've read the press reports afterwards andâexcuse me, I'm so sorryâI've read the press reports and I just feel the whole situation is not good for the country. I'm really terribly disappointed that we're at this point where you did this, he did this, now this. But he's doing what he feels is right, and that's what we need to do in the world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How would you counsel members of the party? The reason [Person] was testifying was you had party members controlling that committee now, and there is some thinking that what he said could frankly light a fire into the whole impeachment movement. So how would you counsel them, Senator? Well,"
+      }
+    ],
+    "speakername": "Harry Reid",
+    "ground_truth": "I have heard lately how great [Person] has done, but I have been a [Person] fan for a long, long time. She was the speaker, I was the leader, I learned of her greatness a long time ago. And the legislative body has never been in better hands than with [Person].",
+    "bio": "The target is a retired attorney and politician who served as a Senator from [State] from 1987 to 2017. They led their party's Conference from 2005 to 2017 and was the Senate Majority Leader from 2007 to 2015. The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

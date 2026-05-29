@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and all the stuff behind the scenes that people don't really see yeah they have no idea help us understand what is first of all what has it taken to get the company where it's at today so far i mean all the i guess what i'm trying to understand is for all of us is how big is this company operation man"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, actually, we go across, let's see, 14 states that we actually have operations in, uh, yeah. So our company and-"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "14th"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we were actually in 14 states, you know, our headquarters, of course, in [state]."
+      }
+    ],
+    "speakername": "Ed Currie",
+    "ground_truth": "But we're in states up and down the coastal region. We've got different operations going between farms or processing or there's some laboratories we're working in. We're involved with 22 different universities and laboratories, medical research laboratories. Yeah, we've got a lot of stuff going on.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "14th"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we were actually in 14 states, you know, our headquarters, of course, in [location]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But we're in states up and down the East Coast. We've got different operations going between farms or processing or there's some laboratories we're working in. We're involved with 22 different universities and laboratories, medical research laboratories. Yeah, we've got a lot of stuff going on."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You're considered the mad scientist of the pepper world, and one thing that you and only you do is, I mean, you have accessibility to all these laboratories to make sure that the testings of peppers, how did that ever come about? It's always who you know. How in the world did a grower get that accessibility to ..."
+      }
+    ],
+    "speakername": "Ed Currie",
+    "ground_truth": "You know, it's all a God thing, the whole thing is a God thing, God has put the whole thing together. Literally, when I was in the lab, prior to this path of life, I was doing other things in the lab that we really shouldn't be doing, you know, the 70s were really a lot of fun.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But we're in states up and down the coast. We've got different operations going between farms or processing or there's some laboratories we're working in. We're involved with 22 different universities and laboratories, medical research laboratories. Yeah, we've got a lot of stuff going on."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You're considered the mad scientist of the pepper world, and one thing that you and only you do is, I mean, you have accessibility to all these laboratories to make sure that the testings of peppers, how did that ever come about? It's always who you know. How in the world did a grower get that accessibility to ..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it's all a God thing, the whole thing is a God thing, God has put the whole thing together. Literally, when I was in the lab, prior to this path of life, I was doing other things in the lab that we really shouldn't be doing, you know, the 70s were really a lot of fun."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and other things in the lab that we really shouldn't be doing, you know. You know, the 70s were really a lot of fun, the 80s. 60s were great."
+      }
+    ],
+    "speakername": "Ed Currie",
+    "ground_truth": "Yeah, well, yeah, I'm [target]. You're not that old. But you know, I am. I'm a lot older than people think. But you know, I make phone calls. I actually go and talk to people. You know, you've got what you pay for out there in the world. And there's a lot of places you can pop down 25 or 50 bucks and you're going to get whatever you ask for. But I went out and talked to the universities, told them what I was interested in, why I was interested in, and showed them the research that I had.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, it's all a God thing, the whole thing is a God thing, God has put the whole thing together. Literally, when I was in the lab, prior to this path of life, I was doing other things in the lab that we really shouldn't be doing, you know, the 70s were really a lot of fun."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and other things in the lab that we really shouldn't be doing, you know. You know, the 70s were really a lot of fun, the 80s. 60s were great."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, well, yeah, I'm Brad. You're not that old. But you know, I am. I'm a lot older than people think. But you know, I make phone calls. I actually go and talk to people. You know, you've got what you pay for out there in the world. And there's a lot of places you can pop down 25 or 50 bucks and you're going to get whatever you ask for. But I went out and talked to the universities, told them what I was interested in, why I was interested in, and showed them the research that I had."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Ed Currie",
+    "ground_truth": "And, you know, out there they'll do a lot of work. Most of the places that we do work with, we actually give like a stipend to the different departments and then that way they can help out the kids that are doing the work, you know. It gives people real world experience of what they're doing, get interested in something that they normally wouldn't be interested in.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And, you know, out there they'll do a lot of work. Most of the places that we do work with, we actually give like a stipend to the different departments and then that way they can help out the kids that are doing the work, you know. It gives people real world experience of what they're doing, get interested in something that they normally wouldn't be interested in."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and it helps the whole community grow yeah being a big is right"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Um, you know, ever since this, this whole blow up of the hot pepper and you were all over the news and you were everywhere. I mean, you were just on the circuit of just circuit, just going, going, going. What has this created for the demand?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "of the pepper"
+      }
+    ],
+    "speakername": "Ed Currie",
+    "ground_truth": "a raver. Demand is outrageous. It is just crazy. I've shown you the emails. You guys saw me doing them again this morning. What are we up to? Here. Since this morning. What's that number?",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think Ronald Reagan would recognize the Republican Party today, and he sure as hell couldn't get elected. As a matter of fact, Reagan would be the most left-wing candidate in the GOP these days by a mile. I was living in Crazy Town now, and when I took the Speaker's gavel in 2011, two years into the Obama presidency, I became its mayor. Crazy Town was populated by jackasses and media hounds and some normal citizens as baffled as I was about how we got trapped inside the city walls. Under the new rules of Crazy Town, I may have been Speaker, but I didn't hold all the power. By 2013, the chaos caucus in the House had built up their own power base thanks to fawning right-wing media and outrage-driven fundraising. And now they had a new lunatic leading the way who wasn't even a House member. There is nothing more dangerous than a reckless asshole who thinks he's smarter than everyone else. Ladies and gentlemen, meet Ted Cruz. Trump incited the bloody insurrection for nothing more than selfish reasons, perpetuated by the bulls**t they've been shoveling since he lost a fair election the previous November. The legislative terrorism that I'd witnessed as Speaker had now encouraged actual terrorism. And it pissed me off."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "FORMER SPEAKER AT BANNER JOINS US NOW. GOOD MORNING TO YOU, MR. SPEAKER. IT'S GOOD TO SEE YOU WITH THE BLUE EYES. YOU TELL A GREAT STORY IN THE BOOK. YOU TELL A GREAT STORY IN THE BOOK ABOUT COLONEL QADDAFI GIVING YOU SUNGLASSES IN THE DESERT BECAUSE HE SAID THE DESERT IS NOT KIND TO BLUE EYES. BUT WE REALLY WANTED TO SEE YOUR EYES THIS MORNING BECAUSE SOME OF YOUR STUFF IS JAW-DROPPING, SO LET'S GET TO IT. WE SHOULD ACKNOWLEDGE THAT YOU TAKE AIM AT REPUBLICANS, YOU TAKE AIM AT DEMOCRATS, YOU ALSO TAKE AIM AT YOURSELF WITH THIS. A LOT HAS CHANGED IN WASHINGTON, YOU SAY, IN THE WORLD, BUT YOU HAVE NOT. YOU WERE STILL THE SAME JACKASS THAT YOU WERE 25 YEARS AGO. THAT'S HOW YOU START. NOW YOU SEEM TO BE CALLING OUT A LOT OF FELLOW BEEBS, AND SO I'M WONDERING WHAT YOU'RE HOPING TO ACCOMPLISH WITH YOUR BOOK. LET'S START WITH THAT."
+      },
+      {
+        "speaker": "[target]",
+        "text": "LISTEN, I WASN'T TRYING TO ACCOMPLISH ANYTHING OTHER THAN TO TELL MY STORY. I'VE HAD A PRETTY INTERESTING LIFE, A VERY INTERESTING CAREER, AND I THOUGHT IT WOULD BE A GOOD READ FOR THE AMERICAN PEOPLE, AND SO I DECIDED I'D WRITE A BOOK. IT WAS A GREAT EXERCISE, A GREAT PROJECT, AND I'M GLAD PEOPLE ARE FINDING IT INTERESTING."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh, it's more than interesting. I want to talk about you and Ted Cruz in particular because you take really big shots at him. You guys won't be having a glass of wine anytime soon. What bugs you about him specifically? And it's more than just him."
+      }
+    ],
+    "speakername": "John Boehner",
+    "ground_truth": "Well, this guy wasn't even a member of the United States House of Representatives. He was a member of the Senate, stirring up some of the crazies in my own caucus to cause all kinds of problems. And that's probably why I zeroed in on him, probably the only person in this book, in the way that I did. As I say in the book, there's nothing worse than a reckless jackass who thinks he's smarter than everybody else.",
+    "bio": "John Andrew Boehner (born November 17, 1949) is an American politician who served as the 53rd Speaker of the United States House of Representatives from 2011 to 2015.[3] A member of the Republican Party, he was the U.S. Representative for Ohio's 8th congressional district from 1991 to 2015. The district included several rural and suburban areas near Cincinnati and Dayton.\\n\\nBoehner previously served as the House Minority Leader from 2007 until 2011, and House Majority Leader from 2006 until 2007. Boehner resigned from the House of Representatives on October 2015 due to opposition from within the Republican caucus. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, this guy wasn't even a member of the national legislature. He was a member of the Senate, stirring up some of the crazies in my own caucus to cause all kinds of problems. And that's probably why I zeroed in on him, probably the only person in this book, in the way that I did. As I say in the book, there's nothing worse than a reckless jackass who thinks he's smarter than everybody else."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, he said he's one of these guys who knows all of the answers, and we all know somebody like that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well we sure do."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You say in the book, Mr. Speaker, that in today's GOP there are Trump Republicans and traditional Republicans, but the Trump Republicans are clearly in control of the party right now. And I'm wondering if you still feel at home in the Republican Party."
+      }
+    ],
+    "speakername": "John Boehner",
+    "ground_truth": "LISTEN I'M A REPUBLICAN, I'M THROUGH AND THROUGH, I BELIEVE IN SPENDING WITHIN YOUR MEANS, I BELIEVE IN A STRONG NATIONAL DEFENSE, I'M A REPUBLICAN, BUT WE'VE GOT SOME PEOPLE IN THE PARTY WHO BELIEVE MORE IN MAKING NOISE THAN THEY DO IN MAKING POLICY, I WENT TO THE CAPITAL TO SERVE IN THE CONGRESS NOT BECAUSE I WANTED TO MAKE NOISE BUT BECAUSE I WANTED TO DO SOMETHING ON BEHALF OF OUR COUNTRY, AND I THINK IF REPUBLICANS BEGIN TO FOCUS MORE IN ON THE POLICIES THAT WE ALL BELIEVE IN, WE CAN UNITE THE PARTY IN A PLACE THAT AMERICANS WILL RECOGNIZE ONCE AGAIN.",
+    "bio": "[target] (born November 17, 1949) is an American politician who served as the 53rd Speaker of the national legislature from 2011 to 2015. A member of the Republican Party, he was the Representative for a midwest state's 8th congressional district from 1991 to 2015. The district included several rural and suburban areas near two major midwest cities.\n\n[target] previously served as the House Minority Leader from 2007 until 2011, and House Majority Leader from 2006 until 2007. [target] resigned from the House of Representatives on October 2015 due to opposition from within the Republican caucus. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well we sure do."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You say in the book, Mr. Speaker, that in today's GOP there are Trump Republicans and traditional Republicans, but the Trump Republicans are clearly in control of the party right now. And I'm wondering if you still feel at home in the Republican Party."
+      },
+      {
+        "speaker": "[target]",
+        "text": "LISTEN I'M A REPUBLICAN, I'M THROUGH AND THROUGH, I BELIEVE IN SPENDING WITHIN YOUR MEANS, I BELIEVE IN A STRONG NATIONAL DEFENSE, I'M A REPUBLICAN, BUT WE'VE GOT SOME PEOPLE IN THE PARTY WHO BELIEVE MORE IN MAKING NOISE THAN THEY DO IN MAKING POLICY, I WENT TO THE CAPITAL TO SERVE IN THE CONGRESS NOT BECAUSE I WANTED TO MAKE NOISE BUT BECAUSE I WANTED TO DO SOMETHING ON BEHALF OF OUR COUNTRY, AND I THINK IF REPUBLICANS BEGIN TO FOCUS MORE IN ON THE POLICIES THAT WE ALL BELIEVE IN, WE CAN UNITE THE PARTY IN A PLACE THAT AMERICANS WILL RECOGNIZE ONCE AGAIN."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, Mr. Speaker, let me pick up on that point in particular, because in the book, you do a very clear job of explaining how technology changed and that allowed politicians to go straight to the public. But you don't really take on the subject of why that outrage and that fight for fight's sake resonated with so many people. I mean, one theory of it is that for half the country, America is just changing too quickly for them to tolerate it. Is that how you see it?"
+      }
+    ],
+    "speakername": "John Boehner",
+    "ground_truth": "Well, I don't get into why the crazies are the crazies, but I do run into them while I was in Congress and clearly since then. And some people have got a rather sour view of our country. Listen, we're a great country. We're a large, diverse country. And we ought to embrace that. It's been great for our country over the last 240 years, and it'll be great for the next 240 years if we embrace the fact that we're large, we're complex, we're very diverse. Let's put our arms around it and believe in it.",
+    "bio": "The target (born November 17, 1949) is an American politician who served as the 53rd Speaker of the national legislature from 2011 to 2015. A member of the Republican Party, he was the Representative for a midwest state's 8th district from 1991 to 2015. The district included several rural and suburban areas near two major midwest cities.\n\nThe target previously served as the House Minority Leader from 2007 until 2011, and House Majority Leader from 2006 until 2007. He resigned from the House of Representatives on October 2015 due to opposition from within the Republican caucus. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't get into why the crazies are the crazies, but I do run into them while I was in Congress and clearly since then. And some people have got a rather sour view of the country. Listen, we're a great country. We're a large, diverse country. And we ought to embrace that. It's been great for our country over the last 240 years, and it'll be great for the next 240 years if we embrace the fact that we're large, we're complex, we're very diverse. Let's put our arms around it and believe in it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, you know, you talk a lot about the lack of diversity in the party. You hit on that. But you talk about the lack of disrespect. In particular, you say about Nancy Pelosi. I don't agree with much of what she says, but I do respect her. And that seems to be what's missing today. There doesn't seem to be respect and there doesn't seem to be tolerance on either side. You say there's a difference between common ground and compromise. So how do we get things back on track? Because it is so often the ditch on both sides of the aisle, really, when you look at it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Gail, growing up on my dad's bar, I learned the..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Republicans seem to have a special, a special ledge on this particular topic, though. Go ahead."
+      }
+    ],
+    "speakername": "John Boehner",
+    "ground_truth": "WELL, GROWING UP ON MY DAD'S BAR, I LEARNED THE ART OF BEING ABLE TO DISAGREE WITHOUT BEING DISAGREEABLE. AND THE PEOPLE IN POLITICS THAT I SERVED WITH, A LOT OF THEM I DISAGREED WITH, BUT THAT DIDN'T MEAN I HAD TO BE DISAGREEABLE. I'VE GOT AS MANY DEMOCRAT FRIENDS AS I'VE GOT REPUBLICAN FRIENDS. YOU CAN DO THIS JOB AND RESPECT THE PEOPLE ON THE OTHER SIDE WHO HAPPEN TO HAVE DIFFERENT VIEWS. THIS IS NOT ROCKET SCIENCE. AND WHEN IT COMES TO GOVERNING, IT'S ABOUT FINDING COMMON GROUND. WE'RE NOT ALWAYS GOING TO AGREE ON EVERYTHING, BUT THE QUESTION IS, WHERE CAN WE AGREE? WHERE CAN WE COME TOGETHER AND TO DO WHAT NEEDS TO BE DONE TO HELP THE AMERICAN PEOPLE IN THEIR QUEST FOR THE AMERICAN DREAM AND A BETTER SOCIETY?",
+    "bio": "The target (born November 17, 1949) is an American politician who served as the 53rd Speaker of the [National Legislature] from 2011 to 2015. A member of the Republican Party, he was the Representative for [State]'s 8th district from 1991 to 2015. The district included several rural and suburban areas near [City A] and [City B].\n\nThe target previously served as the House Minority Leader from 2007 until 2011, and House Majority Leader from 2006 until 2007. The target resigned from the [National Legislature] in October 2015 due to opposition from within the Republican caucus. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Gail, growing up on my dad's establishment, I learned the..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Republicans seem to have a special, a special ledge on this particular topic, though. Go ahead."
+      },
+      {
+        "speaker": "[target]",
+        "text": "WELL, GROWING UP ON MY DAD'S ESTABLISHMENT, I LEARNED THE ART OF BEING ABLE TO DISAGREE WITHOUT BEING DISAGREEABLE. AND THE PEOPLE IN POLITICS THAT I SERVED WITH, A LOT OF THEM I DISAGREED WITH, BUT THAT DIDN'T MEAN I HAD TO BE DISAGREEABLE. I'VE GOT AS MANY DEMOCRAT FRIENDS AS I'VE GOT REPUBLICAN FRIENDS. YOU CAN DO THIS JOB AND RESPECT THE PEOPLE ON THE OTHER SIDE WHO HAPPEN TO HAVE DIFFERENT VIEWS. THIS IS NOT ROCKET SCIENCE. AND WHEN IT COMES TO GOVERNING, IT'S ABOUT FINDING COMMON GROUND. WE'RE NOT ALWAYS GOING TO AGREE ON EVERYTHING, BUT THE QUESTION IS, WHERE CAN WE AGREE? WHERE CAN WE COME TOGETHER AND TO DO WHAT NEEDS TO BE DONE TO HELP THE AMERICAN PEOPLE IN THEIR QUEST FOR THE AMERICAN DREAM AND A BETTER SOCIETY?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "side"
+      }
+    ],
+    "speakername": "John Boehner",
+    "ground_truth": "or was it decided for you? No, I, in working with my members, decided to do this in a unified way. George, I have 233 Republicans in the legislative body, and you've never seen a more dedicated group of people who are thoroughly concerned about the future of our country. They believe that the healthcare law, all these regulations coming out of the administration, are threatening the future for our kids and our grandkids, and it's time for us to stand and fight.",
+    "bio": "The [target] (born November 17, 1949) is an American politician who served as the 53rd Speaker of the legislative body from 2011 to 2015. A member of the Republican Party, he was the Representative for a midwestern state's 8th congressional district from 1991 to 2015. The district included several rural and suburban areas near two major metropolitan cities.\n\nThe [target] previously served as the House Minority Leader from 2007 until 2011, and House Majority Leader from 2006 until 2007. The [target] resigned from the legislative body in October 2015 due to opposition from within the Republican caucus. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

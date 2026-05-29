@@ -60,6 +60,8 @@ class BaseEvaluator:
         wandb_project="dprf",
         wandb_run_name="evaluation_run",
         wandb_notes="",
+        few_shot_examples_file=None,
+        example_select="random",
     ):
         self.output_dir = output_dir
         ensure_directory(output_dir)
@@ -73,6 +75,8 @@ class BaseEvaluator:
         torch.manual_seed(seed)
         if torch.cuda.is_available():
             torch.cuda.manual_seed_all(seed)
+        self.seed = seed
+        self.example_select = example_select
         self.initial_persona_file = initial_persona_file
         self.task_model_name = task_model_name
         self.task_model_type = task_model_type
@@ -112,14 +116,45 @@ class BaseEvaluator:
             except Exception as e:
                 print(f"Warning: Failed to load refinement prompt template: {e}")
 
+        self.few_shot_examples_text = ""
+        self.few_shot_task = None
+        if few_shot_examples_file:
+            from few_shot import format_few_shot_block
+
+            few_shot_path = few_shot_examples_file
+            if not os.path.isabs(few_shot_path):
+                project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+                candidate = os.path.join(project_root, few_shot_path)
+                if os.path.exists(candidate):
+                    few_shot_path = candidate
+            if not os.path.exists(few_shot_path):
+                raise FileNotFoundError(f"few_shot_examples_file not found: {few_shot_examples_file}")
+            with open(few_shot_path, "r", encoding="utf-8") as f:
+                few_shot_payload = json.load(f)
+            if isinstance(few_shot_payload, dict):
+                self.few_shot_task = few_shot_payload.get("task")
+                records = few_shot_payload.get("examples", [])
+            else:
+                records = few_shot_payload
+            task_name = self.few_shot_task or "generic"
+            self.few_shot_examples_text = format_few_shot_block(records, task_name)
+            print(
+                f"Loaded {len(records)} few-shot examples from {few_shot_path} "
+                f"(task={task_name})"
+            )
+
         self.instruction_template_str = final_instruction_template_str
         self.active_instruction_formatter = None
         if self.instruction_template_str:
+            few_shot_text = self.few_shot_examples_text
+
             def custom_formatter(content, persona=None):
                 return self.instruction_template_str.format(
                     content=content,
-                    persona=persona if persona else "A helpful assistant." # Default placeholder
+                    persona=persona if persona else "A helpful assistant.",
+                    few_shot_examples=few_shot_text,
                 )
+
             self.active_instruction_formatter = custom_formatter
         else:
             # Default basic formatter if no template string is given
@@ -302,7 +337,7 @@ class BaseEvaluator:
         return metrics
 
     async def run_iterations_with_per_iter_eval(
-        self, initial_persona, content, ground_truth
+        self, initial_persona, content, optimization_ground_truth, evaluation_ground_truth=None
     ):
         """
         Execute DPRF iterations and evaluate after each iteration.
@@ -310,12 +345,15 @@ class BaseEvaluator:
         """
         per_iteration_eval_results = []
 
+        if evaluation_ground_truth is None:
+            evaluation_ground_truth = optimization_ground_truth
+
         # Let agent handle everything - initial + refinement iterations
         if self.max_iterations > 0:
             refined_results_package = await self.agent.run_iterations(
                 initial_persona=initial_persona,
                 content=content,
-                ground_truth=ground_truth,
+                ground_truth=optimization_ground_truth,
                 persona_formatter=self.active_instruction_formatter,
                 analysis_formatter=self.active_analysis_formatter,
                 refinement_formatter=self.active_refinement_formatter
@@ -331,7 +369,7 @@ class BaseEvaluator:
                 generated_response_in_iter = iter_detail.get("generated_response", "")
                 
                 # Evaluate the response generated within this iteration
-                current_metrics = self.evaluate_similarity(generated_response_in_iter, ground_truth)
+                current_metrics = self.evaluate_similarity(generated_response_in_iter, evaluation_ground_truth)
 
                 per_iteration_eval_results.append({
                     "iteration": iteration_num,
@@ -346,7 +384,7 @@ class BaseEvaluator:
                 content=content,
                 custom_formatter=self.active_instruction_formatter
             )
-            initial_metrics = self.evaluate_similarity(initial_response, ground_truth)
+            initial_metrics = self.evaluate_similarity(initial_response, evaluation_ground_truth)
             
             per_iteration_eval_results.append({
                 "iteration": 1,  # Start from 1, not 0
@@ -372,6 +410,8 @@ class BaseEvaluator:
         content = task_data["content"]
         initial_persona = task_data["initial_persona"]
         ground_truth = task_data["ground_truth"]
+        optimization_ground_truth = task_data.get("optimization_ground_truth", ground_truth)
+        evaluation_ground_truth = task_data.get("evaluation_ground_truth", ground_truth)
         bio_text = task_data.get("bio_text")
         
         if initial_persona:
@@ -385,7 +425,8 @@ class BaseEvaluator:
         iteration_package = await self.run_iterations_with_per_iter_eval(
             initial_persona=initial_persona,
             content=content,
-            ground_truth=ground_truth
+            optimization_ground_truth=optimization_ground_truth,
+            evaluation_ground_truth=evaluation_ground_truth
         )
 
         results_summary = {}
@@ -430,7 +471,7 @@ class BaseEvaluator:
                 content=content,
                 custom_formatter=self.active_instruction_formatter
             )
-            bio_metrics = self.evaluate_similarity(bio_response, ground_truth)
+            bio_metrics = self.evaluate_similarity(bio_response, evaluation_ground_truth)
             
             results_summary["bio"] = {
                 "persona": bio_persona,
@@ -441,7 +482,8 @@ class BaseEvaluator:
         results_summary["task_info"] = task_data["task_specific_info"].copy()
         # Store content and ground_truth separately (not in task_info to keep CSV clean)
         results_summary["content"] = content
-        results_summary["ground_truth"] = ground_truth
+        results_summary["ground_truth"] = evaluation_ground_truth
+        results_summary["optimization_ground_truth"] = optimization_ground_truth
         results_summary["per_iteration_evaluations"] = iteration_package["per_iteration_eval_results"]
         results_summary["dprf_iteration_details"] = iteration_package["iterations_details_from_agent"]
         
@@ -457,7 +499,11 @@ class BaseEvaluator:
         # Use context manager to ensure DPRFAgent resources are cleaned up
         with DPRFAgent(**self.agent_params) as agent:
             self.agent = agent
-            
+            if hasattr(self.agent, "token_usage"):
+                self.agent.token_usage.set_request_log(
+                    os.path.join(self.output_dir, "token_usage_calls.jsonl")
+                )
+
             examples_to_process = await self.load_examples()
             
             processed_results_list = []
@@ -503,25 +549,103 @@ class BaseEvaluator:
                 iteration_stats = pd.DataFrame() # Empty DF if no iteration data
 
             self.calculate_and_log_aggregate_metrics(summary_results_df)
+            self._save_token_usage_report()
                 
             return summary_results_df, iteration_stats
+
+    def _save_token_usage_report(self):
+        tracker = getattr(self.agent, "token_usage", None)
+        if tracker is None:
+            return
+
+        summary_path = os.path.join(self.output_dir, "token_usage.json")
+        tracker.save(summary_path)
+        usage = tracker.to_dict()
+
+        aggregate_path = os.path.join(self.output_dir, "aggregate_metrics.json")
+        if os.path.exists(aggregate_path):
+            try:
+                with open(aggregate_path, "r", encoding="utf-8") as f:
+                    aggregate = json.load(f)
+                aggregate["token_usage"] = usage
+                with open(aggregate_path, "w", encoding="utf-8") as f:
+                    json.dump(aggregate, f, indent=2)
+            except Exception as e:
+                print(f"Warning: Could not merge token usage into aggregate_metrics.json: {e}")
+
+        print("\n=== Token usage (for billing) ===")
+        print(f"  API requests:      {usage['total_requests']:,}")
+        print(f"  Input tokens:      {usage['total_input_tokens']:,}")
+        print(f"  Output tokens:     {usage['total_output_tokens']:,}")
+        print(f"  Total tokens:      {usage['total_tokens']:,}")
+        if usage.get("by_source"):
+            print("  By source:")
+            for source, counts in sorted(usage["by_source"].items()):
+                print(
+                    f"    {source}: in={counts['input_tokens']:,} "
+                    f"out={counts['output_tokens']:,} "
+                    f"req={counts['requests']:,}"
+                )
+        print(f"  Saved: {summary_path}")
+        calls_log = os.path.join(self.output_dir, "token_usage_calls.jsonl")
+        if os.path.exists(calls_log):
+            print(f"  Per-call log: {calls_log}")
     
+    def _log_example_failure(self, i: int, example_obj, error: Exception) -> None:
+        task_info = example_obj if isinstance(example_obj, dict) else {}
+        speaker_id = task_info.get("speaker_id", "unknown")
+        print(
+            f"Skipped example idx={i}, speaker_id={speaker_id}: "
+            f"{type(error).__name__}: {error}"
+        )
+        traceback.print_exception(type(error), error, error.__traceback__)
+
     async def _evaluate_standard(self, examples_to_process, processed_results_list, all_per_iteration_data_frames):
         """Standard evaluation approach - each example processed independently"""
-        evaluation_tasks = []
-        for i, example_obj in enumerate(examples_to_process):
-            # Set current example index for ID generation
-            self._current_example_index = i
-            task_data_for_eval = await self.create_task(example_obj) # Implemented by subclass
-            evaluation_tasks.append(
-                self.evaluate_example(
-                    task_data_for_eval
-                )
+        async def evaluate_one(i: int, example_obj):
+            try:
+                self._current_example_index = i
+                task_data_for_eval = await self.create_task(example_obj)
+                result = await self.evaluate_example(task_data_for_eval)
+                return i, result
+            except Exception as e:
+                return i, e
+
+        print(f"Evaluating {len(examples_to_process)} examples concurrently...")
+        tasks = [
+            asyncio.create_task(evaluate_one(i, example_obj))
+            for i, example_obj in enumerate(examples_to_process)
+        ]
+
+        failed_count = 0
+        saved_count = 0
+        for finished in asyncio.as_completed(tasks):
+            i, single_example_result_data = await finished
+            if isinstance(single_example_result_data, Exception):
+                failed_count += 1
+                self._log_example_failure(i, examples_to_process[i], single_example_result_data)
+                continue
+
+            saved_count += 1
+            example_id_for_file = single_example_result_data.get("task_info", {}).get(
+                getattr(self, "example_id_key_for_filename", "example_idx"), f"example_idx_{i}"
             )
-        
-        # Execute all evaluation tasks concurrently
-        raw_results_from_gather = await tqdm.gather(*evaluation_tasks, desc="Evaluating examples")
-        await self._process_evaluation_results(raw_results_from_gather, examples_to_process, processed_results_list, all_per_iteration_data_frames)
+            await self._process_single_evaluation_result(
+                i,
+                single_example_result_data,
+                processed_results_list,
+                all_per_iteration_data_frames,
+            )
+            print(
+                f"Saved detail ({saved_count}/{len(examples_to_process)}): "
+                f"example_{example_id_for_file}.json"
+            )
+
+        if failed_count:
+            print(
+                f"Warning: {failed_count}/{len(examples_to_process)} examples failed and were skipped. "
+                "Check logs for speaker_id (often Azure content_filter on debate text)."
+            )
 
     async def _evaluate_interview_with_agent(self, examples_to_process, processed_results_list, all_per_iteration_data_frames):
         """Simplified interview evaluation using agent's interview mode"""
@@ -574,25 +698,55 @@ class BaseEvaluator:
         if not speaker_examples:
             return {"speaker_name": speaker_name, "example_results": []}
         
-        # Prepare data for agent's interview mode
         first_example = speaker_examples[0]
         initial_persona = first_example[0]["initial_persona"]
-        
-        content_list = []
-        ground_truth_list = []
-        task_data_list = []
-        
-        for task_data, example_index in speaker_examples:
-            content_list.append(task_data['content'])
-            ground_truth_list.append(task_data['ground_truth'])
-            task_data_list.append((task_data, example_index))
-        
-        # Use agent's interview mode to handle everything
+
+        has_val_split = any(ex[0].get("split") == "val" for ex in speaker_examples)
+        if has_val_split:
+            optimization_examples = [
+                ex for ex in speaker_examples if ex[0].get("split", "train") == "train"
+            ]
+            evaluation_examples = [
+                ex for ex in speaker_examples if ex[0].get("split") == "val"
+            ]
+            print(
+                f"  Train/val split: {len(optimization_examples)} train, "
+                f"{len(evaluation_examples)} val"
+            )
+        else:
+            optimization_examples = speaker_examples
+            evaluation_examples = speaker_examples
+
+        opt_content_list = [task_data["content"] for task_data, _ in optimization_examples]
+        opt_ground_truth_list = [
+            task_data.get("optimization_ground_truth", task_data["ground_truth"])
+            for task_data, _ in optimization_examples
+        ]
+
+        eval_content_list = [task_data["content"] for task_data, _ in evaluation_examples]
+        eval_ground_truth_list = [
+            task_data.get("evaluation_ground_truth", task_data["ground_truth"])
+            for task_data, _ in evaluation_examples
+        ]
+
+        async def generate_responses_for_content(persona, contents):
+            if not contents:
+                return []
+            response_tasks = [
+                self.agent.generate_response(
+                    persona=persona,
+                    content=content,
+                    custom_formatter=self.active_instruction_formatter,
+                )
+                for content in contents
+            ]
+            return await asyncio.gather(*response_tasks)
+
         if self.max_iterations > 0:
             refined_results_package = await self.agent.run_iterations(
                 initial_persona=initial_persona,
-                content=content_list,
-                ground_truth=ground_truth_list,
+                content=opt_content_list,
+                ground_truth=opt_ground_truth_list,
                 persona_formatter=self.active_instruction_formatter,
                 analysis_formatter=self.active_analysis_formatter,
                 refinement_formatter=self.active_refinement_formatter,
@@ -601,66 +755,53 @@ class BaseEvaluator:
             
             final_persona = refined_results_package.get("final_persona", initial_persona)
             iteration_details = refined_results_package.get("iterations", [])
-            final_responses = refined_results_package.get("final_responses", [])
+            opt_final_responses = refined_results_package.get("final_responses", [])
             
-            # Fallback if response count doesn't match
-            if len(final_responses) != len(content_list):
-                print(f"WARNING: Response count mismatch! Expected {len(content_list)}, got {len(final_responses)}")
-                final_responses = []
-                for content in content_list:
-                    fallback_response = await self.agent.generate_response(
-                        persona=final_persona,
-                        content=content,
-                        custom_formatter=self.active_instruction_formatter
-                    )
-                    final_responses.append(fallback_response)
-        else:
-            # No iterations, just generate responses
-            response_tasks = []
-            for content in content_list:
-                response_tasks.append(
-                    self.agent.generate_response(
-                        persona=initial_persona,
-                        content=content,
-                        custom_formatter=self.active_instruction_formatter
-                    )
+            if len(opt_final_responses) != len(opt_content_list):
+                print(
+                    f"WARNING: Response count mismatch! Expected {len(opt_content_list)}, "
+                    f"got {len(opt_final_responses)}"
                 )
-            final_responses = await tqdm.gather(*response_tasks)
+                opt_final_responses = await generate_responses_for_content(
+                    final_persona, opt_content_list
+                )
+        else:
+            opt_final_responses = await generate_responses_for_content(
+                initial_persona, opt_content_list
+            )
             final_persona = initial_persona
             iteration_details = []
+
+        if has_val_split:
+            initial_responses = await generate_responses_for_content(
+                initial_persona, eval_content_list
+            )
+            final_responses = await generate_responses_for_content(
+                final_persona, eval_content_list
+            )
+        else:
+            if iteration_details and iteration_details[0].get("individual_responses"):
+                initial_responses = iteration_details[0]["individual_responses"]
+            else:
+                initial_responses = opt_final_responses
+            final_responses = opt_final_responses
         
-        # Generate bio responses if needed (batch processing)
         bio_responses = []
         bio_persona = None
         if speaker_examples and speaker_examples[0][0].get("bio_text"):
             bio_persona = speaker_examples[0][0]["bio_text"]
             print(f"Generating bio responses for speaker {speaker_name}")
-            
-            bio_tasks = []
-            for content in content_list:
-                bio_tasks.append(
-                    self.agent.generate_response(
-                        persona=bio_persona,
-                        content=content,
-                        custom_formatter=self.active_instruction_formatter
-                    )
-                )
-            bio_responses = await tqdm.gather(*bio_tasks)
+            bio_responses = await generate_responses_for_content(
+                bio_persona, eval_content_list
+            )
         
-        # Calculate metrics for each persona type (average across all examples)
         initial_metrics_list = []
         refined_metrics_list = []
         bio_metrics_list = []
         
-        # Get initial responses (first iteration for each example)
-        initial_responses = []
-        if iteration_details and iteration_details[0].get("individual_responses"):
-            initial_responses = iteration_details[0]["individual_responses"]
-        else:
-            initial_responses = final_responses  # fallback
-        
-        # Calculate metrics for each example
-        for i, (gt, initial_resp, final_resp) in enumerate(zip(ground_truth_list, initial_responses, final_responses)):
+        for i, (gt, initial_resp, final_resp) in enumerate(
+            zip(eval_ground_truth_list, initial_responses, final_responses)
+        ):
             initial_metrics = self.evaluate_similarity(initial_resp, gt)
             refined_metrics = self.evaluate_similarity(final_resp, gt)
             initial_metrics_list.append(initial_metrics)
@@ -670,7 +811,6 @@ class BaseEvaluator:
                 bio_metrics = self.evaluate_similarity(bio_responses[i], gt)
                 bio_metrics_list.append(bio_metrics)
         
-        # Calculate average metrics
         def average_metrics(metrics_list):
             if not metrics_list:
                 return {}
@@ -684,56 +824,62 @@ class BaseEvaluator:
         avg_refined_metrics = average_metrics(refined_metrics_list)
         avg_bio_metrics = average_metrics(bio_metrics_list) if bio_metrics_list else {}
         
-        # Create a single aggregated result for this speaker
         aggregated_result = {
             "speaker_name": speaker_name,
-            "num_examples": len(speaker_examples),
+            "num_examples": len(evaluation_examples),
+            "num_train_examples": len(optimization_examples),
+            "num_val_examples": len(evaluation_examples),
+            "has_train_val_split": has_val_split,
             "initial": {
                 "persona": initial_persona,
-                "responses": initial_responses,  # List of all initial responses
-                "metrics": avg_initial_metrics  # Average metrics across all examples
+                "responses": initial_responses,
+                "metrics": avg_initial_metrics
             },
             "refined": {
                 "persona": final_persona,
-                "responses": final_responses,  # List of all final responses
-                "metrics": avg_refined_metrics,  # Average metrics across all examples
+                "responses": final_responses,
+                "metrics": avg_refined_metrics,
                 "refinement_iterations": len(iteration_details),
                 "refinement_analyses": [iter_detail.get("analysis", "") for iter_detail in iteration_details]
             },
-            "content_list": content_list,  # List of all content
-            "ground_truth_list": ground_truth_list,  # List of all ground truth
-            "per_iteration_evaluations": [],  # Will be populated below
+            "content_list": eval_content_list,
+            "ground_truth_list": eval_ground_truth_list,
+            "optimization_content_list": opt_content_list,
+            "optimization_ground_truth_list": opt_ground_truth_list,
+            "per_iteration_evaluations": [],
             "dprf_iteration_details": iteration_details
         }
         
-        # Add bio results if available
         if bio_responses:
             aggregated_result["bio"] = {
                 "persona": bio_persona,
-                "responses": bio_responses,  # List of all bio responses
-                "metrics": avg_bio_metrics  # Average metrics across all examples
+                "responses": bio_responses,
+                "metrics": avg_bio_metrics
             }
         
-        # Build per_iteration_evaluations for CSV export (create entries for each example in each iteration)
-        for iter_detail in iteration_details:
-            iteration_num = iter_detail.get("iteration", 1)
-            persona_used = iter_detail.get("persona", initial_persona)
-            individual_responses = iter_detail.get("individual_responses", [])
-            
-            for i, (gt, resp) in enumerate(zip(ground_truth_list, individual_responses)):
-                if i < len(individual_responses):
-                    iter_metrics = self.evaluate_similarity(resp, gt)
-                    aggregated_result["per_iteration_evaluations"].append({
-                        "example_index": i,
-                        "iteration": iteration_num,
-                        "persona": persona_used,
-                        "response": resp,
-                        "metrics": iter_metrics
-                    })
-        
-        # If no iterations, create single iteration entries
-        if not aggregated_result["per_iteration_evaluations"]:
-            for i, (gt, resp) in enumerate(zip(ground_truth_list, final_responses)):
+        if iteration_details:
+            for iter_detail in iteration_details:
+                iteration_num = iter_detail.get("iteration", 1)
+                persona_used = iter_detail.get("persona", initial_persona)
+                if has_val_split:
+                    individual_responses = await generate_responses_for_content(
+                        persona_used, eval_content_list
+                    )
+                else:
+                    individual_responses = iter_detail.get("individual_responses", [])
+                
+                for i, (gt, resp) in enumerate(zip(eval_ground_truth_list, individual_responses)):
+                    if i < len(individual_responses):
+                        iter_metrics = self.evaluate_similarity(resp, gt)
+                        aggregated_result["per_iteration_evaluations"].append({
+                            "example_index": i,
+                            "iteration": iteration_num,
+                            "persona": persona_used,
+                            "response": resp,
+                            "metrics": iter_metrics
+                        })
+        else:
+            for i, (gt, resp) in enumerate(zip(eval_ground_truth_list, final_responses)):
                 final_metrics = self.evaluate_similarity(resp, gt)
                 aggregated_result["per_iteration_evaluations"].append({
                     "example_index": i,
@@ -743,10 +889,9 @@ class BaseEvaluator:
                     "metrics": final_metrics
                 })
         
-        # Return a single aggregated result instead of individual example results
         return {
             "speaker_name": speaker_name,
-            "example_results": [aggregated_result]  # Single aggregated result
+            "example_results": [aggregated_result]
         }
 
     async def _process_single_interview_result(self, example_result, processed_results_list, all_per_iteration_data_frames):
@@ -815,71 +960,80 @@ class BaseEvaluator:
             print(f"Error processing aggregated interview result for speaker {speaker_name}: {e}")
             traceback.print_exc()
 
+    async def _process_single_evaluation_result(
+        self,
+        i: int,
+        single_example_result_data,
+        processed_results_list,
+        all_per_iteration_data_frames,
+    ):
+        """Save one example's detail JSON and append summary rows (called as each example finishes)."""
+        example_id_for_file = single_example_result_data.get("task_info", {}).get(
+            getattr(self, "example_id_key_for_filename", "example_idx"), f"example_idx_{i}"
+        )
+        try:
+            detail_file_path = os.path.join(self.details_dir, f"example_{example_id_for_file}.json")
+            with open(detail_file_path, "w") as f:
+                json.dump(single_example_result_data, f, indent=2)
+
+            summary_row = {"example_id": i + 1}
+            task_info = single_example_result_data.get("task_info", {})
+            for key, value in task_info.items():
+                if key not in ["content", "ground_truth"]:
+                    summary_row[key] = value
+
+            for persona_key in ["initial", "bio", "refined"]:
+                if persona_key in single_example_result_data:
+                    for metric_n, metric_v in single_example_result_data[persona_key]["metrics"].items():
+                        summary_row[f"{persona_key}_{metric_n}"] = metric_v
+
+            processed_results_list.append(summary_row)
+
+            if "per_iteration_evaluations" in single_example_result_data:
+                iter_summary_for_df = []
+                for iter_eval_res in single_example_result_data["per_iteration_evaluations"]:
+                    iter_row = {
+                        "example_id": i + 1,
+                        "iteration": iter_eval_res["iteration"],
+                    }
+                    for key in ["speaker_id", "debate_id", "speaker_type"]:
+                        if key in task_info:
+                            iter_row[key] = task_info[key]
+                    iter_row.update(iter_eval_res["metrics"])
+                    iter_summary_for_df.append(iter_row)
+
+                if iter_summary_for_df:
+                    all_per_iteration_data_frames.append(pd.DataFrame(iter_summary_for_df))
+        except Exception as e:
+            print(f"Error processing result for example (ID: {example_id_for_file}): {e}")
+            traceback.print_exc()
+
     async def _process_evaluation_results(self, raw_results_from_gather, examples_to_process, processed_results_list, all_per_iteration_data_frames):
         """Process evaluation results for standard (non-interview) datasets"""
         for i, single_example_result_data in enumerate(raw_results_from_gather):
-            original_example_obj = examples_to_process[i] # For context in case of error
-            
+            original_example_obj = examples_to_process[i]
+
             if isinstance(single_example_result_data, Exception):
-                example_id_for_file = f"error_idx_{i}"
-                print(f"Error evaluating example (ID: {example_id_for_file}): {single_example_result_data}")
-                traceback.print_exc()
+                task_info = original_example_obj if isinstance(original_example_obj, dict) else {}
+                speaker_id = task_info.get("speaker_id", "unknown")
+                print(
+                    f"Error evaluating example idx={i}, speaker_id={speaker_id}: "
+                    f"{type(single_example_result_data).__name__}: {single_example_result_data}"
+                )
+                if hasattr(single_example_result_data, "__traceback__"):
+                    traceback.print_exception(
+                        type(single_example_result_data),
+                        single_example_result_data,
+                        single_example_result_data.__traceback__,
+                    )
                 continue
 
-            example_id_for_file = single_example_result_data.get("task_info", {}).get(
-                getattr(self, "example_id_key_for_filename", "example_idx"), f"example_idx_{i}")
-
-            try:
-                # Save detailed JSON for this example
-                detail_file_path = os.path.join(self.details_dir, f"example_{example_id_for_file}.json")
-                with open(detail_file_path, "w") as f:
-                    json.dump(single_example_result_data, f, indent=2)
-
-                # Prepare data for summary CSV - following debate evaluation format
-                summary_row = {
-                    "example_id": i + 1,
-                }
-                
-                # Add task-specific info (excluding content and ground_truth to keep CSV clean)
-                task_info = single_example_result_data.get("task_info", {})
-                for key, value in task_info.items():
-                    # Exclude content and ground_truth from CSV as they are verbose
-                    if key not in ["content", "ground_truth"]:
-                        summary_row[key] = value
-
-                # Add metrics for each persona type
-                for persona_key in ["initial", "bio", "refined"]:
-                    if persona_key in single_example_result_data:
-                        for metric_n, metric_v in single_example_result_data[persona_key]["metrics"].items():
-                            summary_row[f"{persona_key}_{metric_n}"] = metric_v
-
-                processed_results_list.append(summary_row)
-
-                # Per-iteration data for averaging - following debate evaluation format
-                if "per_iteration_evaluations" in single_example_result_data:
-                    iter_summary_for_df = []
-                    for iter_eval_res in single_example_result_data["per_iteration_evaluations"]:
-                        iter_row = {
-                            "example_id": i + 1,
-                            "iteration": iter_eval_res["iteration"],
-                        }
-                        # Add task info to iteration rows
-                        task_info = single_example_result_data.get("task_info", {})
-                        # Only include essential task info fields to match debate format
-                        for key in ["speaker_id", "debate_id", "speaker_type"]:
-                            if key in task_info:
-                                iter_row[key] = task_info[key]
-                        
-                        # Add all metrics
-                        iter_row.update(iter_eval_res["metrics"])
-                        iter_summary_for_df.append(iter_row)
-                    
-                    if iter_summary_for_df:
-                       all_per_iteration_data_frames.append(pd.DataFrame(iter_summary_for_df))
-
-            except Exception as e:
-                print(f"Error processing result for example (ID: {example_id_for_file}): {e}")
-                traceback.print_exc()
+            await self._process_single_evaluation_result(
+                i,
+                single_example_result_data,
+                processed_results_list,
+                all_per_iteration_data_frames,
+            )
 
     def _log_iteration_improvements(self, iteration_stats_df):
         print("\nImprovement Percentage Between Iterations:")
@@ -1017,10 +1171,21 @@ class BaseEvaluator:
         group.add_argument("--wandb_run_name", type=str, help="WandB run name prefix")
         group.add_argument("--wandb_notes", type=str, default="", help="WandB run notes")
         group.add_argument("--data_dir", default="DPRF/Evaluation/debate/data/processed",                         help="Directory with processed debate data (relative to project root or absolute)")
-        group.add_argument("--length", type=int, default=None, help="Number of examples to randomly select (default: all examples)")
+        group.add_argument("--length", type=int, default=None, help="Number of examples to select (default: all). For interview, this is number of speaker JSON files.")
+        group.add_argument(
+            "--example_select",
+            choices=["random", "first", "last"],
+            default="random",
+            help="How to pick examples when --length is set: random, first N, or last N (non-overlapping with few-shot pool if you use last-100 pool + first-100 eval).",
+        )
+        group.add_argument(
+            "--few_shot_examples_file",
+            default=None,
+            help="JSON file with few-shot examples (injected into instruction prompt as {few_shot_examples}).",
+        )
         group.add_argument("--initial_persona_file", default=None,
                                 help="Path to a custom initial persona template file (optional, relative or absolute)")
-        group.add_argument("--instruction_prompt_file", default=None, help="Path to a generic instruction prompt template file (optional)")
+        group.add_argument("--instruction_prompt_file", default=None, help="Path to a generic instruction prompt template file (optional). Use instruction_few_shot.txt with {few_shot_examples}.")
         
         group.add_argument("--analysis_prompt_file", help="Path to custom analysis prompt template")
         group.add_argument("--refinement_prompt_file", help="Path to custom refinement prompt template")

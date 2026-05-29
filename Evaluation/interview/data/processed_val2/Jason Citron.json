@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So, what were you showing off then?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so back in 2013, we were working on a multiplayer game for tablet devices. It was kind of like a team-based competitive game, where you essentially would have a three-versus-three team-based multiplayer experience on tablets, which were new and fresh back then. And as many startups go, that is not what we ended up doing."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So fast forward five years, the game failed, but you pivoted a bit and now you have a company worth $1.6 billion. So what went on there? How did that happen?"
+      }
+    ],
+    "speakername": "Jason Citron",
+    "ground_truth": "Yeah, so we were building this game and through the experience of working on it and talking with our customers and reflecting on our own behavior, we noticed that the tools that people were using to communicate inside the game with the people they're playing with were not great. That also caused us to sort of reflect and look at the way that we were playing games on PC and the tools that we were using like a popular communication platform, which was really popular at the time for this, and noticed that they weren't that great. People were playing these super fresh modern games that are pushing the boundaries of technology and using messaging and voice tools that had kind of fallen out of favor, almost built in a different time. And so we came up with this idea of what if we built from scratch an amazing voice and text chat experience for people that play multiplayer video games and that's what we built and it's called our communication platform.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so back in 2013, we were working on a multiplayer game for tablet. It was kind of like a team-based strategy game, where you essentially would have a three-versus-three team-based multiplayer experience on tablets, which were new and fresh back then. And as many startups go, that is not what we ended up doing."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So fast forward five years, the game failed, but you pivoted a bit and now you have a company worth $1.6 billion. So what went on there? How did that happen?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so we were building this game and through the experience of working on it and talking with our customers and reflecting on our own behavior, we noticed that the tools that people were using to communicate inside the game with the people they're playing with were not great. That also caused us to sort of reflect and look at the way that we were playing games on PC and the tools that we were using like video chat software, which was really popular at the time for this, and noticed that they weren't that great. People were playing these super fresh modern games that are pushing the boundaries of technology and using messaging and voice tools that had kind of fallen out of favor, almost built in a different time. And so we came up with this idea of what if we built from scratch an amazing voice and text chat experience for people that play multiplayer video games and that's what we built and it's called our communication platform."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You had this very slick game. How did it feel to just be like, okay, we like this little part of it and just throw the rest out the window? How tough was it to come to that decision?"
+      }
+    ],
+    "speakername": "Jason Citron",
+    "ground_truth": "Yeah, not easy. You know, people talk about the idea of pivoting when you're building a company and how sometimes it happens. But the reality is that going through a pivot basically means you're acknowledging that the thing that you've been pouring your sweat and tears into is not working and sort of confronting that reality and then making some hard decisions. And so it was actually a very challenging thing to go through personally and for, you know, the team. We ended up laying off a third of the company and all of our amazing 3D artists and then the rest of the team went on to build our communication platform. Okay. And how many users do you have now? Now we have 150 million registered users. Okay. Which is kind of crazy. That's a lot.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so we were building this game and through the experience of working on it and talking with our customers and reflecting on our own behavior, we noticed that the tools that people were using to communicate inside the game with the people they're playing with were not great. That also caused us to sort of reflect and look at the way that we were playing games on PC and the tools that we were using like Skype, which was really popular at the time for this, and noticed that they weren't that great. People were playing these super fresh modern games that are pushing the boundaries of technology and using messaging and voice tools that had kind of fallen out of favor, almost built in a different time. And so we came up with this idea of what if we built from scratch an amazing voice and text chat experience for people that play multiplayer video games and that's what we built and it's called Discord."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You had this very slick game. How did it feel to just be like, okay, we like this little part of it and just throw the rest out the window? How tough was it to come to that decision?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, not easy. You know, people talk about the idea of pivoting when you're building a company and how sometimes it happens. But the reality is that going through a pivot basically means you're acknowledging that the thing that you've been pouring your sweat and tears into is not working and sort of confronting that reality and then making some hard decisions. And so it was actually a very challenging thing to go through personally and for, you know, the team. We ended up laying off a third of the company and all of our amazing 3D artists and then the rest of the team went on to build Discord. Okay. And how many users do you have now? Now we have 150 million registered users. Okay. Which is kind of crazy. That's a lot."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "When you look at the future opportunity for Discord, I know that there's some new stuff you're working on. Tell me about this new store that you have."
+      }
+    ],
+    "speakername": "Jason Citron",
+    "ground_truth": "Yeah, so one of the things that we also notice as people using Discord is people come to our app as a place to start and kind of check in with their friends and be like, hey, what do you want to play tonight? And then they go and buy games elsewhere and play them. And we thought, well, we think we can probably sell games to people directly ourselves and build a great business. And so we actually just announced that we're launching a game store. So you'll be able to come to Discord and see what your friends are playing and then also buy some games from us. And in addition, we're going to roll out a subscription service for games, which I'm really excited about. Sort of like a Netflix for games, but it's not streaming. You actually download the games. And so for a flat monthly fee, you get access to a huge library of games that will continue to change and evolve. And I'm really excited for that because I think a subscription model like that is an amazing value to a consumer and I think can represent a new way that people find and buy.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so one of the things that we also notice as people using our app is people come to our app as a place to start and kind of check in with their friends and be like, hey, what do you want to play tonight? And then they go and buy games elsewhere and play them. And we thought, well, we think we can probably sell games to people directly ourselves and build a great business. And so we actually just announced that we're launching a game store. So you'll be able to come to our app and see what your friends are playing and then also buy some games from us. And in addition, we're going to roll out a subscription service for games, which I'm really excited about. Sort of like a streaming service for games, but it's not streaming. You actually download the games. And so for a flat monthly fee, you get access to a huge library of games that will continue to change and evolve. And I'm really excited for that because I think a subscription model like that is an amazing value to a consumer and I think can represent a new way that people find and buy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "games yeah and then possibly impact the back end of how games get built in a cool way"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So gaming subscriptions are kind of in their infancy now and a few people are trying them out. As you look at something like how music subscriptions have worked out, is the way that our app differentiates itself by going after exclusives on titles? Or do you want to avoid having warring factions of different gaming subscriptions? Or is that kind of the goal here as you're the underdog?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Right, well."
+      }
+    ],
+    "speakername": "Jason Citron",
+    "ground_truth": "We're not trying to create warring factions. We always start when we're designing products and thinking about what to do based on what we think is best for the customers, for gamers, for people. And having fragmentation actually is not generally good, although there is a lot of fragmentation in the industry. I think one of the interesting things that our app has, I think one of the reasons why we've been successful is because there has been so much fragmentation, particularly around social tools and games, that we actually create a centralized place for people to come. And so for our retail business that we're building, we're going to have games that you can buy on other stores as well as on ours. We will have some titles that we're calling first on our platform. So they're kind of exclusives, but they're going to be for short time windows.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We're not trying to create warring factions. We always start when we're designing products and thinking about what to do based on what we think is best for the customers, for gamers, for people. And having fragmentation actually is not generally good, although there is a lot of fragmentation in the industry. I think one of the interesting things that we have, I think one of the reasons why we've been successful is because there has been so much fragmentation, particularly around social tools and games, that we actually create a centralized place for people to come. And so for our retail business that we're building, we're going to have games that you can buy on other stores as well as on ours. We will have some titles that we're calling first on our platform. So they're kind of exclusives, but they're going to be for short time windows."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "people. And having fragmentation actually is not generally good, although there is a lot of fragmentation in the industry. I think one of the interesting things that we have, I think one of the reasons why we've been successful is because there has been so much fragmentation, particularly around social tools and games, that we actually create a centralized place for people to come. And so for our retail business that we're building, we're going to have games that you can buy on other stores as well as on ours. We will have some titles that we're calling first on our platform. So they're kind of exclusives, but they're going to be for short time windows."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So if you want to play a game but you really don't want to buy it from us, you can get it somewhere else. And then our subscription business, for now, it's more like great games that you may have missed in the past. So they're available elsewhere if you want, but the cheapest way to get them will be through the subscription package that we're offering."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay, so going along with this music subscription analogy, like, they're obviously like, I don't know, the major platform of a few years ago, how do you ensure that our platform is, you know, a competitive service, not a secondary player?"
+      }
+    ],
+    "speakername": "Jason Citron",
+    "ground_truth": "Right. Well, so our competitor that you mentioned, they actually don't have a subscription service for games. They're just a store. So we're offering something that's totally different than what they have. So I think we're going to be the first big gaming business to offer a subscription service. So I think one of the ways that you make sure that you're a market leader is to do it first in a big way.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

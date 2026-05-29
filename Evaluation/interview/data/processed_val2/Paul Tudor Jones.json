@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, for me and in the hedge fund world, this is kind of the macro Super Bowl coming up on November 5th. And I think this one, you know, some elections are not that binary. This one is binary not so much because of which candidate wins, but it's binary in the sense that what is the market's response going to be to either candidate if they win? And so we can either continue down the path we've been on, which I'm going to kind of frame here in a second, or we may have that point of recognition where all of a sudden the markets have different ideas than what the candidates have been espousing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Before you before you lay out where you think that piece of it is, let me ask you this. [Name] said that he is convinced by market indicators right now that [Name] will win. And I'm curious if you agree with that thesis. Part of it is that he's looking at, you know, poly market and the betting markets. Part of it is he's looking at the shares of DGT. Part of it is looking at Bitcoin."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah certainly the markets are saying he's going to win i think they're heavily skewed by republicans so i don't know if i necessarily believe the betting markets but i don't have any great insights i really don't i just would be more skeptical of them than i would normally it's the same way look in football betting right you can get a huge home bias where the line doesn't reflect reality so uh yeah i know what they're saying and i and i respect them"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But what about other investors? [Name] recently came out with a report to his investors saying that he's positioning or repositioning his portfolio around the thesis that former President will become the president."
+      }
+    ],
+    "speakername": "Paul Tudor Jones",
+    "ground_truth": "And I have also, if I'm being honest, primarily because I see the polling numbers have clearly moved in this direction.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah certainly the markets are saying he's going to win i think they're heavily skewed by republicans so i don't know if i necessarily believe the betting markets but i don't have any great insights i really don't i just would be more skeptical of them than i would normally it's the same way look in football betting right you can get a huge home bias where the line doesn't reflect reality so uh yeah i know what they're saying and i and i respect them"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But what about other investors? Dan Loeb recently came out with a report to his investors saying that he's positioning or repositioning his portfolio around the thesis that former President Trump will become the president."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I have also, if I'm being honest, primarily because I see the polling numbers have clearly moved in this direction."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "also meaning you have you you repositioned as if from president trump wins yes you have"
+      }
+    ],
+    "speakername": "Paul Tudor Jones",
+    "ground_truth": "I have moved in that direction, for sure. And what does that mean? It just means more inflation trades, which I'd love to get to, but I think it's really important that we frame where we are right now. And where we are is an incredible moment in national history. And what I really want to talk about is the debt trajectory that we're on. So we've gone in the space of 25 short years from debt to GDP. At the federal level, from about 40% to almost 100%. 60% in 25 years. And if you look at what our trajectory, what CBO projects our trajectory to be, as well as what we see as, and we're going to project further than CBO. So I'm going to show you a chart. This is debt to GDP. So CBO says that we go from 98 to 122, I think 124. That's very conservative over the next 10 years. If you extrapolate that 30 years, you get to 200% debt to GDP. And so that's something, obviously something that can't go on forever, won't. And the question is, after this election, will there be some point of recognition, particularly with all the tax cuts that are being promised by both sides and the spending plans? I mean, they're handing out tax cuts like they're festival beads, right? We're doing tax cuts on everything from tips to toucans. So it's crazy what's being promised. After the election, I think the fact that you've got 7% to 8% budget deficits, as far as the eye can see, the question is, will the markets allow? Will either candidate? I think under Trump, the deficit goes up by $500 billion per year. Under Harris' plan, it goes up by an additional $600 billion plan per year. I have a feeling all those are just pipe dreams. I think the chances of any of those being enacted are...",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I have also, if I'm being honest, primarily because I see the polling numbers have clearly moved in this direction."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "also meaning you have you you repositioned as if from president wins yes you have"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have moved in that direction, for sure. And what does that mean? It just means more inflation trades, which I'd love to get to, but I think it's really important that we frame where we are right now. And where we are is an incredible moment in national history. And what I really want to talk about is the debt trajectory that we're on. So we've gone in the space of 25 short years from debt to GDP. At the federal level, from about 40% to almost 100%. 60% in 25 years. And if you look at what our trajectory, what CBO projects our trajectory to be, as well as what we see as, and we're going to project further than CBO. So I'm going to show you a chart. This is debt to GDP. So CBO says that we go from 98 to 122, I think 124. That's very conservative over the next 10 years. If you extrapolate that 30 years, you get to 200% debt to GDP. And so that's something, obviously something that can't go on forever, won't. And the question is, after this election, will there be some point of recognition, particularly with all the tax cuts that are being promised by both sides and the spending plans? I mean, they're handing out tax cuts like they're festival beads, right? We're doing tax cuts on everything from tips to toucans. So it's crazy what's being promised. After the election, I think the fact that you've got 7% to 8% budget deficits, as far as the eye can see, the question is, will the markets allow? Will either candidate? I think under one candidate, the deficit goes up by $500 billion per year. Under the other candidate's plan, it goes up by an additional $600 billion plan per year. I have a feeling all those are just pipe dreams. I think the chances of any of those being enacted are..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You mean that the tax cuts that they're putting on the table during the campaign?"
+      }
+    ],
+    "speakername": "Paul Tudor Jones",
+    "ground_truth": "have zero chance of being enacted in my mind. I think the markets will, the debt markets for sure, the treasury market won't tolerate it.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have moved in that direction, for sure. And what does that mean? It just means more inflation trades, which I'd love to get to, but I think it's really important that we frame where we are right now. And where we are is an incredible moment in national history. And what I really want to talk about is the debt trajectory that we're on. So we've gone in the space of 25 short years from debt to GDP. At the federal level, from about 40% to almost 100%. 60% in 25 years. And if you look at what our trajectory, what CBO projects our trajectory to be, as well as what we see as, and we're going to project further than CBO. So I'm going to show you a chart. This is debt to GDP. So CBO says that we go from 98 to 122, I think 124. That's very conservative over the next 10 years. If you extrapolate that 30 years, you get to 200% debt to GDP. And so that's something, obviously something that can't go on forever, won't. And the question is, after this election, will there be some point of recognition, particularly with all the tax cuts that are being promised by both sides and the spending plans? I mean, they're handing out tax cuts like they're festival beads, right? We're doing tax cuts on everything from tips to toucans. So it's crazy what's being promised. After the election, I think the fact that you've got 7% to 8% budget deficits, as far as the eye can see, the question is, will the markets allow? Will either candidate? I think under the first candidate, the deficit goes up by $500 billion per year. Under the second candidate's plan, it goes up by an additional $600 billion plan per year. I have a feeling all those are just pipe dreams. I think the chances of any of those being enacted are..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You mean that the tax cuts that they're putting on the table during the campaign?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "have zero chance of being enacted in my mind. I think the markets will, the debt markets for sure, the treasury market won't tolerate it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Why do you think that the Treasury market continues to tolerate it now?"
+      }
+    ],
+    "speakername": "Paul Tudor Jones",
+    "ground_truth": "Well, you know, it's so funny because financial crises percolate for years, but they blow up in weeks. That's kind of the history of them, right? And so for me, this election becomes one of those seminal points where all of a sudden, hmm, let me really think whether this proposition that the government is making me is something that I actually want to participate in. And I want to try to frame in layman's terms. Let's assume that I'm making 100,000 bucks a year. You've lent me, because we're such great friends, $700,000, that's what you've lent me. And I come to you and say, okay, Andrew, I'm gonna pay all that back to you in 30 years, but between now and when I ultimately pay you back, I want to borrow $40,000 every year for the next 30 years. And then at the end of 30 years, I'm gonna pay the whole thing back. Would you lend me that money?",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "have zero chance of being enacted in my mind. I think the markets will, the debt markets for sure, the treasury market won't tolerate it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Why do you think that the Treasury market continues to tolerate it now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, it's so funny because financial crises percolate for years, but they blow up in weeks. That's kind of the history of them, right? And so for me, this election becomes one of those seminal points where all of a sudden, hmm, let me really think whether this proposition that the government is making me is something that I actually want to participate in. And I want to try to frame in layman's terms. Let's assume that I'm making 100,000 bucks a year. You've lent me, because we're such great friends, $700,000, that's what you've lent me. And I come to you and say, okay, Andrew, I'm gonna pay all that back to you in 30 years, but between now and when I ultimately pay you back, I want to borrow $40,000 every year for the next 30 years. And then at the end of 30 years, I'm gonna pay the whole thing back. Would you lend me that money?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "unlikely."
+      }
+    ],
+    "speakername": "Paul Tudor Jones",
+    "ground_truth": "you son of a bitch i thought you were my friend well this is the problem that we have okay so that's actually the proposition that the government makes to every bond holder today that's the exact same proposition so think about this we owe 35 trillion our tax take is 5 trillion so we owe seven times what our tax take will be this year our revenues will be this year and our deficit is 2 trillion and it's 2 trillion right now as far as the eye can see that is literally the proposition that someone that the government is making to someone who buys a 30-year",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

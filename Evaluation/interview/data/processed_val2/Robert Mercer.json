@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "To his habit of whistling constantly, like even during business meetings, to this pioneering research he did that actually kind of formed the basis of what became a major translation technology. He did the original research on that in the 1980s."
+      },
+      {
+        "speaker": "[target]",
+        "text": "brilliant mind."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's right."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So let's talk about this gun enthusiast side of [target], which you go into really amazing detail on. Why is it that [target], who lives in [region] County, wants to volunteer as a policeman in [state]?"
+      }
+    ],
+    "speakername": "Robert Mercer",
+    "ground_truth": "As far as we can tell, it's important to note that [target] doesn't talk to the press in general, didn't talk to me. But as far as we can tell, it was in order to become a police officer under a 2004 law, you can carry a weapon even when you're off duty, even when you're out of state. And so even though he's just a volunteer reserve officer, this gave him a badge that he can use. It's essentially like having a concealed carry license in all 50 states at the same time.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's right."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So let's talk about this gun enthusiast side of [target], which you go into really amazing detail on. Why is it that [target], who lives in [location] County, [location], decided that he would volunteer as a policeman in [location]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "As far as we can tell, it's important to note that the individual doesn't talk to the press in general, didn't talk to me. But as far as we can tell, it was in order to become a police officer under a 2004 law, you can carry a weapon even when you're off duty, even when you're out of state. And so even though he's just a volunteer reserve officer, this gave him a badge that he can use. It's essentially like having a concealed carry license in all 50 states at the same time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And so how did that law come about? I mean, we don't, it's such sort of an intricate web that you describe at how that 2004 legislation came to be."
+      }
+    ],
+    "speakername": "Robert Mercer",
+    "ground_truth": "I can only imagine that the intent behind the law was for the protection of police officers, of existing police officers, so that when they're off duty, they could protect themselves and their families for the most part, or maybe protect the public because they're trained professionals. I'm not sure Congress anticipated the notion that people might try to get this designation without becoming full-time officers in order to take advantage of the benefits that come with having a badge.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "As far as we can tell, it's important to note that [target] doesn't talk to the press in general, didn't talk to me. But as far as we can tell, it was in order to become a police officer under a 2004 law, you can carry a weapon even when you're off duty, even when you're out of state. And so even though he's just a volunteer reserve officer, this gave him a badge that he can use. It's essentially like having a concealed carry license in all 50 states at the same time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And so how did that law come about? I mean, we don't, it's such sort of an intricate web that you describe at how that 2004 legislation came to be."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I can only imagine that the intent behind the law was for the protection of police officers, of existing police officers, so that when they're off duty, they could protect themselves and their families for the most part, or maybe protect the public because they're trained professionals. I'm not sure Congress anticipated the notion that people might try to get this designation without becoming full-time officers in order to take advantage of the benefits that come with having a badge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So let's talk about this small town in [region], a town of 433 people, you write. How did [target] become aware of [region]'s Reserve Corps?"
+      }
+    ],
+    "speakername": "Robert Mercer",
+    "ground_truth": "Right. So [region] is kind of an unusual police department in that, you know, when I went there, there were there's one full time police officer, Chief Norwood and and 400 and some people and a reserve program with at one time as many as 150 reservists. They're from all over the country there. They're from [region] and [region]. Many of them are former military personnel. And so it didn't look like a normal. These aren't the guys like directing traffic at the high school football game that you might be familiar with from your local police department.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I can only imagine that the intent behind the law was for the protection of police officers, of existing police officers, so that when they're off duty, they could protect themselves and their families for the most part, or maybe protect the public because they're trained professionals. I'm not sure Congress anticipated the notion that people might try to get this designation without becoming full-time officers in order to take advantage of the benefits that come with having a badge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So let's talk about this town in [location], a town of 433 people, you write. How did [target] become aware of [location]'s Reserve Corps?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right. So [location] is kind of an unusual police department in that, you know, when I went there, there were there's one full time police officer, Chief Norwood and and 400 and some people and a reserve program with at one time as many as 150 reservists. They're from all over the country there. They're from [location] and [location]. Many of them are former military personnel. And so it didn't look like a normal. These aren't the guys like directing traffic at the high school football game that you might be familiar with from your local police department."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, so what did he do for them as far as we know? And what is the training, the actual training like? Because Chief Norwood made it sound as though there is an intense, rigorous process here for people who volunteer."
+      }
+    ],
+    "speakername": "Robert Mercer",
+    "ground_truth": "He did make it sound as if there was a lot of training and also annual requirements, six days of patrol per year. However, he wouldn't really talk about any individual officers, so I wasn't able to get details on exactly what [target] did. But one thing we do know is that a foundation that he funded actually gave at least one grant to the department. And his son-in-law helped set up another nonprofit that sent some money to the department. And so there were some financial connections between [target] and the department as well.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right. So [location] is kind of an unusual police department in that, you know, when I went there, there were there's one full time police officer, Chief [name] and and 400 and some people and a reserve program with at one time as many as 150 reservists. They're from all over the country there. They're from [location] and [location]. Many of them are former military special forces. And so it didn't look like a normal. These aren't the guys like directing traffic at the high school football game that you might be familiar with from your local police department."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, so what did he do for them as far as we know? And what is the training, the actual training like? Because Chief [name] made it sound as though there is an intense, rigorous process here for people who volunteer."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He did make it sound as if there was a lot of training and also annual requirements, six days of patrol per year. However, he wouldn't really talk about any individual officers, so I wasn't able to get details on exactly what [target] did. But one thing we do know is that a foundation that he funded actually gave at least one grant to the department. And his son-in-law helped set up another nonprofit that sent some money to the department. And so there were some financial connections between [target] and the department as well."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So has [target] always had this interest in gun rights?"
+      }
+    ],
+    "speakername": "Robert Mercer",
+    "ground_truth": "As far as I know, he's a gun rights organization member, and when he built his mansion, which was long before this, on the north coast of [location], he actually built a pistol range in the basement. So we know he's been an avid shooter for quite some time.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

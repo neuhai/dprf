@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think this is different. When we were young, we had way less competition than you people have now. There weren't very many smart people in the investment management field. There really weren't. And you should have seen the people who were in the bank trust departments. So now we've got armies of brilliant young people and all these private partnerships and all these proprietary desks and all the big investment banks. And we've got a vast amount of talent in the investment management business. And there's a lot of competition. If there were suddenly a crisis now, there would be 500 firms that would be studying it intensely, each having capital that they could commit on a hair trigger. In our day, we would frequently be all alone."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "But in 2002..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We'd be the only buyer."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "But in 2002, [target], there were tons of people that had investment experience and high IQs and lots of money was around. Wasn't any question about money. It's just they were terrified of that particular arena."
+      }
+    ],
+    "speakername": "Charlie Munger",
+    "ground_truth": "Well, when you have a huge convulsion, which is like a big fire in this meeting hall right now, you know, you get a lot of weird behavior. And if you and if you can particularly.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, when you have a huge convulsion, which is like a big fire in this room right now, you know, you get a lot of weird behavior. And if you and if you can particularly."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "the head table."
+      },
+      {
+        "speaker": "[target]",
+        "text": "HUH?"
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Charlie Munger",
+    "ground_truth": "And if you can be wise when everybody else is going crazy, sure, there will still be opportunities, but that may give you a long, dull stretches if that's your strategy.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_09",
+        "text": "[university name]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. Yeah. Well, I think he's demented."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "Well, he's a very nice guy, [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well..."
+      }
+    ],
+    "speakername": "Charlie Munger",
+    "ground_truth": "He may well be a very nice guy, but he's comparing apples against elephants and trying to make accurate projections.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I would say some of you probably can miss."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "I would say Charlie can't miss, I'll put it that way. He'll agree with that. Do you have anything further to add on this one? Okay. At least I've got him off that previous subject. Number 11. It really doesn't make any difference. I mean, we don't pay any attention to what people say about Coca-Cola stock or Gillette stock or any of those things. I mean, on any given day, 2 million shares of Coca-Cola may trade. That's a lot of people selling, a lot of people buying. If you would talk to one person, you'd hear one thing and talk to another. You really should not make decisions in securities based on what other people think. If you're doing that, you should think about doing something else because a public opinion poll will not get you rich in Wall Street. So you really want to stick with businesses that you feel you can somehow evaluate yourself. And. I don't think, I mean, Charlie and I, we don't read anything about what business is going to, the economy is going to do or the market's going to do or what anybody, anytime I see some article that says, you know, these analysts say this or that about some business. It just, it doesn't mean anything to us. You cannot, you cannot get rich with a weather vane. And I would say this in terms of the predictions. And I know the spirit in which you asked the question. But there's just, there's a market out there all the time. And people love to hear predictions. I mean, if I said I was going to offer a bunch of predictions today, I mean, we would have a million people here. I mean, they're dying to have predictions and speeches at Rotary clubs or trade associations or whatever. That's, they just plain love it. And that's what a whole industry is built upon. You know, the people coming out of Washington that talk about political predictions and the. I don't read those in the paper. I don't read those in the paper at all because it's just, it's space fillers, basically. And you mentioned Edgar Cayce. Ben Graham knew Edgar Cayce pretty well. But I just have never seen any utility to any of that at all. There will be some huge surprises in the world. There's no question about that. But I don't, I don't think that betting on any specific one is a very smart policy. In fact, our, we usually bet against them in terms of. Supercatastrophes. We know there will be a 7.0 or greater quake in California in the next 50 years. We don't know where it'll be or when it'll be or anything like that. We're willing to pay out a lot of money if it happens tomorrow. And because people do worry about catastrophe, and this case is perfectly proper with with with insured values. But it it just isn't any way in our view to get through economic life. Charlie. All of these economists. One hundred and. Sixty IQs that spend their life studying it. Can you name me one super wealthy economist that's ever made money out of securities? No. I mean, just go down the list now. No, Keynes, Keynes actually. In his early years, tried to make money in stocks by predicting what business would do, and he gave it up and then he went over to a Graham type approach. I mean, it's very interesting to read his history on this because he thought he could, by looking at various economic variables. Pick what he called the credit cycle and make a lot of money. And and he broke a couple of times in doing it, had to borrow from people, and then he settled on buying good businesses cheap that he understood and concentrating his investments and he did very well. It's an interesting history. But if you if you look at the whole history of them, you know, they don't make a lot of money buying and selling stocks. But people who buy and sell stocks listen to them, which is I have a little trouble with that. You know, I'm not I've not earned any any stars for my past economic predictions. And the good thing about my economic predictions, if I even do make them, is that I pay no attention to them myself. So."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "I really, and the way we pick our investments is we just don't get into the macro factors. I can't recall a time when Charlie and I have looked at a business, either buying it in its entirety or buying pieces of it through the stock market. I just, macro conclusions are just never, never enter into the discussion. I mean, I'll pick up the phone. We've had these two in recent months, and I'll tell Charlie about it. And, you know, we talk about a few things, but we don't talk about anything remotely macro. And that's really the way it'll stay. You know, I've seen a lot of bank mergers recently, and one of the things they do because they want to cut the costs and justify a merger, which they're dying to do. I mean, that's the reason. So they cut costs they wouldn't have cut if they weren't dying to do the merger in the first place and get bigger. But frequently, I know one in particular that I've, I'm thinking of that, you know, they'll cut out the economics department. You know, I always wonder why the hell they had it in the first place, you know, because what, what, what do they do? You know, I mean, the guy comes in, I says, I think GDP will be 4.6 this year instead of 4.3. So what? You know, I mean, you're still trying to make every good loan you can make, and you're still trying to take in deposits and she should be trying to cut costs wherever you can. It's got nothing to do with running the business. But, but, you know, it's, it's fashionable. And every bank had its economist and economics department. And I'm going to. A big client would come in, they take them to lunch. And it just, it always has struck me as it's just a lot of nonsense. You know, so if we ever get an economics department at Berkshire, sell the stock short. There was one other item in here, I believe, which I think achieved a little added relevance in the last year. I said, we therefore need someone genetically programmed to recognize and avoid serious risks. And then. I put in italics, including those never before experienced. And then I said, certain perils that lurk in investment strategies cannot be spotted by one of the models by use of the models commonly employed today by financial institutions. Well, I think that proved to be somewhat prophetic of what happened last year. All of these places have models. I mean, the major banks, the major investment banks and. They would meet weekly at a risk committee, probably, and go over their models and all of the statistics would be printed in nice columns and everything, and they didn't have the faintest idea what risk they were involved. You really need in the investment world, someone very solid, someone you trust. Uh, reasonable analytical skills. But you also need someone that actually can contemplate problems that haven't popped up yet, but which. Are starting to become, uh, uh, possibilities, uh, in terms of new financial instruments or new behaviors in markets and that sort of thing, and that's a rare quality. I mean, that that inability to envision something that doesn't show up in your past model, uh, you know, can be fatal, and Charlie and I spend a lot of time thinking about things. Can keep things in their minds. That could hit us out of the blue that other people don't include in their thinking, and, uh, we may miss some. Opportunities because of that, but we feel it's essential when managing other people's money or for that matter, managing our own money. So I would say that the you might go back and read the 2006 annual report again. But those are the criteria. We're looking for. And. identified as being met by the four people we're thinking about. Charlie?"
+      }
+    ],
+    "speakername": "Charlie Munger",
+    "ground_truth": "Yeah, you can see how risk-averse Berkshire is. In the first place, we try and behave in a way so that no rational person is going to worry about our credit. And after we've done that and done it for many years, we also behave in a way that if the world suddenly didn't like our credit, we wouldn't even notice it for months. In a way that if the world suddenly didn't like our credit, we wouldn't even notice it for months because we have such liquidity and are so unlikely to be unable to be pressured by anybody. That double layering of protection against risk is like breathing around Berkshire. It's just part of the culture. And the alternative culture is just the opposite. It's the opposite. You call. You call a man the chief risk officer, but often he is functioning as a guy that makes you feel good while you do dumb things. So he's like the Delphic Oracle that convinced the Persian king to attack somebody or other. I mean, he's just a dumb soothsayer. And how can a guy be dumb when he's got a PhD and he can do all this advanced math?",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "I would say Charlie can't miss, I'll put it that way. He'll agree with that. Do you have anything further to add on this one? Okay. At least I've got him off that previous subject. Number 11. It really doesn't make any difference. I mean, we don't pay any attention to what people say about Coca-Cola stock or Gillette stock or any of those things. I mean, on any given day, 2 million shares of Coca-Cola may trade. That's a lot of people selling, a lot of people buying. If you would talk to one person, you'd hear one thing and talk to another. You really should not make decisions in securities based on what other people think. If you're doing that, you should think about doing something else because a public opinion poll will not get you rich in Wall Street. So you really want to stick with businesses that you feel you can somehow evaluate yourself. And. I don't think, I mean, Charlie and I, we don't read anything about what business is going to, the economy is going to do or the market's going to do or what anybody, anytime I see some article that says, you know, these analysts say this or that about some business. It just, it doesn't mean anything to us. You cannot, you cannot get rich with a weather vane. And I would say this in terms of the predictions. And I know the spirit in which you asked the question. But there's just, there's a market out there all the time. And people love to hear predictions. I mean, if I said I was going to offer a bunch of predictions today, I mean, we would have a million people here. I mean, they're dying to have predictions and speeches at Rotary clubs or trade associations or whatever. That's, they just plain love it. And that's what a whole industry is built upon. You know, the people coming out of Washington that talk about political predictions and the. I don't read those in the paper. I don't read those in the paper at all because it's just, it's space fillers, basically. And you mentioned Edgar Cayce. Ben Graham knew Edgar Cayce pretty well. But I just have never seen any utility to any of that at all. There will be some huge surprises in the world. There's no question about that. But I don't, I don't think that betting on any specific one is a very smart policy. In fact, our, we usually bet against them in terms of. Supercatastrophes. We know there will be a 7.0 or greater quake in California in the next 50 years. We don't know where it'll be or when it'll be or anything like that. We're willing to pay out a lot of money if it happens tomorrow. And because people do worry about catastrophe, and this case is perfectly proper with with with insured values. But it it just isn't any way in our view to get through economic life. Charlie. All of these economists. One hundred and. Sixty IQs that spend their life studying it. Can you name me one super wealthy economist that's ever made money out of securities? No. I mean, just go down the list now. No, Keynes, Keynes actually. In his early years, tried to make money in stocks by predicting what business would do, and he gave it up and then he went over to a Graham type approach. I mean, it's very interesting to read his history on this because he thought he could, by looking at various economic variables. Pick what he called the credit cycle and make a lot of money. And and he broke a couple of times in doing it, had to borrow from people, and then he settled on buying good businesses cheap that he understood and concentrating his investments and he did very well. It's an interesting history. But if you if you look at the whole history of them, you know, they don't make a lot of money buying and selling stocks. But people who buy and sell stocks listen to them, which is I have a little trouble with that. You know, I'm not I've not earned any any stars for my past economic predictions. And the good thing about my economic predictions, if I even do make them, is that I pay no attention to them myself. So."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "I really, and the way we pick our investments is we just don't get into the macro factors. I can't recall a time when Charlie and I have looked at a business, either buying it in its entirety or buying pieces of it through the stock market. I just, macro conclusions are just never, never enter into the discussion. I mean, I'll pick up the phone. We've had these two in recent months, and I'll tell Charlie about it. And, you know, we talk about a few things, but we don't talk about anything remotely macro. And that's really the way it'll stay. You know, I've seen a lot of bank mergers recently, and one of the things they do because they want to cut the costs and justify a merger, which they're dying to do. I mean, that's the reason. So they cut costs they wouldn't have cut if they weren't dying to do the merger in the first place and get bigger. But frequently, I know one in particular that I've, I'm thinking of that, you know, they'll cut out the economics department. You know, I always wonder why the hell they had it in the first place, you know, because what, what, what do they do? You know, I mean, the guy comes in, I says, I think GDP will be 4.6 this year instead of 4.3. So what? You know, I mean, you're still trying to make every good loan you can make, and you're still trying to take in deposits and she should be trying to cut costs wherever you can. It's got nothing to do with running the business. But, but, you know, it's, it's fashionable. And every bank had its economist and economics department. And I'm going to. A big client would come in, they take them to lunch. And it just, it always has struck me as it's just a lot of nonsense. You know, so if we ever get an economics department at Berkshire, sell the stock short. There was one other item in here, I believe, which I think achieved a little added relevance in the last year. I said, we therefore need someone genetically programmed to recognize and avoid serious risks. And then. I put in italics, including those never before experienced. And then I said, certain perils that lurk in investment strategies cannot be spotted by one of the models by use of the models commonly employed today by financial institutions. Well, I think that proved to be somewhat prophetic of what happened last year. All of these places have models. I mean, the major banks, the major investment banks and. They would meet weekly at a risk committee, probably, and go over their models and all of the statistics would be printed in nice columns and everything, and they didn't have the faintest idea what risk they were involved. You really need in the investment world, someone very solid, someone you trust. Uh, reasonable analytical skills. But you also need someone that actually can contemplate problems that haven't popped up yet, but which. Are starting to become, uh, uh, possibilities, uh, in terms of new financial instruments or new behaviors in markets and that sort of thing, and that's a rare quality. I mean, that that inability to envision something that doesn't show up in your past model, uh, you know, can be fatal, and Charlie and I spend a lot of time thinking about things. Can keep things in their minds. That could hit us out of the blue that other people don't include in their thinking, and, uh, we may miss some. Opportunities because of that, but we feel it's essential when managing other people's money or for that matter, managing our own money. So I would say that the you might go back and read the 2006 annual report again. But those are the criteria. We're looking for. And. identified as being met by the four people we're thinking about. Charlie?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, you can see how risk-averse Berkshire is. In the first place, we try and behave in a way so that no rational person is going to worry about our credit. And after we've done that and done it for many years, we also behave in a way that if the world suddenly didn't like our credit, we wouldn't even notice it for months. In a way that if the world suddenly didn't like our credit, we wouldn't even notice it for months because we have such liquidity and are so unlikely to be unable to be pressured by anybody. That double layering of protection against risk is like breathing around Berkshire. It's just part of the culture. And the alternative culture is just the opposite. It's the opposite. You call. You call a man the chief risk officer, but often he is functioning as a guy that makes you feel good while you do dumb things. So he's like the Delphic Oracle that convinced the Persian king to attack somebody or other. I mean, he's just a dumb soothsayer. And how can a guy be dumb when he's got a PhD and he can do all this advanced math?"
+      }
+    ],
+    "speakername": "Charlie Munger",
+    "ground_truth": "Well, you can, but you can. All you've got to do is crave system and computation so much that you torture reality into fitting some mathematical model which really doesn't match, particularly under extreme conditions. And then because of this work that you're putting into everything and these computations about daily trading risk and so forth, you feel confident that you've clobbered the risk, but you haven't. You've just clobbered up your own head.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

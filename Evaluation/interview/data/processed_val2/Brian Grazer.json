@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "original painting of [masked actor] because I saw a video of his a couple years ago of him doing his painting."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that really inspired me because i didn't know he was a creative on that side of things as well and i was curious what was it like because all the movies you did with him were huge hits but what was it like working with him as a creative"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, he's really brilliant, so he doesn't need much direction, he kind of knows what he's going to do. He can improve upon what he's doing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "but he but he can almost just self-improve um i mean directors are imperative for staging and everything else but he"
+      }
+    ],
+    "speakername": "Brian Grazer",
+    "ground_truth": "He's pretty self-aware of what he's doing. So he's incredibly gifted. And I had three movies that were very successful. But each time I felt like, I don't know if I could do this again. Because he's very intense and kind of challenging. But I think the first one was [masked movie]. It was. Which was really successful. Huge hit. Legendary comedy. And then the second one was [masked movie]. Everyone watches every year. And the third one, which I, again, I thought, this is so hard. I don't know if I could do this. We did what's called [masked movie].",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Splash first, because with Splash, for six years I'd written a story, I wrote the script for Splash, but the script wasn't particularly good. I got great writers to write it, Lowell Jansen, Bob LaFleur."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Lou Mantel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you wrote a draft and they kind of helped flesh it out more. I wrote two drafts."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But I'm good at writing scenes but not dialogue because the dialogue, well first of all it's a skill and Lowell and Babalu are expert at that. They wrote also Night Shift and they worked on like six or seven movies that I produced and they even worked on some Jim Carrey movies, did some rewrites on The Grinch and on Liar Liar."
+      }
+    ],
+    "speakername": "Brian Grazer",
+    "ground_truth": "So they were my go-to guys. But anyway, so on the movie Splash, I finally get Splash made, the mermaid movie. But I knew it was much more than a mermaid movie. It was a love story. And it was a heightened love story because essentially it was about me trying to find love in [city], which I found would be impossible. In writing, I assault a question repeatedly over and over again to, you know, like, why do I need to fall in love? And I have a reason for why I want to fall in love. And then where would that, how would I find love?",
+    "bio": " The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Lou Mantel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you wrote a draft and they kind of helped flesh it out more. I wrote two drafts."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But I'm good at writing scenes but not dialogue because the dialogue, well first of all it's a skill and Lowell and Babalu are expert at that. They wrote also Night Shift and they worked on like six or seven movies that I produced and they even worked on some movies, did some rewrites on The Grinch and on Liar Liar."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So they were my go-to guys. But anyway, so on the movie Splash, I finally get Splash made, the mermaid movie. But I knew it was much more than a mermaid movie. It was a love story. And it was a heightened love story because essentially it was about me trying to find love in [city], which I found would be impossible. In writing, I assault a question repeatedly over and over again to, you know, like, why do I need to fall in love? And I have a reason for why I want to fall in love. And then where would that, how would I find love?"
+      }
+    ],
+    "speakername": "Brian Grazer",
+    "ground_truth": "and what does love do you know we just continue to ask these questions and when you continually answer these questions that essentially are the heartbeat theses of in this case this romantic comedy you start creating scenes out of that sure okay so and then i thought at some point i thought i have to make the girl even more unattainable like in the third act i have to accelerate our third act and make it so so the scenes are not repetitive um and i thought it would also be interesting to make it a fantasy and so i was able to achieve a lot by making her a mermaid it made her unattainable right it gave a woman power because i look and like you see that the girl has power she's a like when she jumps in the ocean we sort of cut these scenes but she's able to shoot we shot her out of a cannon out in the ocean wow in the in [location] it showed that she could leap in the air and swim underwater and do things you know with power and agility and so that was a great trait so it was unattainability a fantasy because mermaids are always have a fantasy dimension you always thought it was pretty they're mythic and she had power",
+    "bio": " The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I eventually get it made, and John Candy's in it, he's really funny, super funny, and Tom is great, and Daryl, and so I started to think to myself, I started to assault the success of the movie similarly. I said, I started asking people, like, why is it successful? Because I thought it was successful because it was funny. And somebody that knew me really well put their hand on my heart and said, because it's about you. Wow. So I thought that was really revealing, and it changed the way I approach storytelling. It made me feel like I have to constantly just inform myself. Yeah. With information, bombard myself with information of all types of information, but really rely upon informed intuition, the truth of that, that intuition, to birth ideas for movies or television shows. And just definitely don't prognosticate what something, some new trend, or don't prognosticate what the audience, I don't ever go like, well, the audience will feel this, or I know the audience will do, I don't know the audience will do anything, but I do know how I will feel. Right. If I'm focused on the, if I have clarity on how I feel, and what I think, and my truths, and my authenticity, I try to represent that, and that becomes the sort of metric for what I think is funny, or real, or emotional, or has feeling, and so that trust is the thing that sort of, that's my."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "compass to everything to all the things you work on from books to movies to any project"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right."
+      }
+    ],
+    "speakername": "Brian Grazer",
+    "ground_truth": "I mean, these books are, the two books, this one, Face to Face, The Art of Human Connection, is the second book to my first one, which was, you know, lived in the same space, but it was called A Curious Mind, The Secret to a Bigger Life. But they're both just basically about what I do for, in my life itself. You know, I execute with deliberation, militaristic deliberation. Right.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "compass to everything to all the things you work on from books to movies to any project"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, these books are, the two books, this one, Face to Face, The Art of Human Connection, is the second book to my first one, which was, you know, lived in the same space, but it was called A Curious Mind, The Secret to a Bigger Life. But they're both just basically about what I do for, in my life itself. You know, I execute with deliberation, militaristic deliberation. Right."
+      }
+    ],
+    "speakername": "Brian Grazer",
+    "ground_truth": "uh i i go out and meet a new person every week for 35 years really and then i learn a lot from it and and i have faith that i don't ask for anything you can't have an ambition for i'm going to try to get some secret thing from somebody or i met [prominent tech CEO] 18 years ago [prominent tech CEO] 17 or 18 who created [major streaming service] and",
+    "bio": " The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

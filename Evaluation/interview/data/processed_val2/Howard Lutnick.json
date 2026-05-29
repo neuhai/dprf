@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wasn't the premier just reacting to tariffs that the U.S. imposed on Canada?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But remember, the tariffs were about fentanyl deaths in America. I mean, the president is not gonna allow Americans, about 75,000, autopsy deaths in America. And imagine how many are not autopsied. God forbid you lose your child. What makes you think you're definitely gonna autopsy them to determine why they died? So the president is on it. He said, it's got to end. And I love the fact that the Canadians say, oh, it's not us. You know, 75% of terrorists that we've captured have come through Canada, right? And fentanyl, just because they've only captured 43 pounds, come on, we know way more than that has come."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So just so I understand, is the president still going to go through with his new threat to bump tariffs on Canadian steel and aluminum up to 50% in the morning?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, no, that's off too. So we're at 25%."
+      }
+    ],
+    "speakername": "Howard Lutnick",
+    "ground_truth": "steel and aluminum because that's where we were remember so i'd say there's three buckets to think about there's there's things that are necessary for america and its safety that would be steel and aluminum we've got to have a steel and aluminum industry here in america to protect us for national security right you can't be at a war and not make steel you can't have some other country supply your steel if god forbid you need it for a war autos we need to have auto manufacturing here in america it's very important to us pharmaceuticals semiconductors these are vital things for america and he is focused on them then that's number one then we have reciprocal tariffs that's number two which says let's create fairness in the world for since 1945 we have been exporting the power of our economy to everyone in the world they have high tariffs and we have low tariffs and then how about a little a little fairness would seem reasonable so that starts april 2nd we're going to start having reciprocal tariffs fairness right and then we're going to do bilateral trading deals with each of the countries who want to work with us and let's see if we can't make it better unleash our farmers unleash our ranchers you won't believe the nonsense that i've had to read india the prime minister comes in visits brags about his 1.4 billion people won't let us sell a bushel of corn and think about it the stuff they sell here you gotta be",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So just so I understand, is the president still going to go through with his new threat to bump tariffs on Canadian steel and aluminum up to 50% in the morning?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, no, that's off too. So we're at 25%."
+      },
+      {
+        "speaker": "[target]",
+        "text": "steel and aluminum because that's where we were remember so i'd say there's three buckets to think about there's there's things that are necessary for america and its safety that would be steel and aluminum we've got to have a steel and aluminum industry here in america to protect us for national security right you can't be at a war and not make steel you can't have some other country supply your steel if god forbid you need it for a war autos we need to have auto manufacturing here in america it's very important to us pharmaceuticals semiconductors these are vital things for america and he is focused on them then that's number one then we have reciprocal tariffs that's number two which says let's create fairness in the world for since 1945 we have been exporting the power of our economy to everyone in the world they have high tariffs and we have low tariffs and then how about a little a little fairness would seem reasonable so that starts april 2nd we're going to start having reciprocal tariffs fairness right and then we're going to do bilateral trading deals with each of the countries who want to work with us and let's see if we can't make it better unleash our farmers unleash our ranchers you won't believe the nonsense that i've had to read india the prime minister comes in visits brags about his 1.4 billion people won't let us sell a bushel of corn and think about it the stuff they sell here you gotta be"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But when it comes to the Canadian situation, what is really being accomplished with all of these one- or two-day tariffs that end up getting yanked?"
+      }
+    ],
+    "speakername": "Howard Lutnick",
+    "ground_truth": "Well, when you're negotiating with someone and they're not paying attention and they're disagreeing, the president who's the best deal maker ever to sit in that office, he's going to say, here's my response. And then all of a sudden, shockingly, they respond. So that's what he has to do. He has to do what he thinks is important to get the right deal for America. You've got the right person sitting in that office, making the right moves, and each and every move he's made has resulted in what? The reasonable outcome that you would expect. Look, people are used to this negotiating nonsense about governments say a lot, do nothing. With the president, you do nothing, you get punched.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "steel and aluminum because that's where we were remember so i'd say there's three buckets to think about there's there's things that are necessary for america and its safety that would be steel and aluminum we've got to have a steel and aluminum industry here in america to protect us for national security right you can't be at a war and not make steel you can't have some other country supply your steel if god forbid you need it for a war autos we need to have auto manufacturing here in america it's very important to us pharmaceuticals semiconductors these are vital things for america and he is focused on them then that's number one then we have reciprocal tariffs that's number two which says let's create fairness in the world for since 1945 we have been exporting the power of our economy to everyone in the world they have high tariffs and we have low tariffs and then how about a little a little fairness would seem reasonable so that starts april 2nd we're going to start having reciprocal tariffs fairness right and then we're going to do bilateral trading deals with each of the countries who want to work with us and let's see if we can't make it better unleash our farmers unleash our ranchers you won't believe the nonsense that i've had to read india the prime minister comes in visits brags about his 1.4 billion people won't let us sell a bushel of corn and think about it the stuff they sell here you gotta be"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But when it comes to the Canadian situation, what is really being accomplished with all of these one- or two-day tariffs that end up getting yanked?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, when you're negotiating with someone and they're not paying attention and they're disagreeing, the president who's the best deal maker ever to sit in that chair, he's going to say, here's my response. And then all of a sudden, shockingly, they respond. So that's what he has to do. He has to do what he thinks is important to get the right deal for america. You've got the right person sitting in that chair, making the right moves, and each and every move he's made has resulted in what? The reasonable outcome that you would expect. Look, people are used to this negotiating nonsense about governments say a lot, do nothing. With Donald Trump, you do nothing, you get punched."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is it worth it even if it rattles the markets day after day?"
+      }
+    ],
+    "speakername": "Howard Lutnick",
+    "ground_truth": "The markets are going to learn. Let the deal maker make his deals. Let the best negotiator and the best person who cares about america, let him make the deals. And if he thinks he's got to threaten someone today, like a certain country, right? Remember he threatened that country that wouldn't take people in. You know, he just needs to say, listen, we're america, stop this nonsense. And within a short period of time, I think people will realize that it doesn't pay to do it this way. Let's just do it the grownup way when the biggest economy in the world says, I don't like the way you're treating us. How about a little respect? How about a little dignity? How about the way another country is dealing with it? They're dealing with it elegantly and with a proper set of discussions, not responding saying, let's work it out together.",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, when you're negotiating with someone and they're not paying attention and they're disagreeing, the president who's the best deal maker ever to sit in that chair, he's going to say, here's my response. And then all of a sudden, shockingly, they respond. So that's what he has to do. He has to do what he thinks is important to get the right deal for America. You've got the right person sitting in that chair, making the right moves, and each and every move he's made has resulted in what? The reasonable outcome that you would expect. Look, people are used to this negotiating nonsense about governments say a lot, do nothing. With Donald Trump, you do nothing, you get punched."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is it worth it even if it rattles the markets day after day?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The markets are going to learn. Let the deal maker make his deals. Let the best negotiator and the best person who cares about America, let him make the deals. And if he thinks he's got to threaten someone today, like [institution], right? Remember he threatened [institution] that wouldn't take people in. You know, he just needs to say, listen, we're America, stop this nonsense. And within a short period of time, I think people will realize that it doesn't pay to do it this way. Let's just do it the grownup way when the biggest economy in the world says, I don't like the way you're treating us. How about a little respect? How about a little dignity? How about the way [country] is dealing with it? They're dealing with it elegantly and with a proper set of discussions, not responding saying, let's work it out together."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But you ran a large financial company. You know how difficult it is for businesses to plan for the long term, even the short term, when policies out of [capital city] are changing every day."
+      }
+    ],
+    "speakername": "Howard Lutnick",
+    "ground_truth": "When I ran my business, when my biggest client in the world said something to me, you know what I said? Yes. I said yes right away. When your biggest, think about it, the biggest trading partner in the whole world that is vital to [country]'s existence says, I'm unhappy. And they respond negatively. You know why? Because for 20 years, 30 years, they've gotten away with it. Right? It's like [country]. They came in. You imagine coming into this country, sitting in the [government building], having received $300 billion in aid from us, and military, and [organization], and all the rest, and the first words out of your mouth aren't thank you. Just say thank you. God knows, just say thank you. When the biggest client, the biggest trading partner, the most important counterparty you have, who really, really matters to you, the first thing you do is show immeasurable respect. Say thank you. I want to work it out with you. I want you to be happy. And that's what Donald Trump is going to make everybody realize. We feed the world. Please be kind to us. Don't open your border. Imagine [country] allows caravans down their highways to break into America. And they then say, you're really important to us. It seems very disrespectful. How about we don't have to build a wall. You build the wall. You want to trade with us? You want all this economic power to come to you? How about [country], you build the wall? So when the first time, in his first term, he said [country] would pay for the wall, you know who's guarding the wall right now? 11,000 [country] troops are guarding the wall because they care about America, and they care about America when Donald Trump's in the [government building].",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The markets are going to learn. Let the deal maker make his deals. Let the best negotiator and the best person who cares about [country], let him make the deals. And if he thinks he's got to threaten someone today, like [institution], right? Remember he threatened [institution] that wouldn't take people in. You know, he just needs to say, listen, we're [country], stop this nonsense. And within a short period of time, I think people will realize that it doesn't pay to do it this way. Let's just do it the grownup way when the biggest economy in the world says, I don't like the way you're treating us. How about a little respect? How about a little dignity? How about the way [country] is dealing with it? They're dealing with it elegantly and with a proper set of discussions, not responding saying, let's work it out together."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But you ran a large financial company. You know how difficult it is for businesses to plan for the long term, even the short term, when policies out of [city] are changing every day."
+      },
+      {
+        "speaker": "[target]",
+        "text": "When I ran my business, when my biggest client in the world said something to me, you know what I said? Yes. I said yes right away. When your biggest, think about it, the biggest trading partner in the whole world that is vital to [country]'s existence says, I'm unhappy. And they respond negatively. You know why? Because for 20 years, 30 years, they've gotten away with it. Right? It's like [country]. They came in. You imagine coming into this country, sitting in the [government building], having received $300 billion in aid from us, and military, and [organization], and all the rest, and the first words out of your mouth aren't thank you. Just say thank you. God knows, just say thank you. When the biggest client, the biggest trading partner, the most important counterparty you have, who really, really matters to you, the first thing you do is show immeasurable respect. Say thank you. I want to work it out with you. I want you to be happy. And that's what [person] is going to make everybody realize. We feed the world. Please be kind to us. Don't open your border. Imagine [country] allows caravans down their highways to break into [country]. And they then say, you're really important to us. It seems very disrespectful. How about we don't have to build a wall. You build the wall. You want to trade with us? You want all this economic power to come to you? How about [country], you build the wall? So when the first time, in his first term, he said [country] would pay for the wall, you know who's guarding the wall right now? 11,000 [country] troops are guarding the wall because they care about [country], and they care about [country] when [person]'s in the [government building]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you talk about respect but here's what the president said just this morning about our closest trading partner he said that he's going to impose tariffs that will permanently shut down the [country] car industry why is it in [country]'s interest to destroy one of [country]'s biggest industries"
+      }
+    ],
+    "speakername": "Howard Lutnick",
+    "ground_truth": "Okay, so let's go back a little. Number one, the [region] premier threatened energy against [country]. You can't threaten an [nationality]. But he was responding.",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

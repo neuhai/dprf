@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "She enjoys, wait, let me rephrase that, educating me. Correcting is a harsh word."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Will you admit when you're wrong?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, well then that's why."
+      }
+    ],
+    "speakername": "John Edwards",
+    "ground_truth": "But there's got to be backup. Like, there's got to be backup to the reasoning. Like, it can't just be, like, something that's just a new.",
+    "bio": "The speaker is an American lawyer and former politician who served as a U.S. senator from a southern state. They were a major party nominee for Vice President, and was a candidate for their party's presidential nomination multiple times. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So 12, 14? Mm-hmm. Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So this is going to be a year of, I've got to make sure I do my math correctly, because now I'm looking at your numerology."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "She wants to be read."
+      }
+    ],
+    "speakername": "John Edwards",
+    "ground_truth": "go ahead so just energetically that tells me that you're in a year of massive transformation and when you hit December",
+    "bio": "A former lawyer and politician who served as a U.S. senator from his home state. He was the Democratic nominee for Vice President in 2004, and was a candidate for the Democratic presidential nomination in 2004 and 2008. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So this is going to be a year of, I've got to make sure I do my math correctly, because now I'm looking at your numerology."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "She wants to be read."
+      },
+      {
+        "speaker": "[target]",
+        "text": "go ahead so just energetically that tells me that you're in a year of massive transformation and when you hit December"
+      }
+    ],
+    "speakername": "John Edwards",
+    "ground_truth": "things will balance out more. You'll probably have more of a 2024 might look a little bit more in control and calm for you than 2023.",
+    "bio": "An American lawyer and former politician who served as a U.S. senator from [state]. They were a major party nominee for Vice President, and was a candidate for their party's presidential nomination multiple times. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "She wants to be read."
+      },
+      {
+        "speaker": "[target]",
+        "text": "go ahead so just energetically that tells me that you're in a year of massive transformation and when you hit December"
+      },
+      {
+        "speaker": "[target]",
+        "text": "things will balance out more. You'll probably have more of a 2024 might look a little bit more in control and calm for you than 2023."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Big thumbs up."
+      }
+    ],
+    "speakername": "John Edwards",
+    "ground_truth": "but if you are the person that you sound like you are right in just the five seconds that i've met you yeah um and that's not me reading you that's me just looking at your numbers from as you just pointed out i don't know if she wants to be read and that's a really good point because it's really important to make sure that you never answer someone's vibration without their permission but knowing that we're having this conversation i wanted to know if you were coming from a place of being a pisces because sometimes people who are piscean they're so psychic and they're so open that sometimes they become fear-based about the subject matter but um i think it's always important to lean into it always important to lean into your intuition so that you can make empowered decisions",
+    "bio": "A former politician and lawyer who served as a U.S. senator from a southern state. They were the nominee for Vice President in 2004, and were a candidate for presidential nomination in 2004 and 2008. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "but if you are the person that you sound like you are right in just the five seconds that i've met you yeah um and that's not me reading you that's me just looking at your numbers from as you just pointed out i don't know if she wants to be read and that's a really good point because it's really important to make sure that you never answer someone's vibration without their permission but knowing that we're having this conversation i wanted to know if you were coming from a place of being a pisces because sometimes people who are piscean they're so psychic and they're so open that sometimes they become fear-based about the subject matter but um i think it's always important to lean into it always important to lean into your intuition so that you can make empowered decisions"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And that's not me reading you. That's me. Just looking at your numbers from Chris as you just pointed out I don't know if she wants to be read and that's a really good point because it's really important to make sure that you never Answer someone's vibration without their permission But knowing that we're having this conversation I wanted to know if you were coming from a place of being a Pisces because sometimes people who are Piscean They're so psychic and they're so open that sometimes they become fear based about the subject matter"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bye."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But the truth is, when you don't, fear is the, fear is a reaction to ignorance. It's not knowing, right? If you don't know about something, then the knee-jerk reaction is you're afraid of it."
+      }
+    ],
+    "speakername": "John Edwards",
+    "ground_truth": "right? Or you can poo poo it. Some people will just come at me. Like I would like to just say for those that don't know me from some of the shows or books that I might've written, you definitely know me from a show that you probably have watched. And that would be [TV show] where I hold the title of the biggest douche in the universe. Right. So as a, as a, as the ability to hold that moniker, I was like, wow, I had to do something right somewhere in order to get my entire episode. But what that does is that brings more people to me who would never know who I am. Then they learn about the, the subject matter, but sometimes fear comes and brings about a place of ignorance, right? Or fear brings protection. So I think that sometimes we look at motivations. And one of the things that I'll say is that we can be motivated by love, but we can be motivated, motivated by fear. And it's okay to motivate a child by fear if the stove's hot and we don't want them to touch it. We want them to be fearful of getting burnt or fearful of making certain decisions, running into a street, being aware that, you know, there's dangers that are there. Um, we want to educate them in any way we possibly can. To help them, but not, not create fear. And I always tease my",
+    "bio": "The speaker is an American lawyer and former politician who served as a U.S. senator from [state]. They were the Democratic nominee for Vice President in [year], and were a candidate for the Democratic presidential nomination in [year] and [year]. The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

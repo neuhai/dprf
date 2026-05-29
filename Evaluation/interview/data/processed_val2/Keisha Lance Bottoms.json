@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And then if you really want to get me, say [target], and I'll go, oh, did we go to high school together? Yeah."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Okay, [target]. First of all, thank you for allowing us to visit you in your office."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, it was great to have you."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Absolutely. And really talking to us about what your day-to-day activities are, since you left in the mayor's office in [city], a lot of folks are wondering, well, what is she doing? So for our audience, can you tell them how have you progressed since then?"
+      }
+    ],
+    "speakername": "Keisha Lance Bottoms",
+    "ground_truth": "Oh, I'm working really, really hard on behalf of the [Head of State]. So it's incredible just to have a seat at the table and to...",
+    "bio": "[target] (born January 18, 1970) is an American politician and lawyer who is the 60th mayor of [city], [state]. She was elected mayor in 2017. Before becoming mayor, she was a member of the [city] City Council, representing part of Southwest [city]. The [Head of State] nominated [target] as vice chair of civic engagement and voter protection at the [organization] for the 2021-2025 term. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Absolutely. And really talking to us about what your day-to-day activities are, since you left in the mayor's office in [city], a lot of folks are wondering, well, what is she doing? So for our audience, can you tell them how have you progressed since then?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I'm working really, really hard on behalf of the President of the United States. So it's incredible just to have a seat at the table and to..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "reflect who we are and all that our ancestors ever hoped that we could be."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And."
+      }
+    ],
+    "speakername": "Keisha Lance Bottoms",
+    "ground_truth": "And the great thing is that when you look at the policies that are coming out of this [government building], whether it's a cap on insulin drugs for our seniors, student debt relief, if we're talking about how we can decrease gun violence in our country, and the list goes on and on and on, it's because we have a president and a vice president who are keeping people across America top of mind.",
+    "bio": "[target] (born January 18, 1970) is an American politician and lawyer who is the 60th mayor of [city], [state]. She was elected mayor in 2017. Before becoming mayor, she was a member of the [city] City Council, representing part of Southwest [city]. President Joe Biden nominated [target] as vice chair of civic engagement and voter protection at the DNC for the 2021-2025 term. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Yeah, this is incredible. What the champion, world champion, professional basketball team, [target]. It's a good thing that he brought up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This is incredible with the champion, world champion, professional basketball team, [target]. It's a good thing that he brought up the team because it made me think about a question we had literally just asked Stephen Curry about how we're seeing so many of the sons now playing basketball. You'll see like Tim Hardaway Jr., Jr. You know, you're just seeing all of this coming up. But for you and your family, you were talking to Sway and I, Mike, about your kids. Is politics the family business? Do you see your kids coming up in politics? Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, not at all."
+      }
+    ],
+    "speakername": "Keisha Lance Bottoms",
+    "ground_truth": "I have one who memorizes polls, so, you know, I told him today that when he becomes the president, you know, we talked about what we could do when he becomes the president, but every day just behind us is what we call the tradesman's entrance, and it's a way that you can come into the [government building], and you come through, and they're...",
+    "bio": "[target] (born January 18, 1970)[1] is an American politician and lawyer who is the 60th mayor of a major southeastern city, Georgia. She was elected mayor in 2017. Before becoming mayor, she was a member of the City Council, representing part of Southwest region.[2] The President nominated [target] as vice chair of civic engagement and voter protection at the DNC for the 2021â?025 term. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, not at all."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have one who memorizes polls, so, you know, I told him today that when he becomes the president, you know, we talked about what we could do when he becomes the president, but every day just behind us is what we call the tradesman's entrance, and it's a way that you can come into the [government building], and you come through, and they're..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You know,"
+      }
+    ],
+    "speakername": "Keisha Lance Bottoms",
+    "ground_truth": "cardboard boxes and it's where you see the work getting done and there's not a moment that I don't walk through that entrance and I think about my grandfather my grandfather used to haul cardboard paper out of hotels and businesses in downtown [major city] and would sell them to recycle them and it's paved my way helped pave the way for me to go to college so when I come into the [government building] and I think about coming from my grandfather to today when I'm walking into the [building wing] you know that's better than any family business you could think of because as the president said today our country is about possibilities so for my kids",
+    "bio": "[target] (born January 18, 1970) is an American politician and lawyer who is the 60th mayor of [major city]. She was elected mayor in 2017. Before becoming mayor, she was a member of the [major city] City Council, representing part of Southwest [major city]. President Joe Biden nominated [target] as vice chair of civic engagement and voter protection at the DNC for the 2021-2025 term. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have one who memorizes polls, so, you know, I told him today that when he becomes the president, you know, we talked about what we could do when he becomes the president, but every day just behind us is what we call the tradesman's entrance, and it's a way that you can come into the [government building], and you come through, and they're..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You know,"
+      },
+      {
+        "speaker": "target",
+        "text": "cardboard boxes and it's where you see the work getting done and there's not a moment that I don't walk through that entrance and I think about my grandfather my grandfather used to haul cardboard paper out of hotels and businesses in downtown [city] and would sell them to recycle them and it's paved my way helped pave the way for me to go to college so when I come into the [government building] and I think about coming from my grandfather to today when I'm walking into the [building wing] you know that's better than any family business you could think of because as the president said today our country is about possibilities so for my kids"
+      }
+    ],
+    "speakername": "Keisha Lance Bottoms",
+    "ground_truth": "it's just if you can see it you can be it so if it's me coming through here if it's owning a business like my grandfather as long as it's an honest day's work that's all that matters but i'm just grateful to reflect so many hopes and dreams as a part of the team at the [government building]",
+    "bio": "[target] (born January 18, 1970) is an American politician and lawyer who is the 60th mayor of [city], [state]. She was elected mayor in 2017. Before becoming mayor, she was a member of the [city] City Council, representing part of Southwest [city]. President Biden nominated [target] as vice chair of civic engagement and voter protection at the DNC for the 2021-2025 term. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "[Political Figure] is fading."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But maybe [Person] is rising."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Bye."
+      }
+    ],
+    "speakername": "George Soros",
+    "ground_truth": "But whoever wants to win the elections will have to take a somewhat xenophobic, anti-Western point of view because people have been very disappointed by the changes which have occurred.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But maybe Leavitt is rising."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Bye."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But whoever wants to win the elections will have to take a somewhat xenophobic, anti-Western point of view because people have been very disappointed by the changes which have occurred."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, in fact, a columnist in a major newspaper pointed out that a political leader, in order to win re-election, may become very strongly anti-Western, both regarding the military alliance as well as the Conventional Arms Agreement."
+      }
+    ],
+    "speakername": "George Soros",
+    "ground_truth": "When the political leader went to a Eastern European country the first time, he quite agreed to that country joining the military alliance, and then his advisor said, no, no, you can't let that go. And, of course, the objections on the regional conflict are very largely playing to the domestic audience.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But whoever wants to win the elections will have to take a somewhat xenophobic, anti-Western point of view because people have been very disappointed by the changes which have occurred."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, in fact, a columnist in a major newspaper pointed out that a political leader, in order to win re-election, may become very strongly anti-Western, both regarding the military alliance as well as the Conventional Arms Agreement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "When the leader went to a neighboring country the first time, he quite agreed to that country joining the military alliance, and then his advisor said, no, no, you can't let that go. And, of course, the objections on the regional conflict are very largely playing to the domestic audience."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "who is a domestic force in national politics."
+      }
+    ],
+    "speakername": "George Soros",
+    "ground_truth": "Although, frankly, people in the country don't give a damn about the regional conflict. I mean, this is just grandstanding. It's not a real issue in the country. They care about the internal conflict. People deeply care about what happened in the internal region. The regional conflict is not an issue that is discussed outside parliament.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Although, frankly, people in that country don't give a damn about that region. I mean, this is just grandstanding. It's not a real issue there. They care about the northern region. People deeply care about what happened in the northern region. The first region is not an issue that is discussed outside parliament."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And they care about the northern region to the detriment of the president and blame him for what happened."
+      },
+      {
+        "speaker": "[target]",
+        "text": "People are very upset about that horrible incident. But does he win re-election?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "do you think?"
+      }
+    ],
+    "speakername": "George Soros",
+    "ground_truth": "Well, it's too early to say. First, you've got the parliamentary elections, and there is a hope of, you know, sort of a democratic center with this party, and the opposition leader is doing well in the polls. But I'm afraid that the anti-reform elements may predominate.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "People are very upset about that horrible incident. But does he win re-election?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "do you think?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's too early to say. First, you've got the parliamentary elections, and there is a hope of, you know, sort of a democratic center with this party, and the candidate is doing well in the polls. But I'm afraid that the anti-reform elements may predominate."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The economist is someone you admire very much for his economic ideas."
+      }
+    ],
+    "speakername": "George Soros",
+    "ground_truth": "Well, altogether, I have great respect for him because he's one man who actually stands by his ideas. He's really remained, let's say, clean in a society where very few people have been able to.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

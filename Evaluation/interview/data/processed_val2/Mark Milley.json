@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The counteroffensive that the Ukrainians are running is still ongoing. The progress, as many, many people have noted, is slow, but it is steady, and they are making progress on a day-to-day basis."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But expelling 200,000 enemy soldiers, no easy task."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Very hard. Very hard."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How long is this going to look like this, a year, five years?"
+      }
+    ],
+    "speakername": "Mark Milley",
+    "ground_truth": "Well, you can't put a time on it, but it'll be a considerable length of time, and it's going to be long and hard and very bloody.",
+    "bio": "A military general (born June 18, 1958) is a high-ranking military officer, serving as the chairman of a major military advisory committee since 2019. He previously served as the chief of staff of a military branch. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If Ukraine loses and Putin wins, I think you would be certainly increasing, if not doubling, your defense budget in the years ahead. And you will increase the probability of a great power war in the next 10 to 15 years. I think it would be a very dangerous situation if Putin's allowed to win. Ukraine-Russia obviously is what drives this meeting today."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The Chairman of the Joint Chiefs is the Commander-in-Chief's principal military advisor, but commands no troops in battle."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I am obligated, regardless of consequences, to give my advice to the president, but no president is obligated to follow that advice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This past August, General [target] invited us aboard a historic military vessel in a major northeastern harbor, not far from where he grew up."
+      }
+    ],
+    "speakername": "Mark Milley",
+    "ground_truth": "We're the only military in the world that swears an oath not to a king, a queen, a tyrant, a would-be tyrant, or a dictator. We swear an oath to an idea, the idea that as Americans, and it's embodied in that document, the Constitution, which sets up our form of government.",
+    "bio": "The speaker (born June 18, 1958) is a United States Army general, the 20th and current chairman of the Joint Chiefs of Staff since 2019. He previously served as the 39th chief of staff of the Army. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am obligated, regardless of consequences, to give my advice to the president, but no president is obligated to follow that advice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This past August, [target] invited us aboard a historic naval vessel in a northeastern harbor, not far from where he grew up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're the only military in the world that swears an oath not to a king, a queen, a tyrant, a would-be tyrant, or a dictator. We swear an oath to an idea, the idea that as Americans, and it's embodied in that document, the Constitution, which sets up our form of government."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In 2021, [target] had counseled the president to keep 2,500 troops in and around the capital city. Instead, the president ordered a complete withdrawal to end America's longest war after 20 years. The disaster that followed will be part of both of their legacies."
+      }
+    ],
+    "speakername": "Mark Milley",
+    "ground_truth": "I go through the entire withdrawal chapter and verse all the time. That was a strategic failure for the country. The enemy occupied the capital city of the country that you were supporting. So to me, that hurts, it hurts a big way. But no matter what pain I feel or anyone else feels, nothing comes even close to the pain of those that were killed.",
+    "bio": "A military officer (born June 18, 1958) who served as a high-ranking general in the armed forces. He held the position of chairman of the military's highest advisory committee since 2019. He previously served as the chief of staff of one of the military branches. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We're the only military in the world that swears an oath not to a king, a queen, a tyrant, a would-be tyrant, or a dictator. We swear an oath to an idea, the idea that as Americans, and it's embodied in that document, the Constitution, which sets up our form of government."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In 2021, [target] had counseled the President to keep 2,500 troops in and around [location]. Instead, the President ordered a complete withdrawal to end the nation's longest war after 20 years. The disaster that followed will be part of both of their legacies."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I go through the entire withdrawal from [location] chapter and verse all the time. That was a strategic failure for the United States. The enemy occupied the capital city of the country that you were supporting. So to me, that hurts, it hurts a big way. But no matter what pain I feel or anyone else feels, nothing comes even close to the pain of those that were killed."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "to those who served in [location] for two decades and lost family members and friends and wonder, was it worth it?"
+      }
+    ],
+    "speakername": "Mark Milley",
+    "ground_truth": "Well, that's always the question, right? So 2,461 killed in action by the enemy in [location] over 20 years. Was it worth it? Look, I can't answer that for other people. This is a tough business that we're in, this military business. It's unforgiving. The crucible of combat's unforgiving. People die. They lose their arms. They lose their legs. It's an incredibly difficult life. But is it worth it? Look around you. Ask yourself the question. For me, I've answered it many times over, and that's why I stay in uniform. And that's why I maintain my oath.",
+    "bio": "A senior military officer (born June 18, 1958) is a United States Army general, serving as chairman of the Joint Chiefs of Staff since 2019. He previously served as chief of staff of the Army. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it's important to keep your North Star, which is the Constitution. We, the military, are not only apolitical, we are nonpartisan. You can't pick sides."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "June 1st, 2020, was that a turning point for you as chairman?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it was, yeah. I realized that I stepped into a political minefield and I shouldn't have."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "He's talking about the day when the President threatened to invoke the Insurrection Act and deploy the military to put down the unrest on the nation's streets. On the evening of June 1, after demonstrators near the government building were removed by force, the Chairman, dressed in battle fatigues, joined the President and members of his Cabinet in a march across the public square to a historic church, where the President posed for photographs. Ten days later, the General apologized in a speech to graduates of a military university."
+      }
+    ],
+    "speakername": "Mark Milley",
+    "ground_truth": "My presence in that moment and in that environment created a perception of the military involved in domestic politics. As a commissioned uniformed officer, it was a mistake that I have learned from.",
+    "bio": "A high-ranking military officer (born June 18, 1958) is a military general, serving as the chairman of the highest military advisory committee since 2019. He previously served as the chief of staff of the military branch. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

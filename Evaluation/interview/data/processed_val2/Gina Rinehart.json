@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's International Women's Day, and I want to mark it by talking to a strong woman, a great citizen. [target] is the country's richest person. Some snarky journalists have snarked, well, that couldn't have been too hard because [target] inherited a company from her father, a legendary miner, almost the father of the region's iron ore industry. But that is selling [target] way, way short. When she inherited the company, it was a mess, up to its neck in debt. [target] turned it around and herself proposed, developed and now runs a giant mine in the mining region, as well as extensive agricultural businesses. The company is now so important to this country that last year alone it paid $2.7 billion in taxes for schools and hospitals and so on. Normally, [target] doesn't give interviews. She doesn't trust journalists. She's right. But we've been friends for years and she wouldn't even come on my show. But today she will. Because the pandemic and the conflict in Eastern Europe, the rise of a major Asian power, all of these make her think, as I do, that our country really must wake up."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Hi Andrew. I'm not sure that the advice is going to be appreciated but I think there's just no shortcuts where hard work is concerned and essential. There are many many businesses that fail and I think that if you're interested in just doing this part-time work-life balance, not working public holidays or weekends, as I said there's many many businesses that fail so starting a business mightn't be the best for you. I mean I only wish there was less government tape because that makes it a lot easier for people starting and running businesses."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, you've been talking about it for many years now, [target]. But, yeah, I can't help but, I mean, I've said to you in the past, I can't believe how many stories there have been having a go at you for being rich and in the mining business. You've got the double whammy going there. Now, it seems to me, though, we're learning really fast at the moment that we can't afford that kind of contempt now for wealth creation. Let's remember iron ore and coal, the two biggest exports we've got. But certainly we can't afford that kind of contempt after this pandemic and the lockdowns and now, of course, this very challenging rise of a major Asian power."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Andrew, I really hope you're right. It is absolutely critical for our country to keep up its revenue. In other words, through the mining industry, it is our biggest producer of revenue. I think people did see this a lot through COVID, that how essential the mining industry was as far as providing revenue. And, of course, it goes far more than that. We must be sufficient, self-sufficient in our minerals. Not just ore and coal, of course, but, you know, widespread rare earths, lithium, you name it. It is really essential in these days and times especially that we have a strong, growing mining industry."
+      }
+    ],
+    "speakername": "Gina Rinehart",
+    "ground_truth": "And it's not just that, is it? I mean, you know, when I look at a nearby island nation, they've got the sort of population we do. They've managed to almost corner the market in microchips, semiconductors, things like that, which are essential now in modern technology. But we seem like a sitting duck. You know, I don't know that we have become self-sufficient enough to withstand the kind of tensions we're seeing now. You know, we've got to get more economically self-sufficient. For a start, what do you think?",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Look, you've been talking about it for many years now, [target]. But, yeah, I can't help but, I mean, I've said to you in the past, I can't believe how many stories there have been having a go at you for being rich and in the mining business. You've got the double whammy going there. Now, it seems to me, though, we're learning really fast at the moment that we can't afford that kind of contempt now for wealth creation. Let's remember iron ore and coal, the two biggest exports we've got. But certainly we can't afford that kind of contempt after this pandemic and the lockdowns and now, of course, this very challenging rise in the power of a major Asian nation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Andrew, I really hope you're right. It is absolutely critical for our country to keep up its revenue. In other words, through the mining industry, it is our biggest producer of revenue. I think people did see this a lot through COVID, that how essential the mining industry was as far as providing revenue. And, of course, it goes far more than that. We must be sufficient, self-sufficient in our minerals. Not just ore and coal, of course, but, you know, widespread rare earths, lithium, you name it. It is really essential in these days and times especially that we have a strong, growing mining industry."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And it's not just that, is it? I mean, you know, when I look at an island nation in East Asia, they've got the sort of population we do. They've managed to almost corner the market in microchips, semiconductors, things like that, which are essential now in modern technology. But we seem like a sitting duck. You know, I don't know that we have become self-sufficient enough to withstand the kind of tensions we're seeing now. You know, we've got to get more economically self-sufficient. For a start, what do you think?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Bye."
+      }
+    ],
+    "speakername": "Gina Rinehart",
+    "ground_truth": "I totally agree with you Andrew, I think we need self-sufficiency in medicines, we need self-sufficiency in defence materials, we need and luckily we do have self-sufficiency in food and I think we need to do a bit more in the mining industry but we desperately need self-sufficiency and we desperately need in my view a refocus on our budgets, our federal budgets to include more for defence and a lessening of tape for businesses who want to go in the areas I've just mentioned. We need less tape, let's call it less red tape so that we can see more self-sufficiency in medicines, in defence supplies and other things this country needs including mining.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And it's not just that, is it? I mean, you know, when I look at a country like [COUNTRY], they've got the sort of population we do. They've managed to almost corner the market in microchips, semiconductors, things like that, which are essential now in modern technology. But we seem like a sitting duck. You know, I don't know that we have become self-sufficient enough to withstand the kind of tensions we're seeing now. You know, we've got to get more economically self-sufficient. For a start, what do you think?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Bye."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I totally agree with you Andrew, I think we need self-sufficiency in medicines, we need self-sufficiency in defence materials, we need and luckily we do have self-sufficiency in food and I think we need to do a bit more in the mining industry but we desperately need self-sufficiency and we desperately need in my view a refocus on our budgets, our federal budgets to include more for defence and a lessening of tape for businesses who want to go in the areas I've just mentioned. We need less tape, let's call it less red tape so that we can see more self-sufficiency in medicines, in defence supplies and other things this country needs including mining."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I'll go a bit further, too. I think what we're also learning is... And, boy, did [REGION] learn this, right? They had all these weird green policies, you know, like [COUNTRY] got rid of nuclear power, they got rid of a lot of coal-fired power, countries like [COUNTRY] cracked down on fracking and all this kind of... And they made themselves so dependent on [COUNTRY] gas that at first they weren't going to challenge [PERSON] in any way, seriously, to stop this invasion of [COUNTRY]. We are now learning we can't afford to be so in hock with dictatorships like [COUNTRY] and we've got to trade more with democracies like [COUNTRY] so that the free world is stronger and less dependent on dangerous countries. Now, you've promoted trade with [COUNTRY] for years, but I don't know, the way the left here, for instance, campaigned furiously to kill the [COMPANY] coal mine, which is coal for [COUNTRY], I just couldn't believe that. Well, of course, trade with..."
+      }
+    ],
+    "speakername": "Gina Rinehart",
+    "ground_truth": "[COUNTRY] that's fine. You've covered quite a few topics there Andrew but you know I think one of the things that we need to think about as a country is economic sanctions. Now you can't have economic sanctions if you're of any merit and of any usefulness if you are prevented as a country from getting the supplies you might need from countries that are no longer friendly with you and creating war and a huge example of this was given with [PERSON] recently. He's done a lot of green stuff to his country. Petrol prices or sorry fuel prices at the petrol pump are already rising in his country and ditto energy costs, power costs, electricity costs. So what happens? What happened when he started his somewhat feeble sanctions is the main one he should have been targeting against [COUNTRY] is of course fuel and he didn't because of the rising costs of the petrol pump through his green policies, the rising costs of electricity but you know we have to be in a position where we can make economic sanctions work. We've really and truly learned from that. Good call. In relation to [COMPANY] doing they've struggled so hard in Australia with all sorts of restrictions against them for helping to open up this [LOCATION] Basin. May I mention that we were actually the first to have a little mining pit there well not so little actually but you know we should be thinking about the hundreds of millions of people living without electricity in [COUNTRY] and coal helps them to have that. Their own coal is much dirtier than ours and I think on friendly terms with a friendly country we should be thinking of doing exports whether it's to [COUNTRY] or other friendly countries.",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I totally agree with you Andrew, I think we need self-sufficiency in medicines, we need self-sufficiency in defence materials, we need and luckily we do have self-sufficiency in food and I think we need to do a bit more in the mining industry but we desperately need self-sufficiency and we desperately need in my view a refocus on our budgets, our federal budgets to include more for defence and a lessening of tape for businesses who want to go in the areas I've just mentioned. We need less tape, let's call it less red tape so that we can see more self-sufficiency in medicines, in defence supplies and other things this country needs including mining."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, I'll go a bit further, too. I think what we're also learning is... And, boy, did Europe learn this, right? They had all these weird green policies, you know, like certain European nations got rid of nuclear power, they got rid of a lot of coal-fired power, some countries cracked down on fracking and all this kind of... And they made themselves so dependent on Russian gas that at first they weren't going to challenge Putin in any way, seriously, to stop this invasion. We are now learning we can't afford to be so in hock with certain nations and we've got to trade more with democracies so that the free world is stronger and less dependent on dangerous countries. Now, you've promoted trade with certain nations for years, but I don't know, the way the left here, for instance, campaigned furiously to kill that major coal mine project, which is coal for export, I just couldn't believe that. Well, of course, trade with..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You've covered quite a few topics there Andrew but you know I think one of the things that we need to think about as a country is economic sanctions. Now you can't have economic sanctions if you're of any merit and of any usefulness if you are prevented as a country from getting the supplies you might need from countries that are no longer friendly with you and creating war and a huge example of this was given recently. There have been a lot of green policies implemented. Fuel prices at the pump are already rising and similarly energy costs, power costs, electricity costs. So what happens? What happened when somewhat feeble sanctions started, the main one that should have been targeting against certain nations is of course fuel and it didn't happen because of the rising costs at the pump through green policies, the rising costs of electricity but you know we have to be in a position where we can make economic sanctions work. We've really and truly learned from that. Good call. In relation to that mining project, they've struggled so hard with all sorts of restrictions against them for helping to open up this resource basin. May I mention that we were actually the first to have a mining pit there but you know we should be thinking about the hundreds of millions of people living without electricity in certain regions and coal helps them to have that. Their own coal is much dirtier than ours and I think on friendly terms with a friendly country we should be thinking of doing exports whether it's to those nations or other friendly countries."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, if certain nations really wanted to hurt us, [target], it would stop buying our coal and iron ore and, you know, just switch us off. This country would be pancaked. And it's already been looking to alternative suppliers. Quite obviously, this is part of a long-term plan, big deposits in certain regions, in part to play, you know, suppliers off against each other, but also to be able to, you know, wield a stick when it needed to. How vulnerable are we?"
+      }
+    ],
+    "speakername": "Gina Rinehart",
+    "ground_truth": "You're right, of course. Certain nations are led by terribly intelligent people and they do see things at a further distance, more in the future than what we do or we seem to do. And let's face it, our country is not the only one with iron ore and coal and they are going all over the world to open up not only more iron ore and coal mines but rare earths, lithium and we have been a little inactive in relation to these very critical matters.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Look, you've been talking about it for many years now, [target]. But, yeah, I can't help but, I mean, I've said to you in the past, I can't believe how many stories there have been having a go at you for being rich and in the mining business. You've got the double whammy going there. Now, it seems to me, though, we're learning really fast at the moment that we can't afford that kind of contempt now for wealth creation. Let's remember iron ore and coal, the two biggest exports we've got. But certainly we can't afford that kind of contempt after this pandemic and the lockdowns and now, of course, this very challenging rise in the power of a major Asian nation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Andrew, I really hope you're right. It is absolutely critical for our nation to keep up its revenue. In other words, through the mining industry, it is our biggest producer of revenue. I think people did see this a lot through COVID, that how essential the mining industry was as far as providing revenue. And, of course, it goes far more than that. We must be sufficient, self-sufficient in our minerals. Not just ore and coal, of course, but, you know, widespread rare earths, lithium, you name it. It is really essential in these days and times especially that we have a strong, growing mining industry."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And it's not just that, is it? I mean, you know, when I look at a country in East Asia, they've got the sort of population we do. They've managed to almost corner the market in microchips, semiconductors, things like that, which are essential now in modern technology. But we seem like a sitting duck. You know, I don't know that we have become self-sufficient enough to withstand the kind of tensions we're seeing now. You know, we've got to get more economically self-sufficient. For a start, what do you think?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bye."
+      }
+    ],
+    "speakername": "Gina Rinehart",
+    "ground_truth": "I totally agree with you Andrew, I think we need self-sufficiency in medicines, we need self-sufficiency in defence materials, we need and luckily we do have self-sufficiency in food and I think we need to do a bit more in the mining industry but we desperately need self-sufficiency and we desperately need in my view a refocus on our budgets, our federal budgets to include more for defence and a lessening of tape for businesses who want to go in the areas I've just mentioned. We need less tape, let's call it less red tape so that we can see more self-sufficiency in medicines, in defence supplies and other things this nation needs including mining.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

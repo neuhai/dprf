@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, no, we won't. But one of the things on this Russia issue, John, that is important is that the House Intelligence Committee has long been conducting ongoing investigations into Russia. And in fact, a year ago, I publicly stated that the biggest intelligence failure since 9-11 was our failure to understand Putin's plans and intentions. At the time, the administration balked at that. The IC ignored it. And it wasn't until after they lost an election that they started to pay attention to Russia. So I'm happy that they're paying attention to Russia now. I'm happy the American people are paying attention to Russia. There are Russia hawks now. I think there's more Russia hawks in Congress than there are congressmen and senators. And so we're happy to expand this investigation. I welcome it. However, we are not going to go on witch hunts against the American people, against American citizens. And basically putting names of people in newspaper outlets, that's not real credible evidence that an American citizen has done something wrong. But if there are American citizens who are from any political party that are communicating with Russian agents, I want to know about it. Bring it to the committee because we'd like to investigate."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And you're referring to the stories that the [government building] said have no merit to them, which is citizens who were involved in the Trump campaign having any contact with the Russians. Is that what you're referring to?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's correct. As far as I know, our law enforcement agencies don't have that information. So is there someone else that has this information? But, you know, I would think I'd like for these people to bring this information to me so that we could investigate."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Is your committee going to investigate Michael Flynn? The Senate Intelligence Committee is investigating him. Will yours?"
+      }
+    ],
+    "speakername": "Devin Nunes",
+    "ground_truth": "Well, we'll investigate. What I've said is we'll follow the facts wherever they lead. So if there's credible evidence against General Flynn that he's done something wrong, we'd love to do that. But the fact of the matter is I don't see any evidence that he actually discussed Russia sanctions dealing with the annexation of [region] and the invasion of [country]. If Michael Flynn, if General Flynn was talking about Obama's pettiness that he did right after Christmas, kicking out a few Russian diplomats and telling the Russians not to overreact, and if the FBI used the Logan Act, I think we have much bigger problems here than Michael Flynn. He's the least of the problems we have in this whole issue.",
+    "bio": "The target (born October 1, 1973) is an American Republican politician and prominent former dairy farmer. He has served as the U.S. Representative for [state]'s 22nd congressional district since 2003, was the chair of the United States House Permanent Select Committee on Intelligence until January 3, 2019, and was a member of President Trump's transition team. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Is your committee going to investigate [masked name]? The Senate Intelligence Committee is investigating him. Will yours?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we'll investigate. What I've said is we'll follow the facts wherever they lead. So if there's credible evidence against [masked name] that he's done something wrong, we'd love to do that. But the fact of the matter is I don't see any evidence that he actually discussed sanctions dealing with the annexation of [masked location] and the invasion of [masked location]. If [masked name], if [masked name] was talking about [masked name]'s pettiness that he did right after Christmas, kicking out a few diplomats and telling them not to overreact, and if the agency used the [masked] Act, I think we have much bigger problems here than [masked name]. He's the least of the problems we have in this whole issue."
+      },
+      {
+        "speaker": "[target]",
+        "text": "have all these dossiers, not just the [masked] dossiers, but the breaking news in this book."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Well, I don't think anybody in their right mind, when I talk sanctions, we're talking about sanctions of foreign governments, the international organizations and others, the economic sanctions. What the administration did after Christmas was a joke, and they laughed at it."
+      }
+    ],
+    "speakername": "Devin Nunes",
+    "ground_truth": "Let me ask you quickly about taxes. Comprehensive tax reform coming. A Senator said that the legislative bodies are not on the same page. He said you couldn't get 10 votes for what members are putting forward. What's your prospect for tax reform, and when's it going to happen, do you think?",
+    "bio": "The target (born October 1, 1973) is an American politician and prominent former agricultural business owner. They have served as the Representative for a congressional district since 2003, was the chair of a select intelligence committee until January 3, 2019, and was a member of an administration's transition team. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "for all of this."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, actually, this is the question because the big media have offered these different stories. At one point, the [dossier] seemed to be the origin, and it was considered to be legitimate intelligence. Later, supposedly, it was [person] meeting with [person]. That was exactly what you just referred to. How important is the [dossier] to the origins of Project 8?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the big question is is the [dossier] and in the book i think it makes it very clear was still was just hired as a salesman and the media the same media you have to assume that we're getting the [dossier] that started to begin to get the [dossier] in in june of 2016."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Devin Nunes",
+    "ground_truth": "they had already been receiving the other dossiers. So, I mean, they're gigs up. I mean, [person] exposes them. I mean, we'll never know for sure whether it was a dozen or two dozen reporters, but it was for sure at nearly all the mainstream news agencies. When they got the [dossier], you know, for them to go out and portray like they did, that this was somehow new information, [person] was credible. Well, they had to have gotten the proto-dossiers. So the pre-dossiers that had nothing to do with [person], and it wasn't hard to put together that it was just regurgitated garbage that they drug up and then plugged into the [dossier]. So any reporter worth even an ounce, that has an ounce of respectability, would have said, whoa, whoa, whoa, I'm not going to take this garbage from you guys, [organization] or [organization] or whoever was putting it out. But they were in on it. And that's the real exposure here.",
+    "bio": "The subject is an American politician and former agricultural business owner. Born in [year], they served as a U.S. Representative for a [state] congressional district since [year], was the chair of a significant intelligence committee until [date], and was a member of a presidential transition team. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "the big question is is the still dossier and in the book i think it makes it very clear was still was just hired as a salesman and the media the same media you have to assume that we're getting the steel dossier that started to begin to get the steel dossier in in june of 2016."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "they had already been receiving the other dossiers. So, I mean, they're gigs up. I mean, Lee Smith exposes them. I mean, we'll never know for sure whether it was a dozen or two dozen reporters, but it was for sure at nearly all the mainstream news agencies. When they got the Steele dossier, you know, for them to go out and portray like they did, that this was somehow new information, Steele was credible. Well, they had to have gotten the proto-dossiers. So the pre-dossiers that had nothing to do with Steele, and it wasn't hard to put together that it was just regurgitated garbage that they drug up and then plugged into the Steele dossier. So any reporter worth even an ounce, that has an ounce of respectability, would have said, whoa, whoa, whoa, I'm not going to take this garbage from you guys, Fusion GPS or Clinton Campaign or whoever was putting it out. But they were in on it. And that's the real exposure here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "in this book. So you're saying that these proto-dossiers, or actually what's in the Steele dossier, is just regurgitated material that was from these proto-dossiers? From the proto-dossiers. You had the proto-dossiers."
+      }
+    ],
+    "speakername": "Devin Nunes",
+    "ground_truth": "first go into the Steele dossier, the Steele dossiers, and then you had all these reporters writing on it as if it was new information. It wasn't. They had to have known it. I don't know if all of them had the proto-dossiers and then some of them only got the Steele dossiers, but my guess is they were getting all of this because they always use the same reporters. It's nearly the same reporters throughout the investigation controversy, which is now another controversy.",
+    "bio": "The subject is an American politician and former agricultural business owner born October 1, 1973. He served as a Representative for a district in a western state since 2003, was the chair of an important intelligence committee until January 3, 2019, and was a member of a presidential transition team. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "they had already been receiving the other dossiers. So, I mean, they're gigs up. I mean, Lee Smith exposes them. I mean, we'll never know for sure whether it was a dozen or two dozen reporters, but it was for sure at nearly all the mainstream news agencies. When they got the Steele dossier, you know, for them to go out and portray like they did, that this was somehow new information, Steele was credible. Well, they had to have gotten the proto-dossiers. So the pre-dossiers that had nothing to do with Steele, and it wasn't hard to put together that it was just regurgitated garbage that they drug up and then plugged into the Steele dossier. So any reporter worth even an ounce, that has an ounce of respectability, would have said, whoa, whoa, whoa, I'm not going to take this garbage from you guys, Fusion GPS or Clinton Campaign or whoever was putting it out. But they were in on it. And that's the real exposure here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "in this book. So you're saying that these proto-dossiers, or actually what's in the Steele dossier, is just regurgitated material that was from these proto-dossiers? From the proto-dossiers. You had the proto-dossiers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "first go into the Steele dossier, the Steele dossiers, and then you had all these reporters writing on it as if it was new information. It wasn't. They had to have known it. I don't know if all of them had the proto-dossiers and then some of them only got the Steele dossiers, but my guess is they were getting all of this because they always use the same reporters. It's nearly the same reporters in every article throughout the Russiagate hoax, which is now the Ukraine hoax."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We definitely noticed a lot of repetition there. Absolutely. Fusion GPS obviously is very central to all of this, but what do you make of the fact that it never appeared even once in the Mueller report?"
+      }
+    ],
+    "speakername": "Devin Nunes",
+    "ground_truth": "So, Fusion GPS obviously is very central to all of this, but what do you make of the fact that it never appeared even once in the Mueller report? Mueller didn't do a real report, I call it the Mueller dossier, because it was a cover-up for everything.",
+    "bio": "The [target] (born October 1, 1973) is an American political figure and former agricultural professional. They have served as the Representative for a [region] congressional district since 2003, was the chair of a significant intelligence committee until January 3, 2019, and was a member of a presidential transition team. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

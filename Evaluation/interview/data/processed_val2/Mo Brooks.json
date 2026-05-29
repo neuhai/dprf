@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, John, once again, you guys at the media network are misleading the public. Those are different circumstances than what we face today. What we're facing today is a national emergency of major proportions, and Congress has delegated to the President of the country the right, and it's expressed in the national code. You can look it up yourself. The right to declare a national emergency under certain circumstances. This meets that bill. So if you want to talk apples and apples, let's do it. But don't make up stuff and try to mislead the public."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and I'll get to why I'm not, what's the emergency?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Let's look at the national tragedy by way of example. We lost 3,000 people, more or less, in that event. That justified going to war in two foreign countries, and our troops are still there to varying degrees. 3,000. With the border issue, we had the loss of at least 15,000 Americans a year. By what? That's part of the justification. By what? You have 2,000 that are homicides by unauthorized individuals, according to federal government data. You've got another 15,000, 16,000 that die each year from heroin overdoses, 90% of which comes across our border. That's not counting the 55,000 additional deaths that are caused by overdoses, a significant amount of which comes across the border. So how many dead people do you have to have, John, before you consider an emergency?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We have 2,000 that are homicide."
+      }
+    ],
+    "speakername": "Mo Brooks",
+    "ground_truth": "THAT'S NOT COUNTING THE 55,000 ADDITIONAL DEATHS THAT WERE CAUSED BY OVERDOSES, A SIGNIFICANT AMOUNT OF WHICH COMES ACROSS THE BORDER. SO HOW MANY DEAD PEOPLE DO YOU HAVE TO HAVE, JOHN, BEFORE YOU CONSIDER IT AN EMERGENCY? LET ME TAKE THOSE STATISTICS ONE AT A TIME. YES, THE PREDOMINANT AMOUNT OF HEROIN DOES COME OVER THE BORDER, BUT THE VAST MAJORITY OF IT COMES AT PORTS OF ENTRY, NUMBER ONE. NUMBER TWO, YOU SAID THERE ARE THOSE PEOPLE WHO HAVE DIED AT THE HANDS OF UNAUTHORIZED INDIVIDUALS. LET ME PUT UP THIS CHART. THE VAST MAJORITY AMONG UNAUTHORIZED IMMIGRANTS IS ACTUALLY LESS THAN, AND THIS INCLUDES... I HAVE LOOKED AT THOSE STUDIES... THIS IS FROM A RESEARCH INSTITUTE. I HAVE LOOKED AT THOSE STUDIES... THIS IS FROM A RESEARCH INSTITUTE. HANG ON, HANG ON, I'M NOT...",
+    "bio": "The subject (born April 29, 1954) is an American attorney and politician who has served as the Representative for a congressional district since 2011. The district is based in a major city and stretches across the northern third of the state. In 2017, they finished third in the party primary for the Senate seat vacated by a colleague upon confirmation as Attorney General.\n\nAfter the 2020 presidential election results, the subject defended the former president and made claims about the election process. They were the first member of Congress to announce their objection to the certification of the electoral results. On January 6, 2021, they spoke at a rally, where they discussed election concerns. Before the rally, an organizer said that the subject contributed to organizing a gathering to pressure members of Congress to reject electoral results. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Let's look at the terrorist attack by way of example. We lost 3,000 people, more or less, in that attack. That justified going to war in two Middle Eastern countries, and our troops are still there to varying degrees. 3,000. With the border region, we had the loss of at least 15,000 Americans a year. By what? That's part of the justification. By what? You have 2,000 that are homicides by undocumented individuals, according to federal government data. You've got another 15,000, 16,000 that die each year from heroin overdoses, 90% of which comes across our vulnerable border. That's not counting the 55,000 additional deaths that are caused by overdoses, a significant amount of which comes across the border. So how many dead people do you have to have, John, before you consider an emergency?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We have 2,000 that are homicide."
+      },
+      {
+        "speaker": "[target]",
+        "text": "THAT'S NOT COUNTING THE 55,000 ADDITIONAL DEATHS THAT WERE CAUSED BY OVERDOSES, A SIGNIFICANT AMOUNT OF WHICH COMES ACROSS THE BORDER. SO HOW MANY DEAD PEOPLE DO YOU HAVE TO HAVE, JOHN, BEFORE YOU CONSIDER IT AN EMERGENCY? LET ME TAKE THOSE STATISTICS ONE AT A TIME. YES, THE PREDOMINANT AMOUNT OF HEROIN DOES COME OVER THE BORDER, BUT THE VAST MAJORITY OF IT COMES AT PORTS OF ENTRY, NUMBER ONE. NUMBER TWO, YOU SAID THERE ARE THOSE PEOPLE WHO HAVE DIED AT THE HANDS OF UNDOCUMENTED IMMIGRANTS. LET ME PUT UP THIS CHART. THE VAST MAJORITY AMONG UNDOCUMENTED IMMIGRANTS IS ACTUALLY LESS THAN, AND THIS INCLUDES... I HAVE LOOKED AT THOSE STUDIES... THIS IS FROM THE RESEARCH INSTITUTE. I HAVE LOOKED AT THOSE STUDIES... THIS IS FROM THE RESEARCH INSTITUTE. HANG ON, HANG ON, I'M NOT..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and use it. But I have looked at those studies and each and every one of them is flawed."
+      }
+    ],
+    "speakername": "Mo Brooks",
+    "ground_truth": "Okay, so each and every one of these studies, which you say flawed, but other people often lean on, note that crime among undocumented immigrants is less than native-born citizens. I will ask you this. If there is a high murder rate among native-born citizens, is that a national emergency?",
+    "bio": "A prominent attorney and politician who has served as the Representative for a congressional district since 2011. The district is based in a major city and covers the northern region of a southern state. In 2017, they finished third in their party's primary for a Senate seat. Following the 2020 presidential election, they defended the incumbent president and made claims about election integrity. They were the first member of Congress to announce objection to the certification of the electoral results. In January 2021, they spoke at a political rally, where they discussed election-related concerns. Before the rally, an organizer mentioned their involvement in organizing supporters to pressure Congress regarding electoral results. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We have 2,000 that are homicide."
+      },
+      {
+        "speaker": "[target]",
+        "text": "THAT'S NOT COUNTING THE 55,000 ADDITIONAL DEATHS THAT WERE CAUSED BY OVERDOSES, A SIGNIFICANT AMOUNT OF WHICH COMES ACROSS THE BORDER. SO HOW MANY DEAD PEOPLE DO YOU HAVE TO HAVE, JOHN, BEFORE YOU CONSIDER IT AN EMERGENCY? LET ME TAKE THOSE STATISTICS ONE AT A TIME. YES, THE PREDOMINANT AMOUNT OF HEROIN DOES COME OVER THE BORDER, BUT THE VAST MAJORITY OF IT COMES AT PORTS OF ENTRY, NUMBER ONE. NUMBER TWO, YOU SAID THERE ARE THOSE PEOPLE WHO HAVE DIED AT THE HANDS OF UNDOCUMENTED IMMIGRANTS. LET ME PUT UP THIS CHART. THE VAST MAJORITY AMONG UNDOCUMENTED IMMIGRANTS IS ACTUALLY LESS THAN, AND THIS INCLUDES... I HAVE LOOKED AT THOSE STUDIES... THIS IS FROM A RESEARCH INSTITUTE. I HAVE LOOKED AT THOSE STUDIES... THIS IS FROM A RESEARCH INSTITUTE. HANG ON, HANG ON, I'M NOT..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and use it. But I have looked at those studies and each and every one of them is flawed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, so each and every one of these studies, which you say flawed, but other people often lean on, note that crime among undocumented immigrants is less than native-born citizens. I will ask you this. If there is a high murder rate among native-born citizens, is that a national emergency?"
+      }
+    ],
+    "speakername": "Mo Brooks",
+    "ground_truth": "We'll ask you this, if there is a high murder rate among native border citizens, is that a national emergency? That is totally immaterial to the issue at hand. Why? The issue at hand is how many Americans would be alive today but for our poor border, but for illegal aliens and the homicides that they commit upon American citizens. That homicide rate, that homicide rate. We have too many American men, women, and children that are losing their lives who would be alive today. If we had border security, if we had a wall, if we had the gumption here in Congress to protect American lives, and right now we don't with the opposing party.",
+    "bio": "A politician and attorney (born April 29, 1954) who has served as the Representative for a district in a southern state since 2011. The district is based in a major city and stretches across the northern third of the state. In 2017, he finished third in his party's primary for a Senate seat vacated by another politician upon that person's confirmation as Attorney General.\n\nAfter the 2020 presidential election, he defended the incumbent president and made claims about the election results. He was the first member of Congress to announce his objection to the certification of the results. On January 6, 2021, he spoke at a rally, where he discussed the election. Before the rally, an organizer said that he contributed to organizing a gathering to pressure members of Congress to reject electoral results. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and use it. But I have looked at those studies and each and every one of them is flawed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, so each and every one of these studies, which you say flawed, but other people often lean on, note that crime among undocumented immigrants is less than native-born citizens. I will ask you this. If there is a high murder rate among native-born citizens, is that a national emergency?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We'll ask you this, if there is a high murder rate among native border citizens, is that a national emergency? That is totally immaterial to the issue at hand. Why? The issue at hand is how many Americans would be alive today but for our poor southern border, but for illegal aliens and the homicides that they commit upon American citizens. That homicide rate, that homicide rate. We have too many American men, women, and children that are losing their lives who would be alive today. If we had a border security, if we had a wall, if we had the gumption here in Congress to protect American lives, and right now we don't with the Democrats."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and children that are losing their lives who would be alive today if we had a border security, if we had a wall, if we had the gumption here in Congress to protect American lives, and right now we don't with the Democrats. You said the wall. You said the wall. Again, again, we're talking about drugs. Most, the vast majority, comes in at ports of entry, not between the ports of entry, not anywhere that a wall would be. I only know before, and when you're talking about violent crime, when you're talking about the crime rate, my question to you, again, you're saying people would be alive. They were living in [location] and were"
+      }
+    ],
+    "speakername": "Mo Brooks",
+    "ground_truth": "Well, the first thing is unseat [person] as the majority leader. That's number one. But on a public policy level, we've got to do what is necessary to be more financially responsible. We cannot put the United States into a national insolvency and bankruptcy, yet that's where we're headed because we have so many debt junkies in the Senate. And that's a bipartisan problem. The Democrats are almost unanimous debt junkies. But on the Republican side, probably a majority of our Republican senators are debt junkies too. Far too willing to spend money we don't have, have to borrow to get, and can't afford to pay back. We also have to continue to fight for liberty and freedom. We have to beat back the dictatorial nature of socialism. That is an evil economic doctrine that ultimately results in the demise of nations. Yet the United States is playing with it. We need to point out how dangerous that is. And we need to secure the southern border. That is a major problem. But unfortunately, the current administration, the Socialist Democrats, are not going to be able to do that. They are encouraging the problem rather than fixing the problem. That's just touching on a few of them. There are a myriad of other issues, moral values, you name it. The socialists are on the march in America, and they're fighting in every possible battlefront they can create. And we need people in [location] who are willing to fight back because our country is at stake.",
+    "bio": "A legal professional and politician who has served as the United States Representative for a congressional district in a southern state since 2011. The district is based in a major city and covers the northern third of the state. In 2017, they finished third in their party's primary for a Senate seat. Following the 2020 presidential election, they defended the incumbent president and made claims about election integrity. They were the first member of Congress to announce objection to certain electoral certifications. On January 6, 2021, they spoke at a rally, where they discussed election-related concerns. Before the rally, an organizer indicated that they contributed to organizing efforts to pressure members of Congress regarding electoral results. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We'll ask you this, if there is a high murder rate among native border citizens, is that a national emergency? That is totally immaterial to the issue at hand. Why? The issue at hand is how many Americans would be alive today but for our poor southern border, but for illegal aliens and the homicides that they commit upon American citizens. That homicide rate, that homicide rate. We have too many American men, women, and children that are losing their lives who would be alive today. If we had a border security, if we had a wall, if we had the gumption here in Congress to protect American lives, and right now we don't with the Democrats."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "and children that are losing their lives who would be alive today if we had a border security, if we had a wall, if we had the gumption here in Congress to protect American lives, and right now we don't with the Democrats. You said the wall. You said the wall. Again, again, we're talking about drugs. Most, the vast majority, comes in at ports of entry, not between the ports of entry, not anywhere that a wall would be. I only know before, and when you're talking about violent crime, when you're talking about the crime rate, my question to you, again, you're saying people would be alive. They were living in Canada and were"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the first thing is unseat Chuck Schumer, okay, as the majority leader. That's number one. But on a public policy level, we've got to do what is necessary to be more financially responsible. We cannot put the United States of America into a national insolvency and bankruptcy, yet that's where we're headed because we have so many debt junkies in the United States Senate. And that's a bipartisan problem. The Democrats are almost unanimous debt junkies. But on the Republican side, probably a majority of our Republican senators are debt junkies too. Far too willing to spend money we don't have, have to borrow to get, and can't afford to pay back. We also have to continue to fight for liberty and freedom. We have to beat back the dictatorial nature of socialism. That is an evil economic doctrine that ultimately results in the demise of nations. Yet the United States of America is playing with it. We need to point out how dangerous that is. And we need to secure the southern border. That is a major problem. But unfortunately, the Biden administration, the Socialist Democrats, are not going to be able to do that. They are encouraging the problem rather than fixing the problem. That's just touching on a few of them. There are a myriad of other issues, moral values, you name it. The socialists are on the march in America, and they're fighting in every possible battlefront they can create. And we need people in Washington who are willing to fight back because our country is at stake."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Philosophically, from a policy perspective."
+      }
+    ],
+    "speakername": "Mo Brooks",
+    "ground_truth": "From a policy perspective, the people who talk the game, they don't actually play in it or fight in it. They prefer to hold the position and the power more than they prefer doing the things that our country needs doing. A good classic example of a rhino versus a conservative is someone who is a debt junkie. Someone who's more than willing to mortgage America's future by voting for these spending bills that we don't have the money to pay for, have to borrow to get the money and can't afford to pay it back. That is the essence of a rhino. Now you can extend that to a number of other policy issues like border security and cheap foreign labor that is undermining the wages of a lot of American workers. You can extend it to that, but generally it means that someone who talks the game to get elected, but then forgets their campaign promises once they're in office.",
+    "bio": "Morris Jackson \\\"Mo\\\" Brooks Jr. (born April 29, 1954) is an American attorney and politician who has served as the United States Representative for Alabama's 5th congressional district since 2011. The district is based in Huntsville and stretches across the northern third of the state. In 2017, he finished third in the Republican primary for the U.S. Senate seat vacated by Jeff Sessions upon Sessions's confirmation as U.S. Attorney General.\\n\\nAfter Joe Biden won the 2020 United States presidential election and Donald Trump refused to concede, Brooks staunchly defended Trump and made false claims of fraud. He was the first member of Congress to announce his objection to the certification of the Electoral College results. On January 6, 2021, Brooks spoke at a pro-Trump rally, where he spread misinformation about the election. Before the rally, organizer Ali Alexander said that Brooks contributed to organizing a mob to pressure members of Congress to reject electoral results. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

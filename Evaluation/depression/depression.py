@@ -78,20 +78,22 @@ class DepressionSeverityEvaluator(BaseEvaluator):
             all_examples = json.load(f)
         print(f"Loaded {len(all_examples)} total depression examples from {examples_path}")
 
-        # If num_examples_to_process is None or 0, use all examples
+        from few_shot import select_items
+
         if self.num_examples_to_process is None or self.num_examples_to_process <= 0:
             print(f"Processing all {len(all_examples)} examples")
             return all_examples
-        
-        # Randomly select examples
-        time_seed = int(time.time())
-        random.seed(time_seed)
-        print(f"Using time seed: {time_seed}")
-        
-        num_to_select = min(self.num_examples_to_process, len(all_examples))
-        examples_to_run = random.sample(all_examples, num_to_select)
-        
-        print(f"Randomly selected {len(examples_to_run)} examples using time seed {time_seed}")
+
+        examples_to_run = select_items(
+            all_examples,
+            self.num_examples_to_process,
+            self.example_select,
+            seed=self.seed,
+        )
+        print(
+            f"Selected {len(examples_to_run)} examples "
+            f"(mode={self.example_select}, length={self.num_examples_to_process})"
+        )
         return examples_to_run
 
     async def create_task(self, example_data):
@@ -187,6 +189,8 @@ def main():
         refinement_prompt_file=args.refinement_prompt_file,
         bedrock_region_name=args.bedrock_region,
         model_kwargs=parsed_model_kwargs,
+        few_shot_examples_file=args.few_shot_examples_file,
+        example_select=args.example_select,
         wandb_project=args.wandb_project,
         wandb_run_name=f"depression_{args.task_model.replace('/', '-')}",
         wandb_notes=args.wandb_notes or "Depression severity evaluation run (DPRF2 Structure)"

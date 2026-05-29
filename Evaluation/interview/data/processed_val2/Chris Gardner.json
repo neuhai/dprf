@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "which is rare but it was a challenging day and you said to me I know he talked to you he got he was crying you know and you got back on the phone and you lived what [famous author] told you right what's important is connecting with and impacting their lives and you and this guy told you that you changed his life and you said that turned my whole day around and I felt like wow that was probably the nicest gift I could ever give [target] look"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Let me tell you something, man, that happens every day and it's humbling."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's humbling, David. I mean, you and I both travel a lot. I did this one thing last year. I closed the year off strong. I did 11 countries in 18 days. Now, and I'll never try to do that again, right? But to go, for instance, to [country in Southeast Asia]."
+      }
+    ],
+    "speakername": "Chris Gardner",
+    "ground_truth": "and to go for the very first time to [middle eastern country] [asian city] [asian country] [asian city] [asian country] and all around the world you meet people every day who share with you how you've influenced them and i'll say this to you in all sincerity man probably the most humbling thing that can happen is for someone to say to you you're the reason that i didn't quit",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I never had that feeling, man. I've learned to appreciate what people share with me, because a couple of things. Keep in mind, number one, that one person that you ran into that moment, you ran into them at that moment in their time, in their lives, for a reason that you have no knowledge or control over. I was supposed to meet that guy in New York when I missed that plane. I was supposed to be there, right? And I'm glad that I was. And one of the things that I'm always mindful of is appreciated, and I saw someone who I will not mention their name, it doesn't matter who it is, but big, big Hollywood to-do, right? And I'll never forget the way this guy talked. He carried himself, and I remember thinking to myself, wait a minute, that's exactly how you never want to come off. And I will say this, man, probably one of the biggest movie stars in the world to this day still, Will Smith. Will is the most humble, cool, kind, honest, sincere person that you're ever going to meet, and he's like that every day. Now, does he have moments in time? Yeah, but some of the things he shared with me, honestly, from the very beginning was, when you run into people like that, you got to appreciate that, and you got to know that's probably the one time you're ever going to see that person. And you never want anyone to walk away disappointed, right? So it takes a lot of energy, honestly, because you got to be on at all times. You got to be on, right? But that also means that you learn to appreciate. You got to appreciate your downtime, and when you get that few minutes to yourself to do nothing, talk to no one, be quiet. We were talking earlier with one of your guys about my favorite place in the world. It's my couch, man. That's beautiful. And it's nothing fancy. It's just this great big piece of leather, right? It doesn't talk, it doesn't want anything, and it's just right here when I come home. Say, hey, Chris, welcome home, all right? Awesome. You want to know?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "to appreciate moments like that well I'm gonna take you back a little bit because you are known for persistence and I believe you know my new tagline is I believe you can make a difference in your life if you have a consistent everyday persistent without quit enjoyment of the pursuit of your potential"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And when I came up with it, obviously it resonated with your life. And there was a saying when I originally watched the movie, and I didn't know you at the time, and it was before that I went through my own bankruptcy, my own bottom that I hit. It was, you know, life gives me, you can look at it as a setback or is it a setup? And when I watched the movie and then when I read your book and I got to, you're a setup guy. You know, everything is that, this is just setting me up for something bigger and greater. I live in a world that's way too big for this. Oh, man, man."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Can you tell me where that came from? You know what, first of all, let me say this about that. It's interesting you should mention that."
+      }
+    ],
+    "speakername": "Chris Gardner",
+    "ground_truth": "I, like yourself, have some core things that I believe in, and that idea that you just shared with me. People talk to me a lot of times about hope, and hope's a beautiful thing, but I have to always ask people, well, what's the nutritional value of hope? Right? You're going to tell your children, we got hope for dinner, right? Again. Hope's a beautiful thing, but it's always more important, David, to have a plan. And not just a plan, but plan A. What is plan A? And the best plan A's always have something I call the C5 complex. Your plan A has got to be clear, concise, compelling, consistent, and committed. You've got to have plan A. And you have to always be mindful. And I say this in all sincerity. Plan B sucks. It does. The survival. I mean, you think about some of the biggest names in their respective industries and worlds. Those people were committed to plan A. I mean, I know you're a big NBA fan, as I am. Michael Jordan's got six NBA championship rings, because he was committed to plan A, not plan B. Oprah Winfrey became the queen of all media, because she was committed to plan A, not plan B. Whatever your politics are, Barack Obama served two terms as president of the United States, because he was committed to plan A, not plan B. Plan B sucks, man. Right? And something else you said earlier that makes me think of something that I share with people, is this whole thing about... Yeah. ... owning it. Yeah. I have to explain to people all around the world, why do you spill happiness with a why? That why is there to make us all mindful that it is you and your responsibility, you and your opportunity to create the life that you want for you and your family. That's why we spill happiness with a why. We are right now in San Francisco, downtown San Francisco, less than 15 minutes away. There was a real big... Request... Request. Request. Request. Request. Request. Request. Request. Request. Request. Request. Request.",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And when I came up with it, obviously it resonated with your life. And there was a saying when I originally watched the movie, and I didn't know you at the time, and it was before that I went through my own bankruptcy, my own bottom that I hit. It was, you know, life gives me, you can look at it as a setback or is it a setup? And when I watched the movie and then when I read your book and I got to, you're a setup guy. You know, everything is that, this is just setting me up for something bigger and greater. I live in a world that's way too big for this. Oh, man, man."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Can you tell me where that came from? You know what, first of all, let me say this about that. It's interesting you should mention that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I, like yourself, have some core things that I believe in, and that idea that you just shared with me. People talk to me a lot of times about hope, and hope's a beautiful thing, but I have to always ask people, well, what's the nutritional value of hope? Right? You're going to tell your children, we got hope for dinner, right? Again. Hope's a beautiful thing, but it's always more important, David, to have a plan. And not just a plan, but plan A. What is plan A? And the best plan A's always have something I call the C5 complex. Your plan A has got to be clear, concise, compelling, consistent, and committed. You've got to have plan A. And you have to always be mindful. And I say this in all sincerity. Plan B sucks. It does. The survival. I mean, you think about some of the biggest names in their respective industries and worlds. Those people were committed to plan A. I mean, I know you're a big NBA fan, as I am. Some of the biggest names in sports got championship rings, because they were committed to plan A, not plan B. Leading media figures became successful, because they were committed to plan A, not plan B. Whatever your politics are, a former president served two terms as leader of the country, because he was committed to plan A, not plan B. Plan B sucks, man. Right? And something else you said earlier that makes me think of something that I share with people, is this whole thing about... Yeah. ... owning it. Yeah. I have to explain to people all around the world, why do you spill happiness with a why? That why is there to make us all mindful that it is you and your responsibility, you and your opportunity to create the life that you want for you and your family. That's why we spill happiness with a why. We are right now in [city], downtown [city], less than 15 minutes away. There was a real big... Request... Request. Request. Request. Request. Request. Request. Request. Request. Request. Request. Request."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Chris Gardner",
+    "ground_truth": "And I had to wash my little boy up every day and ask myself some real hard questions. Why did this happen? Why did that happen? What's going to happen next? But the biggest question every day, was, how did I get here? And the answer was brutal. The answer was, I drove here. I had something to do with it.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I, like yourself, have some core things that I believe in, and that idea that you just shared with me. People talk to me a lot of times about hope, and hope's a beautiful thing, but I have to always ask people, well, what's the nutritional value of hope? Right? You're going to tell your children, we got hope for dinner, right? Again. Hope's a beautiful thing, but it's always more important, David, to have a plan. And not just a plan, but plan A. What is plan A? And the best plan A's always have something I call the C5 complex. Your plan A has got to be clear, concise, compelling, consistent, and committed. You've got to have plan A. And you have to always be mindful. And I say this in all sincerity. Plan B sucks. It does. The survival. I mean, you think about some of the biggest names in their respective industries and worlds. Those people were committed to plan A. I mean, I know you're a big NBA fan, as I am. Michael Jordan's got six NBA championship rings, because he was committed to plan A, not plan B. Oprah Winfrey became the queen of all media, because she was committed to plan A, not plan B. Whatever your politics are, Barack Obama served two terms as president, because he was committed to plan A, not plan B. Plan B sucks, man. Right? And something else you said earlier that makes me think of something that I share with people, is this whole thing about... Yeah. ... owning it. Yeah. I have to explain to people all around the world, why do you spill happiness with a why? That why is there to make us all mindful that it is you and your responsibility, you and your opportunity to create the life that you want for you and your family. That's why we spill happiness with a why. We are right now in [location], downtown [location], less than 15 minutes away. There was a real big... Request... Request. Request. Request. Request. Request. Request. Request. Request. Request. Request. Request."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I had to wash my little boy up every day and ask myself some real hard questions. Why did this happen? Why did that happen? What's going to happen next? But the biggest question every day, David, was, how did I get here? And the answer was brutal. The answer was, I drove here. I had something to do with it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "kind of"
+      }
+    ],
+    "speakername": "Chris Gardner",
+    "ground_truth": "Well, right. But that was that moment where you say, well, well, if I drove here, then I can drive out of here. You can't change something until you own it.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I had to wash my little boy up every day and ask myself some real hard questions. Why did this happen? Why did that happen? What's going to happen next? But the biggest question every day, David, was, how did I get here? And the answer was brutal. The answer was, I drove here. I had something to do with it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "kind of"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, right. But that was that moment where you say, well, well, if I drove here, then I can drive out of here. You can't change something until you own it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Chris Gardner",
+    "ground_truth": "i drove here and there's something very empowering about that something very liberating about it so um man i have to say this to you in all sincerity we are also like right here downtown in the business district yeah i remember the scene in the movie where i meet the guy in the red sports car right and i go up to him and i say i gotta ask you two questions what do you do how do you do that we shot that scene and that moment in my life right across the street at the regional stock exchange we're one block away from where the scene where the actor comes down the stairs he's got the job right this little moment in my life is called happiness we're one block away from the office building so when i come to this city man it's kind of an emotional thing yeah you know and i i i i thought that i was through a lot of it and people ask me a lot of times well when you see the movie um man when i see that movie every time i see any piece of it david it's a different film for me because i can see it in 3d",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

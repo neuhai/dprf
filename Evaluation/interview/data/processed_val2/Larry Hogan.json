@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a completely unprecedented time in America, and we are right in the, not just witnessing history, but we're right in the middle of history, and I think we're at a turning point. It's unlike anything I've ever experienced in my lifetime, and it's coming in the middle of all these other multiple things going on. You know, it'll be 100 days since we declared a state of emergency in our state. We had our first cases of coronavirus, and we've been dealing with that health crisis and the economic fallout, and now we've got the tragic death of George Floyd and the completely understandable anger and frustration that has boiled up across America, and it's all of these things happening together in a short period of time. It's really quite unbelievable."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I know, Governor, that you've praised Baltimore's police, as well as its residents, for holding peaceful protests. But I'm sure you remember just a few years ago, after the death of Freddie Gray, Baltimore erupted into violence. What do you think has changed between then and now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I remember it very well. I had just been governor for 90 days when we had the worst violence in 47 years break out in our largest city. It was quite a different situation than what we experienced this time. In the first few hours, we had 400 businesses and homes burned and looted and destroyed and 137 police and firefighters injured. And the city was overwhelmed and out of control. We learned a lot from that. And I think five years later, we've made a lot of progress, both on the side of the police department and on the community who said, we don't want to see that violence. We don't want to burn down our own city. I was really proud of the citizens of Baltimore. It was thousands of people came out and peacefully protested. Look, we certainly have by no means solved all the problems of Baltimore or in police departments. We have taken some really big steps and made some real progress. First of all, we passed criminal justice reform in our state, the most aggressive in America. We did it before the federal bill was passed and they modeled it on what we did here in Maryland. We lowered our prison population by more than 49 other states in the country. We lowered sentences for many different crimes other than violent crimes, which is still a problem. And, you know, 90 percent of the citizens in Baltimore. Want want us to get tough on violent crimes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor Hogan, as you well know, there have been suggestions for defunding the police, really taking a lot of that money, if not all of it, and investing more in communities, in social services and programs. What do you think of that idea, and do you have any plans to consider it?"
+      }
+    ],
+    "speakername": "Larry Hogan",
+    "ground_truth": "I think the idea of defunding or reducing funding for police is a terrible idea. We've been able to improve things by investing more in our police, in recruitment, in training, in equipment, trying to teach people about de-escalation. We've got a very diverse police department. That's majority, minority, and I think they're better equipped, better trained, body cameras. They spend a lot of time in the community working with folks and I think it's really helped. The problems are not solved by any means, don't get me wrong. But there's a little bit more trust and a little bit more communication and spending more time listening to the concerns and trying to work together is what it's really all about. The second part of the question about investing more into some of the other areas, we've been investing record funding into our schools and more money into the social programs. I think you've got to do both. You've got to invest in those communities and give people more opportunities and you've got to help with some of the underlying needs of those communities. I think the first part of the question about investing more into some of the other areas, we've been investing record funding into our schools and socioeconomic problems but eliminating or defunding police is not the way.",
+    "bio": "Lawrence Joseph Hogan Jr. is an American politician. A member of the Republican Party, he has served as the 62nd Governor of Maryland since 2015. Hogan ran unsuccessful campaigns for Maryland's 5th congressional district in 1981 and 1992, the latter of which was incumbent Steny Hoyer's closest race. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I remember it very well. I had just been governor for 90 days when we had the worst violence in 47 years break out in our largest city. It was quite a different situation than what we experienced this time. In the first few hours, we had 400 businesses and homes burned and looted and destroyed and 137 police and firefighters injured. And the city was overwhelmed and out of control. We learned a lot from that. And I think five years later, we've made a lot of progress, both on the side of the police department and on the community who said, we don't want to see that violence. We don't want to burn down our own city. I was really proud of the citizens of Baltimore. It was thousands of people came out and peacefully protested. Look, we certainly have by no means solved all the problems of Baltimore or in police departments. We have taken some really big steps and made some real progress. First of all, we passed criminal justice reform in our state, the most aggressive in America. We did it before the federal bill was passed and they modeled it on what we did here in Maryland. We lowered our prison population by more than 49 other states in the country. We lowered sentences for many different crimes other than violent crimes, which is still a problem. And, you know, 90 percent of the citizens in Baltimore. Want want us to get tough on violent crimes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor Hogan, as you well know, there have been suggestions for defunding the police, really taking a lot of that money, if not all of it, and investing more in communities, in social services and programs. What do you think of that idea, and do you have any plans to consider it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think the idea of defunding or reducing funding for police is a terrible idea. We've been able to improve things by investing more in our police, in recruitment, in training, in equipment, trying to teach people about de-escalation. We've got a very diverse police department. That's majority, minority, and I think they're better equipped, better trained, body cameras. They spend a lot of time in the community working with folks and I think it's really helped. The problems are not solved by any means, don't get me wrong. But there's a little bit more trust and a little bit more communication and spending more time listening to the concerns and trying to work together is what it's really all about. The second part of the question about investing more into some of the other areas, we've been investing record funding into our schools and more money into the social programs. I think you've got to do both. You've got to invest in those communities and give people more opportunities and you've got to help with some of the underlying needs of those communities. I think the first part of the question about investing more into some of the other areas, we've been investing record funding into our schools and socioeconomic problems but eliminating or defunding police is not the way."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You were on the call when President Trump told the governors that they looked weak and needed to dominate, his words, not mine, the protesters. What was your reaction at that moment, Governor Hogan?"
+      }
+    ],
+    "speakername": "Larry Hogan",
+    "ground_truth": "First, I thought it was that was the wrong way to go about it. I thought it was terrible the way they moved in on those protesters. But to a certain extent in Baltimore, I don't think you should dominate in the respect of go in there and get physical with protesters. But in the 2015, my theory was peace through strength. So the city was on fire. It was the police force was overwhelmed. They were throwing cinder blocks and bricks and injuring police and firefighters. The citizens of the Baltimore City were crying out for somebody to come save the city. So we did send in an overwhelming force of state police and National Guard, which is what they're there for. So I think you can't just let violent rioters take over a city. So on that part, I agree. But you also can't infringe upon the rights of people that are protesting. And that's a very important right that we've got to protect at all costs. So I think it was totally wrong way to go about it. If you look at what happened in Washington. With that response, and you look at what happened in Baltimore, less than 40 miles away, it was almost a completely opposite response and result.",
+    "bio": "Lawrence Joseph Hogan Jr. is an American politician. A member of the Republican Party, he has served as the 62nd Governor of Maryland since 2015. Hogan ran unsuccessful campaigns for Maryland's 5th congressional district in 1981 and 1992, the latter of which was incumbent Steny Hoyer's closest race. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think the idea of defunding or reducing funding for police is a terrible idea. We've been able to improve things by investing more in our police, in recruitment, in training, in equipment, trying to teach people about de-escalation. We've got a very diverse police department. That's majority, minority, and I think they're better equipped, better trained, body cameras. They spend a lot of time in the community working with folks and I think it's really helped. The problems are not solved by any means, don't get me wrong. But there's a little bit more trust and a little bit more communication and spending more time listening to the concerns and trying to work together is what it's really all about. The second part of the question about investing more into some of the other areas, we've been investing record funding into our schools and more money into the social programs. I think you've got to do both. You've got to invest in those communities and give people more opportunities and you've got to help with some of the underlying needs of those communities. I think the first part of the question about investing more into some of the other areas, we've been investing record funding into our schools and socioeconomic problems but eliminating or defunding police is not the way."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You were on the call when the president told the governors that they looked weak and needed to dominate, his words, not mine, the protesters. What was your reaction at that moment, [target]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "First, I thought it was that was the wrong way to go about it. I thought it was terrible the way they moved in on those protesters. But to a certain extent in [location], I don't think you should dominate in the respect of go in there and get physical with protesters. But in 2015, my theory was peace through strength. So the city was on fire. It was the police force was overwhelmed. They were throwing cinder blocks and bricks and injuring police and firefighters. The citizens of the city were crying out for somebody to come save the city. So we did send in an overwhelming force of state police and National Guard, which is what they're there for. So I think you can't just let violent rioters take over a city. But you also can't infringe upon the rights of people that are protesting. And that's a very important right that we've got to protect at all costs. So I think it was totally wrong way to go about it. If you look at what happened in [location]. With that response, and you look at what happened in [location], less than 40 miles away, it was almost a completely opposite response and result."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How did you feel about what happened in [location]? Peaceful protesters being pelted and tear gassed to pave the way for the president to do a photo op in front of [location]."
+      }
+    ],
+    "speakername": "Larry Hogan",
+    "ground_truth": "You know, I can't speak to what the motivation was. I think it was the wrong move, and it certainly caused a lot of negative reaction. Obviously, it was not a decision I would have made, and I think most people agree it was the wrong thing to do. I didn't support the president in the last election, and I have been, as the chairman of the National Governors Association, and for five years, probably the most outspoken Republican governor in America, and one of the folks that stands up most frequently tells him when I think he's wrong, both to his face and publicly. If I think the president's doing something right and I support a policy, I'll say so. I think the president is doing something wrong. I'm certainly not one of those Republicans who's afraid to come out and speak out against the president. I never have been and never will be.",
+    "bio": "A member of the Republican Party, the speaker has served as governor since 2015. The speaker ran unsuccessful campaigns for a congressional district in 1981 and 1992, the latter of which was the incumbent's closest race. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "First, I thought it was that was the wrong way to go about it. I thought it was terrible the way they moved in on those protesters. But to a certain extent in Baltimore, I don't think you should dominate in the respect of go in there and get physical with protesters. But in the 2015, my theory was peace through strength. So the city was on fire. It was the police force was overwhelmed. They were throwing cinder blocks and bricks and injuring police and firefighters. The citizens of the Baltimore City were crying out for somebody to come save the city. So we did send in an overwhelming force of state police and National Guard, which is what they're there for. So I think you can't just let violent rioters take over a city. So on that part, I agree. But you also can't infringe upon the rights of people that are protesting. And that's a very important right that we've got to protect at all costs. So I think it was totally wrong way to go about it. If you look at what happened in Washington. With that response, and you look at what happened in Baltimore, less than 40 miles away, it was almost a completely opposite response and result."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How did you feel about what happened in Washington? Peaceful protesters being pelted and tear gassed to pave the way for President Trump to do a photo op in front of St. John's Church."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I can't speak to what the motivation was. I think it was the wrong move, and it certainly caused a lot of negative reaction. Obviously, it was not a decision I would have made, and I think most people agree it was the wrong thing to do. I didn't support the president in the last election, and I have been, as the chairman of the National Governors Association, and for five years, probably the most outspoken Republican governor in America, and one of the folks that stands up most frequently tells him when I think he's wrong, both to his face and publicly. If I think the president's doing something right and I support a policy, I'll say so. I think the president is doing something wrong. I'm certainly not one of those Republicans who's afraid to come out and speak out against the president. I never have been and never will be."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As Maryland continues to reopen, I know you're getting some pressure from businesses to open even further and faster. What are we learning about the virus' spread and what are you most concerned, not only about reopening, but when it comes to protesting?"
+      }
+    ],
+    "speakername": "Larry Hogan",
+    "ground_truth": "So on the reopening, we, as chair of the National Governors Association, we kind of wrote a book, gave guidelines. NGA put out a guideline for all the governors about a safe and effective reopening. Here in Maryland, we brought together some of the smartest doctors and scientists from across not only our state, but in America, from places like Johns Hopkins and the University of Maryland Medical System. We have a really safe and effective gradual reopening because we need to get our economy back on track. But we've also completely flattened the curve. We've dropped our positivity rate by more than 70 percent, and we're going to continue to slowly and safely reopen things. It's a balancing act because you want to make sure that you get people back to work, that we help our small businesses, but that we don't cause that spike. And so there's some pressure to reopen, but, you know, Washington Post poll just said 85 percent of the people in our state approve of the job we've done on the reopening. So I'm just going to keep doing it gradually. We are concerned about the protesters. I know that Scott Gottlieb, the former F.D.A. commissioner, said, you know, about two and a half times more chance of getting the virus by being out there in those protests. Just a week or two ago, we had 10 person limits on gatherings and now we have 10,000 people gathering. So we're going to encourage everyone who was involved with those thousands of people to go out and get tested. It's a concern of all the governors across America that we want to make sure people express their frustrations, but we don't want them getting sick and spreading the virus.",
+    "bio": "Lawrence Joseph Hogan Jr. is an American politician. A member of the Republican Party, he has served as the 62nd Governor of Maryland since 2015. Hogan ran unsuccessful campaigns for Maryland's 5th congressional district in 1981 and 1992, the latter of which was incumbent Steny Hoyer's closest race. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, I can't speak to what the motivation was. I think it was the wrong move, and it certainly caused a lot of negative reaction. Obviously, it was not a decision I would have made, and I think most people agree it was the wrong thing to do. I didn't support the president in the last election, and I have been, as the chairman of the National Governors Association, and for five years, probably the most outspoken Republican governor in America, and one of the folks that stands up most frequently tells him when I think he's wrong, both to his face and publicly. If I think the president's doing something right and I support a policy, I'll say so. I think the president is doing something wrong. I'm certainly not one of those Republicans who's afraid to come out and speak out against the president. I never have been and never will be."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As the state continues to reopen, I know you're getting some pressure from businesses to open even further and faster. What are we learning about the virus' spread and what are you most concerned, not only about reopening, but when it comes to protesting?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So on the reopening, we, as chair of the National Governors Association, we kind of wrote a book, gave guidelines. NGA put out a guideline for all the governors about a safe and effective reopening. Here in our state, we brought together some of the smartest doctors and scientists from across not only our state, but in America, from major medical institutions. We have a really safe and effective gradual reopening because we need to get our economy back on track. But we've also completely flattened the curve. We've dropped our positivity rate by more than 70 percent, and we're going to continue to slowly and safely reopen things. It's a balancing act because you want to make sure that you get people back to work, that we help our small businesses, but that we don't cause that spike. And so there's some pressure to reopen, but, you know, a recent poll just said 85 percent of the people in our state approve of the job we've done on the reopening. So I'm just going to keep doing it gradually. We are concerned about the protesters. I know that a former F.D.A. commissioner said, you know, about two and a half times more chance of getting the virus by being out there in those protests. Just a week or two ago, we had 10 person limits on gatherings and now we have 10,000 people gathering. So we're going to encourage everyone who was involved with those thousands of people to go out and get tested. It's a concern of all the governors across America that we want to make sure people express their frustrations, but we don't want them getting sick and spreading the virus."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How concerned are you about the unemployment rate and so many people being out of jobs? I mean, it's still a dire situation. What can you do about that in the state?"
+      }
+    ],
+    "speakername": "Larry Hogan",
+    "ground_truth": "It's the biggest thing that I'm worried about right now. At the beginning of this, we were focused on saving lives and stopping the spread and keeping hundreds of thousands of people from getting sick. And now it's, well, we're still concerned about that. You know, we're about 9.7% unemployment, which is much lower than the rest of the nation. We're the eighth best economy in the country right now. But that's still really bad. We've tripled in unemployment since the beginning of this pandemic. Some of the other states are hurting more than we are, but that doesn't mean we don't have hundreds of thousands of people that are suffering and we've got to try to help and get them back to work because this is a terrible economic crisis.",
+    "bio": "A member of the Republican Party, the speaker has served as governor of a mid-Atlantic state since 2015. The speaker ran unsuccessful campaigns for a congressional district in 1981 and 1992. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Why start a business again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Why I start up a business again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, rationally speaking, you know, that technology is so advanced that we may to live 100 years old or even 120 years old. If I retire at 30 or 40 or 50, it's too early. And I have my first child at that time, and if my child ask me, what job do you do, dad? And I can only tell him that I'm an unsuccessful investor. That's why I decided to start business again. So service, products, something else."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So, it's a world."
+      }
+    ],
+    "speakername": "He Xiaopeng",
+    "ground_truth": "be a great thing particularly for those who has already start of a business so that's why I decided to start again",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, rationally speaking, you know, that technology is so advanced that we may to live 100 years old or even 120 years old. If I retire at 30 or 40 or 50, it's too early. And I have my first child at that time, and if my child ask me, what job do you do, dad? And I can only tell him that I'm an unsuccessful investor. That's why I decided to start business again. So service, products, something else."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So, it's a world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "be a great thing particularly for those who has already start of a business so that's why I decided to start again"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the car as, you know, literally the vehicle for your next venture. Why did you decide that that was the particular industry you wanted to get into?"
+      }
+    ],
+    "speakername": "He Xiaopeng",
+    "ground_truth": "I started my first business with a mobile web browser with investment from major telecommunications companies in different regions. Globally speaking, I sensed the changes, technological changes and I understand that software is so important. So the automobile industry is more than 100 years old. Actually there are quite a few giants in this automobile industry but in the last decade also there are a few automobile giants.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So, it's a world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "be a great thing particularly for those who has already start of a business so that's why I decided to start again"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the car as, you know, literally the vehicle for your next venture. Why did you decide that that was the particular industry you wanted to get into?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I started my first business with a mobile web browser with investment from international companies and globally speaking, I sensed the changes, technological changes and I understand that software is so important. So the automobile industry is more than 100 years old. Actually there are quite a few giants in this automobile industry but in the last decade also there are a few automobile giants."
+      }
+    ],
+    "speakername": "He Xiaopeng",
+    "ground_truth": "mobility will become more efficient and become safer. So if my company can make some humble contribution, then we will feel very proud. That's why we choose to enter the automobile industry. And we believe it is the right moment. You know that many people are so fearful that they are deterred from entering this industry.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the car as, you know, literally the vehicle for your next venture. Why did you decide that that was the particular industry you wanted to get into?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I started my first business with a mobile web browser with investment from a major phone manufacturer and regional markets and globally speaking, I sensed the changes, technological changes and I understand that software is so important. So the automobile industry is more than 100 years old. Actually there are quite a few giants in this automobile industry but in the last decade also there are a few automobile giants."
+      },
+      {
+        "speaker": "[target]",
+        "text": "mobility will become more efficient and become safer. So if my company can make some humble contribution, then we will feel very proud. That's why we choose to enter the automobile industry. And we believe it is the right moment. You know that many people are so fearful that they are deterred from entering this industry."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that industry. It's a very crowded space, obviously. There are lots of automobile makers, and especially, as we discussed yesterday, lots of electric vehicle manufacturers. We heard from one of them, a competing company, from their representative. Help us to understand where our company fits in this industry. Are you at the high end with a leading EV manufacturer? Are you at the kind of lower end with the hundreds of companies that are competing? What's unique about your company?"
+      }
+    ],
+    "speakername": "He Xiaopeng",
+    "ground_truth": "It is important to find the right point to start our business. A leading EV manufacturer was launched about 15 or 16 years ago and it has been very successful. For domestic companies, actually they are at the mid-range or below mid-range. So we believe that in mid-range you can achieve a larger scale, but the bigger you grow, the less gross margins that you can have. So with less gross margins, you do not have money to do research and development. So for the automobile industry, we want to have marginal returns from our R&D. So from my company, we focus on mid-range and above, and we will add the factor of smart, smart factor into our R&D. So we will be a little bit lower than leading manufacturers, but higher than other companies in the middle range. So usually, this means that we will compete with joint venture, automobile manufacturers in our region and some other companies. So if we can survive in this market segment in the next three to five years, we believe that we will be better. Thank you. Thank you. will become successful. So we are already five years old. If we can continue to work for the next two or three years, if we have a complete chain and we have more product models, then we will become more successful.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that industry. It's a very crowded space, obviously. There are lots of automobile makers, and especially, as we discussed yesterday, lots of electric vehicle manufacturers. We heard from one of them, a competitor company. Help us to understand where this company fits in this industry. Are you at the high end with a leading EV manufacturer? Are you at the kind of lower end with the hundreds of companies that are competing? What's unique about your company?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is important to find the right point to start our business. A leading EV company was launched about 15 or 16 years ago and it has been very successful. For domestic companies, actually they are at the mid-range or below mid-range. So we believe that in mid-range you can achieve a larger scale, but the bigger you grow, the less gross margins that you can have. So with less gross margins, you do not have money to do research and development. So for the automobile industry, we want to have marginal returns from our R&D. So from my company, we focus on mid-range and above, and we will add the factor of smart, smart factor into our R&D. So we will be a little bit lower than leading EV companies, but higher than other companies in the middle range. So usually, this means that we will compete with joint venture, automobile manufacturers domestically and some other companies. So if we can survive in this market segment in the next three to five years, we believe that we will be better. Thank you. Thank you. will become successful. So we are already five years old. If we can continue to work for the next two or three years, if we have a complete chain and we have more product models, then we will become more successful."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "your first vehicle. I don't know, do we have a picture of this that we can show? There we go. This company, for those of you who don't know, is actually a local company. I was over to your headquarters the other day and had a chance to sort of sit in one of these and get the feel of it. It's their first model, right? And it's a sport utility vehicle. It's surprisingly roomy inside for as compact as it is. You've sold about, what, 12,000, 13,000 of these? Is that right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right."
+      }
+    ],
+    "speakername": "He Xiaopeng",
+    "ground_truth": "Yes, you are right. We deliver this car model in April this year, and for the red car it's an SUV, and we deliver in large scale in April this year, and next year we will also deliver a new car model. So we are very happy that this year for about six to seven months we have sold about 15,000 cars and delivered 12,000 cars. We first sell our cars and then we produce the cars and then we deliver the cars. This means that our customers need to wait longer for our cars. I believe that this business model is very important. It will keep our economy going. The inventory is low, so we actually made a lot of efforts to build this business model, but this model proves to be working.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

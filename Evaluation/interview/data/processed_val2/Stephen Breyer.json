@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "for you to play."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "as a former justice behind the scenes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I think there is a role. So how do I help? I write this book, that's how."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This is your 10th book. Parts of it, to me, do seem like you're addressing the current court. And you explicitly say, at some points, the newest members of the court. And one of the messages I hear"
+      }
+    ],
+    "speakername": "Stephen Breyer",
+    "ground_truth": "is slow down that's right and it's slow down period you're there a long time it takes three years four years five years maybe before you begin to adjust why are they so eager why why are you telling me you're the one who said they were so eager byron white says that with every new judge it's a new court that's true you talk about the dobbs",
+    "bio": "The subject is an American lawyer and jurist who has served as an associate justice of the [National High Court] since 1994. He was nominated by the President, and replaced a retiring justice. The subject is generally associated with the liberal wing of the Court. After attending a major university, they attended a prestigious British university as a Marshall Scholar and graduated from a prominent law school in 1964. After a clerkship with an Associate Justice in 1964-5, they became a law professor and lecturer at the same prominent law school from 1967 until 1980. They specialized in administrative law, writing textbooks that remain in use today. They held other prominent positions before being nominated to the [National High Court], including special assistant to the United States Assistant Attorney General for Antitrust and assistant special prosecutor on a major political investigation force in 1973. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "but"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We'll see."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "years I have had 40 years of experience why are you so optimistic that members of this conservative majority will swing back the other way come around see the light as you put it in the book in the next three to four years"
+      }
+    ],
+    "speakername": "Stephen Breyer",
+    "ground_truth": "There's reason for thinking they won't change and reason for thinking they will. They won't perhaps give up being a more conservative person than some other person, but the textualism, literalism... They may modify a little bit. Why do I say that? Because I think they'll find it doesn't work.",
+    "bio": "The target (born August 15, 1938) is an American lawyer and jurist who has served as an associate justice of the [national high court] since 1994. He was nominated by the President, and replaced a retiring justice. The target is generally associated with the liberal wing of the Court. After attending [University 1], the target attended [University 2] as a Marshall Scholar and graduated from [University 3] Law School in 1964. After a clerkship with an Associate Justice in 1964-5, the target was a law professor and lecturer at [University 3] Law School from 1967 until 1980. He specialized in administrative law, writing textbooks that remain in use today. He held other prominent positions before being nominated to the [national high court], including special assistant to the United States Assistant Attorney General for Antitrust and assistant special prosecutor on the [major political investigation] Special Prosecution Force in 1973. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We'll see."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "years I have had 40 years of experience why are you so optimistic that members of this conservative majority will swing back the other way come around see the light as you put it in the book in the next three to four years"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's reason for thinking they won't change and reason for thinking they will. They won't perhaps give up being a more conservative person than some other person, but the textualism, literalism... They may modify a little bit. Why do I say that? Because I think they'll find it doesn't work."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've chided the media publicly before for using the labels liberal and conservative. And I take your point, but some might say these philosophies, textualism versus pragmatism, are just proxies for Republican views and Democratic views."
+      }
+    ],
+    "speakername": "Stephen Breyer",
+    "ground_truth": "Good question. Politics in the sense in which it was used when I worked for Senator [redacted]. Are you a Republican? Are you a Democrat? Are you popular? Are you unpopular? How will this decision over here play into your general image? How will it over here play into more votes? That's not there. But there are things there, you see, which, depending on the case, I can see more than I did why you might say politics, though I don't think that's the right word. What [redacted] said, who was a great professor at Constitutional Law, said that politics enters the judiciary this way. He says no judge, no judge, decides a case based on the temperature of the day, but every judge is affected by the climate of the season. You've also made the case.",
+    "bio": "The target is an American lawyer and jurist who has served as an associate justice of the [national high court] since 1994. He was nominated by President [redacted], and replaced retiring justice [redacted]. The target is generally associated with the liberal wing of the Court. After attending [major university], the target attended the [prestigious foreign university] as a Marshall Scholar and graduated from [prestigious law school] in 1964. After a clerkship with Associate Justice [redacted] in 1964-5, the target was a law professor and lecturer at [prestigious law school] from 1967 until 1980. He specialized in administrative law, writing textbooks that remain in use today. He held other prominent positions before being nominated to the [national high court], including special assistant to the United States Assistant Attorney General for Antitrust and assistant special prosecutor on the [major political investigation] Special Prosecution Force in 1973. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "There's reason for thinking they won't change and reason for thinking they will. They won't perhaps give up being a more conservative person than some other person, but the textualism, literalism... They may modify a little bit. Why do I say that? Because I think they'll find it doesn't work."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've chided the media publicly before for using the labels liberal and conservative. And I take your point, but some might say these philosophies, textualism versus pragmatism, are just proxies for Republican views and Democratic views."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Good question. Politics in the sense in which it was used when I worked for Senator. Are you a Republican? Are you a Democrat? Are you popular? Are you unpopular? How will this decision over here play into your general image? How will it over here play into more votes? That's not there. But there are things there, you see, which, depending on the case, I can see more than I did why you might say politics, though I don't think that's the right word. What Professor said, who was a great professor at Law School, said that politics enters the judiciary this way. He says no judge, no judge, decides a case based on the temperature of the day, but every judge is affected by the climate of the season. You've also made the case."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that rule of law only survives with confidence in the institution by the public. Why should the public trust that members of the court are abiding by its ethics code when there's no enforcement mechanism?"
+      }
+    ],
+    "speakername": "Stephen Breyer",
+    "ground_truth": "There's no enforcement mechanism for any federal judge because the only way you can really punish a federal judge is by impeachment.",
+    "bio": "The target (born August 15, 1938) is an American lawyer and jurist who has served as an associate justice of the national high court since 1994. He was nominated by the President, and replaced retiring justice. The target is generally associated with the liberal wing of the Court. After attending a major university, the target attended a prestigious British university as a Scholar and graduated from a prominent law school in 1964. After a clerkship with an Associate Justice in 1964-5, the target was a law professor and lecturer at the same law school from 1967 until 1980. He specialized in administrative law, writing textbooks that remain in use today. He held other prominent positions before being nominated to the high court, including special assistant to the United States Assistant Attorney General for Antitrust and assistant special prosecutor on a major investigation force in 1973. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good question. Politics in the sense in which it was used when I worked for a Senator. Are you a Republican? Are you a Democrat? Are you popular? Are you unpopular? How will this decision over here play into your general image? How will it over here play into more votes? That's not there. But there are things there, you see, which, depending on the case, I can see more than I did why you might say politics, though I don't think that's the right word. What a great professor at constitutional law said, that politics enters the judiciary this way. He says no judge, no judge, decides a case based on the temperature of the day, but every judge is affected by the climate of the season. You've also made the case."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "that rule of law only survives with confidence in the institution by the public. Why should the public trust that members of the court are abiding by its ethics code when there's no enforcement mechanism?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's no enforcement mechanism for any federal judge because the only way you can really punish a federal judge is by impeachment."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the headlines about some of your former colleagues that have been out there and can very concerning to people about certain conduct that's been alleged trips book deals things of the like you don't think there needs to be any independent well like you of that"
+      }
+    ],
+    "speakername": "Stephen Breyer",
+    "ground_truth": "What I didn't say that what I said was there was only one real way of punishing the judge and that's to impeach There's been a lot of talk in the past",
+    "bio": "The individual (born August 15, 1938) is an American lawyer and jurist who has served as an associate justice of the highest court since 1994. They were nominated by a former President, and replaced a retiring justice. They are generally associated with the liberal wing of the Court. After attending a prestigious university in California, they attended a renowned British university as a Marshall Scholar and graduated from a prestigious law school in 1964. After a clerkship with an Associate Justice in 1964-5, they were a law professor and lecturer at the same law school from 1967 until 1980. They specialized in administrative law, writing textbooks that remain in use today. They held other prominent positions before being nominated to the highest court, including special assistant to the United States Assistant Attorney General for Antitrust and assistant special prosecutor on a major political investigation force in 1973. The speaker's MBTI type is ENTP",
+    "author": "",
+    "split": "val"
+  }
+]

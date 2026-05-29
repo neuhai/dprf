@@ -1,0 +1,125 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I want to make sure my foot is on the accelerator."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Like most of his life, Brown is pedal to the metal. So this is all your property when we look out? As he traverses up the mountains of his 2,500-acre ranch about an hour northwest of Sacramento. You feel totally at home here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I do. I feel I have enough elbow room. I like that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "On the day Gavin Newsom became governor in 2019, Brown and his wife, Anne, moved out of the governor's mansion and into a home they recently built here. They call it Mountain House 3. This is Mountain House 1. Brown's great-grandfather, August Schuckman, developed the first mountain house here in 1878. It had become a stagecoach inn for horseback travelers. His grandmother, Ida, lived here. Today, there are way more cows than people living nearby."
+      }
+    ],
+    "speakername": "Jerry Brown",
+    "ground_truth": "It is rather conservative. Most people here voted for Trump, voted for the recall, are not vaccinated.",
+    "bio": "The youngest Governor of California, and later the oldest Governor of California, a perennial presidential candidate, and a man who deserves the nickname of Moonbeam.\\n\\nBorn April 7, 1938, Edmund Gerald Brown Jr. is the son of 32nd California Governor Pat Brown (legal name Edmund Gerald Brown Sr.), has spent a long life being everything BUT a normal politician:, Secretary of State, Governor (1975-1983), a failed run for Senate, 3 failed runs for president, A Mayor, Attorney General, and finally Governor again (2011-2019).\\n\\nBrown started as a Fiscal Conservative, cutting his own perks like the limo and mansion and balancing California's budget, and a Liberal in other senses (death penalty, environment, gay rights, campaigning against Proposition 13, etc). Before term limits were introduced to California, Brown left after 2 terms to try for the Senate. He lost, that and the 1976, 1980, and 1992 Democratic Primaries. After 6 years in self-imposed political exile, he returned as Mayor of Oakland (1999-2007), using his brand of politics to strengthen the mayor's office and reverse the downward trend of the city. After 8 years he ran for Attorney General, won and held the position for 4 years under Arnold Schwarzenegger. During this period, both he and Schwarzenegger refused to defend the anti-gay Proposition 8 in the Perry v. Schwarzenegger lawsuit which ultimately deemed it unconstitutional, Brown arguing that it violated the Fourteenth Amendment and should be repealed. He later succeeded him as Governor, winning an election against eBay CEO Meg Whitman.\\n\\n36 years after he first took office as the 34th Governor, [target] was inaugurated as the 39th Governor. He served two further terms before reaching his term limits in 2019; apropos of nothing, his successor, his erstwhile lieutenant governor Gavin Newsom, is a distant relative of folksinger Joanna Newsom.\\n\\nHe is also the Governor Brown in the Dead Kennedys song \\\"California Ãber Alles\\\". Ironically enough, frontman Jello Biafra admitted Brown was a pretty good guy around the 2010 election (\\\"I realized early on that maybe I'd misfired and exaggerated\\\"). In the 1979 film Americathon, [target] is parodied as President Chet Roosevelt, played by John Ritter. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You've heard about the redistribution of wealth. We need a redistribution of incarceration."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] is also worried about the state's massive surplus forecast."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's very hard to spend a lot of money in government without doing stupid things."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "generational and transformational budget. What do you think we should do with this surplus now?"
+      }
+    ],
+    "speakername": "Jerry Brown",
+    "ground_truth": "It's very difficult to spend money well, particularly when you know it's not going to be there in two years. We have to be. That's the history of [state]. The money flows in, and then it goes away. [Former Governor] had a deficit of $60 billion. The next deficit is going to be just like that.",
+    "bio": "The youngest Governor of [state], and later the oldest Governor of [state], a perennial presidential candidate, and a man who deserves the nickname of Moonbeam.\n\nBorn April 7, 1938, [target] is the son of former state Governor [Parent Name], has spent a long life being everything BUT a normal politician: Secretary of State, Governor (1975-1983), a failed run for Senate, 3 failed runs for president, A Mayor, Attorney General, and finally Governor again (2011-2019).\n\nHe started as a Fiscal Conservative, cutting his own perks like the limo and mansion and balancing the state's budget, and a Liberal in other senses (death penalty, environment, gay rights, campaigning against [Proposition], etc). Before term limits were introduced to the state, he left after 2 terms to try for the Senate. He lost, that and the 1976, 1980, and 1992 Democratic Primaries. After 6 years in self-imposed political exile, he returned as Mayor of [city] (1999-2007), using his brand of politics to strengthen the mayor's office and reverse the downward trend of the city. After 8 years he ran for Attorney General, won and held the position for 4 years under [Former Governor]. During this period, both he and [Former Governor] refused to defend the anti-gay [Proposition] in the lawsuit which ultimately deemed it unconstitutional, he arguing that it violated the Fourteenth Amendment and should be repealed. He later succeeded him as Governor, winning an election against [tech company] CEO [Name].\n\n36 years after he first took office as the 34th Governor, [target] was inaugurated as the 39th Governor. He served two further terms before reaching his term limits in 2019; his successor, his erstwhile lieutenant governor [Name], is a distant relative of folksinger [Name].\n\nHe is also the Governor referenced in the [Band name] song \"[Song title]\". Ironically enough, frontman [Name] admitted he was a pretty good guy around the 2010 election (\"I realized early on that maybe I'd misfired and exaggerated\"). In the 1979 film [Movie title], [target] is parodied as President [Character name], played by [Actor name]. The speaker's MBTI type is ENTP",
+    "bio_relevant": true,
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's very hard to spend a lot of money in government without doing stupid things."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "generational and transformational budget. What do you think we should do with this surplus now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's very difficult to spend money well, particularly when you know it's not going to be there in two years. We have to be. That's the history of [state]. The money flows in, and then it goes away. [Former Governor] had a deficit of $60 billion. The next deficit is going to be just like that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We have no peers. What would your advice to Governor [current governor] be?"
+      }
+    ],
+    "speakername": "Jerry Brown",
+    "ground_truth": "Watch how you spend that money, because it looks okay now, but two years, he's going to be re-elected. I feel comfort about that, and then I think that second term can be difficult. Also, the longer you're in, and the more exposure you get, the more they get tired of you.",
+    "bio": "The youngest Governor of [state], and later the oldest Governor of [state], a perennial presidential candidate, and a man who deserves the nickname of Moonbeam.\n\nBorn April 7, 1938, [target] is the son of former state Governor [parent name], has spent a long life being everything BUT a normal politician: Secretary of State, Governor (1975-1983), a failed run for Senate, 3 failed runs for president, A Mayor, Attorney General, and finally Governor again (2011-2019).\n\nStarted as a Fiscal Conservative, cutting his own perks like the limo and mansion and balancing the state's budget, and a Liberal in other senses (death penalty, environment, gay rights, campaigning against [state proposition], etc). Before term limits were introduced to the state, [target] left after 2 terms to try for the Senate. He lost, that and the 1976, 1980, and 1992 Democratic Primaries. After 6 years in self-imposed political exile, he returned as Mayor of [city] (1999-2007), using his brand of politics to strengthen the mayor's office and reverse the downward trend of the city. After 8 years he ran for Attorney General, won and held the position for 4 years under [former governor]. During this period, both he and [former governor] refused to defend the anti-gay [state proposition] in the lawsuit which ultimately deemed it unconstitutional, [target] arguing that it violated the Fourteenth Amendment and should be repealed. He later succeeded him as Governor, winning an election against [company] CEO [opponent name].\n\n36 years after he first took office as the 34th Governor, [target] was inaugurated as the 39th Governor. He served two further terms before reaching his term limits in 2019; his successor, his erstwhile lieutenant governor [successor name], is a distant relative of folksinger [artist name].\n\nHe is also the Governor referenced in the [band name] song. Ironically enough, frontman [artist name] admitted [target] was a pretty good guy around the 2010 election. In the 1979 film [movie title], [target] is parodied as President [character name], played by [actor name]. The speaker's MBTI type is ENTP",
+    "type": "ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's very difficult to spend money well, particularly when you know it's not going to be there in two years. We have to be. That's the history of [state]. The money flows in, and then it goes away. [Former Governor] had a deficit of $60 billion. The next deficit is going to be just like that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We have no peers. What would your advice to [Current Governor] be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Watch how you spend that money, because it looks okay now, but two years, he's going to be re-elected. I feel comfort about that, and then I think that second term can be difficult. Also, the longer you're in, and the more exposure you get, the more they get tired of you."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] is busy now as chair of the [state]-[country] Climate Institute and chair of the [city] Military Institute, which he founded. He doesn't spend too much time thinking about his legacy, but when pressed, here's his answer."
+      }
+    ],
+    "speakername": "Jerry Brown",
+    "ground_truth": "I don't like to spend too much money and I felt that way about tax money. And then secondly, climate, the environment, [state] is a beautiful state and to maintain the biodiversity, the beauty.",
+    "bio": "The youngest Governor of [state], and later the oldest Governor of [state], a perennial presidential candidate, and a man who deserves the nickname of Moonbeam.\n\nBorn April 7, 1938, [target] is the son of [state]'s Governor [father's name], has spent a long life being everything BUT a normal politician:, Secretary of State, Governor (1975-1983), a failed run for Senate, 3 failed runs for president, A Mayor, Attorney General, and finally Governor again (2011-2019).\n\n[target] started as a Fiscal Conservative, cutting his own perks like the limo and mansion and balancing [state]'s budget, and a Liberal in other senses (death penalty, environment, gay rights, campaigning against Proposition 13, etc). Before term limits were introduced to [state], [target] left after 2 terms to try for the Senate. He lost, that and the 1976, 1980, and 1992 Democratic Primaries. After 6 years in self-imposed political exile, he returned as Mayor of [city] (1999-2007), using his brand of politics to strengthen the mayor's office and reverse the downward trend of the city. After 8 years he ran for Attorney General, won and held the position for 4 years under [Former Governor]. During this period, both he and [Former Governor] refused to defend the anti-gay Proposition 8 in the lawsuit which ultimately deemed it unconstitutional, [target] arguing that it violated the Fourteenth Amendment and should be repealed. He later succeeded him as Governor, winning an election against [company] CEO [opponent name].\n\n36 years after he first took office as the 34th Governor, [target] was inaugurated as the 39th Governor. He served two further terms before reaching his term limits in 2019; apropos of nothing, his successor, his erstwhile lieutenant governor [successor name], is a distant relative of folksinger [artist name].\n\nHe is also the Governor [target] in the Dead Kennedys song \"[state] Über Alles\". Ironically enough, frontman [artist name] admitted [target] was a pretty good guy around the 2010 election (\"I realized early on that maybe I'd misfired and exaggerated\"). In the 1979 film [movie title], [target] is parodied as President [character name], played by [actor name]. The speaker's MBTI type is ENTP",
+    "class": "mature",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Watch how you spend that money, because it looks okay now, but two years, he's going to be re-elected. I feel comfort about that, and then I think that second term can be difficult. Also, the longer you're in, and the more exposure you get, the more they get tired of you."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] is busy now as chair of the state-international Climate Institute and chair of a military institute, which he founded. He doesn't spend too much time thinking about his legacy, but when pressed, here's his answer."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't like to spend too much money and I felt that way about tax money. And then secondly, climate, the environment, this state is a beautiful state and to maintain the biodiversity, the beauty."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "beauty showcased at this ranch. When you see this, what goes through your mind?"
+      }
+    ],
+    "speakername": "Jerry Brown",
+    "ground_truth": "Well, I never could imagine this, what my grandmother told me about it, I didn't know it was this beautiful.",
+    "bio": "The youngest Governor of a western state, and later the oldest Governor of the same state, a perennial presidential candidate, and a man who earned a celestial nickname.\n\nBorn April 7, 1938, he is the son of the state's 32nd Governor, has spent a long life being everything BUT a normal politician: Secretary of State, Governor (1975-1983), a failed run for Senate, 3 failed runs for president, A Mayor, Attorney General, and finally Governor again (2011-2019).\n\nHe started as a Fiscal Conservative, cutting his own perks like the limo and mansion and balancing the state's budget, and a Liberal in other senses (death penalty, environment, gay rights, campaigning against a tax proposition, etc). Before term limits were introduced to the state, he left after 2 terms to try for the Senate. He lost, that and the 1976, 1980, and 1992 Democratic Primaries. After 6 years in self-imposed political exile, he returned as Mayor of a major city (1999-2007), using his brand of politics to strengthen the mayor's office and reverse the downward trend of the city. After 8 years he ran for Attorney General, won and held the position for 4 years under another governor. During this period, both he and his predecessor refused to defend an anti-gay proposition in a lawsuit which ultimately deemed it unconstitutional, arguing that it violated the Fourteenth Amendment and should be repealed. He later succeeded him as Governor, winning an election against a tech company CEO.\n\n36 years after he first took office as the 34th Governor, he was inaugurated as the 39th Governor. He served two further terms before reaching his term limits in 2019; his successor, his erstwhile lieutenant governor, is a distant relative of a folksinger.\n\nHe is also the Governor referenced in a punk band's song. Ironically enough, the band's frontman admitted he was a pretty good guy around the 2010 election. In a 1979 film, he is parodied as President Chet Roosevelt, played by a well-known actor. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Do you have, in your own mind, any prejudice, any resentment whatsoever?"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "against whites."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Not as such."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What do you mean? Against individuals, yes."
+      }
+    ],
+    "speakername": "Thurgood Marshall",
+    "ground_truth": "But being brought up in a completely segregated atmosphere in [city], [state], by the time I reached maturity, I would say that I did have considerable prejudice in my mind. Since that time, I have found it wise and indeed sensible to take people on their merits rather than prejudge them.",
+    "bio": "[target] was an American lawyer, serving as Associate Justice of the [national court] from October 1967 until October 1991. [target] was the Court's 96th justice and its first African-American justice. Prior to his judicial service, he successfully argued several cases before the [national court], including [case name]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But being brought up in a completely segregated atmosphere in [City], [State], by the time I reached maturity, I would say that I did have considerable prejudice in my mind. Since that time, I have found it wise and indeed sensible to take people on their merits rather than prejudge them."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "When you say you had considerable prejudice, prejudice-based, resentment-based on what? On the economic superiority, on the social superiority of the people whom you felt were..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, when you live in a segregated community, you find that one group has everything and the other group has little, if anything. And you, as a result of being shunted around, you more or less get the idea that something's wrong. You find out later that it's not the individual. It's the system under which the individuals of both groups come up."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "course, when you progress within that system yourself, it's easier to shed that original resentment."
+      }
+    ],
+    "speakername": "Thurgood Marshall",
+    "ground_truth": "no problem there at all. I remember, for example, as late as my third year in college, I helped debate on a team against the [University] Liberal Club. And in [City], I felt very uncomfortable in a mixed restaurant. That had been my first experience, and then I was in my third year of college.",
+    "bio": "[target] was an American lawyer, serving as Associate Justice of the [National Court] from October 1967 until October 1991. [target] was the Court's 96th justice and its first African-American justice. Prior to his judicial service, he successfully argued several cases before the [National Court], including a landmark educational equality case. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, when you live in a segregated community, you find that one group has everything and the other group has little, if anything. And you, as a result of being shunted around, you more or less get the idea that something's wrong. You find out later that it's not the individual. It's the system under which the individuals of both groups come up."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "course, when you progress within that system yourself, it's easier to shed that original resentment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "no problem there at all. I remember, for example, as late as my third year in college, I helped debate on a team against a prestigious university's Liberal Club. And in a northern city, I felt very uncomfortable in a mixed restaurant. That had been my first experience, and then I was in my third year of college."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Do you never feel uncomfortable in a mixed restaurant today? No. Never? No. In no matter what city?"
+      }
+    ],
+    "speakername": "Thurgood Marshall",
+    "ground_truth": "no i'll find individuals that are unpleasant but i find individuals of both races that are unpleasant are you in favor of interracial marriage i have no feeling one way or the other i think it's purely private matter up to the individual i am convinced that the laws against intermarriage are unlawful and unconstitutional but as to intermarriage itself i have no feeling one way or the other i think it's it's up to the individual",
+    "bio": "The speaker was an American lawyer, serving as Associate Justice of a major national court from 1967 until 1991. The speaker was the court's 96th justice and its first African-American justice. Prior to judicial service, they successfully argued several cases before the highest court, including a landmark educational equality case. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no problem there at all. I remember, for example, as late as my third year in college, I helped debate on a team against a prestigious university's Liberal Club. And in a northern city, I felt very uncomfortable in a mixed restaurant. That had been my first experience, and then I was in my third year of college."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Do you never feel uncomfortable in a mixed restaurant today? No. Never? No. In no matter what city?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "no i'll find individuals that are unpleasant but i find individuals of both races that are unpleasant are you in favor of interracial marriage i have no feeling one way or the other i think it's purely private matter up to the individual i am convinced that the laws against intermarriage are unlawful and unconstitutional but as to intermarriage itself i have no feeling one way or the other i think it's it's up to the individual"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "You think that socially in a marriage, in a racial marriage, not just now or tomorrow, but over a period of 50, 100, 500 years, is inevitable?"
+      }
+    ],
+    "speakername": "Thurgood Marshall",
+    "ground_truth": "I don't think it's necessarily inevitable, and I don't think anybody can predict one way or the other. If I can be facetious, I like to say that I believe that any man has the right to marry any woman he wants to marry if she's willing to marry him, with one exception, that's my wife.",
+    "bio": "The subject was a prominent American lawyer, serving as Associate Justice of the nation's highest court from October 1967 until October 1991. They were the court's 96th justice and its first African-American justice. Prior to their judicial service, they successfully argued several landmark cases before the court, including a significant case regarding educational desegregation. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think it's necessarily inevitable, and I don't think anybody can predict one way or the other. If I can be facetious, I like to say that I believe that any man has the right to marry any woman he wants to marry if she's willing to marry him, with one exception, that's my wife."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Let's turn now to some criticisms of the organization. There are plenty. Well, I'd like to read an excerpt from an open letter to the North, written by Nobel Prize winner William Faulkner, national magazine, March 5, 1956. Faulkner says, I would say to the organization and all the organizations who would compel immediate and unconditional integration, go slow now. Stop now for a time, a moment. You have the power now. You can afford to withhold for a moment the use of it as a force. Give the southerner a space to get his breath, to see that he faces an obsolescence in his own land which only he can cure, a moral condition which not only must be cured, but a psychological condition which has got to be cured if the southerner is to have any peace. Now, I tried to read it with the feeling, with some of the feeling that I'm sure that Mr. Faulkner had when he ."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Rowan, how do you feel?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "about what William Faulkner said."
+      }
+    ],
+    "speakername": "Thurgood Marshall",
+    "ground_truth": "Well, in the first place, Mr. Faulkner is not original at all. The newspapers in the state have suggested that the organization go fishing for a reasonable time, and the real fallacy in Mr. Faulkner's reasoning is that this is something new. Desegregation has been coming about over a period of 20 or more years. When Mr. Faulkner or anyone else says, wait, you must bear in mind that citizens in this country have been waiting since 1863 when the Emancipation Proclamation was put forth. We've been waiting since the 14th Amendment was adopted. As a matter of fact, I would say that the organization's more reasonable criticism is that we're moving too slow. I don't believe it's a question of not moving too slow or moving too fast. I don't believe it's a question of not moving too slow or moving too fast. I don't believe it's a question of not moving too rapidly. I can't conceive of the reason in asking not that we slow down, but that we actually stop.",
+    "bio": "[target] was a legal professional, serving as Associate Justice of the highest court from October 1967 until October 1991. He was the Court's 96th justice and its first African-American justice. Prior to his judicial service, he successfully argued several cases before the court, including a landmark educational equality case. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

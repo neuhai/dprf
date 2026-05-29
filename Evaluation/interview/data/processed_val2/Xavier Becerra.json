@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The president himself said that chances are there would be Americans alive today had this legislation become law before some of these shootings. It won't save everyone because we need to go further, but this is a great, a critical first step."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Secretary [target], it's Tony DeCoppo. You know, the celebration today marking the passage of this legislation, the president pointed out it was historic in the sense that nothing had been done for so many years. Now something was done. But as you point out, you've got to go further. Pew has a survey out today finding that only 7% of Americans think that the current legislation that was being marked today is going to do a lot. How, I mean, realistically, how much is it going to do? I mean, do you have a number you can put on it? Do you have any sense of the scale of this? How much of a difference is what was celebrated today going to do in this country or mean in this country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Tony, first, I think it's a reflection of how the public has become very skeptical for good reason, because for so long, politicians have failed to take action. I was in Congress back in 1993 when Joe Biden was a senator and we passed that assault weapon ban close to 30 years ago. It's been that long. That's why folks have become very, very cynical. But there is, for example, $150 million here to help us stand up the 988 suicide prevention hotline. As the president mentioned, so many people who kill themselves today, suicide, kill themselves with a weapon, a handgun. And so we can do a lot of things. We haven't done enough, but we got to start somewhere. You got to learn how to crawl before you can walk and you got to learn how to walk before you can run. We want to cross that finish line on the 100-yard dash in record time, but we got to learn how to walk. We got to learn how to crawl and walk first."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's a beginning, but a lot of Americans think there's a lot more to do. But I want to turn to another issue that's top of mind for a lot of Americans right now, Secretary [target], and that is the issue of abortion rights. President Biden said Sunday he's considering declaring a public health emergency to free up federal resources for promoting abortion access. However, at the same time, the administration is acknowledging that's not a great option. So what is your take on that plan and what other strategies is the administration considering in response to last month's overturning of Roe v. Wade?"
+      }
+    ],
+    "speakername": "Xavier Becerra",
+    "ground_truth": "Tonya, the president instructed us at the federal health agency, and me specifically, to look for everything we could try to do, and that's what we're doing. And the public health emergency is one of those proposals, options that's there. We're taking a look. We want to do everything we can, but again, it is tough to undo a Supreme Court decision that unraveled, stripped away 50 years of protections for Americans in this country for health care. So we're going to do everything we can. We'll look at every option. We'll try to make sure that we can move. We don't want to get stuck in court, but we are planning to move.",
+    "bio": "The target (born January 26, 1958) is an American politician and lawyer serving as the 33rd and current attorney general of a major state since 2017. He previously was a member of the national legislature, representing an urban district in Congress from 1993 to 2017. A member of the Democratic Party, was Chairman of the House Democratic Caucus from 2013 to 2017. On December 7, 2020, the President-elect announced his intention to nominate the target to be the Secretary of Health and Human Services. If confirmed by the Senate, he will be the fourth person from his state to hold the position, the first Democrat from his state and first Latino to do so. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Tony, first, I think it's a reflection of how the public has become very skeptical for good reason, because for so long, politicians have failed to take action. I was in Congress back in 1993 when Joe Biden was a senator and we passed that assault weapon ban close to 30 years ago. It's been that long. That's why folks have become very, very cynical. But there is, for example, $150 million here to help us stand up the 988 suicide prevention hotline. As the president mentioned, so many people who kill themselves today, suicide, kill themselves with a weapon, a handgun. And so we can do a lot of things. We haven't done enough, but we got to start somewhere. You got to learn how to crawl before you can walk and you got to learn how to walk before you can run. We want to cross that finish line on the 100-yard dash in record time, but we got to learn how to walk. We got to learn how to crawl and walk first."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's a beginning, but a lot of Americans think there's a lot more to do. But I want to turn to another issue that's top of mind for a lot of Americans right now, Secretary [target], and that is the issue of abortion rights. President Biden said Sunday he's considering declaring a public health emergency to free up federal resources for promoting abortion access. However, at the same time, the [government building] is acknowledging that's not a great option. So what is your take on that plan and what other strategies is the Biden administration considering in response to last month's overturning of Roe v. Wade?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Tonya, the president instructed us at HHS, and me specifically, to look for everything we could try to do, and that's what we're doing. And the public health emergency is one of those proposals, options that's there. We're taking a look. We want to do everything we can, but again, it is tough to undo a Supreme Court decision that unraveled, stripped away 50 years of protections for Americans in this country for health care. So we're going to do everything we can. We'll look at every option. We'll try to make sure that we can move. We don't want to get stuck in court, but we are planning to move."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So on the subject of moving and trying every option, I mean, could you enumerate a couple of the options? What else is on the table as a possibility?"
+      }
+    ],
+    "speakername": "Xavier Becerra",
+    "ground_truth": "Sure. So, for example, if a woman happens to end up in an emergency room, something is happening, and it involves perhaps her pregnancy, in order to save her life, that woman is entitled to get the care she needs to stabilize her. That could include an abortion, even in a state that says it bans abortions. If your life is in danger and you have federal protections to make sure that health care providers provide you with all the protections you need, we're going to do everything we can to make sure that women understand what their rights are to get full protections that they're entitled to. There are other things as well. We're going to make sure we protect providers to the degree the law allows us, so that they don't feel that they will be before a criminal court simply for doing their job and fulfilling their Hippocratic Oath.",
+    "bio": "The target is an American politician and lawyer serving as the 33rd and current attorney general of [state] since 2017. They previously were a member of the United States House of Representatives, representing [city] in Congress from 1993 to 2017. The target, a member of the Democratic Party, was Chairman of the House Democratic Caucus from 2013 to 2017. On December 7, 2020, President-elect Joe Biden announced his intention to nominate the target to be the United States secretary of health and human services. If confirmed by the Senate, they will be the fourth [state] resident to hold the position, the first Democrat from [state] and first Latino to do so. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Tonya, the president instructed us at the department, and me specifically, to look for everything we could try to do, and that's what we're doing. And the public health emergency is one of those proposals, options that's there. We're taking a look. We want to do everything we can, but again, it is tough to undo a Supreme Court decision that unraveled, stripped away 50 years of protections for Americans in this country for health care. So we're going to do everything we can. We'll look at every option. We'll try to make sure that we can move. We don't want to get stuck in court, but we are planning to move."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So on the subject of moving and trying every option, I mean, could you enumerate a couple of the options? What else is on the table as a possibility?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure. So, for example, if a woman happens to end up in an emergency room, something is happening, and it involves perhaps her pregnancy, in order to save her life, that woman is entitled to get the care she needs to stabilize her. That could include an abortion, even in a state that says it bans abortions. If your life is in danger and you have federal protections to make sure that health care providers provide you with all the protections you need, we're going to do everything we can to make sure that women understand what their rights are to get full protections that they're entitled to. There are other things as well. We're going to make sure we protect providers to the degree the law allows us, so that they don't feel that they will be before a criminal court simply for doing their job and fulfilling their Hippocratic Oath."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. I was going to say, because there's crucial moments when we're talking about life or death situations, you can't have doctors sort of double, you know, sort of second-guessing what medically needs to happen because they're worried about being prosecuted, right, Secretary? Yeah."
+      }
+    ],
+    "speakername": "Xavier Becerra",
+    "ground_truth": "Yeah, think about that, Tanya. You go into the medical field, like my wife, who is a high-risk obstetrician-gynecologist, knows about this stuff really well. You are in there to do no harm, to help stabilize and improve a patient's condition. Now, all of a sudden, you're practicing in a state that is essentially telling you, no, no, forget about that Hippocratic Oath. Forget about what you studied to do. You're going to do things differently now. And that is very difficult for a lot of these doctors and health care providers. We're going to do everything we can to protect their rights, to exercise their profession.",
+    "bio": "The target is an American politician and lawyer serving as the 33rd and current cabinet secretary since 2017. They previously served as a member of the legislature, representing an urban district from 1993 to 2017. A member of their political party, they served as a caucus leader from 2013 to 2017. In December 2020, the President-elect announced their intention to nominate the target to be cabinet secretary. If confirmed, they would be the fourth person from their state to hold the position, the first from their party from that state and first of their background to do so. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sure. So, for example, if a woman happens to end up in an emergency room, something is happening, and it involves perhaps her pregnancy, in order to save her life, that woman is entitled to get the care she needs to stabilize her. That could include an abortion, even in a state that says it bans abortions. If your life is in danger and you have federal protections to make sure that health care providers provide you with all the protections you need, we're going to do everything we can to make sure that women understand what their rights are to get full protections that they're entitled to. There are other things as well. We're going to make sure we protect providers to the degree the law allows us, so that they don't feel that they will be before a criminal court simply for doing their job and fulfilling their Hippocratic Oath."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. I was going to say, because there's crucial moments when we're talking about life or death situations, you can't have doctors sort of double, you know, sort of second-guessing what medically needs to happen because they're worried about being prosecuted, right, Secretary? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, think about that, Tanya. You go into the medical field, like my wife, who is a high-risk obstetrician-gynecologist, knows about this stuff really well. You are in there to do no harm, to help stabilize and improve a patient's condition. Now, all of a sudden, you're practicing in a state that is essentially telling you, no, no, forget about that Hippocratic Oath. Forget about what you studied to do. You're going to do things differently now. And that is very difficult for a lot of these doctors and health care providers. We're going to do everything we can to protect their rights, to exercise their profession."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Mr. Secretary, I've followed your career for a long time. I remember when you were Attorney General of [State], your many terms in Congress. And so I've got a final question here that's sort of big picture on the subject of democracy. Both the issues we're talking about today involve areas where there's huge public support, say, for gun control legislation, for access to abortion for women. And yet the law, the reality, is different from what most people want. And when you talk about cynicism, that leads to cynicism in democracy in our system. What do you say to people who are feeling that today?"
+      }
+    ],
+    "speakername": "Xavier Becerra",
+    "ground_truth": "Tony, first I think we have to tell people, can you find a better system anywhere in the world? And I think what most people will say is [Country] has the best that you can find. We just have to improve on it. I believe that the [High Court] better be very careful because it was about the last institution in our government that had some semblance of common sense, distance from the politics. Today, I don't think you can say that. Today, five justices have implicated the [High Court] in politics, and it's unfortunate because any time you strip people of rights, you have to question why. [Country] is about giving people freedom, protection, autonomy, and rights, not taking them away. Certainly been the introduction.",
+    "bio": "The target is an American politician and lawyer serving as the 33rd and current attorney general of [State] since 2017. They previously were a member of the Congress, representing an urban district from 1993 to 2017. A member of the Democratic Party, they were Chairman of the House Democratic Caucus from 2013 to 2017. On December 7, 2020, the President-elect nominated them to be the Secretary of Health and Human Services. If confirmed by the Senate, they will be the fourth person from their state to hold the position, the first Democrat from their state and first Latino to do so. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Secretary [target], thank you so much for taking the time to speak with Scripps News on such an important day. Let's start, of course, with this big announcement. Tell me about these 15 drugs that have been selected for drug negotiations and what savings might mean for Part D recipients."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thanks for watching."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Jacob, this is the second year of implementation of the President's signature lower-cost prescription drug law, where we get to, for the first time in history, negotiate lower drug prices within the Medicare program. We proved it works last year when we took the 10 most expensive drugs. By the way, of the thousands, about 8,000 drugs that Medicare covers, we took just the top 10, and just those top 10 drugs cost about $50 billion or more a year for the Medicare beneficiaries who need them. And so that's not the whole population of Medicare, just those who need those drugs. That's how expensive these are, those 10. We were able to lower the list price of those drugs through our negotiations from 40% to 80% over the list price. That meant a savings of billions of dollars out of the pockets of so many Americans. Medicare beneficiaries and taxpayers. Round two started now. This announcement of 15 new drugs adds to the 10 from last year. And so together, those 25 drugs, just those 25 out of the thousands of drugs in Medicare constitute about a third of all the spending by Medicare on drugs. And so we negotiate good prices for these next 15. We're in good shape for the American people and for Medicare beneficiaries."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This announcement is coming less than a week before the new administration takes over on January 20th. Are you confident that the President-elect and his team will continue these negotiations after you leave office?"
+      }
+    ],
+    "speakername": "Xavier Becerra",
+    "ground_truth": "I'm absolutely confident that using our roadmap, anyone coming into this administration can have success because it's simply a matter of negotiating. We see the facts. We see the prices. We see how much we're paying. There's a lot of running space in between to lower prices. So am I confident that we can have success as we proved last year? Well, we proved it last year. And round two, we've announced the drugs. It will be left to the next administration to do the negotiations. But there's a clear roadmap for success for the American people and for Medicare beneficiaries. And I guarantee you, Medicare beneficiaries want to see us lower the prices that they're paying for their medications.",
+    "bio": "The target is an American politician and lawyer serving as the 33rd and current attorney general of [state] since 2017. He previously was a member of the national legislature, representing an urban district in Congress from 1993 to 2017. A member of the Democratic Party, was Chairman of the House Democratic Caucus from 2013 to 2017. In December 2020, the President-elect announced his intention to nominate the target to be the Secretary of Health and Human Services. If confirmed, he will be the fourth person from [state] to hold the position, the first Democrat from [state] and first Latino to do so. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

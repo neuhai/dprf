@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a pleasure, Ed."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I want to get a sense of where [target] sees the world today."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think the world is in a very dangerous mode because of the rise of new dictators in different jurisdictions who have consolidated power in one person. That includes the major western nation, by the way, what's upcoming. And when there is a lack of accountability or a lack of - I don't know how the legislative bodies will deal in that country with the new president."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you see him as a dictator, the former president?"
+      }
+    ],
+    "speakername": "Naguib Sawiris",
+    "ground_truth": "He's the democratic form of dictator. Yes, I see him as a dictator. I mean, this is what he would love to have. So now if he has control of the legislative bodies, we're going to see, you know. But the leader of the eastern superpower is a dictator. The leader of the south Asian nation is a dictator, in my opinion. There is lots of other dictators in our region. So the world is being trapped through these individuals now that are shaping world destiny. The eastern European leader is a dictator. So all these powerful dictators, because of their countries, can do something crazy or stupid, and we end up now one nation is sending ballistic rockets to its neighbor. So if we're going to escalate, you know, I mean, it could end up very, very badly. You know, you don't control these individuals. If they give an order, because they are dictators, so the people around them just do what they tell them.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think the world is in a very dangerous mode because of the rise of new dictators in different jurisdictions who have consolidated power in one person. That includes the [country], by the way, what's upcoming. And when there is a lack of accountability or a lack of - I don't know how the Senate and the Congress will deal in [country] with the new president."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you see him as a dictator, Donald Trump?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He's the democratic form of dictator. Yes, I see him as a dictator. I mean, this is what he would love to have. So now if he has the Senate and the Congress, we're going to see, you know. But the Chinese president is a dictator. The Indian prime minister is a dictator, in my opinion. There is lots of other dictators in our region. So the world is being trapped through these individuals now that are shaping world destiny. Putin is a dictator. So all these powerful dictators, because of their countries, can do something crazy or stupid, and we end up now Russia is sending ballistic rockets to Ukraine. So if we're going to escalate, you know, I mean, it could end up very, very badly. You know, you don't control these individuals. If they give an order, because they are dictators, so the people around them just do what they tell them."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. You're not risk averse when it comes to working in countries under essentially dictatorships. You've worked in [country], you've worked elsewhere, the opportunities."
+      }
+    ],
+    "speakername": "Naguib Sawiris",
+    "ground_truth": "No, I don't try to mix my political views with my business, you know. But I have a passion to go places where I have a soft spot for, you know. Like, I feel like I want to do something which will be remembered. Like, I will go to a country that nobody wants to go because I want to build something that has never been built before. So when I'm not there after many years and I die, they say, well, there was this investor from [country]. He came here. He promised he will do one, two, three. And he did one, two, three, four, and five and did something great. So I get well remembered. But you don't shy away.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you see him as a dictator, Donald Trump?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He's the democratic form of dictator. Yes, I see him as a dictator. I mean, this is what he would love to have. So now if he has the Senate and the Congress, we're going to see, you know. But the Chinese president is a dictator. The Indian prime minister is a dictator, in my opinion. There is lots of other dictators in our region. So the world is being trapped through these individuals now that are shaping world destiny. Putin is a dictator. So all these powerful dictators, because of their countries, can do something crazy or stupid, and we end up now Russia is sending ballistic rockets to Ukraine. So if we're going to escalate, you know, I mean, it could end up very, very badly. You know, you don't control these individuals. If they give an order, because they are dictators, so the people around them just do what they tell them."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. You're not risk averse when it comes to working in countries under essentially dictatorships. You've worked in [Country A], you've worked elsewhere, the opportunities."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I don't try to mix my political views with my business, you know. But I have a passion to go places where I have a soft spot for, you know. Like, I feel like I want to do something which will be remembered. Like, I will go to a country that nobody wants to go because I want to build something that has never been built before. So when I'm not there after many years and I die, they say, well, there was this foreign investor. He came here. He promised he will do one, two, three. And he did one, two, three, four, and five and did something great. So I get well remembered. But you don't shy away."
+      }
+    ],
+    "speakername": "Naguib Sawiris",
+    "ground_truth": "You know, I never shy away, you know. You see, I fear nothing and nobody except God, you know. So people think sometimes I'm crazy, and I try to explain to them it's not being brave. It's about my faith. You know, I believe God is on my side, so nobody can stand in my way.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. You're not risk averse when it comes to working in countries under essentially dictatorships. You've worked in [Country A], you've worked elsewhere, the opportunities."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I don't try to mix my political views with my business, you know. But I have a passion to go places where I have a soft spot for, you know. Like, I feel like I want to do something which will be remembered. Like, I will go to a country that nobody wants to go because I want to build something that has never been built before. So when I'm not there after many years and I die, they say, well, there was this Middle Eastern investor. He came here. He promised he will do one, two, three. And he did one, two, three, four, and five and did something great. So I get well remembered. But you don't shy away."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I never shy away, you know. You see, I fear nothing and nobody except God, you know. So people think sometimes I'm crazy, and I try to explain to them it's not being brave. It's about my faith. You know, I believe God is on my side, so nobody can stand in my way."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What do you think about the situation in the region today?"
+      }
+    ],
+    "speakername": "Naguib Sawiris",
+    "ground_truth": "Also very bad, very sad everywhere. You see, we still have problems in [Country B] divided between two sections, and there's still some uncertainty. You have [Country C] with uncertainty, and three, four other countries meddling in [Country C]'s affairs. Look at [Country D], what's happening now with the destruction of [Country D], this beautiful country with beautiful people. They're paying a price for some military force that took over [Country D] by force and ignoring all the facts of... So, [Country E], a disaster. The two fractions are having a war where they know no one will win. So they'll keep just breaking down, destroying, and who's... Who's paying the price? The civilian people who are now 18 million stranded. There's hunger threats. And one party is also very, how can I say, very stubborn. You're invest...",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "in [country], right? Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, you name it, wherever there are problems, you find me there."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you are there you are tell me this when you take a step back and think about the media landscape for example um"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "A major media company has decided to offload several major news networks, several of the brands that were under their umbrella. They've moved away from cable, in a sense. How do you see this all evolving?"
+      }
+    ],
+    "speakername": "Naguib Sawiris",
+    "ground_truth": "You see, media is a very difficult business, very difficult to make money in media. Usually, you guys, you take your salaries, you take your bonuses, we pay for costs and everything. When it comes to income, now what is the income? Advertising is coming totally down. Social media now is taking over. So, no income. For the major media company, the original idea was to buy content. So, they thought this is content. Now, they see that it has changed completely. With their streaming service. Yes, exactly.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

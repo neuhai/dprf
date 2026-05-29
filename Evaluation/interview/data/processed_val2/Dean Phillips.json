@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't. Why not? Look at the numbers. All I'm asking people to do is look at the numbers. All we have to go on is polling. It's imperfect, but the numbers are horrifying. I love Joe Biden. I want to make that clear. A remarkable man. I think he saved our country. He was the right man in the last election. Thank goodness he won. But that's not what the numbers are saying now. There is an exhausted majority in America that wants neither of these candidates."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you running for president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I am. I have to. I love our country so much. It has given me everything. It has given so many people so much. It's the best gift any of us have ever, ever had. And it's at risk. We're in crisis. And we need change. And I'm ready to. My father gave his life to this country. Gave his life. A million Americans have given their life to protect us, our freedoms, everything that we love. And we are in a position right now where we may throw that away if we make the wrong choices. And I think the country is ready for change. I'm going to offer it. I'm going to be respectful. I'm sick of the nonsense. I'm sick of the mean spiritedness, the aggression, the anger, the fear, the misery. And we can be hopeful again. Let's be America again. I want to bring that message. It's an offering. It's not a mandate. And it's a choice. I think Americans should have a choice. Thank goodness. And we can still live in a country in which we do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Will you seek the Democratic nomination for president?"
+      }
+    ],
+    "speakername": "Dean Phillips",
+    "ground_truth": "Absolutely. Only as a Democrat. I'm a proud Democrat. I would call on anybody else who might be seeking to win the presidency to join. Don't run as a third-party candidate. Don't undermine the Democratic Party's interest in moving this country in a direction that I know will be the most beneficial. I'm afraid that we have people right now who are going to undermine the eventual Democratic nominee. I will run as a Democrat. I'm a proud Democrat, and if I'm not the nominee, I will do everything I possibly can. I will give it my all, just as much as I intend to give my own campaign to whoever that nominee is, including if it's President Biden. That is my commitment.",
+    "bio": "The subject (born January 20, 1969) is an American businessman and politician who has served as the U.S. representative from a midwestern congressional district since 2019. The district encompasses western suburbs of a major metropolitan area. A member of the Democratic Party, the subject has both owned and started several companies in addition to serving as president and CEO of their family's liquor business. They are the former co-owner of a gelato company and co-owns a coffee business. In 2023, they announced their intent to challenge Biden for the Democratic nomination in the 2024 presidential election. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am. I have to. I love our country so much. It has given me everything. It has given so many people so much. It's the best gift any of us have ever, ever had. And it's at risk. We're in crisis. And we need change. And I'm ready to. My father gave his life to this country. Gave his life. A million Americans have given their life to protect us, our freedoms, everything that we love. And we are in a position right now where we may throw that away if we make the wrong choices. And I think the country is ready for change. I'm going to offer it. I'm going to be respectful. I'm sick of the nonsense. I'm sick of the mean spiritedness, the aggression, the anger, the fear, the misery. And we can be hopeful again. Let's be America again. I want to bring that message. It's an offering. It's not a mandate. And it's a choice. I think Americans should have a choice. Thank goodness. And we can still live in a country in which we do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Will you seek the Democratic nomination for president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. Only as a Democrat. I'm a proud Democrat. I would call on anybody else who might be seeking to win the presidency to join. Don't run as a third-party candidate. Don't undermine the Democratic Party's interest in moving this country in a direction that I know will be the most beneficial. I'm afraid that we have people right now who are going to undermine the eventual Democratic nominee. I will run as a Democrat. I'm a proud Democrat, and if I'm not the nominee, I will do everything I possibly can. I will give it my all, just as much as I intend to give my own campaign to whoever that nominee is, including if it's President Biden. That is my commitment."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "President Biden is 80 years old. Fair game for your campaign to talk about, or will you leave the issue on the shelf?"
+      }
+    ],
+    "speakername": "Dean Phillips",
+    "ground_truth": "First of all, both leading candidates right now will be in their 80s, the oldest two Americans to ever serve in the office. It's not my job to tell anybody in this country what's too old, even what's too young. I will tell you one thing, it's time that we start engaging young people because some of the best and brightest, best ideas, most passionate, young people actually get it, unlike older generations, age is relative. That's for Americans to decide.",
+    "bio": "The subject (born January 20, 1969) is an American businessman and politician who has served as the U.S. representative from a midwestern congressional district since 2019. The district encompasses several suburban communities in the metropolitan area. A member of the Democratic Party, the subject has both owned and started several companies in addition to serving as president and CEO of their family's liquor business. They are the former co-owner of a gelato company and co-owns a coffee business. In 2023, they announced their intent to challenge the incumbent for the Democratic nomination in the 2024 presidential election. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. Only as a Democrat. I'm a proud Democrat. I would call on anybody else who might be seeking to win the presidency to join. Don't run as a third-party candidate. Don't undermine the Democratic Party's interest in moving this country in a direction that I know will be the most beneficial. I'm afraid that we have people right now who are going to undermine the eventual Democratic nominee. I will run as a Democrat. I'm a proud Democrat, and if I'm not the nominee, I will do everything I possibly can. I will give it my all, just as much as I intend to give my own campaign to whoever that nominee is, including if it's President Biden. That is my commitment."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "President Biden is 80 years old. Fair game for your campaign to talk about, or will you leave the issue on the shelf?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "First of all, both leading candidates right now will be in their 80s, the oldest two Americans to ever serve in the office. It's not my job to tell anybody in this country what's too old, even what's too young. I will tell you one thing, it's time that we start engaging young people because some of the best and brightest, best ideas, most passionate, young people actually get it, unlike older generations, age is relative. That's for Americans to decide."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have praised President Biden in the past. You've worked with him on different policy issues. Now you're running against him for the Democratic nomination. Where specifically do you believe he could have done a better job as president?"
+      }
+    ],
+    "speakername": "Dean Phillips",
+    "ground_truth": "I think President Biden has done a spectacular job for our country. I think he did meet the moment. Our country was at great, great risk when he took the presidency. I mean, at such great risk that I and our entire country were subject to an insurrection. I was in the [government building] chamber that day. I know what the former president did to our country. Imagine what he would have done had he won election that time. Imagine what he will do if he wins again. I think Joe Biden should be celebrated. I admire him. I hope the country, I wish the country, I wish the entire country would give him more of what I believe he has earned, which is our respect and our gratitude. But it's not about the past. This is an election about the future.",
+    "bio": "[target] (born January 20, 1969) is an American businessman and politician who has served as the U.S. representative from [state]'s 3rd congressional district since 2019. [target]'s district encompasses the western suburbs of [metropolitan area], such as [city1], [city2], [city3], [city4], [city5], and [city6]. A member of the Democratic Party, [target] has both owned and started several companies in addition to serving as president and CEO of his family's liquor business, the [company name]. He is the former co-owner of [company name] gelato and co-owns [company name]. In 2023, he announced his intent to challenge Biden for the Democratic nomination in the 2024 presidential election. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "First of all, both leading candidates right now will be in their 80s, the oldest two Americans to ever serve in the office. It's not my job to tell anybody in this country what's too old, even what's too young. I will tell you one thing, it's time that we start engaging young people because some of the best and brightest, best ideas, most passionate, young people actually get it, unlike older generations, age is relative. That's for Americans to decide."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have praised President Biden in the past. You've worked with him on different policy issues. Now you're running against him for the Democratic nomination. Where specifically do you believe he could have done a better job as president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think President Biden has done a spectacular job for our country. I think he did meet the moment. Our country was at great, great risk when he took the presidency. I mean, at such great risk that I and our entire country were subject to an insurrection. I was in the federal building that day. I know what the former president did to our country. Imagine what he would have done had he won election that time. Imagine what he will do if he wins again. I think Joe Biden should be celebrated. I admire him. I hope the country, I wish the country, I wish the entire country would give him more of what I believe he has earned, which is our respect and our gratitude. But it's not about the past. This is an election about the future."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But do you think his time should be done in public office after one term?"
+      }
+    ],
+    "speakername": "Dean Phillips",
+    "ground_truth": "considering what we are facing, considering what is on the horizon. Trump. Trump, world challenges, and also extraordinary domestic challenges. And we are not meeting the moment. Our country is not meeting the moment. And unless we're ready to give that torch to a new generation, not just me, one leader in this country cannot do it all. But a leader can inspire a country to do something differently.",
+    "bio": "The target (born January 20, 1969) is an American businessman and politician who has served as the U.S. representative from a congressional district since 2019. The district encompasses the western suburbs of a major metropolitan area. A member of the Democratic Party, the target has both owned and started several companies in addition to serving as president and CEO of a family liquor business. They are the former co-owner of a gelato company and co-owns a coffee business. In 2023, they announced their intent to challenge the incumbent for the Democratic nomination in the 2024 presidential election. The speaker's MBTI type is ENFP",
+    "bio_original": "Dean Benson Phillips (born January 20, 1969) is an American businessman and politician who has served as the U.S. representative from Minnesota's 3rd congressional district since 2019. Phillips's district encompasses the western suburbs of the Twin Cities, such as Bloomington, Minnetonka, Edina, Maple Grove, Plymouth, and Eden Prairie. A member of the Democratic Party, Phillips has both owned and started several companies in addition to serving as president and CEO of his family's liquor business, the Phillips Distilling Company. He is the former co-owner of Talenti gelato and co-owns Penny's Coffee. In 2023, he announced his intent to challenge Biden for the Democratic nomination in the 2024 presidential election. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But behind the scenes, are Democrats saying different things to you? Have you gotten encouragement from some elected Democrats to do this, to get in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. What do they say to you? Privately."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What do they say to you privately?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Everyone's in agreement. This is not, I'm not an outlier. I am not an outlier."
+      }
+    ],
+    "speakername": "Dean Phillips",
+    "ground_truth": "as it relates to the need for change, for the concern about the current president's ability to win the next election. It is pervasive, it is remarkably apparent to most, but the unwillingness to talk about it publicly, the unwillingness to say the quiet part out loud, is to me a sad example of the disease of our current political system in which there is no reward for telling the truth. There is no reward for being honest. There is no reward for being graceful. There is no reward for cooperation, and that's my ethos. America may not want it right now, they may not want cooperation. Maybe people think right now that fighting each other is the way through this. It's not. It has never worked. Are we going to vote out of fear, are we going to continue down this path of anger and aggression and division and fighting one another. Or are we going to start fighting together? And that's really what's this is about. And that's why I do believe that it is time for a new generation to take that torch, do it in a way that has not been done before, and do it in an American way. Real patriotism is working together, looking out for your fellow American, and moving forward. And anybody who claims to be a patriot, I would hope, would subscribe to that.",
+    "bio": "The subject (born January 20, 1969) is an American businessman and politician who has served as the U.S. representative from a midwestern state's congressional district since 2019. The district encompasses western suburban areas of a major metropolitan region. A member of the Democratic Party, the subject has both owned and started several companies in addition to serving as president and CEO of their family's beverage business. They are the former co-owner of a gelato brand and co-owns a coffee company. In 2023, they announced their intent to challenge the incumbent for the Democratic nomination in the 2024 presidential election. The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

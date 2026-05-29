@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, Marsha, I say over and over again, as a former member of law enforcement, I'm very clear, we follow the rules, we make sure that we cooperate and turn over any information that is needed, and it just really would be inappropriate to get in the way of the review of why it's taking place."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "There are continued headlines about various problems involving members of your administration. I wonder if this causes you to decide that maybe you're going to take action against some of them, and if you are, what action would you take, and if not, why not?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it's important to allow the process to take place. Right now, this review is showing that we're complying with it, and we're going to continue to do so. And this is what I've done all my life when it comes down to being a former law enforcement officer and now in the role as mayor. And I think we should allow the process to take place. And talking about any actions after that would be inappropriate without allowing the process to take place."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "don't have any lack of faith in your two people who have been three people who have been whose houses have been raided"
+      }
+    ],
+    "speakername": "Eric Adams",
+    "ground_truth": "I'm not aware of any misdoings, and I'm going to, again, follow the rules, and I will continue to tell the team to do that, and that's what they have been doing of my knowledge.",
+    "bio": "[target] (born September 1, 1960) is an American politician serving as the 18th and current Borough President of a major city district since 2014. He is a candidate in the 2021 local mayoral election in the Democratic primary. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it's important to allow the process to take place. Right now, this review is showing that we're complying with it, and we're going to continue to do so. And this is what I've done all my life when it comes down to being a former law enforcement officer and now in the role as public official. And I think we should allow the process to take place. And talking about any actions after that would be inappropriate without allowing the process to take place."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "don't have any lack of faith in your two people who have been three people who have been whose houses have been raided"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm not aware of any misdoings, and I'm going to, again, follow the rules, and I will continue to tell the team to do that, and that's what they have been doing of my knowledge."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So why do the feds keep targeting you and members of your administration? I'm sorry, but it's just like, why do they keep targeting you and members of your administration? I mean, it's like a constant drip, drip, drip."
+      }
+    ],
+    "speakername": "Eric Adams",
+    "ground_truth": "I'm sorry, but why do they keep targeting you and members of your administration? I mean, it's like a constant drip, drip, drip. Those are questions I can't answer. I know what I'm going to do, and that is information that's needed to show that I have always followed the law. We're going to give that information.",
+    "bio": "The speaker (born September 1, 1960) is an American politician serving as a senior public official in a major metropolitan area since 2014. They are a candidate in an upcoming mayoral election in the Democratic primary. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] is here. [city], [target]. And we also have lawyer and political commentator Ola Yemi. Yes, right here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's right."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Good morning. Good morning, Mayor. How you feeling, Mayor?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Good, good, good. You know, even before we get into the conversation, I was with Jordan the other day, my son, and somehow your name came up."
+      }
+    ],
+    "speakername": "Eric Adams",
+    "ground_truth": "And there was a group of young people in the room talking about politics. It's amazing how so many people are into politics now. And they came up with saying something about there were people saying that how you were trying to push [prominent political figure], push [prominent political figure], push [prominent political figure]. So Jordan pulled up this.",
+    "bio": "The speaker (born September 1, 1960) is an American politician serving as the 18th and current Borough President of [city district] since 2014. He is a candidate in the 2021 [city] mayoral election in the Democratic primary. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "video one of your shows where you broke down each time you were talking about what was wrong about his race absolutely i just broke it down piece by piece and jordan said dad you know what truth doesn't matter anymore folks people don't care about truth nobody cares about facts no longer"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I've never pushed [masked name]. I actually do the opposite."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you"
+      }
+    ],
+    "speakername": "Eric Adams",
+    "ground_truth": "But we are in a generation where everyone gets up in the morning, look on social media and whatever's on there, they identify it as the fact. The headline.",
+    "bio": "An American politician serving as the current Borough President of a major city district since 2014. He is a candidate in the 2021 local mayoral election in the Democratic primary. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I've never pushed [public figure]. I actually do the opposite."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But we are in a generation where everyone gets up in the morning, look on social media and whatever's on there, they identify it as the fact. The headline."
+      }
+    ],
+    "speakername": "Eric Adams",
+    "ground_truth": "Exactly. No one goes into the body of the story. Everybody's just, well, you know what, this is what the headlines say. And that's the reality of it. And so it was like an eye opener for him of how I said, [name], for over and over again, that one moment took away all those years of me saying, have your own facts. Don't let anybody define for you. You define for yourself. You know, that's the power of this microphone. That's the power of media, putting those facts out. If we don't control the message, the message will control us.",
+    "bio": "A politician serving as the 18th and current Borough President of a major city district since 2014. They are a candidate in the 2021 local mayoral election in the Democratic primary. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

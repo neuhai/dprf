@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you are going to be championing the country's green energy also, that's a big, big thing on your shoulders. So how much time are you able to take out?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, I have a philosophy, this is my passion project."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I give about one hour a day or one and a half hour a day to [wildlife sanctuary] where we do animal rescue, animal safe. The rest of the time I'm devoted to my father and I give about 14 hours a day."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so 15 hours of work of which one hour is one one and a half hours no matter what however"
+      }
+    ],
+    "speakername": "Anant Ambani",
+    "ground_truth": "difficult the days one and a half and weekends for me [residential area] is my home so I try to base myself over here so I weekends and whenever I get a holiday so [spouse] complains a lot but [spouse] now loves it so like in the middle she would say but now she wants to come to take care of the animals more than me so [spouse] is a great support.",
+    "bio": " The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I give about one hour a day or one and a half hour a day to the animal sanctuary where we do animal rescue, animal safe. The rest of the time I'm devoted to my father and I give about 14 hours a day."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so 15 hours of work of which one hour is one one and a half hours no matter what however"
+      },
+      {
+        "speaker": "[target]",
+        "text": "difficult the days one and a half and weekends for me the sanctuary is my home so I try to base myself over here so I weekends and whenever I get a holiday so my partner complains a lot but she now loves it so like in the middle she would say but now she wants to come to take care of the animals more than me so she is a great support."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So she's also gotten involved into it? Yes, she's gotten involved. She's gotten involved. So let me ask you, do you have a personal favourite? You've rescued so many animals. So my mother. Yeah."
+      }
+    ],
+    "speakername": "Anant Ambani",
+    "ground_truth": "And me and my father, my mother mostly rescued our first elephant. And my mother, as you know, is my biggest inspiration. And I think that elephant is our favorite amongst the family. And my nephew, he...",
+    "bio": "The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so 15 hours of work of which one hour is one one and a half hours no matter what however"
+      },
+      {
+        "speaker": "[target]",
+        "text": "difficult the days one and a half and weekends for me [location] is my home so I try to base myself over here so I weekends and whenever I get a holiday so [name] complains a lot but [name] now loves it so like in the middle she would say but now she wants to come to take care of the animals more than me so [name] is a great support."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So she's also gotten involved into it? Yes, she's gotten involved. She's gotten involved. So let me ask you, do you have a personal favourite? You've rescued so many animals. So my mother. Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And me and my father, my mother mostly rescued [name], our first elephant. And my mother, as you know, is my biggest inspiration. And I think [name] is our favorite amongst the family. And my brother's son, [name], he..."
+      }
+    ],
+    "speakername": "Anant Ambani",
+    "ground_truth": "His only vacation is [location]. So when we get... So my whole family's vacation point is [location]. We don't go anywhere else.",
+    "bio": " The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So she's also gotten involved into it? Yes, she's gotten involved. She's gotten involved. So let me ask you, do you have a personal favourite? You've rescued so many animals. So my mother. Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And me and my father, my mother mostly rescued Gauri, our first elephant. And my mother, as you know, is my biggest inspiration. And I think Gauri is our favorite amongst the family. And my brother's son, Prithvi, he..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "His only vacation is [location]. So when we get... So my whole family's vacation point is [location]. We don't go anywhere else."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So, are you going to allow others also to come and study, learn, are you going to open it to the public?"
+      }
+    ],
+    "speakername": "Anant Ambani",
+    "ground_truth": "an education hub. As you know, we have more than 200 rescued elephants, we have more than 150 rescued leopards. This is going to be an education hub. We're just waiting.",
+    "bio": "The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So, are you going to allow others also to come and study, learn, are you going to open it to the public?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "an education hub. As you know, we have more than 200 rescued elephants, we have more than 150 rescued leopards. This is going to be an education hub. We're just waiting."
+      },
+      {
+        "speaker": "[target]",
+        "text": "for the right time to open to the public we're also building a zoological garden which is a whole new we don't want the cage concept we don't want people to come and see animals are supposed to stay in cages or people should come and be animals should be used as a source of entertainment"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "A single elephant at their place was caged or chained. So that was phenomenal. Even the animals you saw every exhibit."
+      }
+    ],
+    "speakername": "Anant Ambani",
+    "ground_truth": "was made at natural way so we are hoping to open to the public soon and this is a complete not not-for-profit endeavor we have no business interests in this endeavor",
+    "bio": "The speaker's MBTI type is INFP",
+    "split": "val"
+  }
+]

@@ -15,10 +15,37 @@ import time
 import random
 import aioboto3
 from botocore.config import Config
-from sglang.utils import launch_server_cmd
-from sglang.utils import wait_for_server, print_highlight, terminate_process
 import tiktoken
 import atexit  
+# Optional SGLang utilities (only needed for task/refiner type "sglang")
+try:
+    from sglang.utils import (
+        launch_server_cmd as sglang_launch_server_cmd,
+        wait_for_server as sglang_wait_for_server,
+        terminate_process as sglang_terminate_process,
+    )
+    SGLANG_AVAILABLE = True
+except ImportError:
+    sglang_launch_server_cmd = None
+    sglang_wait_for_server = None
+    sglang_terminate_process = None
+    SGLANG_AVAILABLE = False
+
+def _safe_terminate_process(process):
+    """Gracefully terminate a subprocess even if SGLang helpers are unavailable."""
+    if process is None:
+        return
+    try:
+        if sglang_terminate_process:
+            sglang_terminate_process(process)
+        else:
+            process.terminate()
+            try:
+                process.wait(timeout=10)
+            except Exception:
+                process.kill()
+    except Exception as termination_error:
+        logging.getLogger("DPRF.Agent").warning(f"Failed to terminate process cleanly: {termination_error}")
 # Check if running on Apple Silicon  
 IS_APPLE_SILICON = platform.system() == "Darwin" and platform.machine().startswith("arm")  
 
@@ -46,7 +73,13 @@ from .utils import (
     save_json,  
     format_persona_prompt,  
     format_peer_review_instruction  
-)  
+)
+from .token_usage import (
+    TokenUsageTracker,
+    record_bedrock_usage,
+    record_estimated_usage,
+    record_openai_usage,
+)
 
 def is_likely_valid_api_key(key):  
     """Check if a string looks like a valid OpenAI API key format"""  
@@ -61,6 +94,30 @@ def is_likely_valid_api_key(key):
     # Traditional OpenAI keys usually start with 'sk-' and are 51 characters  
     valid_format = re.match(r'^sk-[A-Za-z0-9]{48}$', key)  
     return bool(valid_format)  
+
+
+def normalize_openai_base_url(base_url: Optional[str]) -> Optional[str]:
+    """Normalize OpenAI-compatible base URL (strip trailing /responses)."""
+    if not base_url:
+        return None
+    normalized = base_url.strip().rstrip("/")
+    if normalized.endswith("/responses"):
+        normalized = normalized[: -len("/responses")]
+    return normalized or None
+
+
+def is_gpt_5_family(model_name: str) -> bool:
+    return model_name.lower().startswith("gpt-5")
+
+
+GPT5_MIN_COMPLETION_TOKENS = 8000
+
+
+def openai_max_completion_tokens(model_name: str, max_tokens: int) -> int:
+    """GPT-5 models may spend the entire budget on reasoning tokens; reserve headroom for content."""
+    if is_gpt_5_family(model_name):
+        return max(max_tokens, GPT5_MIN_COMPLETION_TOKENS)
+    return max_tokens
 
 try:
     import aioboto3
@@ -146,7 +203,11 @@ class DPRFAgent:
         self.top_p = top_p  
         self.save_logs = save_logs  
         self.log_dir = log_dir  
-        self.model_kwargs = model_kwargs or {}  
+        self.model_kwargs = model_kwargs or {}
+        self.token_usage = self.model_kwargs.get("shared_token_usage")
+        if self.token_usage is None:
+            self.token_usage = TokenUsageTracker()
+        self.model_kwargs["shared_token_usage"] = self.token_usage
         self.bedrock_region_name = bedrock_region_name 
         
         # Initialize model dictionaries  
@@ -178,8 +239,17 @@ class DPRFAgent:
         # Use provided API key or the environment variable  
         provided_api_key = openai_api_key or openai.api_key or os.environ.get("OPENAI_API_KEY", "")  
         
-        # Validate the API key if using OpenAI  
-        if (task_model_type == "openai" or refiner_model_type == "openai") and not is_likely_valid_api_key(provided_api_key):  
+        self.openai_base_url = normalize_openai_base_url(
+            os.environ.get("OPENAI_BASE_URL") or os.environ.get("AZURE_OPENAI_BASE_URL")
+        )
+
+        # Validate the API key if using OpenAI.
+        # Skip strict key-format validation for custom OpenAI-compatible endpoints (e.g. Azure).
+        if (
+            (task_model_type == "openai" or refiner_model_type == "openai")
+            and not self.openai_base_url
+            and not is_likely_valid_api_key(provided_api_key)
+        ):
             self.logger.error("The provided OpenAI API key appears to be invalid.")  
             raise ValueError("Invalid OpenAI API key format. Please provide a valid API key.")  
             
@@ -237,6 +307,8 @@ class DPRFAgent:
         else:
             self.logger.info(f"Using separate model instances for task ({task_model_name}) and refiner ({refiner_model_name})")
             refiner_model_kwargs = self.model_kwargs.copy()
+
+        refiner_model_kwargs["shared_token_usage"] = self.token_usage
             
         # Add vLLM specific parameters if needed
         if refiner_model_type == "vllm":  
@@ -281,7 +353,7 @@ class DPRFAgent:
         if hasattr(self, 'server_process') and self.server_process is not None:
             try:
                 self.logger.info(f"Terminating SGLang server process (PID: {self.server_process.pid})")
-                terminate_process(self.server_process)
+                _safe_terminate_process(self.server_process)
                 self.logger.info("SGLang server process terminated successfully")
                 self.server_process = None
                 self.port = None
@@ -415,13 +487,16 @@ class DPRFAgent:
         """Generate text using the specified model."""  
         if model_type == "openai":  
             # Existing OpenAI code  
-            response = await openai.AsyncClient().chat.completions.create(  
-                model=model_name,  
-                messages=messages,  
-                max_tokens=self.max_tokens,  
-                temperature=self.temperature,  
-                top_p=self.top_p  
-            )  
+            request_kwargs = {
+                "model": model_name,
+                "messages": messages,
+                "max_completion_tokens": openai_max_completion_tokens(self.task_model_name, self.max_tokens),
+            }
+            if not is_gpt_5_family(model_name):
+                request_kwargs["temperature"] = self.temperature
+                request_kwargs["top_p"] = self.top_p
+            response = await openai.AsyncClient().chat.completions.create(**request_kwargs)
+            record_openai_usage(self.token_usage, response, source="task_openai")
             return response.choices[0].message.content.strip()
         
         elif model_type in ["hf", "hf_8bit"]:  
@@ -533,7 +608,11 @@ class DPRFAgent:
     def _setup_openai_task_model(self, task_model_name: str, actual_api_key: str):
         """Set up OpenAI task model."""
         self.logger.info("Using OpenAI API directly")
-        self.openai_client = openai.AsyncClient(api_key=actual_api_key)
+        client_kwargs = {"api_key": actual_api_key}
+        if self.openai_base_url:
+            client_kwargs["base_url"] = self.openai_base_url
+            self.logger.info(f"Using custom OpenAI-compatible base URL: {self.openai_base_url}")
+        self.openai_client = openai.AsyncClient(**client_kwargs)
         self.stop_tokens = []
         self.logger.info("OpenAI API client initialized")
 
@@ -684,6 +763,11 @@ class DPRFAgent:
 
     def _setup_sglang_task_model(self, task_model_name: str, actual_api_key: str):  
         """Set up SGLang API service for SGLang models."""  
+        if not SGLANG_AVAILABLE:
+            raise ImportError(
+                "SGLang support is requested but the 'sglang' package is not installed. "
+                "Install sglang (and sgl-kernel if running locally) to use task_model_type='sglang'."
+            )
         try:  
             self.logger.info(f"Initializing SGLang API service for model {task_model_name}")  
             
@@ -705,8 +789,8 @@ class DPRFAgent:
             
             self.logger.info(f"Starting SGLang server with context_length={context_length}, mem_fraction={mem_fraction}")
             
-            self.server_process, self.port = launch_server_cmd(server_cmd)  
-            wait_for_server(f"http://localhost:{self.port}")  
+            self.server_process, self.port = sglang_launch_server_cmd(server_cmd)  
+            sglang_wait_for_server(f"http://localhost:{self.port}")  
             self.logger.info(f"SGLang server started on port {self.port} with {gpu_count} GPU(s)")  
             
             # Configure retry attempts for SGLang API calls
@@ -757,7 +841,7 @@ class DPRFAgent:
             if hasattr(self, 'server_process') and self.server_process is not None:
                 try:
                     self.logger.info("Cleaning up SGLang process due to initialization failure")
-                    terminate_process(self.server_process)
+                    _safe_terminate_process(self.server_process)
                     self.server_process = None
                     self.port = None
                 except Exception as cleanup_error:
@@ -906,17 +990,25 @@ class DPRFAgent:
             return response_text
 
         elif self.task_model_type == "openai":
-            response = await self.openai_client.chat.completions.create(
-                model=self.task_model_name,
-                messages = [
+            request_kwargs = {
+                "model": self.task_model_name,
+                "messages": [
                     {"role": "system", "content": f"You are an AI assistant generating response according to given persona"},
                     {"role": "user", "content": f"{prompt}"}
                 ],
-                max_tokens=self.max_tokens,
-                temperature=self.temperature,
-                top_p=self.top_p
-            )
-            return response.choices[0].message.content.strip()
+                "max_completion_tokens": openai_max_completion_tokens(
+                    self.task_model_name, max_output_tokens or self.max_tokens
+                ),
+            }
+            if not is_gpt_5_family(self.task_model_name):
+                request_kwargs["temperature"] = self.temperature
+                request_kwargs["top_p"] = self.top_p
+            response = await self.openai_client.chat.completions.create(**request_kwargs)
+            record_openai_usage(self.token_usage, response, source="task_openai")
+            content = response.choices[0].message.content
+            if content is None:
+                content = ""
+            return content.strip()
             
         elif self.task_model_type in ["hf", "hf_8bit"]:  
             # Use Hugging Face model  
@@ -996,6 +1088,7 @@ class DPRFAgent:
                 
                 # Make the API call
                 response = await bedrock_runtime.converse(**request_body)
+                record_bedrock_usage(self.token_usage, response, source="task_bedrock")
                 return response
 
     async def _call_sglang_with_retry(self, messages: List[Dict[str, Any]], max_output_tokens: int, max_attempts: Optional[int] = None) -> str:
@@ -1027,6 +1120,7 @@ class DPRFAgent:
                         top_p=self.top_p,
                         stop=self.task_sampling_params.stop
                     )
+                record_openai_usage(self.token_usage, response, source="task_sglang")
                 
                 # If successful, return the response text
                 return response.choices[0].message.content.strip()

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What happens between now, between the authorizing vote today, and what happens next? Well, we're going to work with the Attorney General for a short period of time in the hope that he will reveal to us the entire Mueller report and all the underlying materials and we'll go to court to get permission to have the 6E material. But if that doesn't work out in a very short order, we will issue the subpoenas."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "What does that mean in the very short run? Are you willing to do that as soon as this week to serve the [government department]? I'm just going to."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm going to say very short order, I can't say how many days."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "you willing to negotiate any middle ground in terms of redactions of the moment? You're not."
+      }
+    ],
+    "speakername": "Jerry Nadler",
+    "ground_truth": "No. The committee must see everything, as was done in every prior instance. Obviously, some material will have to be redacted before it's released to the public to protect privacy, to protect the various rights, but the committee is entitled and must see all the material and make judgments as to what can be redacted for the public release by ourselves. We handle confidential material all the time. We have the facilities to do that. We make those judgments. And we're not willing to let the Attorney General, who, after all, is a political appointee of the president, make that judgment, substitute his judgment for ours. Do you plan to speak to the Attorney General to figure out whether or not he will join you in court? Well, I think I said we were going to negotiate with him. Yes, you do speak to somebody you're negotiating with. Does it feel strange all these years later to be holding a 10-star sort of a model of transparency?",
+    "bio": "The subject is an American attorney and politician serving as the U.S. Representative for [location]'s 10th congressional district since 2013. A member of the Democratic Party, they have served in Congress since 1992, previously representing the state's 17th congressional district (1992-1993) and 8th congressional district (1993-2013). The subject has also been Chairman of the House Judiciary Committee since 2019. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "What does that mean in the very short run? Are you willing to do that as soon as this week to serve the Justice Department? I'm just going to."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm going to say very short order, I can't say how many days."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "you willing to negotiate any middle ground in terms of redactions of the moment? You're not."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No. The committee must see everything, as was done in every prior instance. Obviously, some material will have to be redacted before it's released to the public to protect privacy, to protect the various rights, but the committee is entitled and must see all the material and make judgments as to what can be redacted for the public release by ourselves. We handle confidential material all the time. We have the facilities to do that. We make those judgments. And we're not willing to let the Attorney General, who, after all, is a political appointee of the president, make that judgment, substitute his judgment for ours. Do you plan to speak to the Attorney General to figure out whether or not he will join you in court? Well, I think I said we were going to negotiate with him. Yes, you do speak to somebody you're negotiating with. Does it feel strange all these years later to be holding a 10-star sort of a model of transparency?"
+      }
+    ],
+    "speakername": "Jerry Nadler",
+    "ground_truth": "No, we're not holding up [name] as a model of transparency. We're holding up the fact that his entire work product was given to the Judiciary Committee, to the Congress, as was the case with [name], as was the case in various other situations, period. The quality of the work, et cetera, et cetera, is a different question altogether. And, again, the Republicans kept making the same fundamental, repeating the same fundamental mistruth time after time. When we were opposing release of some of that material 20 years ago, it was released to the public we were opposing because that material, some of it was very salacious, it was very private, it involved private individuals and should not have been released to the public. It had already been released to the committee, which was proper. That's what we're asking for now. It's the release to the committee. That's not what was at issue 20 years ago.",
+    "bio": "The target is an attorney and politician serving as the U.S. Representative for [location]'s 10th congressional district since 2013. A member of the Democratic Party, they have served in Congress since 1992, previously representing the state's 17th congressional district (1992-1993) and 8th congressional district (1993-2013). The target has also been Chairman of the House Judiciary Committee since 2019. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I didn't actually learn that much because we didn't have very much personal contact at all. I think I met him two or three times personally, but he threw a lot of money and political influence around and he wanted to get his way and I battled him because I disagreed with him."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "He called you names and..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I don't really remember that, he may have."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "He said he called you Fat [target]."
+      }
+    ],
+    "speakername": "Jerry Nadler",
+    "ground_truth": "Yeah, but was it at that time or later? I don't remember. He, when he first proposed this gargantuan project, everybody opposed it. And I was one of the everybody's. I mean, all the local legislators, every community group, everybody opposed it. It wasn't just you. Oh, no. Everybody opposed it. It was a ridiculous 150-story building surrounded by seven large office buildings plus television. It was ridiculous. It was. And I thought the design was grotesque, too, but that's beside the point. It was much too big, et cetera. Universal opposition to it. And this was from 1985 to 91. In 91, a compromise was reached. A much smaller project, but still gargantuan. And a lot of the groups that had opposed him supported it. And some of the civic groups did because you're going to get a nice park and various other things. And most of the other, I was a state assemblyman at the time, and most of the other legislators switched from opposition to support. I did not. I didn't like the compromise either. You know, one man's compromise is another man's sellout, you know, depending on your viewpoint. I thought it was still terrible. And I then became the only legislator opposing it for a while, eventually joined by two more. And I continued to be one of the leaders of the opposition.",
+    "bio": "The target (born June 13, 1947) is an American attorney and politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, they have served in Congress since 1992, previously representing different congressional districts (1992-2013). The target has also been Chairman of a major House Committee since 2019. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, but was it at that time or later? I don't remember. He, when he first proposed this gargantuan project, everybody opposed it. And I was one of the everybody's. I mean, all the local legislators, every community group, everybody opposed it. It wasn't just you. Oh, no. Everybody opposed it. It was a ridiculous 150-story building surrounded by seven large office buildings plus television. It was ridiculous. It was. And I thought the design was grotesque, too, but that's beside the point. It was much too big, et cetera. Universal opposition to it. And this was from 1985 to 91. In 91, a compromise was reached. A much smaller project, but still gargantuan. And a lot of the groups that had opposed him supported it. And some of the civic groups did because you're going to get a nice park and various other things. And most of the other, I was a state assemblyman at the time, and most of the other legislators switched from opposition to support. I did not. I didn't like the compromise either. You know, one man's compromise is another man's sellout, you know, depending on your viewpoint. I thought it was still terrible. And I then became the only legislator opposing it for a while, eventually joined by two more. And I continued to be one of the leaders of the opposition."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Does anything about that experience inform your approach to the current situation?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Not really. We knew he was unscrupulous, but you knew that from just his general dealings in the city. Many of the people who supported him, whether they were vendors or contractors or architects, ended up opposing him politically because they didn't like the way they were treated. They didn't think they were treated fairly, but that was really later. No, I just thought he was overbearing. I thought he was overbearing, and I thought he felt he could get his way no matter what because he had the immense money and the resources, and that was wrong. I should make it clear. I opposed the project for a reason that almost nobody else opposed it. That's why I didn't compromise. Most people opposed the project for all the standard reasons you oppose a giant real estate project. It's too big, too tall, block the sun, too many people, too dense, all of which was true. I opposed it because it was built on a rail yard, which I wanted to keep. I told him when he first bought the land in 1985, I told him that if he designed his project in such a way as to allow the rail yard to continue operating underneath it, and that could have been done because it was a 70-foot drop, then I might support his project. I might oppose it because I didn't know what it was going to be, but I wasn't going to kill myself. If he designed it in such a way as to preclude the continued operation of the rail yard, I would do everything I could to stop this project because I thought the rail yard was vital because"
+      }
+    ],
+    "speakername": "Jerry Nadler",
+    "ground_truth": "At that time, there were still half a million manufacturing jobs in the city. Half of them, a quarter of a million in the downtown area below the central district, dependent ultimately on rail transportation, and I wanted to save those jobs. To me, that was the issue.",
+    "bio": "The target is an American attorney and politician serving as a U.S. Representative since 2013. A member of the Democratic Party, they have served in Congress since 1992, previously representing different congressional districts (1992-2013). The target has also been Chairman of a major House Committee since 2019. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "At that time, there were still half a million manufacturing jobs in this major city. Half of them, a quarter of a million in the central district below the midtown area, dependent ultimately on rail transportation, and I wanted to save those jobs. To me, that was the issue."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So do you think of that experience?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "he designed it so it didn't save the reality and that's why I led the opposition."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And do you think of that experience as a fight with the former president that you won unequivocally because it wasn't built? No."
+      }
+    ],
+    "speakername": "Jerry Nadler",
+    "ground_truth": "No, we didn't win. The so-called compromise, which was much too big and large, was built. The rail yard stopped. No, I don't think it was a win at all. Quite the contrary.",
+    "bio": "Born June 13, 1947, is an American attorney and politician serving as the U.S. Representative for a major northeastern state's congressional district since 2013. A member of the Democratic Party, they have served in Congress since 1992, previously representing different congressional districts (1992-2013). The individual has also been Chairman of a major House Committee since 2019. The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

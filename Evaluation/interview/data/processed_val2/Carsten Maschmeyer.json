@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Once you are an entrepreneur, you are always an entrepreneur. And I went back to what I love most. Coaching young people with entrepreneurial spirit, helping them to increase, to develop their skills. And my added value is my experience, my knowledge and my network."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So I listen to this. I'm scouting digital and tech trends around the world in order to bring it to you. And I've helped numerous companies to set up ecosystems of digital products and services and to increase their reach with attention hacking."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Hey guys, we are here with [target], we are really, really happy to have you here on board. For those who might not know him, the two or three, [target] is known for his role in the national business investment show, but what a lot of people don't know, that he was a tremendous successful entrepreneur and did also large exits. My big question first would be, why are you still building such a great corporation, even though you have already a large exit behind you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "In 1988, I founded a financial advisory firm, the first and later also the biggest independent financial advisory in Europe."
+      }
+    ],
+    "speakername": "Carsten Maschmeyer",
+    "ground_truth": "We expanded in 11 countries. We had 10,000 advisors, more than 2 million customers with 10 million contacts. We've elicited the national stock exchange.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So I listen to this. I'm scouting digital and tech trends around the world in order to bring it to you. And I've helped numerous companies to set up ecosystems of digital products and services and to increase their reach with attention hacking."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Hey guys, we are here with [target], we are really, really happy to have you here on board. For those who might not know him, the two or three, [target] is known for his role in the national business investment show, but what a lot of people don't know, that he was a tremendous successful entrepreneur and did also large exits. My big question first would be, why are you still building such a great corporation, even though you have already a large exit behind you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "In 1988, I founded a financial advisory firm, the first and later also the biggest independent financial advisory in Europe."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We expanded in 11 countries. We had 10,000 advisors, more than 2 million customers with 10 million contacts. We've elicited the national stock exchange index."
+      }
+    ],
+    "speakername": "Carsten Maschmeyer",
+    "ground_truth": "And my exit was in 2008. We achieved in 2007 more than 18 billion top-line revenues. A major insurance company bought my stake. And after that, once you are an entrepreneur, you are obviously an entrepreneur. And I went back to what I love most. Coaching young people with entrepreneurial spirit, helping them to increase, to develop their skills. And my added value is my experience, my knowledge and my network.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And my exit was in 2008. We achieved in 2007 more than 18 billion top-line revenues. A major insurance company bought my stake. And after that, once you are an entrepreneur, you are obviously an entrepreneur. And I went back to what I love most. Coaching young people with entrepreneurial spirit, helping them to increase, to develop their skills. And my added value is my experience, my knowledge and my network."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What also a lot of people don't know is that you are really deeply rooted in the insurance industry. You have worked several decades in the insurance industry, so that people can also draw from that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I know, of course, the pain and the emotion of the customers, the needs of the salespeople and the importance of the efficiency of the back office. So I think that I have the dream insurance company in my mind and we will not see a revolution, a lot of evolutions and I add it together."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "My route has a venture arm. What kind of investments, what kind of startups are you looking for to invest in?"
+      }
+    ],
+    "speakername": "Carsten Maschmeyer",
+    "ground_truth": "When we started 10 years ago, we just invested in later stage companies because we said the ticket size was too low, but the ticket size in the beginning has the highest leverage effect. So, we have pre-seed, seed with our investment group in a major tech hub. We invest up to $500,000 in American early stage companies and in Europe we have our capital fund, later stage investments, average ticket size $7.5 million, so we can go through all the phases of the growth of the founders and of his fundraising life cycle.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I know, of course, the pain and the emotion of the customers, the needs of the salespeople and the importance of the efficiency of the back office. So I think that I have the dream insurance company in my mind and we will not see a revolution, a lot of evolutions and I add it together."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "My route has a venture arm. What kind of investments, what kind of startups are you looking for to invest in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "When we started 10 years ago, we just invested in later stage companies because we said the ticket size was too low, but the ticket size in the beginning has the highest leverage effect. So, we have pre-seed, seed with our investment group in [location], [location]. We invest up to $500,000 in American early stage companies and in Europe we have our capital group, later stage investments, average ticket size $7.5 million, so we can go through all the phases of the growth of the founders and of his fundraising life cycle."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "My next question is, what kind of startups in and outside the insurance and banking and finance space have you impressed in the last few months?"
+      }
+    ],
+    "speakername": "Carsten Maschmeyer",
+    "ground_truth": "in the last few months i was totally impressed of two us startups observe ai artificial intelligence for call centers and tomorrow excellent company in europe we are invested in technology labs documentation the machine learns and read whether the customer wrote the letter changes the address bank account so it's more efficiency because every startup must have a big advantage something must be faster cheaper easier for customer or sales agent",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "My next question is, what kind of startups in and outside the insurance and banking and finance space have you impressed in the last few months?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "in the last few months i was totally impressed of two startups observe ai artificial intelligence for call centers and tomorrow excellent company in europe we are invested in documentation the machine learns and read whether the customer wrote the letter changes the address bank account so it's more efficiency because every startup must have a big advantage something must be faster cheaper easier for customer or sales agent"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "often emphasize how important is for you the team of the founders. Why is that and how do you help these teams and these startups?"
+      }
+    ],
+    "speakername": "Carsten Maschmeyer",
+    "ground_truth": "Indeed, I'm totally convinced that the team is everything. I hate teams, three people, same professor, same institution. I prefer complementary teams. One is very good in tech, another one must be good in planning and also minimum one person of the founding team must be a brilliant salesperson. Selling to customers, selling to cooperation partners, selling to the press, selling to investors, selling to applicants because we are in the middle of a war for talents and the team is everything. We help them to increase their communication skills and sales performance because that is so important and they love our sales support.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

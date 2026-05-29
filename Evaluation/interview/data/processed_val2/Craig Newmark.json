@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, who you sort of turned the company over to in terms of the day-to-day running?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, Jim is a very good CEO, a very good manager. Me, my management skills are charitably limited."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And yet you got this behemoth off the ground."
+      }
+    ],
+    "speakername": "Craig Newmark",
+    "ground_truth": "Yeah, people are sometimes good at starting something through commitment and persistence, but sometimes such people are not good for getting it beyond that.",
+    "bio": " The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "If you're lucky, then one gets out of the way in time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, although I was struck by, I've read a lot about you, obviously, mostly on the Internet, and one of the things that you say, which strikes me as a management principle, is your belief in simplicity."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I started it off simply because I recognized that I have no design skills, so even in 1995,"
+      }
+    ],
+    "speakername": "Craig Newmark",
+    "ground_truth": "It was about as simple as I could make it. I was also considering that we were just bombarded by too much media, and something that's simple and gets to the point is pretty good. A colleague, who's also trained as an engineer, decided just to maintain that philosophy so the site is as simple and fast as we can make it.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, although I was struck by, I've read a lot about you, obviously, mostly on the Internet, and one of the things that you say, which strikes me as a management principle, is your belief in simplicity."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I started it off simply because I recognized that I have no design skills, so even in 1995,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was about as simple as I could make it. I was also considering that we were just bombarded by too much media, and something that's simple and gets to the point is pretty good. Jim, who's also trained as an engineer, decided just to maintain that philosophy so the site is as simple and fast as we can make it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So have there been temptations to make it more complicated?"
+      }
+    ],
+    "speakername": "Craig Newmark",
+    "ground_truth": "never much the way of temptations to make it more complicated. Sometimes there's some temptation to make the functionality a little broader to use some fancier technology. We do that very gingerly.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So have there been temptations to make it more complicated?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "never much the way of temptations to make it more complicated. Sometimes there's some temptation to make the functionality a little broader to use some fancier technology. We do that very gingerly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "because we routinely find out what sounds cool to a technologist or maybe a designer is of no interest to a person in the community."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So even though you're both technically minded, you've kept your sights on what ordinary people can understand."
+      }
+    ],
+    "speakername": "Craig Newmark",
+    "ground_truth": "Yeah, well we just figure that we use the site ourselves, we use a lot of other sites, we have some idea of those things which work and those things which do the opposite.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "because we routinely find out what sounds cool to a technologist or maybe a designer is of no interest to a person in the community."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So even though you're both technically minded, you've kept your sights on what ordinary people can understand."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, well we just figure that we use the site ourselves, we use a lot of other sites, we have some idea of those things which work and those things which do the opposite."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One of the things, one of the values that you propound for the platform is that it's community-friendly. Could you explain what you mean by that and how you've kept it that way as far as possible?"
+      }
+    ],
+    "speakername": "Craig Newmark",
+    "ground_truth": "Well, we run as a serious business and as a serious community service. That's basically just what feels right, and it works for us in every way we've considered. So we just maintained our commitment to that, and I intend to maintain that commitment only as long as I live.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "val"
+  }
+]

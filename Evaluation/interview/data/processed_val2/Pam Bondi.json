@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I've been on the phone with him non-stop."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I talked to him on the ride over here. He is gonna do fantastic"
+      },
+      {
+        "speaker": "[target]",
+        "text": "is"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "all right let's start 15 days you've come in to what I think is the single most important cabinet position in this administration because we went through four years of weaponizing the department using it to attack his enemies and to support his friends so let me ask you come into the department you've got a mission you've got a mission to restore integrity to the department to end the weaponization and politicization how do you do that how do you get that done"
+      }
+    ],
+    "speakername": "Pam Bondi",
+    "ground_truth": "You know, the volume, Senator, what concerned me the most, it's the volume of how bad it was. And it still is. We're working on it. It's day by day by day. But we've got a team of great people. And on day one, I issued 14 executive orders. And number one is the weaponization ends and it ends now. And that's what we did.",
+    "bio": "The speaker (born November 17, 1965) is an American attorney, lobbyist, and politician who served as the 37th state attorney general from 2011 to 2019. A member of the political party, they were the first woman elected to the office. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Their core function, and that's thanks to getting back in office. And he gave us a clear directive, make the country safe. And that's what we're going to do. To start with, the law enforcement agencies talking about cash, these men and women didn't go to the training academy. They're not risking their lives to waste their time on all this politicization and raiding the private estate. Really? Stopping. All of that is stopping. And we are returning them to their core function, fighting violent crime."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's what the great majority of men and women in law enforcement, DEA, ATF, US Marshals, FBI, as well as the incredible legal team at the Justice Department, that's what they want to do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So let's talk about one of the most lawless aspects of the last four years, which was the open borders that we saw and the 12 million illegal immigrants that have come into this country. You've had just two weeks, but you've hit the ground running, going after the criminals, going after the murderers, going after the rapists, going after the child molesters, going after the gang members. Tell us, number one, what you're doing as attorney general that is making a real difference, that is already making the country safer. And number two, I understand you have some breaking news concerning my home state, which I'm particularly proud to hear."
+      }
+    ],
+    "speakername": "Pam Bondi",
+    "ground_truth": "I do and the press release isn't even out yet joint task force alpha that we elevated once we came in office it's with the Department of Justice and the FBI and we work hand-in-hand with Homeland Security the coordinator was awesome we all work so well together joint task force alpha just made a huge arrest in a border city they were headed to a southwestern state human smuggling yeah huge that's why we do what we do every day that's why these agents risk their lives every single day it's human smuggling and a lot of children a lot of children they're saying are safer because of this",
+    "bio": "The speaker (born November 17, 1965) is an American attorney, lobbyist, and politician who served as the 37th state attorney general from 2011 to 2019. A member of the Republican Party, they were the first woman elected to the office. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And that's what the great majority of men and women in law enforcement, DEA, ATF, US Marshals, FBI, as well as the incredible legal team at the [government department], that's what they want to do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So let's talk about one of the most lawless aspects of the last four years, which was the open borders that we saw and the 12 million illegal immigrants that have come into this country. You've had just two weeks, but you've hit the ground running, going after the criminals, going after the murderers, going after the rapists, going after the child molesters, going after the gang members. Tell us, number one, what you're doing as attorney general that is making a real difference, that is already making America safer. And number two, I understand you have some breaking news concerning my home state of [state], which I'm particularly proud to hear."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do and the press release isn't even out yet joint task force alpha that we elevated once we came in office it's with the [government department] and the FBI and we work hand-in-hand with [government department] was awesome we all work so well together joint task force alpha just made a huge arrest in [city] they were headed to [state] human smuggling yeah huge that's why we do what we do every day that's why these agents risk their lives every single day it's human smuggling and a lot of children a lot of children they're saying are safer because of this"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Let me ask you a question. The President, and this has made headlines on what you were just talking about, we've designated these cartels as terrorist organizations. What does that allow you to do in your job? And [Name] now is the head of the FBI. What is that going to give you the ability to do and to go after them?"
+      }
+    ],
+    "speakername": "Pam Bondi",
+    "ground_truth": "Well, [Name] is doing a great job, as we are right, leading this effort with all of us. [Name] at [department]. We all work so well together, and it gives us the ability. They are a terrorist group, and it gives us the ability to go after them more ability anywhere in the world and treat them as terrorists. They are terrorists. If you're bringing fentanyl into this country and killing our kids, you're a terrorist, and we're coming after you.",
+    "bio": "The speaker (born November 17, 1965) is an American attorney, lobbyist, and politician who served as the 37th [state] attorney general from 2011 to 2019. A member of the Republican Party, they were the first woman elected to the office. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I do and the press release isn't even out yet joint task force alpha that we elevated once we came in office it's with the Department of Justice and the FBI and we work hand-in-hand with Homeland Security Christina was awesome we all work so well together joint task force alpha just made a huge arrest in [location] they were headed to [location] to [location] human smuggling yeah huge that's why we do what we do every day that's why these agents risk their lives every single day it's human smuggling and a lot of children a lot of children they're saying are safer because of this"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Let me ask you a question. The President, and this has made headlines on what you were just talking about, we've designated these cartels as terrorist organizations. What does that allow you to do in your job? And Kash Patel now is the head of the FBI. What is that going to give you the ability to do and to go after them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Stephen Miller is doing a great job, as we are right, leading this effort with all of us. Mike Waltz at DOD. We all work so well together, and it gives us the ability. They are a terrorist group, and it gives us the ability to go after them more ability anywhere in the world and treat them as terrorists. They are terrorists. If you're bringing fentanyl into this country and killing our kids, you're a terrorist, and we're coming after you."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "300 a day is the average that are dying in this country right now. When you took this job and you hear that number and you saw the inaction from the last administration, how angry did that make you?"
+      }
+    ],
+    "speakername": "Pam Bondi",
+    "ground_truth": "so angry you know i was state attorney general before i became united states attorney general and fentanyl was really just coming on the market and now with this horrible open border policy just flowing flowing across our borders and killing kids killing adults every single day and it's criminal that no one was doing anything to stop it i i can't comprehend how any administration progressive nor conservative how any administration could tolerate that and let that happen and it ended day one when he shut that border i was at the border back in september i went with two colleagues",
+    "bio": "The speaker (born November 17, 1965) is an American attorney, lobbyist, and politician who served as the 37th state attorney general from 2011 to 2019. A member of the Republican Party, they were the first woman elected to the office. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Stephen Miller is doing a great job, as we are right, leading this effort with all of us. Mike Waltz at [agency]. We all work so well together, and it gives us the ability. They are a terrorist group, and it gives us the ability to go after them more ability anywhere in the world and treat them as terrorists. They are terrorists. If you're bringing fentanyl into this country and killing our kids, you're a terrorist, and we're coming after you."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "300 a day is the average that are dying in this country right now. When you took this job and you hear that number and you saw the inaction from the last administration, how angry did that make you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so angry you know i was state ag before i became united states attorney general and fentanyl was really just coming on the market and now with this horrible open border policy just flowing flowing across our borders and killing kids killing adults every single day and it's criminal that no one was doing anything to stop it i i can't comprehend how any administration progressive nor conservative how any administration could tolerate that and let that happen and it ended day one with donald trump when he shut that border i was at the border back in september i went with laura trump and morgan ortegas"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "We'll be right back."
+      }
+    ],
+    "speakername": "Pam Bondi",
+    "ground_truth": "and we were in [location] and i saw firsthand there is nothing humanitarian that was happening at that border nothing nothing they have a rape tree where they're raping women as they're coming into this country i saw firsthand piles and piles of passports just thrown from every country you can imagine because the current administration was letting you walk right in the country if you didn't have a passport they said they saw asian chinese individuals saying oh we're from cuba so they wrote down there from cuba and what had to let them legally walk right in under that administration but the drugs the trafficking i learned a new term disposable child the customs the border i mean the border patrol agents told me that they saw a little boy and they kept recognizing the same little boy over and over and over coming in because if you came into our country as a family you were coming into our country as a family you were coming into our country as a family unit they just let you walk right in this little child was being trafficked",
+    "bio": "A former state attorney general (born November 17, 1965) is an American attorney, lobbyist, and politician who served as the 37th [state] attorney general from 2011 to 2019. A member of the Republican Party, they were the first woman elected to the office. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

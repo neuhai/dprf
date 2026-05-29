@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's all good."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's nice to see you as well yeah um yeah so there's you can either patch a problem which is it's only a short-term solution there's a lot of things you can do to patch the problem then you know you can you can um uh just just look at the profile of these individuals that are talking to you you can just check their comments their past comments in reddit you can check and you know very often if not almost always you will realize these people are just irrationally uh irrationally hating on everything so when you do that when you realize that is the case then it affects you a little less yeah but things like this only packs the problem yeah the actual solution and that has worked for me at least is to know that most people are inherently good people yeah"
+      },
+      {
+        "speaker": "[target]",
+        "text": "or what is good people i mean they don't they don't kill they don't"
+      }
+    ],
+    "speakername": "Carlos ocelote Rodríguez Santiago",
+    "ground_truth": "You know, most people, even those people that you heavily disagree with politically, believe they are right. Yeah. And yeah, you can argue that some people might be more entitled than others. Some people might be more jealous than others. But ultimately, the baseline of humanity is pretty good. People are good people generally.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "in doing it to this day. Yeah, that's the thing."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "because i was one of the few people who thought it was a thing mate like everyone laughed at me when i said i was a sports historian they're not really laughing now i've done 20 plus years and no one else can sort of compare so yeah what would you say to this like have you always been someone who dreamed big did you always think i'm gonna be some sort of exceptional figure is it important to you now"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well i don't think you're born like this i mean i don't think you're born believing you're going to be uh an extraordinary figure i think that and you definitely have on your dna something that at least demands more from your body and from your deeds yeah and i do definitely have that i i in other words i will not feel really happy internally unless i'm playing poker with the best cards in hand you understand like if i'm playing every poker hand with a two and a five i'm gonna live miserable what would be a two and a five you know living in a place that i'm surrounded by losers having a circle of losers and having a life of no thrill having a life of no progress not having mentors around me that are significantly better than me and specific verticals etc etc you know i'm playing with a two and a five i might win some hands but most i will lose you know i might win some hands because i might be a genius but even a poker genius if all he always gets a two and a five he's gonna get fucked"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Sure."
+      }
+    ],
+    "speakername": "Carlos ocelote Rodríguez Santiago",
+    "ground_truth": "know so i want to play with that with an ace and a king you know maybe not the best a handler but it's very good it's pretty damn good on average it's pretty damn good yeah",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "well i don't think you're born like this i mean i don't think you're born believing you're going to be uh an extraordinary figure i think that and you definitely have on your dna something that at least demands more from your body and from your deeds yeah and i do definitely have that i i in other words i will not feel really happy internally unless i'm playing poker with the best cards in hand you understand like if i'm playing every poker hand with a two and a five i'm gonna live miserable what would be a two and a five you know living in a place that i'm surrounded by losers having a circle of losers and having a life of no thrill having a life of no progress not having mentors around me that are significantly better than me and specific verticals etc etc you know i'm playing with a two and a five i might win some hands but most i will lose you know i might win some hands because i might be a genius but even a poker genius if all he always gets a two and a five he's gonna get fucked"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Sure."
+      },
+      {
+        "speaker": "[target]",
+        "text": "know so i want to play with that with an ace and a king you know maybe not the best a handler but it's very good it's pretty damn good on average it's pretty damn good yeah"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Carlos ocelote Rodríguez Santiago",
+    "ground_truth": "And that's the way I saw always life, and that's the way I saw always sort of my accomplishments tied to my level of happiness at a deep level. But I can tell you that I have a lot of ego, and I think ego is a fantastic thing to have. I always struggle to understand the importance of ego, and when you meditate, and I meditate since I'm 17 years old, that's 16 years meditating.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Sure."
+      },
+      {
+        "speaker": "[target]",
+        "text": "know so i want to play with that with an ace and a king you know maybe not the best a handler but it's very good it's pretty damn good on average it's pretty damn good yeah"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's the way I saw always life, and that's the way I saw always sort of my accomplishments tied to my level of happiness at a deep level. But I can tell you that I have a lot of ego, and I think ego is a fantastic thing to have. I always struggle to understand the importance of ego, and when you meditate, and I meditate since I'm 17 years old, that's 16 years meditating."
+      }
+    ],
+    "speakername": "Carlos ocelote Rodríguez Santiago",
+    "ground_truth": "I've learned, or I've gone through different stages, yeah, where at some point ego was seen as something I should keep.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's the way I saw always life, and that's the way I saw always sort of my accomplishments tied to my level of happiness at a deep level. But I can tell you that I have a lot of ego, and I think ego is a fantastic thing to have. I always struggle to understand the importance of ego, and when you meditate, and I meditate since I'm 17 years old, that's 16 years meditating."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I've learned, or I've gone through different stages, yeah, where at some point ego was seen as something I should keep."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know."
+      }
+    ],
+    "speakername": "Carlos ocelote Rodríguez Santiago",
+    "ground_truth": "almost detached from ego can also be seen by society as a bad thing or is often seen by society as a bad thing.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

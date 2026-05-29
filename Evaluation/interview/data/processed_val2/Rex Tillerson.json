@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Chuck, the president, I think, has made it clear that he feels it's important that we reengage with [country]. The relationship with [country], as he has described and I have described as well, is I think at an all-time low point since the end of the [historical event], with a very low level of trust. I think the world, and it's in the interest of the American people, it's in the interest of [country], the rest of the world, that we do something to see if we cannot improve the relationship between the two greatest nuclear powers in the world. So the president, I think, is committed to at least make an effort in that regard and he has certainly asked me to make an important effort as well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I understand that, but you look at what's happened in these Western European nations, in [country], in the [country], in [country], [country], accusations of [country] interference in their democratic process. What message does it send to those countries that their number one ally, the [country], the president, fired the man at the agency that was looking in to the very problem they're dealing with, [country] interference in the democracy?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Chuck, what I hear from the leaders of the other nations, Europe and more broadly, and the subject of [country] comes up in all of our conversations is all the other nations want the [country] and [country] to work towards improving our relationship as well for all the reasons that I just mentioned. I think it's largely viewed that it is not healthy for the world. It's certainly not healthy for us, for the American people, our national security interest, and otherwise for this relationship to remain at this low level. Whether we can improve it or not remains to be seen. It's going to take some time. It's going to take a lot of hard work. But I think the president's committed, rightly so, and I'm committed with him as well, to see if we cannot do something to put us on a better footing in our relationship with [country]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Can you get on a better footing with them if you don't address this issue of the [country] interference? I mean, your counterpart, the [country] foreign minister, Mr. [name], said that you guys didn't even talk about this issue of [country] interference in our election. Because as he put it, President Trump himself says it's fake news, so it's not an issue. Why haven't you brought it up with them?"
+      }
+    ],
+    "speakername": "Rex Tillerson",
+    "ground_truth": "Well, Chuck, I think we have such a broad range of important issues that have to be addressed in the [country]-[country] relationship. Obviously the interference in the election is one of those. I think it's been well documented, it's pretty well understood, the nature of that interference here and elsewhere. And, you know, these are not new tactics on the part of the [country] government directed not only at us but at others. But again, I think we have to look at this relationship in its broadest contours, and there are many, many important areas which require our attention if we are to bring it back to a relationship that we believe is necessary for the security of the [country].",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Chuck, what I hear from the leaders of the other nations, Europe and more broadly, and the subject of Russia comes up in all of our conversations is all the other nations want the U.S. and Russia to work towards improving our relationship as well for all the reasons that I just mentioned. I think it's largely viewed that it is not healthy for the world. It's certainly not healthy for us, for the American people, our national security interest, and otherwise for this relationship to remain at this low level. Whether we can improve it or not remains to be seen. It's going to take some time. It's going to take a lot of hard work. But I think the president's committed, rightly so, and I'm committed with him as well, to see if we cannot do something to put us on a better footing in our relationship with Russia."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Can you get on a better footing with them if you don't address this issue of the Russian interference? I mean, your counterpart, the Russian foreign minister, Mr. Lavrov, said that you guys didn't even talk about this issue of Russian interference in our election. Because as he put it, President Trump himself says it's fake news, so it's not an issue. Why haven't you brought it up with them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Chuck, I think we have such a broad range of important issues that have to be addressed in the U.S.-Russia relationship. Obviously the interference in the election is one of those. I think it's been well documented, it's pretty well understood, the nature of that interference here and elsewhere. And, you know, these are not new tactics on the part of the Russian government directed not only at us but at others. But again, I think we have to look at this relationship in its broadest contours, and there are many, many important areas which require our attention if we are to bring it back to a relationship that we believe is necessary for the security of the U.S."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mr. Secretary, this is fundamental. They interfered with our democracy. I just don't understand how this is not a top issue for you to deal with with them in order to essentially start with a clean slate. Can't start with a clean slate until maybe they either own up to what they did or we punish them in a way that they're not going to do this again."
+      }
+    ],
+    "speakername": "Rex Tillerson",
+    "ground_truth": "Well, Chuck, I think it's important to understand we're not trying to start with a clean slate. I think terms like having a reset are overused. You cannot reset. You cannot erase the past. You cannot start with a clean slate, and we're not trying to start with a clean slate. We're starting with the slate we have and all the problems that are on that slate. We don't dismiss any of them. We don't give anyone a free pass on any of them. They're part of the entire nature of the discussion we're having with the Russians. And yes, there are a large number of issues that we have to get around to addressing in order to put this relationship back together, if that is indeed possible.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think we have such a broad range of important issues that have to be addressed in the bilateral relationship. Obviously the interference in the election is one of those. I think it's been well documented, it's pretty well understood, the nature of that interference here and elsewhere. And, you know, these are not new tactics on the part of their government directed not only at us but at others. But again, I think we have to look at this relationship in its broadest contours, and there are many, many important areas which require our attention if we are to bring it back to a relationship that we believe is necessary for the security of our nation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Sir, this is fundamental. They interfered with our democracy. I just don't understand how this is not a top issue for you to deal with with them in order to essentially start with a clean slate. Can't start with a clean slate until maybe they either own up to what they did or we punish them in a way that they're not going to do this again."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's important to understand we're not trying to start with a clean slate. I think terms like having a reset are overused. You cannot reset. You cannot erase the past. You cannot start with a clean slate, and we're not trying to start with a clean slate. We're starting with the slate we have and all the problems that are on that slate. We don't dismiss any of them. We don't give anyone a free pass on any of them. They're part of the entire nature of the discussion we're having with them. And yes, there are a large number of issues that we have to get around to addressing in order to put this relationship back together, if that is indeed possible."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "During your confirmation hearings, you made clear you didn't have, obviously you hadn't been briefed on the intelligence reports, the 17 different agencies that came to the conclusions that they did make an effort to interfere in this election. Obviously there's an investigation going along to see if there was any collusion in this interference. Since you've become Secretary in February, have you been briefed? Have you seen this intelligence now? Is it clear in your mind that it is a fact they interfered in our election?"
+      }
+    ],
+    "speakername": "Rex Tillerson",
+    "ground_truth": "I have seen the intelligence reports, and yes, I don't think there's any question that they were playing around in our electoral processes. Again, as those intelligence reports also have indicated, it's inconclusive as to what, if any, effect it had.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's important to understand we're not trying to start with a clean slate. I think terms like having a reset are overused. You cannot reset. You cannot erase the past. You cannot start with a clean slate, and we're not trying to start with a clean slate. We're starting with the slate we have and all the problems that are on that slate. We don't dismiss any of them. We don't give anyone a free pass on any of them. They're part of the entire nature of the discussion we're having with the other party. And yes, there are a large number of issues that we have to get around to addressing in order to put this relationship back together, if that is indeed possible."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "During your confirmation hearings, you made clear you didn't have, obviously you hadn't been briefed on the intelligence reports, the multiple agencies that came to the conclusions that the other party did make an effort to interfere in this election. Obviously there's an investigation going along to see if there was any collusion in this interference. Since you've become Secretary of State in February, have you been briefed? Have you seen this intelligence now? Is it clear in your mind that it is a fact they interfered in our election?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have seen the intelligence reports, and yes, I don't think there's any question that they were playing around in our electoral processes. Again, as those intelligence reports also have indicated, it's inconclusive as to what, if any, effect it had."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I understand about the impact, but the fact that they got into it, what should the repercussions be now in your mind?"
+      }
+    ],
+    "speakername": "Rex Tillerson",
+    "ground_truth": "Well, they're just part of that broader landscape of conversations. And I think the real impact is it serves, yet again, to undermine the trust between the two nations. And as I have said and the president has said, we're just at a very, very low level of trust between our two countries right now. And so what we're exploring is, how do we begin the process of restoring that trust? And ultimately, it will touch on all of these issues.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have seen the intelligence reports, Chuck, and yes, I don't think there's any question that the Russians were playing around in our electoral processes. Again, as those intelligence reports also have indicated, it's inconclusive as to what, if any, effect it had."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I understand about the impact, but the fact that they got into it, what should the repercussions be now in your mind?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, they're just part of that broader landscape of conversations, Chuck. And I think the real impact is it serves, yet again, to undermine the trust between our country and Russia. And as I have said and the president has said, we're just at a very, very low level of trust between our two countries right now. And so what we're exploring is, how do we begin the process of restoring that trust? And ultimately, it will touch on all of these issues."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "During the meeting in the [government building] with the foreign minister and the president, in the readout, Ambassador Kislyak, who has been involved in this Russia investigation having to do with the former National Security Advisor Mike Flynn, in our readout it wasn't clear he was going to be in there. We only learned via a Russian news agency, because they posted these photos, that he was there. Why did the government not make it public that the Russian ambassador was also going to be in that meeting?"
+      }
+    ],
+    "speakername": "Rex Tillerson",
+    "ground_truth": "Chuck, I don't know. You'd have to put that question to the government staff and the protocol people. I can't really answer that. I don't know.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

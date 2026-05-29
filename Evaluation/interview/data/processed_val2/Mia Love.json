@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, those words—I'm no victim, so those words, they don't bother me. You know, am I surprised? No. Am I disappointed? Absolutely. I think that the issues that are facing Americans right now, they're colorblind. You know, when foreign nations come back and decides that they're going to—they want their money back, you know, they don't care what color our children are, they don't care what gender our children are."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "ALL RIGHT, LET ME GO, BECAUSE JOE BIDEN'S COMMENTS PROBABLY GOT THE MOST ATTENTION WHEN HE SAID UNCHAINED, THEY WANT TO PUT YOU ALL BACK IN CHAINS. THEN YOU HAVE THE WEST COAST MAYOR, YOU KNOW, TALKING ABOUT THE REPUBLICAN CONVENTION, AND THERE WERE MANY MINORITIES, AFRICAN-AMERICANS, HISPANICS, MANY WOMEN SPEAKING THERE, AS THERE HAVE BEEN, BY THE WAY, IN PAST CONVENTIONS. HE SAID, WELL, YOU JUST CAN'T TROT OUT A BROWN FACE OR A SPANISH SURNAME AND EXPECT PEOPLE ARE GOING TO VOTE FOR YOUR PARTY OR YOUR CANDIDATE. PEOPLE IN THEIR STATES, IN THEIR DISTRICTS, I WANT TO GET YOUR REACTION TO THIS. IT SEEMS LIKE A FALSE NARRATIVE THAT THE DEMOCRATS WANT TO ADVANCE TO DEMONIZE CONSERVATIVES. WHAT'S YOUR REACTION?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, we have a choice. I think, you know, I think it's time for us to stand up. We have a choice. We can have a president that's going to divide this nation, or we can have a president that's going to unite this nation, that's going to lift the economy, that's going to look at all of us equally as Americans. I'll tell you right now, the president I choose is the candidate, because he sees me as an individual. He sees me equally as an American. And like I said, they can talk about all of these issues all they want. The problems that we face here, they don't see color. When a mom is out there trying to go to the grocery store and realizes that the price has gone up, when she's trying to put food on their table, and they realize that the bills are piling up, it doesn't have a color. They're going to be more concerned about the issues. They're going to be more concerned about jobs. And we're going to see in America, vote for a president that's going to deal with these issues."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're getting right to the heart of the issue, is that the current administration's policies have failed. He said he'd cut the deficit in half, said he'd create jobs. All these things, they didn't work. So now they resort to these tactics. If the candidate were to ask your advice, how best to handle this false narrative, this caricature that Democrats want to paint of what conservatives are like, what's your answer to him?"
+      }
+    ],
+    "speakername": "Mia Love",
+    "ground_truth": "I think he's doing a great job. I think he's doing a great job because, again, when we're looking at the 23 million Americans that are out of work, when we're looking at the people that have just decided to stop giving up work, the people that are having a hard time investing because they have no idea what the tax—what taxes are going to look like, they're going to vote for somebody because they're going to vote for somebody who's going to deal with these issues. They're not going to vote for the divider in chief. They're going to vote for the person that is going to get us back on our feet economically, the person that's going to bring down the national debt, and the person that's going to deal with big spending government.",
+    "bio": "Former Representative for a western state congressional district. Current news network political commentator. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Look, we have a choice. I think, you know, I think it's time for us to stand up. We have a choice. We can have a president that's going to divide this nation, or we can have a president that's going to unite this nation, that's going to lift the economy, that's going to look at all of us equally as Americans. I'll tell you right now, the president I choose is [candidate], because he sees me as an individual. He sees me equally as an American. And like I said, they can talk about all of these issues all they want. The problems that we face here, they don't see color. When a mom is out there trying to go to the grocery store and realizes that the price has gone up, when she's trying to put food on their table, and they realize that the bills are piling up, it doesn't have a color. They're going to be more concerned about the issues. They're going to be more concerned about jobs. And we're going to see in America, vote for a president that's going to deal with these issues."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're getting right to the heart of the issue, is that [former president]'s policies have failed. He said he'd cut the deficit in half, said he'd create jobs. All these things, they didn't work. So now they resort to these tactics. If [candidate] were to ask your advice, how best to handle this false narrative, this caricature that Democrats want to paint of what conservatives are like, what's your answer to him?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think he's doing a great job. I think he's doing a great job because, again, when we're looking at the 23 million Americans that are out of work, when we're looking at the people that have just decided to stop giving up work, the people that are having a hard time investing because they have no idea what the taxes are going to look like, they're going to vote for somebody because they're going to vote for somebody who's going to deal with these issues. They're not going to vote for the divider in chief. They're going to vote for the person that is going to get us back on our feet economically, the person that's going to bring down the national debt, and the person that's going to deal with big spending government."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "HAVE YOU EXPERIENCED WHAT OTHER AFRICAN AMERICANS HAVE EXPERIENCED IN TERMS OF BEING A CONSERVATIVE AND MINORITY? OFTEN THEY'RE CALLED HORRIBLE NAMES. HAS THAT BEEN YOUR EXPERIENCE IN LIFE AT ALL?"
+      }
+    ],
+    "speakername": "Mia Love",
+    "ground_truth": "You know, you'll get some people that'll, you know, come out, as we did just this week on social media. But, again, you have to understand, I'm here first and foremost not as a candidate for Congress, but as a wife, as a mother of my three children, as a concerned citizen. And I realize my children aren't going to have the same opportunities I had growing up. They're not going to have the same opportunities that my parents had coming into this country in the 70s, that have had the that have been able to work hard for everything that they have. And I'm a product of that. And so, as a parent, I don't care what they say. They can bring it on. I think what we need to do as Americans is start voting for people that are going to help us in these issues. We need to stand behind [candidate]. We're going to stand behind people that are in Congress that are going to be able to help [candidate] and get this country back on its feet. And that's what we need to concentrate on.",
+    "bio": "Former Representative for a congressional district. Current news network political commentator. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Mr. President, I'm here to tell you the American people are awake and we're not buying what you're selling in 2012."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] in her debut on the national political stage at the party convention. She is the mayor of [location], who is now running for Congress, and she joins us from [location]. Mayor. Welcome to our news program."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thank you for having me, Chris."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You are a black member of your religion who is a favorite of the grassroots movement and you're running to be the first female black member of your party ever elected to Congress for a lot of people who don't know you. How did you turn out the way you did?"
+      }
+    ],
+    "speakername": "Mia Love",
+    "ground_truth": "Well, my parents immigrated to this country from [location] with $10 in their pockets, and they worked hard for everything that they have. My parents taught me that we weren't entitled to anything that we didn't own, earn, work for, or pay for ourselves. And I've taken those principles everywhere I've gone, and that's how I ended up where I am.",
+    "bio": "Former Representative for [location] congressional district. Current news network political commentator. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you for having me, Chris."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You are a black Mormon who is a favorite of the Tea Party and you're running to be the first female black Republican ever elected to Congress for a lot of people who don't know you. How did you turn out the way you did?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, my parents immigrated to this country from [country] with $10 in their pockets, and they worked hard for everything that they have. My parents taught me that we weren't entitled to anything that we didn't own, earn, work for, or pay for ourselves. And I've taken those principles everywhere I've gone, and that's how I ended up where I am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to ask you about that because there's a story that when you went to college, when you were starting college, your father gave you some marching orders, which have become kind of a guiding principle for you. What did he say?"
+      }
+    ],
+    "speakername": "Mia Love",
+    "ground_truth": "Well, I took my dad with me because he's the fun parent. And he said, [target], your mother and I have done everything we could to get you here today. We've worked hard. We've never taken a handout. You are not going to be a burden to society. You will give back. And thank goodness it didn't go in one ear and out the other. And it resonated with me. And it stuck with me.",
+    "bio": "Former Representative for a congressional district. Current news network political commentator. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, my parents immigrated to this country from abroad with $10 in their pockets, and they worked hard for everything that they have. My parents taught me that we weren't entitled to anything that we didn't own, earn, work for, or pay for ourselves. And I've taken those principles everywhere I've gone, and that's how I ended up where I am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to ask you about that because there's a story that when you went to college, when you were starting college, your father gave you some marching orders, which have become kind of a guiding principle for you. What did he say?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I took my dad with me because he's the fun parent. And he said, Mia, your mother and I have done everything we could to get you here today. We've worked hard. We've never taken a handout. You are not going to be a burden to society. You will give back. And thank goodness it didn't go in one ear and out the other. And it resonated with me. And it stuck with me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let's go through some of the positions that you're advancing in your campaign for Congress, Mayor [target]. You wanna cut federal spending $759 billion by 2021, including cut food subsidies by 50% or $53 billion and K through 12 subsidies, another 53 billion, and end college assistance, 33 billion. Question, what happens to all of those millions of people, including a lot of minorities who depend on those programs?"
+      }
+    ],
+    "speakername": "Mia Love",
+    "ground_truth": "Well, there are different things. There are different approaches. First of all, that program I put out so that we can start a discussion. I haven't set anything in stone. I want to make sure that I hit the ground running. So we have to start the discussion. But if you take, for instance, education, we're trying to see how much debt we can actually give people. And the option that I'd like to look at is bringing the cost of tuition down so that we give more people the opportunity for higher education.",
+    "bio": "Former Representative for a western state congressional district. Current national news network political commentator. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

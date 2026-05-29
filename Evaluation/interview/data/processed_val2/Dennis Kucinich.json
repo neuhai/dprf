@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "any life."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and included multiple assassination attempts, detailed for the first time in his forthcoming book, The Division of Light and Power."
+      },
+      {
+        "speaker": "[target]",
+        "text": "One of the important things in the story came as a result of News 3 and the investigative report that you did with a mob hitman who basically said that, you know, the reason why they went after me is that I couldn't be bought and I was cut from a different cloth. Well, let me tell you, that's still who I am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "jobs good wages still living in [city] he's speaking out on rising crime city council's failure to challenge mayor and the city's decision to turn to a consultant for help with the failing market"
+      }
+    ],
+    "speakername": "Dennis Kucinich",
+    "ground_truth": "Don't keep looking for other people to tell you how to do things if you don't know how to do things and get out",
+    "bio": "Born October 8, 1946, is an American politician. A Representative from [state] from 1997 to 2013, he was also a candidate for the party nomination for president of the United States in 2004 and 2008. He ran for governor of [state] in the 2018 election, losing in the primary. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "One of the important things in the story came as a result of local news and the investigative report that you did with a mob hitman who basically said that, you know, the reason why they went after me is that I couldn't be bought and I was cut from a different cloth. Well, let me tell you, that's still who I am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "jobs good wages still living in [city] he's speaking out on rising crime city council's failure to challenge mayor and the city's decision to turn to a consultant for help with the failing west side market"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Don't keep looking for other people to tell you how to do things if you don't know how to do things and get out"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So are you considering a return to office and maybe even a bid for mayor of [city]?"
+      }
+    ],
+    "speakername": "Dennis Kucinich",
+    "ground_truth": "I am giving it serious consideration. I've had so many people from so many different walks of life contact me and say, would you think about it?",
+    "bio": "A former politician. A Representative from [state] from 1997 to 2013, he was also a candidate for the party nomination for president of the [country] in 2004 and 2008. He ran for governor of [state] in the 2018 election, losing in the primary to another candidate. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Don't keep looking for other people to tell you how to do things if you don't know how to do things and get out"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So are you considering a return to office and maybe even a bid for mayor of [city]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I am giving it serious consideration. I've had so many people from so many different walks of life contact me and say, would you think about it?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "A possible comeback, he says, is not about himself, but the city."
+      }
+    ],
+    "speakername": "Dennis Kucinich",
+    "ground_truth": "I've always been in a position where I'd make a decision based on what's right, as opposed to what's better for me, because there's nothing that I want, except I've got a great wife and a couple of rescue dogs here, and that's fantastic.",
+    "bio": "The speaker (born October 8, 1946) is an American politician. A U.S. Representative from [state] from 1997 to 2013, he was also a candidate for the Democratic nomination for president of the United States in 2004 and 2008. He ran for governor of [state] in the 2018 election, losing in the primary to [opponent]. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, my seat was redistricted. My district had been cut up into four different pieces at the beginning of the year, and so I had a primary election that I didn't make it, but I'm still intending to be a strong voice on the national legislature on the issues that I've been speaking about for so many years. Excellent."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to ask you about Republicans in the legislature now. What do you think the president will be up against and the Democrats in the legislature? Do you think we're likely to see the Republicans continuing with their aggressive, uncompromising position in Congress? Are we now looking at another four years of partisanship and frustration for the president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think, first of all, the thing to watch for is there have been signals out of the executive office early on that they may be ready to make some concessions on issues like Social Security. You know, I don't like it, but that could meet some agreement with Republicans because just if you have agreement, it doesn't necessarily mean that you're going in the right direction. On the tax issues, watch for what happens with the alternative minimum tax because there are millions of Americans who could be facing an automatic tax increase without having prepared to pay those taxes through their payroll deductions. I will tell you that we're looking at a very contentious period. The fact of the matter is that if you're going to cut spending and you ignore military spending, which has gone up tremendously, that's a problem. If you're going to cut spending. And you ignore America's expansiveness globally with high technology, that's a problem. So I don't know how much is going to get done in the remaining session in Congress, but America is still looking at a stagnating economy. We have problems here at home we have to resolve, and we're becoming less able to impact events around the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "pretty pessimistic. Are you? I mean, you said the executive office seems to be prepared to compromise. I'm a realist about it."
+      }
+    ],
+    "speakername": "Dennis Kucinich",
+    "ground_truth": "I'm a realist about what we have. The election yesterday was essentially a status quo election, even though $6 billion was spent totally in all campaigns for this election. You still have the Democrats in control of the Senate, the Democrats in control of the executive office, and Republicans in control of the legislature. Now, I have been part of this debate. I've seen what's happened. I'm telling you that the basic forces that are pushing against each other, Republicans trying to protect certain tax privileges for certain interest groups, you know, some Democrats trying to do that, but also pushing for the middle class, these are forces that are not easily going to yield. And the whole question about will social programs be cut, there are Democrats who will never go along with that, but there are some who are ready. So we have to see where the give and take is going to be, and my concern that Democrats, in the interest of just getting an agreement, will start to capitulate on some of those things that are the most important to our political base.",
+    "bio": "The speaker (born October 8, 1946) is an American politician. A Representative from a midwestern state from 1997 to 2013, they were also a candidate for the Democratic nomination for president of the United States in 2004 and 2008. They ran for governor of their state in the 2018 election, losing in the primary to another candidate. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think, first of all, the thing to watch for is there have been signals out of the [Government Building] early on that they may be ready to make some concessions on issues like Social Security. You know, I don't like it, but that could meet some agreement with Republicans because just if you have agreement, it doesn't necessarily mean that you're going in the right direction. On the tax issues, watch for what happens with the alternative minimum tax because there are millions of Americans who could be facing an automatic tax increase without having prepared to pay those taxes through their payroll deductions. I will tell you that we're looking at a very contentious period. The fact of the matter is that if you're going to cut spending and you ignore military spending, which has gone up tremendously, that's a problem. If you're going to cut spending. And you ignore America's expansiveness globally with high technology, that's a problem. So I don't know how much is going to get done in the remaining session in Congress, but America is still looking at a stagnating economy. We have problems here at home we have to resolve, and we're becoming less able to impact events around the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "pretty pessimistic. Are you? I mean, you said the [Government Building] seems to be prepared to compromise. I'm a realist about it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm a realist about what we have. The election yesterday was essentially a status quo election, even though $6 billion was spent totally in all campaigns for this election. You still have the Democrats in control of the Senate, the Democrats in control of the [Government Building], and Republicans in control of the House. Now, I have been part of this debate. I've seen what's happened. I'm telling you that the basic forces that are pushing against each other, Republicans trying to protect certain tax privileges for certain interest groups, you know, some Democrats trying to do that, but also pushing for the middle class, these are forces that are not easily going to yield. And the whole question about will social programs be cut, there are Democrats who will never go along with that, but there are some who are ready. So we have to see where the give and take is going to be, and my concern that Democrats, in the interest of just getting an agreement, will start to capitulate on some of those things that are the most important to our political base."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "say we'll have to wait and see. I suppose we're going to get a very quick indicator of how things are going to go over the next four years in that the so-called fiscal cliff has to be dealt with pretty quickly."
+      }
+    ],
+    "speakername": "Dennis Kucinich",
+    "ground_truth": "What's past is prologue. You know, you've seen stalemate. I think we'll continue to see that. However, keep in mind, as they approach the fiscal cliff, I think they're going to flatten it out through some legislative fix so it'll be more a fiscal gap than a cliff. People will find a way to clamber down and through that gap and up over it to keep the country going. I don't see that America is going to shut down by any means. There's a lot of political gamesmanship that goes on here, but every time we approach the moment of it looks like some kind of fiscal Armageddon, people, wiser head prevail, and people back off. And that's going to happen again. They'll come up with some solution that'll take us into the next year. But sooner or later, we've got to come to a realization that we can't keep spending money on war, we can't keep having a $600 billion trade deficit, and we can't keep giving tax breaks to the, to the wealthiest Americans without finding a way to prime the pump of our economy and create new jobs and wealth for everyone.",
+    "bio": "A former U.S. Representative from [State] from 1997 to 2013, the speaker was also a candidate for the Democratic nomination for president of the United States in 2004 and 2008. They ran for governor of [State] in the 2018 election, losing in the primary to another candidate. The speaker's MBTI type is ISFP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "support [politician]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, my name has appeared in three national polls, 10%, 10%, 11%. And in those polls, they did a bit of analysis and actually determined that I took more votes away from [politician]. But at the end of the day, I think it's going to be a draw from both sides. How much have you reached out?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "to people like [politician] and others who have been steadfast and they're never [politician]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, Chuck, I've never found it effective to reach out to anybody. When they reach out to your side, that's when it actually is effective, and that's what we're finding is people are reaching out to us. And I'm talking, too, about my running mate, [politician]. I think it's terrific that he joined this ticket. Two Republican governors serving in heavily blue states that got reelected by big margins."
+      }
+    ],
+    "speakername": "Gary Johnson",
+    "ground_truth": "when i ask you about a little bit about your uh... governing philosophy obvious you're known for being you were known for all of those vetoes i think about a seven hundred fifty of when you were governor of [state] you were overridden uh... only a handful of times though one of them was a big override it was the budget",
+    "bio": "The individual (born January 1, 1953) is an American businessman, author, and politician. They served as governor of [state] from 1995 to 2003 as a member of the Republican Party. They were also the Libertarian Party nominee for President of the United States in the 2012 and 2016 elections. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to people like [Political Figure] and others who have been steadfast and they're never [Political Figure]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, Chuck, I've never found it effective to reach out to anybody. When they reach out to your side, that's when it actually is effective, and that's what we're finding is people are reaching out to us. And I'm talking, too, about my running mate, [Political Figure]. I think it's terrific that he joined this ticket. Two Republican governors serving in heavily blue states that got reelected by big margins."
+      },
+      {
+        "speaker": "[target]",
+        "text": "when i ask you about a little bit about your uh... governing philosophy obvious you're known for being you were known for all of those vetoes i think about a seven hundred fifty of when you were governor of [State] you were overridden uh... only a handful of times though one of them was a big override it was the budget"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's the Republicans at the end saying,"
+      }
+    ],
+    "speakername": "Gary Johnson",
+    "ground_truth": "But, hey, we give up. You're not going to be around. We'll deal with it. But I've heard you talk about all of the agencies you would eliminate. Let me ask the question differently. As a libertarian, I think you want to eliminate some seven cabinet posts if you become president.",
+    "bio": "A businessman, author, and politician born January 1, 1953. He served as governor of a southwestern state from 1995 to 2003 as a member of the Republican Party. He was also the Libertarian Party nominee for President of the United States in the 2012 and 2016 elections. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "when i ask you about a little bit about your uh... governing philosophy obvious you're known for being you were known for all of those vetoes i think about a seven hundred fifty of when you were governor of [state] you were overridden uh... only a handful of times though one of them was a big override it was the budget"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's the Republicans at the end saying,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But, hey, we give up. You're not going to be around. We'll deal with it. But I've heard you talk about all of the agencies you would eliminate. Let me ask the question differently. As a libertarian, I think you want to eliminate some seven cabinet posts if you become president."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What is the role of government in your view?"
+      }
+    ],
+    "speakername": "Gary Johnson",
+    "ground_truth": "Well, less government. I mean, smaller government. I think government tries to do too much, and at the end of the day, it taxes too much, and that's money out of your and my pockets. Okay, but let's get specific. What should it regulate? What should the federal government be, you know... Protect us against individuals, groups, corporations, foreign governments that would do us harm. So, at the end of the day, I'm looking to get elected president of the United States. I'm going to sign off on any reduction in the federal government, agencies specific. I can't wave a magic wand and make those things happen, but, yeah, smaller government is a good thing. If you're looking for the smaller government guys, it would be the libertarian ticket. But what should it be regulating, I guess?",
+    "bio": "[target] (born January 1, 1953) is an American businessman, author, and politician. He was the 29th Governor of [state] from 1995 to 2003 as a member of the Republican Party. He was also the Libertarian Party nominee for President of the [country] in the 2012 and 2016 elections. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But, hey, we give up. You're not going to be around. We'll deal with it. But I've heard you talk about all of the agencies you would eliminate. Let me ask the question differently. As a libertarian, I think you want to eliminate some seven cabinet posts if you become president."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What is the role of government in your view?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, less government. I mean, smaller government. I think government tries to do too much, and at the end of the day, it taxes too much, and that's money out of your and my pockets. Okay, but let's get specific. What should it regulate? What should the federal government be, you know... Protect us against individuals, groups, corporations, foreign governments that would do us harm. So, at the end of the day, I'm looking to get elected president of the United States. I'm going to sign off on any reduction in the federal government, agencies specific. I can't wave a magic wand and make those things happen, but, yeah, smaller government is a good thing. If you're looking for the smaller government guys, it would be the libertarian ticket. But what should it be regulating, I guess?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's what I'm trying to get specific there. What is it that the government should be involved in? And you say, for instance, health care. Should it have a role in health care?"
+      }
+    ],
+    "speakername": "Gary Johnson",
+    "ground_truth": "Well, I think that we should provide a safety net. I just think that we've gone way over the line with regard to defining those in need. And that if we don't reform Medicaid and Medicare, we're going to find ourselves without being able to provide that. I think at the end of the day, as a result of government spending, at some point, we're going to have really horrible inflation in this country. Let me ask you on...",
+    "bio": "The subject (born January 1, 1953) is an American businessman, author, and politician. They served as governor of a southwestern state from 1995 to 2003 as a member of the Republican Party. They were also the Libertarian Party nominee for President of the United States in the 2012 and 2016 elections. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, less government. I mean, smaller government. I think government tries to do too much, and at the end of the day, it taxes too much, and that's money out of your and my pockets. Okay, but let's get specific. What should it regulate? What should the federal government be, you know... Protect us against individuals, groups, corporations, foreign governments that would do us harm. So, at the end of the day, I'm looking to get elected president. I'm going to sign off on any reduction in the federal government, agencies specific. I can't wave a magic wand and make those things happen, but, yeah, smaller government is a good thing. If you're looking for the smaller government guys, it would be the libertarian ticket. But what should it be regulating, I guess?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's what I'm trying to get specific there. What is it that the government should be involved in? And you say, for instance, health care. Should it have a role in health care?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that we should provide a safety net. I just think that we've gone way over the line with regard to defining those in need. And that if we don't reform Medicaid and Medicare, we're going to find ourselves without being able to provide that. I think at the end of the day, as a result of government spending, at some point, we're going to have really horrible inflation in this country. Let me ask you on..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "on defense. When would you use the military? When would you? What is that line?"
+      }
+    ],
+    "speakername": "Gary Johnson",
+    "ground_truth": "When we're attacked, we're going to attack back, and I reject the notion that libertarians are isolationists. Look, there should be diplomacy to the hilt, but with regard to our military interventions, boots on the ground, dropping bombs, flying drones that are killing thousands of innocent people, I think that it's had the unintended consequence of making the world less safe. Let's involve Congress in declaration of war, something that they have abdicated that responsibility to the executive and to the military.",
+    "bio": "The speaker is a businessperson, author, and politician. They served as state governor from 1995 to 2003 as a member of the Republican Party. They were also the Libertarian Party nominee for President in the 2012 and 2016 elections. The speaker's MBTI type is INTP",
+    "split": "val"
+  }
+]

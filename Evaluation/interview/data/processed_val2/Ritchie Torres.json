@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a pleasure to be here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Now, I almost called it the council district, but that's deep in the past for you. Listen, we've got a lot to talk about, and front and center is the race for president. Before we even talk about the vice president and the former president, just a word, if you would, about the current president. Did you think that the current president should step down before he made that decision to do that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, the decision by the president to step aside and pass the torch to a new generation of leadership for me was a demonstration of statesmanship in the tradition of our first president. It was the right decision both for the party and for the country. And history will record that the president had one of the most transformative presidencies in American history. He passed the major economic act, which has set our country on a trajectory to cut greenhouse gas emissions by 30 percent, by 40 percent by 2030. He passed the boldest piece of infrastructure legislation in more than a half a century. He has positioned our country to be a leader in emerging technologies like AI and advanced semiconductors in the 21st century. So history will judge the president kindly and his decision to step aside. For a new generation of leadership is an unprecedented act of statesmanship."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you didn't quite answer the question, but do you think ultimately he did the right thing?"
+      }
+    ],
+    "speakername": "Ritchie Torres",
+    "ground_truth": "Oh, I believe and I agree with the president's decision to pass the torch. It was the right thing to do. And the vice president represents a next generation of leadership and the future of the party.",
+    "bio": "The target (born March 12, 1988) is an American politician. A member of the majority party, they serve as the U.S. Representative for a congressional district in a major northeastern city. The district covers most of an urban area. It is one of the smallest districts by area in the country, covering only a few square miles. They served as a city councilmember from 2013 to 2020. They were the first openly gay candidate to be elected to legislative office in their borough, and the council's youngest member. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, look, the decision by the President to step aside and pass the torch to a new generation of leadership for me was a demonstration of statesmanship in the tradition of past leaders. It was the right decision both for the party and for the country. And history will record that the President had one of the most transformative presidencies in history. He passed major economic legislation, which has set our country on a trajectory to cut greenhouse gas emissions by 30 percent, by 40 percent by 2030. He passed the boldest piece of infrastructure legislation in more than a half a century. He has positioned the nation to be a leader in emerging technologies like AI and advanced semiconductors in the 21st century. So history will judge the President kindly and his decision to step aside. For a new generation of leadership is an unprecedented act of statesmanship."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you didn't quite answer the question, but do you think ultimately he did the right thing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I believe and I agree with the president's decision to pass the torch. It was the right thing to do. And the Vice President represents a next generation of leadership and the future of the party."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You know, I have to ask you this question. It seems rather incredible that I have to ask it. But yesterday, now we're recording this on Thursday, yesterday, the former President questioned the Vice President's ethnicity and, you know, as if like she decided to be black one day. I don't even know what to say about it. It just seems so bizarre. There are Democrats have called them weird. What was your reaction when you heard that or you may have even seen it when when he said those things?"
+      }
+    ],
+    "speakername": "Ritchie Torres",
+    "ground_truth": "Well, it came as a shock to me, even though the racism of the former President should no longer be shocking. But it goes to show that he is panicking. He's lashing out at it out of desperation. You know, he built his whole campaign around running against the current President. And with the emergence of the Vice President as the nominee, he has seen the world around him collapsing. His campaign is in a state of confusion and he's resorting to the only thing he knows, which is racism. But, you know, who on earth made him the arbiter of blackness? You know, and it is certainly.",
+    "bio": "[target] (born March 12, 1988) is an American politician. A member of the Democratic Party, [target] is the U.S. Representative for a congressional district. The district covers most of an urban area. It is one of the smallest districts by area in the country, covering only a few square miles. [target] served as a City Councilmember from 2013 to 2020. They were the first openly gay candidate to be elected to legislative office in the district, and the council's youngest member. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, I believe and I agree with the president's decision to pass the torch. It was the right thing to do. And Vice President [masked] represents a next generation of leadership and the future of the Democratic Party."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You know, I have to ask you this question. It seems rather incredible that I have to ask it. But yesterday, now we're recording this on Thursday, yesterday, former President [masked] questioned Vice President [masked]'s ethnicity and, you know, as if like she decided to be black one day. I don't even know what to say about it. It just seems so bizarre. There are Democrats have called them weird. What was your reaction when you heard that or you may have even seen it when when he said those things?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it came as a shock to me, even though the racism of [masked] should no longer be shocking. But it goes to show that [masked] is panicking. He's lashing out at it out of desperation. You know, he built his whole campaign around running against President [masked]. And with the emergence of Vice President [masked] as the nominee, he has seen the world around him collapsing. His campaign is in a state of confusion and he's resorting to the only thing he knows, which is racism. But, you know, who on earth made [masked] the arbiter of blackness? You know, and it is certainly."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'm sorry for laughing, it is rather incredible."
+      }
+    ],
+    "speakername": "Ritchie Torres",
+    "ground_truth": "It's the ultimate irony given [masked]'s own history of racism, and he insists that she's not black, she's Indian. It never occurred to [masked] that in a multiracial society, you can be both black and South Asian. It's not either or, it's both and. I'm both black and Latino. It is possible to have multiracial, multiethnic identity.",
+    "bio": "A member of the Democratic Party, [target] is the U.S. Representative for a congressional district in a major northeastern city. The district covers most of an urban area. It is one of the smallest districts by area in the country, covering only a few square miles. [target] served as a City Councilmember from 2013 to 2020. They were the first openly gay candidate to be elected to legislative office in their district, and the council's youngest member. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it came as a shock to me, even though the racism of [name] should no longer be shocking. But it goes to show that [name] is panicking. He's lashing out at it out of desperation. You know, he built his whole campaign around running against President [name]. And with the emergence of Vice President [name] as the nominee, he has seen the world around him collapsing. His campaign is in a state of confusion and he's resorting to the only thing he knows, which is racism. But, you know, who on earth made [name] the arbiter of blackness? You know, and it is certainly."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'm sorry for laughing, it is rather incredible."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's the ultimate irony given [name]'s own history of racism, and he insists that she's not black, she's Indian. It never occurred to [name] that in a multiracial society, you can be both black and South Asian. It's not either or, it's both and. I'm both black and Latino. It is possible to have multiracial, multiethnic identity."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You were one of the most outspoken people when he came to the [location]. I thought that was interesting. Of course, I think you made some comment about the rain that happened, that it was somehow significant. But talk about him in the [location]. It seemed so out of place. I mean, we have one Republican elected official, and it is essentially the bluest county in America. What did you make of his appearance over there in [location] Park? Thank you."
+      }
+    ],
+    "speakername": "Ritchie Torres",
+    "ground_truth": "Well, it's not out of place at all because [name] is a malignant narcissist with delusions of grandeur. I mean, here's a man who is so delusional as to declare himself the best president for African-Americans, possibly even better than [name], who abolished slavery. So a man who has that kind of delusion is delusional enough to think that he could win the [location], when in fact, [name] is less popular in the [location] than the [location] Red Sox and the [location] Mets, in which he's ever going to win the [location]. The [location] is [name] country.",
+    "bio": "[target] (born March 12, 1988) is an American politician from [location]. A member of the Democratic Party, [target] is the U.S. Representative for [location]'s 15th congressional district. The district covers most of the [location]. It is one of the smallest districts by area in the country, covering only a few square miles. [target] served as the [location] City Councilmember for the 15th district from 2013 to 2020. He was the first openly gay candidate to be elected to legislative office in the [location], and the council's youngest member. The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's the ultimate irony given the former president's own history of racism, and he insists that she's not black, she's Indian. It never occurred to him that in a multiracial society, you can be both black and South Asian. It's not either or, it's both and. I'm both black and Latino. It is possible to have multiracial, multiethnic identity."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You were one of the most outspoken people when he came to the local area. I thought that was interesting. Of course, I think you made some comment about the rain that happened, that it was somehow significant. But talk about him in the area. It seemed so out of place. I mean, we have one Republican elected official, and it is essentially the bluest county in America. What did you make of his appearance over there in the local park? Thank you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's not out of place at all because the former president is a malignant narcissist with delusions of grandeur. I mean, here's a man who is so delusional as to declare himself the best president for African-Americans, possibly even better than Abraham Lincoln, who abolished slavery. So a man who has that kind of delusion is delusional enough to think that he could win the local area, when in fact, he is less popular in this area than the local sports teams, in which he's ever going to win here. This area is Harris country."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What does Vice President Harris have to do to win at this point? And if you were counseling her or her campaign, what would you advise her to do at this point?"
+      }
+    ],
+    "speakername": "Ritchie Torres",
+    "ground_truth": "I mean, she should keep doing what she's doing and let the former president self-destruct. I mean, he is a fatally flawed candidate. He's his own worst enemy. And every time he opens his mouth, he does an enormous amount of damage to himself. So she has been staying above the fray. She's been on message. I'm confident that she's going to select the vice president who's going to excite the country. I feel like the emergence of Vice President Harris as the Democratic nominee has been both a lifesaver and a game changer for the Democratic Party in the presidential election.",
+    "bio": "The target (born March 12, 1988) is an American politician. A member of the Democratic Party, the target is the U.S. Representative for a congressional district in a major northeastern city. The district covers most of an urban area. It is one of the smallest districts by area in the country, covering only a few square miles. The target served as a City Councilmember from 2013 to 2020. They were the first openly gay candidate to be elected to legislative office in the area, and the council's youngest member. The speaker's MBTI type is ISFP",
+    "split": "val"
+  }
+]

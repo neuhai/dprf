@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target], what was the conversation like between the two of you when you decided to"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I decided to run for president."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think each of us had done a lot of thinking about it. So whenever we were talking about it together, it was largely just kind of, are we ready for this? Are we sure? Are you sure? Am I sure?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "When did you first tell [person], you know, I mean, did you say, nice to meet you, I'm thinking of running for president, or when did you let him know that you had these ambitions?"
+      }
+    ],
+    "speakername": "Pete Buttigieg",
+    "ground_truth": "I mean, [person] sometimes reminds me about our first date when, you know, he I think was maybe a little skittish about being with a politician, and he asked what the future looked like. And the answer I gave was honest at the time, which was, you know, I'm up for reelection as mayor. If I have a really good second term, then in 2020 there's a possibility I might be considered for governor. And, you know, we would take it from there. You know, neither one of us bargained for this being what 2020 would look like for us. [person] went to the word president.",
+    "bio": "Born January 19, 1982, is an American politician and former Naval Intelligence Officer who has served as the mayor of a midwestern city since 2012. During his tenure as mayor, his policies were widely credited with significantly spurring economic growth and business investment. In April 2019, he formally announced he was running for the Democratic nomination for president of the United States in 2020. He is currently serving as a senior government transportation official. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It feels quite rapid. How do you manage that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, there's really never a good time for things like this. And so, you know, whenever you do something like this, it's disruptive. It's been a crazy year. Yeah, if you start the clock in June, as you said, we got married, lost my father, lost Chastin's grandmother, published a book, started running for president. It's a lot. You're slowly renovating the home."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you live in yeah this is I mean that's another yeah that's more of a slow-motion drama but"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Um,"
+      }
+    ],
+    "speakername": "Pete Buttigieg",
+    "ground_truth": "It sounds like a lot, but some of those things really reinforce the other, too. I mean, especially the marriage. You know, earlier, especially when I was single, and I got to know other public officials and other people in elected office, I always marveled at how they did it. I thought, how can you possibly have a marriage and also do this and be good at both of those things? But now I kind of think about it the other way around. I think, how could I possibly be doing this if it weren't for Chaston, if I didn't have someone in my life who just cares about me as me and who will love me the same no matter how well or how poorly things are going out there and who will tell me the truth, especially if I'm veering off of who I truly am.",
+    "bio": "Born January 19, 1982, the speaker is an American politician and former Naval Intelligence Officer who has served as the mayor of a midwestern city since 2012. During their tenure as mayor, their policies were widely credited with significantly spurring economic growth and business investment. In April 2019, they formally announced their candidacy for the Democratic nomination for president of the United States in 2020. They currently serve as the United States Secretary of Transportation. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And, you know, be something in my life that I care about more than the other stuff. It's the most, it's just such a blessing to be able to come home whenever I do get to come home, to this home, and also on the road, to know that we can crash into each other at the end of the day and just be human with all this stuff going on around us."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So the marriage gives you ballast in a frenetic world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'll see you next time."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Absolutely."
+      }
+    ],
+    "speakername": "Pete Buttigieg",
+    "ground_truth": "Yeah, sometimes, I don't know about you, but I feel like it's just like flowing around us like water moving around a rock in a river. It's this thing that I can grab hold of because if you start getting absorbed in the rhythm of political life more than it's healthy, you wind up not knowing who you are without it. What do you think about when you hear that?",
+    "bio": "Born January 19, 1982, the subject is an American politician and former Naval Intelligence Officer who has served as the mayor of a midwestern city since 2012. During their tenure as mayor, their policies were widely credited with significantly spurring economic growth and business investment. In 2019, they formally announced their candidacy for the Democratic nomination for president of the United States. They currently serve as a cabinet secretary in the federal government. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Don't say that. Because they're just as terrible, and now they're strong."
+      },
+      {
+        "speaker": "[target]",
+        "text": "They are. Yeah, they're stronger. And the other straight. The thing I cannot fathom is that somehow we're raising a morning person like neither one of us is a morning person. We got twins."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "morning person? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean sometimes I have to be for work but like in terms of like body clock disposition absolutely not but at"
+      }
+    ],
+    "speakername": "Pete Buttigieg",
+    "ground_truth": "at first light uh our sun just comes barreling into the room but not i don't mean sun up i mean like astronomical twilight he he like activates and he's just there at the bedside with like a book asking us to read the book and if you don't immediately comply you hear little footfalls as he goes downstairs and he returns in one minute with a tambourine in his hand doesn't matter how many times we and he's just ready to wake us up and start our day it's crazy",
+    "bio": "The speaker (born January 19, 1982) is an American politician and former Naval Intelligence Officer who has served as the mayor of a midwestern city since 2012. During their tenure as mayor, their policies were widely credited with significantly spurring economic growth and business investment. In 2019, they formally announced their candidacy for the Democratic nomination for president of the United States in 2020. They currently serve as a cabinet secretary in the federal government. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But as long as they do, I think it's worth doing. It rarely turns out well for them in the argument."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know how they make their decisions, but, you know, I think it's really important to go on there. I can't blame somebody for not agreeing with our message if they've literally never heard it. And I'm worried that if I don't go on there and say it, they're not going to hear it otherwise."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "People talk a lot about the calcification of political support in America, like there's a hard basement for both of the parties. Do you think that's true, or do you think that it's always about turnout of the election? The base is the base, and you have to turn them out. Do you think there's a possibility to loosen that Gordian knot? Absolutely."
+      }
+    ],
+    "speakername": "Pete Buttigieg",
+    "ground_truth": "I think you can reach value. I still think politics is about persuasion. Yes, of course, turnout matters a great deal, too. We'll be focusing a lot on that. But especially at a moment like this, when you have a top of the ticket on the Republican side that has walked away from a lot of values that matter to conservatives as well as liberals, I think it's a great moment to try to scramble some of the traditional political coalitions. I got to think we may have set a record for how many Republicans spoke at our Democratic National Convention. I can't â I haven't looked that up, but that might be true. So I really think there's potential there.",
+    "bio": "Peter Paul Montgomery Buttigieg (born January 19, 1982) is an American politician and former Naval Intelligence Officer who has served as the mayor of the city of South Bend, Indiana since 2012. During his tenure as mayor of South Bend, Buttigieg's policies were widely credited with significantly spurring economic growth and business investment. On April 14, 2019, Buttigieg formally announced he was running for theÂ Democratic nominationÂ forÂ president of the United States in 2020. He is currently the United States Secretary of Transportation. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

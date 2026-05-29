@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "was awesome it was awesome and then we thought what how can we make the best of this time and we are traveling to [location] to do a mastermind and in fact um it's pretty interesting but i was while i was sitting nearby oliver i said hey oliver you just did the launch i did and why don't you tell me what you know because launching everyone put his own spices everyone after you start launching a lot you try to perfect it so he just did an awesome launch and we decided to record this this interview while we wait for our plane to [location] we have like two hours and uh to understand what are the secrets behind this special launch from from oliver so oliver first of all thank you as well yeah thank you i know we have nothing else to do apart from doing this whatever"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But tell me about what is the product you launched recently?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, so the Product Card Launch is my main course about blogging. So it's a course that basically teaches you how to use a blog to grow your company or how to create a company while creating your blog on the internet and how to make a lot of money with your blog."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, right. And let's give some numbers for people to understand. This is a little bit of a contest. You give a little bit of a contest. In the first time you launched this product, what was the size in sales of this particular product?"
+      }
+    ],
+    "speakername": "Erico Rocha",
+    "ground_truth": "The very first time it was like around 400,000 euros. The second time it was my best launch so far, 580,000 euros. And then I did a lot of relaunch with exactly the same videos, exactly the same email, and each time it did less than the previous. So I did, the third made half of the second, and the fourth made two-thirds of the third. So it was going like that. It was going like that.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, so the Product Card Launch is my main course about blogging. So it's a course that basically teaches you how to use a blog to grow your company or how to create a company while creating your blog on the internet and how to make a lot of money with your blog."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, right. And let's give some numbers for people to understand. This is a little bit of a contest. You give a little bit of a contest. In the first time you launched this product, what was the size in sales of this particular product?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The very first time it was like around 400,000 euros. The second time it was my best launch so far, 580,000 euros. And then I did a lot of relaunch with exactly the same videos, exactly the same email, and each time it did less than the previous. So I did, the third made half of the second, and the fourth made two-thirds of the third. So it was going like that. It was going like that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "fact this is it for a lot of people it feels bad or feel feel wrong but at the same time the good thing about launch is that he's actually repeating exactly the same video same emails as well yes I mean same email same video so few tweaks but so if you think about he actually did X on the first launch and whatever he does in the second one it comes without effort I mean I mean it's like I"
+      }
+    ],
+    "speakername": "Erico Rocha",
+    "ground_truth": "I'm a lifestyle businessman, right? I design my business so it gives me a lot of lifestyle, a great lifestyle. I just went two months to a Southeast Asian country, it was awesome and basically I try to always look at what are the things that can bring me the maximum result without a lot of effort. Without a lot of effort. So the 2080 rules.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm a lifestyle businessman, right? I design my business so it gives me a lot of lifestyle, a great lifestyle. I just went two months to an Asian country, it was awesome and basically I try to always look at what are the things that can bring me the maximum result without a lot of effort. Without a lot of effort. So the 2080 rules."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "right incredible but now you did something on your launch or your recent launch how much this did your recent launch did five hundred sixty thousand"
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh... you're"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "560,000 years and how much this is more from the previous one?"
+      }
+    ],
+    "speakername": "Erico Rocha",
+    "ground_truth": "So I just changed one video on the fourth. So, no, I had five videos actually, only one was changed, the PLC one.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Awesome. And this is what we want to explore this interview. What are the things that he did on his last launch that makes him perform maybe twice as much as the previous one? Even more, even more. Even more. And that's what we're exploring. We have even a cheat sheet here so that we can see. So, Oliver, that's cool, right? So, what are the things that you did in this launch that you actually think that made the difference? All right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The first thing I did, which I didn't do before, was the R2X, so it's basically, I think you know..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The Artrix, for those who don't know, is like a technique of collecting testimonials that I teach on my training program. So, training course. Yeah. And it was..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "effective because in four days I got 26 awesome testimonials and videos and I use them a lot during the launch and it made a big difference because I mean it just I mean if you if you if people watch videos in a launch and this watch the same videos but you have 20 30 40 videos of people saying yeah it's awesome I got this and this result and it changed my life and everything of course in the second case people will be more excited will trust you more because they will see all these people that says that you you're great and your course is great and it made a big big difference"
+      }
+    ],
+    "speakername": "Erico Rocha",
+    "ground_truth": "Okay, great. So first, take note, the R2X, right? So I teach this on my training program and if you don't know exactly what it is, it's about collecting testimonials about the product. So if you don't know, if you don't use exactly the R2X technique, you can also collecting testimonials make a difference. So what else did make a difference in this particular launch that you kind of really think that moved the bar?",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The technique, for those who don't know, is like a method of collecting testimonials that I teach on Product Marketing Course. So, Marketing Formula. Yeah. And it was..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "effective because in four days I got 26 awesome testimonials and videos and I use them a lot during the launch and it made a big difference because I mean it just I mean if you if you if people watch videos in a launch and this watch the same videos but you have 20 30 40 videos of people saying yeah it's awesome I got this and this result and it changed my life and everything of course in the second case people will be more excited will trust you more because they will see all these people that says that you you're great and your course is great and it made a big big difference"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, great. So first, take note, the technique, right? So I teach this on Product Marketing Course and if you don't know exactly what it is, it's about collecting testimonials about the product. So if you don't know, if you don't use exactly this technique, you can also collecting testimonials make a difference. So what else did make a difference in this particular launch that you kind of really think that moved the bar?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, I reshot the first video. The first video was a case study of my best student in front of a famous monument in South Asia. It was an awesome video, but I used it too much. I feel that almost half of the planet already sees this video, so it was time to change it. And so I decided to, instead of one case study, to put four case studies in this video."
+      }
+    ],
+    "speakername": "Erico Rocha",
+    "ground_truth": "So instead of one case study in your first video, you put four case studies. Four case studies. It's like you're leveraging proof, so you're making...",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

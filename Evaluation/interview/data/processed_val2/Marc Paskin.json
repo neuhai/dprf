@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "what advice would you give to them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "is for it to be successful or specifically for real estate?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to be successful."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, because they're two different things, okay?"
+      }
+    ],
+    "speakername": "Marc Paskin",
+    "ground_truth": "You know, I've actually done some speaking at a few universities and they've had like a university, [regional university], once did a speech. It was called Entrepreneurial Workshop. And the people in the audience of the speech were people who were basically young people who wanted to see how to become successful. So it wasn't really for me to go up and brag and say I've got a fancy house, fancy car, but basically talk about my story and then the lessons that I learned that could apply to them. And so if we're talking about that, some little lessons that I've learned to share with the world, I'd say, number one, I'd say have a good reputation. Okay, because whatever you do, whether you're a painter, whether you're a real estate man, whether you're a contractor, whatever you set out to do and you want to get better and better with it, your reputation is very, very important. Because from your reputation, you're going to get more business, you're going to get business contacts. And if you think about that, hopefully build a good reputation. Because if you have a bad reputation. If you're dishonest with people or you do something that's not quite right, you know, it's going to come back to bite you in the butt. So I think having a good reputation is extremely important in whatever you do. Another thing I just touched on, honesty, I think honesty is very, very important. I think be honest.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Out of the 35 years that it took you to get to where you are now, could you pinpoint one of the hardest times that you were in or something that happened that was very, very trying for you? And then how did you overcome that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Are you talking about business-wise? Business-wise."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "personality, either way."
+      }
+    ],
+    "speakername": "Marc Paskin",
+    "ground_truth": "I'd say, as far as business-wise, I remember buying a property maybe 10, 12 years ago in [state]. It was a retail property, okay? And it was $8 million for a retail property in [upscale city], [state], which is like a very affluent, you know, kind of like a [wealthy area] type area. So a very prime property.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Out of the 35 years that it took you to get to where you are now, could you pinpoint one of the hardest times that you were in or something that happened that was very, very trying for you? And then how did you overcome that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Are you talking about business-wise? Business-wise."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "personality, either way."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'd say, as far as business-wise, I remember buying a property maybe 10, 12 years ago in [location]. It was a retail property, okay? And it was $8 million for a retail property in [location], which is like a very affluent, you know, kind of like a [location] type area. So a very prime property."
+      }
+    ],
+    "speakername": "Marc Paskin",
+    "ground_truth": "After I bought it, about a year later, the market crashed, and the property was just nosedive in value. And on top of that, the tenant that I had went broke and stopped paying rent. So all of a sudden, I have a huge mortgage to pay and also no money coming in. And I tried to rent it. Nobody wanted to rent it. I tried to sell it. Nobody would sell it. The property was worth way, way under what I paid, so I ended up actually just giving it back to the bank. It's like a deed in lieu of foreclosure. They don't foreclose on me. I want to give it back. The bank basically took it and resold it. But in a transaction like that, I lost a lot, a lot of money.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sure."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Uncle Kokuwa."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm going to go with Saturday."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yes, he did."
+      }
+    ],
+    "speakername": "Marc Paskin",
+    "ground_truth": "win more than you lose. I like that. And if you're good at what you do, it's not hard, you usually will win more.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to be the loser."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Don't give up when things are bad, you know, just..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "keep plugging away."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, so let's talk personal."
+      }
+    ],
+    "speakername": "Marc Paskin",
+    "ground_truth": "Personal, as far as things that were devastating in my life, I would say probably one of the biggest would be my wife passing away. I was married for 29 years to a wonderful woman, and about 10 years ago she died because of complications from diabetes. So when that happened, you know, that was just a big change because she was my childhood sweetheart. We went to college together. We were like, you know, almost my first girlfriend, and like soulmates, and we raised a beautiful family together. And then all of a sudden your life changes. And so that was, you know, that was very, very sad. And even to this day, it's been 10 years, you know, I still miss her. I still, in fact, her and I, we grew up in [state], but we spent the first five years of my married life in [state]. And we had a little apartment in [residential area], and then we bought our first house together, back when houses were $50,000, back in [residential area] and in [residential area].",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

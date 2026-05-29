@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "first of all in terms of the women's liberation thing I think people have to recognize that women in this country are also saying that they have a great deal to offer in terms of their own abilities their own intellectual qualities and capacities and that they have been constantly and persistently left out on the administrative and policymaking levels of this government and just as the women's movement today are saying women want in on the top blacks are also saying the same thing it happens that I am simultaneously a woman and a black person and this is causing a great deal of concern many persons have to recognize that even though in their own inherent basic attitudes towards women in this society that they do not feel their place is in the political arena they have to recognize that I do exist and what happened this past weekend in the black political leaders conference is the fact that although I'm the only black person currently who is saying that I am going to make a serious bid for the presidency the the attempt not to even permit me to speak on a broad level at one of the two panels that were going to be discussing strategies for 1972 when all of the delegates would have been assembled at these two panels is a subtle and a covert indication of the feelings towards a woman's candidacy male chauvinism is a real problem in our society"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "This conference indicated that the blacks are pretty well divided. How can you be effective politically if you're divided?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think that the blacks are any different from any other ethnic group in this society. There are always divisions within the groups. I think one of the purposes of this conference was to really see if we can bring in together from all over this country people who are holding important elective and appointive offices to map some kind of strategy for 1972. And of course you have differences of approaches and differences of opinions with respect to this strategy. Some feel favorites on candidacy, some feel lining up behind a single candidate, and some feel other things. And I think that we do have to recognize that there is no unanimity of approach as yet with respect to the strategy by black officials in this country for 72."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mr. Chisholm, isn't the disunity that you talk about that went on at that black elected officials conference basically, doesn't it basically boil down to a struggle between you and the backers of the Stokes brothers, Carl and Congressman Louis Stokes, to determine who is going to be the power broker in delivering the votes of black people in this country?"
+      }
+    ],
+    "speakername": "Shirley Chisholm",
+    "ground_truth": "Since you mention it, let me just say this to you. I have said for quite some time now that if there's any black person that is going to emerge and wants to run for the presidency of the United States, that they should come out and say it forthrightly, that there's no necessity for reluctant dragons or persons rumbling about the fact that they'd like to make the race and not make the race, but rather than to revert their attention towards someone, and in this particular case myself, who has dared to say, now here I am, I am going to make the race, I am traveling in the country now collecting delegates and making inroads into the different segments of the society, into black groups, women's groups, Spanish-speaking groups, and other groups, and I am saying that I am a serious candidate. I've never said or never felt at any particular point that no black man, for that matter, who wants to run should not run, but what they have been doing, they have been holding back, have been acting like reluctant dragons, and then proceeding, to try to bring me forth as a person who is interested in possibly using divisive tactics. Now that is very unfair, and it's very unreal in pragmatic politics. If you want to run, come forth and say you're going to run. Have the courage, have the guts to say you're going to run, but do not begin to try to thwart the ambitions of someone who dares to get out and do the nitty-gritty work that is necessary to make the candidacy become a viable one.",
+    "bio": "Shirley Anita Chisholm was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress. Chisholm represented New York's 12th congressional district, a district centered on BedfordâStuyvesant, for seven terms from 1969 to 1983. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think that the blacks are any different from any other ethnic group in this society. There are always divisions within the groups. I think one of the purposes of this conference was to really see if we can bring in together from all over this country people who are holding important elective and appointive offices to map some kind of strategy for 1972. And of course you have differences of approaches and differences of opinions with respect to this strategy. Some feel favorites on candidacy, some feel lining up behind a single candidate, and some feel other things. And I think that we do have to recognize that there is no unanimity of approach as yet with respect to the strategy by black officials in this country for 72."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mr. [target], isn't the disunity that you talk about that went on at that black elected officials conference basically, doesn't it basically boil down to a struggle between you and the backers of the [redacted] brothers, [redacted] and Congressman [redacted], to determine who is going to be the power broker in delivering the votes of black people in this country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Since you mention it, let me just say this to you. I have said for quite some time now that if there's any black person that is going to emerge and wants to run for the presidency of the United States, that they should come out and say it forthrightly, that there's no necessity for reluctant dragons or persons rumbling about the fact that they'd like to make the race and not make the race, but rather than to revert their attention towards someone, and in this particular case myself, who has dared to say, now here I am, I am going to make the race, I am traveling in the country now collecting delegates and making inroads into the different segments of the society, into black groups, women's groups, Spanish-speaking groups, and other groups, and I am saying that I am a serious candidate. I've never said or never felt at any particular point that no black man, for that matter, who wants to run should not run, but what they have been doing, they have been holding back, have been acting like reluctant dragons, and then proceeding, to try to bring me forth as a person who is interested in possibly using divisive tactics. Now that is very unfair, and it's very unreal in pragmatic politics. If you want to run, come forth and say you're going to run. Have the courage, have the guts to say you're going to run, but do not begin to try to thwart the ambitions of someone who dares to get out and do the nitty-gritty work that is necessary to make the candidacy become a viable one."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "A serious candidate could mean several things. Do you seriously believe that you can win?"
+      }
+    ],
+    "speakername": "Shirley Chisholm",
+    "ground_truth": "I seriously believe I can win, given the nature of the forces in this country today, given the nature of what is happening. And permit me to say this, that you must remember that I did not project or initiate my own candidacy, that my candidacy was initiated by a cross-section of many groups of people in this country who are asking in. I have women backing me in this country. I have many blacks, I have many black males, those whose egos are intact, backing me. I have many young people in this country who are saying, Mrs. [target], we didn't even want to bother to consider thinking about presidential politics because we can't think the system can work, but we're willing to give you a chance. I have many Spanish-speaking people backing me. And all of these people, about six months ago, began to ask me to make this serious bid, and so I proceeded to move on the basis of this call.",
+    "bio": "The target was an American politician, educator, and author. In 1968, they became the first black woman elected to the United States Congress. They represented a congressional district centered on [redacted] for seven terms from 1969 to 1983. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Since you mention it, let me just say this to you. I have said for quite some time now that if there's any black person that is going to emerge and wants to run for the presidency of the United States, that they should come out and say it forthrightly, that there's no necessity for reluctant dragons or persons rumbling about the fact that they'd like to make the race and not make the race, but rather than to revert their attention towards someone, and in this particular case myself, who has dared to say, now here I am, I am going to make the race, I am traveling in the country now collecting delegates and making inroads into the different segments of the society, into black groups, women's groups, Spanish-speaking groups, and other groups, and I am saying that I am a serious candidate. I've never said or never felt at any particular point that no black man, for that matter, who wants to run should not run, but what they have been doing, they have been holding back, have been acting like reluctant dragons, and then proceeding, to try to bring me forth as a person who is interested in possibly using divisive tactics. Now that is very unfair, and it's very unreal in pragmatic politics. If you want to run, come forth and say you're going to run. Have the courage, have the guts to say you're going to run, but do not begin to try to thwart the ambitions of someone who dares to get out and do the nitty-gritty work that is necessary to make the candidacy become a viable one."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "A serious candidate could mean several things. Do you seriously believe that you can win?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I seriously believe I can win, given the nature of the forces in this country today, given the nature of what is happening. And permit me to say this, that you must remember that I did not project or initiate my own candidacy, that my candidacy was initiated by a cross-section of many groups of people in this country who are asking in. I have women backing me in this country. I have many blacks, I have many black males, those whose egos are intact, backing me. I have many young people in this country who are saying, Mrs. [target], we didn't even want to bother to consider thinking about presidential politics because we can't think the system can work, but we're willing to give you a chance. I have many Spanish-speaking people backing me. And all of these people, about six months ago, began to ask me to make this serious bid, and so I proceeded to move on the basis of this call."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Is there a board or a committee? You referred in an article in the New Democrat to a coalition, and you said, I am the instrument of the coalition, and you indicated that you would do what they decided and what they wanted. Is there some group or committee whose advice and whose decisions you are following?"
+      }
+    ],
+    "speakername": "Shirley Chisholm",
+    "ground_truth": "I am following the advice and decisions of several people from the different groups that I've just mentioned, but you must remember that I have not opened up my national headquarters as yet to bring together the coalition of the forces right here in [federal capital], the capital. I have groups in about 27 states, and hopefully on about December 3rd or 4th, we have just secured headquarters space here in [federal capital]. We will be officially opening our headquarters and coordinating all of the efforts and all of the forces, and at that time, a press conference will be called to identify many of the persons who are associated with me in this movement.",
+    "bio": "The speaker was an American politician, educator, and author. In 1968, they became the first black woman elected to the United States Congress. They represented a congressional district centered on an urban neighborhood for seven terms from 1969 to 1983. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I seriously believe I can win, given the nature of the forces in this country today, given the nature of what is happening. And permit me to say this, that you must remember that I did not project or initiate my own candidacy, that my candidacy was initiated by a cross-section of many groups of people in this country who are asking in. I have women backing me in this country. I have many blacks, I have many black males, those whose egos are intact, backing me. I have many young people in this country who are saying, we didn't even want to bother to consider thinking about presidential politics because we can't think the system can work, but we're willing to give you a chance. I have many Spanish-speaking people backing me. And all of these people, about six months ago, began to ask me to make this serious bid, and so I proceeded to move on the basis of this call."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Is there a board or a committee? You referred in an article in the New Democrat to a coalition, and you said, I am the instrument of the coalition, and you indicated that you would do what they decided and what they wanted. Is there some group or committee whose advice and whose decisions you are following?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I am following the advice and decisions of several people from the different groups that I've just mentioned, but you must remember that I have not opened up my national headquarters as yet to bring together the coalition of the forces right here in [federal capital], the capital. I have groups in about 27 states, and hopefully on about December 3rd or 4th, we have just secured headquarters space here in [federal capital]. We will be officially opening our headquarters and coordinating all of the efforts and all of the forces, and at that time, a press conference will be called to identify many of the persons who are associated with me in this movement."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "You've never said positively that you are a candidate. Are you saying now that you positively are a candidate?"
+      }
+    ],
+    "speakername": "Shirley Chisholm",
+    "ground_truth": "No, I'm not saying positively I'm a candidate now. I don't know why I should be any different from some of the other aspirants. I'm still saying that as the momentum begins to swell and the fact that fundraising galleys are being put together in this country and the forces are organizing more and more every day, that around January 3rd or 4th, if I am able to have at least $300,000, which is a minimal amount because I'm not going to enter every primary, I will be a definite candidate around January 3rd or 4th. The chances are 99 to 100 that I will be running.",
+    "bio": "[target] was an American politician, educator, and author. In 1968, they became the first black woman elected to the national legislature. They represented a congressional district centered on an urban neighborhood for seven terms from 1969 to 1983. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am following the advice and decisions of several people from the different groups that I've just mentioned, but you must remember that I have not opened up my national headquarters as yet to bring together the coalition of the forces right here in [national capital]. I have groups in about 27 states, and hopefully on about December 3rd or 4th, we have just secured headquarters space here in [national capital]. We will be officially opening our headquarters and coordinating all of the efforts and all of the forces, and at that time, a press conference will be called to identify many of the persons who are associated with me in this movement."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "You've never said positively that you are a candidate. Are you saying now that you positively are a candidate?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I'm not saying positively I'm a candidate now. I don't know why I should be any different from some of the other aspirants. I'm still saying that as the momentum begins to swell and the fact that fundraising galleys are being put together in this country and the forces are organizing more and more every day, that around January 3rd or 4th, if I am able to have at least $300,000, which is a minimal amount because I'm not going to enter every primary, I will be a definite candidate around January 3rd or 4th. The chances are 99 to 100 that I will be running."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Does it make any difference what the other black leaders decide they want to do? You're going to be in it regardless?"
+      }
+    ],
+    "speakername": "Shirley Chisholm",
+    "ground_truth": "Yes, I'm going to run regardless because, as I said, I was first projected by a number of forces five or six months ago. I also happen to be black. But persons have to really recognize that I am also a woman. And this is what is disturbing many of my black brothers because in the newspaper this morning, one of them said, we do not want black politics mixed with women's liberation. Well, heavens, one of their outstanding black politicians in America today happens to be a woman. And I cannot get an operation to change to be a male at this particular point. And they have to recognize that women are human beings. And that is a part of the problem that many of them are having difficulties with. They don't want to say it openly. But we know in terms of what has been happening this past weekend and in terms of what many of the delegates were saying at the conference, that this is a real problem of an attitude towards women in politics. It's applicable to black males and it's applicable to white males. It's a real problem. Better or worse?",
+    "bio": "[target] was an American politician, educator, and author. In 1968, she became the first black woman elected to the national legislature. [target] represented a major northeastern state's 12th congressional district, a district centered on an urban neighborhood, for seven terms from 1969 to 1983. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

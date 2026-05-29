@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target], you mentioned in your last interview with us, it was an interesting interview that you had, that you offered to us, and you mentioned about your company's success with online TV ads. So this is a follow-up interview on the subject of online TV ads based on your experience with that advertising form. And my first question for you would be, what are online TV ads?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the online TV ad platform allows anyone, businesses of any size, including very small businesses, to advertise on TV. So it's really just a system for allowing businesses to get their television commercials aired. So there's nothing really different about your ads per se. If you happen to have existing television ads, you can put them through the online TV ad platform. But essentially, it's an advertisement-like system for getting your TV ads on the air. There's a couple of caveats to that, though, is that for most of the networks, you're only getting airtime through one satellite provider. So what I mean by that is, if you're getting airtime through this provider, if you wanted your ad to play on an entertainment channel, for instance, it's only going to play on that channel in homes that have this specific provider. They do have some networks, some stations, where your ad would be nationwide. But the majority of them are only going through these specific TV households, which actually isn't the worst. It's the worst thing for small businesses, because that brings the price down quite a bit versus running a nationwide entertainment channel ad, for instance. So that's what really attracted us to that whole system, is that we could get in there, we could get some pretty good frequency without having to spend an absolute fortune."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So where do users or our listeners, where do they access these TV ads? What part of the platform is that under?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, once you're signed up, you'd actually be doing all of the management through your advertisement platform."
+      }
+    ],
+    "speakername": "Jamie Salvatori",
+    "ground_truth": "But to get there initially, I would suggest just doing an online search for online TV ads and then you'll be able to find a ton of information about it. That's how I learned about it and yeah, that's how you get to it.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But to get there initially, I would suggest just doing a search for online TV ads and then you'll be able to find a ton of information about it. That's how I learned about it and yeah, that's how you get to it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's under the advertising interface, as I recall. So it's under the web address for TV ads. Would that be it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Uh, correct."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. Walk us through the process with online TV ads, [target]. First, for example, how does a merchant create a TV spot? Do they have to have a spot made before they start with online TV ads?"
+      }
+    ],
+    "speakername": "Jamie Salvatori",
+    "ground_truth": "I don't believe you do. I mean, my business is widely unique in the fact that we have a history in video production, so we actually make our own commercials ourselves here. But one thing that I've seen the platform mention often is they have this marketplace where you can go and find companies that provide the service of creating TV commercials and hook up with them, and they understand the online TV ads platform because when your spot is completed, you actually just upload the file to the platform, and you can upload as many commercials as you want. You can have them rotate different ones. So it's a pretty cool system versus what you had to do in the quote-unquote old days of making all these copies of tapes and mailing them to all these different stations around the country. Now you just upload it. And I think actually the platform might even have a system where you can use these kind of like templated TV commercials where you can insert your own content. They've got sort of this templated visual content, and then you add your own audio content to it, and there's services where you get a professional to read the voice. So you can make a pretty professional and quality TV commercial through their system without having to spend a ton of money. It's pretty awesome.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Uh, correct."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. Walk us through the process with Google TV ads, [target]. First, for example, how does a merchant create a TV spot? Do they have to have a spot made before they start with Google TV ads?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't believe you do. I mean, my business is widely unique in the fact that we have a history in video production, so we actually make our own commercials ourselves here. But one thing that I've seen Google mention often is they have this marketplace where you can go and find companies that provide the service of creating TV commercials and hook up with them, and they understand the Google TV ads platform because when your spot is completed, you actually just upload the file to Google, and you can upload as many commercials as you want. You can have them rotate different ones. So it's a pretty cool system versus what you had to do in the quote-unquote old days of making all these copies of tapes and mailing them to all these different, you know, stations around the country. Now you just upload it. And I think actually Google might even have a system where you can use these kind of like templated TV commercials where you can insert, you know, your own. They've got sort of this templated visual content, and then you add your own audio content to it, and there's services where you get a professional to, you know, to read the voice. So you can make, you know, a pretty professional and quality TV commercial through their system without having to spend a ton of money. It's pretty awesome."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How much for a merchant listening to this, how much can a merchant expect to pay if they'd used as many of the do-it-yourself tools as they can? How much would a merchant need to pay?"
+      }
+    ],
+    "speakername": "Jamie Salvatori",
+    "ground_truth": "Well, if you were very dedicated to not having to put a lot of money out of the pocket, you could probably make the commercial yourself on your own using your own editing software or what have you. And you could then probably buy just one spot for probably like $50 and get it on the air there. So, yeah, you can do it without spending a ton of money. But, you know, the thing about TV advertising is that, you know, you have to get a frequency going. So it would be a little foolish to just run one ad and be done with it unless you were, I don't know, spending a couple million for a major sporting event ad.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, if you were very dedicated to not having to put a lot of money out of the pocket, you could probably make the commercial yourself on your own using your own editing software or what have you. And you could then probably buy just one spot for probably like $50 and get it on the air there. So, yeah, you can do it without spending a ton of money. But, you know, the thing about TV advertising is that, you know, you have to get a frequency going. So it would be a little foolish to just run one ad and be done with it unless you were, I don't know, spending a couple million for a major sporting event ad."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That'd be nice."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What about tracking? I know your company, [generic company], you've, of course, used digital TV ads. How do you, or maybe you don't, track the effectiveness of those TV ads?"
+      }
+    ],
+    "speakername": "Jamie Salvatori",
+    "ground_truth": "Well, it's not going to be the same as the tracking that comes with your online pay-per-click AdWords. You're not going to get that kind of data. What you're probably going to have to do is get information from your customers. Did you see our TV ad or how did you find out about us? A lot of people have probably seen that on websites when you're completing the checkout process. Because oftentimes there's a question there that says, how did you hear about us? And that's what we do on our website. And we have somewhere between 85% and 90% of our customers answer that question. So it's not going to put a lot of people off. They'll take the four seconds to answer it. So you just make that a question. Did you find this through a search engine, a magazine ad, TV ad? And you can sort of track it that way. But you're not going to be. You're not going to be able to track what TV ad did they see and when. So it's still TV advertising is still, quote, unquote, traditional advertising where there isn't quite as much tracking. There's some other things that you could do. You could put toll-free numbers on your ad. And you could put different toll-free numbers on all of your ads. And then have, you know, they have these systems out there. They're called virtual phone systems, which is how small businesses can get sort of a professional kind of phone system going. You could have multiple toll-free numbers all sort of route to the same phone number. And you could track how many calls you got through those different toll-free numbers. So that's a little bit more set up. The search company doesn't provide that for you. But it's something you could do to track.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we've been really pleased because, you know, we've had quite a bit of success with the online TV ads. And, you know, compared to how we used to have to buy TV advertising, which was, you know, through either an individual cable company or an advertising agent or directly with the network or station that you want to be on, it's easier, it's faster, it's less expensive, and it's more transparent and you have more control. And you can start and stop your ads whenever you want. Traditionally, if you go and do a TV campaign, they're going to say, all right, this is, you know, we're going to try to run your ads, say, 40 times in the next four weeks or something like that. And you're locked into that four weeks. If you get a week into it and you decide, I don't want to do this, you can't stop. I mean, you're going to have to pay, probably already put a payment of half down, but you might have to pay the whole thing and just let it ride. So with the online TV ads, you know, it's kind of very similar to online text or pay-per-clicks, you know, online ads where you can just, boom, pause that campaign you don't think it's working or change the bid that you're willing to pay on that advertising. So it's a way different system than how you traditionally, by TV ads."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You mentioned the number earlier. I think it was a hypothetical number of $50 a spot. How is cost established on online TV ads?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's actually a bidding system, which is pretty interesting. And what you do is for each station and time frame or whatever that you're bidding on, you pick a daily budget, how much you're willing to pay for the whole day. Then you also pick a cost per thousand bid, meaning how much you're willing to pay for a thousand people or a thousand households, I suppose, that see your advertisements. So you're bidding against other companies. So you could set, say, a daily budget of $50, and then you could bid $0.75 a dollar per thousand impressions. And based on how many people see your ad and how many people see your ad, and how many people see your ad, that's what you end up paying. And because it's a bidding system like how the other online stuff works, if you bid a dollar but the winning bid is $0.81, then you pay $0.81 or whatever. So it's pretty interesting. And with that daily budget number, I think what they do, but I might be wrong, I think what they do is they look at your daily budget number, say it's $100, and they multiply it by 30 days in a month, and they will not let you spend over $3,000 in a month. But you might be able to exceed that amount for one day. I don't know. That's getting into a lot more details. Anyone can read through their website. But it gives you budget control. You can turn the thing on and off. You can change those bids as much as you want. You can change the times when your ads run. You can include or exclude certain programs. You can do that type of stuff just right there through their online system. So you have a ton of controls."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target], for your business, what other forms of marketing do you do? In addition, you do online TV ads. What else do you do to bring customers to your site?"
+      }
+    ],
+    "speakername": "Jamie Salvatori",
+    "ground_truth": "Well, we use, you know, we do paid search through online advertising systems. Those are our two actual.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

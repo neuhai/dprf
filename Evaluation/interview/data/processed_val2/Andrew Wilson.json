@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We lost our focus back then. The key was centering every decision around one question: 'Is this good for the player?' We stopped pushing paid content for our game until we fixed scalability issues, delayed a game release to prioritize quality over holiday sales, and made similar tough calls. Players noticed we were serious about serving them."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "What excites you most about the company's new games?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Reaching 2.5 billion potential players across consoles, mobile, and new markets. Games aren't just for hardcore audiences anymore - we're building experiences that complement movies, sports, and family time."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "How significant is mobile for the company?"
+      }
+    ],
+    "speakername": "Andrew Wilson",
+    "ground_truth": "Our mobile sports game and space-themed strategy game compete with major casual gaming titles. Our life simulation mobile game, with 120M+ downloads already, could be our next breakout. Mobile's tough, but we're scaling smartly.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Reaching 2.5 billion potential players across consoles, mobile, and new markets. Games aren't just for hardcore audiences anymore - we're building experiences that complement movies, sports, and family time."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "How significant is mobile for EA?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sports game Mobile and Space Adventure: Galaxy of Heroes compete with popular match-three games. The Life Simulation Mobile, with 120M+ downloads already, could be our next breakout. Mobile's tough, but we're scaling smartly."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "How do you view competition beyond traditional gaming companies?"
+      }
+    ],
+    "speakername": "Andrew Wilson",
+    "ground_truth": "It's not just gaming companies - we're competing with streaming services, social media platforms, and weekend sports leagues. Our goal isn't to monopolize time, but to enhance those 24 hours with meaningful play.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Mobile gaming titles compete with popular match-three games. Our life simulation game, with 120M+ downloads already, could be our next breakout. Mobile's tough, but we're scaling smartly."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "How do you view competition beyond traditional gaming companies?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's not just major game publishers - we're competing with streaming services, social media platforms, and weekend sports leagues. Our goal isn't to monopolize time, but to enhance those 24 hours with meaningful play."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Critics argue games are time sinks. How do they improve lives?"
+      }
+    ],
+    "speakername": "Andrew Wilson",
+    "ground_truth": "Games build self-esteem through challenges. A player enjoying sports games develops higher sports IQ than some pros. Our sandboxes foster creativity, social bonds, and self-actualization - it's psychology meets play.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's not just gaming companies - we're competing with streaming services, social media, and weekend sports leagues. Our goal isn't to monopolize time, but to enhance those 24 hours with meaningful play."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Critics argue games are time sinks. How do they improve lives?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Games build self-esteem through challenges. A kid playing sports games develops higher sports IQ than some pros. Our sandboxes foster creativity, social bonds, and self-actualization - it's psychology meets play."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "How did you enter gaming from sports?"
+      }
+    ],
+    "speakername": "Andrew Wilson",
+    "ground_truth": "Pure serendipity. The company needed people who understood rugby and surfing mechanics for early sports titles. I thought it'd be a 2-year detour. Eighteen years later, I'm still nerding out over hitboxes and loot tables.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Games build self-esteem through challenges. A kid playing sports games develops higher sports IQ than some pros. Our sandboxes foster creativity, social bonds, and self-actualization - it's psychology meets play."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "How did you enter gaming from sports?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Pure serendipity. The company needed people who understood rugby and surfing mechanics for early sports titles. I thought it'd be a 2-year detour. Eighteen years later, I'm still nerding out over hitboxes and loot tables."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "What progress has the company made on female representation?"
+      }
+    ],
+    "speakername": "Andrew Wilson",
+    "ground_truth": "We added women's national teams in sports games, professional women's basketball in basketball games. Our sci-fi game's lead is a woman. It's not tokenism - these are complex characters. Internally, we're pushing for more female creatives. But communities still need work - our moderation teams actively combat harassment.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

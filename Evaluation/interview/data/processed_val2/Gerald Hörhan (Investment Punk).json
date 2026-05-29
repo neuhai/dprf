@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "May I just add to something? So, I mean, sleep, because it's a major topic and also I'm constantly talking in podcasts about the topic. So if it comes to sleep, it's not about actually the number of hours you're sleeping, but rather about the quality. So the quality is really important. And therefore, don't look so much on the numbers, but rather try to improve if you want to improve your sleep, which is one of the greatest levers to actually improve your well-being and to improve your energy and power. And just focus on the quality of sleep, meaning deep sleeping phases and REM, rapid eye movement phases, which are really important there. Can we ask one thing? Let me not do my title. Yeah, yeah, right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, yeah, right I can add something if you eat basically on the lunchtime And if you eat very light or nothing at dinner, then you sleep much better and people"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Th-that gets-"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "me to my next question basically i'm interested in both of you guys morning and eve oh random question time all right um so here's the next random question we have guys if you had to choose between no love and infinite money or love and no money what would you choose you"
+      }
+    ],
+    "speakername": "Gerald Hörhan (Investment Punk)",
+    "ground_truth": "Well, if you look at me, I would probably choose the financial option. But basically, it depends how you interpret love. If you would say no love for anything, for example, I love my job and I love my son. That's one thing. If you say having a relationship, a relationship, and being poor, that's no good. But one thing which is very punishable, which is also not good for your health, if you don't like anything, you know, if you're like a rich bastard who is grumpy, it's no good. So you have to love what you do. You have to have a passion. And if you have a passion for something, then you're also going to be healthier, you're going to have more energy, and that's probably the most important thing. But one thing, poverty is shit.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay, it depends. During the week, you know, normally I wake up or my housekeeper wakes me up around 8.30, 8.45. Then, you know, out of bed, I already check my emails and make the first phone calls. Yeah, or if I'm traveling in a hotel, then, you know, normally I go to my office or to meetings. Then usually during the meetings, I have some breakfast. Normally, as I said, you know, banana, apple and water and a cappuccino, not much more. Yeah, very light. And then, you know, I have a sequence of meetings, negotiations and so on. And in the evening, normally I have a dinner, you know, business dinner, business meetings, calls. And then, you know, normally during the week, I work until midnight or 1 a.m., you know, to prepare the next day and get everything done. And sometimes I make evening walks, if the weather is not too cold, 30, 45 minutes, one hour, so [city] or other cities. And on the weekend, you know, usually I have guests. Friday, Saturday night, I go sometimes out. A little bit. And on Sunday, like during the week."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Good question."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "For the walks, do you do something special? Do you just think? Do you have your phone with yourself?"
+      }
+    ],
+    "speakername": "Gerald Hörhan (Investment Punk)",
+    "ground_truth": "I always have my phone with me. I have two phones. Phones, not phone. But I use it, you know, as a time to think. You know, and I need to work a lot. And on the weekend, by the way, I sleep until noon. And then I go to lunch. And then, you know, also, you know, if the weather is nice, I go for a walk. Or, you know, I'm not a couch potato. I'm not a, you know, super sports cannon. But you need to move.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "One thing I can tell you, eating light is quite important, let's say. If I right now have to eat something really heavy, you know, I'm much less productive. For example, when I eat fish and lobster and things like this, in the bar I always eat lots of salad, you know, and yesterday I was at a luxury hotel in the bar, and they only had heavy food, and I asked them, can you just make me a simple salad with some salmon and tomatoes? And then they looked at me and they said, well..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Do you think I want to have a heavy burger at night at 11 if we have? Then I can't sleep."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "okay so i think we could talk about this for hours and it's very interesting to hear about your different approaches like fabian we have someone who's very deep deep in it i i realize you know talking about bulletproof coffee etc melatonin um and [target] is someone who is very traditional right he he he's definitely not someone who is deep in some kind of self-improvement morning and evening routine blogs on the internet but both of them have their approach for this topic now another self-improvement classic question for both of you do you set long-term goals for yourself and if so how do you make sure to stick to those goals let's start with [target]"
+      }
+    ],
+    "speakername": "Gerald Hörhan (Investment Punk)",
+    "ground_truth": "I have clear short-term and long-term goals. And even if, you know, I'm tired or drunk at a music festival, I will know them. One year, five years, ten years. One year is very detailed, and in ten years, you also know in very great detail what I want. And not just what I want and where I'm going to get it.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Steve Jobs you can discuss because it's already historical, but if you think of history, Elon Musk is still writing history."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And I think and I think Elon is just amazing just I read a couple of books about him So it's it's crazy and it's as you said, yeah hard work constant work moving forward being an entrepreneur being in a way just crazy"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So, the final question, and this was because you told me, [target], about, we just talked about your ambitions, and I had one follow-up question to that. Basically, with all the stuff swirling around on the internet, all the distractions, and you are also very active on social media, right? You have all those people distracting you. How do you make sure to stay focused and block out those?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "distractions."
+      }
+    ],
+    "speakername": "Gerald Hörhan (Investment Punk)",
+    "ground_truth": "Well, it's pretty simple. I have a list of what I need to do. This is still in my mobile device. I have two mobile phones. One is a communication device where I can type quickly. And then I do it. And then I have priority goals. You know, these are the things which are most important. And then the other goals get done afterwards. And it's pretty clear, you know, for me that I don't leave work undone. So I get very, you know, nasty and nervous if things are not done. So every day I make sure that everything is done or at least every week. You know, it's the same with my employees. If I basically see I give them a lot of freedom, but if the work is not done, that's not acceptable. You do your work. You need to do what needs to get done. And you clearly, you know, have a priority list. And then you're going to stay focused. And the best way to stay focused is if you have a mission and you have clear goals. I know what I want very, very clearly. And if you know what you want, it's much easier to stay focused. And, you know, if you say, well, I. I don't know.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So, the final question, and this was because you told me, [target], about, we just talked about your ambitions, and I had one follow-up question to that. Basically, with all the stuff swirling around on the internet, all the distractions, and you are also very active on Instagram, right? You have all those people distracting you. How do you make sure to stay focused and block out those?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "distractions."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's pretty simple. I have a list of what I need to do. This is still in my BlackBerry. I have two mobile phones. One is a BlackBerry where I can type quickly. And then I do it. And then I have priority goals. You know, these are the things which are most important. And then the other goals get done afterwards. And it's pretty clear, you know, for me that I don't leave work undone. So I get very, you know, nasty and nervous if things are not done. So every day I make sure that everything is done or at least every week. You know, it's the same with my employees. If I basically see I give them a lot of freedom, but if the work is not done, that's not acceptable. You do your work. You need to do what needs to get done. And you clearly, you know, have a priority list. And then you're going to stay focused. And the best way to stay focused is if you have a mission and you have clear goals. I know what I want very, very clearly. And if you know what you want, it's much easier to stay focused. And, you know, if you say, well, I. I don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes, I mean, distraction is definitely an important if you have got 25 employees and constantly coming to your room and asking questions. So being focused, I have actually three rules to follow. One of them is I'm blocking some time every day for different purposes. So I've got in the morning, I've got the two hours block where I'm just doing emails, calls and everything there. No distraction. Then I've got one hour where everyone can come in and I'm constantly negotiating, having meetings stuff. And then I'm blocking at night or in the evening, I'm blocking a two hour block per day where I can do strategic work, where also no one can enter my room. I'm just sitting with a couple of my management team together. So focusing there on this block and actually having it in your calendar is really important for me. That's one thing. Secondly, of course, I try to be focused that I'm having the goals, having a weekly goal, a daily goal, and also prioritizing. Prioritizing work is highly important. That's also something what I learned during my consultancy. So focus more on the things which really create business value. All the other stuff, it's rubbish. You have to get rid of it. Just focus on what really drives the business. That's the second thing. Of course, certainly I'm using our product there, which of course enabling the focus and eating right."
+      }
+    ],
+    "speakername": "Gerald Hörhan (Investment Punk)",
+    "ground_truth": "And one last thing, you know, have good personal assistance. If you ever spend time, you know, cleaning your apartment or, you know, making simple tasks, you know, then you value your time below 10 or 15 euros. Yeah, have good support teams behind you. Live centrally, you know, and organize your life efficiently. Then you can already save a hell of a lot of time. And then obviously do what you like. But don't forget the work needs to be done. Don't be lazy.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

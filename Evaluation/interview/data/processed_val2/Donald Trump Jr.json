@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, it's early, but it's been exciting. The experience for myself, for my father, obviously, for our whole family has just been incredible. And after such a hard-fought battle, you're more of an experienced guy at this than we are. But when you're in this thing for 18 months, almost really two years, that we're doing it every day, it takes a while to actually set in. And, you know, coming in yesterday, going to [National Memorial], standing on the steps of the [National Memorial], it really all set in for the family. It was very special."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And, [target], I do remember what it was like to be inside [Government Building] 25 years ago right now. Give us a sense of the scene inside there this morning. How's your dad doing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He's doing great. He'll always be doing well. He's just excited to do this. He's amazed and thrilled that the American people entrusted him to take this country in a different direction, to bring it forward and do things and give them that voice that he mentioned last night that has been gone for so long. It's just truly incredible."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did he stay up late working on the speech?"
+      }
+    ],
+    "speakername": "Donald Trump Jr",
+    "ground_truth": "Well, listen, I think he's been working on that for quite some time. I mean, he's been working on that just to get it right, understanding the magnitude of that situation and really how that would really start off his entire presidency. So he spent a lot of time with that, and I think now it's about execution.",
+    "bio": "The subject (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. The subject received a Bachelor of Science in economics from a prestigious university in 1968, and his father named him president of his real estate business in 1971. He renamed it his family organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing his name. From 2004 to 2015, he co-produced and hosted a popular reality television series. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "He's doing great. He'll always be doing well. He's just excited to do this. He's amazed and thrilled that the American people entrusted him to take this country in a different direction, to bring it forward and do things and give them that voice that he mentioned last night that has been gone for so long. It's just truly incredible."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did he stay up late working on the speech?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, listen, I think he's been working on that for quite some time. I mean, he's been working on that just to get it right, understanding the magnitude of that situation and really how that would really start off his entire presidency. So he spent a lot of time with that, and I think now it's about execution."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And we saw him hit some of the themes yesterday at the [national memorial]. What is the one big thing you think he hopes to get across after he takes that oath and speaks to the world?"
+      }
+    ],
+    "speakername": "Donald Trump Jr",
+    "ground_truth": "Well, listen, I think, you know, after a campaign like this one, I mean, I think it's that he's going to be the president for all Americans. It's not for a select few. It's not for some sort of special group. It's for every single American, each and every one of us. And, you know, I'm glad he made that point last night. He's been making that point a long time. I don't think he gets the coverage that it deserves. He's been saying that for quite some time. But this is about, you know, one country and all of its people. And that's what he's going to do. And he's going to do a phenomenal job at it.",
+    "bio": "[Target] (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. [Target] received a Bachelor of Science in economics from a major private university in 1968, and his father named him president of his real estate business in 1971. [Target] renamed it the [target] Organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing his name. From 2004 to 2015, he co-produced and hosted the reality television series [show name]. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, I think he's been working on that for quite some time. I mean, he's been working on that just to get it right, understanding the magnitude of that situation and really how that would really start off his entire presidency. So he spent a lot of time with that, and I think now it's about execution."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And we saw him hit some of the themes yesterday at the national memorial. What is the one big thing you think he hopes to get across after he takes that oath and speaks to the world?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, listen, I think, you know, after a campaign like this one, I mean, I think it's that he's going to be the president for all Americans. It's not for a select few. It's not for some sort of special group. It's for every single American, each and every one of us. And, you know, I'm glad he made that point last night. He's been making that point a long time. I don't think he gets the coverage that it deserves. He's been saying that for quite some time. But this is about, you know, one country and all of its people. And that's what he's going to do. And he's going to do a phenomenal job at it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned the hard fought campaign. And I remember well the look on the president's face when he first met with President Obama in the executive office the day after the election. What kind of changes have you seen in your father as he prepares to accept the power to accept the mantle of the presidency?"
+      }
+    ],
+    "speakername": "Donald Trump Jr",
+    "ground_truth": "well you don't look right i thought this sort of evolved throughout the campaign and it's just one thing to be out there and talking you know but there's another thing when you see uh... you know those americans that he's talking about that haven't had a voice those americans who've watched their american dreams ship abroad uh... those americans have been through so many things uh... you know in in a meeting that you've seen face-to-face day in and day out",
+    "bio": "The target (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president from 2017 to 2021. The target received a Bachelor of Science in economics from a major university in 1968, and his father named him president of his real estate business in 1971. He renamed it his family organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing his name. From 2004 to 2015, he co-produced and hosted a popular reality television series. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And we saw him hit some of the themes yesterday at the [national memorial]. What is the one big thing you think he hopes to get across after he takes that oath and speaks to the world?"
+      },
+      {
+        "speaker": "[target] Jr",
+        "text": "Well, listen, I think, you know, after a campaign like this one, I mean, I think it's that he's going to be the president for all Americans. It's not for a select few. It's not for some sort of special group. It's for every single American, each and every one of us. And, you know, I'm glad he made that point last night. He's been making that point a long time. I don't think he gets the coverage that it deserves. He's been saying that for quite some time. But this is about, you know, one country and all of its people. And that's what he's going to do. And he's going to do a phenomenal job at it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned the hard fought campaign. And I remember well the look on the president's face when he first met with President [predecessor] in the [government office] the day after the election. What kind of changes have you seen in your father as he prepares to accept the power to accept the mantle of the presidency?"
+      },
+      {
+        "speaker": "[target] Jr",
+        "text": "well you don't look right i thought this sort of evolved throughout the campaign and it's just one thing to be out there and talking you know but there's another thing when you see uh... you know those americans that he's talking about that haven't had a voice those americans who've watched their american dreams ship abroad uh... those americans have been through so many things uh... you know in in a meeting that you've seen face-to-face george day in and day out"
+      }
+    ],
+    "speakername": "Donald Trump Jr",
+    "ground_truth": "for 18 months. You wouldn't be human if that didn't affect you. I mean, so I think it drives home the gravity of the situation. It drives home the importance of the office and what he can accomplish there and for how many people he can accomplish it. Relative to all the other amazing things that he's been able to do in his life, and he's had a remarkable life, but relative to all of those things, nothing could be more important than that for him. And just understanding that magnitude and watching that evolution bit by bit over the 18 months, two years of this race, it's just, it's been incredible.",
+    "bio": "The subject (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the [country] from 2017 to 2021. The subject received a Bachelor of Science in economics from a prestigious university in 1968, and his father named him president of his real estate business in 1971. He renamed it the [organization] and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing his name. From 2004 to 2015, he co-produced and hosted a reality television series. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned the hard fought campaign. And I remember well the look on the president's face when he first met with President Obama in the [government building] the day after the election. What kind of changes have you seen in your father as he prepares to accept the power to accept the mantle of the presidency?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well you don't look right i thought this sort of evolved throughout the campaign and it's just one thing to be out there and talking you know but there's another thing when you see uh... you know those americans that he's talking about that haven't had a voice those americans who've watched their american dreams ship abroad uh... those americans have been through so many things uh... you know in in a meeting that you've seen face-to-face george day in and day out"
+      },
+      {
+        "speaker": "[target]",
+        "text": "for 18 months. You wouldn't be human if that didn't affect you. I mean, so I think it drives home the gravity of the situation. It drives home the importance of the office and what he can accomplish there and for how many people he can accomplish it. Relative to all the other amazing things that he's been able to do in his life, and he's had a remarkable life, but relative to all of those things, nothing could be more important than that for him. And just understanding that magnitude and watching that evolution bit by bit over the 18 months, two years of this race, it's just, it's been incredible."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is he a little nervous?"
+      }
+    ],
+    "speakername": "Donald Trump Jr",
+    "ground_truth": "He's not a guy that gets nervous all that easy, but I imagine if you're going to be nervous, this is probably the pretty big stage to be. But I think he's one of those rare types that he can harness that energy and usually turn into a positive. So I see him usually do better under pressure than any other way.",
+    "bio": "The individual (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. The subject received a Bachelor of Science in economics from a prestigious private university in 1968, and his father named him president of his real estate business in 1971. He renamed it his family organization and expanded its operations to building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business reversals in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing his name. From 2004 to 2015, he co-produced and hosted a popular reality television series. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

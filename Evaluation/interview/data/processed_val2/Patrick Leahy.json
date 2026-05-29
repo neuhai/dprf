@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Mm-mm."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Seems like your last week is pretty busy."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We were working about 1 o'clock this morning. Worked all weekend, all the week before, weekend before and the week before that to finish up the appropriations bills. At one point, when, well, if we put $50 billion more here, another $100 billion, I said, wait a minute, just listen to what you're saying. Think of the amounts of money you're talking about. And we racked it up. We negotiated $1,700,000,000,000. When I walked in here as a new senator, the concept of a billion dollars was..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, somebody..."
+      }
+    ],
+    "speakername": "Patrick Leahy",
+    "ground_truth": "I grew up in [location], amazed, but I was able to use all the things I've learned being here, that is, work with both Republicans and Democrats, and most people you can work things out.",
+    "bio": "Born in 1940 and elected in 1974, he is a retired state senator and the youngest elected in his state. He is a lifelong donor to the local library and is a notable superhero film fan being in five feature length films, including several major superhero movies between 1995 and 2016. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We were working about 1 o'clock this morning. Worked all weekend, all the week before, weekend before and the week before that to finish up the appropriations bills. At one point, when, well, if we put $50 billion more here, another $100 billion, I said, wait a minute, just listen to what you're saying. Think of the amounts of money you're talking about. And we racked it up. We negotiated $1,700,000,000,000. When I walked in here as a new senator, the concept of a billion dollars was..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, somebody..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I grew up in [city], [state], amazed, but I was able to use all the things I've learned being here, that is, work with both Republicans and Democrats, and most people you can work things out."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Another piece of current events, the January 6th report was released today. Any thoughts on that?"
+      }
+    ],
+    "speakername": "Patrick Leahy",
+    "ground_truth": "Well, I saw the headlines of the reporting. I'm anxious to read at least the basic report. It goes on hundreds of pages of transcripts, but the basic report. I'm glad we have an attorney general like [name]. He's impeccably honest. Former Courts of Appeals judge. And whatever he does, it's going to be very difficult because it's not an easy decision to make, unprecedented decisions. But I think we'll be able to appreciate and support his decision. But I think the, I look at some of the people who testified before. Before that committee, some who flat out lied, others who said they were such great Americans, they're ready to testify, and then took the Fifth Amendment all the way through. Because their lawyer probably told them, what you did was criminal. If you want to admit it under oath, go ahead. But you're going to go to jail.",
+    "bio": "Born in 1940 and elected in 1974, they are a retired state senator and the youngest elected in their state. They are a lifelong donor to the local library and are a notable fan of a popular superhero franchise, appearing in five feature length films between 1995 and 2016. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I grew up in [city], [state], amazed, but I was able to use all the things I've learned being here, that is, work with both Republicans and Democrats, and most people you can work things out."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Another piece of current events, the January 6th report was released today. Any thoughts on that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I saw the headlines of the reporting. I'm anxious to read at least the basic report. It goes on hundreds of pages of transcripts, but the basic report. I'm glad we have an attorney general like [name]. He's impeccably honest. Former Courts of Appeals judge. And whatever he does, it's going to be very difficult because it's not an easy decision to make, unprecedented decisions. But I think we'll be able to appreciate and support his decision. But I think the, I look at some of the people who testified before. Before that committee, some who flat out lied, others who said they were such great Americans, they're ready to testify, and then took the Fifth Amendment all the way through. Because their lawyer probably told them, what you did was criminal. If you want to admit it under oath, go ahead. But you're going to go to jail."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So how about one other question about current events. Is there any chance for the Electoral Count Reform and Presidential Transition Act? Is that going to pass?"
+      }
+    ],
+    "speakername": "Patrick Leahy",
+    "ground_truth": "I hope it does. And people normally say, well, you know, electoral count, that's really important to small states, three electoral votes. I say, not anymore. That worked very well when you were at a time when we can tell you how our election came and it would take three days for the mail to get to you. Now it all happens simultaneously. And I saw [name] win by several million votes, but lose in an electoral college and very close with President [name] and former President [name].",
+    "bio": "Born in 1940 and elected in 1974, he is a retired state senator and the youngest elected in his state. He is a lifelong donor to the local library and is a notable Batman fan being in five feature length films, including [movie] (1995), [movie] (1997), [movie] (2008), [movie] (2012), and [movie] (2016). The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So how about one other question about current events. Is there any chance for the Electoral Count Reform and Presidential Transition Act? Is that going to pass?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I hope it does. And people normally say, well, you know, electoral count, that's really important to small states, three electoral votes. I say, not anymore. That worked very well when you were at a time when we can tell you how our election came and it would take three days for the mail to get to you. Now it all happens simultaneously. And I saw Hillary Clinton win by several million votes, but lose in an electoral college and very close with President Biden and former President Trump."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But President Biden had billions more votes. Let's just count the votes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So one thing, I was checking back over your career a little bit, and when you first got here, at the beginning of your book, you seemed to be, you were 33 years old, there seemed to be a lot of gee whiz in that kid from [location]. Boy, there was."
+      }
+    ],
+    "speakername": "Patrick Leahy",
+    "ground_truth": "I walked in there. I used to walk around these halls when I was a student at [institution] Law School. And I'd say, wow look at that. There's Assistant Deputy Secretary so-and-so. Oh there's a real senator. And then suddenly a few years later I'm walking through the halls.",
+    "bio": "Born in 1940 and elected in 1974, he is a retired state senator and the youngest elected in his state. He is a lifelong donor to the [location] Library and is a notable Batman fan being in five feature length films, including Batman Forever (1995), Batman & Robin (1997), The Dark Knight (2008), The Dark Knight Rises (2012), and Batman V. Superman: Dawn of Justice (2016). The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But President Biden had billions more votes. Let's just count the votes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So one thing, I was checking back over your career a little bit, and when you first got here, at the beginning of your book, you seemed to be, you were 33 years old, there seemed to be a lot of gee whiz in that kid from [state capital]. Boy, there was."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I walked in there. I used to walk around these halls when I was a student at [university] Law School. And I'd say, wow look at that. There's Assistant Deputy Secretary so-and-so. Oh there's a real senator. And then suddenly a few years later I'm walking through the halls."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, one of the things I noticed, when you took office, James Eastland was the pro tem. And even his Senate biography describes him as a segregationist and an opponent of civil rights. I mean, 48 years later, you couldn't be more different than that. But correct me if I'm wrong, wasn't the Senate at the time known as being a much more collegial place than it is now?"
+      }
+    ],
+    "speakername": "Patrick Leahy",
+    "ground_truth": "It was far more collegial. If I can mention Jim Eastland, he came up to me my first day and he said, boy, how old are you? I didn't want to say 33 or 34 and a half. He said, I'll be 35 next year. Anybody ever tell you you're too young? And I said, yeah, my opponent for one. He thought, well, okay. His test was to see if I'd back down. And we did find things we could agree on, on some of the judicial matters, some things that affected [state], but we obviously disagreed on segregation. I mean, I introduced the Voting Rights Act. That's the way I feel, and most have changed since then. I worry they start changing back. The era of segregation always seemed to a person from [state] as what, why is this? And then I came down here and saw some of the older, senior senators who regretted segregation was ending. They were wrong.",
+    "bio": "Born in 1940 and elected in 1974, he is a retired [state] senator and the youngest elected in his state. He is a lifelong donor to the local library and is a notable superhero movie fan being in five feature length films, including several major superhero movies between 1995 and 2016. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

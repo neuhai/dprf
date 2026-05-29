@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "given that the president has been impeached? Well, first of all, it's great to be here with you, and the answer is absolutely no. It's been a terrific end of the year for the president's economic programs. We're looking forward to [trade agreement] being passed today, the [country] phase one agreement, and the president's approval and passage of the appropriations bill, which is very important to our military and has lots of important policy wins for the president."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah, it was an interesting end here as impeachment went on. We actually seemed to get some bipartisan work done by the Congress. Were you surprised?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I wasn't surprised. The impeachment is really a partisan issue, and, you know, these are very important economic issues that have bipartisan support that are going to be terrific for our workers and our companies. And this is just, this is what the president has been delivering on the economy, and we look forward to all these year-end wins."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Let's talk a bit about, we'll talk [trade agreement], but [country] is certainly perhaps even more important in the greater scheme of things. You've spent so much time on it. We got the phase one deal. Some are questioning, Mr. Secretary, the specifics when it comes to the purchases that will be made by the [country]. For example, the adding of $100 billion to $186 billion total for each of the two years. The idea being that basically we've got to ramp up imports, or excuse me, exports to [country] dramatically to a level we've never seen. What gives you the confidence that that is going to be something that happens and that the [country] are going to stick with?"
+      }
+    ],
+    "speakername": "Steve Mnuchin",
+    "ground_truth": "Well, let me comment on that, but let me just first comment on [official] really did an incredible job in these negotiations for the first time ever dealing with structural issues. So what really we've been very focused on is protection to intellectual property, structural issues for our agriculture community, the opening of financial services, a currency chapter that will maintain fair currencies. And for the first time ever, an enforcement chapter. So this is really the important part of it. Now, on purchases, you know, from the first time President [name] and President [name] met at [private resort], both of them agreed that the objective was to rebalance the trading relationship. I think, as you know, our markets have been very open to them and their markets have not been open to us. And a big component of the agreement was opening of those markets and commitments. And in the case of agriculture, that's going to be a doubling of the size of agricultural purchases. And I think our farmers will be able to deliver.",
+    "bio": "[target] (born December 21, 1962) is an American politician and investment banker who is serving as the 77th [government position] as part of the Cabinet of [administration]. Previously, [target] had been a hedge fund manager. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I wasn't surprised. The impeachment is really a partisan issue, and, you know, these are very important economic issues that have bipartisan support that are going to be terrific for our workers and our companies. And this is just, this is what the president has been delivering on the economy, and we look forward to all these year-end wins."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Let's talk a bit about, we'll talk USMCA, but China is certainly perhaps even more important in the greater scheme of things. You've spent so much time on it. We got the phase one deal. Some are questioning, Mr. Secretary, the specifics when it comes to the purchases that will be made by the Chinese. For example, the adding of $100 billion to $186 billion total for each of the two years. The idea being that basically we've got to ramp up imports, or excuse me, exports to China dramatically to a level we've never seen. What gives you the confidence that that is going to be something that happens and that the Chinese are going to stick with?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, let me comment on that, but let me just first comment on Ambassador Lighthizer really did an incredible job in these negotiations for the first time ever dealing with structural issues. So what really we've been very focused on is protection to intellectual property, structural issues for our agriculture community, the opening of financial services, a currency chapter that will maintain fair currencies. And for the first time ever, an enforcement chapter. So this is really the important part of it. Now, on purchases, you know, from the first time President Trump and President Xi met at [private residence], both of them agreed that the objective was to rebalance the trading relationship. I think, as you know, our markets have been very open to them and their markets have not been open to us. And a big component of the agreement was opening of those markets and commitments. And in the case of agriculture, that's going to be a doubling of the size of agricultural purchases. And I think our farmers will be able to deliver."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So $186 billion is what U.S. exports of goods and services to China were in 2017. Under this new agreement, it would have to be about $200 billion more than that. That's a number that you think we can successfully get to."
+      }
+    ],
+    "speakername": "Steve Mnuchin",
+    "ground_truth": "I do. It's going to be over a two-year period of time, but they're already in the market in agriculture today. And we've been working with industry, so this isn't something that just occurred overnight. The signing will occur in the beginning of January, but we've been working with U.S. industry to make sure they can take advantage of these new intellectual property protections and the opening of the China markets.",
+    "bio": "Born December 21, 1962, is an American politician and investment banker who is serving as the 77th United States cabinet secretary as part of the presidential administration. Previously, had been a hedge fund manager. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, let me comment on that, but let me just first comment on the ambassador really did an incredible job in these negotiations for the first time ever dealing with structural issues. So what really we've been very focused on is protection to intellectual property, structural issues for our agriculture community, the opening of financial services, a currency chapter that will maintain fair currencies. And for the first time ever, an enforcement chapter. So this is really the important part of it. Now, on purchases, you know, from the first time the two presidents met at a private resort, both of them agreed that the objective was to rebalance the trading relationship. I think, as you know, our markets have been very open to them and their markets have not been open to us. And a big component of the agreement was opening of those markets and commitments. And in the case of agriculture, that's going to be a doubling of the size of agricultural purchases. And I think our farmers will be able to deliver."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So $186 billion is what U.S. exports of goods and services were in 2017. Under this new agreement, it would have to be about $200 billion more than that. That's a number that you think we can successfully get to."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do. It's going to be over a two-year period of time, but they're already in the market in agriculture today. And we've been working with industry, so this isn't something that just occurred overnight. The signing will occur in the beginning of January, but we've been working with U.S. industry to make sure they can take advantage of these new intellectual property protections and the opening of the markets."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah, which obviously so many people had been focused on, as you point out, far beyond the numbers. You're confident this thing's going to get signed in early January?"
+      }
+    ],
+    "speakername": "Steve Mnuchin",
+    "ground_truth": "I'm very confident so it's just going through what I would consider to be a technical legal scrub and we'll be releasing the document and signing it in in the beginning of January",
+    "bio": "The individual is an American politician and investment banker who served as the 77th secretary of the treasury in a presidential administration. Previously, they had been a hedge fund manager. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I do. It's going to be over a two-year period of time, but they're already in the market in agriculture today. And we've been working with industry, so this isn't something that just occurred overnight. The signing will occur in the beginning of January, but we've been working with industry to make sure they can take advantage of these new intellectual property protections and the opening of the markets."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah, which obviously so many people had been focused on, as you point out, far beyond the numbers. You're confident this thing's going to get signed in early January?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm very confident so it's just going through what I would consider to be a technical legal scrub and we'll be releasing the document and signing it in in the beginning of January"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mr. Secretary, I want to go back to the structural promises or the structural changes that are going to be part of this Phase 1 deal. I realize that everything's still sort of being put down to paper and translated right now, but can you give us some specific examples of what that will look like? And also, when you talk about an enforcement mechanism, what the details of that will be?"
+      }
+    ],
+    "speakername": "Steve Mnuchin",
+    "ground_truth": "Sure. Well, let me just comment. It's already on paper and it's already translated. So this is going through what I consider to be a technical review of the translation. It's not that it's open to renegotiation or that there are any open issues. The enforcement chapter is one of the critical parts to this agreement. For the first time, we have binding enforcement. There will be a mechanism, as we've described in both countries, that as there are issues, they'll be elevated. There'll be teams of people in both countries that first will try to resolve these issues. But if for whatever reason they can't be resolved, the president maintains the authority to put tariffs on to enforce the agreement.",
+    "bio": "The speaker is an American politician and investment banker who is serving as the 77th secretary of the treasury as part of the federal government. Previously, they had been a hedge fund manager. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm very confident so it's just going through what I would consider to be a technical legal scrub and we'll be releasing the document and signing it in in the beginning of January"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mr. Secretary, I want to go back to the structural promises or the structural changes that are going to be part of this Phase 1 deal. I realize that everything's still sort of being put down to paper and translated right now, but can you give us some specific examples of what that will look like? And also, when you talk about an enforcement mechanism, what the details of that will be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure. Well, let me just comment. It's already on paper and it's already translated. So this is going through what I consider to be a technical review of the translation. It's not that it's open to renegotiation or that there are any open issues. The enforcement chapter is one of the critical parts to this agreement. For the first time, we have binding enforcement. There will be a mechanism, as we've described in both countries, that as there are issues, they'll be elevated. There'll be teams of people in both countries that first will try to resolve these issues. But if for whatever reason they can't be resolved, the president maintains the authority to put tariffs on to enforce the agreement."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What needs to be seen in terms of enforcement and China actually carrying through on its promises for phase two to start being worked out?"
+      }
+    ],
+    "speakername": "Steve Mnuchin",
+    "ground_truth": "Well, I think our priority for the moment is to implement phase one. But we are prepared to work hard on phase two. So, you know, again, our first priority is phase one. This is an enormous opportunity for U.S. companies. And for the first time to have an enforceable agreement with China, as I said, the lead negotiator just did an outstanding job leading these negotiations.",
+    "bio": "The subject is an American politician and investment banker who is serving as the 77th secretary of the treasury as part of the presidential Cabinet. Previously, they had been a hedge fund manager. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

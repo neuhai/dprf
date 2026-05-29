@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "good morning hugh i know you i love talking to people from this state more than anything else so i appreciate you having me it is my"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "favorite it is my favorite category i guess i had a congressman congressional candidate from a northern state on earlier paul young and i i told him i was talking to him despite the fact he was from that state up north [target] let's begin with the very serious subject the attempted assassination of president trump a second time in two months what was your reaction when you heard that news you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it's shocking. It's sad, man. We pray for President Trump every day. Thank God he's safe. Thank God for the Secret Service agents that acted quickly. But look, we have to put an end to all this political violence in this country. We're tearing each other apart. As Americans, we have much more in common than we have opposed to each other. We have to unite as a country around some common sense principles. And I think that's what we're going to do when we take office in 2025. I think we're going to bring this country back together. At the end of the day, that's job one. I think President Trump can do that. I know we're going to make that happen. And the media has got to turn the temperature down. The Democrats have got to turn this temperature down and really move forward. And let's debate policies, but let's not have the politics of personal destruction."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yesterday, [target], J.D. Vance, who I know you know very well and I've known since his book came out, and Dana Bash, an old colleague of mine from the 2015-2016 debates, and I consider her a friend, not a real friend, but a professional friend. I think Dana blamed J.D. and the president, the former president, for bomb threats in a local city. What did you make of her argument?"
+      }
+    ],
+    "speakername": "Bernie Moreno",
+    "ground_truth": "Yeah, I mean, it's ridiculous. I mean, at the end of the day, what J.D. Vance is doing is his job. He's a United States senator for the people of this state. He's got constituents calling him, telling him that certain things are happening. And rather than Dana Bash listening and saying, hey, actually, he is actually doing his job, as opposed to my opponent, Sherrod Brown, who's been completely absent, and for her to attack him and say that he's the reason for these bomb threats, which, by the way, are completely despicable. Anybody who would call in a bomb threat at a school or a hospital or a city building should be arrested to the fullest extent of the law. That's not what J.D. Vance believes in. It's certainly not what I believe in. And to have her do that is just completely wrong. And by the way, her network has been the one saying that President Trump was a Russian agent, that he's a threat to democracy, that he's going to topple the government, that he's going to be a dictator for the day, that he planned an insurrection on January 6th. I mean, these are massively influential. I mean, these are inflammatory comments that her own network have made. Again, we need to turn down the temperature and let's have an honest debate about policies and policy direction in this country, and I think we'll all be better off for it.",
+    "bio": "An American politician and businessman who is a United States Senator for a midwestern state. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, it's shocking. It's sad, man. We pray for President Trump every day. Thank God he's safe. Thank God for the Secret Service agents that acted quickly. But look, we have to put an end to all this political violence in this country. We're tearing each other apart. As Americans, we have much more in common than we have opposed to each other. We have to unite as a country around some common sense principles. And I think that's what we're going to do when we take office in 2025. I think we're going to bring this country back together. At the end of the day, that's job one. I think President Trump can do that. I know we're going to make that happen. And the media has got to turn the temperature down. The Democrats have got to turn this temperature down and really move forward. And let's debate policies, but let's not have the politics of personal destruction."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yesterday, Bernie, J.D. Vance, who I know you know very well and I've known since his book came out, and Dana Bash, an old colleague of mine from the 2015-2016 debates, and I consider her a friend, not a real friend, but a professional friend. I think Dana blamed J.D. and the president, the former president, for bomb threats in Springfield, Ohio. What did you make of her argument?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, it's ridiculous. I mean, at the end of the day, what J.D. Vance is doing is his job. He's a United States senator for the people of Ohio. He's got constituents calling him, telling him that certain things are happening. And rather than Dana Bash listening and saying, hey, actually, he is actually doing his job, as opposed to my opponent, Sherrod Brown, who's been completely absent, and for her to attack him and say that he's the reason for these bomb threats, which, by the way, are completely despicable. Anybody who would call in a bomb threat at a school or a hospital or a city building should be arrested to the fullest extent of the law. That's not what J.D. Vance believes in. It's certainly not what I believe in. And to have her do that is just completely wrong. And by the way, her network has been the one saying that President Trump was a Russian agent, that he's a threat to democracy, that he's going to topple the government, that he's going to be a dictator for the day, that he planned an insurrection on January 6th. I mean, these are massively influential. I mean, these are inflammatory comments that her own network have made. Again, we need to turn down the temperature and let's have an honest debate about policies and policy direction in this country, and I think we'll all be better off for it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm going to note that J.D. and I are both lawyers, Bernie, and therefore, excuse me, that never happens. The thing that lawyers do is we know about causation. We know about proximate cause, both in negligence cases and in criminal cases. You can't make the argument that anyone's responsible for the nut in the hedges in Florida trying to kill President Trump or the bad actors calling him bomb threat. That's not the American standard, but the media applies one standard to Trump. And another standard to everybody else. Do you think the American people are on to this?"
+      }
+    ],
+    "speakername": "Bernie Moreno",
+    "ground_truth": "Yeah, absolutely. And actually, it's a disgrace for the media. And it's why they have record low ratings. At the end of the day, what people want, what I hear all over Ohio is they want honest news. Tell us what's actually happening. Don't inject your opinion. Don't inject your advocacy. Give us the news and give it to us straight. The reality is you turn on MSNBC or CNN or ABC or NBC or ABC, any of the major corporate media, and it's not news anymore, Hugh. It is absolutely opinion advocacy. I call the Ohio media, the committee to reelect Sherrod Brown. I mean, the way they cover him, the way they cover me is totally crazy. I actually think I should have run as a Democrat. Had I done that, I would be the most popular person in Ohio, according to the media. But the reality is, look, these aren't even Democrat Republicans. This is Republican issues that we're debating. Hugh, we're debating common sense, secure borders, not open borders, energy dominance versus being dependent on other countries, peace and stability around the world versus war, standing up to China instead of letting them roll over us, safety in our communities, good schools versus terrible schools and terrible safety situations. These are common sense principles that we're going to apply when we take office in 2025.",
+    "bio": "An American politician and businessman who is a United States Senator for the state of Ohio. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, it's ridiculous. I mean, at the end of the day, what J.D. Vance is doing is his job. He's a United States senator for the people of Ohio. He's got constituents calling him, telling him that certain things are happening. And rather than Dana Bash listening and saying, hey, actually, he is actually doing his job, as opposed to my opponent, Sherrod Brown, who's been completely absent, and for her to attack him and say that he's the reason for these bomb threats, which, by the way, are completely despicable. Anybody who would call in a bomb threat at a school or a hospital or a city building should be arrested to the fullest extent of the law. That's not what J.D. Vance believes in. It's certainly not what I believe in. And to have her do that is just completely wrong. And by the way, her network has been the one saying that President Trump was a Russian agent, that he's a threat to democracy, that he's going to topple the government, that he's going to be a dictator for the day, that he planned an insurrection on January 6th. I mean, these are massively influential. I mean, these are inflammatory comments that her own network have made. Again, we need to turn down the temperature and let's have an honest debate about policies and policy direction in this country, and I think we'll all be better off for it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm going to note that J.D. and I are both lawyers, Bernie, and therefore, excuse me, that never happens. The thing that lawyers do is we know about causation. We know about proximate cause, both in negligence cases and in criminal cases. You can't make the argument that anyone's responsible for the nut in the hedges in Florida trying to kill President Trump or the bad actors calling him bomb threat. That's not the American standard, but the media applies one standard to Trump. And another standard to everybody else. Do you think the American people are on to this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, absolutely. And actually, it's a disgrace for the media. And it's why they have record low ratings. At the end of the day, what people want, what I hear all over Ohio is they want honest news. Tell us what's actually happening. Don't inject your opinion. Don't inject your advocacy. Give us the news and give it to us straight. The reality is you turn on MSNBC or CNN or ABC or NBC or ABC, any of the major corporate media, and it's not news anymore, Hugh. It is absolutely opinion advocacy. I call the Ohio media, the committee to reelect Sherrod Brown. I mean, the way they cover him, the way they cover me is totally crazy. I actually think I should have run as a Democrat. Had I done that, I would be the most popular person in Ohio, according to the media. But the reality is, look, these aren't even Democrat Republicans. This is Republican issues that we're debating. Hugh, we're debating common sense, secure borders, not open borders, energy dominance versus being dependent on other countries, peace and stability around the world versus war, standing up to China instead of letting them roll over us, safety in our communities, good schools versus terrible schools and terrible safety situations. These are common sense principles that we're going to apply when we take office in 2025."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Bernie Marino, I have not been in Springfield in 50 years. I'm pretty sure that I had to do speech and debate tournaments there in 1974. I know we went to Upper Arlington, but it's between Dayton and Columbus. What is going on in Springfield, in your view?"
+      }
+    ],
+    "speakername": "Bernie Moreno",
+    "ground_truth": "Well, it's about the same size as Warren. So give you a sense of perspective in terms of population. So this is a small community. It's a very tight knit community. Great people, good people. And one of the shames of this whole situation is that the people of Springfield have been vilified as racist or xenophobic. These are good, hardworking Americans that love this country, love their community, go to church on Sundays and take care of their families. What's happened there is that the federal government, Kamala Harris, Joe Biden, Sheryl Brown have allowed an unlimited number of Haitian immigrants to come into this country illegally, by the way, and then waved the magic wand of asylum and temporary protective status to shield them with some sort of fake legal status. They've about 20 to 25,000 have descended into Springfield. We haven't had 20 to 25,000 new jobs, Hugh.",
+    "bio": "An American politician and businessman who is a United States Senator for the state of Ohio. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm going to note that J.D. and I are both lawyers, [target], and therefore, excuse me, that never happens. The thing that lawyers do is we know about causation. We know about proximate cause, both in negligence cases and in criminal cases. You can't make the argument that anyone's responsible for the nut in the hedges in [state] trying to kill President Trump or the bad actors calling him bomb threat. That's not the American standard, but the media applies one standard to Trump. And another standard to everybody else. Do you think the American people are on to this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, absolutely. And actually, it's a disgrace for the media. And it's why they have record low ratings. At the end of the day, what people want, what I hear all over [state] is they want honest news. Tell us what's actually happening. Don't inject your opinion. Don't inject your advocacy. Give us the news and give it to us straight. The reality is you turn on major news networks, any of the major corporate media, and it's not news anymore. It is absolutely opinion advocacy. I call the [state] media, the committee to reelect [name]. I mean, the way they cover him, the way they cover me is totally crazy. I actually think I should have run as a Democrat. Had I done that, I would be the most popular person in [state], according to the media. But the reality is, look, these aren't even Democrat Republicans. This is Republican issues that we're debating. We're debating common sense, secure borders, not open borders, energy dominance versus being dependent on other countries, peace and stability around the world versus war, standing up to foreign powers instead of letting them roll over us, safety in our communities, good schools versus terrible schools and terrible safety situations. These are common sense principles that we're going to apply when we take office in 2025."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], I have not been in [city] in 50 years. I'm pretty sure that I had to do speech and debate tournaments there in 1974. I know we went to [school], but it's between [city1] and [city2]. What is going on in [city], in your view?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's about the same size as [city]. So give you a sense of perspective in terms of population. So this is a small community. It's a very tight knit community. Great people, good people. And one of the shames of this whole situation is that the people of [city] have been vilified as racist or xenophobic. These are good, hardworking Americans that love this country, love their community, go to church on Sundays and take care of their families. What's happened there is that the federal government, administration officials have allowed an unlimited number of immigrants to come into this country illegally, by the way, and then waved the magic wand of asylum and temporary protective status to shield them with some sort of fake legal status. They've about 20 to 25,000 have descended into [city]."
+      }
+    ],
+    "speakername": "Bernie Moreno",
+    "ground_truth": "We've probably had maybe 500 new jobs. And as a result, you have enormous numbers of migrants that are now dependent on our social safety net system that's intended for American citizens. Now, I don't blame the migrants. I think any of us who are in a desperate situation would do the same thing. But the reality is we have corrupt politicians who have corrupted our legal immigration system to allow this small community to be devastated and an enormous cost to the United States taxpayer, which we cannot afford. We're $35 trillion in debt. We cannot be bringing in hundreds of thousands of people that are going to be dependent on our government safety net. So this is a total disgrace. The entire problem falls on the lap of current administration officials.",
+    "bio": "An American politician and businessman who is a United States Senator for a state. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], I have not been in [city] in 50 years. I'm pretty sure that I had to do speech and debate tournaments there in 1974. I know we went to [district], but it's between [city1] and [city2]. What is going on in [city], in your view?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's about the same size as [city3]. So give you a sense of perspective in terms of population. So this is a small community. It's a very tight knit community. Great people, good people. And one of the shames of this whole situation is that the people of [city] have been vilified as racist or xenophobic. These are good, hardworking Americans that love this country, love their community, go to church on Sundays and take care of their families. What's happened there is that the federal government and administration officials have allowed an unlimited number of immigrants to come into this country illegally, by the way, and then waved the magic wand of asylum and temporary protective status to shield them with some sort of fake legal status. They've about 20 to 25,000 have descended into [city]. We haven't had 20 to 25,000 new jobs."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We've probably had maybe 500 new jobs. And as a result, you have enormous numbers of migrants that are now dependent on our social safety net system that's intended for American citizens. Now, I don't blame the migrants. I think any of us who are in a desperate situation like they are would do the same thing. But the reality is we have corrupt politicians who have corrupted our legal immigration system to allow this small community to be devastated and an enormous cost to the United States taxpayer, which we cannot afford. We're $35 trillion in debt. We cannot be bringing in hundreds of thousands of people that are going to be dependent on our government safety net. So this is a total disgrace."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], you mentioned [city] is about the size of [city3], my hometown. That's correct. In the 70s, when the conflict collapsed, refugees first went to [military base], and then one family was, quote, adopted, close quote, by my religious parish in [city3], and that family moved from [military base] to [city3], and have had a wonderful integration into the life of the community. But it was one family. I can't imagine. I've been using the number 15,000 to 20,000. You use 20 to 25. I can't imagine [city3] with 20,000 of anybody coming from anywhere in the United States."
+      }
+    ],
+    "speakername": "Bernie Moreno",
+    "ground_truth": "Well, the reality is, and this is the other part, nobody even bothered to ask the people of [city] or the government officials in [city]. And I think had the federal government done that and said, hey, can you take in 20 refugees over the next three years, three and a half years? I think the community would have embraced them and absolutely been additive to the community. But not 20,000. That is absolutely insane. Again, they don't speak English. They come from a country where less than 5% of the people drive, and yet they're getting driver's licenses. So, of course, all kinds of terrible things are going to unfold. But this is what we're seeing there, by the way, is massive increase in rental prices, massive increase in insurance costs, massive increase in health and human services costs. This is all the fault of a federal government that thinks less about American citizens than they do about foreign nationals. Our ultimate responsibility as an elected official is to make certain that we serve the people of this country and put their interests first. We have their interests above all else, but we have politicians in the capital that I don't think even like American citizens because they always put Americans last, and that fundamentally is what's going to change.",
+    "bio": "An American politician and businessman who is a United States Senator for a midwestern state. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

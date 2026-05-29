@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Ah, this is driving me insane. To make a lot of money, you don't need to be a genius. You just need to remember a few key things. [target]. Financial expert. The money man. Major newspaper bestseller. Has more than 20,000 documented success stories. This is your chance to never worry about money again. You can live a rich life regardless of where you came from, regardless of your income. How many people are clear on what their rich life looks like? Less than 1%. When I talk to people who have a spending problem, 100% of the time, they always say the same thing. I just need to earn more. If you doubled your income today, do you think you're?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "problems would disappear."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Some of the stats I pulled out from your book, about 25% of people who make $100,000 a year plus are still living paycheck to paycheck."
+      }
+    ],
+    "speakername": "Ramit Sethi",
+    "ground_truth": "makes us realize that maybe the things we think we need are things that we have been socially taught are important. For example, owning a house is the best investment. It means you are successful, but it can be a very bad financial decision.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Some of the stats I pulled out from your book, about 25% of people who make $100,000 a year plus are still living paycheck to paycheck."
+      },
+      {
+        "speaker": "[target]",
+        "text": "makes us realize that maybe the things we think we need are things that we have been socially taught are important. For example, owning a house is the best investment. It means you are successful, but it can be a very bad financial decision."
+      },
+      {
+        "speaker": "[target]",
+        "text": "They're far better, far simpler."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "investments. So I've got a hundred pounds that I want to invest."
+      }
+    ],
+    "speakername": "Ramit Sethi",
+    "ground_truth": "Where do I start? I love that we're getting into the nuts and bolts. Let's do this exercise together and everyone can do it with us. First off, and then...",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Do you know the math?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I would have $736,000 in my account. Yeah. Ramit's 10 money rules. This is where the real wealth is created. Number one. This episode changed my perspective on money. I'm an investor. I've been investing for the last six, seven years at different levels. Big companies, small companies, the S&P 500, funds, you name it. But Ramit changed my mind. He changed my mind on money, spending, investing. And he changed my mind on something that I think 95% of you that are listening to this podcast and that are about to listen to this need to have your mind changed on too. That if you have the right philosophy towards money, the right perspective and mindset towards money, then there is a path to living our rich life, to becoming rich that enough people are not talking about. He debunks the myths of money, the limiting beliefs about money. And he confronts all of the unhelpful advice about money that stands in the way of you becoming rich. There's an app on my phone that I now have installed because of this conversation. And there are three big investments that I've now made. And there is one key idea that I now believe will make me 10 times more wealthy over the next three decades because of this conversation. You're going to love it. Enjoy. Ramit, someone's just clicked on this podcast. On YouTube, on Spotify, on Apple. And they saw the title, they saw the thumbnail, they thought that sounds interesting. Tell me why you think they should stay and listen to what we're going to talk about today. What they stand to gain, if they give us their time. Whenever someone..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "hears someone talking about money they get rigid they instantly think that someone's going to come in and tell them you can't spend money on lattes you can't go on vacation you can't buy any new clothes save all your money until you're 90 years old and maybe just maybe then you can spend it and i don't believe in any of that i think you should spend extravagantly on the things you love as long as you cut costs mercilessly on the things you don't i think you should live a rich life today and an even richer life tomorrow and so when you combine money and psychology you start to understand that there is more to a rich life than just some number in a spreadsheet people already know they should be saving more they know about compound interest they may not know the intricacies but they understand if they invest some now they're going to have more later so what's stopping them that's been the central question that i'm fascinated with for the last 20 years that's why when i studied human behavior and persuasion and psychology i was obsessed with this question of what are the things we know we should do but we still don't you can live a rich life regardless of where you came from you can live a rich life regardless of your income now of course having a higher income dramatically helps but just like fitness we can all improve where we are and that's what we get to talk about today"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you talk about the language of money, what do you mean?"
+      }
+    ],
+    "speakername": "Ramit Sethi",
+    "ground_truth": "I mean, understanding the nuts and bolts of money. So just the same way that we all learn how to drive. We learn the rules of the road, when to use our turn signals. Most of us do not have even the equivalent knowledge of money. For example, the basic language of money would be what percentage of your income are you saving and why? What percentage are you investing and why? When will you have $100,000 or $500,000 or a million dollars? And what will that money get you? Because just having a million dollars in the bank is pointless. What does it get you specifically? This is the basic language of money. You've got to know your key four, six numbers in your life. Not many, just a few. But once you understand those numbers, it's like understanding the speed limit. Understanding the speed limit means you understand a lot. There's a rule of the road. If you go too fast, what's going to happen? Why do these rules? And these rules are similar in money. You can break them. That's okay. But you got to understand the rules first.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "hears someone talking about money they get rigid they instantly think that someone's going to come in and tell them you can't spend money on lattes you can't go on vacation you can't buy any new clothes save all your money until you're 90 years old and maybe just maybe then you can spend it and i don't believe in any of that i think you should spend extravagantly on the things you love as long as you cut costs mercilessly on the things you don't i think you should live a rich life today and an even richer life tomorrow and so when you combine money and psychology you start to understand that there is more to a rich life than just some number in a spreadsheet people already know they should be saving more they know about compound interest they may not know the intricacies but they understand if they invest some now they're going to have more later so what's stopping them that's been the central question that i'm fascinated with for the last 20 years that's why when i studied human behavior and persuasion and psychology i was obsessed with this question of what are the things we know we should do but we still don't you can live a rich life regardless of where you came from you can live a rich life regardless of your income now of course having a higher income dramatically helps but just like fitness we can all improve where we are and that's what we get to talk about today"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you talk about the language of money, what do you mean?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, understanding the nuts and bolts of money. So just the same way that we all learn how to drive. We learn the rules of the road, when to use our turn signals. Most of us do not have even the equivalent knowledge of money. For example, the basic language of money would be what percentage of your income are you saving and why? What percentage are you investing and why? When will you have $100,000 or $500,000 or a million dollars? And what will that money get you? Because just having a million dollars in the bank is pointless. What does it get you specifically? This is the basic language of money. You've got to know your key four, six numbers in your life. Not many, just a few. But once you understand those numbers, it's like understanding the speed limit. Understanding the speed limit means you understand a lot. There's a rule of the road. If you go too fast, what's going to happen? Why do these rules? And these rules are similar in money. You can break them. That's okay. But you got to understand the rules first."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What are those numbers that I need to know?"
+      }
+    ],
+    "speakername": "Ramit Sethi",
+    "ground_truth": "There's four numbers that I really like to track. I track these myself, and these are the numbers I encourage. The first is your fixed costs. Those would be your rent or your mortgage, any debt payments, groceries, the money that you are spending every single month that is essentially fixed. And the number I recommend for that is 50 to 60% of your take-home pay. So that would be if you're spending 50 to 60% of what you make, what you take home on your rent, your groceries, any debt payments, your car.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When you talk about the language of money, what do you mean?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, understanding the nuts and bolts of money. So just the same way that we all learn how to drive. We learn the rules of the road, when to use our turn signals. Most of us do not have even the equivalent knowledge of money. For example, the basic language of money would be what percentage of your income are you saving and why? What percentage are you investing and why? When will you have $100,000 or $500,000 or a million dollars? And what will that money get you? Because just having a million dollars in the bank is pointless. What does it get you specifically? This is the basic language of money. You've got to know your key four, six numbers in your life. Not many, just a few. But once you understand those numbers, it's like understanding the speed limit. Understanding the speed limit means you understand a lot. There's a rule of the road. If you go too fast, what's going to happen? Why do these rules? And these rules are similar in money. You can break them. That's okay. But you got to understand the rules first."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What are those numbers that I need to know?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's four numbers that I really like to track. I track these myself, and these are the numbers I encourage. The first is your fixed costs. Those would be your rent or your mortgage, any debt payments, groceries, the money that you are spending every single month that is essentially fixed. And the number I recommend for that is 50 to 60% of your take-home pay. So that would be if you're spending 50 to 60% of what you make, what you take home on your rent, your groceries, any debt payments, your car."
+      }
+    ],
+    "speakername": "Ramit Sethi",
+    "ground_truth": "you're in good shape. The next one is your savings. That would be roughly 5% to 10%. Savings would be things like an emergency fund, savings for a down payment for a car, things like that. Third is investments. This is where the real wealth is created. And for this, 5% to 10% of take home is fine. Of course, the more you put in, the more you're going to have. And then the fourth category, the one I love the most, is called guilt-free spending. This is going out for cocktails in a major city. It's buying a beautiful shirt. It's treating your friends. Whatever you love. Yoga. 20% to 35% of your take home pay. So if you're watching or you're listening to this, just take 15 minutes, back of the napkin, jot down your approximate numbers. You don't even have to get them perfect. You will be able to benchmark how you are spending compared to those numbers. I'll tell you that those numbers tell me a lot. It's almost if you just show me those four numbers of your spending, I can tell so much. I can tell what you love spending on. I can tell what you don't. I can tell what your priorities are. And I can also tell where you are out of alignment. So I'll give you an example. When I ask people, what is your rich life? One of the common answers they say is I want to do what I want to do. If I want to do what I want to do, give me a number today. If not, I'll do the same. If not, I'll do the same. And if I can't, I'll just scrutinize what I want to do. And I'll take want when I want? I go, oh God, not this answer again. I hear it every day.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

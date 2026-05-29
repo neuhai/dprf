@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "In fact, I did perform at our wedding serenading my wife."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "He can sing. He can sing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Not with this voice right now, though, but yes, pleasure to be here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "thank you okay so first question to touch what advice would you give to a student or a graduate wanting to succeed in business"
+      }
+    ],
+    "speakername": "Tej Lalvani",
+    "ground_truth": "think it's fine thanks so if you're wanting to succeed it you have to have a purpose of what you want to do really an idea and a strong belief of trying to achieve something and whether it's a product a service an idea something to change or improve something and to be an entrepreneur it takes a certain type of mindset of course you know you're gonna have a lot of challenges throughout your career you know trying to get the concept right the product made getting it distributed getting into consumers hands doing the marketing so really you'll need a strong persevering type personality and you know you have the freedom of working for yourself and and doing something that you create and make a difference in people's lives so I think you know going into that knowing that and I gave my wife a bit of advice before she set up her business to say that you're going to be constantly firefighting and problem-solving and and that's part of it because you have to be creative use all the resources you have tap into your whole network to be able to create the business",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "really up to the customers so if you have a product you want to understand whether it makes financial sense because if you put enough money at something you're gonna it's gonna end up selling but really is the business model right and so you know do consumers are you creating something of value to a customer"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Ahem."
+      },
+      {
+        "speaker": "[target]",
+        "text": "when you find out your business model actually works people want it firstly understand who your customer is who really your customer is and what value you're providing and you figure out that you are you have got a business it shouldn't be an uphill struggle it should be trying to find the right gap the right market and the right customer and how to get to them and once you do that you double down and you keep increasing to to prove that business model or that concept that actually works but it takes a lot of trial and error you know sometimes the product that you come up with can be totally different to the one that's successful or the service for that matter so the idea is not to try and consistently perfect it and you know it's it's about taking action as Tara said and launching your product or idea you will find you know it's not going to be the same because you'll need customer feedback to find out whether that really doesn't work or your or you might realize your customers someone completely different and you're not going to be able to be different so I think that experimentation taking that time taking action building on it is you know it's only then you realize how your business is going to be successful where you've where you've actually hit a spot or a gap in the market that that you think you've got something unique and I always tell people it's you know don't try and do everything for everyone it's better to be niche and be focused even if you've got a smaller market but if you own that market and you're the expert and the leader in that market that's that's what you really want because otherwise it just makes you an average product if you're trying to cater to everyone and these days people want the best of one particular thing so I'd focus on that"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you. If I can ask just a follow-up there. So on Dragon's Den, you were presented with a series of budding entrepreneurs coming to pitch their ideas for a very short period of time, two to three minutes. During that very short period of time, what most influences your judgments? So you have an individual or a pair or a team with an idea, presented in a particular way, argued in a particular way, some with evidence, some with facts, some with products, some with a story, some with an emotional story, some with a partial success story. When you see an individual coming to you to present, what's going through your mind when coming to your conclusion about... Is this person worth investing in?"
+      }
+    ],
+    "speakername": "Tej Lalvani",
+    "ground_truth": "It's an interesting question, and you've got that short pitch that the entrepreneur is doing. Of course, you can ask questions, but it's like having all these different connections and trying to figure out and get a whole picture of that person because you're trying to analyse so many different aspects about, A, is that entrepreneur backable? Are they resourceful? Are they going to stick at it? Is it something they eat, breathe, sleep, doing? Is it someone trustworthy that you know is going to be transparent and open to you? Is it someone that's going to be easy to work with because if they're two heads stronger, they don't want advice, then they're going to make wrong decisions without listening to you. Have they been sensible with the way they've used their money? Do they actually have a business model that's proven, for instance? I talked about, yeah, they've got a great idea, but have they proven it to say that there is a customer that wants the product? So there's all these different aspects you look at. As an entrepreneur, or as an investor, to see what the entrepreneur really has got. And, of course, it's the product as well, ultimately. Are you passionate about what they're doing? Is it something that you can add value to? So there are all these aspects that you're thinking about, and the more questions you ask, the more you know about it, but you do have that limited time to figure out, is it something that you can work with and you can help?",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "um i learned a lot from my wife um so i think one of the really important things i've learned is is not worrying about upsetting people you know and say what you think and feel because ultimately in the long run that's better it's better to be you know it's not about being liked all the time and for me that you know growing up i was always you know am i am i going to be like or likable but that doesn't really matter what matters is about being yourself and being open and and you know expressing it and call it out and so that's something i've learned which has been uh helpful"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "it's true because if someone doesn't like you for being you then then that's their problem right you just be yourself your true authentic self and um no i've definitely seen like it sounds funny to say you know not tell everybody doesn't care about if she's liked or not but it's true in that you have to be yourself and you can't tell people what they want to hear just tell people what you're thinking and if they don't like it then then you know you've been honest what can you do"
+      },
+      {
+        "speaker": "[target]",
+        "text": "like it then then you know you've been on it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "what can you do thank you brilliant so Ted we refer to Dragon's Den this is what you are but it famous for for most people evaluating those pitches and deciding whether you're going to invest your hard-earned cash and each of them is presenting their their idea that they're convinced about that they have research that they know all about and they make their pitch to you from all of those pitches or from your relationships with the other dragons what what have you learned from Dragon's Den"
+      }
+    ],
+    "speakername": "Tej Lalvani",
+    "ground_truth": "You know, it's about pushing boundaries, as Tara said. So you've grown so much as a person, but just overall. And one of the things I've learned, one of the skills I picked up, actually, is people skills. Because, you know, each year you see about 120 entrepreneurs that come in through the door and pitch. And you've got to really, I mean, it's not good to say you're judging people, but you've really got to understand people and understand their psychology and what they're saying, you know, because you're going to be spending time and money invested in that person. So you're really trying to analyze people and understand them and pick up things. Is it what they're saying is right? Is it not true? You know, can I be backed up? So I think being exposed to all that and making quick decisions as well, because you have to on that moment. And also, you know, initially when I started Dragons Den, obviously I'm in the vitamin business and in consumerism. I'm in the consumer goods. So I guess what I was apprehensive of was how can I add value to a business that's not in my space, right? So now having the confidence to be able to invest in any other business, but just understanding the basic principles of what that business is. So, you know, it could be a clothing business. It could be, it could be a, sorry, it wasn't loud enough before. It could be a tech business, but it's just understanding, you know, customers. Demand, supply, product, marketing, and just putting it into it. So I think that's definitely something I've learned in Dragons and helping people and entrepreneurs to succeed, how you can add value in different areas and then building that network of people. So it's been a very valuable, valuable time. I think those five years probably is like, you know, 20 years compressed in terms of knowledge and experience you get. And then, you know, I talked about at the doctor. I talked about speech, making opportunity and taking opportunity. Those are two of the most important things because you have to make the opportunity yourself. And how do you do that? You being in university, getting a degree is making that opportunity for you. And then an opportunity presents itself where it's a job, right? But that job is going to have 20 people going for it. You still have to work for it. So you've got to take that when it's there. Right. So for me, with with Dragon. Dragon's Den, you know, with VitaBikes, I built it up to successful business and then I made that opportunity. Then the Dragon's Den opportunity came on board because of that. So I created that opportunity. But when it came, it wasn't like, oh, here, take the seat. No, there were 15 other people who wanted that position. I had to be interviewed at a screen test, et cetera. So I had to take it. And once I took that opportunity, it made other opportunities for me in terms of helping other entrepreneurs. So really, life's about making your own opportunities. And then when it's there, don't let it go. Take it with both hands.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "like it then then you know you've been on it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "what can you do thank you brilliant so Ted we refer to Dragon's Den this is what you are but it famous for for most people evaluating those pitches and deciding whether you're going to invest your hard-earned cash and each of them is presenting their their idea that they're convinced about that they have research that they know all about and they make their pitch to you from all of those pitches or from your relationships with the other dragons what what have you learned from Dragon's Den"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it's about pushing boundaries, as Tara said. So you've grown so much as a person, but just overall. And one of the things I've learned, one of the skills I picked up, actually, is people skills. Because, you know, each year you see about 120 entrepreneurs that come in through the door and pitch. And you've got to really, I mean, it's not good to say you're judging people, but you've really got to understand people and understand their psychology and what they're saying, you know, because you're going to be spending time and money invested in that person. So you're really trying to analyze people and understand them and pick up things. Is it what they're saying is right? Is it not true? You know, can I be backed up? So I think being exposed to all that and making quick decisions as well, because you have to on that moment. And also, you know, initially when I started Dragons Den, obviously I'm in the vitamin business and in consumerism. I'm in the consumer goods. So I guess what I was apprehensive of was how can I add value to a business that's not in my space, right? So now having the confidence to be able to invest in any other business, but just understanding the basic principles of what that business is. So, you know, it could be a clothing business. It could be, it could be a, sorry, it wasn't loud enough before. It could be a tech business, but it's just understanding, you know, customers. Demand, supply, product, marketing, and just putting it into it. So I think that's definitely something I've learned in Dragons and helping people and entrepreneurs to succeed, how you can add value in different areas and then building that network of people. So it's been a very valuable, valuable time. I think those five years probably is like, you know, 20 years compressed in terms of knowledge and experience you get. And then, you know, I talked about at the doctor. I talked about speech, making opportunity and taking opportunity. Those are two of the most important things because you have to make the opportunity yourself. And how do you do that? You being in university, getting a degree is making that opportunity for you. And then an opportunity presents itself where it's a job, right? But that job is going to have 20 people going for it. You still have to work for it. So you've got to take that when it's there. Right. So for me, with with Dragon. Dragon's Den, you know, with VitaBikes, I built it up to successful business and then I made that opportunity. Then the Dragon's Den opportunity came on board because of that. So I created that opportunity. But when it came, it wasn't like, oh, here, take the seat. No, there were 15 other people who wanted that position. I had to be interviewed at a screen test, et cetera. So I had to take it. And once I took that opportunity, it made other opportunities for me in terms of helping other entrepreneurs. So really, life's about making your own opportunities. And then when it's there, don't let it go. Take it with both hands."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you. Brilliant. Is it just a follow-up there? On Dragon's Den, when the individuals or the teams are presenting to you, towards the end, when you have your opportunity to say yes or no, if you're going for yes, the dragon would say, and I can bring this to your business, or I can contribute this. What typically are you offering?"
+      }
+    ],
+    "speakername": "Tej Lalvani",
+    "ground_truth": "So yes, it's not about the entrepreneur just selling themselves, it's about the dragon sometimes selling themselves, because if the pitch is so good, the entrepreneur is great, you're competing against four other dragons and you want that deal. So ultimately what you need to show is A that you're passionate about that person's business, because ultimately the entrepreneur wants to know they want someone who really cares about their business and who really wants to add value and give it that time. Because ultimately you're a minority stake shareholder, the entrepreneur's going, how much time is this dragon really going to give me in this business? So you've got to show that you're passionate about this idea and this business and you've got to communicate how you can add value and where you see the business going to be and what you're going to do to open doors for that business. So whether it's being able to raise money for them, whether it's being able to distribute them and provide them retailers in international markets, whether it's being able to help them on the product design side of things. So that's it, you're selling in a way and then ultimately it's about negotiation. So are you willing to take a lesser stake for the same amount of money? So there's different areas you need to play with.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "All right."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "So, it's interesting. I think when you look at it, when you decide what you want to do with the rest of your life, you're a child. You literally, you don't even know yourself. You're 15, 16 years old deciding what A-levels to do. And it's not unusual to change along the way. And if you've spent that time doing a degree, doing a business degree is quite an open degree. But doing something like dentistry, you don't do dentistry to become an entrepreneur. You do dentistry because you want to be a dentist. So, it's a very specific degree that I went into doing. And I never thought I wanted to do anything else. And I did it for over a decade. I was working as a dentist. And I only decided to change when, like I said, I wasn't looking for a business. The business found me. And what I would say is, don't think about it too much. If you have an idea for something, you want to do it, don't think, oh, well, actually, that's not what I'm qualified to do. Life doesn't work like that. We're not here forever. We have a short time. We're going to live our lives. Do what feels right. And just because you've studied something for three years doesn't mean the rest of your life you've got to spend doing that. And I'm so glad. I could have thought, oh, no, I'm a dentist. I can't do this. But I'm so glad I just did it because what I found as a result is this is where my passion lies. And you don't know your passion until you find it. I didn't know when I was doing dentistry that I didn't love it. Because I had never felt the way I felt about being an entrepreneur. I absolutely love what I'm doing now, even though it's difficult, it's challenging. But it's true when people say, when you do what you love, it's not work. You know, I wasn't very well the last week. And, you know, if that was any other job, I would have just stayed in bed. You know, Tej was saying to me, rest, you've got to stay in bed, you're not well. And I didn't. I sat at my desk the whole day. I was working till the evening because you love what you do. And you don't quit. You keep going. And that's what you need to make a success of something. I mean, I'm early in the journey. I'm only two and a half years in. But one thing I do have is that tenacity and that grit to do what needs to be done. And I feel like you do need to have that. So don't stop yourself from doing something because that's not what you did at university."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Brilliant, thank you. And on a similar vein, but Tej, how can students make the most of their time at university to set themselves up for future success?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, look, you're in university, you've got to enjoy it as well, right? Have fun. You know, you're in university once, so you do have your whole life ahead of you. But what I do say is hard work does pay off. So once you graduate, you know, get stuck into something. It could be anything. And when you're young, it's the time to try anything you want and fail hundreds of times. So it's the best time to do it. So I would do that, but save your money is what I say when you're young. And work as hard as you can. You know, there'll be time to really enjoy it and spend it later. And when you've got savings, then that's how you make your money work later on, whether it's a business or whether it's investing in the right things. But, of course, you know, in university, if you know what you want to do, then follow. And, I mean, as Tara said, business is an open degree, it gives you an opportunity to do anything, really. So if you have an idea, you know, get working on it."
+      }
+    ],
+    "speakername": "Tej Lalvani",
+    "ground_truth": "You know, or surround yourself with the right people. If you're interested in a particular area, go to some events, tech events, meet those people, talk about ideas that you have, you know, narrow them down, and learn as much as you can as well at the same time. You know, as I talked about earlier, and there's so many avenues to get that. But yeah, but look, I say just enjoy it. Enjoy your time here in the university. It's gonna go quick and fortunately the pandemic's over now so you can actually get out and do things and make the most of it.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

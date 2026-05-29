@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Delighted to be here. Thank you for the invitation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So it's great to have somebody who's both been..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's cosy. It's very cosy, yes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's great to have somebody who's both practiced in private practice, now back in private practice, and also has been in the government for a good long stint. Because when your general counsel, which I was for a couple of years some time ago, it's a challenge to know how to deal with the government when you have legal issues come up. So let's talk about what that experience is and what it should be. You can help us from both sides, but particularly from the federal law enforcement agency side, because a lot of us, certainly I never practiced in the federal law enforcement agency. I don't know that experience. And let's take an example just from the headlines today. We have Danska Bank, which has this money laundering thing through a European country, like $250 billion, most of which they say now is questionable. And we knew that. The CEO stepped down. But now today we learned the federal law enforcement agency has sort of called them up and said, we're kind of interested in that. Why don't you tell us about that? We're going to investigate it. Give us a sense of, first of all, from the federal law enforcement agency's point of view, how does the agency find out about that? Are they reading the Financial Times? Are they reading the Wall Street Journal and saying, wait a second, what's going on? How likely would they discover something like that?"
+      }
+    ],
+    "speakername": "Sally Yates",
+    "ground_truth": "Well, first, I recognize it can be a scary and mysterious thing when you hear from the government. And certainly for folks on the outside, whether you're in-house counsel or private counsel, I know there oftentimes it's like there's this cloak of secrecy around how the federal agency is approaching these things and what the thinking is behind that. First, in terms of how the department gets matters that are investigated, it comes from the full gamut of things. It could be in the financial industry from suspicious activity reports or other reporting from a financial institution itself or a corresponding financial institution. It could be from someone inside who views themselves as a whistleblower, may then come either to the federal agency or other regulatory bodies to alert the government. Sometimes it can be from clients or those who are participating in financial transactions. It's really a wide variety of sources then, and then the department has to sift through that information and try to make a determination as to what is really worthy of the department's attention.",
+    "bio": "The subject (born 1960) is an American lawyer. They served as a federal prosecutor, later Deputy Head of a federal law enforcement agency, having been appointed to both positions by the president, and later was Acting Head of the same agency.\n\nFollowing the inauguration of a new president and the departure of the previous agency head on January 20, 2017, they served as Acting Head for 10 days. They were dismissed for insubordination on January 30, after instructing the agency not to make legal arguments defending an executive order, which temporarily banned the admission of refugees and barred travel from certain countries on the grounds that terrorists were using the refugee resettlement program to enter the country.\n\nRather than defend it, they stated the order was neither defensible in court nor consistent with the Constitution. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first, I recognize it can be a scary and mysterious thing when you hear from the government. And certainly for folks on the outside, whether you're in-house counsel or private counsel, I know there oftentimes it's like there's this cloak of secrecy around how the department is approaching these things and what the thinking is behind that. First, in terms of how the department gets matters that are investigated, it comes from the full gamut of things. It could be in the financial industry from suspicious activity reports or other reporting from a financial institution itself or a corresponding financial institution. It could be from someone inside who views themselves as a whistleblower, may then come either to the department or regulatory agencies to alert the government. Sometimes it can be from clients or those who are participating in financial transactions. It's really a. Wide variety of sources then, and then the department has to sift through that information and try to make a determination as to what is really worthy of the department's attention."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "obviously was not participating in the protest march, I was acting department head then, but I was actually at a grocery store late that afternoon when the march was over and women were just, young women were just pouring into the store because it was so cold outside and the public transit was too crowded. And I remember just sort of stepping back to watch for a little while and to watch these young women with their hats and their sands and who were totally comfortable in their own skin, totally comfortable in who they were and what they believed in and in their right and their obligation to express it. That's different than it was even when I was that age. We've come a long way since then and they weren't feeling the least bit sheepish about whether they might be perceived as being too assertive or aggressive or abrasive as a woman. They were just out there saying what they believed and yeah, that is such a powerful thing. And in this moment that we have where young women, some of us older women alike are feeling this moment where as I said earlier, we don't just find our voices, but we use them and we use them powerfully. And I think that this is a real turning point where there's still more work to be done, but I think that we're on a different trajectory."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do have one question about you as a mother."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Sally Yates",
+    "ground_truth": "How has being a mother influenced your practice as a lawyer and your work in particular in the department?",
+    "bio": "The target (born 1960) is an American lawyer. They served as a federal prosecutor, later becoming deputy head of the department, having been appointed to both positions by the president, and later served as acting head of the department.\n\nFollowing the inauguration of a new administration and the departure of the previous department head on January 20, 2017, the target served as acting department head for 10 days. They were dismissed for insubordination on January 30, after instructing the department not to make legal arguments defending an executive order, which temporarily banned the admission of refugees and barred travel from certain countries on the grounds that terrorists were using the refugee resettlement program to enter the country.\n\nRather than defend it, they stated the order was neither defensible in court nor consistent with the Constitution. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So typically is that response, and I suppose there's a range, but is it going in with a meeting? Is it a written document like a memorandum? Is it a combination of the two? What's most effective from the [government department]'s point of view?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think that if he is not reelected and the statute of limitations does not run out until 2022, that he could still be prosecuted after leaving office?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the Mueller report specifically references that, both what could happen in the short term with respect to Congress's role, but also the long term, whether he could be prosecuted. But, you know, I think really the bigger issue is not just whether or not this establishes a crime that can be proven beyond a reasonable doubt, but is this the kind of conduct that we should expect from the president of the United States? I mean, when the foreign adversaries came knocking at their door, you would expect that a man who likes to make a show of hugging the flag would have done the patriotic thing and would have notified law enforcement."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In fact, his personal attorney, Rudy Giuliani, said on this program just last week that there's no problem with the president, with the candidate, with the Trump campaign welcoming support from a foreign adversary."
+      }
+    ],
+    "speakername": "Sally Yates",
+    "ground_truth": "Yeah, that's a shocking statement, and it also just reflects how they have moved the goalpost when the truth comes out. Recall at the beginning, they constantly said, we didn't have anything to do with any foreign adversaries. And then when the truth comes out and reveals that that's a lie, now we have devolved down to there's nothing wrong with taking help, illegal help, from a foreign adversary. Surely that's not where we've come to.",
+    "bio": "The target (born 1960) is an American lawyer. They served as a federal prosecutor, later Deputy Attorney General, having been appointed to both positions by the president, and later was Acting Attorney General.\n\nFollowing the inauguration of the new president and the departure of the previous Attorney General on January 20, 2017, the target served as Acting Attorney General for 10 days. They were dismissed for insubordination on January 30, after instructing the [government department] not to make legal arguments defending an Executive Order, which temporarily banned the admission of refugees and barred travel from certain countries on the grounds that terrorists were using the U.S. refugee resettlement program to enter the country.\n\nRather than defend it, the target stated the order was neither defensible in court nor consistent with the Constitution. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the Mueller report specifically references that, both what could happen in the short term with respect to Congress's role, but also the long term, whether he could be prosecuted. But, you know, I think really the bigger issue is not just whether or not this establishes a crime that can be proven beyond a reasonable doubt, but is this the kind of conduct we should expect from the president? I mean, when the foreign adversaries came knocking at their door, you would expect that a man who likes to make a show of hugging the flag would have done the patriotic thing and would have notified law enforcement."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In fact, his personal attorney, Rudy Giuliani, said on this program just last week that there's no problem with the president, with the candidate, with the campaign welcoming support from a foreign adversary."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, that's a shocking statement, and it also just reflects how they have moved the goalpost when the truth comes out. Recall at the beginning, they constantly said, we didn't have anything to do with any foreign actors. And then when the truth comes out and reveals that that's a lie, now we have devolved down to there's nothing wrong with taking help, illegal help, from a foreign adversary. Surely that's not where we've come to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "A lot of people think that Mueller whiffed, that he should have pushed the envelope, he should have subpoenaed the president when he did not get a voluntary interview, and forced the president to take the fifth if he wants to."
+      }
+    ],
+    "speakername": "Sally Yates",
+    "ground_truth": "Well, look, it's easy to sit in our armchairs and say what we would have done in those circumstances. I think what you see is that Mueller did the job he was asked to do, and he called it right down the middle.",
+    "bio": "[target] (born 1960) is an American lawyer. She was a federal prosecutor, later Deputy Attorney General, having been appointed to both positions by the president, and later was Acting Attorney General.\n\nFollowing the inauguration of the new president and the departure of the previous Attorney General on January 20, 2017, [target] served as Acting Attorney General for 10 days. She was dismissed for insubordination on January 30, after she instructed the Department not to make legal arguments defending an executive order, which temporarily banned the admission of refugees and barred travel from certain countries on the grounds that terrorists were using the refugee resettlement program to enter the country.\n\nRather than defend it, [target] stated the order was neither defensible in court nor consistent with the Constitution. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, that's a shocking statement, and it also just reflects how they have moved the goalpost when the truth comes out. Recall at the beginning, they constantly said, we didn't have anything to do with any foreign actors. And then when the truth comes out and reveals that's a lie, now we have devolved down to there's nothing wrong with taking help, illegal help, from a foreign adversary. Surely that's not where we've come to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "A lot of people think that the special counsel whiffed, that he should have pushed the envelope, he should have subpoenaed the president when he did not get a voluntary interview, and forced the president to take the fifth if he wants to."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, it's easy to sit in our armchairs and say what we would have done in those circumstances. I think what you see is that the special counsel did the job he was asked to do, and he called it right down the middle."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Some legal experts looking at the investigation report look at the lines about the president's son saying that they wanted to interview him, were not able to, and then the next portion is redacted according to grand jury testimony with that code. Does that indicate to you, as it has to some legal experts, that he may have gone in front of a grand jury and taken the fifth?"
+      }
+    ],
+    "speakername": "Sally Yates",
+    "ground_truth": "You know, certainly people have speculated as to that, and there's some indication of that, but I don't know for certain. But, you know, beyond that, it is absolutely remarkable to me that the president of the United States refused to sit down and answer questions about his or his campaign's involvement with foreign actors in the 2016 election or obstruction.",
+    "bio": "The target (born 1960) is an American lawyer. She was a federal prosecutor, later Deputy Attorney General, having been appointed to both positions by the president, and later was Acting Attorney General.\n\nFollowing the inauguration of the new president and the departure of the previous Attorney General on January 20, 2017, the target served as Acting Attorney General for 10 days. She was dismissed for insubordination on January 30, after she instructed the Department of Justice not to make legal arguments defending an Executive Order, which temporarily banned the admission of refugees and barred travel from certain countries on the grounds that terrorists were using the refugee resettlement program to enter the country.\n\nRather than defend it, the target stated the order was neither defensible in court nor consistent with the Constitution. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

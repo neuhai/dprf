@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I have to say, [name], I'm very excited to do this. Obviously, I've gotten the pleasure, given our private lives, to be your partner for the last year. And obviously, my day job is running a venture capital firm called [company], where we launch companies and invest in the most innovative ones. But I can honestly say I've learned a ton from you around brand building, around innovation, and how to be two steps ahead. So I'm excited to unpack this and let the rest of the people understand what I've understood. So, [name], let's just start with why did you do this documentary?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I feel the world just has so many misconceptions about me and I wanted to show them who I truly am, the business woman I am, the empire I've built. And then it just got very personal and I said a lot of things that I have never discussed before publicly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And so I think let's keep going with that for a second. So obviously you have a lot of words that describe you, businesswoman, DJ, musician, artist. I think I probably can speak for everyone where we didn't think we'd use the word activist to add to you. But it's clear that, you know, your original intention with the documentary was to drive awareness around the troubled teen industry and the abuses that obviously happened to you, but also millions of people over a very long period of time. And I think it's safe to say you've now created a movement coming out of this movie, right? Recently, you went to [location]. You had a few hundred people show up who literally drove from around the country to gather with you, tell their stories, march past the school. You just launched a new single, I Blame You. And I saw all your proceeds are going back to breaking code silence. You know, why is this movement important to you?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Going through what I went through is one of the most traumatic experiences I've ever went through in my life and it's something that has affected me until this day. And to know that there is hundreds of thousands of children going through the same thing right now, I just can't sleep at night knowing that. So I want to use my platform and my voice to be a voice for them and to raise awareness and change this entire industry."
+      }
+    ],
+    "speakername": "Carter Reum",
+    "ground_truth": "And to do that, my understanding is you've hired, right, an impact producer. You're working with Senator [name] from [location] on legislation. And is it true you guys are even penning an op-ed piece that is hopefully going to appear somewhere soon?",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Cool."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm doing everything it takes. This is just the first steps. We went to [location]. Hundreds of survivors came to meet me. It was one of the most empowering days of my life just to be out there and just to be strong and expose them. And it's already made such a huge difference. I've been speaking to people in the industry that have said in the past couple weeks since my films came out, there's been more change in the troubled teen industry than there has in the past 15 years. So I'm just, you know, this is just the beginning. And..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I know this is going to help save a lot of children."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Cool. Maybe just one more question about that. The other day you asked me to print a file for you. I obviously said yes. It wasn't until after I hit print that I realized it was about 1,200 pages, and it was a PDF of all the letters and notes that you received. Talk to me about those letters and notes. What have they said? What's touched you? I've watched you read them and cry, but talk about those for a little bit."
+      }
+    ],
+    "speakername": "Carter Reum",
+    "ground_truth": "received thousands of letters from survivors and kids who have went through the same thing I've went through and it's just been you know really difficult to read because it's it's obviously hard because it brings up so many memories of things that I've went through as well but just to hear people saying saying thank you so much for validating me no one has ever believed me and the fact that you're raising awareness on this I'm finally being believed and I'm finally feeling validated at this you know very difficult point of my life so it's just been amazing just the outpour of love and support and also you know people who didn't understand me before finally understanding who I am",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm doing everything it takes. This is just the first steps. We went to [location]. Hundreds of survivors came to meet me. It was one of the most empowering days of my life just to be out there and just to be strong and expose them. And it's already made such a huge difference. I've been speaking to people in the industry that have said in the past couple weeks since my films came out, there's been more change in the troubled teen industry than there has in the past 15 years. So I'm just, you know, this is just the beginning. And..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I know this is going to help save a lot of children."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Cool. Maybe just one more question about that. The other day you asked me to print a file for you. I obviously said yes. It wasn't until after I hit print that I realized it was about 1,200 pages, and it was a PDF of all the letters and notes that you received. Talk to me about those letters and notes. What have they said? What's touched you? I've watched you read them and cry, but talk about those for a little bit."
+      },
+      {
+        "speaker": "[target]",
+        "text": "received thousands of letters from survivors and kids who have went through the same thing I've went through and it's just been you know really difficult to read because it's it's obviously hard because it brings up so many memories of things that I've went through as well but just to hear people saying saying thank you so much for validating me no one has ever believed me and the fact that you're raising awareness on this I'm finally being believed and I'm finally feeling validated at this you know very difficult point of my life so it's just been amazing just the outpour of love and support and also you know people who didn't understand me before finally understanding who I am"
+      }
+    ],
+    "speakername": "Carter Reum",
+    "ground_truth": "All right. So let's let's turn to innovation. Obviously, at [company], we invest in kind of the next generation of consumer tech companies. Right. We're trying to always think about what our consumer is going to be doing in the next five or 10 years. That's why I've invested in things like [product], the kind of native to voice communications platform or the device that you always borrow from me, my [product] device where you kind of wear it for 20 minutes every day and kind of scientifically reduces stress and anxiety using NeuroStim technology. I think it's safe to say that you have always been an innovator. Right. You were the first person, as the movie says, to understand that you were your own personal billboard. Right. And understood personal branding. You were the first person to have a reality TV show in the simple life. You were the first to get on social media. You created the selfie. You pivoted to being a female DJ and obviously have built a very big business out of it. Let's talk about some things that you're kind of excited about for the future. Let's talk about areas that you're focused on in terms of building. Businesses in the next five or 10 years first.",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Cool. Maybe just one more question about that. The other day you asked me to print a file for you. I obviously said yes. It wasn't until after I hit print that I realized it was about 1,200 pages, and it was a PDF of all the letters and notes that you received. Talk to me about those letters and notes. What have they said? What's touched you? I've watched you read them and cry, but talk about those for a little bit."
+      },
+      {
+        "speaker": "[target]",
+        "text": "received thousands of letters from survivors and kids who have went through the same thing I've went through and it's just been you know really difficult to read because it's it's obviously hard because it brings up so many memories of things that I've went through as well but just to hear people saying saying thank you so much for validating me no one has ever believed me and the fact that you're raising awareness on this I'm finally being believed and I'm finally feeling validated at this you know very difficult point of my life so it's just been amazing just the outpour of love and support and also you know people who didn't understand me before finally understanding who I am"
+      },
+      {
+        "speaker": "[target]",
+        "text": "All right. So let's let's turn to innovation. Obviously, at our investment firm, we invest in kind of the next generation of consumer tech companies. Right. We're trying to always think about what our consumer is going to be doing in the next five or 10 years. That's why I've invested in things like AirChat, the kind of native to voice communications platform or the device that you always borrow from me, my stress reduction device where you kind of wear it for 20 minutes every day and kind of scientifically reduces stress and anxiety using NeuroStim technology. I think it's safe to say that you have always been an innovator. Right. You were the first person, as the movie says, to understand that you were your own personal billboard. Right. And understood personal branding. You were the first person to have a reality TV show. You were the first to get on social media. You created the selfie. You pivoted to being a professional DJ and obviously have built a very big business out of it. Let's talk about some things that you're kind of excited about for the future. Let's talk about areas that you're focused on in terms of building. Businesses in the next five or 10 years first."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm focused a lot on wellness, health, beauty, and fashion."
+      }
+    ],
+    "speakername": "Carter Reum",
+    "ground_truth": "Cool. And I've seen you investing in quite a few things. Talk to me about how you think about investing. Why does it get you excited? And maybe give everyone an example of a company you've invested in to give them a sense.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "All right. So let's let's turn to innovation. Obviously, at our venture firm, we invest in kind of the next generation of consumer tech companies. Right. We're trying to always think about what our consumer is going to be doing in the next five or 10 years. That's why I've invested in things like a voice communications platform or the device that you always borrow from me, my stress reduction device where you kind of wear it for 20 minutes every day and kind of scientifically reduces stress and anxiety using NeuroStim technology. I think it's safe to say that you have always been an innovator. Right. You were the first person, as the movie says, to understand that you were your own personal billboard. Right. And understood personal branding. You were the first person to have a reality TV show. You were the first to get on social media. You created the selfie. You pivoted to being a female DJ and obviously have built a very big business out of it. Let's talk about some things that you're kind of excited about for the future. Let's talk about areas that you're focused on in terms of building. Businesses in the next five or 10 years first."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm focused a lot on wellness, health, beauty, and fashion."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Cool. And I've seen you investing in quite a few things. Talk to me about how you think about investing. Why does it get you excited? And maybe give everyone an example of a company you've invested in to give them a sense."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I give you guys credit for that. You and your brilliant team at the venture firm have really opened up my eyes to this whole new world of investing. And I think it's incredible to invest behind entrepreneurs that I really believe in. I'm excited to invest into entrepreneurs who I really believe are doing projects that are gonna help better the planet."
+      }
+    ],
+    "speakername": "Carter Reum",
+    "ground_truth": "Cool. Yeah, I've been I've been impressed. You've obviously been investing behind kind of female entrepreneurs like a food delivery company founder. And I can tell you always gravitate towards things that matter to you, whether it's sustainable water packaging or plant-based seafood or healthy meal delivery. So it's been fun to watch. So I think it's safe to say you arguably have the most iconic voice probably on the planet. I might be a little biased, but I think it is the most iconic. You've been focused a lot on audio and voice. I know you're getting ready to launch something yourself and you've been investing behind the space. Let's start with kind of what you're doing in audio.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

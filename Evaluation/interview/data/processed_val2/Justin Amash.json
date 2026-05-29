@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Hi, I'm Nick Gillespie with Reason TV, and today we're very happy to be talking with [target]. He's a congressman from a district in the midwest, and he's one of the leading libertarian Republicans in Congress. Talk a little bit about what is your general political philosophy? I mean, Reason magazine, we've called you the heir apparent to the ideals of a prominent libertarian politician. You know, is that accurate, and in what ways, you know, what is your political philosophy?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm a libertarian, republican, a constitutional conservative, a classical liberal. Some people call me..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "more Austrians on your wall than the Von Trapp family singers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, this is."
+      }
+    ],
+    "speakername": "Justin Amash",
+    "ground_truth": "I'm a big believer in the Austrian School of Economics, but, you know, I'm an independent and a moderate. Many people would look at my voting record and say, this is a moderate guy. He's willing to work with both sides. He's willing to do...",
+    "bio": "The subject (born April 18, 1980) is an American attorney and politician serving as the U.S. Representative for a midwestern congressional district. The district is based in a major midwest city and includes most of its suburbs, as well as a nearby city. The subject is a libertarian Republican and was described as \"one of the most conservative members of Congress.\" He was the first Republican member of Congress to call for a presidential impeachment. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh... that has led"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "led to some friction within the party caucus. Coming back in this term, you were stripped of a couple of committee assignments. A member of the party Steering Committee, when asked why were you and a couple of other free-market-oriented, libertarian-oriented representatives taken off of certain committees, said, well, these guys were assholes. Is that an accurate assessment of why you were taken off these committees?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think so. I mean, if you asked my colleagues, I don't think anyone would use that word to describe me except a few people on the steering committee, I guess. But look, I said I didn't support the house budget last time. I had good reasons for it. Explain that a little."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "bit what was wrong with the house budget this is a budget that is widely praised as being fiscally responsible and it engages entitlement reform what was wrong with the republic well let me say first"
+      }
+    ],
+    "speakername": "Justin Amash",
+    "ground_truth": "So it's a huge advancement over budgets we've seen in recent years. I mean, we haven't seen anything from the opposition party in a long time. So I do applaud the Budget Committee Chair and the Budget Committee for putting together something that's way better than what we've seen before. But it didn't comply with the Budget Control Act, which was passed into law, so it was going to ignore the Budget Control Act. It tried to undo, essentially, many of the military spending reductions that were put in place under the Budget Control Act. I didn't like that, and it was still going to take about 30 years to balance, and I think we can do better than that.",
+    "bio": "The representative was born April 18, 1980 and is an American attorney and politician serving as the U.S. Representative for a congressional district in the midwest. The district is based in a major city and includes most of its suburbs, as well as a neighboring city. The representative is a libertarian-leaning member and was described as \"one of the most conservative members of Congress.\" They were the first member of their party to call for the president's impeachment. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think so. I mean, if you asked my colleagues, I don't think anyone would use that word to describe me except a few people on the steering committee, I guess. But look, I said I didn't support the budget last time. I had good reasons for it. Explain that a little."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "bit what was wrong with the house budget this is a budget that is widely praised as being fiscally responsible and it engages entitlement reform what was wrong with the republic well let me say first"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So it's a huge advancement over budgets we've seen in recent years. I mean, we haven't seen anything from the Democrats in a long time. So I do applaud the Budget Committee Chair for putting together something that's way better than what we've seen before. But it didn't comply with the Budget Control Act, which was passed into law, so it was going to ignore the Budget Control Act. It tried to undo, essentially, many of the military spending reductions that were put in place under the Budget Control Act. I didn't like that, and it was still going to take about 30 years to balance, and I think we can do better than that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, I mean, the Republican budget takes over a 10-year period. It moves spending from about $3.5 trillion to about $4.9 trillion. Why is that the best that the Republicans, you know, who run the legislative chamber, why is that the best that they can come up with? It doesn't come close to balancing the budget. It doesn't reduce spending clearly."
+      }
+    ],
+    "speakername": "Justin Amash",
+    "ground_truth": "We're too often starting close to where the Democrats are starting. And then, of course, when you get a compromise or some kind of deal, I don't even call them compromises really because, generally speaking, they're just, I mean, it's BS, frankly. When you talk about where your starting point is, it should be very different from what the Democrats are pushing because the Republican Party should stand for very different things.",
+    "bio": "The target is an American attorney and politician serving as a U.S. Representative for a congressional district in a midwestern state. The district is based in a major city and includes most of its suburbs, as well as a neighboring city. The target is a libertarian Republican and was described as one of the most conservative members of Congress. They were the first Republican member of Congress to call for presidential impeachment. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So it's a huge advancement over budgets we've seen in recent years. I mean, we haven't seen anything from the Democrats in a long time. So I do applaud the committee chairman and the Budget Committee for putting together something that's way better than what we've seen before. But it didn't comply with the Budget Control Act, which was passed into law, so it was going to ignore the Budget Control Act. It tried to undo, essentially, many of the military spending reductions that were put in place under the Budget Control Act. I didn't like that, and it was still going to take about 30 years to balance, and I think we can do better than that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, I mean, the Republican budget takes over a 10-year period. It moves spending from about $3.5 trillion to about $4.9 trillion. Why is that the best that the Republicans, you know, who run the legislative chamber, why is that the best that they can come up with? It doesn't come close to balancing the budget. It doesn't reduce spending clearly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're too often starting close to where the Democrats are starting. And then, of course, when you get a compromise or some kind of deal, I don't even call them compromises really because, generally speaking, they're just, I mean, it's BS, frankly. When you talk about where your starting point is, it should be very different from what the Democrats are pushing because the Republican Party should stand for very different things."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have a budget-balanced legislation or a piece of budget-balanced legislation in the works. Explain what that is and how it's different not only from what the Democrats are proposing but from what other Republicans have proposed."
+      }
+    ],
+    "speakername": "Justin Amash",
+    "ground_truth": "Well, what it does is it balances current spending with the average revenues of the previous three years. And that has a lot of nice effects that people in both parties like. If you are looking at it from the case where you don't want government spending to be suddenly cut during a recession, well, this balanced budget amendment allows you to keep spending at the level of the previous three years of revenue. So if you have a sudden recession, your tax revenues are low, you don't have to suddenly slash government programs. You can do it in a more calculated way. You can think about the long run. And if you are worried about tax increases, well, I think it's got a good defense against tax increases because you have to make the case that you want to increase taxes for the long run under my proposal because any tax increases that are incurred in the current year can't be used for current year spending.",
+    "bio": "The target is an American attorney and politician serving as the U.S. Representative for a midwestern congressional district. The district is based in a major regional city and includes most of its suburbs, as well as a neighboring city. The target is a libertarian Republican and was described as \"one of the most conservative members of Congress.\" The target was the first Republican member of Congress to call for a presidential impeachment. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We're too often starting close to where the Democrats are starting. And then, of course, when you get a compromise or some kind of deal, I don't even call them compromises really because, generally speaking, they're just, I mean, it's BS, frankly. When you talk about where your starting point is, it should be very different from what the Democrats are pushing because the Republican Party should stand for very different things."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have a budget-balanced legislation or a piece of budget-balanced legislation in the works. Explain what that is and how it's different not only from what the Democrats are proposing but from what other Republicans have proposed."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, what it does is it balances current spending with the average revenues of the previous three years. And that has a lot of nice effects that people in both parties like. If you are looking at it from the case where you don't want government spending to be suddenly cut during a recession, well, this balanced budget amendment allows you to keep spending at the level of the previous three years of revenue. So if you have a sudden recession, your tax revenues are low, you don't have to suddenly slash government programs. You can do it in a more calculated way. You can think about the long run. And if you are worried about tax increases, well, I think it's got a good defense against tax increases because you have to make the case that you want to increase taxes for the long run under my proposal because any tax increases that are incurred in the current year can't be used for current year spending."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Over the past three years or so, and I'm probably off a bit, but we've pulled in about probably an average of about $2 trillion a year, which would be equal to what we spent in Bill Clinton's last budget year, roughly. But we're spending about $3.5 trillion, so we're somewhere in the trillion to trillion-and-a-half dollar deficit range. How does your bill propose to deal with that massive gap?"
+      }
+    ],
+    "speakername": "Justin Amash",
+    "ground_truth": "Well, it deals with it by forcing the parties to get together and actually compromise. I mean, when you have compromise, it's got to be towards some goal. The goal is deficit reduction and debt reduction. The biggest areas of government are Social Security, defense, Medicare, and Medicaid. You've got to put all those things on the table and come up with a deal.",
+    "bio": "The speaker is an American attorney and politician serving as the U.S. Representative for a congressional district in [state]. The district is based in [city] and includes most of its suburbs, as well as another [city]. The speaker is a libertarian Republican and was described as one of the most conservative members of Congress. They were the first Republican member of Congress to call for presidential impeachment. The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

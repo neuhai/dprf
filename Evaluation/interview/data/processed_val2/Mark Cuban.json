@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "man thanks for having me man i appreciate you my pleasure appreciate you coming through absolutely so to start it off uh tell us who you are"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, my goodness. Grew up in a mid-sized city in the Northeast. Born in a residential neighborhood, moved to the suburbs. And my dad did upholstery on cars. My mom did odd jobs. Just a normal kid, man, that just happened to have an aptitude for business from as long as I can remember."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Was it one of your dreams, like, as a kid? Like, I know I was in the backyard. Me and my brother was trying to beat Michael Jordan and Scottie Pippen. I was MJ, of course. But, like, was it a dream of yours to own an NBA team? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, hell no, it wasn't, yeah. Honestly, it wasn't until I tried to buy the team that it even crossed my mind. Really? Like, yeah, when I was a kid, you know, I played sports, not very well, but yeah, I wanted to be a famous basketball player. I had his skin moving and everything, and a baseball player. Went to a state university, by the way. Yeah, exactly, exactly."
+      }
+    ],
+    "speakername": "Mark Cuban",
+    "ground_truth": "I never really thought that I would ever be in a position to own anything, man. I just wanted to have a good life and try to find my way to college.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Was it one of your dreams, like, as a kid? Like, I know I was in the backyard. Me and my brother was trying to beat professional basketball players. I was trying to be like them. But, like, was it a dream of yours to own a professional basketball team? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, hell no, it wasn't, yeah. Honestly, it wasn't until I tried to buy the team that it even crossed my mind. Really? Like, yeah, when I was a kid, you know, I played sports, not very well, but yeah, I wanted to be like the famous players. I had his skin moving and everything, and a baseball player. Went to a state university, by the way. Yeah, exactly, exactly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I never really thought that I would ever be in a position to own anything, man. I just wanted to have a good life and try to find my way to college."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So now, you know, all these things that you've done in life, all this stuff that's been a part of your journey, tell us a little bit about what that was like, like what it was like growing up."
+      }
+    ],
+    "speakername": "Mark Cuban",
+    "ground_truth": "In a major industrial city, you know, my mom was really young when she had me. She was 20, and so, you know, in hindsight, I realize how little my parents really knew, right, because they were just young. But my dad would just get up and go to work, and neither one of them went to college, and they were like, you guys, I have two younger brothers, we're going to figure it out because education's important, and you've got to find your own path. And he was always pushing me, and both my parents were pushing me to be independent, and however it started, I don't know, from the time I was 9, 10 years old, I was hustling. I was one of those kids that was always selling something. Yeah, yeah, like I was selling baseball cards, right? I would go buy baseball cards, and then I'd flip them, right, get as many, you know, get good at flipping, package them, then I'd go down to the park where we would pick up, play pick up or whatever. There would be this bench that was there, and I would just sit there and repackage baseball cards, and I'd say, oh. Okay, there's definitely one local team player in one of these, right? You might get some famous players, and I'd mark them up and make some money, and that's how I'd get spending money. I remember one day my dad was playing poker.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hi, I'm your neighbor. Do you use garbage bags? You sound like a shark. Yeah, right? Yeah, exactly. And of course, everybody uses garbage bags. So I'll never forget. They cost me three bucks for a box of 100. I would sell them for six bucks and I would just take them to them every couple of weeks, right, whenever they needed more garbage bags. And I'm making 20 bucks a week, which was like big time. I got my shoes and, you know, but that taught me to be confident and that taught me that I could sell and that taught me that selling was helping, not convincing, you know? Because once I figured out that everybody needed garbage bags, then it really became obvious to me that if I can find things that people needed and wanted and I could do it a better way than what they were doing it, then I can make some money. And that's kind of stayed with me since then."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "about to say it's crazy how you was thinking about that at 12, and everything you just said basically translates to everything you're basically doing now in life."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, exactly. I mean, cause that's what it's all about. I mean, you know, selling isn't convincing somebody to do something they don't want to do. Selling is understanding what needs and then finding a way to provide it in a better way than what they're doing now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You make it sound way too easy, but... It's not as hard..."
+      }
+    ],
+    "speakername": "Mark Cuban",
+    "ground_truth": "as it sounds, right? But most, you know, it's like basketball, right? There's a lot of guys that maybe were more talented than you, right? One thing I know and respect about you and the few times we've talked, like, you talk about, you know, doing the work, right? Getting on digital sports analysis platform, which I was excited about because it's a company I had helped get going, right? And invested on. And always watching the plays, knowing the other team's plays, you know, when they call them out so you know what's going to happen. Being able to guide. Business is the exact same way. Most people don't put in the work.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "about to say it's crazy how you was thinking about that at 12, and everything you just said basically translates to everything you're basically doing now in life."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, exactly. I mean, cause that's what it's all about. I mean, you know, selling isn't convincing somebody to do something they don't want to do. Selling is understanding what people need and then finding a way to provide it in a better way than what they're doing now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You make it sound way too easy, but... It's not as hard..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "as it sounds, right? But most, you know, it's like basketball, right? There's a lot of guys that maybe were more talented than you, right? One thing I know and respect about you and the few times we've talked, like, you talk about, you know, doing the work, right? Getting on the sports analytics platform, which I was excited about because it's a company I had helped get going, right? And invested on. And always watching the plays, knowing the other team's plays, you know, when they call them out so you know what's going to happen. Being able to guide. Business is the exact same way. Most people don't put in the work."
+      }
+    ],
+    "speakername": "Mark Cuban",
+    "ground_truth": "Business is the exact same way. You know, I have all these corny sayings. Practice too, you can't get it wrong. How you do anything is how you do everything. Everything. Yeah. I just still, to this day, try to remind myself of these things all the time.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You make it sound way too easy, but... It's not as hard..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "as it sounds, right? But most, you know, it's like basketball, right? There's a lot of guys that maybe were more talented than you, right? One thing I know and respect about you and the few times we've talked, like, you talk about, you know, doing the work, right? Getting on Synergy Sports, which I was excited about because it's a company I had helped get going, right? And invested on. And always watching the plays, knowing the other team's plays, you know, when they call them out so you know what's going to happen. Being able to guide. Business is the exact same way. Most people don't put in the work."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Business is the exact same way. You know, I have all these corny sayings. Practice too, you can't get it wrong. How you do anything is how you do everything. Everything. Yeah. I just still, to this day, try to remind myself of these things all the time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "For you, you started college in [city] And then went to [state university]. Yeah. Why?"
+      }
+    ],
+    "speakername": "Mark Cuban",
+    "ground_truth": "when I was 16 I decided I wanted to take college classes at night just to see if I was as smart as I thought I was and so",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

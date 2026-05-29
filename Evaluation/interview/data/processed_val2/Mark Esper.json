@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you for the kind introduction, Dr. Hamry, and it is nice to be doing this in person. We have a packed audience here. Thank you for your service, and it's great to have you. Thanks for a great book. As someone who has written books myself not quite this long, I wanted to actually start off by getting your sense about your goals and objectives in writing the book. Maybe it was cathartic. But when you decided and made the decision to write it, based on your experience, Secretary of the Army, Secretary of Defense, and then obviously we have various parts of your life even before that, what was your motivation, and did anything surprise you as you looked back on your own life during a pretty tumultuous period?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Sure. No, it's great questions. First of all, John, thank you for that kind invitation. So it's great to be here and great to be back at CSIS and to share this with you. So, you know, I didn't go into office thinking I'd write a book. I really didn't think about it until the end, until I was fired in November of 2020. And I wrestled with, you know, what to do. Should I, should I not? And if so, when? And then as I reflected and talked to a couple people, it dawned on me, look, this period was too important. And this was before January 6th, by the way. I thought that this was too important of a period of time in our nation's history, too tumultuous for me to not write about it, because I thought it would be very important for the American people to know their history, to know what happened. And so my first motivation was that, to open it up, open this period of time, the last two years of the Trump administration, and explain what happened. Give it from the perch of not just a cabinet secretary, but a cabinet secretary responsible for the Department of Defense, which was often President Trump's go-to department. And I can, I can, I can, I can expand on that if you, if you like. But then it became more about the secondary audiences, right? The people at the Pentagon who I'd served with or served for me, folks who wanted to understand what it's like to work at that level, what a secretary of defense thinks about. I wanted to write it for students of government, for people who are thinking about going into government to explain how that works as well. So I had multiple audiences in mind as I wrote that. And as I did write it, I was very careful to not just give the play-by-play, but to give the play-by-play and then provide color commentary, right, as to what happened. And I think that's what I did. And I think that's what I did. And I try to keep the story very clear as to what was going on in my head and then try to put it in a broader strategic environment. So I tried to write it from three different levels. And you'll see in some of the chapters, whether it's a chapter about Russia or China, I try to be prospective to talk about things I think the country should do or we should consider from a policy perspective. So I try to round it out in a lot of different ways. And so that was that piece. I mean, you asked about the most surprising stuff. I think when I was said and done writing it and I wrote it fairly quickly, about four or five months, throughout the process, I started to see that especially in the context of theå¥½å¦. And I would send it out to people who were involved in the different parts. And at the end of the day, I think I counted up nearly three dozen four stars, senior civilians, cabinet members, stuff like that, that I'd sent it out to to kind of cross check. I said I wanted to be objective and fair and complete as much as possible. And on a few occasions, people would come back and say, you know, you that wasn't exactly right. This is what was going on behind the scenes that we couldn't tell you or that you didn't see or that wasn't, you know, we wouldn't raise with you anyways. And I thought, wow, that's that's interesting. And if I kind of had knew that I might have done something a little bit differently. But you get people coming out and telling you some of the background stories that they couldn't tell you at the time. And that was fascinating for me to learn that aspect of it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you. It's great to be here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're now mostly known as Trump's second defense secretary. You stayed on the job for a tumultuous 18 months, which you recount in your new book, A Sacred Oath, Memoirs of a Secretary of Defense During Extraordinary Times. Were those truly extraordinary times, or were you simply serving under an out-of-the-ordinary head of state, under an unconventional, some might even say an iconoclast, President Donald Trump?"
+      }
+    ],
+    "speakername": "Mark Esper",
+    "ground_truth": "Yeah, well, it's a good question, and I think the short answer is both, right? So, yes, Donald Trump was very unconventional in terms of his style and how he operated, and I'd go into great detail about that. But, you know, I also had to serve during a period when we were facing off against the Chinese in the Indo-Pacific. We still were facing down ISIS in the Middle East. We were dealing with a once-in-a-century pandemic. We had to deal with protests in the streets of America that we hadn't seen in generations. So the list goes on, and, you know, the times were also extraordinary in their own way, and the Trump presidency made it even more challenging on top of that.",
+    "bio": "Mark Thomas Esper (born April 26, 1964) is an American politician and manufacturing executive who served as the 27th United States secretary of defense from 2019 to 2020. A member of the Republican Party, he had previously served as the 23rd U.S. secretary of the Army from November 2017 to July 2019. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you. It's great to be here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're now mostly known as [target]'s second defense secretary. You stayed on the job for a tumultuous 18 months, which you recount in your new book, A Sacred Oath, Memoirs of a Secretary of Defense During Extraordinary Times. Were those truly extraordinary times, or were you simply serving under an out-of-the-ordinary head of state, under an unconventional, some might even say an iconoclast, President?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, well, it's a good question, and I think the short answer is both, right? So, yes, he was very unconventional in terms of his style and how he operated, and I'd go into great detail about that. But, you know, I also had to serve during a period when we were facing off against adversaries in the Pacific region. We still were facing down hostile groups in foreign regions. We were dealing with a once-in-a-century pandemic. We had to deal with protests in the streets of our nation that we hadn't seen in generations. So the list goes on, and, you know, the times were also extraordinary in their own way, and that presidency made it even more challenging on top of that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Certainly there were a lot of challenges, as you say. And just looking at your own background, you served in the Defense Department first as Secretary of the Army before moving on to become Secretary of Defense. You are a civilian, but also very much a military man. Right. You graduated from the prestigious military academy. In fact, you served in active duty combat during the Gulf War with elite airborne divisions. I suppose being appointed Secretary of Defense is a great honor for anyone. But did you have serious misgivings knowing what you did about the president?"
+      }
+    ],
+    "speakername": "Mark Esper",
+    "ground_truth": "I think misgivings is the wrong word. I certainly had concerns about his style, but I felt pretty confident that I knew what I needed to do as Secretary of Defense. I mean, you recounted that I was Secretary of the Army before that. I actually served five times in the federal defense headquarters, so I knew the organization really well. I knew the military really well. I knew the capital, whether it's Congress and the executive branch, really well. My thinking was, you know, if anybody can handle it, I can handle it, and I can do what I thought was best for the department, but more importantly, you know, I took an oath of office to the Constitution, and whenever you have a chance to serve your country, which is how I approached it, I thought it's too great a privilege to turn down. So at the end of the day, it's that what drew me to the job, and certainly was why I decided to accept the position.",
+    "bio": "The speaker is an American politician and manufacturing executive who served as the 27th United States secretary of defense from 2019 to 2020. A member of the Republican Party, he had previously served as the 23rd U.S. secretary of the Army from November 2017 to July 2019. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, well, it's a good question, and I think the short answer is both, right? So, yes, Donald Trump was very unconventional in terms of his style and how he operated, and I'd go into great detail about that. But, you know, I also had to serve during a period when we were facing off against the Chinese in the Indo-Pacific. We still were facing down ISIS in the Middle East. We were dealing with a once-in-a-century pandemic. We had to deal with protests in the streets of America that we hadn't seen in generations. So the list goes on, and, you know, the times were also extraordinary in their own way, and the Trump presidency made it even more challenging on top of that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Certainly there were a lot of challenges, as you say. And just looking at your own background, you served in the Defense Department first as Secretary of the Army before moving on to become Secretary of Defense. You are a civilian, but also very much a military man. Right. You graduated from the prestigious West Point Academy. In fact, you served in active duty combat during the Gulf War with the 101st and then the 82nd Airborne Divisions. I suppose being appointed Secretary of Defense is a great honor for anyone. But did you have serious misgivings knowing what you did about Donald Trump?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think misgivings is the wrong word. I certainly had concerns about his style, but I felt pretty confident that I knew what I needed to do as Secretary of Defense. I mean, you recounted that I was Secretary of the Army before that. I actually served five times in the Pentagon, so I knew the Pentagon really well. I knew the military really well. I knew DC, whether it's Congress and the executive branch, really well. My thinking was, you know, if anybody can handle it, I can handle it, and I can do what I thought was best for DOD, but more importantly, you know, I took an oath of office to the Constitution, and whenever you have a chance to serve your country, which is how I approached it, I thought it's too great a privilege to turn down. So at the end of the day, it's that what drew me to the job, and certainly was why I decided to accept the position."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But all this seemed to have changed quite dramatically on June 3rd, 2020, which was the day when you called for a press briefing at the Pentagon, during which you opposed publicly invoking the Insurrection Act of 1807, the deployment of active duty troops in American cities as the president had wanted. You cross swords with Donald Trump. You rebuffed him publicly. You said this, and you write this in your memoirs. At times like this, I asked myself why I didn't resign. This was the existential question of the Trump administration. Why did good people stay, even after the president suggested or pressed us to do things that were reckless or foolish or just plain wrong? I stayed because I thought it was the right thing to do. But wouldn't your resignation at the time have sent a more powerful message, not just to the president, but to the vice president, to the entire Republican leadership, to the country?"
+      }
+    ],
+    "speakername": "Mark Esper",
+    "ground_truth": "Well, let me, I'll answer your question, but let me go back a step. You said, you know, it changed on June 3rd. Actually, it didn't change on June 3rd. The divisions, the break between us began very early on. And I talk about that in my memoir. Within the first few weeks, when we talk about where he brings up, you know, withdrawing forces from Korea, and it grows over time, it breaks into the open on June 3rd. That's the difference, as I describe it in my memoir, that it finally kind of reaches its point. And why is that? Because of the extraordinary nature of a request to deploy active duty troops into the streets of America, and then suggest that maybe they shoot the protesters. For me, that was a really hard red line that I was not about to cross. That's, that is what I talk about when I say, why not resign? Look, I'm not going to resign.",
+    "bio": "Mark Thomas Esper (born April 26, 1964) is an American politician and manufacturing executive who served as the 27th United States secretary of defense from 2019 to 2020. A member of the Republican Party, he had previously served as the 23rd U.S. secretary of the Army from November 2017 to July 2019. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think misgivings is the wrong word. I certainly had concerns about his style, but I felt pretty confident that I knew what I needed to do as Secretary of Defense. I mean, you recounted that I was Secretary of the Army before that. I actually served five times in the Pentagon, so I knew the Pentagon really well. I knew the military really well. I knew DC, whether it's Congress and the executive branch, really well. My thinking was, you know, if anybody can handle it, I can handle it, and I can do what I thought was best for DOD, but more importantly, you know, I took an oath of office to the Constitution, and whenever you have a chance to serve your country, which is how I approached it, I thought it's too great a privilege to turn down. So at the end of the day, it's that what drew me to the job, and certainly was why I decided to accept the position."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But all this seemed to have changed quite dramatically on June 3rd, 2020, which was the day when you called for a press briefing at the Pentagon, during which you opposed publicly invoking the Insurrection Act of 1807, the deployment of active duty troops in American cities as the president had wanted. You cross swords with Donald Trump. You rebuffed him publicly. You said this, and you write this in your memoirs. At times like this, I asked myself why I didn't resign. This was the existential question of the Trump administration. Why did good people stay, even after the president suggested or pressed us to do things that were reckless or foolish or just plain wrong? I stayed because I thought it was the right thing to do. But wouldn't your resignation at the time have sent a more powerful message, not just to the president, but to the vice president, to the entire Republican leadership, to the country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, let me, I'll answer your question, but let me go back a step. You said, you know, it changed on June 3rd. Actually, it didn't change on June 3rd. The divisions, the break between us began very early on. And I talk about that in my memoir. Within the first few weeks, when we talk about where he brings up, you know, withdrawing forces from Korea, and it grows over time, it breaks into the open on June 3rd. That's the difference, as I describe it in my memoir, that it finally kind of reaches its point. And why is that? Because of the extraordinary nature of a request to deploy active duty troops into the streets of America, and then suggest that maybe they shoot the protesters. For me, that was a really hard red line that I was not about to cross. That's, that is what I talk about when I say, why not resign? Look, I'm not going to resign."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The chimney of that made you more than just think about resigning, possibly even resigning. You heard the president tell you and General Milley, the chairman of the Joint Chiefs of Staff, quote, what you just said, can't you just shoot them, just shoot them in the legs or something about fellow Americans who were protesting just outside the White House? Didn't this warrant a resignation?"
+      }
+    ],
+    "speakername": "Mark Esper",
+    "ground_truth": "No. And I'll tell you why. Not that I didn't consider it. And as you read through the book, you'll see I go back and forth on this constantly. I reach out to my predecessors, both Republicans and Democrats alike, looking for counsel and guidance and different ways to think about it. But at the end of the day, I looked at it this way. There are only two people in the United States that can deploy U.S. military forces, the president of the United States and the secretary of defense. I was in an extraordinary position with a lot of power. And I knew that if I were there, I was confident that I would do the right thing. And I go back, as I recount in the memoir, that there were times prior to that, when I talked about the break being before then, where the president suggested shooting missiles into Mexico, or it was suggested by a member of his staff that we send a quarter million troops to the border, or it was suggested that we attack Venezuela. My logic was this. If I wasn't there to say no, who would have been there? I had no confidence. I had no confidence that Trump wouldn't put in a real yes man. And so my logic was, stay there, do the right thing, advance the important things we were trying to do at the Pentagon to reform the military, modernize it, prepare it for the threat of China, but at the same time, stop bad stuff from happening. And as you'll see, as you read, in the fall of 20, more ideas come up. My game plan had been, get to the election.",
+    "bio": "Mark Thomas Esper (born April 26, 1964) is an American politician and manufacturing executive who served as the 27th United States secretary of defense from 2019 to 2020. A member of the Republican Party, he had previously served as the 23rd U.S. secretary of the Army from November 2017 to July 2019. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No. And I'll tell you why. Not that I didn't consider it. And as you read through the book, you'll see I go back and forth on this constantly. I reach out to my predecessors, both Republicans and Democrats alike, looking for counsel and guidance and different ways to think about it. But at the end of the day, I looked at it this way. There are only two people in the United States that can deploy U.S. military forces, the president of the United States and the secretary of defense. I was in an extraordinary position with a lot of power. And I knew that if I were there, I was confident that I would do the right thing. And I go back, as I recount in the memoir, that there were times prior to that, when I talked about the break being before then, where the president suggested shooting missiles into [Country], or it was suggested by a member of his staff that we send a quarter million troops to the border, or it was suggested that we attack [Country]. My logic was this. If I wasn't there to say no, who would have been there? I had no confidence. I had no confidence that [Former President] wouldn't put in a real yes man. And so my logic was, stay there, do the right thing, advance the important things we were trying to do at the [Government Building] to reform the military, modernize it, prepare it for the threat of [Country], but at the same time, stop bad stuff from happening. And as you'll see, as you read, in the fall of 20, more ideas come up. My game plan had been, get to the election."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But when you took your oath of office, a sacred oath is what you called it, it was to defend the United States from enemies, both domestic and foreign. Many would suggest that the commander in chief at the time, [Former President], seemingly looked like he could be a risk to national security. Some might argue that he was a risk to U.S. democracy itself."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So why should good people leave? That's my question."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And good people say that this president is, as you say, unhinged, unfit for office. You say at times he couldn't think straight."
+      }
+    ],
+    "speakername": "Mark Esper",
+    "ground_truth": "Yeah, so that's when you don't want, that's when you want good people in office. You want people who will do the right thing. You don't want yes men in the office when you have that type of commander in chief because that's what you get after November 9th. That's what you get, that's why you get an insurrection on [Government Building] on January 6th.",
+    "bio": "The speaker (born April 26, 1964) is an American politician and manufacturing executive who served as the 27th United States secretary of defense from 2019 to 2020. A member of the Republican Party, he had previously served as the 23rd U.S. secretary of the Army from November 2017 to July 2019. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

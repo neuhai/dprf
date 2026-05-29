@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Young [name] taking the train in from the outer borough in [location], coming into [major city]. You know this story. You probably did it yourself. What did he see? What was he interested in about [major city]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I can't take you back quite that far. I met him. He was already quite successful. It was the mid to late 80s. I was the federal prosecutor in the regional district, and at that point had become quite well known for my prosecution of organized crime, [name], a lot of the crooks in the municipal administration. And he, of course, was getting to be very well known."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bye-bye."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "before you start there, let me ask you this. Imagine what it was like. You know what [major city] was like in those days. It's the 60s. He's going into that city. What's he, because he has a lifelong obsession with [location]. Where does that come from? You had it too, I think."
+      }
+    ],
+    "speakername": "Rudy Giuliani",
+    "ground_truth": "A lifelong obsession. Obsession with [major city]. Oh, absolutely. You can't. I mean, well, I believe that people fall into two categories. Not so much about [major city], about [location]. They either fall in love with it or they hate it. Right. There are very few, it's okay, or I like it, but not that much. It's, I love it, I can't do without it, it's in my blood, or I don't know how you can live in that place. The rest of the city, which is most of the city, is like every place else in America. But [location] is like no place else in the world.",
+    "bio": "The subject (born May 28, 1944) is an American politician, attorney, businessman, public speaker, former mayor of a major city, and an informal adviser on cybersecurity to the federal government. Politically affiliated with one major party, then an Independent in the 1970s, and with another major party since the 1980s, the subject was a federal prosecutor for a major district during the 1980s. The subject prosecuted pivotal cases against organized crime, and against corrupt corporate financiers. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Bye-bye."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "before you start there, let me ask you this. Imagine what it was like. You know what the city was like in those days. It's the 60s. He's going into that city. What's he, because he has a lifelong obsession with the downtown district. Where does that come from? You had it too, I think."
+      },
+      {
+        "speaker": "[target]",
+        "text": "A lifelong obsession. Obsession with the city. Oh, absolutely. You can't. I mean, well, I believe that people fall into two categories. Not so much about the city, about the downtown district. They either fall in love with it or they hate it. Right. There are very few, it's okay, or I like it, but not that much. It's, I love it, I can't do without it, it's in my blood, or I don't know how you can live in that place. The rest of the city, which is most of the city, is like every place else in America. But the downtown district is like no place else in the world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What did he see? What did you see when you..."
+      }
+    ],
+    "speakername": "Rudy Giuliani",
+    "ground_truth": "What you see is, first of all, you see a natural wonder of buildings. You know, it's like the pyramids or it's like some grand mountain range. The buildings dwarf you. The buildings remind you of how unimportant you are because you're so tiny. When you see them from the sky for the first time, it looks like, depending on your perspective, one of the great wonders of the world or a concrete jungle. From below, when you're walking it, it's also that dual experience. It's clearly, without any doubt, the most exciting city in the world. Major European cities can match it at certain times. That's about it. Other cities, in a small way. But still, they are so far behind. There's no feeling of excitement. Like you get in the downtown district almost any time of the day, but certainly, oh, in the hour or so, building up to the opening of the theater district that night, which happens every night, and there are 15 million people hanging around. The after-theater crowd, after everybody's talking about the show they saw, the local baseball team may have played that night, and they're coming back into the district, and they're talking about whether the team won or lost, and everybody's talking about politics. It's an all-night city. Probably the most truly all-night city in the world. I mean, literally, you can get anything you need any time of the day. When I ran for mayor the third time, I campaigned for three straight days, 24 hours. And I found almost as many people to appeal to at four in the morning as at four in the afternoon. Amazing.",
+    "bio": "[target] (born May 28, 1944) is an American politician, attorney, businessman, public speaker, former mayor of a major US city, and an informal adviser on cybersecurity to the federal government. Politically a Democrat, then an Independent in the 1970s, and a Republican since the 1980s, [target] was the United States Attorney for a major district during the 1980s. [target] prosecuted pivotal cases against organized crime, and against corrupt corporate financiers. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "A lifelong obsession. Obsession with [city]. Oh, absolutely. You can't. I mean, well, I believe that people fall into two categories. Not so much about [city], about [district]. They either fall in love with it or they hate it. Right. There are very few, it's okay, or I like it, but not that much. It's, I love it, I can't do without it, it's in my blood, or I don't know how you can live in that place. The rest of the city, which is most of the city, is like every place else in America. But [district] is like no place else in the world."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What did he see? What did you see when you..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What you see is, first of all, you see a natural wonder of buildings. You know, it's like the pyramids or it's like some grand mountain range. The buildings dwarf you. The buildings remind you of how unimportant you are because you're so tiny. When you see them from the sky for the first time, it looks like, depending on your perspective, one of the great wonders of the world or a concrete jungle. From below, when you're walking it, it's also that dual experience. It's clearly, without any doubt, the most exciting city in the world. [city2] can match it at certain times, [city3] somewhat. That's about it. [city4], in a small way. But still, they are so far behind. There's no feeling of excitement. Like you get in [district] almost any time of the day, but certainly, oh, in the hour or so, building up to the opening of Broadway that night, which happens every night, and there are 15 million people hanging around. The after-Broadway crowd, after everybody's talking about the show they saw, the baseball team may have played that night, and they're coming back into [district], and they're talking about whether the team won or lost, and everybody's talking about politics. It's an all-night city. Probably the most truly all-night city in the world. I mean, literally, you can get anything you need any time of the day. When I ran for mayor the third time, I campaigned for three straight days, 24 hours. And I found almost as many people to appeal to at four in the morning as at four in the afternoon. Amazing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did you know Fred Sr.?"
+      }
+    ],
+    "speakername": "Rudy Giuliani",
+    "ground_truth": "I did, but only through my knowledge of [person]. In other words, [person] introduced me to his father. I had no independent dealings with him. What was he like?",
+    "bio": "[target] (born May 28, 1944) is an American politician, attorney, businessman, public speaker, former mayor of [city], and an informal adviser on cybersecurity to the [government building]. Politically a Democrat, then an Independent in the 1970s, and a Republican since the 1980s, [target] was the United States Attorney for the Southern District of [city] during the 1980s. [target] prosecuted pivotal cases against the American Mafia, and against corrupt corporate financiers. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What you see is, first of all, you see a natural wonder of buildings. You know, it's like the pyramids or it's like some grand mountain range. The buildings dwarf you. The buildings remind you of how unimportant you are because you're so tiny. When you see them from the sky for the first time, it looks like, depending on your perspective, one of the great wonders of the world or a concrete jungle. From below, when you're walking it, it's also that dual experience. It's clearly, without any doubt, the most exciting city in the world. Other major cities can match it at certain times, but they are so far behind. There's no feeling of excitement. Like you get in this city almost any time of the day, but certainly, oh, in the hour or so, building up to the opening of theater district that night, which happens every night, and there are 15 million people hanging around. The after-theater crowd, after everybody's talking about the show they saw, the local baseball team may have played that night, and they're coming back into the city, and they're talking about whether the team won or lost, and everybody's talking about politics. It's an all-night city. Probably the most truly all-night city in the world. I mean, literally, you can get anything you need any time of the day. When I ran for mayor the third time, I campaigned for three straight days, 24 hours. And I found almost as many people to appeal to at four in the morning as at four in the afternoon. Amazing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did you know [target] Sr.?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I did, but only through my knowledge of [target]. In other words, [target] introduced me to his father. I had no independent dealings with him. What was he like?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What was his reputation?"
+      }
+    ],
+    "speakername": "Rudy Giuliani",
+    "ground_truth": "You know, I can't tell you for sure because I wasn't in that business. I can just tell you from afar. Very much a gentleman. Very, very old-fashioned gentleman. Always wore a suit. Always wore a tie. Sort of that generation. Pulled out chairs for women. Very gracious. [target] has somewhat of a salesman's, you know, high-level salesman's personality. He'll be out front a lot, and he'll be aggressive, and he'll be funny. And his dad was more of a quiet man. You know, more of a, at least this is my impression of knowing him, maybe having met him four or five times, always in a social setting, and then having read about him quite a bit. I mean, he was very... Funeral, right? I think you were at the funeral. Oh, I definitely was at his. But by that time, I had become even closer to the family. But, I mean, I remember [target] before I remember [target]. And I don't mean remember him personally. I mean remember him by reading about him in the newspapers. [target] became rather famous for the housing he was building. And a lot of it was considered to be very innovative and very valuable.",
+    "bio": "Born May 28, 1944, the subject is an American politician, attorney, businessman, public speaker, former mayor of a major U.S. city, and an informal adviser on cybersecurity to the national government. Politically affiliated with one major party, then an Independent in the 1970s, and with another major party since the 1980s, the subject was the United States Attorney for a significant district during the 1980s. The subject prosecuted pivotal cases against organized crime, and against corrupt corporate financiers. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I did, but only through my knowledge of [name]. In other words, [name] introduced me to his father. I had no independent dealings with him. What was he like?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What was his reputation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I can't tell you for sure because I wasn't in that business. I can just tell you from afar. Very much a gentleman. Very, very old-fashioned gentleman. Always wore a suit. Always wore a tie. Sort of that generation. Pulled out chairs for women. Very gracious. [name] has somewhat of a salesman's, you know, high-level salesman's personality. He'll be out front a lot, and he'll be aggressive, and he'll be funny. And his dad was more of a quiet man. You know, more of a, at least this is my impression of knowing him, maybe having met him four or five times, always in a social setting, and then having read about him quite a bit. I mean, he was very... Funeral, right? I think you were at the funeral. Oh, I definitely was at his. But by that time, I had become even closer to the family. But, I mean, I remember Fred before I remember [name]. And I don't mean remember him personally. I mean remember him by reading about him in the newspapers. Fred became rather famous for the housing he was building. And a lot of it was considered to be very innovative and very valuable. And then, of course, there were other things that I was very involved with. There were a lot of things that I was very involved with. And then, of course, there were a lot of things that I was very involved with. Whenever you build housing in [city], there's a group of people who object to your taking the land. So as a lawyer, student first, then lawyer, you tend to pay attention to those stories."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did he ever talk about what his dad gave him, taught him, what lessons?"
+      }
+    ],
+    "speakername": "Rudy Giuliani",
+    "ground_truth": "Not as much as you would think, but yes. The only way you would get an acknowledgement out of [name].",
+    "bio": "The speaker (born May 28, 1944) is an American politician, attorney, businessman, public speaker, former mayor of a major city, and an informal adviser on cybersecurity to the [government building]. Politically a Democrat, then an Independent in the 1970s, and a Republican since the 1980s, the speaker was the United States Attorney for the Southern District of a major city during the 1980s. The speaker prosecuted pivotal cases against organized crime, and against corrupt corporate financiers. The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

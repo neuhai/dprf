@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Without further ado, [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well hello! It's great to be here!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The president was speaking earlier in [location], so we're just now going live. A lot of people don't know on the stream yet that you actually got to warm up the crowd a little bit. So for those who missed that, would you give a little bit of a, I guess, examples of what you spoke about and what was important to you today?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, what I spoke about was, you know, we're here in [location], and I spent years going show to show in [location]. I mean, what an American dream story I have, going from a former addict to where I'm at today. And we're going to lose the American dream if this is the most important election in history. We had, when I met the president, before he was president, in the summer of 2016, I didn't know anything about politics. I was a former addict. What did I know, you know? And I didn't know it affected us. I didn't know how politics affect everything we do. Well, the president reached out to me in the summer of 16 and said, could you meet me in [location] at [building]? Well, I went to meet him, and they said, oh, you're never going to get to meet him alone, and don't tell him about your past, you know? Well, one of the first things we talked about, yeah, I was recovered, and I did meet him alone. It was a half-hour meeting, and we talked about the manufacturing that he wanted to bring back to the country like my company. You know, I have 1,500 employees, and we're probably over 20,000 jobs that are affected by my company. But he wanted to bring back the manufacturing, bring back the jobs. We talked about addiction. He said he wants to stop the drugs pouring in. All these things he said to me back then, I walked out of his office, I said, he's going to be the greatest president in history. And I'll tell you, we all went in on faith back in 16."
+      }
+    ],
+    "speakername": "Mike Lindell",
+    "ground_truth": "And, well, actually, I want to say this. I came back to [location] to tell the media and tell the world that I met this guy, and he's going to be the greatest president. They completely shut me out, other than the ones that called me a racist. They called me everything you could think of. I'm going, you don't even know what we talked about. So I knew something very evil was out there and lurking. And I just, I said, you know what? That puts me all in. And I went all in because I had done my due diligence. I met the guy. I knew his heart was just to help each and every one of us have the best life we can possibly have. Well, I'll tell you what. Four years later, here we are. And now I can tell my friends, I told you so. I told you so. Right before this pandemic, you had all these manufacturing jobs that have poured back in. I'm here in [location]. And in the Midwest, there are all these jobs. We had entrepreneurs in January taking chances again in service business and in invention. And you know why? They could fall back to a good paying job because everybody was shocking for a higher paying job. There is only one person that can bring this economy back to roaring like it was. And that's the president, our great president. And that's what I told him. I said, this election. And by the way, this is not just an election. This is a biblical proportion. This is our faith. This is, you know, politics affects everything, including our, you know, in God we trust. They took God out of our schools for years. And we need to admit. I got back in our country and I'm just so excited. We have in six days, it's going to be the biggest landslide victory you ever seen.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "President Trump was speaking earlier in Lansing, so we're just now going live. A lot of people don't know on the stream yet that you actually got to warm up the crowd a little bit. So for those who missed that, would you give a little bit of a, I guess, examples of what you spoke about and what was important to you today?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, what I spoke about was, you know, we're here in Wisconsin, and I spent years going show to show in Wisconsin. I mean, what an American dream story I have, going from a crack addict to where I'm at today. And we're going to lose the American dream if this is the most important election in history. We had, when I met the president, before he was president, in the summer of 2016, I didn't know anything about politics. I was a former crack addict. What did I know, you know? And I didn't know it affected us. I didn't know how politics affect everything we do. Well, Donald Trump reached out to me in the summer of 16 and said, Mike, could you meet me in New York City at Trump Tower? Well, I went to meet him, and they said, oh, you're never going to get to meet him alone, and don't tell him you're a crack addict, you know? Well, one of the first things we talked about, yeah, I was an ex-crack addict, and I did meet him alone. It was a half-hour meeting, and we talked about the manufacturing that he wanted to bring back to the USA like my pillow. You know, I have 1,500 employees, and we're probably over 20,000 jobs that are affected by my pillow. But he wanted to bring back the manufacturing, bring back the jobs. We talked about addiction. He said he wants to stop the drugs pouring in. All these things he said to me back then, I walked out of his office, I said, he's going to be the greatest president in history. And I'll tell you, we all went in on faith back in 16."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And, well, actually, I want to say this. I came back to Minnesota to tell the media and tell the world that I met this guy, and he's going to be the greatest president. They completely shut me out, other than the ones that called me a racist. They called me everything you could think of. I'm going, you don't even know what we talked about. So I knew something very evil was out there and lurking. And I just, I said, you know what? That puts me all in. And I went all in because I had done my due diligence. I met the guy. I knew his heart was just to help each and every one of us have the best life we can possibly have. Well, I'll tell you what. Four years later, here we are. And now I can tell my friends, I told you so. I told you so. Right before this pandemic, you had all these manufacturing jobs that have poured back in. I'm here in Wisconsin. And in the Midwest, there are all these jobs. We had entrepreneurs in January taking chances again in service business and in invention. And you know why? They could fall back to a good paying job because everybody was shocking for a higher paying job. There is only one person that can bring this economy back to roaring like it was. And that's Donald Trump, our great president. And that's what I told him. I said, this election. And by the way, this is not just an election. This is a biblical proportion. This is our faith. This is, you know, politics affects everything, including our, you know, in God we trust. They took God out of our schools for years. And we need to admit. I got back in our country and I'm just so excited. We have in six days, it's going to be the biggest landslide victory you ever seen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Constantly the biggest celebration between all of us."
+      }
+    ],
+    "speakername": "Mike Lindell",
+    "ground_truth": "Absolutely. It's going to be amazing. I think if you see what happened the last couple of weeks, it's all revealing itself now. The, you know, the lies of the Democratic Party. They, you know, here I am in Wisconsin. You have three governors, Minnesota, Michigan and Wisconsin. They've all the terrible decisions they've made during this pandemic has revealed how politics can make these politicized. Look at the Minnesota governor and the mayor of Minneapolis. They made decisions that were so horrible and non-decisions that manifested into all these riots and peoples that across the country. And you can just see how terrible decisions made by the Democratic leadership. So I did a commercial with I did a commercial the other day with Democrats. And it was so awesome. All these Democrats that are flipping were in the room. And I talked to my go, well, why are you flipping? Why are you flipping? And it was every every answer you could think of. Well, I don't want to say I don't particularly. I don't like Donald Trump, but everything that the Democratic Party used to promise us that never came to fruition, he did it. He did it. He said so. They go, you know what? I'm voting. I'm going that way. And the other one said, my party, I used to vote for that Democrat Party. That ship sailed a long time ago. And if you vote Democrat now, you're voting for these crazy like governors. We have this radical left, you know, Minnesota. We got a little advantage there. We're going to win Minnesota, by the way, too. We have we have Elon Omar. So we have an example, another example.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And, well, actually, I want to say this. I came back to my state to tell the media and tell the world that I met this guy, and he's going to be the greatest president. They completely shut me out, other than the ones that called me a racist. They called me everything you could think of. I'm going, you don't even know what we talked about. So I knew something very evil was out there and lurking. And I just, I said, you know what? That puts me all in. And I went all in because I had done my due diligence. I met the guy. I knew his heart was just to help each and every one of us have the best life we can possibly have. Well, I'll tell you what. Four years later, here we are. And now I can tell my friends, I told you so. I told you so. Right before this pandemic, you had all these manufacturing jobs that have poured back in. I'm here in this state. And in the Midwest, there are all these jobs. We had entrepreneurs in January taking chances again in service business and in invention. And you know why? They could fall back to a good paying job because everybody was shocking for a higher paying job. There is only one person that can bring this economy back to roaring like it was. And that's the former president. And that's what I told him. I said, this election. And by the way, this is not just an election. This is a biblical proportion. This is our faith. This is, you know, politics affects everything, including our, you know, in God we trust. They took God out of our schools for years. And we need to admit. I got back in our country and I'm just so excited. We have in six days, it's going to be the biggest landslide victory you ever seen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Constantly the biggest celebration between all of us."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. It's going to be amazing. I think if you see what happened the last couple of weeks, it's all revealing itself now. The, you know, the lies of the opposition party. They, you know, here I am in this state. You have three governors, from three different states. They've all the terrible decisions they've made during this pandemic has revealed how politics can make these politicized. Look at the state governor and the city mayor. They made decisions that were so horrible and non-decisions that manifested into all these riots and peoples that across the country. And you can just see how terrible decisions made by their leadership. So I did a commercial with I did a commercial the other day with members of the opposition party. And it was so awesome. All these people that are flipping were in the room. And I talked to my go, well, why are you flipping? Why are you flipping? And it was every every answer you could think of. Well, I don't want to say I don't particularly. I don't like the former president, but everything that their party used to promise us that never came to fruition, he did it. He did it. He said so. They go, you know what? I'm voting. I'm going that way. And the other one said, my party, I used to vote for that party. That ship sailed a long time ago. And if you vote for them now, you're voting for these crazy like governors. We have this radical left, you know, in our state. We got a little advantage there. We're going to win our state, by the way, too. We have we have a particular representative. So we have an example, another example."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have been a leading face of that campaign. We see you everywhere."
+      }
+    ],
+    "speakername": "Mike Lindell",
+    "ground_truth": "Right. Right. You know, and it's it's like, you know, here, just take the representative. Here she comes here. I used to people say, well, it's just a Trojan horse for something really bad. No, it's not. She puts it right out there. She dislikes the country and she dislikes another nation. At least she puts it right out there.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. It's going to be amazing. I think if you see what happened the last couple of weeks, it's all revealing itself now. The, you know, the lies of the opposition party. They, you know, here I am in [state]. You have three governors, [state1], [state2] and [state3]. They've all the terrible decisions they've made during this pandemic has revealed how politics can make these politicized. Look at the [state] governor and the mayor of [city]. They made decisions that were so horrible and non-decisions that manifested into all these riots and peoples that across the country. And you can just see how terrible decisions made by the opposition leadership. So I did a commercial with I did a commercial the other day with members of the opposition party. And it was so awesome. All these people that are flipping were in the room. And I talked to my go, well, why are you flipping? Why are you flipping? And it was every every answer you could think of. Well, I don't want to say I don't particularly. I don't like the president, but everything that the opposition party used to promise us that never came to fruition, he did it. He did it. He said so. They go, you know what? I'm voting. I'm going that way. And the other one said, my party, I used to vote for that party. That ship sailed a long time ago. And if you vote for them now, you're voting for these crazy like governors. We have this radical left, you know, [state]. We got a little advantage there. We're going to win [state], by the way, too. We have we have [politician]. So we have an example, another example."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have been a leading face of that campaign. We see you everywhere."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right. Right. You know, and it's it's like, you know, here, just take [politician]. Here she comes here. I used to people say, well, it's just a Trojan horse for something really bad. No, it's not. She puts it right out there. She hates the country and she hates and she hates our ally. At least she puts it right out there."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know, how do people like her even get elected? I mean, especially from being up north."
+      }
+    ],
+    "speakername": "Mike Lindell",
+    "ground_truth": "We had from a foreign country, they brought in all these people that don't like our country, and they voted for her. They're all in her district. Everybody blames the rest of us in [state]. We didn't vote her in. We had nothing to do with it. But I'll tell you what, you know, [state] is going to be completely rad this time, up and down the ticket. We've reached out to over 5 million people. 5 million either called them or knocked on their doors. We've done so many rallies. The president, so he's been, you know, he's came there how many times now, and we're doing all these rallies. I put my heart and soul into every commercial, and usually the media out there, they block everything I do right before an election. Sure, when the election's over, they go, hey, [target], how's it going? You know, gee, what can you tell us? But you know what? When an election comes up, they go, who are you? We don't know.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right. Right. You know, and it's it's like, you know, here, just take [Person]. Here she comes here. I used to people say, well, it's just a Trojan horse for something really bad. No, it's not. She puts it right out there. She hates the USA and she hates and she hates [Country]. At least she puts it right out there."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know, how do people like her even get elected? I mean, especially from being up north."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We had from a country, [Country], they brought in all these people that don't like our country, and they voted for her. They're all in her district. Everybody blames the rest of us in [State]. We didn't vote her in. We had nothing to do with it. But I'll tell you what, you know, [State] is going to be completely rad this time, up and down the ticket. We've reached out to over 5 million people. 5 million either called them or knocked on their doors. We've done so many rallies. The president, so he's been, you know, he's came there how many times now, and we're doing all these rallies. I put my heart and soul into every commercial, and usually the fake news out there, they block everything I do right before an election. Sure, when the election's over, they go, hey, [target], how's it going? You know, gee, what can you tell us? But you know what? When an election comes up, they go, who are you? We don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, that brings me to another point. So speaking of fake news, you tweeted a few weeks ago almost that you're having a problem really advertising one of your books that you had recently written. So what happened with that?"
+      }
+    ],
+    "speakername": "Mike Lindell",
+    "ground_truth": "isn't that horrible? [Media Company] is right up there too with the mother. I can't run my book ad for my life story because part of my life story is becoming friends with the president of the United States. And they say it's political. Are you kidding me? I ran it last spring when the pandemic came upon us and I spoke from the [Government Building]. I could not believe it. It's a complete shutout for my book right now. And then you know what? And I'll tell you right now, I was going to put the book ads out right now because it would help the president because my story, I met the guy. I know where his heart is. I wanted people to get out and read that book. This ain't just a book about some crack addict where I'm at now. It's about entrepreneurship, the American dream, and it ties into this great president. So if you haven't got the book, get the book. It will help.",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

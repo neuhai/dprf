@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Trump thinks Vladimir Putin is his friend. He trusts Putin. He has said in just the past few weeks, Putin says he wants peace, and I trust him. I don't think Putin thinks he's Trump's friend at all. I think Putin thinks Trump is an easy mark."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Trump has repeatedly said that Russia is somehow easier to deal with than Ukraine when it comes to negotiations. And despite nightly Russian attacks against Ukraine, he insists that Vladimir Putin wants peace. Why do you think Trump is so eager to cater to the Kremlin's interests, especially when they have such maximalist demands in the war?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, Trump has said many times publicly that he believes if he has good relations with a foreign head of state, then the United States has good relations with that country. And the opposite is also true. If he has bad relations with a foreign head of state, U.S. relations with that country are bad. Trump thinks Vladimir Putin is his friend. He trusts Putin. He has said in just the past few weeks, Putin says he wants peace, and I trust him. I think if he didn't want peace, he would tell me. So that gives you a pretty good idea of how he sees Putin. Now, I don't think Putin thinks he's Trump's friend at all. I think Putin thinks Trump is an easy mark. And as a former KGB agent, Putin knows exactly how to manipulate him. And I think that's what he's been doing since the inauguration, if not before. So the idea that Russia is easy to deal with actually goes back a long time. When Trump was leaving Washington in the spring of 2018 to go to the NATO summit, where he almost withdrew, and then ultimately to Helsinki for the bilateral meeting with Putin, as he was leaving the White House to get on helicopter Marine One, he said to the assembled press, you know, I've got this NATO meeting, then I'm going to meet Prime Minister May in London, then I'm going to meet Putin in Helsinki. You know, the meeting with Putin could be the easiest of them all. Who would think it? Well, there's only one person who would think it, and it's Donald Trump. So that was almost six years ago, and nothing has changed. And the facts, as you described, Russia's conduct in the war, being the aggressor to begin with, those just don't matter to Trump, because after all, you want to help your friends out. So Zelensky has had a bad relationship with Trump through no fault of Zelensky's, no fault of Ukraine's, but since the famous perfect phone call in the summer of 2019 that ultimately led to Trump's first impeachment. And Zelensky's tried very hard, I think, in the past six months to get a relationship with Trump. But as we saw in the catastrophe in the Oval Office a few weeks ago, it hasn't worked. And there are people like J.D. Vance, who I think have also decided they don't like Zelensky. And don't don't like Ukraine. Vance once said in his 2022 Senate campaign, I don't care what happens to Ukraine. So it's a it's an uphill struggle, I think."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Traditionally, the Republican Party has championed very strong defensive policies against U.S. adversaries like Russia. So what do you think accounts for this lack of cohesive support in the party for Ukraine?"
+      }
+    ],
+    "speakername": "John Bolton",
+    "ground_truth": "Well, I think a majority of Republicans actually still support Ukraine, certainly out in the country among Republican voters, and I think quietly behind the scenes, a majority in Congress do too, but they're intimidated by Trump. They're very worried that he will support candidates against them in our primary election to decide who the Republican nominee will be, and in districts that are very safe Republican, it doesn't matter who the Democrat nominee is in November. It matters whether the incumbent House member, let's say, can win against a primary opponent. So it's a situation I think that's beginning to change. I think more people are beginning to speak out. I think Trump's tariff policies are causing a lot of concern, and I think that adds to concern about his really 180-degree shift toward Russia in the Ukraine. Ukraine situation, and hopefully that'll have an effect, and hopefully if some of our European allies can keep up their work to try and explain who's at fault in Ukraine and what's at stake, we're just going to have to fight it out day by day.",
+    "bio": "John Robert Bolton (born November 20, 1948) is an American attorney, political commentator, Republican consultant, government official and former diplomat serving as the 27th National Security Advisor of the United States since April 9, 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Trump has said many times publicly that he believes if he has good relations with a foreign head of state, then the United States has good relations with that country. And the opposite is also true. If he has bad relations with a foreign head of state, U.S. relations with that country are bad. Trump thinks Vladimir Putin is his friend. He trusts Putin. He has said in just the past few weeks, Putin says he wants peace, and I trust him. I think if he didn't want peace, he would tell me. So that gives you a pretty good idea of how he sees Putin. Now, I don't think Putin thinks he's Trump's friend at all. I think Putin thinks Trump is an easy mark. And as a former KGB agent, Putin knows exactly how to manipulate him. And I think that's what he's been doing since the inauguration, if not before. So the idea that Russia is easy to deal with actually goes back a long time. When Trump was leaving Washington in the spring of 2018 to go to the NATO summit, where he almost withdrew, and then ultimately to Helsinki for the bilateral meeting with Putin, as he was leaving the White House to get on helicopter Marine One, he said to the assembled press, you know, I've got this NATO meeting, then I'm going to meet Prime Minister May in London, then I'm going to meet Putin in Helsinki. You know, the meeting with Putin could be the easiest of them all. Who would think it? Well, there's only one person who would think it, and it's Donald Trump. So that was almost six years ago, and nothing has changed. And the facts, as you described, Russia's conduct in the war, being the aggressor to begin with, those just don't matter to Trump, because after all, you want to help your friends out. So Zelensky has had a bad relationship with Trump through no fault of Zelensky's, no fault of Ukraine's, but since the famous perfect phone call in the summer of 2019 that ultimately led to Trump's first impeachment. And Zelensky's tried very hard, I think, in the past six months to get a relationship with Trump. But as we saw in the catastrophe in the Oval Office a few weeks ago, it hasn't worked. And there are people like J.D. Vance, who I think have also decided they don't like Zelensky. And don't don't like Ukraine. Vance once said in his 2022 Senate campaign, I don't care what happens to Ukraine. So it's a it's an uphill struggle, I think."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Traditionally, the Republican Party has championed very strong defensive policies against U.S. adversaries like Russia. So what do you think accounts for this lack of cohesive support in the party for Ukraine?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think a majority of Republicans actually still support Ukraine, certainly out in the country among Republican voters, and I think quietly behind the scenes, a majority in Congress do too, but they're intimidated by Trump. They're very worried that he will support candidates against them in our primary election to decide who the Republican nominee will be, and in districts that are very safe Republican, it doesn't matter who the Democrat nominee is in November. It matters whether the incumbent House member, let's say, can win against a primary opponent. So it's a situation I think that's beginning to change. I think more people are beginning to speak out. I think Trump's tariff policies are causing a lot of concern, and I think that adds to concern about his really 180-degree shift toward Russia in the Ukraine. Ukraine situation, and hopefully that'll have an effect, and hopefully if some of our European allies can keep up their work to try and explain who's at fault in Ukraine and what's at stake, we're just going to have to fight it out day by day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The Kremlin has recently said that Trump's apparent foreign policy shift aligns with their interests. So what does the Russia-U.S. alliance, what damage does that do to the U.S. on the global stage?"
+      }
+    ],
+    "speakername": "John Bolton",
+    "ground_truth": "Well, I think it could come close to destroying NATO. I mean, having watched Trump come very close to withdrawing from NATO at the Brussels summit in 2018, I saw more than I needed to see about how much he doesn't like the institution. He hasn't changed his view on that. But even before a formal withdrawal, he could do a lot that would debilitate NATO and really undermine the capabilities of the institution to defend its own members or its interest in other conflicts. So it's a very dangerous course that he's pursuing. They're certainly watching it very carefully in Beijing. Where? They believe that if the U.S. and NATO won't stand up for a country in the middle of Europe that's been invaded, we won't stand up for Taiwan. We won't stand up for the Southeast Asian countries near the South China Sea. So it really does have global implications for U.S. security and that of our friends and allies, too.",
+    "bio": "John Robert Bolton (born November 20, 1948) is an American attorney, political commentator, Republican consultant, government official and former diplomat serving as the 27th National Security Advisor of the United States since April 9, 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think a majority of Republicans actually still support Ukraine, certainly out in the country among Republican voters, and I think quietly behind the scenes, a majority in Congress do too, but they're intimidated by [name]. They're very worried that he will support candidates against them in our primary election to decide who the Republican nominee will be, and in districts that are very safe Republican, it doesn't matter who the Democrat nominee is in November. It matters whether the incumbent House member, let's say, can win against a primary opponent. So it's a situation I think that's beginning to change. I think more people are beginning to speak out. I think [name]'s tariff policies are causing a lot of concern, and I think that adds to concern about his really 180-degree shift toward Russia in the Ukraine situation, and hopefully that'll have an effect, and hopefully if some of our European allies can keep up their work to try and explain who's at fault in Ukraine and what's at stake, we're just going to have to fight it out day by day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The Kremlin has recently said that [name]'s apparent foreign policy shift aligns with their interests. So what does the Russia-U.S. alliance, what damage does that do to the U.S. on the global stage?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it could come close to destroying [organization]. I mean, having watched [name] come very close to withdrawing from [organization] at the Brussels summit in 2018, I saw more than I needed to see about how much he doesn't like the institution. He hasn't changed his view on that. But even before a formal withdrawal, he could do a lot that would debilitate [organization] and really undermine the capabilities of the institution to defend its own members or its interest in other conflicts. So it's a very dangerous course that he's pursuing. They're certainly watching it very carefully in Beijing. Where? They believe that if the U.S. and [organization] won't stand up for a country in the middle of Europe that's been invaded, we won't stand up for Taiwan. We won't stand up for the Southeast Asian countries near the South China Sea. So it really does have global implications for U.S. security and that of our friends and allies, too."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Some argue that [name] sees a potential rapprochement with Russia as a way to deter China in the future. I'm curious about your thoughts on that, especially given recently that China made perhaps uncharacteristically supportive statements for Ukraine. What is the dynamic that's forming here?"
+      }
+    ],
+    "speakername": "John Bolton",
+    "ground_truth": "There's a major shift, of course, in the Ukraine policy of the United States. What does this mean for Ukraine and for Europe at this very moment?",
+    "bio": "The target (born November 20, 1948) is an American attorney, political commentator, Republican consultant, government official and former diplomat serving as the 27th National Security Advisor of the United States since April 9, 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The [FOREIGN_GOVT] has recently said that Trump's apparent foreign policy shift aligns with their interests. So what does the [FOREIGN_GOVT]-U.S. alliance, what damage does that do to the U.S. on the global stage?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it could come close to destroying [MILITARY_ORG]. I mean, having watched Trump come very close to withdrawing from [MILITARY_ORG] at the [FOREIGN_CITY] summit in 2018, I saw more than I needed to see about how much he doesn't like the institution. He hasn't changed his view on that. But even before a formal withdrawal, he could do a lot that would debilitate [MILITARY_ORG] and really undermine the capabilities of the institution to defend its own members or its interest in other conflicts. So it's a very dangerous course that he's pursuing. They're certainly watching it very carefully in [FOREIGN_CITY]. Where? They believe that if the U.S. and [MILITARY_ORG] won't stand up for a country in the middle of Europe that's been invaded, we won't stand up for [REGION]. We won't stand up for the Southeast Asian countries near the [REGION]. So it really does have global implications for U.S. security and that of our friends and allies, too."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Some argue that Trump sees a potential rapprochement with [FOREIGN_GOVT] as a way to deter [FOREIGN_GOVT] in the future. I'm curious about your thoughts on that, especially given recently that [FOREIGN_GOVT] made perhaps uncharacteristically supportive statements for Ukraine. What is the dynamic that's forming here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's a major shift, of course, in the Ukraine policy of the United States. What does this mean for Ukraine and for Europe at this very moment?"
+      }
+    ],
+    "speakername": "John Bolton",
+    "ground_truth": "Well, the shift to supporting [FOREIGN_GOVT]'s view that talking about Ukrainian membership in [MILITARY_ORG] was the cause of the war is just so totally divorced from reality that it's hard to know how to pull Trump back down to ground. I don't think the minerals deal that they're going to sign tomorrow will be that significant. I think it looks more like an agreement to agree with a lot more to be negotiated. I have no doubt Zelensky's main pitch is not going to be on the mineral deal. It will be on the security that he seeks, whatever the terms of the settlement are going to be. And it just underlines for historical purposes how tragic it was that in 2008, when [FORMER_PRESIDENT] proposed bringing Ukraine and [COUNTRY] into [MILITARY_ORG] on a very fast track, [COUNTRY] and [COUNTRY], and others rejected that. Had we, just as we've now welcomed [COUNTRY] and [COUNTRY] into [MILITARY_ORG] because they realized the only real security in Europe, at least then, was to be behind a [MILITARY_ORG] border, I think the same would have been true for Ukraine.",
+    "bio": "The speaker (born November 20, 1948) is an American attorney, political commentator, Republican consultant, government official and former diplomat serving as the 27th National Security Advisor of the United States since April 9, 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Some argue that [removed] sees a potential rapprochement with [country] as a way to deter [country] in the future. I'm curious about your thoughts on that, especially given recently that [country] made perhaps uncharacteristically supportive statements for [country]. What is the dynamic that's forming here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's a major shift, of course, in the [country] policy of the United States. What does this mean for [country] and for [region] at this very moment?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the shift to supporting [country]'s view that talking about [country] membership in [organization] was the cause of the war is just so totally divorced from reality that it's hard to know how to pull [removed] back down to ground. I don't think the minerals deal that they're going to sign tomorrow will be that significant. I think it looks more like an agreement to agree with a lot more to be negotiated. I have no doubt [person]'s main pitch is not going to be on the mineral deal. It will be on the security that he seeks, whatever the terms of the settlement are going to be. And it just underlines for historical purposes how tragic it was that in 2008, when [removed] proposed bringing [country] and [country] into [organization] on a very fast track, [country], [country], and others rejected that. Had we, just as we've now welcomed [country] and [country] into [organization] because they realized the only real security in [region], at least then, was to be behind an [organization] border, I think the same would have been true for [country]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We are just about getting a new government in [country], we just had election. What do you expect or what do you hope [country] to do when it comes to [country]?"
+      }
+    ],
+    "speakername": "John Bolton",
+    "ground_truth": "Well, I know one of [person]'s first statements was, after learning of the election results, that over a period of time, he wants [country] independence, [region] independence from the United States. With all due respect, that's a mistake. I understand that what [removed] is doing is very harmful. There's no argument about that. But the real question here is whether we care about the West as a whole, or in [country]'s case, you care more about the [organization]. The [organization] alone, cut off from the United States, is much more vulnerable to [country] and [country] than it is joined with the United States.",
+    "bio": "The speaker (born [date]) is an American attorney, political commentator, consultant, government official and former diplomat serving as the 27th National Security Advisor of the United States since [date]. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, within the organization. So can I have..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "that data your team has refused to send give that to us we are the oversight committee I believe the national legislature has a right to this information"
+      },
+      {
+        "speaker": "[target]",
+        "text": "data that we have I'll get with the team thank you"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So how do you plan to get the mail? Maybe you want to tell us how you plan to get the mail from [location1] to [location2] and back to [location1] when there's only one route. I say one route, [highway], to take that 260 mile round trip when it's closed on an average of 37 days per year."
+      }
+    ],
+    "speakername": "Louis DeJoy",
+    "ground_truth": "Let me start with the fact that we're not investing significantly in the [location1] facility to repurpose it for what we feel is the modern-day need for postal service. The mail that we're moving, only 10% of it. So you want to say?",
+    "bio": "The Postmaster General appointed on June 16, 2020. Previously [target] had been a political donor, CEO of a logistics company for thirty years, and recently was the President of a global strategies firm. [target] sparked controversy after being accused of interfering with postal operations during an election period. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So the unfortunate consequence of the decision to run the trucks on time, you know, number one, mail wasn't getting on the trucks, but number two, this is when the story really took root, which was there was election meddling happening. And so the, I have to ask you, as this intensified, and then it got stronger as decisions were made around taking out collection boxes and sorting machines, were those decisions that had anything to do with pressure you were receiving from the administration at the time asking you, to put your thumb on the scale of this election?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so first you know just in general from a personality standpoint i don't actually"
+      },
+      {
+        "speaker": "[target]",
+        "text": "inaccurate pressure so"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to me when I asked for it last month and it wasn't provided when we asked for it last week."
+      }
+    ],
+    "speakername": "Louis DeJoy",
+    "ground_truth": "direct my staff to do anything with regard there now you've been briefed many times so and you said one of",
+    "bio": "The Postmaster General appointed on June 16, 2020. Previously [target] had been a major political donor, CEO of a logistics company for thirty years, and recently was the President of a global strategies firm. [target] sparked controversy after being accused of sabotaging the postal service in order to meddle with the election in favor of the administration. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'll plan as to how the mail will be transported."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "see how it would impact regional veterans. That's actually unacceptable to me as well. Again, ask this information over a month ago."
+      },
+      {
+        "speaker": "[target]",
+        "text": "in the region. The region. It's"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The region, sir. Please say it correctly."
+      }
+    ],
+    "speakername": "Louis DeJoy",
+    "ground_truth": "If a veteran lives at a delivery point, our intention is to give them their mail in a timely service that we have in terms of staff.",
+    "bio": "The Postmaster General appointed on June 16, 2020. Previously the individual had been a political donor, CEO of a logistics company for thirty years, and recently was the President of a global strategies firm. The individual sparked controversy after being accused of affecting postal service operations during an election period. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I would give myself an A."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "OK, well, I vigorously disagree with that assessment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I knew you would."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I would certainly give you a failing grade. What immediate actions will you take to restore reliable services and communities like [location_1], [location_2] and [location_3] and [location_4] in my district?"
+      }
+    ],
+    "speakername": "Louis DeJoy",
+    "ground_truth": "Well, in terms of general actions is the same actions and efforts that I have taken since I walked in the door here four years ago to try and improve the Postal Service. If I will take my staff will take down the names of the cities you asked about and I will look into them specifically.",
+    "bio": "The Postmaster General appointed on June 16, 2020. Previously [target] had been a political donor, CEO of a logistics company for thirty years, and recently was the President of a global strategies firm. [target] sparked controversy after being accused of interfering with postal operations during an election period. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You're not meeting it now and you've refused you have not provide us the data of what you've made this assessment on"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "um i hope to see that as quickly as possible and i'd like to move on to the next question well actually i have 10 seconds i will yield and we'll wait for the second round thank you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "All the vehicles now have air conditioning, but yes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "um you know earlier it was brought up and the reason that i care so deeply about the vehicle situation is that my constituent eugene gates was brought up earlier who lost his life this was somebody who did not need extra hours of training on how to properly hydrate because this was someone who dedicated almost 40 years of his life to the post office the reality is that the working conditions were not working that's just the reality this is someone who had done this job for so long and i'm going to be honest and i know that your office has received letters from us regarding mr gates but i am concerned as my colleague mr cassar laid out that we still haven't figured out how to modernize and make sure that the working environment is going to work for our post postal employees so for instance as you are rolling out these new vehicles have you decided on a way to prioritize where these vehicles are going to go and does that overlap with the areas in which we know say experience the most extreme heat conditions such as in places like [state] have they been prioritized"
+      }
+    ],
+    "speakername": "Louis DeJoy",
+    "ground_truth": "Yeah, so we We're not filling the whole need. Right. So there is a there is a there is a process of replacement of vehicles that",
+    "bio": "The Postmaster General appointed on June 16, 2020. Previously [target] had been a major political donor, CEO of a logistics company for thirty years, and recently was the President of a global strategies firm. [target] sparked controversy after being accused of interfering with postal operations during an election period. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

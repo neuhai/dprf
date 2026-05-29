@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, look, we're all in this together, and it's critically important that we help each other out. The state's in a relatively good place right now because I implemented social distancing measures early, and residents have been complying. And so we were in a place where we could provide the much needed number of ventilators to another state, and I'm really pleased that we were able to help out."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And are these 140 ventilators the ones that the state got from the federal government earlier this week?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know, they are in our state stockpile, but we have the adequate amount of ventilators that we need for the time being, and should we ever need more, I'm hoping other states will help us out."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "get that supply on Monday because you would ask for them earlier. It wasn't like that day you needed them."
+      }
+    ],
+    "speakername": "Kate Brown",
+    "ground_truth": "uh well what's happened with the social distancing measures um we have been and state residents have done a phenomenal job complying with these social distancing measures we are reducing transmission and flattening the curve and so um right now we're in good shape obviously that can change and since as americans as human beings we're all in this together i thought it was really important um that uh i take action on behalf of the state spirit of generosity and boldness and uh it's truly our way",
+    "bio": "Born June 21, 1960, [target] is an American politician and attorney serving as the 38th governor of a western state since 2015. A member of the Democratic Party, they served three terms as the state representative from the 13th district of the state House of Representatives from 1991 to 1997, three terms as the state senator from the 21st district of the state Senate from 1997 to 2009, three terms as Majority Leader of the state Senate from 2003 to 2009, as well as two terms as Secretary of State from 2009 to 2015. They assumed the governorship upon the resignation of the previous governor in 2015. They were elected to serve out the remainder of the gubernatorial term in the special election in 2016 and were reelected to a full term in 2018. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't know, they are in our state stockpile, but we have the adequate amount of ventilators that we need for the time being, and should we ever need more, I'm hoping other states will help us out."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "get that supply on Monday because you would ask for them earlier. It wasn't like that day you needed them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh well what's happened with the social distancing measures um we have been and residents have done a phenomenal job complying with these social distancing measures we are reducing transmission and flattening the curve and so um right now we're in good shape obviously that can change and since as americans as human beings we're all in this together i thought it was really important um that uh i take action on behalf of the state spirit of generosity and boldness and uh it's truly the state way"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So we had done a story on Thursday talking about the available ICU beds and worst case scenario with the projections coming out of the research in [location] about the state, how even worst case scenario, we could sustain ICU hospitalizations. Is that still the case?"
+      }
+    ],
+    "speakername": "Kate Brown",
+    "ground_truth": "That is still the case. Again, because state residents have done such a terrific job complying with the social distancing measures we put in place. We're in pretty good shape right now in terms of hospital bed capacity. We are still facing other challenges, including access to protective equipment and to testing, testing availability around the state. So it's not like we're out of the woods. But it's critically important that we don't take our foot off the brake right now and continue to adhere to these social distancing measures. That is the only way we have of slowing transmission and flattening the curve.",
+    "bio": "The target (born June 21, 1960) is an American politician and attorney serving as the 38th governor of a western state since 2015. A member of the Democratic Party, they served three terms as the state representative from the 13th district of the state House of Representatives from 1991 to 1997, three terms as the state senator from the 21st district of the state Senate from 1997 to 2009, three terms as Majority Leader of the state Senate from 2003 to 2009, as well as two terms as state Secretary of State from 2009 to 2015. They assumed the governorship upon the resignation of the previous governor in 2015. They were elected to serve out the remainder of the gubernatorial term in the special election in 2016 and were reelected to a full term in 2018. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh well what's happened with the social distancing measures um we have been and residents have done a phenomenal job complying with these social distancing measures we are reducing transmission and flattening the curve and so um right now we're in good shape obviously that can change and since as americans as human beings we're all in this together i thought it was really important um that uh i take action on behalf of the state spirit of generosity and boldness and uh it's truly the state way"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So we had done a story on Thursday talking about the available ICU beds and worst case scenario with the projections coming out of the research in [location] about the state, how even worst case scenario, we could sustain ICU hospitalizations. Is that still the case?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That is still the case. Again, because residents have done such a terrific job complying with the social distancing measures we put in place. We're in pretty good shape right now in terms of hospital bed capacity. We are still facing other challenges, including access to protective equipment and to testing, testing availability around the state. So it's not like we're out of the woods. But it's critically important that we don't take our foot off the brake right now and continue to adhere to these social distancing measures. That is the only way we have of slowing transmission and flattening the curve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So I'm sure you're getting this question into your office every single day, but I'm looking at these new projections that are saying transmission has perhaps slowed by 50 to 70% with your early intervention and all of our social distancing. Why can't we open back up businesses, keep school closed, but let people start working again?"
+      }
+    ],
+    "speakername": "Kate Brown",
+    "ground_truth": "That's a really good question. The harsh reality is if we take our feet off the brakes too soon, you're gonna see a huge insurgence of cases. And we know this from both modeling that's happening across the country, but also if you look at historically what happened, a major magazine did a great story about the influenza epidemic in 1918. And you can look at the cities that took, that stopped social distancing and they look like a camel, right? They have a curve and then a lower and then another curve again. And we wanna make sure that doesn't happen. And so I'm relying on epidemiologists, physicians, experts, both here in the state and around the country in terms of determining how and when we will take our foot off the brake. But my priority right now is to make sure that we protect residents' lives and people's health. And that we are certainly focused on people's livelihoods as well. But our first priority, our top priority right now is ensuring the health and safety of residents.",
+    "bio": "[Target] (born June 21, 1960) is an American politician and attorney serving as the 38th governor of a western state since 2015. A member of the Democratic Party, they served three terms as the state representative from the 13th district of the state House of Representatives from 1991 to 1997, three terms as the state senator from the 21st district of the state Senate from 1997 to 2009, three terms as Majority Leader of the state Senate from 2003 to 2009, as well as two terms as Secretary of State from 2009 to 2015. They assumed the governorship upon the resignation of the previous governor in 2015. They were elected to serve out the remainder of his gubernatorial term in the special election in 2016 and were reelected to a full term in 2018. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That is still the case. Again, because residents have done such a terrific job complying with the social distancing measures we put in place. We're in pretty good shape right now in terms of hospital bed capacity. We are still facing other challenges, including access to protective equipment and to testing, testing availability around the state. So it's not like we're out of the woods. But it's critically important that we don't take our foot off the brake right now and continue to adhere to these social distancing measures. That is the only way we have of slowing transmission and flattening the curve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So I'm sure you're getting this question into your office every single day, but I'm looking at these new projections that are saying transmission has perhaps slowed by 50 to 70% with your early intervention and all of our social distancing. Why can't we open back up businesses, keep school closed, but let people start working again?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's a really good question. The harsh reality is if we take our feet off the brakes too soon, you're gonna see a huge insurgence of cases. And we know this from both modeling that's happening across the country, but also if you look at historically what happened, a major magazine did a great story about the Spanish flu in 1918. And you can look at the cities that took, that stopped social distancing and they look like a camel, right? They have a curve and then a lower and then another curve again. And we wanna make sure that doesn't happen. And so I'm relying on epidemiologists, physicians, experts, both here in the state and around the country in terms of determining how and when we will take our foot off the brake. But my priority right now is to make sure that we protect our residents' lives and people's health. And we are certainly focused on people's livelihoods as well. But our first priority, our top priority right now is ensuring the health and safety of our residents."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So even though our health care system, specifically the ICU beds, can handle the influx, we don't want to see the influx."
+      }
+    ],
+    "speakername": "Kate Brown",
+    "ground_truth": "correct and here's the other piece this is not just about hospital beds it's about preserving the health and safety of our health care workers of our home care workers of our public safety officers our first responders our firefighters and our police it's about making sure that folks in the grocery store who are getting food on the shelves for us that they all can be safe so it's about the entire system and making sure we can keep as many people healthy as possible",
+    "bio": "The target (born June 21, 1960) is an American politician and attorney serving as the 38th governor of a western state since 2015. A member of the Democratic Party, they served three terms as the state representative from the 13th district of the state House of Representatives from 1991 to 1997, three terms as the state senator from the 21st district of the state Senate from 1997 to 2009, three terms as Majority Leader of the state Senate from 2003 to 2009, as well as two terms as Secretary of State from 2009 to 2015. They assumed the governorship upon the resignation of the previous governor in 2015. They were elected to serve out the remainder of the gubernatorial term in the special election in 2016 and were reelected to a full term in 2018. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's a really good question. The harsh reality is if we take our feet off the brakes too soon, you're gonna see a huge insurgence of cases. And we know this from both modeling that's happening across the country, but also if you look at historically what happened, a major publication did a great story about the influenza epidemic in 1918. And you can look at the cities that took, that stopped social distancing and they look like a camel, right? They have a curve and then a lower and then another curve again. And we wanna make sure that doesn't happen. And so I'm relying on epidemiologists, physicians, experts, both here in the state and around the country in terms of determining how and when we will take our foot off the brake. But my priority right now is to make sure that we protect our state's lives and people's health. And that we are certainly focused on people's livelihoods as well. But our first priority, our top priority right now is ensuring the health and safety of our residents."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So even though our health care system, specifically the ICU beds, can handle the influx, we don't want to see the influx."
+      },
+      {
+        "speaker": "[target]",
+        "text": "correct and here's the other piece this is not just about hospital beds it's about preserving the health and safety of our health care workers of our home care workers of our public safety officers our first responders our firefighters and our police it's about making sure that folks in the grocery store who are getting food on the shelves for us that they all can be safe so it's about the entire system and making sure we can keep as many people healthy as possible"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "do you have any idea if not now when you could lift those restrictions I guess ease up a little bit still perhaps keep school out but open those businesses back up"
+      }
+    ],
+    "speakername": "Kate Brown",
+    "ground_truth": "so it's gonna i will just say this it's gonna happen incrementally and um we are probably a ways away from that happening um a senior health advisor gave out three criteria one was that um we are uh seeing a reduced need for hospital beds a number two that you haven't seen any deaths in um 10 days to two weeks and number three that you have testing capacity to continue to test and do surveillance in communities around the state essentially do contact tracing determining if there is an outbreak how it spread who it spread to all those pieces and you just know from the last piece the testing capacity we are several days probably weeks away from having that ability to do testing surveillance so we're going to have to look for other measures and that's one of the things that my team and i are working on",
+    "bio": "The speaker (born June 21, 1960) is an American politician and attorney serving as the 38th governor of a western U.S. state since 2015. A member of the Democratic Party, they served three terms as the state representative from the 13th district of the state House of Representatives from 1991 to 1997, three terms as the state senator from the 21st district of the state Senate from 1997 to 2009, three terms as Majority Leader of the state Senate from 2003 to 2009, as well as two terms as Secretary of State from 2009 to 2015. They assumed the governorship upon the resignation of the previous governor in 2015. They were elected to serve out the remainder of the gubernatorial term in the special election in 2016 and were reelected to a full term in 2018. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

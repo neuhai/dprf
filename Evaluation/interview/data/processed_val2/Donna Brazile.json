@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I would say to Secretary Clinton, who I respect and admire, that the memorandum of agreement that was signed between the national committee staff and her staff kept me from doing my job. It kept me as an officer of the committee from doing what I believe was necessary not only to help her win, but for members up and down the ticket. The decision not to put resources in states that were critical allowed the opposition to break through. The firewall wasn't so strong if the opponent could come in there and take, you know, 78,000 votes and become president. And I believe that foreign actors, with the campaign of disinformation and disruption, sought to discredit the candidate. And my job was to try to defend the candidate. But when you're chair of the party and you cannot even spend the money that you raise because of this memorandum, which I call cancer, I could not help the campaign."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One of the most explosive revelations in your book deals with Secretary Clinton's collapse following the memorial ceremony last year. And you said you were so concerned about her health that you actually at one point considered replacing Clinton and Tim Kaine and instead nominate Joe Biden and Cory Booker. How serious were you about that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "When the video of her falling down or stumbling went viral, there was a story that appeared in a political publication from a former chair of the committee, Mr. Donald Fowler Sr., who said that the committee should be prepared. And as chair of the party, my job was to confer with other leaders. We never had to take those extraordinary steps. But what I did do was tamp down the rumors and go out on television and say that she's going to return to the campaign."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "campaign trail. As you know, many insiders, more than 100 former Clinton aides, wrote an open letter criticizing that very point in your book, that you would even contemplate something like that. Shocks them."
+      }
+    ],
+    "speakername": "Donna Brazile",
+    "ground_truth": "You know, maybe they should read the book before they read excerpts and react. Anyone who knows me knows that I care deeply about our country, and I also write in the book that I knew that Secretary Clinton would be able to go on. I had to make sure, because she's the nominee of the committee, not reverse. I didn't report to the campaign. I was the chair of the committee, which nominated her to be our nominee, and I supported the campaign 100%.",
+    "bio": "The speaker is an American political strategist, campaign manager, political analyst, author, and news contributor. They were formerly a major news network contributor until their resignation in October 2016. They are a member of their political party, briefly serving as the interim chair of the national committee in spring 2011, and again from July 2016 to February 2017. They were the first African American woman to direct a major presidential campaign, acting as campaign manager for a presidential candidate in 2000. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "When the video of her falling down or stumbling went viral, there was a story that appeared in media from a former chair of the party organization, who said that the party should be prepared. And as chair of the party, my job was to confer with other leaders. We never had to take those extraordinary steps. But what I did do was tamp down the rumors and go out on television and say that she's going to return to the campaign."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "campaign trail. As you know, many insiders, more than 100 former aides, wrote an open letter criticizing that very point in your book, that you would even contemplate something like that. Shocks them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, maybe they should read the book before they read excerpts and react. Anyone who knows me knows that I care deeply about our country, and I also write in the book that I knew that she would be able to go on. I had to make sure, because she's the nominee of the party organization, not reverse. I didn't report to the campaign. I was the chair of the party organization, which nominated her to be our nominee, and I supported the campaign 100%."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You yourself have been accused in the past of giving special advantage at one point. The hacked emails that you have talked about show that when you were a media analyst, you tipped off the campaign on questions in debates. Why did you do that? As a"
+      }
+    ],
+    "speakername": "Donna Brazile",
+    "ground_truth": "Media contributor, not an analyst. I did not have access to debate questions. What I did was I worked to expand the number of debates and town hall meetings and forums. During the winter of 2015, 2016, the party organization came under withering attacks for only scheduling six debates. And my job as the vice chair of the party was to advocate for additional debates and town hall forums. My media role was to make sure that my colleagues had access to those additional town halls and debates. And then my role back as vice chair of the party was to ensure that the candidates understood that we would not just expand the debates in town halls, but we would also have diverse moderators to ensure that questions involving the death penalty, questions involving mass incarceration, questions involving the water crisis. I brought it to attention. What I wrote in a book is that I could not find any of the questions that they said I gave to the campaigns because my party account was hacked. And then it was, I lost all my emails. We don't, we didn't, we couldn't verify if these emails were accurate or not accurate.",
+    "bio": "The target is an American political strategist, campaign manager, political analyst, author, and media contributor. They were formerly a media network contributor until their resignation in October 2016. They are a member of the major political party, briefly serving as the interim chair of the national party committee in spring 2011, and again from July 2016 to February 2017.\n\nThey were the first African American woman to direct a major presidential campaign, acting as campaign manager for a presidential candidate in 2000. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You yourself have been accused in the past of giving special advantage to a presidential candidate at one point. The hacked emails that you have talked about show that when you were a news network analyst, you tipped off the campaign on questions in Democratic debates. Why did you do that? As a"
+      },
+      {
+        "speaker": "[target]",
+        "text": "news network contributor, not an analyst. I did not have access to debate questions. What I did was I worked to expand the number of debates and town hall meetings and forums. During the winter of 2015, 2016, the party came under withering attacks for only scheduling six debates. And my job as the vice chair of the party was to advocate for additional debates and town hall forums. My network hat was to make sure that my colleagues had access to those additional town halls and debates. And then my role back as vice chair of the party was to ensure that the candidates understood that we would not just expand the debates in town halls, but we would also have diverse moderators to ensure that questions involving the death penalty, questions involving mass incarceration, questions involving the water crisis. I brought it to attention. What I wrote in a book is that I could not find any of the questions that they said I gave to any campaign because my party account was hacked. And then it was, I lost all my emails. We don't, we didn't, we couldn't verify if these emails were accurate or not accurate."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But then why did you write an essay for a major magazine, and these were your words. You said sending those emails was a mistake I will forever regret. I did. What kind of emails were you talking about? It sounded like an admission that you had sent the questions to the campaign."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're working."
+      }
+    ],
+    "speakername": "Donna Brazile",
+    "ground_truth": "forever regret. What kind of emails were you talking about? It sounded like an admission that you had sent the questions to the campaign. No, it's an admission that I sent emails to both campaigns, but I could not find them. And I said, it's one that I would regret because, and not being able to find them so I could verify to the American people and to my colleagues on the party that I was fair to both campaigns, I could not find those emails. At the same time, another candidate's campaign went public when this was, these revelations came out. And you know what they said? They said [target] was fair to us too. I was fair to everybody. In fact, I was fair to Republicans because often when I would get topics about what we would be discussing, I would call a spokesperson. This was before his role in the administration. I was trying to say, we're about to discuss this. What, what do you think? That, that's how, essentially, that's how I do my job as a political commentator, not an analyst. What were you hoping to achieve by writing this book? Why did you write it?",
+    "bio": "The target (born December 15, 1959) is an American political strategist, campaign manager, political analyst, author, and news network contributor. They were formerly a news network contributor until their resignation in October 2016. They are a member of a major political party, briefly serving as the interim chair of the national committee in spring 2011, and again from July 2016 to February 2017.\n\nThey were the first African American woman to direct a major presidential campaign, acting as campaign manager for a presidential candidate in 2000. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, thank you, John. It's great to be back on this show. It's been a while and it's good to see you always. If you don't mind, let me just start by saying 53 years ago today, Dr. Cain gave a historic speech not far from here on the National Mall where he raised our consciousness to talk about ways in which we can come together as Americans. And so listening to Kellyanne, I just wanted to remind our friends out there that this is a country that has made so many remarkable strides toward a more perfect union. And I'm proud to be the interim chair of the Democratic Party. We have a great election cycle this year. There's no question that the American people are looking for a candidate who will be able to, what I call, to continue to make progress, whether it's on health care, whether it's job creation, and of course, keeping the country safe. And so I'm very proud to be here. I'm not worried about the polls today because, as you know, the polls today reflect pretty much where the mood is, the mood of the country. A lot of voters are still undecided. They're making up their minds. But Hillary Clinton and Tim Cain, over the period of the last three weeks, they've been able to expand their performances, not just in the so-called battleground states, but we're looking now at opportunities in Arizona and Georgia and elsewhere to continue to spread this democratic message of inclusion, of stronger job, of better jobs. I think we're going to have a terrific year this year."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But what Al Hunt is getting at is something we hear about a lot, which is Hillary Clinton should be doing better. And the reason she isn't is in the news in a number of different ways this week. And the first is the emails that were disclosed this week of relationships between the Clinton Foundation and the Clinton State Department. The Republicans call it pay to play. Why are they wrong about that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, the Republicans call, when Republicans meet with their donors, with their supporters, their activists, they call it a meeting. When Democrats do that, they call it a conflict. It's not pay to play unless somebody, you know, actually gave someone 50 cents to say, I need a meeting. No. In this great country of ours, when you meet with constituents, when you meet with heads of states, when you meet with people like Bono, who I love, you meet with them because they want to bring a matter to your attention. That's not pay to play. It's called that when Democrats do it. It's not called that when Republicans do it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But what we do see in these emails is a kind of easy relationship between the foundation and the State Department. Somebody from the foundation calls and says, we've got somebody who they say is a friend of ours. And they're not saying that because they they gave him a gift basket at Christmas. They're saying it because they're a big donor. They're a friend of ours. Can you have this meeting? Sometimes the meeting happened, sometimes it didn't. But but there's a very easy relationship. Is that just the way Washington works? I don't want I don't want to."
+      }
+    ],
+    "speakername": "Donna Brazile",
+    "ground_truth": "I don't want to say that's how Washington works. I didn't work for the foundation, but let me just say that I'm a very, very strong supporter of the Clinton Foundation. I remember back in 2001 and 2002 when Bill Clinton set up shop in Harlem in New York to begin to build a foundation that would help not just poor communities that are struggling, but developing countries with HIV, AIDS, with malaria and other disgusting diseases. So this is a foundation that has done remarkable work. Even Kellyanne Conway has said that Republicans have supported the Clinton Foundation. So whether or not I think they had a bright purple, green or blue line between the foundation and the State Department, there's no question that when someone knows someone and says, look, I have a friend, do you want to set up this meeting? If you look at all of the so-called chain, and I'm almost at the point where I'm exhausted reading internal e-mails that have been leaked or somehow received through the transom, when you look at it, you know, it's a lot of work. Even in the case of Bono, who I mentioned, who I love, he had a request in for his music to be streamed through NASA somewhere, and they rejected it. So there's no there, there. Of course, we're going to read these e-mails. We have a lot of interest in the gossip. Sometimes we don't have a lot of interest in the crime. And in the case of the Democratic Party, I have to mention this because I'm a little bit familiar. The Democratic Party was the victim of a cyber, a cyber attack by a foreign country. And once we were attacked, the media became obsessed with what was in the e-mails and not the crime itself. In fact, the person who's peddling personal information of individuals involved in this spurious act, he's able to come on television, I'm talking about Julian Assange, and say, I got more stuff to leak. I have more material to give out to the media. The media is focused on what I call the internal gossip and not the crime itself. And I'm worried about cyber security and the threat that it poses to our democracy and our country itself.",
+    "bio": "Donna Lease Brazile (/brÉËzÉªl/; born December 15, 1959)[2] is an American political strategist, campaign manager, political analyst, author, and Fox News contributor.[3] She was formerly a CNN contributor until her resignation in October 2016. She is a member of the Democratic Party, briefly serving as the interim chair of the Democratic National Committee in spring 2011, and again from July 2016 to February 2017.\\n\\nShe was the first African American woman to direct a major presidential campaign, acting as campaign manager for Al Gore in 2000. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, the Republicans call, when Republicans meet with their donors, with their supporters, their activists, they call it a meeting. When Democrats do that, they call it a conflict. It's not pay to play unless somebody, you know, actually gave someone 50 cents to say, I need a meeting. No. In this great country of ours, when you meet with constituents, when you meet with heads of states, when you meet with people like Bono, who I love, you meet with them because they want to bring a matter to your attention. That's not pay to play. It's called that when Democrats do it. It's not called that when Republicans do it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But what we do see in these emails is a kind of easy relationship between the foundation and the State Department. Somebody from the foundation calls and says, we've got somebody who they say is a friend of ours. And they're not saying that because they they gave him a gift basket at Christmas. They're saying it because they're a big donor. They're a friend of ours. Can you have this meeting? Sometimes the meeting happened, sometimes it didn't. But but there's a very easy relationship. Is that just the way Washington works? I don't want I don't want to."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't want to say that's how Washington works. I didn't work for the foundation, but let me just say that I'm a very, very strong supporter of the Clinton Foundation. I remember back in 2001 and 2002 when Bill Clinton set up shop in Harlem in New York to begin to build a foundation that would help not just poor communities that are struggling, but developing countries with HIV, AIDS, with malaria and other disgusting diseases. So this is a foundation that has done remarkable work. Even Kellyanne Conway has said that Republicans have supported the Clinton Foundation. So whether or not I think they had a bright purple, green or blue line between the foundation and the State Department, there's no question that when someone knows someone and says, look, I have a friend, do you want to set up this meeting? If you look at all of the so-called chain, and I'm almost at the point where I'm exhausted reading internal e-mails that have been leaked or somehow received through the transom, when you look at it, you know, it's a lot of work. Even in the case of Bono, who I mentioned, who I love, he had a request in for his music to be streamed through NASA somewhere, and they rejected it. So there's no there, there. Of course, we're going to read these e-mails. We have a lot of interest in the gossip. Sometimes we don't have a lot of interest in the crime. And in the case of the Democratic Party, I have to mention this because I'm a little bit familiar. The Democratic Party was the victim of a cyber, a cyber attack by a foreign country. And once we were attacked, the media became obsessed with what was in the e-mails and not the crime itself. In fact, the person who's peddling personal information of individuals involved in this spurious act, he's able to come on television, I'm talking about Julian Assange, and say, I got more stuff to leak. I have more material to give out to the media. The media is focused on what I call the internal gossip and not the crime itself. And I'm worried about cyber security and the threat that it poses to our democracy and our country itself."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But they're concerned about the emails because the emails were in a private server. They weren't, you couldn't get through them the normal way. So this isn't just some kind of random."
+      }
+    ],
+    "speakername": "Donna Brazile",
+    "ground_truth": "And again, going back, because there are so many lines that you cross when you talk about emails, there's no question that whether the State Department emails that were released, the State Department emails that were leaked, the State Department emails that will come out, however you draw the conclusion, if there's no there there, if because you were able to get in and see someone by making a request, we saw Nobel Prize winners wanting to meet with the Secretary of State, we saw heads of states, and there was a lot of people who wanted to meet. The Secretary of State, the former Secretary of State, met with literally thousands, tens of thousands, hundreds of thousands of individuals.",
+    "bio": "Donna Lease Brazile (/brÉËzÉªl/; born December 15, 1959)[2] is an American political strategist, campaign manager, political analyst, author, and Fox News contributor.[3] She was formerly a CNN contributor until her resignation in October 2016. She is a member of the Democratic Party, briefly serving as the interim chair of the Democratic National Committee in spring 2011, and again from July 2016 to February 2017.\\n\\nShe was the first African American woman to direct a major presidential campaign, acting as campaign manager for Al Gore in 2000. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

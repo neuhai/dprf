@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Bye."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean,"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "you"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Okay, so it depends on the company, right? The best companies, you don't spend any money on advertising at all because your customers are out there doing the selling for you. If that doesn't happen, then you want to start small and experiment to see what works. Because if you go out there and spend all your money immediately on advertising, then all of a sudden, if it doesn't work, you're out of business."
+      }
+    ],
+    "speakername": "Lori Greiner",
+    "ground_truth": "And you don't have to spend money on advertising anymore. Social media is the best invention for advertising ever. It's free, you can do it on different platforms, you can do it on all platforms. All it takes is a little bit of time, your own creativity, and a cell phone. That's it. So I would spend nothing in the beginning.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "INTO SCENES WITH YOUR WIFE."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's Fox Hill TV family here."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "that you guys are so happy with. You know, you had Mark, you had Barbara, you had Robert, they all did Dancing with the Stars. Are you next?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, come on [target], come on [target]. I don't know, I don't know, little known fact, I danced for years, I even taught ballet. Oh, come on. Butt, butt, butt."
+      }
+    ],
+    "speakername": "Lori Greiner",
+    "ground_truth": "But I had toe surgery, I had toe surgery, and so I just, I don't know if it'll work. I don't need my toes. All right, Mark and I will dance together, and he'll just lift me, carry me the whole time.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And that is the thing, it's the American dream. You know, everybody loves the show from all ages. I think it's so relatable. You know, what is sort of your advice to people who are watching, who are entrepreneurs, you know, who want to still be, want to be successful, but."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There's a difference between the entrepreneurs and the entrepreneurs. How do you know who's genuinely going to succeed? Like, how can you tell?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure. There are certain characteristics that people have. I mean, to me, an entrepreneur is somebody who will do whatever it takes. They're driven. They are A-type personalities. They..."
+      }
+    ],
+    "speakername": "Lori Greiner",
+    "ground_truth": "it's like they don't know the word no. And that's always been my mantra, I know no no's, just how can I? So when I see that person, I know that no matter what, even if they have to pivot, you know, which is something that happens, maybe this isn't the best idea, but something else is and you're gonna change it, they're still gonna make it because they have what it takes to be a successful entrepreneur.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There's a difference between the entrepreneurs and the entrepreneurs. How do you know who's genuinely going to succeed? Like, how can you tell?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sure. There are certain characteristics that people have. I mean, to me, an entrepreneur is somebody who will do whatever it takes. They're driven. They are A-type personalities. They..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's like they don't know the word no. And that's always been my mantra, I know no no's, just how can I? So when I see that person, I know that no matter what, even if they have to pivot, you know, which is something that happens, maybe this isn't the best idea, but something else is and you're gonna change it, they're still gonna make it because they have what it takes to be a successful entrepreneur."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And when you started out, did you have someone that was like your mentor, that you looked up to? No. Anybody influential?"
+      }
+    ],
+    "speakername": "Lori Greiner",
+    "ground_truth": "No. What was really interesting is, no, I really didn't. I just had an idea. I was always thinking of things. I was always creative and had no plan in which to make products or be an inventor. I didn't even really like business. Really? I really didn't. That was boring to me. But I had an idea and I had a dream and I thought people need this product. And I got the bug. And once you get the bug and you realize you can do it, then you just keep doing more and more and more. It's infectious. Yeah, it is.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And when you started out, did you have someone that was like your mentor, that you looked up to? No. Anybody influential?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No. What was really interesting is, no, I really didn't. I just had an idea. I was always thinking of things. I was always creative and had no plan in which to make products or be an inventor. I didn't even really like business. Really? I really didn't. That was boring to me. But I had an idea and I had a dream and I thought people need this product. And I got the bug. And once you get the bug and you realize you can do it, then you just keep doing more and more and more. It's infectious. Yeah, it is."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "and you don't really want to stop it's like you there's never really like an you think there's an end goal but then you always know there's something more to be done"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Or buyers at stores. For me it was the TV shopping world. Queen of [retail network]. Yeah, Queen of [retail network]."
+      }
+    ],
+    "speakername": "Lori Greiner",
+    "ground_truth": "I once you have a successful product and women for me that was the audience at the time women loved it then you want to keep pleasing you want to keep creating things that make them happy that make their lives better and you get personal gratification but then you also know that you're helping other people in their lives so that for me was quite infectious I just wanted to keep doing and making more and it became easier and easier because I knew what I was doing",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

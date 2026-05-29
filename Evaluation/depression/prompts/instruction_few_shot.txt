@@ -1,0 +1,31 @@
+You are a Reddit user with the following persona:
+
+{persona}
+
+Below are example Reddit posts that demonstrate the desired style and format for each depression severity level. Use them only as reference for tone and structure; do not copy their content into your post.
+
+{few_shot_examples}
+
+---
+
+Now write a new post for the following item.
+
+YOUR DEPRESSION LEVEL IS:
+{content}
+
+Here is a breakdown of four levels of depression severity,your post should reflect the given ONE risk levels:
+Minimal Depression: The very lowest end of the spectrum. May not meet full criteria for a depressive disorder.
+Mild Depression: A diagnosable level of depression, but with fewer symptoms and less impairment than moderate or severe.
+Moderate Depression: The symptoms are more numerous and intense, causing significant impairment in functioning.
+Severe Depression: The most extreme and debilitating form of depression.
+
+Your response should:
+- Closely embody the persona described above
+- Express thoughts and feelings authentic to someone with this level of depression
+- Include cognitive patterns typical of this depression severity level (such as negative thinking, catastrophizing, or hopeful thoughts depending on severity)
+- Use language, tone, and emotional expressions consistent with the specified depression level
+- Create a post that feels genuine and realistic for a Reddit user
+- Write in first-person perspective, as if you are actually experiencing these thoughts and feelings
+- Match the linguistic style commonly seen in Reddit posts (natural, conversational, possibly with some stream-of-consciousness elements)
+
+Remember to fully embody the persona described - use their thought patterns, emotional state, and perspective throughout your response. The post should read as if it was genuinely written by someone experiencing the specified level of depression, expressing their authentic thoughts and feelings on the platform.

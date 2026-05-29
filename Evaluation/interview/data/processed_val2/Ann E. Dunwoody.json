@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you. It's great to be here with you."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "When we talk about women and the rise in the military general, what is the one thing that really needs to get through, that the general public needs to understand about how difficult it is and how tough it is to make this climb?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, my book is more about leadership than gender. And I say this to all men and women, and anyone in any profession. You know, if you get dissuaded from something you really believe in, something you think you can do, something you're very passionate about, they win. If people derail you from something you wanna do, they win. So my message is, if you really believe it, if you really wanna do something, then you drive on, because you can do it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Then how do you instill that leadership in people though? Because we are told every single day that we talk here, when we talk about the political system these days especially, we keep hearing that there's a lack of leadership. So then knowing full well that that's what the military needs to train, how do you get that type of training not only through to people trying to rise in the military, but trying to rise in politics as well in business? It's where we desperately need leadership."
+      }
+    ],
+    "speakername": "Ann E. Dunwoody",
+    "ground_truth": "I think it all starts, for me, at least in my family. You know, mom and dad, values-based family. Dad was a decorated veteran himself, who I respected, admired, and looked up to. My mother, a religious person, raised six kids on her own, while dad was out fighting three conflicts - the second world war, the conflict in East Asia, and the Southeast Asian conflict. And so coming from a values-based family with kids, what I realized is when I joined the military, which was something I never anticipated doing, that I was really joining a values-based organization, one where you take an oath, one where you are subject to the military justice code, which governs your behavior both in uniform and out of uniform, and one which is full of standards. How you wear your hair, how you wear your uniform, how you dress, how many push-ups you can do, how fast can you run. So an organization that's values-based, standards-based. And what I found coming in through the military is I expected, as a woman, to have to exceed those standards to prove myself. To get credibility. But the reality is that all the good leaders that I served with exceeded those standards. They lived by higher standards.",
+    "bio": "The speaker is a retired military officer. They were the first woman in the country's military and uniformed service history to achieve a four-star officer rank, receiving their fourth star in late 2008. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, my book is more about leadership than gender. And I say this to all men and women, and anyone in any profession. You know, if you get dissuaded from something you really believe in, something you think you can do, something you're very passionate about, they win. If people derail you from something you wanna do, they win. So my message is, if you really believe it, if you really wanna do something, then you drive on, because you can do it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Then how do you instill that leadership in people though? Because we are told every single day that we talk here, when we talk about the national political system these days especially, we keep hearing that there's a lack of leadership. So then knowing full well that that's what the military needs to train, how do you get that type of training not only through to people trying to rise in the military, but trying to rise in politics as well in business? It's where we desperately need leadership."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it all starts, for me, at least in my family. You know, mom and dad, values-based family. Dad was a war hero himself, who I respected, admired, and looked up to. My mother, a devout Catholic, raised six kids on her own, while dad was out fighting three wars, major conflicts, and another conflict. And so coming from a values-based family with kids, what I realized is when I joined the military, which was something I never anticipated doing, that I was really joining a values-based organization, one where you take an oath, one where you are subject to the military code of justice, which governs your behavior both in uniform and out of uniform, and one which is full of standards. How you wear your hair, how you wear your uniform, how you dress, how many push-ups you can do, how fast can you run. So an organization that's values-based, standards-based. And what I found coming in through the military is I expected, as a woman, to have to exceed those standards to prove myself. To get credibility. But the reality is that all the good leaders that I served with exceeded those standards. They lived by higher standards."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Let's talk about them meeting some standards here, because just last week the military branch announced the scheduled end of their 18-month experiment to vet females through the infantry officer course. Zero of 29 women made it past the three-month course. And there were those people saying, General, that simply put, physically speaking, there are things that men can do, things women cannot do. So there needs to be a reevaluation of those standards for women in the military. Do you agree or disagree with that?"
+      }
+    ],
+    "speakername": "Ann E. Dunwoody",
+    "ground_truth": "I do not agree with a re-evaluation for women. Here's what I... I can't speak for the military branch. I'm a... Sure.",
+    "bio": "The speaker is a retired general of the national military. They were the first woman in the country's military and uniformed service history to achieve a four-star officer rank, receiving their fourth star in late 2008. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it all starts, for me, at least in my family. You know, mom and dad, values-based family. Dad was a war hero himself, who I respected, admired, and looked up to. My mother, a devout Catholic, raised six kids on her own, while dad was out fighting three wars, a global conflict, and two other major conflicts. And so coming from a values-based family with kids, what I realized is when I joined the military, which was something I never anticipated doing, that I was really joining a values-based organization, one where you take an oath, one where you are subject to the military justice code, which governs your behavior both in uniform and out of uniform, and one which is full of standards. How you wear your hair, how you wear your uniform, how you dress, how many push-ups you can do, how fast can you run. So an organization that's values-based, standards-based. And what I found coming in through the military is I expected, as a woman, to have to exceed those standards to prove myself. To get credibility. But the reality is that all the good leaders that I served with exceeded those standards. They lived by higher standards."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Let's talk about them meeting some standards here, because just last week the military branch announced the scheduled end of their 18-month experiment to vet females through the infantry officer course. Zero of 29 women made it past the three-month course. And there were those people saying, General, that simply put, physically speaking, there are things that men can do, things women cannot do. So there needs to be a reevaluation of those standards for women in the military. Do you agree or disagree with that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do not agree with a re-evaluation for women. Here's what I... I can't speak for that military branch. I'm a... Sure."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What about women in combat roles? Because it happened almost unofficially. They were forward-based, forward-deployed, and as front lines disappeared, they became, you know, they were in combat, whether in the air or not."
+      }
+    ],
+    "speakername": "Ann E. Dunwoody",
+    "ground_truth": "That's certainly been my experience, that you can make believers out of non-believers if you exceed the standard.",
+    "bio": "The speaker is a retired military officer who became the first woman in the nation's military and uniformed service history to achieve a four-star officer rank in 2008. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I do not agree with a re-evaluation for women. Here's what I... I can't speak for the military branch. I'm a... Sure."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What about women in combat roles? Because it happened almost unofficially. They were forward-based, forward-deployed, and as front lines disappeared, they became, you know, they were in combat, whether in the air or not."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's certainly been my experience, that you can make believers out of non-believers if you exceed the standard."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So let's talk about that, because in the book you say three things that you need to know to succeed are recognize your advocates, your patronizers, and your detractors. What does that mean?"
+      }
+    ],
+    "speakername": "Ann E. Dunwoody",
+    "ground_truth": "Well, we've all worked for all kinds of leaders, and so have I. And the advocates, fortunately for me, I had so many leaders, mentors, and coaches that were advocates. And those are people that believe in you, look out for you, help you during your way through the military. The other two categories, which are much smaller in my life, I call them patronizers. And those are the people that say, hey, great work. And then behind your back, you're saying, you know, she's not okay or something. So you don't know. And then the distractors are just people that don't like you. This is a man's world. You don't belong in it. What do you do about those last two categories? What I tell people, what I found, is stay on the moral high ground. Don't lower your standards. Don't succumb to name-calling or innuendos, which is briefs well, but it's hard to do because when someone's mean to you, the first thing you want to do is fight back. And I found by staying on the moral high ground, by being fair, by being professional, and by exceeding the standards, you could make some believers out of you. Did you get...",
+    "bio": "The subject is a retired general of the national military. They were the first woman in the country's military and uniformed service history to achieve a four-star officer rank, receiving their fourth star in November 2008. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we've all worked for all kinds of leaders, and so have I. And the advocates, fortunately for me, I had so many leaders, mentors, and coaches that were advocates. And those are people that believe in you, look out for you, help you during your way through the military. The other two categories, which are much smaller in my life, I call them patronizers. And those are the people that say, hey, great work. And then behind your back, you're saying, you know, she's not okay or something. So you don't know. And then the distractors are just people that don't like you. This is a man's world. You don't belong in it. What do you do about those last two categories? What I tell people, what I found, is stay on the moral high ground. Don't lower your standards. Don't succumb to name-calling or innuendos, which is briefs well, but it's hard to do because when someone's mean to you, the first thing you want to do is fight back. And I found by staying on the moral high ground, by being fair, by being professional, and by exceeding the standards, you could make some believers out of you. Did you get..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "through special forces."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because they're just not sincere, and it's hard to deal with that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "when you look around at how women in the military are doing,"
+      }
+    ],
+    "speakername": "Ann E. Dunwoody",
+    "ground_truth": "Where are they? I am so proud. I mean, my experience is the doors continue to open for me from the beginning to the end. And not without roadblocks and bumps along the way. But I look back now, and we just had three females graduate from military training school. I mean, I can't even fathom doing something like that, nor would I want to do something like that. But jumping out of airplanes was cool. And they did it to standard. They exceeded the standards. And now we have women.",
+    "bio": "The speaker is a retired general of the national military. They were the first woman in the country's military and uniformed service history to achieve a four-star officer rank, receiving their fourth star in late 2008. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The team members from our nation have rotated, but the local members of the team have been with me for seven months now, and they take very, very good care of me."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "He lives and works in this underground cloister. During the war, he told me, he rarely saw daylight. His most intense work was done at the end of this hallway, where security was at its tightest."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is the war and this is the war room. This is where it all happened."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "This is the first time [target] has allowed a camera crew to tour his war room."
+      }
+    ],
+    "speakername": "General Norman Schwarzkopf",
+    "ground_truth": "I would sit in that chair right there. Bob is the chief of staff. Bert is the director of operations. And then what you have is back all around the back wall over there, all the various staff directorates who would be here, and there would be a representative from all of them here at any given time. What you have up here is we would generally have three or four different maps. So one map is the ground operations. What's this? This is the location of all the friendly forces. So we'd have the location of all the friendly troops.",
+    "bio": "The subject (August 22, 1934 - December 27, 2012) was a military General who led all coalition forces in a major international conflict. He was called on to respond to a regional invasion in 1990. Initially tasked with defending an allied nation from aggression, his command eventually grew to an international force of over 750,000 troops. After diplomatic relations broke down, he planned and led a major military operation, an extended air campaign followed by a highly-successful 100-hour ground offensive, which defeated the opposing army and liberated the invaded territory in early 1991. Nicknamed \"The Bear\" for his hard driving, aggressive military approach, he showed his soft side by helping recover the grizzly bear from the endangered species list. The speaker's MBTI type is ENTJ",
+    "name": "General Norman Schwarzkopf",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "He lives and works in this underground facility. During the conflict, he told me, he rarely saw daylight. His most intense work was done at the end of this hallway, where security was at its tightest."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is the command center. This is where it all happened."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "This is the first time [target] has allowed a camera crew to tour his command room."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I would sit in that chair right there. Bob is the chief of staff. Bert is the director of operations. And then what you have is back all around the back wall over there, all the various staff directorates who would be here, and there would be a representative from all of them here at any given time. What you have up here is we would generally have three or four different maps. So one map is the ground operations. What's this? This is the location of all the friendly forces. So we'd have the location of all the friendly troops."
+      }
+    ],
+    "speakername": "General Norman Schwarzkopf",
+    "ground_truth": "where they were located. Over here would generally be the intelligence map where we'd have the location of all the enemy forces. And this constantly changes. You sit here in front of you, and as the situation changes, it's posted. Direct line for the president? Direct line? Well, the direct line, normally for [senior military official], but I can talk directly to [senior military official], direct line to [senior defense official], or for that matter, direct line to the [government headquarters] if I need to.",
+    "bio": "A distinguished military leader (August 22, 1934 – December 27, 2012) was a senior military officer who led all coalition forces in a major Middle Eastern conflict. He was called on to respond to a regional invasion in 1990. Initially tasked with defending an allied nation from aggression, his command eventually grew to an international force of over 750,000 troops. After diplomatic relations broke down, he planned and led a major military operation, an extended air campaign followed by a highly-successful 100-hour ground offensive, which defeated the opposing army and liberated the invaded nation in early 1991. Known for his hard driving, aggressive military approach, he also showed his humanitarian side by helping wildlife conservation efforts. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I should ask you, is that the way you sound?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Be careful how you answer that, Bert."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Remember, you could be over here a long time, Bert, right?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] not only talks tough he is tough as nails say those who work with him but i discovered a vulnerable side too to this veteran soldier when we sat down to talk my very first question evoked an emotional response general you have two daughters and a young son what did you say to your 13 year old son when you left to come here and begin a war"
+      }
+    ],
+    "speakername": "General Norman Schwarzkopf",
+    "ground_truth": "I got the family together. They didn't have any idea I'd be leaving as soon as I would. As a matter of fact, I think they really thought, because the command center has been run from [location], I think that in their minds, they thought that I was going to be running this whole thing from [location]. So they didn't really know when I was going to be leaving. But a couple of days before it was time to leave, I got the whole family together. And I just told them what was going to happen. I told them it was my job, that I was proud to be doing it. I wanted them to understand why. And I wanted them to be proud of me for doing it. And that was it.",
+    "bio": "A distinguished military leader (August 22, 1934 - December 27, 2012) was a senior military officer who led all coalition forces in a major Middle Eastern conflict. He was called on to respond to a regional invasion in 1990. Initially tasked with defending an allied nation from aggression, his command eventually grew to an international force of over 750,000 troops. After diplomatic relations broke down, he planned and led a major military operation, an extended air campaign followed by a highly-successful 100-hour ground offensive, which defeated the opposing army and liberated the invaded nation in early 1991. Nicknamed \"The Bear\" for his hard driving, aggressive military approach, he showed his soft side by helping recover the grizzly bear from the endangered species list. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I got the family together. They didn't have any idea I'd be leaving as soon as I would. As a matter of fact, I think they really thought, because Command Center has been run from [location], I think that in their minds, they thought that I was going to be running this whole thing from [location]. So they didn't really know when I was going to be leaving. But a couple of days before it was time to leave, I got the whole family together. And I just told them what was going to happen. I told them it was my job, that I was proud to be doing it. I wanted them to understand why. And I wanted them to be proud of me for doing it. And that was it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You miss them a lot, I can tell."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I do."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Take me back the first night, the first night that our bombs were sent to [location]. Where were you? What were you doing? What were you feeling?"
+      }
+    ],
+    "speakername": "General Norman Schwarzkopf",
+    "ground_truth": "we of course knew what time the first shots would be fired 20 minutes to three in the morning um knew exactly who was going to fire them and so i assembled the staff downstairs at 2 30 in the morning in the war room chaplain was there had the chaplain say a little prayer for the protection of our our service men and women and then we played lee greenwood's god bless the usa and we did anybody who knows me knows that i love that song but that was sort of what it was all about and and then and then we just said okay now let's go to work and at 20 minutes to three we got the reports that the first shots had been fired and that started it",
+    "bio": "A high-ranking military officer (1934-2012) who commanded coalition forces in a major Middle Eastern conflict. He led an international force of over 750,000 troops in response to a regional invasion. After failed diplomatic efforts, he planned and executed a major military operation, including an extended air campaign and successful 100-hour ground offensive, which defeated the opposing army and liberated an occupied nation. Nicknamed \"The Bear\" for his hard driving, aggressive military approach, he also showed environmental concern by helping protect endangered species. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I've been scared in every war I've ever been in."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What was [masked leader]'s biggest mistake?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "his predictability."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "His predictability, I always thought he was so unpredictable. Everybody says we don't know him, we don't know what makes him do things."
+      }
+    ],
+    "speakername": "General Norman Schwarzkopf",
+    "ground_truth": "We studied the [masked region] campaigns very, very carefully. And based upon the [masked region] campaigns, we came up with a lot of assumptions of what they would do. And we weren't wrong a single time.",
+    "bio": "A senior military officer (August 22, 1934 – December 27, 2012) was a military general who led all coalition forces in a major international conflict. He was called on to respond to the invasion of a Middle Eastern country in 1990 by the forces of a neighboring nation. Initially tasked with defending an allied nation from aggression, his command eventually grew to an international force of over 750,000 troops. After diplomatic relations broke down, he planned and led a major military operation, an extended air campaign followed by a highly-successful 100-hour ground offensive, which defeated the opposing army and liberated the invaded country in early 1991. Nicknamed \"The Bear\" for his hard driving, aggressive military approach, he showed his soft side by helping recover the grizzly bear from the endangered species list. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

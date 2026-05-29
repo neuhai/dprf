@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Look at what we've been spending to not expand Medicaid. Those are real dollars. Every time the legislature takes Medicaid expansion out of my budget, we have to insert $60, $70 million of state general funds. Because so many other states have already expanded Medicaid and have years of experience, we know. We know what happens. And all those concerns have been assaged."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Nobody's using the word deficit yet, or budgetable, but there definitely seems to be a growing sense of concern that with the overall economy, the state may be facing a rainy day soon. How does that play into your plans for the state's budget?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I have always looked ahead, and that's why I have been so conservative in my budgeting, even when, you know, we had $3 billion, you know, in our ending balance. But I was looking ahead. So all I've been telling the legislature at this point, and I think they're finally beginning to, they finally looked at the paperwork, is that, you know, we can't just keep cutting taxes for the sake of cutting taxes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What do you think is most important for the citizens on the street to understand about this legislative session?"
+      }
+    ],
+    "speakername": "Laura Kelly",
+    "ground_truth": "I would hope that people on the street will pay really close attention to what happens during this session and then think back to what promises were made to them during the campaign and then what actually happened because it so impacts each of their lives so much more than what happens in [federal capital] what happens here makes a whole lot more difference in [local city]",
+    "bio": "The speaker is a politician serving as the state governor since 2019. A member of the Democratic Party, they represented the 18th district in the state Senate from 2005 to 2019. The speaker ran for governor in the 2018 election and defeated the Republican nominee. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Governor, thank you so much for taking the time to be with us today in the midst of everything that's going on. The state is seeing protests in the wake of George Floyd's death, like many other states across the country. What do you think your role as governor is right now?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What brought you to the western state at that time?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now, some young activists have put forth something called the It Can't Wait campaign, and police departments across the state have actually responded to some of these proposals, which includes things like banning chokeholds by police and requiring de-escalation tactics. So what would you like to see police departments in the state do?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I can tell you that my daughter was the one who let me know about the eight can't wait. And so probably a couple of weeks ago, she shared that with me. And that certainly will be on the table for discussion. I am just now putting together our commission that will be doing a deep dive on all of these issues. We are going to have the appropriate people at the table, leaders in the African-American community, leaders in the Latino community, to take a good look at this. We'll include law enforcement, we'll include academics, we will include folks impacted by this, and we'll bring them together. And the eight can't wait will be on the table. It's something to discuss. I don't want to set their agenda for them right now. I would like for the experts to come and say, what do we need to focus on, when do we need to focus on it, and then make the recommendations, and then react."
+      }
+    ],
+    "speakername": "Laura Kelly",
+    "ground_truth": "Well, just very quickly, I actually started my work in the mental health field. I worked in a state psychiatric facility for children in a northeastern state. Wow. After that, that's when I then came to a western city, and I worked at a regional hospital for Respiratory and Immune Disease back when they had inpatients, and I was director of recreation therapy and physical education there for seven years, I believe, and then met and married my husband there, and he wanted to get out of research and go into clinical work, and so we looked around, and there were opportunities in a midwestern state for both of us, and so we decided to move there and raise our family and make our life. Wow.",
+    "bio": "The speaker is an American politician serving as the governor of a midwestern state since 2019. A member of the Democratic Party, they represented the 18th district in the state Senate from 2005 to 2019. The speaker ran for governor in the 2018 election and defeated the Republican nominee. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Now, some young activists have put forth something called the It Can't Wait campaign, and police departments across the state have actually responded to some of these proposals, which includes things like banning chokeholds by police and requiring de-escalation tactics. So what would you like to see police departments in the state do?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I can tell you that my daughter was the one who let me know about the eight can't wait. And so probably a couple of weeks ago, she shared that with me. And that certainly will be on the table for discussion. I am just now putting together our commission that will be doing a deep dive on all of these issues. We are going to have the appropriate people at the table, leaders in the African-American community, leaders in the Latino community, to take a good look at this. We'll include law enforcement, we'll include academics, we will include folks impacted by this, and we'll bring them together. And the eight can't wait will be on the table. It's something to discuss. I don't want to set their agenda for them right now. I would like for the experts to come and say, what do we need to focus on, when do we need to focus on it, and then make the recommendations, and then react."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, just very quickly, I actually started my work in the mental health field. I worked in a state psychiatric facility for children in a northeastern state. Wow. After that, that's when I then came to a western city, and I worked at a major medical center for Respiratory and Immune Disease back when they had inpatients, and I was director of recreation therapy and physical education there for seven years, I believe, and then met and married my husband there, and he wanted to get out of research and go into clinical work, and so we looked around, and there were opportunities in the state for both of us, and so we decided to move there and raise our family and make our life. Wow."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And when did you get involved in government?"
+      }
+    ],
+    "speakername": "Laura Kelly",
+    "ground_truth": "Well, it just so happened when I moved into the state capital, vocation is everything, and my neighborhood was a very political neighborhood. In fact, it ended up I was next-door neighbors to a former governor of the state. And so when they were getting out, as they were in the statehouse, when they were going to be moving from that position running for insurance commissioner, they asked if I would run for their house seat. I said, no, my kids are too young. It's not a family-friendly job. But 10 years later, my senator had been defeated, and someone who came in to the Senate, I didn't feel represented, the residents, very well. At that point, I decided I'd go ahead and jump in. My daughter was old enough at that point.",
+    "bio": "[target] is an American politician serving as governor of a midwestern state since 2019. A member of the Democratic Party, they represented a district in the state Senate from 2005 to 2019. They ran for governor in the 2018 election and defeated the Republican nominee. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, just very quickly, I actually started my work in the mental health field. I worked in a state psychiatric facility for children in [state]. After that, that's when I then came to [city], and I worked at [hospital] for Respiratory and Immune Disease back when they had inpatients, and I was director of recreation therapy and physical education there for seven years, I believe, and then met and married my husband at [hospital], and he wanted to get out of research and go into clinical work, and so we looked around, and there were opportunities in [state] for both of us, and so we decided to move there and raise our family and make our life. Wow."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And when did you get involved in government?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it just so happened when I moved into [city], vocation is everything, and my neighborhood was a very political neighborhood. In fact, it ended up I was next-door neighbors to a former governor of the state of [state], [name]. And so when [name] was getting out, as she was in the statehouse, when she was going to be moving from that position running for insurance commissioner, she asked if I would run for her house seat. I said, no, my kids are too young. It's not a family-friendly job. But 10 years later, my senator had been defeated, and someone who came in to the Senate, I didn't feel represented, the residents, very well. At that point, I decided I'd go ahead and jump in. My daughter was old enough at that point."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "uh... so that's what that's what did it and uh... i was displeased with his service because he was voting against public education uh... there's nothing more important to kansans than their education system"
+      }
+    ],
+    "speakername": "Laura Kelly",
+    "ground_truth": "There's been a lot of, with the previous governor's tax cuts and all this, it's been a huge thing in your state, and I probably only know enough to be dangerous and not helpful in that conversation, but that was obviously a huge issue. What is it like for you, and I know you haven't been governor for very long yet, but you are a Democratic governor in a fairly red state. Your Republican opponent, who I won't name, I will just say personally, I found him to be not a very appealing candidate, and even though I typically lean a little bit right, I would have found it very hard to support him. So I think, obviously, a lot of people felt that way. You're a Democratic governor in a fairly red state. How does that impact the way you think about doing your job?",
+    "bio": "The speaker is a politician serving as the governor of [state] since 2019. A member of the Democratic Party, they represented the 18th district in the [state] Senate from 2005 to 2019. They ran for governor in the 2018 election and defeated the Republican nominee. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Do you, this is all Republican river interstate compact stuff."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I remember this. This was years ago when we did sue the neighboring state, and I believe we won, so more power to us. I didn't understand that there was any fallout in another state, though, so it's not something I'm very familiar with. Though I do know that even right now that there are issues with water availability from neighboring states coming into our state. So we've got a very strong team that will be heading up our water authority and other agencies where water flows into. And, you know, my style has been collaborative, and I have hired people who have that same style. So whatever the issue is here, you know, we'll sit down and try to work it out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's water stuff is incredibly complicated and i i don't i really don't know much about i'm sure you've heard this saying that whiskey is for drinking and water is for fighting yeah uh and it feels that way sometimes what about um what about marijuana right the previous governor i i i mean i didn't know him but i assume a staunch anti-drug sort of guy and and probably the guy you beat would have been as well but it's legal in the neighboring state we border our state i i'm sure there's plenty of people driving between the states could be and uh you know some of the governors of states that border us on the east have been real upset about it um how do you feel about it and and do you expect our state to change any kind of laws would you push for any kinds of laws of liberalization in that direction"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, I expect that we will. You know, our state generally follows the rest of the country a little bit behind, you know, 10, 20 years. You know, when I moved to this state, it was a dry state. You know, in order to get liquor by the drink, if you went out for dinner, you had to belong to a club. So, yeah. But, you know, that got overturned by a constitutional amendment in 1986. I'm..."
+      }
+    ],
+    "speakername": "Laura Kelly",
+    "ground_truth": "Just from what I know, from what we've discussed in the legislature, I was in the legislature for 14 years, the conversation about legalizing medical marijuana is, I think, much closer to passing. This past session, the legislature did pass a bill that basically takes away criminality should a parent use CBD oil for a child with seizure disorder. So it will take those small steps, but I think we'll get to medical marijuana sooner than later. Recreational marijuana will take a little longer for our state to get there.",
+    "bio": "[target] is an American politician serving as the 48th governor of a midwestern state since 2019. A member of the Democratic Party, they represented the 18th district in the state Senate from 2005 to 2019. [target] ran for governor in the 2018 election and defeated the Republican nominee. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

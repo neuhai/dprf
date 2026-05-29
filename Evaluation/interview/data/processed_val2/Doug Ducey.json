@@ -1,0 +1,124 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "AND JOINING ME NOW IS THE REPUBLICAN GOVERNOR OF [STATE], [target]. GOVERNOR, THANK YOU SO MUCH FOR JOINING ME. I WANT TO SHOW OUR VIEWERS A CARTOON THAT CINDY MCCAIN POSTED ONLINE SHOWING THE REPUBLICAN PARTY, THEY'RE PUNISHING THE THREE OF YOU FOR QUOTE, A GROTESQUE DISPLAY OF BASIC INTEGRITY. IS THAT WHAT YOU'RE GUILTY OF HERE, INTEGRITY?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, thanks for having me, Dana, and I want to say this is an action of very little consequence. The party in [state] has had a long history of discontent. This is just the latest example. I think that the state party chairman should focus on winning races. That should be a top priority. I believe I was in good company in that cartoon, and I also want to say I worked incredibly hard to deliver the state for Donald Trump and red up through Election Day, and then after Election Day, of course, once all the ballots were certified in all 15 counties, the vote had been audited and determined accurate. I had very little choice but to do the right thing, follow the law and the Constitution."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "AND WHEN YOU DID THAT, WHEN YOU CERTIFIED [STATE]'S ELECTION RESULTS IN NOVEMBER, THIS HAPPENED. YOUR PHONE RINGING WITH THE RING TONE, HAIL TO THE CHIEF. YOU LATER SAID THAT WAS THEN-PRESIDENT TRUMP CALLING. AND WE HEARD AUDIO OF PRESIDENT TRUMP ASKING [STATE] OFFICIALS TO FIND VOTES IN ORDER TO OVERTURN ELECTION RESULTS THERE. HOW FAR DID TRUMP GO WITH YOU AND PUSHING YOU TO OVERTURN JOE BIDEN'S WIN THERE?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first, I want to say that's not what happened in [state] and the event. I couldn't see the video, but I know what you're referring to."
+      }
+    ],
+    "speakername": "Doug Ducey",
+    "ground_truth": "That was an official event in a public setting. So regardless of who was calling, I was going to call them back. And that's what I did is I called later that day. And the ironic thing was there could be no legal challenges and there were rumors of irregularity and there were accusations of lawsuits and claims. None of those could be brought forward until the vote was certified. So it could begin after that. And of course I talked with the president, I talked with the vice president and whatever claims that they had could be brought forward at that time. And that was up to then the judiciary here in [state].",
+    "bio": "The speaker (born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of [state] since 2015. He previously was the CEO of a chain of ice cream parlors based in [city], [state]. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "AND WHEN YOU DID THAT, WHEN YOU CERTIFIED [STATE]'S ELECTION RESULTS IN NOVEMBER, THIS HAPPENED. YOUR PHONE RINGING WITH THE RING TONE, HAIL TO THE CHIEF. YOU LATER SAID THAT WAS THEN-PRESIDENT CALLING. AND WE HEARD AUDIO OF PRESIDENT ASKING [STATE] OFFICIALS TO FIND VOTES IN ORDER TO OVERTURN ELECTION RESULTS THERE. HOW FAR DID HE GO WITH YOU AND PUSHING YOU TO OVERTURN THE CHALLENGER'S WIN THERE?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first, I want to say that's not what happened in [STATE] and the event. I couldn't see the video, but I know what you're referring to."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That was an official event in a public setting. So regardless of who was calling, I was going to call them back. And that's what I did is I called later that day. And the ironic thing was there could be no legal challenges and there were rumors of irregularity and there were accusations of lawsuits and claims. None of those could be brought forward until the vote was certified. So it could begin after that. And of course I talked with the president, I talked with the vice president and whatever claims that they had could be brought forward at that time. And that was up to then the judiciary here in [STATE]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, but as you know, I mean, we saw it in public, President tweeting about you, calling you a rhino, saying that Democrats have treated him better than you did. So I can't imagine what you heard in private. Is there something you can share with us, separate and apart from the fact that you had a law that you had to follow and you did so?"
+      }
+    ],
+    "speakername": "Doug Ducey",
+    "ground_truth": "Well, I'm gonna keep my conversations with the president in confidence. I will say those conversations were cordial. I believe there were people in [STATE] and people on the president's legal team that were getting misinformation back to him. Of course, he's gonna respond however he chooses to respond. But Dana, I report to the people of [STATE]. They are my boss and I upheld my obligations under the law.",
+    "bio": "A businessman and politician serving as the 23rd and current governor of [STATE] since 2015. He previously was the CEO of a chain of ice cream parlors based in [CITY], [STATE]. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That was an official event in a public setting. So regardless of who was calling, I was going to call them back. And that's what I did is I called later that day. And the ironic thing was there could be no legal challenges and there were rumors of irregularity and there were accusations of lawsuits and claims. None of those could be brought forward until the vote was certified. So it could begin after that. And of course I talked with the president, I talked with the vice president and whatever claims that they had could be brought forward at that time. And that was up to then the judiciary here in the state."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, but as you know, I mean, we saw it in public, President Trump tweeting about you, calling you a rhino, saying that Democrats have treated him better than you did. So I can't imagine what you heard in private. Is there something you can share with us, separate and apart from the fact that you had a law that you had to follow and you did so?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm gonna keep my conversations with the president in confidence. I will say those conversations were cordial. I believe there were people in the state and people on the president's legal team that were getting misinformation back to him. Of course, he's gonna respond however he chooses to respond. But Dana, I report to the people of the state. They are my boss and I upheld my obligations under the law."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you mentioned misinformation. The insurrection that happened here at the federal building came after President Trump and his allies spread lies about election fraud in a number of states, including your own in the state. So what responsibility does Trump bear for what happened on January 6th?"
+      }
+    ],
+    "speakername": "Doug Ducey",
+    "ground_truth": "Well, I've said he does bear some responsibility. So do those that organized the rally, the protest rally. So do those that financed the rally. So do those that were giving him misinformation. Ultimately, I think his legal team really failed on this front. But ultimately, the people that bear the responsibility are those that committed the violence and vandalism at the government building. So we have denounced that in all possible terms. They should be held accountable to and prosecuted to the highest extent of the law, those that broke into the building. It should never, ever happen again. I think that's something we can all agree on.",
+    "bio": "The speaker is an American businessman and politician serving as the 23rd and current governor of a southwestern state since 2015. He previously was the CEO of an ice cream parlor chain based in a major city in that state. The speaker's MBTI type is ESFJ",
+    "speaker": "[target]",
+    "text": "Well, I'm gonna keep my conversations with the president in confidence.",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm gonna keep my conversations with the president in confidence. I will say those conversations were cordial. I believe there were people in [state] and people on the president's legal team that were getting misinformation back to him. Of course, he's gonna respond however he chooses to respond. But Dana, I report to the people of [state]. They are my boss and I upheld my obligations under the law."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you mentioned misinformation. The insurrection that happened here in [national capital] at the [government building] came after President Trump and his allies spread lies about election fraud in a number of states, including your own in [state]. So what responsibility does Trump bear for what happened on January 6th?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I've said he does bear some responsibility. So do those that organized the rally, the Stop the Steal rally. So do those that financed the rally. So do those that were giving him misinformation. Ultimately, I think his legal team really failed on this front. But ultimately, the people that bear the responsibility are those that committed the violence and vandalism at the people's house. So we have denounced that in all possible terms. They should be held accountable to and prosecuted to the highest extent of the law, those that broke into the [government building]. It should never, ever happen again. I think that's something we can all agree on."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor, I want to ask you more broadly about the state of the GOP. The [state] Republican Party censured Congressman Tom Rice for voting to impeach former President Trump. The [state] GOP recently posted a tweet defending the QAnon conspiracy theories. The [state] GOP called the [government building] attack a false flag. [state] Congresswoman Marjorie Taylor Greene has faced no consequences for supporting calls to execute Democratic politicians. She said that in the past. This is a cancer growing rapidly on your party. What happened to the GOP?"
+      }
+    ],
+    "speakername": "Doug Ducey",
+    "ground_truth": "Well, first, I want to say I reject those calls to violence or conspiracy, and these will be things for House Leader McCarthy to deal with and ultimately the people to deal with. But our party, the GOP, has a lot of indications of optimism. In our governor's conference, the Republican Governors Association, we have 27 states with Republican governors. We were able to gain 14 seats in the House of Representatives. We have a 50-50 Senate with real pickup opportunities in places like [state] and [state], and the president earned 74-plus million votes in this last election cycle. So we have work to do. The issues that you talked about are real issues, but there's always a discussion on when a party doesn't win the races that it wanted to win. There's an after-action report, and in my role as leading the RGA, I look, we're engaging in that.",
+    "bio": "[target] (born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of [state] since 2015. He previously was the CEO of [company name], a chain of ice cream parlors based in [city], [state]. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I've said he does bear some responsibility. So do those that organized the rally, the Stop the Steal rally. So do those that financed the rally. So do those that were giving him misinformation. Ultimately, I think his legal team really failed on this front. But ultimately, the people that bear the responsibility are those that committed the violence and vandalism at the people's house. So we have denounced that in all possible terms. They should be held accountable to and prosecuted to the highest extent of the law, those that broke into the national building. It should never, ever happen again. I think that's something we can all agree on."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Governor, I want to ask you more broadly about the state of the GOP. The state party censured Congressman Tom Rice for voting to impeach former President Trump. The state GOP recently posted a tweet defending the conspiracy theories. Another state GOP called the incident a false flag. A Congresswoman has faced no consequences for supporting calls to execute politicians. She said that in the past. This is a cancer growing rapidly on your party. What happened to the GOP?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first, I want to say I reject those calls to violence or conspiracy, and these will be things for House Leader to deal with and ultimately the people to deal with. But our party, the GOP, has a lot of indications of optimism. In our governor's conference, the Republican Governors Association, we have 27 states with Republican governors. We were able to gain 14 seats in the House of Representatives. We have a 50-50 Senate with real pickup opportunities in several states, and the president earned 74-plus million votes in this last election cycle. So we have work to do. The issues that you talked about are real issues, but there's always a discussion on when a party doesn't win the races that it wanted to win. There's an after-action report, and in my role as leading the RGA, I look, we're engaging in that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But you know that this isn't just a typical year where one side's ideas beat another side's ideas. This is some serious stuff going on inside your party with conspiracy theorists winning elections and getting rolls on committees that, for example, a member on the Education Committee after she went after a high school student who was there to protest after surviving a school shooting. I mean, is this something that you as a leader in the Republican Party want to condemn? And if so, what's the next step? How do you rid your party of this kind of thing?"
+      }
+    ],
+    "speakername": "Doug Ducey",
+    "ground_truth": "Dana, I have condemned what happened at the national building, and I've seen the reporting that you're referring to. And if it's accurate, what's happening is absolutely unacceptable, and the Leader will deal with it. But I don't think it's just on our side. There have been extremes on both sides that have muddied the waters as to what's happening now. Now, everything that happened in terms of the break-in, the violence and vandalism has been denounced and condemned by me and my side. And I think that we need to focus again on where we take the party going forward. But I'm not for this cancel culture, and I'm somebody who embraces both our First and Second Amendment. And I don't think we should limit speech. I think we should have more speech around this, and we have to persuade with better ideas and better policy and gratitude for what we've inherited in terms of what we've done. We have a great nation, and how do we make it better? The election is now behind us, so it is time to focus on leading and governing. I've tried in the state to let politics stand down for a little bit and move our action-oriented agenda here at the state level, and that's what I can do in terms of leadership, tone, and the mode that I'm in as the governor of this state.",
+    "bio": "The speaker was born April 9, 1964 and is an American businessman and politician serving as the 23rd governor of a southwestern state since 2015. They previously were the CEO of a chain of ice cream parlors based in a city in that state. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

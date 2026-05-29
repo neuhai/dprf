@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, not at all. That scene absolutely does exist. And that voice saying what I said they were saying, we're going to keep it alive to harvest it in spring, exists as well. Here's the thing. Yesterday I was at a sports event."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You saw that moment on the tape."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. And I would challenge the organization. Here's the deal. Yesterday, I was protested by organization members who were throwing condoms at me. I don't know what that has to do with this. They're trying to distract the American people from the hideous reality that the organization is aborting fetuses alive to harvest their brains and other body parts. That is a fact. The organization will not and cannot deny this because it is happening. It is happening in this nation and taxpayers are paying for it. The organization desperately wants everyone to think this isn't going on because when Americans realize it is going on, whether they are pro-life or pro-choice, they are horrified. This goes to the character of our nation and it must be stopped."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, the footage you described, at best, is a reenactment. The videos, even the people that made the videos, admit it's stock footage. Yet you went right along and said it's the organization. Check."
+      }
+    ],
+    "speakername": "Carly Fiorina",
+    "ground_truth": "Sir, Sir, Sir, do you think this is not happening? Does the political candidate think this is not happening? So sad that you missed the opportunity to ask her why she said late-term abortions were only performed for medical purposes. That is patently false. This is happening in this country today, and taxpayers are paying for it. That is a fact. It is a reality. And no one can run away from it.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "is calling it a full-fledged falsehood, Ms. Frey and Rainey."
+      },
+      {
+        "speaker": "[target]",
+        "text": "OK, why don't you they said"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "that it doesn't excuse your mistruths. They said they understand you have a deeply held belief on abortion, but that you're exaggerating this specific claim."
+      }
+    ],
+    "speakername": "Carly Fiorina",
+    "ground_truth": "Well, first of all, the major newspaper also claims that I am lying about being a secretary. So let's get real. I mean, I don't even know how to deal with that. I was a secretary, part-time to put myself through college and full-time after I graduated. The major newspaper gave me three Pinocchios for claiming that I was a secretary. So honestly, I don't think the major newspaper has a lot of credibility here. This is not about being pro-life or pro-choice. It is certainly not about birth control. It is not even about women's health. It is about the character of our nation. No one can deny this is happening because it is happening.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "OK, why don't you they said"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "that it doesn't excuse your mistruths. They said they understand you have a deeply held belief on abortion, but that you're exaggerating this specific claim."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, the national newspaper also claims that I am lying about being a secretary. So let's get real. I mean, I don't even know how to deal with that. I was a secretary, part-time to put myself through college and full-time after I graduated. The national newspaper gave me three Pinocchios for claiming that I was a secretary. So honestly, I don't think the national newspaper has a lot of credibility here. This is not about being pro-life or pro-choice. It is certainly not about birth control. It is not even about women's health. It is about the character of our nation. No one can deny this is happening because it is happening."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you believe this is still something that Republicans in Congress should force a government shutdown over and have this showdown with the president?"
+      }
+    ],
+    "speakername": "Carly Fiorina",
+    "ground_truth": "I believe if the President and Democrats are willing to stand up and defend for what is roughly a $500 million to $600 million line item in a budget, if they are willing to stand up and defend this practice and shut down the government over it, then let them explain it to the American people. So you want this showdown. Let them explain it.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, the national newspaper also claims that I am lying about being a secretary. So let's get real. I mean, I don't even know how to deal with that. I was a secretary, part-time to put myself through college and full-time after I graduated. The national newspaper gave me three Pinocchios for claiming that I was a secretary. So honestly, I don't think the national newspaper has a lot of credibility here. This is not about being pro-life or pro-choice. It is certainly not about birth control. It is not even about women's health. It is about the character of our nation. No one can deny this is happening because it is happening."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you believe this is still something that Republicans in Congress should force a government shutdown over and have this showdown with the president?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I believe if the President and Democrats are willing to stand up and defend for what is roughly a $500 million to $600 million line item in a budget, if they are willing to stand up and defend this practice and shut down the government over it, then let them explain it to the American people. So you want this showdown. Let them explain it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You want this? You think Republican leaders in Congress should force this showdown?"
+      }
+    ],
+    "speakername": "Carly Fiorina",
+    "ground_truth": "I believe there are a variety of ways to deal with this, but I believe this is something we must stand up and fight for because it is about the character of our nation. Taxpayers are funding this activity, and not only that, not only are taxpayers having to fund this butchery, but the organization doles out millions of dollars every single election cycle to Democrat candidates. This is a political slush fund on top of being butchery that Americans, again, whether they're pro-life or pro-choice, cannot support.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I believe if the President and Democrats are willing to stand up and defend for what is roughly a $500 million to $600 million line item in a budget, if they are willing to stand up and defend this practice and shut down the government over it, then let them explain it to the American people. So you want this showdown. Let them explain it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You want this? You think Republican leaders in Congress should force this showdown?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I believe there are a variety of ways to deal with this, but I believe this is something we must stand up and fight for because it is about the character of our nation. Taxpayers are funding this activity, and not only that, not only are taxpayers having to fund this butchery, but the organization doles out millions of dollars every single election cycle to Democrat candidates. This is a political slush fund on top of being butchery that Americans, again, whether they're pro-life or pro-choice, cannot support."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you believe any of the money the organization uses is for good from the federal government?"
+      }
+    ],
+    "speakername": "Carly Fiorina",
+    "ground_truth": "I'm sure it is. I'm sure it is. But you know what I find amazing? The hypocrisy of Democrats who stand up and oppose every time taxpayer funding for, say, pregnancy centers that are also very much focused on women's health. But no, Democrats don't want taxpayer funding for pregnancy centers. I just visited one in a southern state. They are all privately funded. This is hypocrisy on Democrats' part. This is about a political slush fund. It is about the character of our nation. And yes, we should stand up and fight on this issue.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

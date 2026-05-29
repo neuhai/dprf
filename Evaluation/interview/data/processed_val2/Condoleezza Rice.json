@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, I just want to be 4-3. Let's take them one game at a time."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay, all right, good luck with the Saints. First question, from your article in the current issue of Foreign Affairs, the current period is not a Cold War redux, it is more dangerous. During the Cold War, we had an opponent in the Soviet Union with massive conventional forces arrayed against Western Europe, with a navy that matched ours at least in numbers of surface vessels, and with 5,000 nuclear weapons pointed at us. How could the current period possibly be more dangerous?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Peter, we did not have real territorial conflict between us after the major European crises and certainly after the Caribbean Crisis. So for roughly almost 30 years with the Soviet Union, we lived in this kind of cold peace, as it's been called. Right. We could finish each other's sentences about nuclear deterrence. We had created a whole way of thinking about accidental nuclear war. But the more important point is that the Soviet Union was a military giant, but it was an economic and technological midget. Our rival is technologically, economically, and militarily increasingly our equal. And so the adversary is different this time around. We also have a rival that's completely integrated into the international economy. So you have these aspects, great power conflict, a technological arms race. And, probably the most important thing, questions about whether our country really wants to lead. That's why I think it's more dangerous."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay, so if we could, during this conversation, let's go through the nature of the threat, major global powers, and then I'll tell you why you're mistaken, and we should, all of this means that we should return home, we should pull in our horns, we should return to isolation, I'll fight with you on that one. That's the deal. And then we can close with some thoughts, because as you and I speak today, there are a low double-digit number of days between now and election day. All right, from your article in Foreign Affairs, our rival now has the largest navy in the world. The growth in their nuclear arsenal is also alarming. This comes against the backdrop of an arms race in technologies, artificial intelligence, quantum computing, synthetic biology, robotics, and others. In our country, the supply chain for everything from pharmacological inputs to rare earth minerals runs through this rival nation, and the supply chain for everything from pharmaceutical inputs runs through them, and the supply chain for everything from Department of And then there is the disputed territory."
+      }
+    ],
+    "speakername": "Condoleezza Rice",
+    "ground_truth": "We have to be up for it. First of all, we have to recognize that it didn't happen by accident. We actually had a narrative, a belief, in integrating our rival fully into the international economy. When their leader decided to take their nation out of isolation, we faced a choice. Were we going to try to isolate 1.4 billion people with a growing economy, or would it be better to have them fully integrated? And that integration created exactly some of the points that you've just made, the supply chains that ran through their country because it was more efficient, not worrying terribly much about whether or not you were going to get rare earth minerals from them. Their nation was the place to manufacture. It was the place to assemble. There was so much that was to be beneficial about their integration into the international system.",
+    "bio": "[target] (born November 14, 1954) is a diplomat and political scientist and currently holds the position of director at a major research institution at a prestigious university. As a member of a major political party, they have had an impressive political career, serving as a senior cabinet member from 2005 to 2009 under a previous administration. Additionally, they served as national security advisor from 2001 to 2005. Notably, they made history as the first female African-American in their cabinet position and the first woman to hold the position of national security advisor. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Peter, we did not have real territorial conflict between us after the major European crisis and certainly after the Caribbean crisis. So for roughly almost 30 years with the opposing nation, we lived in this kind of cold peace, as it's been called. Right. We could finish each other's sentences about nuclear deterrence. We had created a whole way of thinking about accidental nuclear war. But the more important point is that the opposing nation was a military giant, but it was an economic and technological midget. The rival nation is technologically, economically, and militarily increasingly the equal of our country. And so the adversary is different this time around. We also have a rival that's completely integrated into the international economy. So you have these aspects, great power conflict, a technological arms race. And, probably the most important thing, questions about whether our country really wants to lead. That's why I think it's more dangerous."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay, so if we could, during this conversation, let's go through the nature of the threat, the rival nations, and then I'll tell you why you're mistaken, and we should, all of this means that we should return home, we should pull in our horns, we should return to isolation, I'll fight with you on that one. That's the deal. And then we can close with some thoughts, because as you and I speak today, there are a low double-digit number of days between now and election day. All right, from your article in the journal, the rival nation now has the largest navy in the world. The growth in their nuclear arsenal is also alarming. This comes against the backdrop of an arms race in technologies, artificial intelligence, quantum computing, synthetic biology, robotics, and others. In our country, the supply chain for everything from pharmacological inputs to rare earth minerals runs through the rival nation, and in our country, the supply chain for everything from pharmaceutical inputs runs through them. And then there is the disputed territory."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We have to be up for it. First of all, we have to recognize that it didn't happen by accident. We actually had a narrative, a belief, in integrating the rival nation fully into the international economy. When their leader decided to take their country out of isolation, we faced a choice. Were we going to try to isolate 1.4 billion people with a growing economy, or would it be better to have them fully integrated? And that integration created exactly some of the points that you've just made, the supply chains that ran through their country because it was more efficient, not worrying terribly much about whether or not you were going to get rare earth minerals from them. Their country was the place to manufacture. It was the place to assemble. There was so much that was to be beneficial about their integration into the international system."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "for us"
+      }
+    ],
+    "speakername": "Condoleezza Rice",
+    "ground_truth": "Beneficial for us, well, beneficial for the world economy, and in fact, the rival nation did contribute to growth. It was very important.",
+    "bio": "The target (born November 14, 1954) is an American diplomat and political scientist and currently holds the position of director at a prominent research institution at a major west coast university. As a member of a major political party, they have had an impressive political career, serving as a senior cabinet member from 2005 to 2009. Additionally, they served as national security advisor from 2001 to 2005. Notably, they made history as the first female African-American in their cabinet position and the first woman to hold the position of national security advisor. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Okay, so if we could, during this conversation, let's go through the nature of the threat, China, Russia, Iran, and then I'll tell you why you're mistaken, and we should, all of this means that we should return home, we should pull in our horns, we should return to isolation, I'll fight with you on that one. That's the deal. And then we can close with some thoughts, because as you and I speak today, there are a low double-digit number of days between now and election day. All right, from your article in Foreign Affairs, China now has the largest navy in the world. The growth in China's nuclear arsenal is also alarming. This comes against the backdrop of an arms race in technologies, artificial intelligence, quantum computing, synthetic biology, robotics, and others. In the United States, the supply chain for everything from pharmacological inputs to rare earth minerals runs through China, and in the United States, the supply chain for everything from pharmaceutical inputs runs through China, and in the United States, the supply chain for everything from Department of And then there is Taiwan.\" Here's the threshold question. In a way, it's the theme of our whole conversation today. Are we up for this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We have to be up for it. First of all, we have to recognize that it didn't happen by accident. We actually had a narrative, a belief, in integrating China fully into the international economy. When Deng Xiaoping decided to take China out of isolation, we faced a choice. Were we going to try to isolate 1.4 billion people with a growing economy, or would it be better to have them fully integrated? And that integration created exactly some of the points that you've just made, the supply chains that ran through China because it was more efficient, not worrying terribly much about whether or not you were going to get rare earth minerals from China. China was the place to manufacture. It was the place to assemble. There was so much that was to be beneficial about China's integration into the international system."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "for us"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Beneficial for us, well, beneficial for the world economy, and in fact, China did contribute to growth. It was very important."
+      }
+    ],
+    "speakername": "Condoleezza Rice",
+    "ground_truth": "But something happened, which is that I'm not much for the great man power, great man theory of history. But Xi Jinping's regime has been different than the regimes before it. We always said, Peter, you cannot have both economic liberalization and political control. And for a while, right. And for a while, China was moving to private enterprise, the big companies like Alibaba and Tencent. And you were manufacturing there. It seemed to be working.",
+    "bio": "The target (born November 14, 1954) is an American diplomat and political scientist and currently holds the position of director at a prominent research institution at a major university. As a member of the Republican Party, they have had an impressive political career, serving as the 66th United States secretary of state from 2005 to 2009 under a previous administration. Additionally, they served as the 19th U.S. national security advisor from 2001 to 2005. Notably, they made history as the first female African-American secretary of state and the first woman to hold the position of national security advisor. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Communism had to remain the same. You had to have absolute control of the Communist Party. He even didn't allow it to evolve in ways that his predecessors had. Remember, one of the problems for authoritarian regimes is that they don't change power peacefully. They have too many presidents for life. The Party had kind of fixed that problem. They had term limits. You got two terms, they had age limits. They had a kind of collective leadership where you had a premier who did things about the economy, and then the president did everything else. But the economy could kind of, on its own dynamic, on its own logic, move toward more private enterprise, less state-owned enterprises. The country was leading the world in online educational startups, leading the world. They just shut them down because they couldn't control them. So he was prepared to say it has to be absolute Party control. And I do think that put us on a different pathway than had this evolution taken place. But I would be the first to say, maybe he was right. Because once you start to get economic liberalization, once people start to expect something different, their leader told us once, you know, we need courts. Because people have to be able to go and make a claim for the land that was expropriated by a party, by an official. And I thought, you know, that's called an independent judiciary. That's not going to work so well with total control. So the leader maybe read it right. Communism is a very fragile system."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "so well with total control. So the leader maybe read it right. Communism is a very fragile system. And the former leader read it wrong."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The former leader read it wrong. He believed, he was a kind of true believer. I knew him pretty well. He really did believe that if you took away the lies, if you took away the coercion, people would kind of naturally become good citizens. What he didn't realize is that communism is in fact propped up by lies and by coercion. And once you start to pull those pillars, it's going to collapse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "gone, it's over."
+      }
+    ],
+    "speakername": "Condoleezza Rice",
+    "ground_truth": "Once fear is gone, it's over. And so maybe the leader was right. But that meant that our bet about a country that, by the way, the second largest economy in the world, is now not a democracy. When the former president, when you would have been in the government building, when the former president and the former secretary started the international economic forum.",
+    "bio": "[target] (born November 14, 1954) is an American diplomat and political scientist and currently holds the position of director at a prominent research institution at a major university. As a member of the political party, they have had an impressive political career, serving as the 66th secretary of state from 2005 to 2009 under a former president. Additionally, they served as the 19th national security advisor from 2001 to 2005. Notably, they made history as the first female African-American secretary of state and the first woman to hold the position of national security advisor. The speaker's MBTI type is ISTJ",
+    "average_rating": 3.451220221,
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "gone, it's over."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Once fear is gone, it's over. And so maybe Xi Jinping was right. But that meant that our bet about a country that, by the way, the second largest economy in the world, is now not a democracy. When a former president, when you would have been in the [government building], when a former president and former secretary of state started the international economic forum."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the largest economies in the world. They were all democracies."
+      }
+    ],
+    "speakername": "Condoleezza Rice",
+    "ground_truth": "And so this question of whether capitalism can really coexist with communism, I think the answer that we're getting is no, that it can't. It was probably, from my point of view, the right bet, because what else were you going to do? But there were elements, you ask, how did we get here? There were elements that we didn't keep our eye on the ball. So how could it be that semiconductors, an industry created in this country by people like a major technology company,",
+    "bio": "[target] (born November 14, 1954) is an American diplomat and political scientist and currently holds the position of director at a prestigious research institution at a major university. As a member of a major political party, they have had an impressive political career, serving as a senior government official from 2005 to 2009 under a former president. Additionally, they served as a national security advisor from 2001 to 2005. Notably, they made history as the first female African-American in their cabinet position and the first woman to hold the position of national security advisor. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

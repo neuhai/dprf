@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], correct me if I'm wrong, is that there's really much more in common and it's a much more kind of varying class of quote unquote disasters in terms of."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "how they strike magnitude, is that fair? And give us, so it doesn't include a tire on the highway, but it could include something very bad in a sports team. Give us a sense of the span and scope of what you think of as the devil's appearances."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right. No, I think that I know I'm glad that you capture it that way. I think we spend so much time worried about that devil and this devil and the cybertech and this one and the hurricane. And what I did is I studied and examined and sometimes had a counterintuitive analysis of disasters that we thought we knew or that we've heard from from the past and thought, okay, what are the commonalities across these, right? Rather than viewing a disaster as a surprise, what if I actually treated them like standard operating procedure? And then those alignments, right, those commonalities become why, you know, what we can do or to sort of, you know, stop the bad thing from happening or stop more bad things from happening if we just accept that we're going to be on, as we were talking about earlier, the right side of the boom. So in the parlance of my world, I worry less about risk. You know, is this high probability? Or low probability and really get us focusing on consequences? Like what what are the really bad things that could happen? And then what do you what do you want to do to protect people? And then I bring up this concept of and stop what we call stupid deaths, which are the deaths that are happening because we failed to be ready. Right. Yeah. I mean, you know, I accept death. It's going to if there's there's bombs at the"
+      }
+    ],
+    "speakername": "Juliette Kayyem",
+    "ground_truth": "finish line of the [major sporting event], people will die, but fewer people will die because they were ready. But one last thing, it's not fatalistic. I hope for it to be hopeful in the sense that we actually have agency.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right. No, I think that I know I'm glad that you capture it that way. I think we spend so much time worried about that devil and this devil and the cybertech and this one and the hurricane. And what I did is I studied and examined and sometimes had a counterintuitive analysis of disasters that we thought we knew or that we've heard from from the past and thought, okay, what are the commonalities across these, right? Rather than viewing a disaster as a surprise, what if I actually treated them like standard operating procedure? And then those alignments, right, those commonalities become why, you know, what we can do or to sort of, you know, stop the bad thing from happening or stop more bad things from happening if we just accept that we're going to be on, as we were talking about earlier, the right side of the boom. So in the parlance of my world, I worry less about risk. You know, is this high probability? Or low probability and really get us focusing on consequences? Like what what are the really bad things that could happen? And then what do you what do you want to do to protect people? And then I bring up this concept of and stop what we call stupid deaths, which are the deaths that are happening because we failed to be ready. Right. Yeah. I mean, you know, I accept death. It's going to if there's there's bombs at the"
+      },
+      {
+        "speaker": "[target]",
+        "text": "finish line of the Boston Marathon, people will die, but fewer people will die because they were ready. But one last thing, it's not fatalistic. I hope for it to be hopeful in the sense that we actually have agency."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "no i i mean it does come across that way in fact in in fact very much so because i think our normal way of doing things is obviously we fight consequences but we start at you know right of boom or maybe this um common i think it probably is in other endeavors of human behavior you know fighting the last appearance of the devil so i mean to be clear while you're really focusing people on right of boom obviously we're doing it left of of boom you're thinking through things and having a you know manual and playbook uh you know and um the like"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, but look, so it doesn't seem fatalistic to me. In fact, I, you know, I think you would say that this is not in some ways, magnitudes and risks of, uh, and, and maybe even kinds of disasters have proliferated, but this is a pretty long story. You know, the black plague was a big boom, uh, period. Yeah. Small pot."
+      }
+    ],
+    "speakername": "Juliette Kayyem",
+    "ground_truth": "and and smallpox and and and what we can learn from smallpox and and communications to citizens and and what worked and what didn't and and the Trojan horse and and tsunamis from the early 20th century that that might have might have helped us better in this century and so you can be in a field I'm sure you know this as a lawyer where you accept a word and you don't know you sort of that's the word I work with and you don't actually drill down on and here's the crazy thing I've been in this field a long time the word disaster so light bulb is a comes from dis right which is not Latin and Italian Aster is is of the stars and we actually think what how were how are we defining and conceiving of disasters it is viewed as a misalignment of the stars right so it's a random act that has an impact on mankind right so that's just not true I mean but it's it's actually we're always so surprised by disasters right like it's it's oh my god the stars misaligned no it's it is part of our fabric I'm neither good nor bad it's a book tends not to be very judgmental I just am sacking the world as it is but knowing that then that we have to sort of overcome or redefine what we what what a disaster is is that the element of surprise should no longer be the main focus and that the consequences of something happening a zombie a meteor and then of course kovat or whatever random thing and how do we minimize the the deaths and destruction that happened on the on the right side of the boom",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and and smallpox and and and what we can learn from smallpox and and communications to citizens and and what worked and what didn't and and the Trojan horse and and tsunamis from the early 20th century that that might have might have helped us better in this century and so you can be in a field I'm sure you know this as a lawyer where you accept a word and you don't know you sort of that's the word I work with and you don't actually drill down on and here's the crazy thing I've been in this field a long time the word disaster so light bulb is a comes from dis right which is not Latin and Italian Aster is is of the stars and we actually think what how were how are we defining and conceiving of disasters it is viewed as a misalignment of the stars right so it's a random act that has an impact on mankind right so that's just not true I mean but it's it's actually we're always so surprised by disasters right like it's it's oh my god the stars misaligned no it's it is part of our fabric I'm neither good nor bad it's a book tends not to be very judgmental I just am sacking the world as it is but knowing that then that we have to sort of overcome or redefine what we what what a disaster is is that the element of surprise should no longer be the main focus and that the consequences of something happening a zombie a meteor and then of course koved or whatever random thing and how do we minimize the the deaths and destruction that happened on the on the right side of the boom"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "right and as you talk about this there's an important principle it's not new to the book but that you lay out that is a bit of an impediment for for clear-eyed thinking here called the preparedness paradox um and i've heard you actually mention that uh separately just just to me but explain what that is and how it figures in here"
+      },
+      {
+        "speaker": "[target]",
+        "text": "right so i mean why are we always not prepared and there are and there are a number of reasons it's easier to focus on the inbox it's hard to get people to to galvanize you have a collective action problem as we've seen through covet but another reason or the the challenge of people in my field is this preparedness paradox which is the more prepared you are the less likely it is that great harm will result and therefore people will evaluate it as having been unnecessary right that's the preparedness part the better you are the less likely it will be seen as a necessity and y2k is the perfect example everyone's freaking out the threat was real so there's this thing that's coming everyone's freaking out about it lots of billions of dollars companies get focused you know to make sure that the computers don't melt down when it turns 1999 to 2000. because of those investments not much happened and now the narrative of y2k is everyone freaked out no there was actually a real harm uh a real threat so that's the preparedness paradox"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "actually that didn't oh yeah oh yeah no those computers"
+      }
+    ],
+    "speakername": "Juliette Kayyem",
+    "ground_truth": "they they knew that the computers weren't separate because they they tested it they saw what happened to computers when they had them go they went to like the year 1000 right that's not helpful",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "right so i mean why are we always not prepared and there are and there are a number of reasons it's easier to focus on the inbox it's hard to get people to to galvanize you have a collective action problem as we've seen through covet but another reason or the the challenge of people in my field is this preparedness paradox which is the more prepared you are the less likely it is that great harm will result and therefore people will evaluate it as having been unnecessary right that's the preparedness part the better you are the less likely it will be seen as a necessity and y2k is the perfect example everyone's freaking out the threat was real so there's this thing that's coming everyone's freaking out about it lots of billions of dollars companies get focused you know to make sure that the computers don't melt down when it turns 1999 to 2000. because of those investments not much happened and now the narrative of y2k is everyone freaked out no there was actually a real harm uh a real threat so that's the preparedness paradox"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "actually that didn't oh yeah oh yeah no those computers"
+      },
+      {
+        "speaker": "[target]",
+        "text": "they they knew that the computers weren't separate because they they tested it they saw what happened to computers when they had them go they went to like the year 1000 right that's not helpful"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. But that actually is a pristine example of preparedness par excellence. Everyone was thinking, oh, wow. So we're all, you know, the earth will stop and it didn't. Can you give us a couple examples? And in fact, it'd be nice if they're very different of the sort of failure of imagination you're talking about. So because of the lesson that the devil never sleeps, not having been imparted, a lot more people died, a lot more devastation than otherwise would have been the case."
+      }
+    ],
+    "speakername": "Juliette Kayyem",
+    "ground_truth": "Yeah, I mean, these are ones that people will know. Maybe I'll do a fun good news one so that we can end that way. So like [power plant incident] is a perfect example where, you know, we look to, oh my God, the lesson is that nuclear energy is not safe. That's just not true. Nuclear energy is quite safe. And that was pure negligence on the part of the [power plant] and [energy company], the energy company that owned it. There were actually nuclear facilities that were hit harder and were closer to water than [power plant]. Most people, you never hear the good news, right? They had response planning, recovery planning that once they learned of seismic shifts in the ocean, prepared themselves for what they would do to protect the nuclear facility. The public tends to view disaster management as binary, right? That the bad thing either happened or it didn't happen, that success, it did happen. That's failure. But I think that the nuclear facilities that survived and did not kill, as we see in [country], is actually proof that it's not binary. There are actually things that you can do to prepare that get you ready for the earthquake, tsunami, and everything else that happened and the nuclear threat.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "they they knew that the computers weren't separate because they they tested it they saw what happened to computers when they had them go they went to like the year 1000 right that's not helpful"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. But that actually is a pristine example of preparedness par excellence. Everyone was thinking, oh, wow. So we're all, you know, the earth will stop and it didn't. Can you give us a couple examples? And in fact, it'd be nice if they're very different of the sort of failure of imagination you're talking about. So because of the lesson that the devil never sleeps, not having been imparted, a lot more people died, a lot more devastation than otherwise would have been the case."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, these are ones that people will know. Maybe I'll do a fun good news one so that we can end that way. So like Fukushima is a perfect example where, you know, we look to, oh my God, the lesson is that nuclear energy is not safe. That's just not true. Nuclear energy is quite safe. And that was pure negligence on the part of the Fukushima and TEPCO, the energy company that owned it. There were actually nuclear facilities that were hit harder and were closer to water than Fukushima. Most people, you never hear the good news, right? They had response planning, recovery planning that once they learned of seismic shifts in the ocean, prepared themselves for what they would do to protect the nuclear facility. The public tends to view disaster management as binary, right? That the bad thing either happened or it didn't happen, that success, it did happen. That's failure. But I think that the nuclear facilities that survived and did not kill, as we see in Japan, is actually proof that it's not binary. There are actually things that you can do to prepare that get you ready for the earthquake, tsunami, and everything else that happened and the nuclear threat."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "concretely it happens and the manuals there and you've done the exercises or described you you come in and you're as cayenne solutions and you give a company an a plus because it's done what"
+      }
+    ],
+    "speakername": "Juliette Kayyem",
+    "ground_truth": "The first chapter is get your head around it. I mean, part of what is the challenge in preparedness planning is this sense that, well, I've invested enough in preparation and prevention or that can't possibly happen, right, that this could happen to me. And so Fukushima is a perfect example where, and some of this is history, because of Hiroshima and Nagasaki, the Japanese government had to sell nuclear energy as perfectly safe, right, because here was the only nation in the world that had ever been the victim of nuclear war. So they said it was perfectly safe. That's just not true. That is absolutely not true. So part of it is recognizing we could be on the other side of the boom and what do you wish you had done? So this is what these other companies had done. And the response planning is particular to nuclear facilities, but it's pretty much the same. It's, you know, shutting down, monitoring. You have, you know, teams that come in, protect certain facilities. You notify the community so that they evacuate. So all those things that, shockingly, Fukushima had not done and sort of thought were perfectly safe. I think BP oil spill is another example like that where, once again, binary, right? You sort of think oil spill or no oil spill. Right, that that's success and failure. And I actually think, like, these are very, very risky industries. I'm going to anticipate the failure. And what I want to do is learn how to fail safely, right? Learn how to fail, what we call them fail-safes, which is you're going to accept that the blowout preventer doesn't work. Well, what do I wish I had done? I wish, one, I had a second blowout preventer, right? I had a redundant blowout preventer. That's the thing forcing all the oil out of the well and uncaptured. But the other is BP had never trained or understood how would it stop a well, a deep sea well, because it just assumed that the blowout preventer would work, right? So there are ways in which you could think about, okay, I'm going to force my head to that moment because it's just fiction. The last line of defense is fiction. That's, I mean, my mind, and that's the second chapter, which is the myth of the last line of defense. If you are at your last line of defense. You're in trouble.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

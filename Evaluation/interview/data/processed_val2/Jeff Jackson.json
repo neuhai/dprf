@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I actually just read on our morning news about overdose deaths are trending in a better direction than they were still not back to where they were before the pandemic. Is there any"
+      },
+      {
+        "speaker": "[target]",
+        "text": "reason for optimism there. Yeah, so that's actually the demand side. The demand side means addiction. We have gotten smarter with treating addiction. We've gotten Narcan out there, which helps reverse overdoses. But we've also just done a good job of treating addiction. The folks who are using fentanyl, they're not using it to get high. They haven't gotten high in years they're using to stave off withdrawal. And the way you treat that is medicated assisted treatment. About a third of our counties are regularly doing that, saving a lot of lives."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to talk about crime. Youth crime specifically is a big problem. Republicans will be the first one to say Democrats are to blame, whether it's Democrats leading big cities like [location] or mind you. As the state's top law enforcement officer, what do you see as the attorney general?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "was a roll."
+      }
+    ],
+    "speakername": "Jeff Jackson",
+    "ground_truth": "Well, first of all, I'm a former prosecutor. I'm the only one in this race who has ever prosecuted a case. I've worked with law enforcement. I have worked with victims. I know what modern effective prosecution looks like. Attorney General's role, first and foremost, be a champion for law enforcement. Make sure they are fully funded. I would champion a raise for law enforcement across the state to the General Assembly. Also, we need to make sure that judges have the discretion to keep people safe. Juveniles, you don't want them treated the same way as adults. You don't want them lumped together. But you do want to make sure that judges can say, hey, there's a particular risk here, and we're going to keep this kid off the streets in order to keep people safe. They should have that discretion.",
+    "bio": "The speaker is a member of the U.S. House, representing a Congressional District in a southeastern state. They assumed office on January 3, 2023. Their current term ends on January 3, 2025. The speaker also previously ran for election to the U.S. Senate to represent their state. They did not appear on the ballot for the primary on May 17, 2022. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to talk about crime. Youth crime specifically is a big problem. Republicans will be the first one to say Democrats are to blame, whether it's Democrats leading big cities like [city] or mind you. As the state's top law enforcement officer, what do you see as the attorney general?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "was a roll."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I'm a former prosecutor. I'm the only one in this race who has ever prosecuted a case. I've worked with law enforcement. I have worked with victims. I know what modern effective prosecution looks like. Attorney General's role, first and foremost, be a champion for law enforcement. Make sure they are fully funded. I would champion a raise for law enforcement across the state to the General Assembly. Also, we need to make sure that judges have the discretion to keep people safe. Juveniles, you don't want them treated the same way as adults. You don't want them lumped together. But you do want to make sure that judges can say, hey, there's a particular risk here, and we're going to keep this kid off the streets in order to keep people safe. They should have that discretion."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Your opponent, [person], touts the endorsements of a lot of law enforcement agencies. You talk about supporting them. Why don't you feel like you have some of the endorsements that he got?"
+      }
+    ],
+    "speakername": "Jeff Jackson",
+    "ground_truth": "I think I've got a lot of enforcements. I've got a lot of endorsements that he doesn't have. Just got endorsed by [newspaper1], [newspaper2], [newspaper3]. So I'll make my best case to law enforcement, ask them to support me as the only person who has ever worked with law enforcement and actually prosecuted a case.",
+    "bio": "The speaker (Democratic Party) is a member of the U.S. House, representing [state]'s 14th Congressional District. They assumed office on January 3, 2023. Their current term ends on January 3, 2025. The speaker also ran for election to the U.S. Senate to represent [state]. They did not appear on the ballot for the Democratic primary on May 17, 2022. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I'm a former prosecutor. I'm the only one in this race who has ever prosecuted a case. I've worked with law enforcement. I have worked with victims. I know what modern effective prosecution looks like. Attorney General's role, first and foremost, be a champion for law enforcement. Make sure they are fully funded. I would champion a raise for law enforcement across the state to the General Assembly. Also, we need to make sure that judges have the discretion to keep people safe. Juveniles, you don't want them treated the same way as adults. You don't want them lumped together. But you do want to make sure that judges can say, hey, there's a particular risk here, and we're going to keep this kid off the streets in order to keep people safe. They should have that discretion."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Your opponent, [PERSON], touts the endorsements of a lot of law enforcement agencies. You talk about supporting them. Why don't you feel like you have some of the endorsements that he got?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think I've got a lot of enforcements. I've got a lot of endorsements that he doesn't have. Just got endorsed by [NEWSPAPER], [NEWSPAPER], [NEWSPAPER]. So I'll make my best case to law enforcement, ask them to support me as the only person who has ever worked with law enforcement and actually prosecuted a case."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Part of the job is getting ahead of crime trends and what we're seeing, and part of that is cracking down on scammers and specifically artificial intelligence. How do you do that? Stay one step ahead."
+      }
+    ],
+    "speakername": "Jeff Jackson",
+    "ground_truth": "of some of those fraudsters. Okay, you're absolutely right about that because this is a tidal wave that's coming. I'm specifically concerned about the effect of voice duplication technology. We know that senior citizens are the most likely group to get targeted here. We have a window of time in which to get ahead of it. I would go to the General Assembly. I need you to give me some new tools. What you need is to establish a reputation as a state for being very hostile to that type of predator in order to keep them away.",
+    "bio": "[target] (Democratic Party) is a member of the U.S. House, representing [STATE] 14th Congressional District. He assumed office on January 3, 2023. His current term ends on January 3, 2025. [target] also ran for election to the U.S. Senate to represent [STATE]. He did not appear on the ballot for the Democratic primary on May 17, 2022. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Part of the job is getting ahead of crime trends and what we're seeing, and part of that is cracking down on scammers and specifically artificial intelligence. How do you do that? Stay one step ahead."
+      },
+      {
+        "speaker": "[target]",
+        "text": "of some of those fraudsters. Okay, you're absolutely right about that because this is a tidal wave that's coming. I'm specifically concerned about the effect of voice duplication technology. We know that senior citizens are the most likely group to get targeted here. We have a window of time in which to get ahead of it. I would go to the State Legislature. I need you to give me some new tools. What you need is to establish a reputation as a state for being very hostile to that type of predator in order to keep them away."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Um, State Legislature, you mentioned the state recently passed that anti money laundering law. Uh, this would be a new tool in the toolbox for an attorney general, whoever it is. How can you use that? And for folks to home,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What does it really mean?"
+      }
+    ],
+    "speakername": "Jeff Jackson",
+    "ground_truth": "So it goes into effect this December. I would be the first Attorney General who has access to it. One of the things it means is it makes it easier to do joint investigations with federal law enforcement. We have very active federal prosecutors here in this state. They have made a priority of fentanyl. It's going to make it easier to work with them, but also make it easier not just to bust low-level dealers. That's not really what we need to do. We need to move up the chain in the investigation to the folks running the distribution cells that operate within our state.",
+    "bio": "[target] (Democratic Party) is a member of the legislative body, representing a district in the southeastern region. He assumed office on January 3, 2023. His current term ends on January 3, 2025. [target] also ran for election to the federal legislative body to represent his state. He did not appear on the ballot for the party primary on May 17, 2022. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You talked about the legislature, as you know, it's Republican dominated, something that our current attorney general has had to reconcile. How do you reconcile enforcing the laws that they pass when in some cases, as you know, you might not agree?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "with them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's no reconciling. The job of attorney general is to do that. You are the people's lawyer, but you are also the lawyer for the state, which means it would be my duty to represent the legislature or state agencies, even if I personally disagreed with them. And people should know going in, that is just the job of attorney general."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You talk about supporting law enforcement in the state, especially when you talk about a crime and how it spiked in some places. How do you view an AG's role in doing just that? Addressing crime that has spiked? Supporting law enforcement agencies."
+      }
+    ],
+    "speakername": "Jeff Jackson",
+    "ground_truth": "I'll give you a specific way the AG could support law enforcement. When people think of state law enforcement, they usually think of state highway patrol. We've got a lot of different types. Much bigger than that, yeah. Much bigger than that. Vehicle Theft Bureau would be an example. We clearly have a problem with auto theft. Their pay isn't standardized. It's variable. So some of them get a raise and some of them don't. I would be a champion for standardizing that pay to give all of them a raise.",
+    "bio": "[target] (Democratic Party) is a member of the U.S. House, representing a Congressional District in a southeastern state. He assumed office on January 3, 2023. His current term ends on January 3, 2025. [target] also ran for election to the U.S. Senate to represent the state. He did not appear on the ballot for the Democratic primary on May 17, 2022. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

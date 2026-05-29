@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How are you, first and foremost? How you feeling?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm over it. It's only been, what, has it been 30 days yet? I think it has. This fool is driving me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "crazy do you eat sleep"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and shit this though like do you mean like you don't never like just turn off turn the tv off like everything like you know what i don't want to think about it i don't want to do nothing"
+      }
+    ],
+    "speakername": "Jasmine Crockett",
+    "ground_truth": "as much as i don't want to think about it i definitely stopped watching the news as much as i used to but people are like dming me they're sending me emails we're constantly getting phone calls so no i don't turn off",
+    "bio": "Early Life & Education: Born on March 29, 1981, in a midwestern city, [target] attended a private liberal arts college, earning a BA in Business Administration. She later graduated from a major university law center with a JD. Legal Career: [target] is a civil rights attorney who has worked as a public defender and established her own law firm. Political Career: Serving as the U.S. Representative for a congressional district since 2023, [target] was previously a member of the state House of Representatives. Advocacy: A Democrat, [target] is known for her vocal support of human rights and active participation in social justice movements. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Is there anything good that this administration has done so far? Anything that you can say, well, at least that's a good thing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Huh."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Not nothing. I saw Bernie Sanders post yesterday about he likes what Trump is attempting to do with the Pentagon by auditing them and stuff like that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "attempting let's see it happen"
+      }
+    ],
+    "speakername": "Jasmine Crockett",
+    "ground_truth": "Here's the reality. I serve on the oversight committee. That's where all the drama typically happens.",
+    "bio": "Early Life & Education: Born on March 29, 1981, in a midwestern city, the individual attended a private liberal arts college, earning a BA in Business Administration. They later graduated from a major public university law center with a JD. Legal Career: They worked as a civil rights attorney, serving as a public defender and established their own law firm. Political Career: Serving as the U.S. Representative for a congressional district since 2023, they were previously a member of a state House of Representatives. Advocacy: A Democrat, they are known for their vocal support of human rights and active participation in social justice movements. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But over or approximately 50 percent of our discretionary budget is defense and they can't pass an audit. So why we didn't start there where [Person A] has decided that he was going to get two new contracts just in two weeks, one for 400 million dollars to [Company A], another for a little over 300 million dollars to [Company B]. I don't know why we didn't start there, but it seems like we could find a lot of ways, fraud and abuse, because, again, they've not been able to pass an audit."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "There is a lot of wage fraud and abuse in the federal government, though."
+      },
+      {
+        "speaker": "[target]",
+        "text": "not gonna say that there's a lot i'm gonna say that it does exist um i'm gonna say that it exists i don't think that there's a lot i think why are we doing that"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "then."
+      }
+    ],
+    "speakername": "Jasmine Crockett",
+    "ground_truth": "We're in debt because we decide that we're going to reduce the income, right? So under [Former President] and his first administration, we went into debt $8 trillion. Now, he wanted to say it was because of COVID. It really wasn't. Obviously, there was money that we sent out because people were in need during COVID to make sure that we didn't go into a recession. But at the end of the day, it was because he said, oh, wait a minute, that income, we're going to stop bringing that in from the top one percenters. Well, those [Former President] tax cuts, they expire right about now. And he's trying to reinstitute them. So here it is. You've got [Person A] running around talking about something. I'm cutting this. I'm slashing this. I'm doing this and that and da-da-da-da, all this kind of stuff, right?",
+    "bio": "Early Life & Education: Born on March 29, 1981, in [City A], [State A], [target] attended [College A], earning a BA in Business Administration. She later graduated from the [University A] with a JD. Legal Career: [target] is a civil rights attorney who has worked as a public defender and established her own law firm. Political Career: Serving as the U.S. Representative for [District A] since 2023, [target] was previously a member of the [State A] House of Representatives from the 100th district. Advocacy: A Democrat, [target] is known for her vocal support of human rights and active participation in the civil rights movement. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "There is a lot of wage fraud and abuse in the federal government, though."
+      },
+      {
+        "speaker": "[target]",
+        "text": "not gonna say that there's a lot i'm gonna say that it does exist um i'm gonna say that it exists i don't think that there's a lot i think why are we doing that"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "then."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're in debt because we decide that we're going to reduce the income, right? So under the previous administration, we went into debt $8 trillion. Now, he wanted to say it was because of COVID. It really wasn't. Obviously, there was money that we sent out because people were in need during COVID to make sure that we didn't go into a recession. But at the end of the day, it was because he said, oh, wait a minute, that income, we're going to stop bringing that in from the top one percenters. Well, those tax cuts, they expire right about now. And he's trying to reinstitute them. So here it is. You've got prominent tech executives running around talking about something. I'm cutting this. I'm slashing this. I'm doing this and that and da-da-da-da, all this kind of stuff, right?"
+      }
+    ],
+    "speakername": "Jasmine Crockett",
+    "ground_truth": "I do want to be clear that at the same time they're saying, but we got to raise the debt limit. Well, why do you have to raise the debt limit if we are saving all this money? You know why? Because they actually want to deepen the tax cuts for all those billionaires that were sitting on stage with him on January 20th. Those guys are looking to keep more money in their pocket.",
+    "bio": "Early Life & Education: Born on March 29, 1981, in a major Midwestern city, [target] attended a private liberal arts college, earning a BA in Business Administration. She later graduated from a prominent law school with a JD. Legal Career: [target] is a civil rights attorney who has worked as a public defender and established her own law firm. Political Career: Serving as the U.S. Representative for a congressional district since 2023, [target] was previously a member of the state House of Representatives. Advocacy: A Democrat, [target] is known for her vocal support of human rights and active participation in social justice movements. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He's like, oh, [name] is."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "He long on good. Like, I'm like, wait a minute."
+      },
+      {
+        "speaker": "[target]",
+        "text": "now like i mean because i got a whole body of people that's over me like i don't just get to decide what is like right and wrong and honestly i'm not allowed to take any money like i have to live a very poor life right now right like and you could be getting paid i could be i made more money before i will make more money after but right now i am living not in the overflow no i mean"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Isn't that those days, [target]? Oh, yeah. How is it that you're working for $8 million? Yeah, it's [name]."
+      }
+    ],
+    "speakername": "Jasmine Crockett",
+    "ground_truth": "No, no, no. And I had to shut them down because first they said that I had a husband. No husband, y'all. First they said I had a husband and they said that I was paying him half a million dollars.",
+    "bio": "Early Life & Education: Born on March 29, 1981, in [city], [state], [target] attended [college], earning a BA in Business Administration. She later graduated from the [university] with a JD. Legal Career: [target] is a civil rights attorney who has worked as a public defender and established her own law firm. Political Career: Serving as the U.S. Representative for [district] since 2023, [target] was previously a member of the [state] House of Representatives from the [district]. Advocacy: A Democrat, [target] is known for her vocal support of human rights and active participation in social justice movements. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

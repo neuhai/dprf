@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you, Kristen, for having me on."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you so much for being here. Let's start with this devastating news, the discovery of six bodies, hostages, including Israeli-American, [PERSON], [PERSON], [PERSON]. Everyone, I think, feels heartbroken this morning, the entire nation and, frankly, world, mourning these deaths. What is your reaction, Senator, and what do you think this will mean for hostage negotiations?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's terribly sad news that Hamas murdered, executed these six hostages in cold blood, apparently shot them in the head shortly before they might have been rescued by Israeli defense forces. My heart goes out to all the families, especially [PERSON]'s family, our fellow American. There are other fellow Americans still to be accounted for. But I think we should note that these hostages were discovered in the tunnels under [LOCATION]. That's where [PERSON] and [PERSON] put pressure on Israel not to enter for months, used an arms embargo to try to keep them from entering. [PERSON] even said that Israel shouldn't enter [LOCATION] because she had studied the maps. What the administration should have done from the beginning is not pressure Israel to restrain its response, but let Israel win from the very outset. For 11 months, the administration has put more pressure on Israel than they put on Hamas. And Iran and Iran's other terror proxies."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And Senator, just to be clear, there, of course, is no arms embargo. It is true that the administration did halt one shipment of arms out of concern. No, that's not correct. No, Kristen, that's not correct. It is correct. There's no arms embargo."
+      }
+    ],
+    "speakername": "Tom Cotton",
+    "ground_truth": "For weeks, for weeks, the administration put an embargo not just on large 2,000-pound bombs, which, of course, are needed to penetrate these deep and buried tunnels, but on things like tank rounds and artillery shells and mortar rounds. No, it was just one.",
+    "bio": "A politician born May 13, 1977, serving as the junior United States Senator for [STATE] since January 3, 2015. The speaker is a member of the Republican Party. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "For weeks, for weeks, the administration put an embargo not just on large 2,000-pound bombs, which, of course, are needed to penetrate these deep and buried tunnels, but on things like tank rounds and artillery shells and mortar rounds. No, it was just one."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "it was just one shipment of arms. No, no. It was the 2,000-pound. It was a large category."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, Kristen, it was a large category of weapons."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "hundred pounds. But it was a large category of weapons. But they have now moved forward with that. It's not an arms embargo, though, just to be very clear. It was in place. It was in place. And it's not. It was in place."
+      }
+    ],
+    "speakername": "Tom Cotton",
+    "ground_truth": "was in place for many weeks specifically to try to prevent military operations where these hostages were discovered. If we had simply provided full support from the beginning, this conflict would probably be over. We probably would have found many more hostages alive, and there would have been fewer civilian casualties caused by the opposing force's actions on its own people. But at every turn, the administration has put more pressure on allies than they have on opposing forces.",
+    "bio": "The politician (born May 13, 1977) is serving as the junior Senator for a southern state since January 3, 2015. The speaker is a member of a major political party. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, Kristen, it was a large category of weapons."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "hundred pounds. But it was a large category of weapons. But they have now moved forward with that. It's not an arms embargo, though, just to be very clear. It was in place. It was in place. And it's not. It was in place."
+      },
+      {
+        "speaker": "[target]",
+        "text": "was in place for many weeks specifically to try to prevent Israel from entering Arafa where these hostages were discovered. If we had simply backed Israel to the hilt from October 7th, this war would probably be over. We probably would have found many more hostages alive, and there would have been fewer civilian casualties caused by Hamas's infliction of those civilian casualties on its own people. But at every turn, the administration has put more pressure on Israel than they have on Iran and Hamas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And, of course, they have also argued that the administration stands firmly behind Israel. It was one-arm shipment. Let's talk about the Prime Minister. No, Kristen, it was many more. Let's talk about the Prime Minister."
+      }
+    ],
+    "speakername": "Tom Cotton",
+    "ground_truth": "fact-check thing all you want, I'm going to tell you the real facts. It was a large category of weapons far beyond just 2,000-pound bombs.",
+    "bio": "A politician serving as the junior Senator for a southern state since January 3, 2015. He is a member of the Republican Party. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "was in place for many weeks specifically to try to prevent Israel from entering Arafa where these hostages were discovered. If we had simply backed Israel to the hilt from October 7th, this war would probably be over. We probably would have found many more hostages alive, and there would have been fewer civilian casualties caused by Hamas's infliction of those civilian casualties on its own people. But at every turn, [Political Leader 1] and [Political Leader 2] have put more pressure on Israel than they have on Iran and Hamas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And, of course, they have also argued that the U.S. stands firmly behind Israel. It was one-arm shipment. Let's talk about [Political Leader 3]. No, Kristen, it was many more. Let's talk about [Political Leader 3]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "fact-check thing all you want, I'm going to tell you the real facts. It was a large category of weapons far beyond just 2,000-pound bombs."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, but it wasn't an arms embargo. That's my only point. It wasn't specifically an arms embargo. Let's just move forward, though, in terms of what [Political Leader 3] is facing right now, because he's been facing pressure in the wake of this. He's been resistant to accepting this hostage deal. Axios' Barak Ravid reports that a senior Israeli official said, quote, we warned [Political Leader 3] and the cabinet ministers about this exact scenario, but they wouldn't listen. Do you believe [Political Leader 3] bears any responsibility for not getting a deal sooner?"
+      }
+    ],
+    "speakername": "Tom Cotton",
+    "ground_truth": "No, I believe Hamas bears responsibility for not turning these hostages back over to their families and surrendering. At every turn, [Political Leader 3] has tried, tried to meet the administration halfway. They continue to move the goalposts. They continue to encourage and embolden Hamas. Consider what happened just a few weeks ago when the prime minister was here to speak at the [Government Building]. [Political Leader 2] didn't even sit behind him in a joint session for Congress, one of her few duties as vice president. Then she came out after a private meeting with him and stressed that we need a ceasefire now, which is the de facto Hamas position. What did you have two days later? You had Israeli children being blown up on playgrounds because every time [Political Leader 1] and [Political Leader 2] put more pressure on Israel, it simply emboldens Hamas and Hezbollah and Iran.",
+    "bio": "The speaker was born May 13, 1977 and is an American politician serving as the junior United States Senator for [State] since January 3, 2015. The speaker is a member of the Republican Party. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "fact-check thing all you want, I'm going to tell you the real facts. It was a large category of weapons far beyond just 2,000-pound bombs."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, but it wasn't an arms embargo. That's my only point. It wasn't specifically an arms embargo. Let's just move forward, though, in terms of what the Prime Minister is facing right now, because he's been facing pressure in the wake of this. He's been resistant to accepting this hostage deal. A news reporter reports that a senior official said, quote, we warned the Prime Minister and the cabinet ministers about this exact scenario, but they wouldn't listen. Do you believe the Prime Minister bears any responsibility for not getting a deal sooner?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I believe the opposition bears responsibility for not turning these hostages back over to their families and surrendering. At every turn, the Prime Minister has tried, tried to meet the administration halfway. They continue to move the goalposts. They continue to encourage and embolden the opposition. Consider what happened just a few weeks ago when the prime minister was here to speak at the national legislature. The Vice President didn't even sit behind him in a joint session, one of her few duties as vice president. Then she came out after a private meeting with him and stressed that we need a ceasefire now, which is the de facto opposition position. What did you have two days later? You had children being attacked on playgrounds because every time the President and Vice President put more pressure on the nation, it simply emboldens opposing forces."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Just to be very clear, though, there is pressure on the Prime Minister. You have people protesting in the streets. He is, of course, the leader of the nation, and that's who I'm asking you about. Do you think and would you urge him in this moment, Senator, to get a deal given these casualties?"
+      }
+    ],
+    "speakername": "Tom Cotton",
+    "ground_truth": "I would urge him to finish the job against the opposition, which is exactly what the Vice President and President should have done from the very beginning. Again, if we had backed the nation to the hilt, if we hadn't continually put pressure on them to slow and to moderate its response, the opposition would have been broken and we would have gotten more of these hostages down alive. The only time the opposition has even come close to releasing hostages is when they are on the ropes.",
+    "bio": "The speaker (born May 13, 1977) is an American politician serving as the junior United States Senator for a southern state since January 3, 2015. They are a member of the Republican Party. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

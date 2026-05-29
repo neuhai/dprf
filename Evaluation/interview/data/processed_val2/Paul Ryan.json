@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah. Mr. Speaker, let me get you to explain to our audience what it is you do now. A lot of former House speakers, your good friend John Boehner, set up corner offices and law firms or lobbying firms in [capital city]. They do a lot of familiar work around town. You've kind of done things a little bit different. You're more in the [major financial city] financial scene and you haven't been a big presence in the [capital city] scene. Explain to me what it is you actually do every day."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, PK, good to see you again. I have beard envy. That last clip you had was my bowhunting beard, which is like a two-month thing. So you're better than I am on the beard front."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So what is it that I do? Yeah, I decided not to earn my living in [capital city]. I wanted to do it otherwise. I retired after 20 years in Congress at the age of 48. So I still, like I said, I had a lot of gas in the tank. And I wanted to choose a few new professions. The only thing I do in [capital city] is I'm a fellow at a research institute. That's a think tank in [capital city]. And I'm on the board of a foreign policy think tank called CSIS, the Center for Strategic and International Studies. So I do think tank work in [capital city]. In [midwest state], I launched a poverty foundation."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Peace."
+      }
+    ],
+    "speakername": "Paul Ryan",
+    "ground_truth": "that I run, which focuses on evidence-based policy solutions for poverty. And then I'm an economics professor at a private university, and I'm on the board of their poverty center there. So I work with university economists and at my foundation on measuring what we think are very promising poverty programs.",
+    "bio": "The target is an American politician who served as the 54th Speaker of the United States House of Representatives from 2015 to 2019. He was the Republican Party nominee for Vice President of the United States, running alongside a former state Governor, in the 2012 U.S. presidential election. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "a lot of DC stuff. And I didn't want to become just a political pundit. It didn't really interest me, frankly. I wanted to go do other things with my life."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay. Well, listen, I want to start with a topic that was something that came up a lot in your couple of years as House Speaker. It's Russia. Just yesterday, there was a new court filing from federal prosecutors that say that this person who has been an FBI informant, who a lot of the top House Republican investigators at judiciary and oversight committees have been relying on, that his lies that they are accusing him of in terms of information that he gave to the FBI about Hunter Biden and that whole business scheme involving Ukraine and Burisma, that it was probably from Russia, that this is information that was coming through Russia to him, to the FBI. What is it about Russia in which we continue to come back to? What is it about Russia in which we continue to come back to? This sort of reverb loop that started back in 2016, where they keep trying, apparently, and to some measures, they sort of keep succeeding."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I can't speak to this particular intelligence because that happened after I was gone. Don't even know who this person is. I obviously I saw the press yesterday and I'm familiar with, you know, the House investigators and what they claim. But Russia has been trying to penetrate our system for a long before 2016. I mean, for quite a long time, they got very active in those days. And obviously now, as we know that Russia tried to affect our elections on the flip side of this, what makes Republicans angry, deservedly so in this particular case, is that the Obama Justice Department did abuse the FISA court. They did abuse the FISA laws on this matter. And, you know, we can go into the Steele dossier and all that stuff. Only point is Russia is meddling in our politics. They clearly are trying to penetrate our system. They're trying to affect our elections. They've got bots on Twitter, which we call X now and all the rest of it. They are. An adversary. They're trying to use our democracy against us. I see this as part of a larger picture where you have our adversaries, which are these tyrants, Xi in China, Putin in Russia, non-democratic tyrannies, trying to use technology and our openness of a free society of democracies against us to try and defeat us in the 21st century for primacy. They believe our weakness is our freedom. So that we would polarize ourselves into inaction. And they make the case that with technology, they can make faster, leaner, meaner decisions. I bet against that. I think we democracy will beat tyranny in the 21st century, but we sure have our work cut out for us. And Russia is basically with a bayonet trying to try to poke and find the soft tissue in the American political system. And this is probably just one more chapter in that story."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think that they found that little hole in the system with Tucker Carlson? What did you think if you saw any of the clips of him rolling through Soviet, sorry, Russian grocery stores proclaiming their greatness?"
+      }
+    ],
+    "speakername": "Paul Ryan",
+    "ground_truth": "that was just astounding to me i just you know that one takes the cake frankly um yeah i mean what they're going to try and do is build sympathy what worries me more and not just tucker that's a symptom of all this is that they're curating sympathy in america and and they're they're helping nurture and develop an isolationist wing in my party and in our country which i think is very very dangerous they're developing you know people who want to see nato reduced or nato not adhered to um obviously president former president trump is pushing this line as well so what i very much worry about is they're they're helping curate a line of thought a school of thought that is isolationist that is pro-putin pro-russia pro-tyranny at the end of the day and that is extremely dangerous for for all democracy but for us as ourselves democracy and so what i see tucker is just one little chapter in that story um i didn't watch the interview i watched a little bit of it but it just looked like a kind of an infomercial for putin to feel that pushes propaganda",
+    "bio": "Paul Davis Ryan Jr. is an American politician who served as the 54th Speaker of the United States House of Representatives from 2015 to 2019. He was the Republican Party nominee for Vice President of the United States, running alongside former Massachusetts Governor Mitt Romney, in the 2012 U.S. presidential election. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I can't speak to this particular intelligence because that happened after I was gone. Don't even know who this person is. I obviously I saw the press yesterday and I'm familiar with, you know, the House investigators and what they claim. But Russia has been trying to penetrate our system for a long before 2016. I mean, for quite a long time, they got very active in those days. And obviously now, as we know that Russia tried to affect our elections on the flip side of this, what makes Republicans angry, deservedly so in this particular case, is that the Obama Justice Department did abuse the FISA court. They did abuse the FISA laws on this matter. And, you know, we can go into the Steele dossier and all that stuff. Only point is Russia is meddling in our politics. They clearly are trying to penetrate our system. They're trying to affect our elections. They've got bots on Twitter, which we call X now and all the rest of it. They are. An adversary. They're trying to use our democracy against us. I see this as part of a larger picture where you have our adversaries, which are these tyrants, Xi in China, Putin in Russia, non-democratic tyrannies, trying to use technology and our openness of a free society of democracies against us to try and defeat us in the 21st century for primacy. They believe our weakness is our freedom. So that we would polarize ourselves into inaction. And they make the case that with technology, they can make faster, leaner, meaner decisions. I bet against that. I think we democracy will beat tyranny in the 21st century, but we sure have our work cut out for us. And Russia is basically with a bayonet trying to try to poke and find the soft tissue in the American political system. And this is probably just one more chapter in that story."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think that they found that little hole in the system with Tucker Carlson? What did you think if you saw any of the clips of him rolling through Soviet, sorry, Russian grocery stores proclaiming their greatness?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "that was just astounding to me i just you know that one takes the cake frankly um yeah i mean what they're going to try and do is build sympathy what worries me more and not just tucker that's a symptom of all this is that they're curating sympathy in america and and they're they're helping nurture and develop an isolationist wing in my party and in our country which i think is very very dangerous they're developing you know people who want to see nato reduced or nato not adhered to um obviously president former president trump is pushing this line as well so what i very much worry about is they're they're helping curate a line of thought a school of thought that is isolationist that is pro-putin pro-russia pro-tyranny at the end of the day and that is extremely dangerous for for all democracy but for us as ourselves democracy and so what i see tucker is just one little chapter in that story um i didn't watch the interview i watched a little bit of it but it just looked like a kind of an infomercial for putin to feel that pushes propaganda"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're still on the board of Fox, correct? Yes. Do you feel as if Fox could do a better job of promoting some of the values that you are talking about?"
+      }
+    ],
+    "speakername": "Paul Ryan",
+    "ground_truth": "Well, we do quite a bit. I mean, obviously, as you know, Tucker no longer works at Fox, and he was let go. I won't go into all the details of that other than what Fox â they have â there's opinion, and then there's news, and news reports all of these aspects, and there are people with opinions that give their opinions. And look, I am in the minority in my party right now. I'm not in the establishment. I'm frankly an anti-establishment Republican, and I think you can safely argue â I don't enjoy acknowledging this â that Trump is the establishment, and Trump populism is the establishment. And that Trump populism is this more isolationist strain that I think is wrong and dangerous, and I don't support, but that does represent a large swath of Republican voters, and so you will see opinions representing that majority. Okay. Establishment â that current, present-day establishment.",
+    "bio": "Paul Davis Ryan Jr. is an American politician who served as the 54th Speaker of the United States House of Representatives from 2015 to 2019. He was the Republican Party nominee for Vice President of the United States, running alongside former Massachusetts Governor Mitt Romney, in the 2012 U.S. presidential election. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we do quite a bit. I mean, obviously, as you know, Tucker no longer works at Fox, and he was let go. I won't go into all the details of that other than what Fox â they have â there's opinion, and then there's news, and news reports all of these aspects, and there are people with opinions that give their opinions. And look, I am in the minority in my party right now. I'm not in the establishment. I'm frankly an anti-establishment Republican, and I think you can safely argue â I don't enjoy acknowledging this â that Trump is the establishment, and Trump populism is the establishment. And that Trump populism is this more isolationist strain that I think is wrong and dangerous, and I don't support, but that does represent a large swath of Republican voters, and so you will see opinions representing that majority. Okay. Establishment â that current, present-day establishment."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So at the start of this election cycle, you still seem to have some hope that Trump would not be the nominee. I think the quote I have here is, I think the Republican votersâ"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Earlier or are you saying right now?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "No, early in the election cycle, you seem to think that he was not â that he could be beaten, that there were a lot of conservatives out there. I think at one point your line was, with Trump we lose. So what happened? Why was he able to hold on and do away with this field faster than just about anybody would have expected? And is it that the voters have changed and they're no longer looking for that type of [target], Mitt Romney, George W. Bush vision?"
+      }
+    ],
+    "speakername": "Paul Ryan",
+    "ground_truth": "I think it's a bunch of things. I think it's partly what you said. They want a fighter, they want a scrapper, they want a cultural warrior. I also think these indictments, particularly the New York ones, made him a victim. And that grafted MAGA onto him that much more. Look, I think these federal indictments are far more serious. I think these New York ones are far more political in nature. If his name was Don Smith, I'm not sure that he would have been indicted. I don't doubt that he cooked the books and paid off the porn star, but I don't think he would probably have gotten indicted for these things if he was just some other citizen. My point being is, these indictments made him a victim. It gave him a very credible victim narrative, and that more grafted MAGA onto him. People want to see a fighter. Yes, he was able to dispatch, and he sucks the oxygen out of the room with news. He can dominate news cycles. And that made it really hard for a lot of these primary opponents to really catch up. I don't think he was able to catch fire. And you could argue we had too many, we had a big field that was too big for too long. Nikki's still hanging around the hoop, and I'm glad she's there. But I also think that our party has changed. We have a party that is really dominated by Trump populism, and that is cultural war populism. It's zero-sum game politics. So it's not conservatism as I would describe it, classical liberal conservatism, where a party is based on principles and policies that achieve goals and ends that are timeless. And then that can have a lot of people that could become the champion of those principles. It's really a party dominated by the cult of personality of Trump, the zero-sum game politics that gets played off of that, the fact that he has been victimized more or less. And so that, I think, has made it harder for the, let's just say, the 40% base to leave him. And so he was going into this primary with a very good sticky base. The reason I always made the electability argument is we do lose with him. He only won 2016. That's the only election he's ever won. And then we lost the House. We lost the Senate. We lost the Senate and the House again. And I still think that's probably the better likelihood. But the other part of this, I'll give you a quick answer, is Biden is so weak. That's a problem. For those of us who say we lose with Trump, it's a harder argument to make these days. Because of Biden's inherent weakness. And so even Trump is beating Biden in the polls these days. And I think that's more of a testament to how weak Biden is than how strong Trump is. Look at the Marquette poll in Wisconsin. Nikki Haley beats Biden by double digits in Wisconsin and in other states. Trump beats Biden by one point. So I still think there's a big delta, a difference between pick your Republican, not named Trump. Let's just go with Nikki Haley. Nikki Haley destroys Biden, wins the House, wins the Senate in a general election. With Trump, because of Biden being so weak, he still barely edges out Biden in the polls, makes it a close election. I think at the end of the day, Democrats come home, not because they're motivated by Biden, but because they're motivated by Trump. And in those swing states, mine is one of those, let's just say, five states, that suburban voter still probably won't vote for Trump. The question is, will they vote for Biden like they did in 2020, or will they just do some third vote? I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. Some third party thing or write-in or something like that. That's the question that I don't know.",
+    "bio": "Paul Davis Ryan Jr. is an American politician who served as the 54th Speaker of the United States House of Representatives from 2015 to 2019. He was the Republican Party nominee for Vice President of the United States, running alongside former Massachusetts Governor Mitt Romney, in the 2012 U.S. presidential election. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it's a bunch of things. I think it's partly what you said. They want a fighter, they want a scrapper, they want a cultural warrior. I also think these indictments, particularly the New York ones, made him a victim. And that grafted MAGA onto him that much more. Look, I think these federal indictments are far more serious. I think these New York ones are far more political in nature. If his name was Don Smith, I'm not sure that he would have been indicted. I don't doubt that he cooked the books and paid off the porn star, but I don't think he would probably have gotten indicted for these things if he was just some other citizen. My point being is, these indictments made him a victim. It gave him a very credible victim narrative, and that more grafted MAGA onto him. People want to see a fighter. Yes, he was able to dispatch, and he sucks the oxygen out of the room with news. He can dominate news cycles. And that made it really hard for a lot of these primary opponents to really catch up. I don't think he was able to catch fire. And you could argue we had too many, we had a big field that was too big for too long. Nikki's still hanging around the hoop, and I'm glad she's there. But I also think that our party has changed. We have a party that is really dominated by Trump populism, and that is cultural war populism. It's zero-sum game politics. So it's not conservatism as I would describe it, classical liberal conservatism, where a party is based on principles and policies that achieve goals and ends that are timeless. And then that can have a lot of people that could become the champion of those principles. It's really a party dominated by the cult of personality of Trump, the zero-sum game politics that gets played off of that, the fact that he has been victimized more or less. And so that, I think, has made it harder for the, let's just say, the 40% base to leave him. And so he was going into this primary with a very good sticky base. The reason I always made the electability argument is we do lose with him. He only won 2016. That's the only election he's ever won. And then we lost the House. We lost the Senate. We lost the Senate and the House again. And I still think that's probably the better likelihood. But the other part of this, I'll give you a quick answer, is Biden is so weak. That's a problem. For those of us who say we lose with Trump, it's a harder argument to make these days. Because of Biden's inherent weakness. And so even Trump is beating Biden in the polls these days. And I think that's more of a testament to how weak Biden is than how strong Trump is. Look at the Marquette poll in Wisconsin. Nikki Haley beats Biden by double digits in Wisconsin and in other states. Trump beats Biden by one point. So I still think there's a big delta, a difference between pick your Republican, not named Trump. Let's just go with Nikki Haley. Nikki Haley destroys Biden, wins the House, wins the Senate in a general election. With Trump, because of Biden being so weak, he still barely edges out Biden in the polls, makes it a close election. I think at the end of the day, Democrats come home, not because they're motivated by Biden, but because they're motivated by Trump. And in those swing states, mine is one of those, let's just say, five states, that suburban voter still probably won't vote for Trump. The question is, will they vote for Biden like they did in 2020, or will they just do some third vote? I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. Some third party thing or write-in or something like that. That's the question that I don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you talk with governor Haley?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, not often, but we've known each other for years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay. Well, what would you advise her to do once South Carolina is over? She's talking about staying in at least through Super Tuesday. Is that it? Do you think at that point she should bow out?"
+      }
+    ],
+    "speakername": "Paul Ryan",
+    "ground_truth": "I'm not going to give her that kind of advice. I think it's healthy for our party that she's in. I think she's ready. I actually watched her speech. I'm usually too busy, but I made a point of watching. I watched the tape version of her speech yesterday. I thought it was a very well-written, very well-delivered speech. I thought it was spot on. The problem is Trump has just a really good grip on a big base of our primary. But if you look at numbers and polls, most people don't want either of these two guys as their candidates. About half of Republicans don't want Trump as their nominee. So I do think she's bringing up a healthy dialogue, raising important questions. So I think it's healthy for our party that she stays in the race. How long she should stay in, I'll just leave it to her to make that decision.",
+    "bio": "Paul Davis Ryan Jr. is an American politician who served as the 54th Speaker of the United States House of Representatives from 2015 to 2019. He was the Republican Party nominee for Vice President of the United States, running alongside former Massachusetts Governor Mitt Romney, in the 2012 U.S. presidential election. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

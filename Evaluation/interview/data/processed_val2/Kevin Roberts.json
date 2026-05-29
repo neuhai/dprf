@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "first place."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you want to do with abortion policy?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "With abortion policy, we aspire to a pro-life country that is settled by society and culture. The current administration has charted a vision in terms of politics and policy that reflects the majority of the country, which is, let's let states focus on this. And beyond that, I think it's important to understand on other policy areas, like education, which happens to be my policy expertise. I'm a fifth-generation teacher, only went to public schools, grew up a poor kid like many others. What stands in the way of people in rural areas or in industrial regions in achieving success is that we've spent a trillion dollars in the federal education department or so since 1979. And all that's happened is that academic achievement in every demographic group has gone down. Our project charts is a vision that updates education, that devolves power from the capital, and gives it back to the states and to the people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What's your response to this claim that your plan would give the president basically unlimited power to prosecute political enemies, to eliminate regulations?"
+      }
+    ],
+    "speakername": "Kevin Roberts",
+    "ground_truth": "there's nothing in the plan that says that. I think what the current administration's campaign has done is take a 100 percent mischaracterization of the plan and they've spent more money on that attacking it than we have spent putting the plan together. They get one thing right, however.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you want to do with abortion policy?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "With abortion policy, we aspire to a pro-life country that is settled by society and culture. The President and Vice President have charted a vision in terms of politics and policy that reflects the majority of the country, which is, let's let states focus on this. And beyond that, I think it's important to understand on other policy areas, like education, which happens to be my policy expertise. I'm a fifth-generation teacher, only went to public schools, grew up a poor kid like the Vice President. What stands in the way of people in regional areas or in industrial regions in achieving the success that the Vice President has gotten is that we've spent a trillion dollars in the federal education department or so since 1979. And all that's happened is that academic achievement in every demographic group has gone down. The project charts is a vision that updates education, that devolves power from the capital, and gives it back to the states and to the people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What's your response to this claim that your plan would give the president basically unlimited power to prosecute political enemies, to eliminate regulations?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "there's nothing in the plan that says that. I think what the administration campaign has done is take a 100 percent mischaracterization of the plan and they've spent more money on that attacking it than we have spent putting the plan together. They get one thing right, however."
+      }
+    ],
+    "speakername": "Kevin Roberts",
+    "ground_truth": "One thing right, amid all of that mischaracterization, so I'll give them credit, it does call for the elimination of the federal education department.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What's your response to this claim that your plan would give the president basically unlimited power to prosecute political enemies, to eliminate regulations?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "there's nothing in the plan that says that. I think what the Biden-Harris campaign has done is take a 100 percent mischaracterization of the plan and they've spent more money on that attacking it than we have spent putting the plan together. They get one thing right, however."
+      },
+      {
+        "speaker": "[target]",
+        "text": "One thing right, amid all of that mischaracterization, so I'll give them credit, it does call for the elimination of the Department of Education."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And why would you want to do that?"
+      }
+    ],
+    "speakername": "Kevin Roberts",
+    "ground_truth": "because it's just been a disaster, as I mentioned. I still, believe it or not, have friends on the political left. I've been the only conservative faculty member in some faculties, and so I understand that slings and arrows come when you're a conservative and say these things, but by any objective measure, for someone who's intellectually honest, who considers themselves easily convinced by facts, there is no objective measure that says that the Department of Education's creation has benefited education every objective measure since its creation has actually gone down.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "because it's just been a disaster, as I mentioned. I still, believe it or not, have friends on the political left. I've been the only conservative faculty member in some faculties, and so I understand that slings and arrows come when you're a conservative and say these things, but by any objective measure, for someone who's intellectually honest, who considers themselves easily convinced by facts, there is no objective measure that says that the federal education department's creation has benefited national education every objective measure since its creation has actually gone down."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now, of course, former President is trying to distance himself from your plan. He says he doesn't know anything about it. That's not really true, is it? I mean, he's spoken at foundation events."
+      },
+      {
+        "speaker": "[target]",
+        "text": "There are a lot"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "of his people who have been involved in developing this place."
+      }
+    ],
+    "speakername": "Kevin Roberts",
+    "ground_truth": "look we have a the foundation has a good relationship with with president even to this day we understand with absolutely no hard feelings that he's he has to run a campaign independent of all of these other groups right we also for the sake of our groups because we're non-profits are independent of a presidential campaign we're in a political season right now that political season is going horrifically for progressive democrats because the the policy record of the administration is awful on the economy on education on energy on foreign policy i could keep going on but i'll finish the answering your question president when he gets into a transition if if that's the will of the american people then we'll decide the policies the people he wants in his administration all project 2025 is is a set of recommendations and some percentage of those will be accepted you know foundation is often referred to as former president's think tank former president didn't accept 100 of our recommendations i think ultimately it's a non-story because this is how the apparatus on the left always works what's driving administration and progressive democrats crazy is that we've taken a page from their playbook to offer some recommendations if our candidates actually",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "that. I mean, just just as a social scientist, as someone who I guess is something of an expert on politics, if you're Biden and Harris, what else would you run on? Their record's awful. The contrast in policy between the Biden-Harris administration and Trump's first term is night and day. I think that the American people are seeing this. What we hear so often in the focus groups we do around the country is that Americans are saying we don't even really care about which political party we belong to. We belong to the common sense party. And common sense is telling Americans that Biden has been an utter failure. They wish him a long, healthy, well-deserved, peaceful retirement. And from a policy perspective, just purely, I think that that would be great for."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "America that Trump has said that some of your ideas are crazy do you know the specific policies that he disagrees with you guys on"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, not yet. I imagine at some point we'll have that conversation at the time we move from the political season, which is not our domain, right? We're in the policy and ideas and sort of academic and intellectual lane. It's the nature of a think tank. When we get into policy conversations, we'll figure that out. And to be clear, whether it's President Trump or whether it's a governor or whether it's a member of the Senate or the U.S. House, they tell us what they want their priorities to be. And the way public policy organizations work, the way Project 2025 works, is then say, if that's your priority, sir or ma'am, then here's the policy substance. Here's the plan that you might enact to go do that. So that's how that chronology works. The standard bearers always make the decisions."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And I know Trump doesn't want to deal with Social Security or Medicare. He doesn't really want to touch it. What do you all say about those in time? We say nothing."
+      }
+    ],
+    "speakername": "Kevin Roberts",
+    "ground_truth": "about Social Security and Project 2025? Some of the individual organizations that are part of Project 2025 might do some work on that. Keep in mind we've got 110 conservative organizations that are part of it. But we understand that President Trump not only has an intuitive sense of where the American people are on that question and others, but he also understands that obviously he's just going to have four years to get some priorities done. And he's rightly focused on those issues on which 80 percent of American people agree. We've got to close the border, we've got to end illegal immigration, we have to end the nonsense of the environmental policy initiatives, we've got to revitalize the economy, and we have to stop being the police force around the world and actually have a very restrained sense of foreign policy. Use sparingly the military if we must, but it also has to be very lethal.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

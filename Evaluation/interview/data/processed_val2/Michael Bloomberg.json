@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What would it take? He's never done anything in 10 minutes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Very true. Very true. And he reiterated that sentiment today. So Mike, how about it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Number one, I'm not going to run. Number two, I could not win. Somebody once pointed out to me that in New York City with a population of 8.4 million people, if my approval ratings were 90%, it still would mean that 840,000 people do not like me. And all of those people vote as well. So you just can't win if you're a business person or if you were a mayor and you actually did something. Because one of the things that you have to be able to do in a national election is to appeal to everybody. And so you want to say things that both sides hear what they want to hear. And then later on, if you ever looked at the words, you can say, well, I didn't think they said that. But that's a skill that somebody that was a mayor or a business person that had actually done things can't have. I can't pretend to be very right wing or pretend to be very left wing. I've got to relax. record, and the same thing most business people would and most mayors would, whereas somebody once said when they were running for office, it was a senator, and they're running for president of the United States, and he said, I voted for the war, but I didn't vote to fund it, which is like saying I'm pro-choice but not for women, and you can't do that. So you'd never get, somebody like me would never get the nomination of either party, and you can't really run as an independent because 40% of this country will vote Democratic even if Sarah Palin were their candidate, and I always say 40% would vote Republican even if Trotsky were their candidate, and you can't get 300% in the middle of the remaining 20%. The math just doesn't work, and if you ran, even if you had more electoral votes than the two-party candidates, you wouldn't have 50%, and it goes to the House and the way the Constitution works. The House of Representatives would pick the next president, and that would be in this case because the Republicans control it, probably Republicans."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "A year ago, I would have said, you're right, Mike, but now here we are, and we are faced with a scenario where people are looking at Donald Trump as he is gaining more momentum and more support, many of whom, one of the reasons they like him is because they kind of think he is what you actually are, and many reasons he's become so successful, so much traction is because people have said, it's so crazy, it just might work."
+      }
+    ],
+    "speakername": "Michael Bloomberg",
+    "ground_truth": "Well, I think you've got to be careful. All conventional wisdom is generally wrong, saying that a Jew couldn't win. Nobody stops and says that Bernie Sanders is a Jew. He's just Bernie Sanders is a lefty. Nobody says that Donald Trump is a billionaire. Donald Trump is this brash righty. And these guys typically aren't there at the end. If you go back and look, there's always a Ross Perot kind of person that made a big splash at the beginning, but then after things quiet down, an awful lot of these potential candidates drop out, and you're left with a handful. If I had to bet today, I would bet that Hillary Clinton is the Democratic nominee, and on the Republican side, it'll probably be one of the more traditional candidates. I always thought, as did a lot of other people, that it would be Jeb Bush. Rubio seems to be doing better at the time. If you ask yourself who of all of these candidates can run the railroad, who of all of these candidates can execute, can direct a four-million-person organization, Hillary can argue that she can. She didn't run a company, but she was Secretary of State, and she was a senator, and she was in the White House with her husband for eight years. And on the Republican side, Bush and Kasich both were governors and have a lot of executive experience. If you don't have the executive experience, then it's much tougher to win. It's much harder to run the railroad. And I think you can see that when you have a president, for example, Barack Obama, who's intelligent and a great American and really cares, but his expertise is not in terms of directing people, attracting people, getting them to contribute ideas, distilling them, and coming up with a consensus. He is much more of a loner, and executives are the reverse. Executives pull people down. They come together and get the best out of all of them.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think you've got to be careful. All conventional wisdom is generally wrong, saying that a Jew couldn't win. Nobody stops and says that Bernie Sanders is a Jew. He's just Bernie Sanders is a lefty. Nobody says that Donald Trump is a billionaire. Donald Trump is this brash righty. And these guys typically aren't there at the end. If you go back and look, there's always a business person kind of person that made a big splash at the beginning, but then after things quiet down, an awful lot of these potential candidates drop out, and you're left with a handful. If I had to bet today, I would bet that Hillary Clinton is the Democratic nominee, and on the Republican side, it'll probably be one of the more traditional candidates. I always thought, as did a lot of other people, that it would be [candidate]. [candidate] seems to be doing better at the time. If you ask yourself who of all of these candidates can run the railroad, who of all of these candidates can execute, can direct a four-million-person organization, Hillary can argue that she can. She didn't run a company, but she was Secretary of State, and she was a senator, and she was in the [government building] with her husband for eight years. And on the Republican side, [candidate] and [candidate] both were governors and have a lot of executive experience. If you don't have the executive experience, then it's much tougher to win. It's much harder to run the railroad. And I think you can see that when you have a president, for example, Barack Obama, who's intelligent and a great American and really cares, but his expertise is not in terms of directing people, attracting people, getting them to contribute ideas, distilling them, and coming up with a consensus. He is much more of a loner, and executives are the reverse. Executives pull people down. They come together and get the best out of all of them."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So let's just say those aren't the candidates. Let's say we end up, we make it through the primaries, and it is Bernie Sanders and Donald Trump. At that moment, could you say..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, by that time, it would be much too late to enter the race anyways."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But as we're getting closer and it looks like, let's say it looks like that. If you wanted to run as an independent."
+      }
+    ],
+    "speakername": "Michael Bloomberg",
+    "ground_truth": "You'd have to do it by March to get on the ballot. It's actually too late now to get on the ballot in every state for the primaries, but for the general election you could. Look, Stephanie, it does not work. I think we've got to find a ways to whoever gets elected to work with them, and hopefully whoever gets elected will have an interest in governing as opposed to just policies. You've got to pull people together. [politician] was actually pretty good at it. [politician] would play golf every Saturday and Sunday, and Barack Obama plays golf every Saturday and Sunday, pretty much. The difference is Barack Obama plays with his friends, and [politician] would play with three Republicans and three Democrats, and he'd play nine holes with each, and then they'd go, and they'd break out the cigars and the scotch and close the doors and tell dirty jokes, and he'd build sort of a camaraderie. It doesn't mean everybody would vote with you, but one of the differences between business and government, and it explains maybe, why government doesn't work as well. If I wanted something from you, I would walk up, kiss you, and then ask you for something. In government, they walk up, hit you with a two-by-four on the side of the head and ask, and they wonder why it doesn't work.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I can tell you why it doesn't work."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, we haven't had any kissing at work since you've come back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We did not, at least not that we're going to tell anybody."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That's true. But since you have come back, you've spent how many months now back at the company? Almost a year."
+      }
+    ],
+    "speakername": "Michael Bloomberg",
+    "ground_truth": "Two years, actually, because I took a little bit of a vacation for a few weeks at the beginning. But I finished in the municipal building December 31st, 2013.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We did not, at least not that we're going to tell anybody."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That's true. But since you have come back, you've spent how many months now back at the company? Almost a year."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Two years, actually, because I took a little bit of a vacation for a few weeks at the beginning. But I finished in the government office December 31st, 2013."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So during this time, as you've refocused your efforts, media, for example, you went from having a media property to being the subject of media, and now here you are back. What have you learned? What do you want to do?"
+      }
+    ],
+    "speakername": "Michael Bloomberg",
+    "ground_truth": "Well, the difference between government and business is a lot less than people would think. Conventional wisdom, people in business think everybody in government is lazy and stupid, and everybody in government thinks everybody in business is a crook and all they care about is money, and neither are true. My experience is on both sides, there are some people who are brilliant and people who are dedicated, and then some on the other side that aren't and are lazy. Everybody wants recognition and respect, some people want compensation in dollars, some people want compensation in terms of satisfaction. So if you want to have a great life, go become a public school teacher. You can change the world, you can help an enormous number of people, you can look in the mirror and be very proud of what you see before you turn off the lights. You're not going to make a lot of money. On the other hand, you could go make a lot of money and then go in, like [prominent investor] and [prominent investor] and [prominent investor], and... And you? And use the money.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That's true. But since you have come back, you've spent how many months now back at the company? Almost a year."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Two years, actually, because I took a little bit of a vacation for a few weeks at the beginning. But I finished in the government office December 31st, 2013."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So during this time, as you've refocused your efforts, media, for example, you went from having a media property to being the subject of media, and now here you are back. What have you learned? What do you want to do?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the difference between government and business is a lot less than people would think. Conventional wisdom, people in business think everybody in government is lazy and stupid, and everybody in government thinks everybody in business is a crook and all they care about is money, and neither are true. My experience is on both sides, there are some people who are brilliant and people who are dedicated, and then some on the other side that aren't and are lazy. Everybody wants recognition and respect, some people want compensation in dollars, some people want compensation in terms of satisfaction. So if you want to have a great life, go become a public school teacher. You can change the world, you can help an enormous number of people, you can look in the mirror and be very proud of what you see before you turn off the lights. You're not going to make a lot of money. On the other hand, you could go make a lot of money and then go in, like Paul Tudor Jones and Lee Ainsley and Bill Ackman, and... And you? And use the money."
+      }
+    ],
+    "speakername": "Michael Bloomberg",
+    "ground_truth": "Yeah, I mean, I take great pride in what we do. I own 86%, I think it is, of my company, and 86% of our profits go to [target] Philanthropies. And when I die, the whole company will go to [target] Philanthropies, and I spend some time on it. It's setting policy and giving some speeches and that sort of thing. We have some very competent people running the foundation, and I'm back running the company and very happy to do it. We've got some great people there. Dan Doktoroff, who was there, did a great job. I'm sorry he left. Peter Grauer did a great job. He's still there. Tom Secunda. And 20,000 people.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

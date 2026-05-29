@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And then [target]'s son is [target]. So they do... Rich people are weird. Yeah, they do an odd thing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But in a sense, he was a visionary. I mean, first of all, how difficult is it to take over a company with your name on it, where your grandfather is not only a really important part of automotive history, but a big part of world history. I mean, your grandfather's a really important figure in world history. And so the weight of that, that legacy on a guy like me, and at the time, his company was, you know, the company has never been in that much trouble, but they had had a disastrous release of a new car model, a car named for my father, and that was on my watch. And in the mid-60s, the company was seen as square. The movie talks about that some, too. So the idea that we would enter the world of European auto racing, largely for public relations, and it actually did work. I mean, the company got a big leg up in Europe as a result of participating in the racing event. But, you know, even beyond that, I just, like I say, I don't understand how somebody wakes up every day with the weight of that on their chest. And it was one of the things that really compelled me about playing the part, the idea that this guy, of course, has genuine insecurity, and one of the main reasons they even go to the race is because he gets his feelings hurt by a competitor."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "He had to save a company that was losing $10 million a month. He began by firing about 1,000 of an executive's cronies. The most difficult to dislodge was an executive who carried on a perpetual office party behind locked doors. According to legend, [target] smashed it down with a crowbar."
+      },
+      {
+        "speaker": "[target]",
+        "text": "are."
+      }
+    ],
+    "speakername": "Henry Ford II",
+    "ground_truth": "Yeah, well, I didn't smash it down with a crowbar. We just wanted to open it, and it was locked, so we opened it with a crowbar. It was a steel door. Well, that was at the time when I just took over and when I had my conversation with the executive. I just wanted to find out where all the problems were. So I figured the best way to do it is go out and get at them and have a look at them and see what we're going to do about them.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Mr. LeSueur, I really don't feel that I'm a diplomat. I've been asked by the Secretary of State to come down here as an alternate delegate to the international organization, and I've been assigned to the second committee, which is the Economic and Financial Committee, which actually has nothing to do with the diplomatic relations with any other country. We are principally concerned with economic and financial matters, and as you know, more particularly concerned with technical assistance up to this point. As a matter of fact, at this time, I am not representing our country. Mr. J.D. Zellerbach of the paper corporation from the west coast is representing us in the second committee on something called SunFed, which probably doesn't mean much to most of the citizens of this country, but which is now being discussed in the second committee."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Would you spell that sun-fed out? I think we all ought to know a little bit more about it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That is S-U-N-F-E-D, which is the Special United Nations Fund for Economic Development."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What about the difference in procedure, though, from being a business administrator and from working around a table with a lot of people from different countries?"
+      }
+    ],
+    "speakername": "Henry Ford II",
+    "ground_truth": "Well, as a matter of fact, I think that this is something that I have not had much experience with, but one which I have learned a great deal from, and I hope that I can contribute a little a bit, too. In our business, of course, which is the only thing that I've had any experience with, and that is that we are used to dealing with problems which all of us have had sort of similar backgrounds in dealing with. When we come here to the international organization, or at least from my point of view, we are dealing with peoples from 60 different countries, people that have had different economic backgrounds, different cultural backgrounds, different language backgrounds. And for me, it's been a great education and a great experience to become associated with those people and to face the problems which are facing the world. It's a very thrilling experience and one which I think is very beneficial to our country, and I think it's a very good experience. Thank you. I think the international organization can mean great things for our country.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I've felt for quite a period of time that it's better for us to trade and not aid. I think that in this country, as a matter of personal opinion and speaking for myself, that our people would rather pay less taxes and trade more than they have. And I think that if we can get reciprocal trade agreements, I think we must have an understanding with our foreign friends that they will help us if we will help them. And I think if we can have a better trade picture, a lowering of our tariffs, and I think that if they will help us, we can have more trade, which will expand our economy. I think it's in our best self-interest. I think that if we can sell our excess production, not only in the economy, but in the economy as a whole, not only in the economy as a whole, but in the economy as a whole, not only in farm goods, but in our hard goods industries, that we can do an awful lot for our country. And I think that it's in our best self-interest to do so."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Mr. [target], certain parts of the business world, we must acknowledge, didn't like some of your remarks about their desire for a closed market. How do you answer them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I thoroughly agree. I think there are lots of people who don't agree with me at all, and I don't blame them. There are lots of people that I don't agree with, and I think we all have our certain interests in which we know better than other people. But I'm thinking, as a matter of fact, in my estimation at least, for the benefit of the country as a whole, I think that it's far better for us to find some way to expand our trade so that we will not have to pay out our tax dollars in aid."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, wouldn't this matter of lower tariffs work a hardship on some people in this country?"
+      }
+    ],
+    "speakername": "Henry Ford II",
+    "ground_truth": "well work hardships on certain segments of our economy and I think that those segments should be definitely protected. I think they should maybe have...",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], certain parts of the business world, we must acknowledge, didn't like some of your remarks about their desire for a closed market. How do you answer them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I thoroughly agree. I think there are lots of people who don't agree with me at all, and I don't blame them. There are lots of people that I don't agree with, and I think we all have our certain interests in which we know better than other people. But I'm thinking, as a matter of fact, in my estimation at least, for the benefit of the country as a whole, I think that it's far better for us to find some way to expand our trade so that we will not have to pay out our tax dollars in aid."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, wouldn't this matter of lower tariffs work a hardship on some people in this country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well work hardships on certain segments of our economy and I think that those segments should be definitely protected. I think they should maybe have..."
+      }
+    ],
+    "speakername": "Henry Ford II",
+    "ground_truth": "Direct subsidy a subsidy that we can measure a subsidy that can be seen as it is We have a high protective tariff in many cases, which is unknown to the people of this country There's no way to measure it and I think if we reduce our tariffs and then can protect certain industries by Direct subsidy we'd be better off than having this umbrella",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, wouldn't this matter of lower tariffs work a hardship on some people in this country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well work hardships on certain segments of our economy and I think that those segments should be definitely protected. I think they should maybe have..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Direct subsidy a subsidy that we can measure a subsidy that can be seen as it is We have a high protective tariff in many cases, which is unknown to the people of this country There's no way to measure it and I think if we reduce our tariffs and then can protect certain industries by Direct subsidy we'd be better off than having this umbrella"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What would lower tariffs actually do for our economy, Mr. [target]?"
+      }
+    ],
+    "speakername": "Henry Ford II",
+    "ground_truth": "On my estimation, and I'm speaking for myself alone, lower tariffs would mean that it would enable us to sell more of our goods overseas and in return would allow other peoples who could earn American dollars to buy more from us, which would give them an opportunity to trade with us, which they are not now able to do because they don't have dollars.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

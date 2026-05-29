@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, former Secretary of State [target] is warning of a looming worldwide political threat. During her career in public service, [target] met with controversial political figures, including former leader of a Southeast Asian nation. [target] argues in her new book, Fascism, a warning that contemporary leaders are turning to the same tactics used by fascists like [historical leader 1] and [historical leader 2] nearly a century ago. She writes, quote, that you see now percolating that obviously you went through and the world went through nearly a century ago."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you all for having me and raising and letting me talk about this issue."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was born in 1937, and in 1938 an agreement was made, called the [historical agreement], which appeased a dictator, [historical leader 1]. And I think that that's a lesson out of that. You have to understand what is going on and not give in to evil. And then after the war, when as a result of agreements made during the war, Europe was divided and the communists, quote, liberated, the military forces liberated [Eastern European country]. And so you have to be aware of the kinds of things that are going on, that these really are kind of one step at a time. And the thing that I'm warning about are the steps that are there that we aren't paying enough attention to and looking at what the history was of [historical leader 2] and [historical leader 1], but also looking at what's going on now in countries, in [European country 1], where they just had an election, in [Middle Eastern country], in [Asian country], in [European country 2] and in [South American country] are just the examples that are happening. What's happening now."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So you're talking about relentless power grabs, essentially. So who is doing the appeasement? What can the world do?"
+      }
+    ],
+    "speakername": "Madeleine Albright",
+    "ground_truth": "think what we're doing is kind of normalizing some of this and thinking this is just a step and what is really happening is that there are leaders that are reacting to something that is happening within societies people are not happy that's for sure some as a result of technology and they've lost their jobs some as a result of immigrants coming into their countries and these leaders are grabbing power by identifying themselves with one group and then with fear with fear and then also kind of excluding the individual rights of other people and being above the law and undermining democratic institutions",
+    "bio": "[target] (May 15, 1937 - March 23, 2022) was a politician and diplomat. She was the first female Secretary of State in the nation's history, having served from 1997 to 2001 under a former president. Along with her family, [target] immigrated to the country in 1948 from an Eastern European nation. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was born in 1937, and in 1938 an agreement was made, which appeased a dictator. And I think that that's a lesson out of that. You have to understand what is going on and not give in to evil. And then after the war, when as a result of agreements made during the war, Europe was divided and the communists, quote, liberated, the army liberated the country. And so you have to be aware of the kinds of things that are going on, that these really are kind of one step at a time. And the thing that I'm warning about are the steps that are there that we aren't paying enough attention to and looking at what the history was of past dictators, but also looking at what's going on now in countries, where they just had an election, in various nations are just the examples that are happening. What's happening now."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So you're talking about relentless power grabs, essentially. So who is doing the appeasement? What can the world do?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "think what we're doing is kind of normalizing some of this and thinking this is just a step and what is really happening is that there are leaders that are reacting to something that is happening within societies people are not happy that's for sure some as a result of technology and they've lost their jobs some as a result of immigrants coming into their countries and these leaders are grabbing power by identifying themselves with one group and then with fear with fear and then also kind of excluding the individual rights of other people and being above the law and undermining democratic institutions"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So who's missing the signals here? Is it the government, senators, the president? Is it Europe? Is it the populations? Where, who are the ones missing the signals?"
+      }
+    ],
+    "speakername": "Madeleine Albright",
+    "ground_truth": "I think, frankly, everybody, because people do want some answers. But I'm particularly concerned about the democratic institutions that are—the first article of our Constitution is about Congress, and I want them to really understand what's happening.",
+    "bio": "[target] (May 15, 1937 – March 23, 2022) was a politician and diplomat. She was the first female Secretary of State in the country's history, having served from 1997 to 2001 under the president. Along with her family, [target] immigrated to the country in 1948 from their homeland. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "think what we're doing is kind of normalizing some of this and thinking this is just a step and what is really happening is that there are leaders that are reacting to something that is happening within societies people are not happy that's for sure some as a result of technology and they've lost their jobs some as a result of immigrants coming into their countries and these leaders are grabbing power by identifying themselves with one group and then with fear with fear and then also kind of excluding the individual rights of other people and being above the law and undermining democratic institutions"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So who's missing the signals here? Is it the government, senators, the president? Is it Europe? Is it the populations? Where, who are the ones missing the signals?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think, frankly, everybody, because people do want some answers. But I'm particularly concerned about the democratic institutions that areâthe first article of our Constitution is about Congress, and I want them to really understand what's happening."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I want to read from part of your book, because I think you hit that point. You write, if we think of fascism as a wound from the past that had almost healed, putting [target] in the national leadership was like ripping off the bandage and picking at the scab. What is [target]?"
+      }
+    ],
+    "speakername": "Madeleine Albright",
+    "ground_truth": "Well, I think part of the issues here, first of all, they've attacked the free press, which is central to having a democracy. They act as though they're above the law. They have, in fact, used kind of rallies and propaganda and provided a lot of simplistic answers to questions, and does not respect the rights of others.",
+    "bio": "A prominent political figure and diplomat (May 15, 1937 â?March 23, 2022) who was a significant government official. They were the first female to serve as Secretary of State, having served from 1997 to 2001 under a previous administration. Along with their family, they immigrated to the United States in 1948 from their home country in Eastern Europe. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think, frankly, everybody, because people do want some answers. But I'm particularly concerned about the democratic institutions that are—the first article of our Constitution is about Congress, and I want them to really understand what's happening."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I want to read from part of your book, because I think you hit that point. You write, if we think of fascism as a wound from the past that had almost healed, putting [prominent political figure] in the [government headquarters] was like ripping off the bandage and picking at the scab. What is [prominent political figure]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think part of the issues here, first of all, he's attacked the free press, which is central to having a democracy. He acts as though he's above the law. He has, in fact, used kind of rallies and propaganda and provided a lot of simplistic answers to questions, and does not respect the rights of others."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yesterday, he called from inside the Cabinet room. He called the federal agency raid on his personal attorney an attack on our country."
+      }
+    ],
+    "speakername": "Madeleine Albright",
+    "ground_truth": "Well, I find that ridiculous, and it's one of those things where, as I said, we can't have a leader that feels that he is above the law. The law and the rule of law is the most essential part of a democratic system.",
+    "bio": "A prominent diplomat and politician (May 15, 1937 – March 23, 2022) was the first female Secretary of State in the nation's history, having served from 1997 to 2001 under a former president. Along with her family, she immigrated to the country in 1948 from a European nation. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm actually not saying he's a fascist. I'm saying that there are certain elements of the kinds of behavior that he has that reminds me of a variety of issues that have taken place. But I think that this is not about just this election. This is about what is going on in our society in terms of respect for democratic principles. I think Trump is the most undemocratic president I have ever seen in American history. And so that's what worries me. But I do think that we all need to pay attention, which is why I'm, this is a warning. That's what the book is about."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "When it comes to the national security of this country, let's talk about that. President Trump has set up what appears to be is going to be a global summit or I should say a summit with the leader of [Country]. You've been there. What are the stakes there in meeting one on one with Kim?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the stakes are very high. I'm actually glad that there is some desire to have diplomatic talks, but I did go there. It took an awful lot of preparation. You don't just kind of show up. We had been trying to figure out a variety of things to do about [Country]. The former secretary of defense, Bill Perry, did a complete review, all kinds of things. So what worries me is the lack of preparation and a lack of understanding of the terms."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Should we believe Kim Jong-un when he says he's ready to denuclearize?"
+      }
+    ],
+    "speakername": "Madeleine Albright",
+    "ground_truth": "Well, he says it, but his meaning, I think, of it is a little bit different than what we think about. He thinks, I think, that it's going to be done in phases. And what we need is to have verification and complete denuclearization. The president has.",
+    "bio": "The speaker (May 15, 1937 - March 23, 2022) was an American politician and diplomat. They were the first female Secretary of State in the country's history, having served from 1997 to 2001 under a previous administration. Along with their family, they immigrated to the United States in 1948 from a European country. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

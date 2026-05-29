@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "My name is Mike, I'm with [local] Magazine, and we're here talking with Congressman-elect [target]. Thank you so much for being here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Of course."
+      },
+      {
+        "speaker": "[target]",
+        "text": "brother. Thank you so much for having me."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so um these last primaries were very very momentous in the [local area] um you ran against an opponent who was in office for 30 years so how did it feel like while you were going through your campaign and also on election night"
+      }
+    ],
+    "speakername": "Jamaal Bowman",
+    "ground_truth": "yeah so you know from the very beginning uh we believed we had a chance to win because we knew we were going to do everything in our power to connect with the grassroots and connect with the people most impacted by bad policy that's come from [capital city] over the last 30 years and it wasn't just about my opponent it was about a system of oppression uh that leaves black and brown communities marginalized that leaves poor communities marginalized and it's something that the people feel on a day-to-day basis so we connected early and often uh directly with the people you know we went to [local] projects [local] projects [local] [local] [local] [local] [local] [local] we went straight to the communities that have been mostly ignored knocked on doors uh listened learned about issues that mattered most and through that process we built authentic deep relationships with people throughout the district from the very beginning um so that that gave us the power and that gave us the momentum and gave us the support we needed to ultimately win and on election night you know quite honestly it felt like a celebration you know it felt like the community coming together uh to support you know our campaign uh because of the relationship building work that we've done throughout and let me just say you know we we won the [local area] substantially but we also won [local area] as well um and many people uh didn't believe that we would have a shot in [local area] and didn't believe we would have a shot in parts of the [local area] and we were able to win both pretty pretty substantially",
+    "bio": "[target] is an American educator and politician. He is the [political party] nominee in the 2020 elections seeking to represent [district] in the [national legislature], successfully running against incumbent representative [opponent]. He is a former principal and founder of the [school name], a public middle school in [local area]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "brother. Thank you so much for having me."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so um these last primaries were very very momentous in the local area um you ran against an opponent who was in office for 30 years so how did it feel like while you were going through your campaign and also on election night"
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah so you know from the very beginning uh we believed we had a chance to win because we knew we were going to do everything in our power to connect with the grassroots and connect with the people most impacted by bad policy that's come from the capital over the last 30 years and it wasn't just about my opponent it was about a system of oppression uh that leaves black and brown communities marginalized that leaves poor communities marginalized and it's something that the people feel on a day-to-day basis so we connected early and often uh directly with the people you know we went to various housing projects and residential areas throughout the district um we went straight to the communities that have been mostly ignored knocked on doors uh listened learned about issues that mattered most and through that process we built authentic deep relationships with people throughout the district from the very beginning um so that that gave us the power and that gave us the momentum and gave us the support we needed to ultimately win and on election night you know quite honestly it felt like a celebration you know it felt like the community coming together uh to support you know our campaign uh because of the relationship building work that we've done throughout and let me just say you know we we won substantially in both regions um and many people uh didn't believe that we would have a shot in either area and we were able to win both pretty pretty substantially"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "yeah um it's it's really refreshing to hear you say that that you were really on the ground meeting with people and it's also um kind of funny to hear that people did kind of do out um in these places when you were actually there you know you were actually there making those connections actually doing the work that is necessary to hear people in these communities and to actually um meet those needs um so as you mentioned um district 16 covers a very wide um swath of the region and also neighboring areas and there's a lot of different socioeconomic groups a lot of different demographics um so how would you reconcile the needs of um let's say residents in different neighborhoods with varying economic conditions"
+      }
+    ],
+    "speakername": "Jamaal Bowman",
+    "ground_truth": "Yeah. I mean, at a very basic human level, we all want the same thing. We all want dignity and respect. We all want opportunities, both economically and educationally. We all want to be safe and secure. And we all want and deserve resources for our community. So at a very basic level, we all want the same thing. Issues like environmental justice stretches the boundaries or crosses the boundaries of different socioeconomic areas because environmental challenges, as well as the environmental catastrophe that we're dealing with, is going to impact everyone, right? So that's an issue that crosses boundaries. Education is another issue that crosses boundaries, even though there are many issues in the district with varying economic backgrounds, there's still a lot to be desired in the education systems there. Because we have a traditional system that focuses on college preparation. The ultimate goal of the system is for you to be on a pathway to a prestigious university, right? But we have learned and we understand that that is not the goal for everyone. Whatever their goal is, whether they're independent or teaching or pursuing other paths, we need to support that. What matters most is our common humanity - regardless of background, ethnicity, or faith - and how can we organize and strategize and mobilize around our common humanity towards building a better country? I mean, that's the goal. So that's how we were able to connect and relate to people across the district.",
+    "bio": "The speaker is an American educator and politician. He is a major party nominee in the 2020 elections seeking to represent a congressional district in a northeastern state in the national legislature, successfully running against a long-term incumbent representative. He is a former principal and founder of an academy for social action, a public middle school in an urban area. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. I mean, at a very basic human level, we all want the same thing. We all want dignity and respect. We all want opportunities, both economically and educationally. We all want to be safe and secure. And we all want and deserve resources for our community. So at a very basic level, we all want the same thing. Issues like environmental justice stretches the boundaries or crosses the boundaries of white, wealthy Westchester and lower income Bronx because environmental racism, as well as the environmental catastrophe that we're dealing with, is going to impact everyone, right? So that's an issue that crosses boundaries. Education is another issue that crosses boundaries, even though there are many issues that we in the district who grew up white and wealthy, there's still a lot to be desired in the education systems there. Because we have a traditional system that puts... The ultimate goal of the system is for you to be on a pathway to a high performing college, right? To an Ivy League school. That's the ultimate goal. But we have learned and we understand that that is not the goal for everyone. That doesn't leave everyone for... Those of us from effort to serve will either end up as oppressed orbers or be burger, whatever the short term, eating altogether, whether they're independent or teaching or stuck in the classroom, whatever their goal is. I know that hopefully this book and all the justice books, those books will have that quote anew. Welcome back to the deck. Welcome back to the deck. Let's begin came up with a book about the book that made our research and it was nothing without us, and that was, I've written quite a long book. So let's start with myself at the bottom. black, white, Jewish, Muslim, Christian, whatever, what is our common humanity and how can we organize and strategize and mobilize around our common humanity towards building a better country? I mean, that's the goal. So that's how we were able to connect and relate to people across the district."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's so cute. And I really appreciate, you know, I'm a three-time college dropout. I couldn't just do it twice. I had to go a third time. I appreciate your views on education and being an educator, you would know firsthand."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So, kind of going back to your days as an educator, how do you feel about the schools opening up now and what would you recommend if you were kind of empowered?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so we partnered with the University of Pennsylvania to do a comprehensive study on school reopening and what the needs truly are and when would we be actually truly ready to go back to school. Assuming all the resources are brought to bear. And just to be clear, at this moment, they are not. We do not have all the resources we need to open our schools. The federal government has to respond, in particular, the Senate, the United States Senate needs to respond and make sure to pass the HEROES Act so that we can get the resources to our public school. That hasn't happened yet."
+      }
+    ],
+    "speakername": "Jamaal Bowman",
+    "ground_truth": "But New York City and New York State have done a good job of lowering the amount of COVID cases to the point where, you know, some type of reopening with in person instruction can be done safely. I'm happy that we have pause and we're not rushing back next week. It's, I'm glad that we are, you know, going back at the end of the month. It sounds like it's been a collaborative effort. Which is great, but we still need those resources. So while we will continue to do the best we can, those resources matter. And if we get the resources. Retrofitting our schools for the proper ventilation and circulation and safety protocols is going to matter tremendously. And if that happens, we'll be, we'll be able to continue through November and through the school year, but the November through February period is key. Because that's also flu season. So this is just, you know, it's an unprecedented time for everyone. We really need the federal government to step in and do more for all of us, but I'm happy that New York State, New York City in particular. We got our numbers very, very, very low at this moment because we pause and you know the unions with this, the unions put a lot of pressure on the city, which is a good thing. It's a healthy tension that needs to happen. And if It seems like we got a collaborative Solution that that most most people agree with. And then for the parents who are choosing to do remote learning and have the capacity to do that. That's great. Childcare is being provided for the city, which is excellent. So, you know, as I've always said throughout my career. We need a holistic approach to education and right now with this pandemic, we were forced to take a holistic approach in order to open safe.",
+    "bio": "[target]Â is an American educator and politician. He is theÂ Democratic PartyÂ nominee in theÂ 2020 electionsÂ seeking to representÂ New York's 16th congressional districtÂ in theÂ United States House of Representatives, successfully running against incumbent representativeÂ Eliot Engel. He is a former principal and founder of the Cornerstone Academy for Social Action, a public middle school inÂ Williamsbridge, Bronx. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So, kind of going back to your days as an educator, how do you feel about the schools opening up now and what would you recommend if you were kind of empowered?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so we partnered with a major university to do a comprehensive study on school reopening and what the needs truly are and when would we be actually truly ready to go back to school. Assuming all the resources are brought to bear. And just to be clear, at this moment, they are not. We do not have all the resources we need to open our schools. The federal government has to respond, in particular, the Senate needs to respond and make sure to pass the HEROES Act so that we can get the resources to our public school. That hasn't happened yet."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But the city and state have done a good job of lowering the amount of COVID cases to the point where, you know, some type of reopening with in person instruction can be done safely. I'm happy that we have pause and we're not rushing back next week. It's, I'm glad that we are, you know, going back at the end of the month. It sounds like it's been a collaborative effort. Which is great, but we still need those resources. So while we will continue to do the best we can, those resources matter. And if we get the resources. Retrofitting our schools for the proper ventilation and circulation and safety protocols is going to matter tremendously. And if that happens, we'll be, we'll be able to continue through November and through the school year, but the November through February period is key. Because that's also flu season. So this is just, you know, it's an unprecedented time for everyone. We really need the federal government to step in and do more for all of us, but I'm happy that our state and city in particular. We got our numbers very, very, very low at this moment because we pause and you know the unions with this, the unions put a lot of pressure on the city, which is a good thing. It's a healthy tension that needs to happen. And if It seems like we got a collaborative Solution that that most most people agree with. And then for the parents who are choosing to do remote learning and have the capacity to do that. That's great. Childcare is being provided for the city, which is excellent. So, you know, as I've always said throughout my career. We need a holistic approach to education and right now with this pandemic, we were forced to take a holistic approach in order to open safe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yes, yes, yes."
+      }
+    ],
+    "speakername": "Jamaal Bowman",
+    "ground_truth": "That's a great question. Wow, that's a great question. I'm embarrassed to, I don't want to give my unhealthy choices. I don't want to do that. But near our school, and this is what's weird about, my school was located between two major roads, right around the corner from the intersection.",
+    "bio": "[target] is an American educator and politician. He is the Democratic Party nominee in the 2020 elections seeking to represent a congressional district in the state legislature in the United States House of Representatives, successfully running against the incumbent representative. He is a former principal and founder of a public middle school in an urban area. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's a great question. Wow, that's a great question. I'm embarrassed to, I don't want to give my unhealthy choices. I don't want to do that. But near our school, and this is what's weird about, my school was located off of [street] and [avenue], in between [street] and the [regional highway], right around the corner from [location]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Sweet."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "at [street], you know?"
+      }
+    ],
+    "speakername": "Jamaal Bowman",
+    "ground_truth": "exactly that's exactly where it is right so it's an industrial area so so not much is out there but if you're able to take a ride right over that little highway that leads to [suburb] there's a [restaurant chain] there that we would often frequent there's a [market] there I believe that we would also you know frequent and there are two places that are closer the [local diner] and [local diner] as well on [street] so any one of those four and when I tried to be healthy and would just get a shake or something like that there's a [juice shop] [juice shop] is right off of [avenue] right off the [train line] on that same block I actually just came from there this morning you know during the summer I've been starting my breakfast at [juice shop]",
+    "bio": "[target] is an American educator and politician. He is the [political party] nominee in the 2020 elections seeking to represent [district] in the [legislature], successfully running against incumbent representative [opponent]. He is a former principal and founder of the [school name], a public middle school in [neighborhood], [city]. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

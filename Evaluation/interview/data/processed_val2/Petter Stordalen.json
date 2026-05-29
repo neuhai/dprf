@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And then, you see, I even had to accept a mini-pig via a foreign city."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So then you are very much in love when you accept to have a mini pig in your bed."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Then, you know..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Dan, Dan, you..."
+      }
+    ],
+    "speakername": "Petter Stordalen",
+    "ground_truth": "But then, so after the first date we realized even we were from very different places, I was a businessman, she was a medical doctor, she wanted to work to save lives and to save the planet.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So then you are very much in love when you accept to have a mini pig in your bed."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Then, you know..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Dan, Dan, you..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But then, so after the first date we realized even we were from very different places, I was a businessman, she was a medical doctor, she wanted to work to save lives and to save the planet."
+      }
+    ],
+    "speakername": "Petter Stordalen",
+    "ground_truth": "And then, at the same time, we had the same views on the big questions. And then, so I was very much in love, not just because she was beautiful, but she was much more beautiful inside. She had the heart at the right place. And that was why I...",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Dan, Dan, you..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But then, so after the first date we realized even we were from very different places, I was a businessman, she was a medical doctor, she wanted to work to save lives and to save the planet."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then, at the same time, we had the same views on the big questions. And then, so I was very much in love, not just because she was beautiful, but she was much more beautiful inside. She had the heart at the right place. And that was why I..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "she still has."
+      }
+    ],
+    "speakername": "Petter Stordalen",
+    "ground_truth": "more than ever more than ever and then so I proposed because I thought she could be in my wife and she could also be my business partner and she can teach me a lot about the environmental questions and the sustainability and the necessity of having a new and much more sustainable capitalism",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "To you, [target], how much support and in which way do you give to your wife's involvement to ensure success in her conferences in order to achieve the necessary attention worldwide that in turn may result in countries budgeting enough money for environmental projects? Because many governments, they don't put money in their budget for environment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and that's a that's a huge part of the problem but I'll put it like this and for me every company need in the future to put money in their budget to be a much more sustainable company if you see Unilever today they have this at the top of their agenda so when Gunev started to work not only with the zero emission conference or all the other initiatives she also wanted to change the company the way we everything from food waste energy concept everything then I knew you can't only do this without also having to spend money we can't fight the climate change with no money and the richer you are as a person as a company or as a country you more money you are you have to spend"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Sitting in [region], as I told you before, it's a huge responsibility, particularly for [region], to help not only [region] and [region], but also to help, I don't care if they help the rainforest, or if they spend money in [region], as long as they put it on their budget. This is not like philanthropy. This is about the future of the whole planet. So it's not like something you can say, no, it's easy when the crisis hits you, like in 2008, that you take it out of the budget, because it's easy for all the people working with economic questions to say, no, this we can take away."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But the way you are talking now, then it helps me to continue with this next point. There are many wealthy people in [region] who are disengaged in environmental issues. They are not charitable in any way, despite their huge wealth. I have in mind those in the shipping industry who have been accused of soiling the environment, mostly in the developing countries. What advice do you have for such people?"
+      }
+    ],
+    "speakername": "Petter Stordalen",
+    "ground_truth": "The cost of the civilization is taxed, everything is based on that you need to pay taxes and the rich people need to respect this because if it's the too big distance between the rich and the poor they will change the system we have and if companies and rich private persons don't understand that we need to change and everybody needs to take part to create a society which takes care of everybody.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "even the people sitting at the end of the table that's the most important people and in this country we have a system for this, a social welfare system this is a mini picture so I just"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I just don't want to talk about all the people doing nothing because they need to do it in the future. Otherwise the people will say, they will spread the words via social media and say don't buy those products."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And that's transparency. But just to comment on that, because I think it's very, very important to tell the success stories. And even though you don't believe in climate change, even though you don't believe in resource scarcity, that we will be 9 billion people that will share all these scarce resources in some decades, you still should do the changes in your company, because it will be beneficial. You will have a better profit. And I think it's important to start talking about it's good for your economy as well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Being a billionaire family, committed environmentalists, ready to save our planet, do you have a voice in your country's government policies, touching on environment? And here I'm thinking about the government, whether they consult you, because you are a billionaire family, you are environmentalists, do they consult you when they are making the policies, your own government?"
+      }
+    ],
+    "speakername": "Petter Stordalen",
+    "ground_truth": "dances in a way yes and no i'm sure they listen uh... what's happening at the conference i'm sure they listen and uh... and when they're going is working with nudging i'm sure they look up uh... on what did that business people are doing and what they are saying and that's why our voice is important on the other hand day shall be reelected so even if they sometimes know this is right they know if i do it even if i think is right i might not be reelected that's the same reason that's the most wealthy people in this country have too low taxes that's the reason and that that's the reason like many countries the politicians state know what to do but they can't do it because they have to be reelected",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

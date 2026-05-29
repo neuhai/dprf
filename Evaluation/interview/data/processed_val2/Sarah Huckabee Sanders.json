@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Political conference."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, just a slightly well-known individual, maybe the most popular human on the face of the planet right now. So America's favorite president. That's right. Former president. Are you all excited?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So this is such a blessing for me. [target] and I worked together at the government building for several years, and I mean, [target], seriously, what you have accomplished is amazing. And we're so proud of you, just to start right there."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "we were"
+      }
+    ],
+    "speakername": "Sarah Huckabee Sanders",
+    "ground_truth": "Trying to raise our kids during that time. Trying being the key word there, we were trying to raise our kids and somehow they turned out amazing.",
+    "bio": "Born August 13, 1982, is an American campaign manager and political adviser who served as Press Secretary at a federal government building under a former President from 2017 to 2019. She previously served as Deputy Press Secretary to her predecessor in 2017. She is the third woman to fill the position. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it was a classic Donald Trump. If he doesn't like something, he's going to call it out. I think it's one of the things that has made him so incredibly popular. And one of the reasons he's been able to get so much done is because he doesn't care who's in the room, what it looks like. He's going to tell you exactly what he thinks in that moment. And that's what he did. And frankly, he's on the right side. I'm so tired of hearing the left say that they care about women when they can't even tell you what a woman is. And we finally have a president who will stand up for women and fight back. And I think that, um, it's a, it's a great thing to see Donald Trump being the one to sign executive orders that defend and define what a man and what a woman are, which it's sad that we have to do that. But also as a mom of a daughter, that is a 12 year old volleyball player that we have somebody that's saying, no, we're not going to let men play girls sports. And Donald Trump is doing that. And I think he's right to call people out who are on the wrong side."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, we have a rating system that we rate at CPAC, all the state legislatures, state, all the governors, all the federal legislators as well. Governor Sanders has ranked the top conservative governor in America. The top. Number one. And I know partly is because we're related, but no. But Sarah, tell us about, you're in the middle of the legislative session, you have so much going on, you've been in office now, and what are you planning to accomplish this legislative session? What do you think the people of Arkansas really want and what they're focused on?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're working on that, and President Trump is very quick to remind us on that every time I see him. But what we've really focused on is bringing conservative principals back, and everything from opening up universal school choice, we were one of the first states in the country to do that, starting next semester. Every single student in Arkansas will be able to choose where they go to school, and their parents will be empowered to make that decision. And I'm really proud we were one of the leaders of that. We've cut taxes three times in the state of Arkansas in just two years, now making us competitive with every other state in the region. We are getting indoctrination not just out of our K through 12 but also out of higher education. And we don't care if you're tenured or not. That is one of the big pieces of legislation that we have going forward. And through this cycle, we're also removing cell phones from the classroom. And I signed legislation this week, bell to bell, no cell, and really proud of what we're doing for young people, for parents, for families. And we're going to continue fighting and making Arkansas the most conservative state in the country."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "are moving in. It is becoming a popular destination. I mean walk us through why your state and you know we always talk about these federal elections and obviously having President Trump in office is what is such a critical win but these states are just as critical as well because we meet people from California who talk about how horrific it is to live under Democrat oppression. Let's just call it what it is and here we have a perfect example of what your doing in Arkansas to be that blueprint for other states. What's your advice to other governors especially Republican governors that that are trying to do the same that it's and we talk about conservative principles but these are American principles of being pro-family, pro-economic prosperity, pro-safety."
+      }
+    ],
+    "speakername": "Sarah Huckabee Sanders",
+    "ground_truth": "Well, one of the big differences now is we actually have a partner in the White House instead of somebody we have to fight every single day. I got to see Lee Zeldin yesterday, he's the new head of the EPA, I said, I'm just glad we have somebody there that we don't have to sue every single week and we can actually work with to get things done. Over the last several years, Republican governors are the ones who have held the line. While Washington was a completely broken, dysfunctional mess, Republican governors are the ones who stepped up and worked on securing the border. We sent Arkansas Guard to the border two separate occasions over the last couple of years because Joe Biden wouldn't get the job done. Now we have a partner in Donald Trump who's not going to just be a partner, but he's going to be a leader. He's going to be the number one fighter pushing back on some of the crazy wokeness that we have seen the left try to impose on our families. On our schools. On our businesses. And Republican governors are going to be right there with him. We're going to make sure that our schools do not become indoctrination factories for the left. We're going to make sure that you can run your business the way that you want to and that you can raise your kids the way that you want to, as it was intended in this country. And I'm proud of the work we've been able to do. Arkansas is now the number one state in the country that people are moving to. It's not Texas. It's not Florida. It's not Virginia. It's Arkansas. So if you don't live there yet, we're ready for you to move and call that your home. We're the number one state for economic growth. We're the lowest cost of living. We are booming on all fronts. And it's because we're implementing good, conservative policy that lets you live your life without constant government intrusion. And that's something we're proud of and something we're going to continue to do in our home state.",
+    "bio": "Sarah Elizabeth SandersÂ (nÃ©eÂ Huckabee; born August 13, 1982)Â is an AmericanÂ campaign managerÂ andÂ political adviserÂ who served asÂ White House Press SecretaryÂ underÂ PresidentÂ Donald TrumpÂ from 2017 to 2019. She previously served asÂ White House Deputy Press SecretaryÂ to her predecessor,Â Sean Spicer, in 2017. Sanders is the third woman to fill the position. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "are moving in. It is becoming a popular destination. I mean walk us through why your state and you know we always talk about these federal elections and obviously having President Trump in office is what is such a critical win but these states are just as critical as well because we meet people from California who talk about how horrific it is to live under Democrat oppression. Let's just call it what it is and here we have a perfect example of what your doing in Arkansas to be that blueprint for other states. What's your advice to other governors especially Republican governors that that are trying to do the same that it's and we talk about conservative principles but these are American principles of being pro-family, pro-economic prosperity, pro-safety."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, one of the big differences now is we actually have a partner in the White House instead of somebody we have to fight every single day. I got to see Lee Zeldin yesterday, he's the new head of the EPA, I said, I'm just glad we have somebody there that we don't have to sue every single week and we can actually work with to get things done. Over the last several years, Republican governors are the ones who have held the line. While Washington was a completely broken, dysfunctional mess, Republican governors are the ones who stepped up and worked on securing the border. We sent Arkansas Guard to the border two separate occasions over the last couple of years because Joe Biden wouldn't get the job done. Now we have a partner in Donald Trump who's not going to just be a partner, but he's going to be a leader. He's going to be the number one fighter pushing back on some of the crazy wokeness that we have seen the left try to impose on our families. On our schools. On our businesses. And Republican governors are going to be right there with him. We're going to make sure that our schools do not become indoctrination factories for the left. We're going to make sure that you can run your business the way that you want to and that you can raise your kids the way that you want to, as it was intended in this country. And I'm proud of the work we've been able to do. Arkansas is now the number one state in the country that people are moving to. It's not Texas. It's not Florida. It's not Virginia. It's Arkansas. So if you don't live there yet, we're ready for you to move and call that your home. We're the number one state for economic growth. We're the lowest cost of living. We are booming on all fronts. And it's because we're implementing good, conservative policy that lets you live your life without constant government intrusion. And that's something we're proud of and something we're going to continue to do in our home state."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Gosh, wouldn't she make a great vice?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "presidential pick in 2028 I think so I do I do sorry Sarah you don't have to respond to that okay I'm not very happy to be in Arkansas okay maternal health you're providing funding I really want you to talk about this this problem that you this crisis you discovered in your state how you're solving it because it's not only impacting states like Arkansas but other states as well in the south walk us through what you're doing there"
+      }
+    ],
+    "speakername": "Sarah Huckabee Sanders",
+    "ground_truth": "You know, one of the things that I think is so important for the pro-life community is that we don't just focus on the baby when they're in the womb, but it's what does that look like after? And making sure that we are actually fighting for kids every single day, and that's something that's really important in our state. We had about 10% of moms in Arkansas that were never seeing a doctor until they were in labor. That's unacceptable, especially when they have that access to care. They just weren't taking advantage of it. We know that healthy moms make healthy babies, so we've invested heavily in making sure that those women get the care that they not only need and deserve, but they know that their life and their child's life has value. And it's something that we want to protect at every single stage, and so we're investing heavily in the maternal health problem in Arkansas, and something that we're going to expect to see. It's going to have a dramatic impact and dramatic results just in a short amount of time.",
+    "bio": "Sarah Elizabeth SandersÂ (nÃ©eÂ Huckabee; born August 13, 1982)Â is an AmericanÂ campaign managerÂ andÂ political adviserÂ who served asÂ White House Press SecretaryÂ underÂ PresidentÂ Donald TrumpÂ from 2017 to 2019. She previously served asÂ White House Deputy Press SecretaryÂ to her predecessor,Â Sean Spicer, in 2017. Sanders is the third woman to fill the position. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'll see you next time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah. Okay. Makes us sound older than we are. Makes us sound so old."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Help me help me figure out here like I'm watching this and going I'm amazed. I'm amazed It is so different from what our experience was at the time Give us that comparison that of what you're seeing and also what advice you're giving to this next"
+      },
+      {
+        "speaker": "[target]",
+        "text": "administration right now look I can't say enough good things about the president and his team and what they're doing you know we used to joke that you aged in dog years during the first administration because it was like seven at a time and so we haven't aged not a bit we didn't"
+      }
+    ],
+    "speakername": "Sarah Huckabee Sanders",
+    "ground_truth": "It was the most intense, most, I think, polarizing, difficult time that we've seen probably in political history in a very long time during Trump's first administration. Nobody expected him to win, and when he did, they weren't happy that he was here. Then they saw what life was like under a Trump administration, and they had a chance to see what life was like without Trump in the White House, and they didn't like it very much. And so now that he's back, people want to see him doing exactly what he talked about on the campaign trail. They want a strong economy. They want somebody who will secure the border. They want somebody who's going to take China on. He was the first president in my lifetime that actually called China out and is holding their feet to the fire. I was the first governor in the country to kick China out of our state. Offer. Off of our farmland and impose a fine on it. We know that's popular. And it was because of Donald Trump that we were empowered to take those type of strong actions. We have a president who's going to make our allies actually respect us and our enemies fear us. It's a total opposite of what we saw over the course of the last four years. You know, you joke at the speed at which Trump is moving. They always have heard the... They always have heard the moniker that we wish that government could move at the speed of business. Well, he's redefining that all over again. There's the speed of government. There's the speed of business. And now there's the speed of Trump, which is unlike anything I've ever seen. And he's doing so much so fast. They don't even know how or where to attack him this time. And so I hope that he can keep up this pace. I've never seen anybody with the level of energy that he has. Yeah. As you know well, it was not surprising that we could get a phone call from the president at midnight, 1 a.m., asking us to do a laundry list of things and then calling us back a couple of hours later at 4 or 5 in the morning and saying, did you get all that done? I'm like, no, I didn't. But he doesn't sleep. He doesn't expect anybody else to sleep either. And he has more... He's almost twice my age. Yeah. He's almost twice my age, and he has twice my energy. But it's because he loves this country. And he did not need to run and take this job on, but America needed him to be willing to do it. And anyone else, anyone else that would have gone through the level of intense criticism and the attacks to assassination attempts on his life would have given up. But this is a president who I think that only emboldens him more. The more they come after him, the stronger and tougher he gets, and the more he comes back ready to deliver for the American people. And I love getting to see him with this mandate and with this level of excitement for his presidency, because he deserved it the first time and he didn't get it. And now he's getting it and he's winning. And because he is America's greatest champion. Yeah. Yeah. Yeah. winning. So I love",
+    "bio": "Sarah Elizabeth SandersÂ (nÃ©eÂ Huckabee; born August 13, 1982)Â is an AmericanÂ campaign managerÂ andÂ political adviserÂ who served asÂ White House Press SecretaryÂ underÂ PresidentÂ Donald TrumpÂ from 2017 to 2019. She previously served asÂ White House Deputy Press SecretaryÂ to her predecessor,Â Sean Spicer, in 2017. Sanders is the third woman to fill the position. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Help me help me figure out here like I'm watching this and going I'm amazed. I'm amazed It is so different from what our experience was at the time Give us that comparison that of what you're seeing and also what advice you're giving to this next"
+      },
+      {
+        "speaker": "[target]",
+        "text": "administration right now look I can't say enough good things about the president and his team and what they're doing you know we used to joke that you aged in dog years during the first administration because it was like seven at a time and so we haven't aged not a bit we didn't"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was the most intense, most, I think, polarizing, difficult time that we've seen probably in political history in a very long time during Trump's first administration. Nobody expected him to win, and when he did, they weren't happy that he was here. Then they saw what life was like under a Trump administration, and they had a chance to see what life was like without Trump in the White House, and they didn't like it very much. And so now that he's back, people want to see him doing exactly what he talked about on the campaign trail. They want a strong economy. They want somebody who will secure the border. They want somebody who's going to take China on. He was the first president in my lifetime that actually called China out and is holding their feet to the fire. I was the first governor in the country to kick China out of our state. Offer. Off of our farmland and impose a fine on it. We know that's popular. And it was because of Donald Trump that we were empowered to take those type of strong actions. We have a president who's going to make our allies actually respect us and our enemies fear us. It's a total opposite of what we saw over the course of the last four years. You know, you joke at the speed at which Trump is moving. They always have heard the... They always have heard the moniker that we wish that government could move at the speed of business. Well, he's redefining that all over again. There's the speed of government. There's the speed of business. And now there's the speed of Trump, which is unlike anything I've ever seen. And he's doing so much so fast. They don't even know how or where to attack him this time. And so I hope that he can keep up this pace. I've never seen anybody with the level of energy that he has. Yeah. As you know well, it was not surprising that we could get a phone call from the president at midnight, 1 a.m., asking us to do a laundry list of things and then calling us back a couple of hours later at 4 or 5 in the morning and saying, did you get all that done? I'm like, no, I didn't. But he doesn't sleep. He doesn't expect anybody else to sleep either. And he has more... He's almost twice my age. Yeah. He's almost twice my age, and he has twice my energy. But it's because he loves this country. And he did not need to run and take this job on, but America needed him to be willing to do it. And anyone else, anyone else that would have gone through the level of intense criticism and the attacks to assassination attempts on his life would have given up. But this is a president who I think that only emboldens him more. The more they come after him, the stronger and tougher he gets, and the more he comes back ready to deliver for the American people. And I love getting to see him with this mandate and with this level of excitement for his presidency, because he deserved it the first time and he didn't get it. And now he's getting it and he's winning. And because he is America's greatest champion. Yeah. Yeah. Yeah. winning. So I love"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "always getting the insider information so there would be times this is so funny we'd literally get where our first meeting was like seven o'clock in the morning I can't remember it was so early in the morning we're half asleep and before you know they'll be like Trump President Trump had tweeted something out at two or three o'clock in the morning so we would all look at Sarah everybody okay Sarah this is what he said what you know what are our talking points I mean that's how that's how it was I mean it was so really learning on the job too so now that you've transitioned from being you know the president's spokesperson the press secretary at the White House into being the governor of a state how does that feel I mean what's the how is it so different"
+      }
+    ],
+    "speakername": "Sarah Huckabee Sanders",
+    "ground_truth": "You know, it's really different when you're the one sitting in the chair and it's your name on the paper to sign legislation or an executive order. There's a different weight and responsibility that comes with that. But I could not be more thankful for the experience that I had in the White House, because I learned so much from the president. One, never back down, never stop fighting, and always do what you think is right. And the rest of it works itself out pretty well. And that experience, I think, gave me such great perspective. And one of the most important things and takeaways was that I didn't need the outsiders to define me. In those moments, the most difficult days that we had in the White House, of which there were many, we didn't need the outside world to define us. We had a creator who had already done that, who had given my life meaning and purpose. And my job is to believe that and try to live up to the path that I have. And that's what he did for me. And if I knew that, the rest of it, whether it's in the White House, my house, or the governor's mansion, gets really simple after that. And so proud of what we've been able to do and glad that I got to do it alongside some of the most amazing people on the planet.",
+    "bio": "Sarah Elizabeth SandersÂ (nÃ©eÂ Huckabee; born August 13, 1982)Â is an AmericanÂ campaign managerÂ andÂ political adviserÂ who served asÂ White House Press SecretaryÂ underÂ PresidentÂ Donald TrumpÂ from 2017 to 2019. She previously served asÂ White House Deputy Press SecretaryÂ to her predecessor,Â Sean Spicer, in 2017. Sanders is the third woman to fill the position. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

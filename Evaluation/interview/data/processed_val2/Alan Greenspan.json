@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I would say that more generally for the moment, I'm somewhat pessimistic because looking across the globe, I see major pockets of weakness which do not seem to be recovering. To be sure, the United States is doing reasonably well, but every time we start to recover, it turns out to be a false dawn. And when you look across to Europe, the economic zone, for example, is in, I think, very poor shape. I'm very much worried about the whole system out there. The major European country, as you know, is doing quite well. In fact, the U.S. and this European country are actually the two outliers of the global economy. The major Asian economy is doing poorly. I can just go around the globe, but it doesn't come out well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let me ask you a very specific one, though, because there is a theory going around, you will know the theory I'm talking about, secular stagnation, that there is some long-term issue that growth has in some way run out in the Western world, that technology might have slowed down, there's nothing to invest in, that only the rich people have money to spend and they don't spend it anyway, and that these are all long-term things and there's really no growth left. What weight do you put on that theory?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, secular stagnation is an old term which was coined by a prominent professor at a major university, in 1938, trying to describe why, after the 1929 crash, it took so long for the American, and in fact the rest of the world, to recover. In fact, in the United States, unemployment stayed in double digits from 1929 until 1938, when, in fact, this professor raised the issue. It's basically, as he put it, that there's something structural, long-term structural, secular, long-term structural, in the system which is preventing it from growing. And indeed, that is a reasonably good characterization of what's going on in the world today, and the only question is, why is it happening?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why is it happening?"
+      }
+    ],
+    "speakername": "Alan Greenspan",
+    "ground_truth": "Well, when you get a question like this, the best thing to do is to try to look at the data and see where the consistencies of weakness are. And it shows up remarkably consistently across the globe that it is long-lived construction and other long-lived assets which are taking the brunt of the decline. It's like an eight-cylinder motor running on seven cylinders and it cannot get the last cylinder going. And that last cylinder is essentially construction. And if you look at the major European country data, you look at the American data, you look at the economic zone data, they're all the same. That is, the average amount of construction has deep...",
+    "bio": "[target] (born March 6, 1926) is a person who served as Chair of a major federal financial institution of the United States from 1987 to 2006. They currently work as a private adviser and provide consulting for firms through their company. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why is it happening?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, when you get a question like this, the best thing to do is to try to look at the data and see where the consistencies of weakness are. And it shows up remarkably consistently across the globe that it is long-lived construction and other long-lived assets which are taking the brunt of the decline. It's like an eight-cylinder motor running on seven cylinders and it cannot get the last cylinder going. And that last cylinder is essentially construction. And if you look at the UK data, you look at the American data, you look at the Euro area data, they're all the same. That is, the average amount of construction has deep..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "decline."
+      },
+      {
+        "speaker": "[target]",
+        "text": "relative to GDP."
+      }
+    ],
+    "speakername": "Alan Greenspan",
+    "ground_truth": "has declined very precipitately and it has not significantly recovered. It's recovered some in the United States, but it's still a problem of secular stagnation.",
+    "bio": "[target] (born March 6, 1926) is a Jewish AmericanÂ who served asÂ Chair of the Central Bank of the United States from 1987 to 2006. He currently works as a private adviser and provides consulting for firms through his company, [target] Associates LLC. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "decline."
+      },
+      {
+        "speaker": "[target]",
+        "text": "relative to GDP."
+      },
+      {
+        "speaker": "[target]",
+        "text": "has declined very precipitately and it has not significantly recovered. It's recovered some in the United States, but it's still a problem of secular stagnation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Give us your prognosis for the Eurozone. Those German figures were terrible yesterday. People are beginning to talk again about, actually, did the crisis end in the way that we talked about two years ago?"
+      }
+    ],
+    "speakername": "Alan Greenspan",
+    "ground_truth": "Well, the problem basically is in the very structure of the eurozone itself. Putting everybody into a single currency makes it very difficult for them to adjust if they had in the past, before they entered the euro, continuously devalued in order to remain internationally competitive. Now, it's true that a remarkable phenomenon occurred. On January the 1st, 1999, all of those countries came together and basically, the way I put it, is that they expected the Italians to behave like Germans. But the cultures between the Germans and the Italians is profoundly difficult to change. And however, the eurozone worked extraordinarily well. For the first eight years. And the reason is that the boom, the so-called dot-com boom was going on, and everybody could be competitive, no matter how poorly they operated. And indeed, Italy was not competitive. Their unit labor costs went up, and that was true of Greece, Portugal, Spain. And the result was that when the crisis hit in 2008, the whole system collapsed and everyone went back to work. They went back to their old problems.",
+    "bio": "[target] (born March 6, 1926) is a Jewish person who served as Chair of the central bank from 1987 to 2006. He currently works as a private adviser and provides consulting for firms through his company, [target] Associates LLC. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a pleasure being with you, Derek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I know that you agree with Dr. Summers that jobs will continue to, job growth will continue to accelerate. Do you think it will accelerate enough that it will make a dent in unemployment? That is, that we see the numbers of 300,000 jobs created a month as opposed to just 100,000, which basically is treading water."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm not sure, but I don't think it's impossible by any means. There is a momentum building up, which is really just beginning, and it's got a way to go. There are certain critical issues here. First, we have to remember that the capital gains on 401 s are $600 billion. And as we saw, when money was being evaporated in those particular accounts, people pulled back their consumption. We're now moving forward in a more positive direction. Secondly, capital investment, which had been extremely depressed, is still depressed for real estate, but equipment is coming back in a fairly substantial way. But most important of all is this incredible increase in the difficulties, I should put it this way, the increase in the lead times that it takes. We're going to have to build new inventories to protect their production lines at an ever-increasing pace. And that is a self-reinforcing cycle. So I think the particular area of the economy which people are not putting enough focus on is how significant this rebound is. Thank you. That's a great question. So we're going to be in a situation, and for a lot of you, I'm sure you saw this, that the rebound of inventories is going to be after such an extraordinarily dramatic decline that occurred through all of last year. Remember, as of now, inventory change is zero. The level of inventories is at the absolutely low level. And all of the people who are in the business to see what the tightness of markets are, are saying effectively that there's a shortage of inventories on the market. WELL, I'M NOT SURE I'M AS SURE AS I WAS IN THE SUMMER. SO THE PROBLEM IS THAT I THINK THE BAD LEVEL OF INVENTORY IS GOING TO BE AFTER SUCH AN EXTRAORDINARILY DRAMATIC DECLINE THAT OCCURRED THROUGH ALL OF LAST YEAR. of inventories out there, and we're on the edge of a significant buildup."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you mentioned real estate, and I've heard a lot of economists talk about their fear of the commercial real estate bubble popping. How concerned are you by that?"
+      }
+    ],
+    "speakername": "Alan Greenspan",
+    "ground_truth": "Well, I think it's already popped, in a sense. I mean, real estate prices generally are down almost 50%. And they've come back a little bit, very recently.",
+    "bio": "[target] (born March 6, 1926) is a Jewish American who served as Chair of the Central Bank of the United States from 1987 to 2006. He currently works as a private adviser and provides consulting for firms through his company, [target] Associates LLC. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm not sure, but I don't think it's impossible by any means. There is a momentum building up, which is really just beginning, and it's got a way to go. There are certain critical issues here. First, we have to remember that the capital gains on 401s are $600 billion. And as we saw, when money was being evaporated in those particular accounts, people pulled back their consumption. We're now moving forward in a more positive direction. Secondly, capital investment, which had been extremely depressed, is still depressed for real estate, but equipment is coming back in a fairly substantial way. But most important of all is this incredible increase in the difficulties, I should put it this way, the increase in the lead times that it takes. We're going to have to build new inventories to protect their production lines at an ever-increasing pace. And that is a self-reinforcing cycle. So I think the particular area of the economy which people are not putting enough focus on is how significant this rebound is. Thank you. That's a great question. So we're going to be in a situation, and for a lot of you, I'm sure you saw this, that the rebound of inventories is going to be after such an extraordinarily dramatic decline that occurred through all of last year. Remember, as of now, inventory change is zero. The level of inventories is at the absolutely low level. And all of the people who are in the business to see what the tightness of markets are, are saying effectively that there's a shortage of inventories on the market. WELL, I'M NOT SURE I'M AS SURE AS I WAS IN THE SUMMER. SO THE PROBLEM IS THAT I THINK THE BAD LEVEL OF INVENTORY IS GOING TO BE AFTER SUCH AN EXTRAORDINARILY DRAMATIC DECLINE THAT OCCURRED THROUGH ALL OF LAST YEAR. of inventories out there, and we're on the edge of a significant buildup."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you mentioned real estate, and I've heard a lot of economists talk about their fear of the commercial real estate bubble popping. How concerned are you by that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's already popped, in a sense. I mean, real estate prices generally are down almost 50%. And they've come back a little bit, very recently."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "crisis that we saw with the with the subprime housing and personal housing"
+      }
+    ],
+    "speakername": "Alan Greenspan",
+    "ground_truth": "Yeah. With prices already down and adjusted, if we were going to get severe secondary reactions, they would have likely would have occurred. And they would have occurred if it weren't for the fact that the rest of the economy is showing some degree of buoyancy.",
+    "bio": "The target (born March 6, 1926) is an American who served as Chair of the Federal Financial Authority from 1987 to 2006. They currently work as a private adviser and provide consulting for firms through their company. The speaker's MBTI type is INTP",
+    "split": "val"
+  }
+]

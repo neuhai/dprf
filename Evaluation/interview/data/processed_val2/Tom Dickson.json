@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The kids have been, there's 165 videos now. Some of the kids have been in videos. Right. When I'm competing, like when they're doing a Rubik's Cube and see how fast you can do it. Well, they do that pretty fast, and we speed it up to boot. But then I blend my Rubik's Cube. That's how I take care of it, my solution. But, yeah, so the kids are in it. My oldest son is running our, really, I'm the CEO, and then we have a council, really, that runs the company. We don't quite have 12, but we have four. And they, different aspects of the business, but they get together at 830 every morning, and they really do everything. So I can just come and go when I want, and they do all the, and I can trust them. It's my son, my grandson, my grandkids, some of them are involved in a major way, both engineering and. Well, excuse me, one of the."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And they have different aspects of the business, but they get together at 8.30 every morning and they really do everything."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I can just come and go when I want, and they do all the, and I can trust them. It's my son, my grandson, my grandkids, some of them are involved in a major way, both engineering and... Well, excuse me, one of the machines you showed me, your grandson's helping build this thing, right? So did you teach them how to invent and engineer and do these things, or is that just something they picked up watching Grandpa along the way?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's in their blood and they have the opportunity. There's so much to work with here."
+      }
+    ],
+    "speakername": "Tom Dickson",
+    "ground_truth": "So they've been able to grow up here, even though they've been in [state] and [state], helping [political figure] on his campaign, but no, they've been very helpful, and they're back, and they're going to [university] and [university] and [city], and so they're involved.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I can just come and go when I want, and they do all the, and I can trust them. It's my son, my grandson, my grandkids, some of them are involved in a major way, both engineering and... Well, excuse me, one of the machines you showed me, your grandson's helping build this thing, right? So did you teach them how to invent and engineer and do these things, or is that just something they picked up watching Grandpa along the way?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's in their blood and they have the opportunity. There's so much to work with here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So they've been able to grow up here, even though they've been in [state1] and [state2], or [state3], helping [politician] on his campaign, but no, they've been very helpful, and they're back, and they're going to [university1] and [university2] and [city1], and so they're involved."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, what a great opportunity for them. I know when I was little, one of the first things I wanted, I wanted to be an inventor when I was young, but I would just basically take a VCR that would no longer work and start tinkering with it. I didn't even know what anything was, but I just was, I always was fascinated with it. So it's really cool. I got to tour the facility with you and it was fun to see just how much goes into engineering each of these parts. And you guys have done a really good job of bringing most of the manufacturing back here to the States. Tell us how, what was your, why was your decision to do that? Because almost everything's built here, right here in [state4], right?"
+      }
+    ],
+    "speakername": "Tom Dickson",
+    "ground_truth": "Yes. And from the very beginning, my first job out of [university1], it's either make or buy decisions. You make as much as you can in-house. Certainly keep it from [region1]. We've been, I mean, not that we don't build things in [region1], especially our molds, because nobody in this country can do as good a job, unfortunately, and certainly for as little money. But that's where we build our injection molds for making our plastic parts and so on. But no, we're an American company. We're the most American-made countertop kitchen appliance in the world. I mean, right here in [state4]. So we can take copper out of [company1], [company2], ship it to the [region2], draw it into wire, and then wind our own motors. And we can make a blender with our latest $10 million worth of automation, 16 robots, in 8 seconds. So you can go from scratch. But nobody can do that. And nobody can do it. You have to have perfect parts to be able to automate like that. You have one bad part, everything's...",
+    "bio": " The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, it's amazing. I mean, you turn out millions of blenders every year, right? I mean, do you know the number of how many a year? Just millions. Just better every year. That's amazing. Well, and I want to back up. When you were younger, I know you talk about you had a need for speed. You basically liked to go really fast, you talk about. Was that an inspiration for building fast appliances, essentially? Because you had other fast appliances as well, just trying to speed up that process. Your blender is known as the industrial gray. I mean, it can blend anything. That's what you're known for, right? Yeah, number one in the world. And so was that speed part of you just always kind of on your mind? Is that why you engineered towards that, or was that just something that was kind of a coincidence?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "just barely here. That's amazing. Well and I want to back up then when you were younger I know you talk about you had a need for speed you basically like to go really fast you talk about was that an inspiration for building fast appliances essentially because you had other fast appliances as well just trying to speed up that process your blender is known as the industrial gray I mean can blend anything that's what you're known for right? Yeah, number one in the world. And so was that speed part of you just always kind of on your mind is that why you engineered towards that or was that just something that was kind of a coincidence?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I agree."
+      },
+      {
+        "speaker": "[target]",
+        "text": "up I'm very competitive and so anything with wheels and an engine I always have to have a big engine little things even at my university my first year in my second year I put a sports car engine a fuel-injected 375 horsepower engine in a 1955 classic car so it did wheelies in three years so it was the fastest car in the state and I came here being very conservative put regular street tires on it and in one week after racing a bunch of sports cars it was the end of the tires I had my friend in the west coast put my racing tires on a bus for $10 ship them here back on the back of the car and but no I've always been from when I'm very little just from go-karts I raced go-karts in the early days and I could beat anybody I didn't weigh a lot you know for it to start with and And so, very light and big engines, and so I could beat anybody on go-karts. And then I started drag racing motorcycles, and this always happens on a Sunday, which is not a good thing. So I would take my motorcycle, and it was very hopped up."
+      }
+    ],
+    "speakername": "Tom Dickson",
+    "ground_truth": "At 15 and a half, I had a learner's permit so I could ride it. I couldn't ride anybody on the back, but I could. And so I pushed it down the street, fired it up, very noisy, fired it up, and went across the bridge. This is in the west coast area. Went across the bay to the racing area, where I drag raced. I went to the drag strip, 15 and a half, and they said, are you 18? I said, oh, no, no, but just call my dad. You know, he'll give permission. Now, my mom goes to church. My dad never went to church, but my mom was getting ready for church, and I figured she's not going to answer the phone. She answers the phone, and they said, your son's at the drag strip. He wants to race his motorcycle. Will you give permission? And I go, oh. And she said yes, which just blew me away. But anyhow, I went home from that with a trophy and then ended up having the record in the region in the M-Class drag racing motorcycle. Wow, that's amazing. Then I realized that wasn't the best thing to be doing. On Sunday, after I got into other kind of motorcycle racing, when you're crashing and you think, oh, this is not good.",
+    "bio": " The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I agree."
+      },
+      {
+        "speaker": "[target]",
+        "text": "up I'm very competitive and so anything with wheels and an engine I always have to have a big engine little things even at [University] my first year in my second year at [University] I put a Corvette engine a fuel-injected 375 horsepower Corvette engine in a in an Austin Healey in the 1955 Austin Healey so it did in [State] did wheelies in three years so it was the fastest car in [State] and I came here being very conservative put regular street tires on it and in one week after racing a bunch of Corvettes it was the end of the tires I had my friend in [State] put my racing tires on a bus for $10 ship them to [State] back on the back of the car and but no I've always been from when I'm very little just from go-karts I raced go-karts in the early days and I could beat anybody I didn't weigh a lot you know for it to start with and And so, very light and big engines, and so I could beat anybody on go-karts. And then I started drag racing motorcycles, and this always happens on a Sunday, which is not a good thing. So I would take my Triumph motorcycle, and it was very hopped up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "At 15 and a half, I had a learner's permit so I could ride it. I couldn't ride anybody on the back, but I could. And so I pushed it down the street, fired it up, very noisy, fired it up, and went across the [Bridge]. This is in the [Region] area. Went across the bottom tip of the [Bay] to [City], where I drag raced. I went to the drag strip, 15 and a half, and they said, are you 18? I said, oh, no, no, but just call my dad. You know, he'll give permission. Now, my mom goes to church. My dad never went to church, but my mom was getting ready for church, and I figured she's not going to answer the phone. She answers the phone, and they said, your son's at [City] Drag Strip. He wants to race his motorcycle. Will you give permission? And I go, oh. And she said yes, which just blew me away. But anyhow, I went home from that with a trophy and then ended up having the record in [Region] in the M-Class drag racing motorcycle. Wow, that's amazing. Then I realized that wasn't the best thing to be doing. On Sunday, after I got into other kind of motorcycle racing, when you're crashing and you think, oh, this is not good."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I love that. Well, you have a go-kart, a little mini course outside your headquarters here in [City]. And do you use it?"
+      }
+    ],
+    "speakername": "Tom Dickson",
+    "ground_truth": "that little go-kart yeah we have a go-kart yeah we have a it's actually maintained by the city of [City] owned by [Company] our great neighbors across the street and it's a it's a walking quarter mile walking path but when we get out there nobody's walking on it because because we can go pretty fast but yeah my faster go-kart which is even too fast for that track was 140 miles an hour so fortunately my grandkid i'm i'll be 72 in uh in july wow so some you're a very young 72 but you told me",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I love that. Well, you have a go-kart, a little mini course outside your headquarters here in [location]. And do you use it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "that little go-kart yeah we have a go-kart yeah we have a it's actually maintained by the city and owned by our great neighbors across the street and it's a it's a walking quarter mile walking path but when we get out there nobody's walking on it because because we can go pretty fast but yeah my faster go-kart which is even too fast for that track was 140 miles an hour so fortunately my grandkid i'm i'll be 72 in july wow so some you're a very young 72 but you told me"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're a very young 72, but you told me you're a great grandpa, I was like doing the math in my head, I'm like you definitely don't look old enough right now."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So we have a good time, but yes, so I started on you know racing things and then"
+      }
+    ],
+    "speakername": "Tom Dickson",
+    "ground_truth": "But I was really troubled in school. I had a tough time going through school because I couldn't read. I'm ADHD and dyslexic. And as I go around and lecture people, younger people and so on, I ask how many of you are ADHD and how many are dyslexic. And very rarely will you find someone who's got both those problems. So I read two books. I read [book title], which I think my mom may have helped me read, and then [book title]. And my wife more recently, a few years ago, got me both those books because I can read now. So I had a tough time.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "val"
+  }
+]

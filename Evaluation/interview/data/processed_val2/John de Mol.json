@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Welcome."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I just first wanted to chat to you about how you've seen the entertainment world change since you and your contemporaries have brought reality TV to the world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, actually, in the year 2000 or 1999, when we launched [Show Name], we sort of created a whole new genre, which has never been there. I think [Show Name] was a sort of a frontrunner to, I don't know, hundreds and hundreds of new formats in the genre reality."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How did the industry react when you were trying to get it made? It was huge."
+      }
+    ],
+    "speakername": "John de Mol",
+    "ground_truth": "I'm sure at something really new, the reactions at first are always sort of careful, especially in the bigger markets. I thank God on my knees that I live and work in a country that is much more flexible and much more open to changes than in bigger markets. But even in [Country], they looked at it like, ooh, what is this? Is this going to work? What were they anxious about? They were anxious about the health of the people, the critics, advertisers. Are they willing to put ads in that program? Which indeed, in the beginning, was the fact that they didn't. But then suddenly, when [Show Name] was on air in [Country] after two or three weeks, the whole attitude towards the program changed from negative to extremely positive. Why was that, do you think? Well, because I think the preoccupied opinion about the show. Before anyone has ever seen one second of it was so strong. But after three or four weeks, everybody was sort of falling over each other to adjust their opinion and to admit that [Show Name] was a great television.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm sure at something really new, the reactions at first are always sort of careful, especially in the bigger markets. I thank God on my knees that I live and work in a country that is much more flexible and much more open to changes than in bigger markets. But even in the small country, they looked at it like, ooh, what is this? Is this going to work? What were they anxious about? They were anxious about the health of the people, the critics, advertisers. Are they willing to put ads in that program? Which indeed, in the beginning, was the fact that they didn't. But then suddenly, when the show was on air in the small country after two or three weeks, the whole attitude towards the program changed from negative to extremely positive. Why was that, do you think? Well, because I think the preoccupied opinion about the show. Before anyone has ever seen one second of it was so strong. But after three or four weeks, everybody was sort of falling over each other to adjust their opinion and to admit that the show was a great television."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Were there moments when you thought it was gonna fail because you're starting something so new you're not optimizing something"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, my doubts."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "if any"
+      }
+    ],
+    "speakername": "John de Mol",
+    "ground_truth": "We're more in the technical area because the first time in the history of television We created the TV show where 120 cameras were individually Taping a lot of material. How do we stall it? How do we edit it? How do we do that technically?",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, my doubts."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "if any"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're more in the technical area because the first time in the history of television We created the TV show where 120 cameras were individually Taping a lot of material. How do we stall it? How do we edit it? How do we do that technically?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And there was, of course, a kind of a social issue as well. I remember you once saying, Jesus, we need to be careful because otherwise we'll be like God."
+      }
+    ],
+    "speakername": "John de Mol",
+    "ground_truth": "Well, actually, if you look back at the first series of the reality show, to be quite honest, it was so boring because we were so careful, because we were so afraid to hurt people, to harm people that we basically have been watching 100 days people sitting on a couch talking about baking bread.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We're more in the technical area because the first time in the history of television We created the TV show where 120 cameras were individually Taping a lot of material. How do we stall it? How do we edit it? How do we do that technically?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And there was, of course, a kind of a social issue as well. I remember you once saying, Jesus, we need to be careful because otherwise we'll be like God."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, actually, if you look back at the first series of the show, to be quite honest, it was so boring because we were so careful, because we were so afraid to hurt people, to harm people that we basically have been watching 100 days people sitting on a couch talking about baking bread."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can you remember where the creative idea first came from? Did someone walk in one day or was it you who suddenly thought, let's try a real life experiment?"
+      }
+    ],
+    "speakername": "John de Mol",
+    "ground_truth": "It was a coincidence. A guy in my company who was just on a plane said he read in the plane an article about a scientific project. And he was intrigued by it because it was about a group of people put in a big glass bowl and they had to sort of grow their own vegetables and sort of live together.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, actually, if you look back at the first series of the reality show, to be quite honest, it was so boring because we were so careful, because we were so afraid to hurt people, to harm people that we basically have been watching 100 days people sitting on a couch talking about baking bread."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can you remember where the creative idea first came from? Did someone walk in one day or was it you who suddenly thought, let's try a real life experiment?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was a coincidence. A guy in my company who was just on a plane said he read in the plane an article about a scientific project. And he was intrigued by it because it was about a group of people put in a big glass structure and they had to sort of grow their own vegetables and sort of live together."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It was a TV show? No, no, no, it wasn't an experiment. It was a..."
+      }
+    ],
+    "speakername": "John de Mol",
+    "ground_truth": "scientific experiment and I was intrigued so I kept on asking more and more and more and that is the whole start of the reality show",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

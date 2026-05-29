@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good to see you, David."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I'll tell you what, you're drinking out of a fire hose a little bit. How's it been so far for you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know what, it's been a lot of fun. Um, I talked to some of my predecessors in this job and one of the things they said is you've got to always have fun to succeed in the job and that's what we do. We have such a great team over at the [government building] and certainly, you know, it's, it's a lot of incoming, but nevertheless, um, when you've got a great team of people and a lot of prayer warriors out there, it makes it a little bit easier. So I'm just having the time of my life and what an honor to serve president."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I want to ask you a little bit that first press briefing, which I called on Twitter a home run. But there you were with the cross right front and center. I want to talk about your faith and how important that is to you. What's that faith journey been like going back to religious school, all girls religious school? Yes."
+      }
+    ],
+    "speakername": "Kayleigh McEnany",
+    "ground_truth": "all girls religious school. You know, I, people ask me what denomination I am and it's, I'm like, well, I went to religious school my whole life, but I was raised Southern Baptist. So I guess I'm just, I'm Christian. Um, but yeah, I grew up, grew up going to religious school, um, religious college, but born and raised Southern Baptist. And I consider myself an evangelical Christian. Um, but faith is indispensable. You know, you mentioned that first press briefing. What you may not know is I was in panic mode right before. And, um, I was in, I was just got very nervous. We were very well prepared, prepared all night, all morning, all day. Um, and then it closed the door and my assistant, Lindy, who's a friend as well, uh, can attest to the fact that I was just rattled and extremely nervous and feeling a lot of anxiety. Um, and I called my mom and on speaker phone, my family and I, we all prayed together. Uh, Lindy, who's a fellow Christian, a sister in Christ was there and, um, we, we just all prayed together and all of a sudden I took a deep breath. And after those prayers, it.",
+    "bio": "Born: 18 April 1988, [City], [State], United States\n[Target] is an American political commentator and author who served as the 31st [government building] press secretary. [Target] began her media career as a producer for Huckabee on [News Network] and later worked as a political analyst for [News Network]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So my dad, as you mentioned, played football at [university]. He was very small for his position of defensive end. He's not a small guy, but I mean, he is for that position was small at the time. And he says something to the effect of it doesn't matter how small the dog is. It matters to fight in the dog. And that's a bulldog phrase. And he fought hard and made his way up to be a leader on that team and hold. I think it's the number three sacks record. And it was because he had a whole lot of passion and built a business from the ground up. With basically nothing, just built it from scratch. And my mom was a big partner in that and has always been a woman of faith. And just seeing the two of them, the passion, the grounding in faith, the constant instilling of those principles in us definitely was a big key to finding my way through the media world and the political world to being [government] press secretary."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Talk to me a little bit about your faith as it relates to your family and Blake and your husband, kind of making sure your family is kind of rooted in that faith. I know you said something along the lines of making sure your daughter and family are rooted or at least follow the footsteps of Christ. And you feel like that's very important. Maybe expand about that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it's extremely important. We all lead busy lives. My husband plays Major League Baseball, which means he travels everywhere. I, in my role, will be traveling to a lot of places, but it's a lot of hours. And my previous role with the campaign was always on the road. So we've had to have a family where a lot of people come in and help us. My mom is a big asset. I was able to take my little tiny loved one, little Blake, my little daughter, all to [state1] and [state2] and [state3], and she just traveled the state with me before COVID, the country with me before COVID hit. And my mom was a big asset in that in the campaign and assisting and allowing me to be a working mom, literally a working mom, where my daughter came with me to these various elections and rallies and debates. And then now it's just work, effort and progress, I should say, where we all chip in and help one another, but having faith through the center of our families, what makes all things work. I believe God put me in this place for a purpose and for a reason, like he does with each and every life."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Kayleigh McEnany",
+    "ground_truth": "We are all here for a reason and achieving that purpose means making sacrifices sometimes and sometimes that means family sacrifices. But I know at the end of the day, if I give Blake the same faith upbringing and relationship with Jesus Christ that my parents gave me, she will be an unstoppable woman of faith in whatever she decides to do.",
+    "bio": "Born: 18 April 1988, [city], [state], United States\nAn American political commentator and author who served as the 31st [government] press secretary. Began media career as a producer for a news show and later worked as a political analyst for a major news network. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it's extremely important. We all lead busy lives. My husband plays professional baseball, which means he travels everywhere. I, in my role, will be traveling to a lot of places, but it's a lot of hours. And my previous role with the campaign was always on the road. So we've had to have a family where a lot of people come in and help us. My mom is a big asset. I was able to take my little tiny loved one, little Blake, my little daughter, all to these different states, and she just traveled the state with me before COVID, the country with me before COVID hit. And my mom was a big asset in the campaign and assisting and allowing me to be a working mom, literally a working mom, where my daughter came with me to these various elections and rallies and debates. And then now it's just work, effort and progress, I should say, where we all chip in and help one another, but having faith through the center of our families, what makes all things work. I believe God put me in this place for a purpose and for a reason, like he does with each and every life."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We are all here for a reason and achieving that purpose means making sacrifices sometimes and sometimes that means family sacrifices. But I know at the end of the day, if I give Blake the same faith upbringing and relationship with Jesus Christ that my parents gave me, she will be an unstoppable woman of faith in whatever she decides to do."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What's that like? What's it been like, the balance between motherhood and working for this administration in the government building? I mean, in these challenging times, the balance, I mean, do you need an excedrin at times?"
+      }
+    ],
+    "speakername": "Kayleigh McEnany",
+    "ground_truth": "It is a balance. And I have a lot of help from my mom and from Sean's mom, my mother-in-law. But, you know, it's unique because I remember distinctly when we were in a campaign state, there was a plane that the campaign took home and there were a bunch of senators and congressmen on the plane and several senior campaign officials and family members. And there I was with my mom and my little baby and praying she wouldn't scream, not that anyone would have cared. But, you know, I realized very quickly what this family, the administration's family was all about. And they very quickly wanted to help with the baby. And just everyone who's in this community stood up and was like, we're going to help you. You know, we see our mom struggling on this flight and it was just great to see. And that's what this administration is all about. You can see they're surrounded by their family and these really great, hard workers for the country. And they just embrace that all through how they treat people. I remember when they first.",
+    "bio": "Born: 18 April 1988, in a major Florida city, United States\nAn American political commentator and author who served as a senior press official. Began media career as a producer for a conservative news show and later worked as a political analyst for a major news network. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We are all here for a reason and achieving that purpose means making sacrifices sometimes and sometimes that means family sacrifices. But I know at the end of the day, if I give Blake the same faith upbringing and relationship with Jesus Christ that my parents gave me, she will be an unstoppable woman of faith in whatever she decides to do."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What's that like? What's it been like, the balance between motherhood and working for this president in this White House? I mean, in these challenging times, the balance, I mean, do you need an excedrin at times?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is a balance. And I have a lot of help from my mom and from Sean's mom, my mother-in-law. But, you know, it's unique because I remember distinctly when we were in, I believe it was Iowa, there was a plane that the campaign took home and there were a bunch of senators and congressmen on the plane and Don Jr. and Laura Trump was on the plane and Brad. And there I was with my mom and my little baby and praying she wouldn't scream, not that anyone would have cared. But, you know, I realized very quickly what this family, the Trump family was all about. And they very quickly, Don was like, let me hold her. Let me hold her. Laura, no, let me hold her. And just they all stood and Todd Ricketts and just everyone who's in this community stood up and was like, we're going to help you. You know, we see our mom struggling on this flight and it was just great to see. And that's what this president is all about. You can see he's surrounded by his family of Vodka and Jared and these really great, hard workers for the country. And he just embraces that all through how he treats people. I remember when he first."
+      }
+    ],
+    "speakername": "Kayleigh McEnany",
+    "ground_truth": "called me about taking this job he said your husband's gonna be on board with this and you're gonna be okay with your baby and that was he thought about my personal life and wanted to make sure that my family was going to be okay and me accepting what is a very demanding role and that makes all of this easier when you have a boss and a family that that embraces your own family",
+    "bio": "Born: 18 April 1988, Tampa, Florida, United States\\n[target] is an American political commentator and author who served as the 31st White House press secretary. McEnany began her media career as a producer for Huckabee on Fox News and later worked as a political analyst for CNN. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What's that like? What's it been like, the balance between motherhood and working for this president in this White House? I mean, in these challenging times, the balance, I mean, do you need an excedrin at times?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is a balance. And I have a lot of help from my mom and from Sean's mom, my mother-in-law. But, you know, it's unique because I remember distinctly when we were in, I believe it was Iowa, there was a plane that the campaign took home and there were a bunch of senators and congressmen on the plane and Don Jr. and Laura Trump was on the plane and Brad. And there I was with my mom and my little baby and praying she wouldn't scream, not that anyone would have cared. But, you know, I realized very quickly what this family, the Trump family was all about. And they very quickly, Don was like, let me hold her. Let me hold her. Laura, no, let me hold her. And just they all stood and Todd Ricketts and just everyone who's in this community stood up and was like, we're going to help you. You know, we see our mom struggling on this flight and it was just great to see. And that's what this president is all about. You can see he's surrounded by his family of Vodka and Jared and these really great, hard workers for the country. And he just embraces that all through how he treats people. I remember when he first."
+      },
+      {
+        "speaker": "[target]",
+        "text": "called me about taking this job he said your husband's gonna be on board with this and you're gonna be okay with your baby and that was he thought about my personal life and wanted to make sure that my family was going to be okay and me accepting what is a very demanding role and that makes all of this easier when you have a boss and a family that that embraces your own family"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That makes all of this easier when you have a boss and a family that embraces your own family. Yeah, for sure. Tim Murtaugh, I was reading, he talked about in the campaign how you would hold or at least try to hold Bible studies there at the campaign, at least however it was, virtually or maybe in person. Tell me about that. That's neat, these Bible studies that you were trying to keep going."
+      }
+    ],
+    "speakername": "Kayleigh McEnany",
+    "ground_truth": "Yeah, we started that every Friday. It was a few weeks before, or probably two months before I left the campaign to come here. My sister, Ryan McEnany, works on the campaign. My assistant, Lindy Rose, who's now with me here in the White House, worked at the campaign as well. And another woman named Sunny Joy Nelson and the three of us came together and we said, you know, we represent so many Christians across this country. When I was at the campaign, obviously, it's very evident the evangelical community has supported this president. And so is the Catholic community and the faith community at large. And so we said, you know, to do that justice, we need to have prayer in this building and we need to have Bible study and time in the word. And so before work, we would all gather for about 45 minutes and we do what we started to call popcorn prayer, where we would just pray out loud. And one of my good friends, you know, Abigail Robertson taught me this concept with the Bible study that she does. And it was just organic and spontaneous. And we would pray and read the word. And it just gave a little pep in ourselves. And it was a little bit of a first step because these days are demanding, they're challenging, they're long in politics. Whether you're a Democrat or Republican, that's the nature of the job. And that just I think it was a little rod of lightning of just energy and joy in our day. And it definitely transferred throughout the week. And so that Bible study still continues. I'm now at the White House. I'm not part of the campaign anymore, but it continues. And it's a very proud, I guess, if you call it.",
+    "bio": "Born: 18 April 1988, Tampa, Florida, United States\\n[target] is an American political commentator and author who served as the 31st White House press secretary. McEnany began her media career as a producer for Huckabee on Fox News and later worked as a political analyst for CNN. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

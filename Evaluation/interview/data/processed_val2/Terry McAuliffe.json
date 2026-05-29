@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, immediately what I think of is what we need to do is quality education, Andy. Everybody should have an equal shot at a quality education. This is something I'm fighting for. That's why I said no cuts to K-12, no further cuts to higher ed, because if we don't start our children out right from the start, that's why I'm a huge advocate of pre-K, you are already disadvantaging children. So we cannot have these separate educational institutions and jurisdictions where you've got quality teachers and other areas you don't. That's why I've said, nope, we're investing. I put money in the budget to train our principals. I want mandatory training for our school board members. We have got to make sure that everybody has access. And I think this is something Dr. Martin Luther King would want, quality education, start them off on the right path."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are African-Americans getting a good enough education in [state]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Some people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Some parts yes, some parts no. What do you do about the some parts no?"
+      }
+    ],
+    "speakername": "Terry McAuliffe",
+    "ground_truth": "Well, and I've talked about it. I think you were with me, actually, when I went to [city], and I said I'm sick and tired of people sitting around and complaining about the schools and nothing being done. So we've moved in with my Secretary of Education, [name], and I was not a big believer that you go in and you give these schools, Andy, an F. I think once you stigmatize a school and you give it an F, you've ruined that school. First of all, no one will want to move into the community, so your local real estate taxes that help pay for that school, people are not going to move in, people will move out. So you start this spiral. So let's go in with the training. That's why I'm investing in training for our principals. We should be incentivizing teachers to go into school districts that aren't meeting their academic level, and we want to make sure that every school meets those academic credentials they need to make sure there's a quality education. It's not happening today, but I'll tell you this, we're hitting it hard, and this is something that is a top priority for myself, Secretary [name], and [name], who's my superintendent of public health. We're hitting it hard for public education.",
+    "bio": "The speaker is a politician who was the governor of a state from 2014 to 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, and I've talked about it. I think you were with me, actually, when I went to [location], and I said I'm sick and tired of people sitting around and complaining about the schools and nothing being done. So we've moved in with my Secretary of Education, and I was not a big believer that you go in and you give these schools an F. I think once you stigmatize a school and you give it an F, you've ruined that school. First of all, no one will want to move into the community, so your local real estate taxes that help pay for that school, people are not going to move in, people will move out. So you start this spiral. So let's go in with the training. That's why I'm investing in training for our principals. We should be incentivizing teachers to go into school districts that aren't meeting their academic level, and we want to make sure that every school meets those academic credentials they need to make sure there's a quality education. It's not happening today, but I'll tell you this, we're hitting it hard, and this is something that is a top priority for myself and our education leadership team."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What damage has been done in [location] because of the administration's scandal? Give me some examples on how this has impacted our state."
+      },
+      {
+        "speaker": "[target]",
+        "text": "IN THAT DEBATE, YOU SAID THIS. YOU SAID, I DON'T THINK PARENTS SHOULD BE TELLING"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So stop. His handler, [target]'s handler is saying, okay, that's it. That's what he says. That's it. So his handler's trying to cut the interview because it's not going well. Because this young guy is actually asking very smart pointed questions about [target]'s past statements and about his past record. And they don't like it."
+      }
+    ],
+    "speakername": "Terry McAuliffe",
+    "ground_truth": "ahead i've heard you say that you want to invest two billion dollars in education how much would you invest in public safety is there a number we heard a lot of feedback from our viewers in [location] on where you stand on covid 19 vaccine so real quick yes or no i know you don't have much time left uh do you support uh vaccine mandates for state employees of course i do what about kids who are eligible to get the vaccine",
+    "bio": "The speaker is a former state governor who served from 2014 to 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "IN THAT DEBATE, YOU SAID THIS. YOU SAID, I DON'T THINK PARENTS SHOULD BE TELLING"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So stop. His handler, [target]'s handler is saying, okay, that's it. That's what he says. That's it. So his handler's trying to cut the interview because it's not going well. Because this young guy is actually asking very smart pointed questions about [target]'s past statements and about his past record. And they don't like it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "ahead i've heard you say that you want to invest two billion dollars in education how much would you invest in public safety is there a number we heard a lot of feedback from our viewers in the region on where you stand on covid 19 vaccine so real quick yes or no i know you don't have much time left uh do you support uh vaccine mandates for state employees of course i do what about kids who are eligible to get the vaccine"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You don't have any evidence."
+      }
+    ],
+    "speakername": "Terry McAuliffe",
+    "ground_truth": "And we'd have no evidence of that, nor would we ever find out. But listen, I mean, it's common sense. Anytime you have stories like these that put your state, which I'm actively out trying to sell every day to bring businesses in, anytime you have a negative story, it's going to impact it.",
+    "bio": "The speaker is a politician who served as governor of a state from 2014 to 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "ahead i've heard you say that you want to invest two billion dollars in education how much would you invest in public safety is there a number we heard a lot of feedback from our viewers in the region on where you stand on covid 19 vaccine so real quick yes or no i know you don't have much time left uh do you support uh vaccine mandates for state employees of course i do what about kids who are eligible to get the vaccine"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You don't have any evidence."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And we'd have no evidence of that, nor would we ever find out. But listen, I mean, it's common sense. Anytime you have stories like these that put your state, which I'm actively out trying to sell every day to bring businesses in, anytime you have a negative story, it's going to impact it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The old way of doing business in the state is over. Someone was saying that. What is the old way of doing business in the state? What do we mean by that?"
+      }
+    ],
+    "speakername": "Terry McAuliffe",
+    "ground_truth": "Well, I say it all the time, two regards. The first in regards to our budget. We were so reliant on federal government money, Andy, as you know, it is about, down here is almost 50% of the gross regional product in the coastal region, about 33, 34% in the northern region. Where the federal government money just came in, we got all the defense spending, those days are over. We're now going to have to hustle for every part of business.",
+    "bio": "The target is a politician who was the governor of a state from 2014 to 2018. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And we'd have no evidence of that, nor would we ever find out. But listen, I mean, it's common sense. Anytime you have stories like these that put your state, which I'm actively out trying to sell every day to bring businesses in, anytime you have a negative story, it's going to impact it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The old way of doing business in [state] is over. Someone was saying that. What is the old way of doing business in [state]? What do we mean by that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I say it all the time, two regards. The first in regards to our budget. We were so reliant on federal government money, Andy, as you know, it is about, down here is almost 50% of the gross regional product in [region], about 33, 34% in [region]. Where the federal government money just came in, we got all the defense spending, those days are over. We're now going to have to hustle for every part of business."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm talking more about ethics."
+      }
+    ],
+    "speakername": "Terry McAuliffe",
+    "ground_truth": "That's right. That's the second part. But that's the first part when I talk about. But that's an important part, Andy. So we got to hustle for business. The second part, you shouldn't have a system where a lobbyist or somebody who has an interest in legislation can give you a million dollars. You could give me a million dollars, not me, because I have a $100 gift band, but theoretically you could give a [state] politician a million dollars as long as you report it, it's legal.",
+    "bio": "The speaker is a politician who was the governor of a state from 2014 to 2018. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

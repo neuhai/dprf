@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you so much for having me, Kathy, and congratulations on your new show."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Thanks. We're having a good time here. So far, this is just the first week. [City], as you know, has a gun violence problem. You're well aware of that. Some folks, specifically in North [City], feel as if they're in a war zone some days. What is the short-term plan to tamp down the violence?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What I have said consistently is that we need a both-end approach to public safety. Yes, we need safety beyond policing. Of course, we need a deep-seated culture shift in how our department operates. And simultaneously, we need law enforcement. And while it does take longer than all of us would like to bring recruiting classes in, the chief and I have requested additional mutual aid assistance from other jurisdictions. We had ARP money that went in part to purchase cameras for some of the hot spots around our city. We're focusing strategically the resources that we have in the locations that are most likely to see gun violence. And we do have quite a bit of safety beyond policing work. Again, all of these facets need to work together. There is no magic wand fix. It requires us to dig in and do the work. And I'm doing that work every single day with Chief [Name]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The department is dealing with a severe shortage of officers. Chief [Name] recently told the city council in a request for funding he needs to rebuild the force. About a quarter of the city's cops have retired or quit since [Incident]. But there's this investigative report from [Publication] that finds a drop in responding to calls and response times is steeper than the attrition of officers. And some officers are telling [Publication] that they've even started taking long routes to calls to avoid responding. So I'm curious, what's happening in a department that you're in charge of?"
+      }
+    ],
+    "speakername": "Jacob Frey",
+    "ground_truth": "Well, that's right. Let's look at the data on all of these issues. And what we're seeing right now is longer response times going from 11 minutes previously to 15 minutes now. That's unacceptable. We have seen dramatic attrition, as you've mentioned, over this last year, losing up to about a third of our police department. And, yes, there are repercussions to that. You know, people need to be able to call 911 and get a response from an officer, whether it's a domestic violence situation or shooting. And as you mentioned, I've also seen concerning situations as well where we do want to make sure that officers are doing their jobs as quickly and as efficiently and as fairly and justly as they possibly can. And I have had conversations with the chief on those very matters. And, you know, we also just need to be blunt and honest here. Right now, we have fewer officers per capita. And then just about any major city in the entire country. And as Chief [Name] has mentioned, when you have a one-dimensional police department, when you aren't fully able to conduct investigations, to do community outreach, to have a gang interdiction unit, the work suffers. You need to be able to have a multidimensional department, yes, that includes safety beyond policing as an important component to do this work in full.",
+    "bio": "[Target] is the mayor of [City]. He served on the [City] City Council from 2013 until his election as mayor. Elected mayor in 2017, he was sworn in on January 2, 2018. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What I have said consistently is that we need a both-end approach to public safety. Yes, we need safety beyond policing. Of course, we need a deep-seated culture shift in how our department operates. And simultaneously, we need law enforcement. And while it does take longer than all of us would like to bring recruiting classes in, the chief and I have requested additional mutual aid assistance from other jurisdictions. We had ARP money that went in part to purchase cameras for some of the hot spots around our city. We're focusing strategically the resources that we have in the locations that are most likely to see gun violence. And we do have quite a bit of safety beyond policing work. Again, all of these facets need to work together. There is no magic wand fix. It requires us to dig in and do the work. And I'm doing that work every single day with Chief Arradondo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The department is dealing with a severe shortage of officers. Chief Arredondo recently told the city council in a request for funding he needs to rebuild the force. About a quarter of the city's cops have retired or quit since George Floyd's murder. But there's this investigative report from Reuters that finds a drop in responding to calls and response times is steeper than the attrition of officers. And some officers are telling Reuters that they've even started taking long routes to calls to avoid responding. So I'm curious, what's happening in a department that you're in charge of?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that's right. Let's look at the data on all of these issues. And what we're seeing right now is longer response times going from 11 minutes previously to 15 minutes now. That's unacceptable. We have seen dramatic attrition, as you've mentioned, over this last year, losing up to about a third of our police department. And, yes, there are repercussions to that. You know, people need to be able to call 911 and get a response from an officer, whether it's a domestic violence situation or shooting. And as you mentioned, I've also seen concerning situations as well where we do want to make sure that officers are doing their jobs as quickly and as efficiently and as fairly and justly as they possibly can. And I have had conversations with the chief on those very matters. And, you know, we also just need to be blunt and honest here. Right now, we have fewer officers per capita. And then just about any major city in the entire country. And as Chief Arredondo has mentioned, when you have a one-dimensional police department, when you aren't fully able to conduct investigations, to do community outreach, to have a gang interdiction unit, the work suffers. You need to be able to have a multidimensional department, yes, that includes safety beyond policing as an important component to do this work in full."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You oppose ballot question two, replacing the police department with the public safety department. You agree, though, there needs to be deep structural changes in the MPD. Now, we've been talking to supporters of the ballot question. They say that the circumstances are so desperate that the chance has to be taken to move toward change rather than settle for what they say would be the same old thing. What's your response to that?"
+      }
+    ],
+    "speakername": "Jacob Frey",
+    "ground_truth": "I think we all need to be specific and honest here. Let's look at what this ballot question does do and what it doesn't do. I think every single candidate, every mayoral candidate, council candidate that's running for office right now believes in safety beyond policing. We all believe that not every 911 call requires response from an officer with a gun. Whether that's a mental health responder or a social worker, we can pair a unique skill set with the unique experiences that are happening on the ground. And we have invested record amounts of money, almost every single budget, in that exact work. We're already doing it now. Do you need a charter amendment to do that work? No, you do not. Here is the reason that I am opposed to question number two. It would have the head person of this department report to 14 different people, 13 council members and the mayor.",
+    "bio": "[target] (/fraÉª/ FRY;[1] born July 23, 1981) is the mayor of Minneapolis, Minnesota. He served on the Minneapolis City Council from 2013 until his election as mayor.[2]\\n\\nElected mayor in 2017,[3][4] he was sworn in on January 2, 2018.[5] The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The department is dealing with a severe shortage of officers. Chief Arredondo recently told the city council in a request for funding he needs to rebuild the force. About a quarter of the city's cops have retired or quit since George Floyd's murder. But there's this investigative report from Reuters that finds a drop in responding to calls and response times is steeper than the attrition of officers. And some officers are telling Reuters that they've even started taking long routes to calls to avoid responding. So I'm curious, what's happening in a department that you're in charge of?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that's right. Let's look at the data on all of these issues. And what we're seeing right now is longer response times going from 11 minutes previously to 15 minutes now. That's unacceptable. We have seen dramatic attrition, as you've mentioned, over this last year, losing up to about a third of our police department. And, yes, there are repercussions to that. You know, people need to be able to call 911 and get a response from an officer, whether it's a domestic violence situation or shooting. And as you mentioned, I've also seen concerning situations as well where we do want to make sure that officers are doing their jobs as quickly and as efficiently and as fairly and justly as they possibly can. And I have had conversations with the chief on those very matters. And, you know, we also just need to be blunt and honest here. Right now, we have fewer officers per capita. And then just about any major city in the entire country. And as Chief Arredondo has mentioned, when you have a one-dimensional police department, when you aren't fully able to conduct investigations, to do community outreach, to have a gang interdiction unit, the work suffers. You need to be able to have a multidimensional department, yes, that includes safety beyond policing as an important component to do this work in full."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You oppose ballot question two, replacing the police department with the public safety department. You agree, though, there needs to be deep structural changes in the MPD. Now, we've been talking to supporters of the ballot question. They say that the circumstances are so desperate that the chance has to be taken to move toward change rather than settle for what they say would be the same old thing. What's your response to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think we all need to be specific and honest here. Let's look at what this ballot question does do and what it doesn't do. I think every single candidate, every mayoral candidate, council candidate that's running for office right now believes in safety beyond policing. We all believe that not every 911 call requires response from an officer with a gun. Whether that's a mental health responder or a social worker, we can pair a unique skill set with the unique experiences that are happening on the ground. And we have invested record amounts of money, almost every single budget, in that exact work. We're already doing it now. Do you need a charter amendment to do that work? No, you do not. Here is the reason that I am opposed to question number two. It would have the head person of this department report to 14 different people, 13 council members and the mayor."
+      }
+    ],
+    "speakername": "Jacob Frey",
+    "ground_truth": "When everybody's in charge, nobody's in charge. And if you've got one council member from Ward 3 or 4 telling you to do something different than Wards 9 or 10, that's a problem. And, you know, we've looked around the country, can't find another city with this kind of model. And so do we need deep change? Absolutely we do. And so let's talk about the specifics, how the culture shift should function, the state laws that need to get changed, the city ordinances and laws that we need to expedite in changing. Let's talk about that. Rather than a conversation where people seem to be talking by each other, I think now is a time when we all as a city can unite around some common principles. We should integrate our approach to public safety. We should bring on more community-oriented police officers. We should have safety beyond policing. And, yes, we need to get serious about reform. Let's do those things because we can galvanize around that common cause.",
+    "bio": "[target] (/fraÉª/ FRY;[1] born July 23, 1981) is the mayor of Minneapolis, Minnesota. He served on the Minneapolis City Council from 2013 until his election as mayor.[2]\\n\\nElected mayor in 2017,[3][4] he was sworn in on January 2, 2018.[5] The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You oppose ballot question two, replacing the police department with the public safety department. You agree, though, there needs to be deep structural changes in the local police department. Now, we've been talking to supporters of the ballot question. They say that the circumstances are so desperate that the chance has to be taken to move toward change rather than settle for what they say would be the same old thing. What's your response to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think we all need to be specific and honest here. Let's look at what this ballot question does do and what it doesn't do. I think every single candidate, every mayoral candidate, council candidate that's running for office right now believes in safety beyond policing. We all believe that not every 911 call requires response from an officer with a gun. Whether that's a mental health responder or a social worker, we can pair a unique skill set with the unique experiences that are happening on the ground. And we have invested record amounts of money, almost every single budget, in that exact work. We're already doing it now. Do you need a charter amendment to do that work? No, you do not. Here is the reason that I am opposed to question number two. It would have the head person of this department report to 14 different people, 13 council members and the mayor."
+      },
+      {
+        "speaker": "[target]",
+        "text": "When everybody's in charge, nobody's in charge. And if you've got one council member from Ward 3 or 4 telling you to do something different than Wards 9 or 10, that's a problem. And, you know, we've looked around the country, can't find another city with this kind of model. And so do we need deep change? Absolutely we do. And so let's talk about the specifics, how the culture shift should function, the state laws that need to get changed, the city ordinances and laws that we need to expedite in changing. Let's talk about that. Rather than a conversation where people seem to be talking by each other, I think now is a time when we all as a city can unite around some common principles. We should integrate our approach to public safety. We should bring on more community-oriented police officers. We should have safety beyond policing. And, yes, we need to get serious about reform. Let's do those things because we can galvanize around that common cause."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me ask you about another issue here. NPR News sent out a questionnaire to the leading candidates, and your responses are on our website. You say you will vote yes on ballot question three that deals with rent control, but you've spent months talking about your opposition to rent control, and you vetoed a different measure on rent control. So this appears to be a change of view. What happened?"
+      }
+    ],
+    "speakername": "Jacob Frey",
+    "ground_truth": "No, actually, it's exactly the same position I've held all along on two separate issues. So I continue to oppose rent control in its classic form because, by the way, every single economist out there that we've seen, ranging from the far left to the right, have said that, practically speaking, it just doesn't work. Now, I have also long held a position for local control, in other words, for allowing municipalities, city councils, to consult with experts, listen to data, and then legislate policy. This particular charter amendment does not create rent control. This allows a city council to deliberate if they so choose. Will I be for any ordinance that a council may or may not come up with? I can't tell you. I haven't seen the ordinance yet. But regardless of whether I do agree with the issue... And I've made it clear I do not. I still do support the ability to deliberate on it. And as you know, I vetoed... There was another ballot initiative that would have been an initiative via referendum. I vetoed that one.",
+    "bio": "The target is the mayor of a major midwestern city. They served on the City Council from 2013 until their election as mayor. Elected mayor in 2017, they were sworn in on January 2, 2018. The speaker's MBTI type is ESFJ",
+    "mbti": "ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me ask you about another issue here. NPR News sent out a questionnaire to the leading candidates, and your responses are on our website. You say you will vote yes on ballot question three that deals with rent control, but you've spent months talking about your opposition to rent control, and you vetoed a different measure on rent control. So this appears to be a change of view. What happened?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, actually, it's exactly the same position I've held all along on two separate issues. So I continue to oppose rent control in its classic form because, by the way, every single economist out there that we've seen, ranging from the far left to the right, have said that, practically speaking, it just doesn't work. Now, I have also long held a position for local control, in other words, for allowing municipalities, city councils, to consult with experts, listen to data, and then legislate policy. This particular charter amendment does not create rent control. This allows a city council to deliberate if they so choose. Will I be for any ordinance that a council may or may not come up with? I can't tell you. I haven't seen the ordinance yet. But regardless of whether I do agree with the issue… And I've made it clear I do not. I still do support the ability to deliberate on it. And as you know, I vetoed… There was another ballot initiative that would have been an initiative via referendum. I vetoed that one."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I, for instance, wouldn't support the policy moving forward in [city], which is different. But this particular policy, which simply allows us to deliberate, yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I have less than a minute left. What do you think it means when seven DFL state lawmakers who represent different parts of [city], who you've worked with in the past, tell voters they hope anyone else but you is elected?"
+      }
+    ],
+    "speakername": "Jacob Frey",
+    "ground_truth": "You know, I don't think there should be any surprise that in October there is politics taking place in a political system. That's the reality. But as far as, you know, this whole don't rank [target] push that we've seen and, you know, candidates joining together, I think the entirety of the campaign is really based on what they're against. And I'm talking about what we're for. I mean, as far as my opponents go, you know, here's what we do know.",
+    "bio": "The target (born July 23, 1981) is the mayor of a major midwestern city. They served on the City Council from 2013 until their election as mayor. Elected mayor in 2017, they were sworn in on January 2, 2018. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

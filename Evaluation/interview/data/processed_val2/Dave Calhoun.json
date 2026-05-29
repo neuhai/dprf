@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, first of all, 100%. Why now? I've entered my fifth year. At the end of this year, I'll be close to 68 years old. I've always said to the board, and the board has been very prepared, I would give them plenty of notice so that they could understand and plan succession in regular order. And that's what this is about. It's me giving them notice that at the end of this year, I plan to retire. And then them taking the actions that they've taken. I'm actually very proud of the way the board has handled everything. Very deliberate. The move with Larry, in my view, very deliberate. The entry of Steve as our new chairman, very deliberate. All very qualified and great decisions."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "If you're going to be leaving, some will say, why not just leave now? Why wait until the end of the year?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We have another mountain to climb. Let's not avoid what happened with the airline company. Let's not avoid the call for action. Let's not avoid the changes that we have to make in our factory. Let's not avoid the need to slow down a bit and let the supply chain catch up. We got to get at that, just like we got at the rest. And we will get through that. We will get through that. And I've committed myself to the board to do exactly that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've got two other big management changes. We'll talk about the board changes in a bit. But you've got Stan stepping down, resigning as head of Commercial Airplanes. Stephanie, the COO, moves into that position. What does she bring to the table that is different from Stan?"
+      }
+    ],
+    "speakername": "Dave Calhoun",
+    "ground_truth": "Well, the big thing here is, first of all, Stan is retiring. This is all about a clear path to give our best people internally an opportunity to shine in front of the board, demonstrate everything that they can do. Stephanie's track record speaks for itself. She has been a leader in every position she's had. She has seen every part of the company. She has most recently led our global services business. It services both our military customers and our commercial customers. Every day, all day, taking calls, responding, doing the work. She has really differentiated herself. So the move we made at the end of the year to put her into a chief operating officer position was a very deliberate move.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We have another mountain to climb. Let's not avoid what happened with the airline incident. Let's not avoid the call for action. Let's not avoid the changes that we have to make in our factory. Let's not avoid the need to slow down a bit and let the supply chain catch up. We got to get at that, just like we got at the rest. And we will get through that. We will get through that. And I've committed myself to the board to do exactly that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've got two other big management changes. We'll talk about the board changes in a bit. But you've got the head of commercial airplanes stepping down, resigning. The COO moves into that position. What does she bring to the table that is different?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the big thing here is, first of all, this is a retirement. This is all about a clear path to give our best people internally an opportunity to shine in front of the board, demonstrate everything that they can do. Her track record speaks for itself. She has been a leader in every position she's had. She has seen every part of the company. She has most recently led our global services business. It services both our military customers and our commercial customers. Every day, all day, taking calls, responding, doing the work. She has really differentiated herself. So the move we made at the end of the year to put her into a chief operating officer position was a very deliberate move."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As you know, just last week, airline CEOs went to your board, went to the chairman, and they said, we want to meet. We want to talk with the directors directly, but we don't want to hear from [target] in this meeting. We don't want the head of commercial airplanes in this meeting. When you first heard about that, what was your reaction?"
+      }
+    ],
+    "speakername": "Dave Calhoun",
+    "ground_truth": "Well, first of all, I would just take issue. I know all the people they call, and I know all of that, and I talk to them every day, all day. I don't think it was anywhere near that kind of messaging. Our board and I talk to our customers every day, all day. We've had a CEO come in and talk about the incident, talk directly with the board, and I volunteered to leave that meeting because I want clarity. I want transparency. That's what we all want. So, yeah, I understand. If you put this in context, they run an every-day, all-day business. I run a long-cycle development business, and a long-cycle production business has to deliver them a perfect product. And so those two things, when they meet and they collide, it creates this kind of environment. And that's the environment we're in. But I listen to our customers all day.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the big thing here is, first of all, Stan is retiring. This is all about a clear path to give our best people internally an opportunity to shine in front of the board, demonstrate everything that they can do. Stephanie's track record speaks for itself. She has been a leader in every position she's had. She has seen every part of the company. She has most recently led our global services business. It services both our military customers and our commercial customers. Every day, all day, taking calls, responding, doing the work. She has really differentiated herself. So the move we made at the end of the year to put her into a chief operating officer position was a very deliberate move."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As you know, just last week, airline CEOs went to your board, went to Larry, and they said, we want to meet. We want to talk with the directors directly, but we don't want to hear from [target] in this meeting. We don't want Stan in this meeting. When you first heard about that, what was your reaction?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I would just take issue. I know all the people they call, and I know all of that, and I talk to them every day, all day. I don't think it was anywhere near that kind of messaging. Our board and I talk to our customers every day, all day. We've had a CEO come in and talk about the accident, talk directly with the board, and I volunteered to leave that meeting because I want clarity. I want transparency. That's what we all want. So, yeah, I understand. If you put this in context, they run an every-day, all-day business. I run a long-cycle development business, and a long-cycle production business has to deliver them a perfect airplane. And so those two things, when they meet and they collide, it creates this kind of environment. And that's the environment we're in. But I listen to our customers all day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you understand their frustration? Because I heard from airlines last week, they said, we want concrete action. We want concrete steps to make changes."
+      }
+    ],
+    "speakername": "Dave Calhoun",
+    "ground_truth": "I think the news that Brian had to deliver just earlier this week to the financial community about the slowdown in our factory, our determination to get ahead of that, I think that will demonstrate and be a proof point on just our intent to get ahead of it. We will get ahead of it.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I would just take issue. I know all the people they call, and I know all of that, and I talk to them every day, all day. I don't think it was anywhere near that kind of messaging. Our board and I talk to our customers every day, all day. We've had a CEO come in and talk about the accident, talk directly with the board, and I volunteered to leave that meeting because I want clarity. I want transparency. That's what we all want. So, yeah, I understand. If you put this in context, they run an every-day, all-day business. I run a long-cycle development business, and a long-cycle production business has to deliver them a perfect airplane. And so those two things, when they meet and they collide, it creates this kind of environment. And that's the environment we're in. But I listen to our customers all day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you understand their frustration? Because I heard from airlines last week, they said, we want concrete action. We want concrete steps to make changes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think the news that Brian West had to deliver just earlier this week to the financial community about the slowdown in our factory, our determination to get ahead of that, I think that will demonstrate and be a proof point on just our intent to get ahead of it. We will get ahead of it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Have you told Administrator Mike Whitaker that you're resigning or retiring at the end of the year?"
+      }
+    ],
+    "speakername": "Dave Calhoun",
+    "ground_truth": "No, I would never preempt the board in communicating to anybody. But they are with us all week this week. We will go through a 30-day plan with them. Then 30 days later, we'll go through 60. And 30 days later, we'll go through a 90. And we're going to have to demonstrate progress in each one of those moments. And it's a pretty constructive approach, both from the regulatory body and from our team.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What was your reaction when you heard those comments?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I recognized exactly what he was talking about because I heard it from all of our own people. Remember, we did a stand down immediately after the after the accident and we listened to all our own folks. And we have this bad habit in our company and actually in many large companies that have to assemble big products. When you do work out of a position, the message you send to your people is and maybe that work was moved because of a shortage. Maybe it was because you're trying to fix something that was nonconforming. But when you move it down the line, it sends a message to your own people that, wow, I guess the movement of the airplane is more important than the first time quality of the product. And we have got to get that in way more balance, without a doubt."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've been on the board since 2010, 2011. This is not a new criticism of the company. This has been out there for years that you guys are about pump the product, pump the product, pump the product, and not enough about quality control."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I change that. Oh, you slow things down. You catch up."
+      }
+    ],
+    "speakername": "Dave Calhoun",
+    "ground_truth": "and just a reminder um in uh 2020 we didn't produce any aircraft in the production line zero uh 21 we started the line back up so we were going from zero and still slowly steadily uh increasing increasing our rates um at that very same time with insatiable demand on the customer side we had a very sporadic supply side and so these forces that have been with our industry for a long time probably got even more pronounced without a doubt and so our job has to be to sort of say nope raise our hand everybody has to be able and capable of raising their hand and stopping a line if they if they have to and that is that is the premise for going forward",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

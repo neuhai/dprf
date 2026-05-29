@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "things are going great. The transition is going well. Senator Corker and his team have been so helpful and Senator Alexander has been right there with us to help us. Swearing in was January 3rd and they were both with me. They escorted me on the floor. Former Senators Bill Frist and Bill Brock each sent letters and then Justice Kavanaugh did my ceremonial swearing in and of course Vice President Pence, whom I served with in the legislative body, did the official swearing in."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Excellent. And you were able to get your first piece of legislation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was. We've gotten our committee assignments. I have Commerce, Judiciary, Armed Services and Veterans. Everything I asked for. So we are so fortunate to be able to continue to do good work for our men and women in uniform and our veterans. We did get our first piece of legislation filed and this is something that state residents have talked to me about time and again. And they do not think that abortion providers should be able to get Title 10 funds, which that is money that is designated for women's health care, for women that are underserved. And we have over 13,000 community health centers in our country and 655 abortion clinics. And state residents continually say, that Title 10 money that is there for women is not enough. Women's health needs to go to health centers that provide women's health. That way you get the, you serve the greatest need and the money will meet the greatest need."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Tell me why, of all the things we could talk about filing, I guess that you thought this was the one you had to file first."
+      }
+    ],
+    "speakername": "Marsha Blackburn",
+    "ground_truth": "I thought that it was important to do because it's important to state residents. Taxpayers continually say taxpayer funds should not be used for abortion clinics. And look at the health organization. They will tell you their main business is abortion services and it is not women's health care. And we want women who are underserved to be able to get the health care that they need to better their quality of life.",
+    "bio": "The target (born June 6, 1952) is an American politician and businesswoman serving as the junior United States Senator from a southern state. A member of the Republican Party, the target previously served in the U.S. House for the state's 7th congressional district from 2003 to 2019. They were also a State Senator from 1999 to 2003. On November 6, 2018, they became the first woman to be elected to the U.S. Senate from their state, defeating former Democratic Governor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "now with a partial shutdown. And I noticed in some of the bills, the two bills that went through yesterday, you voted against those bills."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I voted for"
+      },
+      {
+        "speaker": "[target]",
+        "text": "for the president's plan and then I voted against Senator Schumer's plan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you see any compromise in the works at all?"
+      }
+    ],
+    "speakername": "Marsha Blackburn",
+    "ground_truth": "I do. Absolutely I do. And you know, one of the things I think is important to note is that citizens of my state want to see our southern border secure. And they know that the President and Republican leadership have made four offers. There are four offers on the table. There was $30 billion, $25 billion, $12 billion, $5.7 billion. And the president has repeatedly said to the House Speaker, call me, come negotiate. Put something on the table. But you know when you're negotiating and you put an offer on the table, what do you expect? You expect a counteroffer. And instead, it has been no. And I tell you one thing right now. If I were someone with a dreamer in my family, or if my church group was working with a family that had a dreamer, I would be very upset with the Democrat leadership right now. Because those dreamers have been offered a three-year legalization. And that is something they have sought for years. And there is a way to solve this problem. But it is going to require that the Democrat leadership make a counteroffer, put something on the table, negotiate with the Senate Leader. And with the president. There has to be a negotiation. And my hope is that this weekend, we will see this worked out. It's time.",
+    "bio": "The subject (born June 6, 1952) is an American politician and businesswoman serving as the junior United States Senator from a southern state. A member of the Republican Party, the subject previously served in the U.S. House for a congressional district from 2003 to 2019. They were also a State Senator from 1999 to 2003. On November 6, 2018, they became the first woman to be elected to the U.S. Senate from their state, defeating a former Democratic Governor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "for the president's plan and then I voted against the opposition leader's plan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you see any compromise in the works at all?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do. Absolutely I do. And you know, one of the things I think is important to note is that state residents want to see our southern border secure. And they know that the president and party leadership have made four offers. There are four offers on the table. There was $30 billion, $25 billion, $12 billion, $5.7 billion. And the president has repeatedly said to the opposition leader, call me, come negotiate. Put something on the table. But you know when you're negotiating and you put an offer on the table, what do you expect? You expect a counteroffer. And instead, it has been no. And I tell you one thing right now. If I were someone with a dreamer in my family, or if my church group was working with a family that had a dreamer, I would be very upset with the opposition leadership right now. Because those dreamers have been offered a three-year legalization. And that is something they have sought for years. And there is a way to solve this problem. But it is going to require that the opposition leadership make a counteroffer, put something on the table, negotiate with the party leader. And with the president. There has to be a negotiation. And my hope is that this weekend, we will see this worked out. It's time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "On the other side of the ledger, ma'am, I'm sure you've heard this, people will say, well, the president is not negotiating the wall remains the key issue. Is the wall the thing that you think that's holding him in?"
+      }
+    ],
+    "speakername": "Marsha Blackburn",
+    "ground_truth": "Securing the southern border is what is the main thing. There's not going to be a concrete wall from sea to sea. It is a combination of fencing, of wall, but here's what you have to realize in this that I think is so vitally important to realize. When you talk to the border patrol, they have consistently said they need three things. They need a barrier on the border, they need technology, and they need more border patrol agents and officers. Those are the three things that they're very consistent on, and the plan that the President and party leader had addresses those three needs of the border patrol. They are given a mission to defend that border and protect that border. And to keep illegal entry from happening into the country. Whether it's drug trafficking, human trafficking, gangs, sex trafficking, they defend that border. And I think it is outrageous that what they tell us they need to do their job, we are not giving them to do their job and defend this nation's sovereignty.",
+    "bio": "The speaker (born June 6, 1952) is an American politician and businesswoman serving as the junior Senator from a southern state. A member of their political party, they previously served in the legislative body for their state's congressional district from 2003 to 2019. They were also a State Senator from 1999 to 2003. On November 6, 2018, they became the first woman to be elected to the Senate from their state, defeating a former state Governor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I do. Absolutely I do. And you know, one of the things I think is important to note is that people from our state want to see our southern border secure. And they know that the President and Republican leadership have made four offers. There are four offers on the table. There was $30 billion, $25 billion, $12 billion, $5.7 billion. And the president has repeatedly said to the opposition leader, call me, come negotiate. Put something on the table. But you know when you're negotiating and you put an offer on the table, what do you expect? You expect a counteroffer. And instead, it has been no. And I tell you one thing right now. If I were someone with a dreamer in my family, or if my church group was working with a family that had a dreamer, I would be very upset with the Democrat leadership right now. Because those dreamers have been offered a three-year legalization. And that is something they have sought for years. And there is a way to solve this problem. But it is going to require that the Democrat leadership make a counteroffer, put something on the table, negotiate with the party leader. And with the president. There has to be a negotiation. And my hope is that this weekend, we will see this worked out. It's time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "On the other side of the ledger, ma'am, I'm sure you've heard this, people will say, well, the president is not negotiating the wall remains the key issue. Is the wall the thing that you think that's holding him in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Securing the southern border is what is the main thing. There's not going to be a concrete wall from sea to sea. It is a combination of fencing, of wall, but here's what you have to realize in this that I think is so vitally important to realize. When you talk to the border patrol, they have consistently said they need three things. They need a barrier on the border, they need technology, and they need more border patrol agents and officers. Those are the three things that they're very consistent on, and the plan that the President and party leader had addresses those three needs of the border patrol. They are given a mission to defend that border and protect that border. And to keep illegal entry from happening into the country. Whether it's drug trafficking, human trafficking, gangs, sex trafficking, they defend that border. And I think it is outrageous that what they tell us they need to do their job, we are not giving them to do their job and defend this nation's sovereignty."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you say to the critics who say the president said when he was running for election, Mexico will build a wall, Mexico will build a wall, and we're not seeing that now. Now it's $5.4 billion, I believe, is what they're talking about. What do you say to that?"
+      }
+    ],
+    "speakername": "Marsha Blackburn",
+    "ground_truth": "The wall needs to be built, and when you look at the fact that this will be a barrier that will slow down entry of drugs, and that is something that is going to stop these sex traffickers and these coyotes from illegally entering this country, that is something that is imperative for us to do.",
+    "bio": "The target (born June 6, 1952) is an American politician and businesswoman serving as the junior Senator from a southern state. A member of the Republican Party, they previously served in Congress for their state's 7th congressional district from 2003 to 2019. They were also a State Senator from 1999 to 2003. On November 6, 2018, they became the first woman to be elected to the Senate from their state, defeating a former Democratic Governor. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The wall needs to be built, and when you look at the fact that this will be a barrier that will slow down entry of drugs, and that is something that is going to stop these sex traffickers and these coyotes from illegally entering this country, that is something that is imperative for us to do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you feel like the talking, when the president said the neighboring country would build a wall,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "His comment was the neighboring country would pay for the wall."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Marsha Blackburn",
+    "ground_truth": "And he has said several times, you know, he never said the neighboring country would write a check. But what we know is that we have to protect our nation's sovereignty and protect our communities. You know, when I talk to law enforcement, one of the things they will tell me is until we secure that southern border, every town's a border town and every state's a border state because of the impact of drugs and gangs and traffickers on our nation's streets and communities. And everyone wants to make certain that their communities are safe.",
+    "bio": "The target (born June 6, 1952) is an American politician and businesswoman serving as the junior United States Senator from a southern state. A member of the Republican Party, the target previously served in the U.S. House for a congressional district from 2003 to 2019. They were also a State Senator from 1999 to 2003. On November 6, 2018, they became the first woman to be elected to the U.S. Senate from their state, defeating former Democratic Governor of the state. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

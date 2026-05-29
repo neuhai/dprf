@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There's resistance among some members, including here in the chamber, about bundling things together. Is it possible to pass aid if it's not tied to other support?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I just think that's a mistake. I mean, I know there are some members in the chamber and maybe more in the other chamber."
+      },
+      {
+        "speaker": "[target]",
+        "text": "THINK IT IS SOMEHOW DIFFERENT. I VIEW IT AS ALL INTERCONNECTED."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you've said that you believe there is enough oversight of aid. Why hasn't that persuaded some members of the caucus?"
+      }
+    ],
+    "speakername": "Mitch McConnell",
+    "ground_truth": "if you look at the assistance let's let's talk about where the money is really going a significant portion of it's being spent in this country in multiple states replacing the weapons that we sent with more modern weapons so we're rebuilding our industrial base",
+    "bio": "Born February 20, 1942, is an American politician serving as a senior Senator and as Chamber Leader. [target] is the second person from his state to lead his party in the chamber, is the longest-serving Senator from his state in history, and is the longest-serving party leader in chamber history. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think that our international allies in Europe have done quite a lot."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You sound like you have a lot in common with the President and his worldview, based on what you just laid out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, not on the domestic side, but on this issue that we're discussing today, we're generally in the same place."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "On the issue of the conflict, that does seem to be a unifying issue for many members of the party. And I want to ask you about this $10 billion request the president is making. Do you think there need to be any provisions in there that would account for the risk of human rights violations in the region?"
+      }
+    ],
+    "speakername": "Mitch McConnell",
+    "ground_truth": "Well, we want to make sure we're not sending money to militant groups, I can tell you that. But there are genuine humanitarian needs for the people in the region who are not militants, who've been thrown under the bus by what happened, innocent people. But we want to be careful about how the money is spent, not be sure it actually gets where it's supposed to get.",
+    "bio": "Born February 20, 1942, the target is a prominent politician serving as a senior United States Senator and as Senate leader. The target is the second person from their state to lead their party in the Senate, is the longest-serving U.S. Senator from their state in history, and is the longest-serving party U.S. Senate leader in history. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You sound like you have a lot in common with [Senior Government Official] and his worldview, based on what you just laid out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, not on the domestic side, but on this issue that we're discussing today, we're generally in the same place."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "On the issue of [Middle Eastern country], that does seem to be a unifying issue for many members of the party. And I want to ask you about this $10 billion request the president is making. Do you think there need to be any provisions in there that would account for the risk of human rights violations in [contested region]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we want to make sure we're not sending money to [opposition group], I can tell you that. But there are genuine humanitarian needs for the people in [contested region] who are not [opposition group], who've been thrown under the bus by what [opposition group] did, innocent people. But we want to be careful about how the money is spent, not be sure it actually gets where it's supposed to get."
+      }
+    ],
+    "speakername": "Mitch McConnell",
+    "ground_truth": "For any military aid that's going to [Middle Eastern country] right now, do you think there needs to be strings attached?",
+    "bio": "Born February 20, 1942, the target is an American politician serving as a senior United States Senator and as Senate Leader. The target is the second person from their state to lead their party in the Senate, is the longest-serving U.S. Senator from their state in history, and is the longest-serving party U.S. Senate leader in history. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "On the issue of [country], that does seem to be a unifying issue for many Republicans. And I want to ask you about this $10 billion request the president is making. Do you think there need to be any provisions in there that would account for the risk of human rights violations in [region]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we want to make sure we're not sending money to [organization], I can tell you that. But there are genuine humanitarian needs for the people in [region] who are not [organization], who've been thrown under the bus by what [organization] did, innocent people. But we want to be careful about how the money is spent, not be sure it actually gets where it's supposed to get."
+      },
+      {
+        "speaker": "[target]",
+        "text": "For any military aid that's going to [country] right now, do you think there needs to be strings attached?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[country] is our strongest ally in the world. We trust them, and we have a very tight relationship with them, both on the intelligence side and the military side. So I don't think the kind of oversight we're talking about for [country], for example, would be necessary for [country]."
+      }
+    ],
+    "speakername": "Mitch McConnell",
+    "ground_truth": "You know, to do all of these things, you need a partner in Congress. Senator [name] said you are the only Republican negotiator right now because of all the disarray in the legislative chamber. How can you deliver on this at a time when you're saying it's essential?",
+    "bio": "Born February 20, 1942, the target is an American politician serving as a senior United States Senator and as Senate Leader. The target is the second person from their state to lead their party in the Senate, is the longest-serving U.S. Senator from their state in history, and is the longest-serving member of their party as U.S. Senate leader in history. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "before November 17th? We need one."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We need one because the House can't do anything without a speaker. And it's a problem, but I hope it's going to get solved pretty quickly."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is there anyone in the House who can lead the Republicans?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, I'm not an expert on the House. I have my hands full here in the Senate, and we're going to do our job and hope the House can get functional here sometime soon."
+      }
+    ],
+    "speakername": "Mitch McConnell",
+    "ground_truth": "There is no current ambassador to [country] right now. And some of your Republican colleagues have voiced concerns about President's nominee. Do you have concerns about [person]?",
+    "bio": "Born February 20, 1942, is an American politician serving as a senior United States Senator and as Senate Majority Leader. The individual is the second person from their state to lead their party in the Senate, is the longest-serving U.S. Senator from their state in history, and is the longest-serving Republican U.S. Senate leader in history. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

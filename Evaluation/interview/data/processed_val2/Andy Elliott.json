@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You want to go work for a Goliath and be another number, or you want to be an underdog and go take down the Goliath?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In this episode, we'll dive into his unorthodox company culture, his rise from broke construction worker to nine-figure entrepreneur, as well as his unfiltered views on fitness persuasion."
+      },
+      {
+        "speaker": "[target]",
+        "text": "him"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "mindset."
+      }
+    ],
+    "speakername": "Andy Elliott",
+    "ground_truth": "And people will say, dude, this guy's crazy. I am crazy. I am crazy. Crazy people are the most successful people in the end.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "him"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "mindset."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And people will say, dude, this guy's crazy. I am crazy. I am crazy. Crazy people are the most successful people in the end."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] let's go welcome to the jack neil podcast awesome let's change some lives guys we're here in [location] i've been here for the past few days at [target]'s sales training conference it's more of a mindset training conference i've learned uh dude it's been really interesting seeing all of your employees just how they operate how kind they are um i came here with a member of my team and they've just been giving us hugs showing us so much love like i've met a lot of guys in your position and i've met a lot of their companies and patrick bed david i have to say he runs a great company but you guys just there's so much love and family here you know"
+      }
+    ],
+    "speakername": "Andy Elliott",
+    "ground_truth": "yeah he was here a couple weeks ago we took his soul took his soul yeah we took a soul like literally like as soon as he went back his right hand guy called me he's like hey patrick decided we're changing the way we onboard clients when they come into the company and there's a new standard we're going to and you know when i met [target] when i went out to first form um i saw a different standard of the way they operated i came back immediately uh we changed some things yeah so our goal now is we we want to be the ufc of sales right like sales training you know coaching and stuff like that what do you mean by that",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And people will say, dude, this guy's crazy. I am crazy. I am crazy. Crazy people are the most successful people in the end."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] let's go welcome to the podcast awesome let's change some lives guys we're here in [location] i've been here for the past few days at [target]'s sales training conference it's more of a mindset training conference i've learned uh dude it's been really interesting seeing all of your employees just how they operate how kind they are um i came here with a member of my team and they've just been giving us hugs showing us so much love like i've met a lot of guys in your position and i've met a lot of their companies and [name] i have to say he runs a great company but you guys just there's so much love and family here you know"
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah he was here a couple weeks ago we took his soul took his soul yeah we took a soul like literally like as soon as he went back his right hand guy called me he's like hey patrick decided we're changing the way we onboard clients when they come into the company and there's a new standard we're going to and you know when i met [name] when i went out to [company] um i saw a different standard of the way they operated i came back immediately uh we changed some things yeah so our goal now is we we want to be the ufc of sales right like sales training you know coaching and stuff like that what do you mean by that"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "up."
+      }
+    ],
+    "speakername": "Andy Elliott",
+    "ground_truth": "like the, the sports organization, like we want to be the, the, like [name], this company, right? [company]. We want to be the [company], the sports organization of sales. He's, he's the leader in the supplement space, right? The organization is the leader in the fighting space. So we wanted to be the leader in the sales space. So like, if you're going to sell or you're going to build a team, you know, if you're going to, you know.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target] let's go welcome to the podcast awesome let's change some lives guys we're here in [location] i've been here for the past few days at [target]'s sales training conference it's more of a mindset training conference i've learned uh dude it's been really interesting seeing all of your employees just how they operate how kind they are um i came here with a member of my team and they've just been giving us hugs showing us so much love like i've met a lot of guys in your position and i've met a lot of their companies and [person] i have to say he runs a great company but you guys just there's so much love and family here you know"
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah he was here a couple weeks ago we took his soul took his soul yeah we took a soul like literally like as soon as he went back his right hand guy called me he's like hey patrick decided we're changing the way we onboard clients when they come into the company and there's a new standard we're going to and you know when i met [person] when i went out to [company] um i saw a different standard of the way they operated i came back immediately uh we changed some things yeah so our goal now is we we want to be the ufc of sales right like sales training you know coaching and stuff like that what do you mean by that"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "like the, the [organization], like we want to be the, the, like [person], this company, right? [company]. We want to be the [company], the [organization] of cells. He's, he's the leader in the supplement space, right? [organization] is the leader in the fighting space. So we wanted to be the leader in the cell space. So like, if you're going to sell or you're going to build a team, you know, if you're going to, you know."
+      }
+    ],
+    "speakername": "Andy Elliott",
+    "ground_truth": "be in leadership. Like we want you to think, man, I need to call the [target] group. I need to build a bad-ass culture. And so we can't teach other people to have what we're not, you know, we got to be real, not frauds. So when [person] came out, I was saying like, you know, he has a great company, super smart. He's one of my mentors. I know he's one of yours. I study him every day. But we're like, dude, we're going to take this guy's soul. We took a soul.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "like the, the UFC, like we want to be the, the, like [target], this company, right? First form. We want to be the first form, the UFC of cells. He's, he's the leader in the supplement space, right? UFC is the leader in the fighting space. So we wanted to be the leader in the cell space. So like, if you're going to sell or you're going to build a team, you know, if you're going to, you know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "be in leadership. Like we want you to think, man, I need to call the [target] group. I need to build a bad-ass culture. And so we can't teach other people to have what we're not, you know, we got to be real, not frauds. So when Patrick came out, I was saying like, you know, he has a great company, super smart. He's one of my mentors. I know he's one of yours. I study him every day. But we're like, dude, we're going to take this guy's soul. We took a soul."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "kindness."
+      }
+    ],
+    "speakername": "Andy Elliott",
+    "ground_truth": "yeah well we just onboard people with massive love and energy you know and something in sales you'll learn is that people in order to remember what you said but they always remember the way you made them feel and that experience there's customer service and customer experience and customer experience the experience somebody has like you're walking like hey man everybody keeps showing me love they keep hugging me they keep doing this dude you can go everywhere else in the world even if they make 20 times a million more money than us right no matter how much you always remember the way that you felt when you're around the [target] group yeah and to me that's a secret edge it's magic and that's how we've been able to grow so fast by retention is because we just like show people massive love",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

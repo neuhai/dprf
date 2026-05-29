@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you again for, as I said, for being here. You know, your state had some problems at the very beginning of trying to get the vaccines out. It's shown some pretty dramatic improvement more recently. Could you talk about what some of your assumptions were going into this sort of challenge, which is unlike anything we've seen in modern history? And what were you right about and what did you get wrong?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, you know, Karen, first of all, I think Americans, all of us Virginians, are tired of this pandemic. Our first case in Virginia was on March the 7th, and we had to put a lot of measures in place to mitigate the numbers. Our hospitals were at capacity, people dying every day. And so I think the light, the hope at the end of a dark and long tunnel was the vaccine. And so we prepared for this. We started back in September. But there's no doubt it's been a frustrating process. It's a major undertaking. And so the vaccination program has been in place now for about six weeks. I was not satisfied with the pace that we were getting shots into arms. And so about four weeks ago, we made some significant adjustments. As you know, we brought in a field general, if you will, to oversee the vaccination process. And so we brought in a field general, if you will, to oversee the vaccination process. We set goals of 25,000 doses a day that would increase to 50,000 doses a day. I'm pleased to say that now our running average is around 40,000 doses a day. We're certainly in the top 10 of how many doses we're putting into arms per population. So, you know, we're headed in a much better direction. We're in a much better place today than we were six weeks ago. But we still have a lot of work to do. And I won't be satisfied, Karen, until every Virginian, has a shot in their arm and that we can put this pandemic behind us and get back to our near normal lives. Our children, they need to be back in school. Our businesses need to be back up and running. And so I sense that. I feel that frustration amongst Virginians. And we're doing everything we can. I know your next guest is going to talk about volunteerism. There are so many good people in Virginia, in this country, that have stepped up to be part of the solution. I see it every day. I'm encouraged. And we're going to get through this. We're going to get this together."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, the Post has a pretty interesting story this morning on the front page where they say that the states that are doing better with this are the ones that have gone to a simpler distribution system, in many cases, a more centralized distribution system."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you finding that to be the case in Virginia? And what kind of lessons does that say for other parts of the country?"
+      }
+    ],
+    "speakername": "Ralph Northam",
+    "ground_truth": "Well, it's a great question, and certainly, you know, one size doesn't fit all, but, you know, we started initially, Karen, with our 1A phase and, you know, really getting shots into the arms of our frontline health care workers, getting into our long-term care facilities, and that worked well, and then what happened is that eligibility was expanded, and that came from Washington in the previous administration. Remember, they said that the stockpile would be released, and then two days later, after we announced that, you know, we're expanding eligibility, taking the age down to 65 individuals with pre-existing conditions, vaccinated our teachers, frontline workers, you know, that stockpile was pulled away from us, and so that was a major frustration that we had, but we have made adjustments. We have sites set up across Virginia now. Equity is certainly a major focus of ours to make sure we get into some of the lesser. So, we're working with our faith leaders, our community leaders, and it's really been, Karen, an all-hands-on-deck process, but we still have a lot of work to do, and our main challenge right now, and this is not unique to Virginia. I talk with my fellow governors every day. We need more doses, and, you know, right now, Virginia's getting about 120,000 doses a week. In order to get to 50,000 doses a day, we need to get to about 120,000 doses a week. So, we're working with our state. In Virginia, we need, if you do the math, we need about 350,000 per week, and so it's nice to have a partner in Washington who is factual, who's committed to getting Americans vaccinated, and he has promised us that we will have at least a three-week planning phase where we'll increase our number of doses by 15 percent, and then just two days ago, we announced another five percent. We have a federal program through the pharmacies. We're going to have about 26,000 additional doses will come into CVS in Virginia, so we really feel good about where we're headed, but bottom line, we need more doses.",
+    "bio": "Ralph Shearer Northam (born September 13, 1959) is an American politician and physician serving as the 73rd Governor of Virginia since January 13, 2018. A pediatric neurologist by occupation, he was an officer in the U.S. Army Medical Corps from 1984 to 1992. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, the media has a pretty interesting story this morning on the front page where they say that the states that are doing better with this are the ones that have gone to a simpler distribution system, in many cases, a more centralized distribution system."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you finding that to be the case in your state? And what kind of lessons does that say for other parts of the country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's a great question, and certainly, you know, one size doesn't fit all, but, you know, we started initially, Karen, with our 1A phase and, you know, really getting shots into the arms of our frontline health care workers, getting into our long-term care facilities, and that worked well, and then what happened is that eligibility was expanded, and that came from the capital in the previous administration. Remember, they said that the stockpile would be released, and then two days later, after we announced that, you know, we're expanding eligibility, taking the age down to 65 individuals with pre-existing conditions, vaccinated our teachers, frontline workers, you know, that stockpile was pulled away from us, and so that was a major frustration that we had, but we have made adjustments. We have sites set up across the state now. Equity is certainly a major focus of ours to make sure we get into some of the lesser. So, we're working with our faith leaders, our community leaders, and it's really been, Karen, an all-hands-on-deck process, but we still have a lot of work to do, and our main challenge right now, and this is not unique to our state. I talk with my fellow governors every day. We need more doses, and, you know, right now, our state's getting about 120,000 doses a week. In order to get to 50,000 doses a day, we need to get to about 120,000 doses a week. So, we're working with our state. We need, if you do the math, we need about 350,000 per week, and so it's nice to have a partner in the capital who is factual, who's committed to getting Americans vaccinated, and he has promised us that we will have at least a three-week planning phase where we'll increase our number of doses by 15 percent, and then just two days ago, we announced another five percent. We have a federal program through the pharmacies. We're going to have about 26,000 additional doses will come into pharmacies in our state, so we really feel good about where we're headed, but bottom line, we need more doses."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've mentioned that 50,000 number a couple of times now. That is what your state health coordinator has said. 50,000 doses a day is necessary to get to herd immunity. How soon?"
+      }
+    ],
+    "speakername": "Ralph Northam",
+    "ground_truth": "you know, you said you're doing upwards of 40,000. So how soon would herd immunity arrive in the state at that rate?",
+    "bio": "The speaker (born September 13, 1959) is an American politician and physician serving as the 73rd Governor of a state since January 13, 2018. A pediatric neurologist by occupation, they served as an officer in the U.S. Army Medical Corps from 1984 to 1992. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's a great question, and certainly, you know, one size doesn't fit all, but, you know, we started initially with our 1A phase and, you know, really getting shots into the arms of our frontline health care workers, getting into our long-term care facilities, and that worked well, and then what happened is that eligibility was expanded, and that came from the capital in the previous administration. Remember, they said that the stockpile would be released, and then two days later, after we announced that, you know, we're expanding eligibility, taking the age down to 65 individuals with pre-existing conditions, vaccinated our teachers, frontline workers, you know, that stockpile was pulled away from us, and so that was a major frustration that we had, but we have made adjustments. We have sites set up across the state now. Equity is certainly a major focus of ours to make sure we get into some of the lesser. So, we're working with our faith leaders, our community leaders, and it's really been an all-hands-on-deck process, but we still have a lot of work to do, and our main challenge right now, and this is not unique to our state. I talk with my fellow governors every day. We need more doses, and, you know, right now, we're getting about 120,000 doses a week. In order to get to 50,000 doses a day, we need to get to about 120,000 doses a week. So, we're working with our state. We need, if you do the math, we need about 350,000 per week, and so it's nice to have a partner in the capital who is factual, who's committed to getting Americans vaccinated, and he has promised us that we will have at least a three-week planning phase where we'll increase our number of doses by 15 percent, and then just two days ago, we announced another five percent. We have a federal program through the pharmacies. We're going to have about 26,000 additional doses will come into pharmacies in our state, so we really feel good about where we're headed, but bottom line, we need more doses."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've mentioned that 50,000 number a couple of times now. That is what your state health coordinator has said. 50,000 doses a day is necessary to get to herd immunity. How soon?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know, you said you're doing upwards of 40,000. So how soon would herd immunity arrive in our state at that rate?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, our anticipated date is really by, you know, early to mid-summer. That's what we would like to accomplish. You know, one of the things that was a challenge for us is that, you know, we didn't know how many doses we would have in our state. And so the pharmacies and the health care systems were keeping that second dose. And now that we've got a commitment to have more shipment coming in each week, we're going to take those second doses and convert them into first doses. And that's why we've been able to, you know, reduce our backlog significantly and, again, get more shots in the arms. But the answer to your question, we would really like to have our state vaccinated by certainly mid-summer. And, again, get back to our normal lives, get our children back in school and be ready for the fall."
+      }
+    ],
+    "speakername": "Ralph Northam",
+    "ground_truth": "Well, the administration made a big announcement yesterday, which is that they are going to make a lot of vaccine supplies available to pharmacies and other outlets across the country. I think they're talking about upwards of 6,500 pharmacies in the country. How does that change how things look on the ground?",
+    "bio": "The speaker is an American politician and physician serving as the 73rd Governor of a state since January 13, 2018. A pediatric neurologist by occupation, they served as an officer in the military Medical Corps from 1984 to 1992. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've mentioned that 50,000 number a couple of times now. That is what your state health coordinator has said. 50,000 doses a day is necessary to get to herd immunity. How soon?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know, you said you're doing upwards of 40,000. So how soon would herd immunity arrive in the state at that rate?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, our anticipated date is really by, you know, early to mid-summer. That's what we would like to accomplish. You know, one of the things, Karen, that was a challenge for us is that, you know, we didn't know how many doses we would have in the state. And so the pharmacies and the health care systems were keeping that second dose. And now that we've got a commitment to have more shipment coming in each week, we're going to take those second doses and convert them into first doses. And that's why we've been able to, you know, reduce our backlog significantly and, again, get more shots in the arms. But the answer to your question, we would really like to have our state vaccinated by certainly mid-summer. And, again, get back to our normal lives, get our children back in school and be ready for the fall."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the administration made a big announcement yesterday, which is that they are going to make a lot of vaccine supplies available to pharmacies and other outlets across the country. I think they're talking about upwards of 6,500 pharmacies in the country. How does that change how things look on the ground?"
+      }
+    ],
+    "speakername": "Ralph Northam",
+    "ground_truth": "Well, it's another tool in our toolbox, and, you know, we have sites set up across the state. The health care systems have been phenomenal to work with, but to have our pharmacies able to have those doses, you know, for the usual flu season each year, most people are, you know, they're quite used to going to their pharmacies to get that shot. So that was a really important announcement from the capital yesterday, and so we have now set up 36 pharmacy locations in our state. We've put them hopefully in equitable locations across the state so that we can get into some of the underserved communities, but we hope that that program is expanded. So in addition to the sites that we already have, going into churches, mobile units, a lot of different ways to get shots in people's arms. The pharmacies will be a big. Part of that process as we move forward, so we're very excited about that.",
+    "bio": "The speaker (born September 13, 1959) is an American politician and physician serving as the 73rd Governor of a U.S. state since January 13, 2018. A pediatric neurologist by occupation, they served as an officer in the military medical corps from 1984 to 1992. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned that you now have a different kind of partner in [federal capital] and President Biden. One of the things that he has done is issued a requirement that on all federal property, people have to wear masks. Is that something that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "governors should do as well on state property? And how are you approaching this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you for that question and you know why we're getting our population vaccinated while we work toward that herd immunity. We have to all remain vigilant and continue to wear our facial protection. We have to keep our hands washed. We have to keep our social distancing not gathering in large groups and and so we have a mass mandate in [state] and I think that's one of the things that has allowed us to to keep our numbers low to keep our hospitals at their total capacity at where they can take care of sick individuals. So I am all about the president moving forward with that mandate and I think [state residents] and certainly hope other Americans are ready to follow his lead. But we know that's that's pretty straightforward science. Karen, we know what works to mitigate these numbers to prevent the spread of this virus and and we all have to be vigilant and and just on another note, as you know, there are other variants. There's the UK variant, which we now have four cases that are documented in [state]. There's the South African variant and also a Brazilian variant. And so these viruses, they're they're known to mutate. That's the way they survive and exist. And the sooner we can get individuals vaccinated, the sooner we can get these numbers in our communities lower, the better off we're going to be as a as a nation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How else, we're only two weeks into the Biden presidency, but how else does it feel different? I mean, he has sort of put together a drastically stepped up role for the federal government. Does that leave the states the kind of flexibility then that they need to sort of innovate and customize their programs for their own populations?"
+      }
+    ],
+    "speakername": "Ralph Northam",
+    "ground_truth": "You know, it does, Karen. And, you know, the governors have had to take this role on back from February and March. We were asked to fight a biological war with really no supplies and no direction. And so the answer to your question, what's different now? The difference is leadership. The difference is being factual, following the science. That's certainly very important to me as a physician, because the science is clear. And if we follow those guidelines, we'll get to the objective that we need to have, and that is to get this pandemic behind us. But, you know, Karen, when our previous president was talking about things like using disinfectants, using ultraviolet lights, using hydroxychloroquine when it hadn't, you know, been approved, that mixed messaging. And also, I might add the political divisiveness that was present with, you know, just a simple thing about wearing a mask. But what's so difficult about that? But it became political in this country where people that supported the previous president chose not to wear a mask. Well, now we have a president that's following the science, that's being truthful with our fellow Americans. And, you know, Americans can handle the truth. Let's give them the truth. Let's give them the facts. And then we'll deal with the rest. It's like night and day between the leadership now and what we had previously.",
+    "bio": "[target] (born September 13, 1959) is an American politician and physician serving as the 73rd Governor of [state] since January 13, 2018. A pediatric neurologist by occupation, he was an officer in the U.S. Army Medical Corps from 1984 to 1992. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

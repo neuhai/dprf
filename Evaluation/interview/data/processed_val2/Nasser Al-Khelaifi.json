@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Listen, I mean, as a citizen, coming from my country, from the capital city, I'm so proud, honestly, of my country, my people, my leadership, doing for the country, for the international tournament itself. It's amazing. I'm so proud, so happy. I mean, I cannot be more happy than this. And, of course, you know, we saw outside, and let's say in Europe, some of the countries, let's say, and some of the media, some of the journalists, let's say, some of the politicians."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And there have been politicians who've taken a stand, maybe politicians from countries that do big trade deals still with the host nation, British sports minister who wore a rainbow armband, but then you've got the British prime minister saying hats off to the host nation."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, listen, I'm not a politician, and I don't want to enter into politics, and I don't understand anything in politics, and I don't want to understand. But one thing, you know, the politicians, if they want to use the sport to promote themselves, to achieve something in their agenda, they will not succeed, definitely. You know, because sport is sport. It's nothing to do with politics. And that's what we're doing here in our country, just sport and football. So all the politicians try to use this for their own agenda, all of them failed."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But for the host nation, sport is also a means of projecting power, isn't it? Some of the investments that you're overseeing, the international tournament itself."
+      }
+    ],
+    "speakername": "Nasser Al-Khelaifi",
+    "ground_truth": "Listen, the sport in our country, I believe, you know, how I see it myself. I was a tennis player. Thanks God, the government invested me as a human being to be an athlete. And today I'm here, where I am, what I'm doing for my country. So the government, of course, invested in sport, education, health. That's the most infrastructure. So proud of our leadership and our country, you know. I mean, if you can see yesterday, I was going from stadium to stadium. And, you know, look at all the infrastructure that we have. Trust me, there's not so many, even in Europe, like here in the capital. So proud. I mean, you know, I'm going to be very humble. But we have to be proud today and say it loudly that we are proud of our country and we've been done for the international tournament and before the international tournament.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I mean, listen, I'm not a politician, and I don't want to enter into politics, and I don't understand anything in politics, and I don't want to understand. But one thing, you know, the politicians, if they want to use the sport to promote themselves, to achieve something in their agenda, they will not succeed, definitely. You know, because sport is sport. It's nothing to do with politics. And that's what we're doing here in our country, just sport and football. So all the politicians try to use this for their own agenda, all of them failed."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But for your country, sport is also a means of projecting power, isn't it? Some of the investments that you're overseeing, the major sports event itself."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, the sport in our country, I believe, you know, how I see it myself. I was a tennis player. Thanks God, the government invested me as a human being to be an athlete. And today I'm here, where I am, what I'm doing for my country. So the government, of course, invested in sport, education, health. That's the most infrastructure. So proud of our leadership and our country, you know. I mean, if you can see yesterday, I was going from venue to venue. And, you know, look at all the infrastructure that we have. Trust me, there's not so many, even in other regions, like here in our city. So proud. I mean, you know, I'm going to be very humble. But we have to be proud today and say it loudly that we are proud of our country and we've been done for the major event and before it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You spend a lot of time abroad, your businesses are overseas. Do you think people there do have a right to take a stand on morality issues and human rights?"
+      }
+    ],
+    "speakername": "Nasser Al-Khelaifi",
+    "ground_truth": "If we want to mix again football with politics, then it's going to be a mess. I think people, again, using it for their own agenda is not better for the human being and for people. You know, I think we are, as people of this country, I think we are good people. Trust me, and I'm sure of it, because I know our people, I know our leadership, and they are the best people in the world, I can say it again proudly. And that's not fair, what's been people using, and some of the media also using this against our people and against our country. We are not the best, but trust me, we are much better than other people, much better relation. We are, as citizens, we have this human rights law inside us. It's our DNA, our culture, we don't need any law to tell us what we do, what we don't do, you know. And that's what sometimes hurt me really, that saying, yeah, you know, there's this numbers, fake numbers coming from some of the media about, you know, labours and all this stuff, it's hurt me so much, because my people, they are very good people, trust me. They are very open hearted, and you see it here, they're very friendly, you know, our religion. By the way, they don't allow us to do these things, it's against religion. All of us the same, we need to treat, you know, people exactly the same. That's what's more than law, it's religion. So I cannot understand all this, you know, rumour and media and agenda and politicians using it just for their own agenda. That's, I will not let it, honestly, first time I'm going to talk about it, because I had enough of it.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Listen, the sport in our country, I believe, you know, how I see it myself. I was a tennis player. Thanks God, the government invested me as a human being to be an athlete. And today I'm here, where I am, what I'm doing for my country. So the government, of course, invested in sport, education, health. That's the most infrastructure. So proud of our leadership and our country, you know. I mean, if you can see yesterday, I was going from stadium to stadium. And, you know, look at all the infrastructure that we have. Trust me, there's not so many, even in Europe, like here in our capital. So proud. I mean, you know, I'm going to be very humble. But we have to be proud today and say it loudly that we are proud of our country and we've been done for the World Cup and before the World Cup."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You spend a lot of time in Europe, your businesses are in Europe. Do you think Europeans do have a right to take a stand on morality issues and human rights?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If we want to mix again football with politics, then it's going to be a mess. I think people, again, using it for their own agenda is not better for the human being and for people. You know, I think we are, as people of our country, I think we are good people. Trust me, and I'm sure of it, because I know our people, I know our leadership, and they are the best people in the world, I can say it again proudly. And that's not fair, what's been people using, and some of the media also using this against our people and against our country. We are not the best, but trust me, we are much better than other people, much better relation. We are, as citizens, we have this human rights law inside us. It's our DNA, our culture, we don't need any law to tell us what we do, what we don't do, you know. And that's what sometimes hurt me really, that saying, yeah, you know, there's this numbers, fake numbers coming from some of the media about, you know, labours and all this stuff, it's hurt me so much, because my people, they are very good people, trust me. They are very open hearted, and you see it here, they're very friendly, you know, our religion. By the way, they don't allow us to do these things, it's against religion. All of us the same, we need to treat, you know, people exactly the same. That's what's more than law, it's religion. So I cannot understand all this, you know, rumour and media and agenda and politicians using it just for their own agenda. That's, I will not let it, honestly, first time I'm going to talk about it, because I had enough of it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Why are you looking to sort of sell stakes in the sports club? Are you potentially maybe looking to sell the club completely?"
+      }
+    ],
+    "speakername": "Nasser Al-Khelaifi",
+    "ground_truth": "correctly here Rob you know we're not willing to sell or we don't ask to sell people approach us so when approach we need to look at the opportunity right so we're looking at the opportunity why not to have strategic investor investors at the club fantastic why not",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If we want to mix again football with politics, then it's going to be a mess. I think people, again, using it for their own agenda is not better for the human being and for people. You know, I think we are, as people from our nation, I think we are good people. Trust me, and I'm sure of it, because I know our people, I know our leadership, and they are the best people in the world, I can say it again proudly. And that's not fair, what's been people using, and some of the media also using this against our people and against our nation. We are not the best, but trust me, we are much better than other people, much better relation. We are, as people of our nation, we have this human rights law inside us. It's our DNA, our culture, we don't need any law to tell us what we do, what we don't do, you know. And that's what sometimes hurt me really, that saying, yeah, you know, there's this numbers, fake numbers coming from some of the media about, you know, labours and all this stuff, it's hurt me so much, because my people, they are very good people, trust me. They are very open hearted, and you see it here, they're very friendly, you know, our religion. By the way, they don't allow us to do these things, it's against religion. All of us the same, we need to treat, you know, people exactly the same. That's what's more than law, it's religion. So I cannot understand all this, you know, rumour and media and agenda and politicians using it just for their own agenda. That's, I will not let it, honestly, first time I'm going to talk about it, because I had enough of it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Why are you looking to sort of sell stakes in the sports club? Are you potentially maybe looking to sell the club completely?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "correctly here Rob you know we're not willing to sell or we don't ask to sell people approach us so when approach we need to look at the opportunity right so we're looking at the opportunity why not to have strategic investor investors at the club fantastic why not"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've had a lot of friction with the neighboring country. The public investment fund has been linked with potentially buying a stake in the sports club. Is that something you would be willing to accept?"
+      }
+    ],
+    "speakername": "Nasser Al-Khelaifi",
+    "ground_truth": "Listen, this is not true, absolutely not true in the sports club, and listen, I mean, you know, thank God that, again, the relation is better, and that's what we willing, that's what we want, what we want to achieve, to have great relation with everybody, you know. We want to have peace with everybody. That's what our nation, about that's our leadership, you know, policy that, you know, to have, you know, peace with everybody.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You go ask them about the rope."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Have you had an answer why?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I didn't have any answer."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You're obviously sort of preparing for the second half of the season. It's hard to get away from things like the transfer window. [Player A] is now a free agent. You have the chance to be able to unite [Player A] and [Player B] in the same club team for the first time."
+      }
+    ],
+    "speakername": "Nasser Al-Khelaifi",
+    "ground_truth": "[Player A], I admire [Player A], big time, legend, one of the best players ever in the history of football. But I think for us it's really difficult for the moment, you know, with the three players that we have, it's very difficult. But I wish him all the best. He's fantastic and he's still an amazing player.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

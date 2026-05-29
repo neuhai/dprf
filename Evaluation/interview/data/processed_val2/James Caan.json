@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You never trust an audience that comes in a bus with chicken wire on the windows."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know you'll"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "be in some kind of trouble no i really meant it that the popular crime drama i'd forgotten how good the picture was and when they took it and put it all in chronological order again people could really follow the action from start to finish it must have been exciting to work on that"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, we had a lot of fun. I missed it, but I know what he was trying to do. I don't know how successful it was."
+      }
+    ],
+    "speakername": "James Caan",
+    "ground_truth": "was very successful because you know they had a lot of flashbacks in the picture and they just simply put it in in chronological order so uh you would you would have liked it am i keeping up [target]",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "before the sketch. Was there a story connected with that?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "being late at all that our viewers might like to hear [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it's not a guffaw, but it's a chuckle."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Your death scene is one of the famous death scenes. I mean, as a car guy, seeing that vintage car get blown up, I couldn't. But you must've taken, when you get machine gunned at the toll booth, it's like, ba-da-da-da-da. I mean, I never seen anybody get hit with it. Were you wearing those?"
+      }
+    ],
+    "speakername": "James Caan",
+    "ground_truth": "oh yeah yeah i was 147 of them i believe but they come so we didn't have those security measures in those days you know what i mean there was no security protocol. yeah everything they flew they're like they're like little firecrackers they came to your body little brass casings uh",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "being late at all that our viewers might like to hear you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, it's not a guffaw, but it's a chuckle."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Your death scene is one of the famous death scenes. I mean, as a car enthusiast, seeing that vintage car get blown up, I couldn't. But you must've taken, when you get machine gunned at the toll booth, it's like, ba-da-da-da-da. I mean, I never seen anybody get hit with it. Were you wearing those?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "oh yeah yeah i was 147 of them i believe but they come so we didn't have major security concerns in those days you know what i mean. yeah everything they flew they're like they're like little firecrackers they came to your body little brass casings uh"
+      }
+    ],
+    "speakername": "James Caan",
+    "ground_truth": "with the gunpowder in it right and then a little sack filled with blood and they were all sewn into my suit and all over and and uh and i had to be careful not to get my hands in front of it so it's like choreographed like a dance right and i remember this i think his name was a special effects expert he had these wires running out of my legs you know and as he was fixing me up he said you know i've never i've done a hundred and whatever pictures he says i've never put this many squibs on a guy i said you had to pick this moment you know to tell me that you know if you could have saved that for a little while yeah so",
+    "bio": " The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Does it seem like 25 years ago?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "no i think that scene i think that scene i was trying to convince al not you know not to do that so that sonny would have a bigger part because if he didn't do it you know i could have been there long i wouldn't get that kid"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm a little self."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "How are the kids doing? Good. How many kids you got? Four?"
+      }
+    ],
+    "speakername": "James Caan",
+    "ground_truth": "Yeah, I have a daughter, 31, I have [child1], 20, I have [child2], 5 1â2, and I have [child3] a year and a couple months.",
+    "bio": " The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I went to play football. As a matter of fact, I saw my coach then. I saw him about 16 years later at a racetrack. He used to love to go to the racetrack, and he moved out to a coastal city. And by that time, you were a movie star. I was in the movies, yes, whatever. And he was sitting with two colleagues. I hadn't seen him in 16 years, and I walked up, and he goes, here's one of my dummies. I said, hiya, coach. And he goes, you know, I ought to get 10% of your career. I go, why is that? He says, I told you to quit playing football."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What you did. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You then came back to the city to go to the playhouse?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I got homesick when I was 16. I went to a local university first for a year."
+      }
+    ],
+    "speakername": "James Caan",
+    "ground_truth": "switched majors about i had gone through just about everything there was to go through and the meat market ever looming you know across the river going down to the market district with my pop you know and lugging hindquarters i think i don't think this is something i really wanted to you know at four or five in the morning you know to get in the freezer to get warm you know we'd go in the freezer to get warm so alas this ditch effort was",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "val"
+  }
+]

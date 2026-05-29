@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have delivered time and time again from my constituents"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And yes, what's next for [target]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And this is the first time I'm telling someone on the record"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "A special edition of Power in Politics starts now. I'm Tara Rosenblum. Thanks for joining us. Come January, one of the state's leading progressive voices will be out of the job and the capital. We recently invited [target] here to our local studio for a wide-ranging conversation where we discussed everything from national security events and political figures to whether or not a political comeback is in his near future. I know this has got to be an emotional time with your time in the capital winding down towards its end, at least for now. What's your mindset like?"
+      }
+    ],
+    "speakername": "Mondaire Jones",
+    "ground_truth": "my mindset is celebratory. You know, there are a lot of folks you may recall in my first primary back in 2020 who said that because I had never held elected office that somehow I wouldn't be able to hit the ground running. Well, I've proved those people wrong. I have delivered time and time again from my constituents in the suburban regions.",
+    "bio": "The target (born May 18, 1987) is an American attorney and politician serving as the U.S. representative for a northeastern state's congressional district since 2021. The district includes most of central and northwestern suburban areas. A member of the Democratic Party, they and another representative are the first openly gay black members of Congress. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "got in this fight because I cared about addressing the big issues. And so when I got a chance to pass the Inflation Reduction Act, which is going to cap the cost of prescription drugs for seniors like my grandmother, that was a big victory. I want to keep doing stuff like that. Do you have a job lined up as we're speaking right now? I'm going to be appointed to the [National Commission]. I'm really excited about that. It's a six-year term. It doesn't keep me from doing other things, including from running for office."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's a big reveal. I haven't heard you announce this yet. Who appointed you? Congratulations."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, thank you. I appreciate that. This is the first time I'm telling someone on the record. The Speaker, House Speaker [Senior Official], gets an appointment to the [National Commission]. The job of the [National Commission] is more important than ever before. The purpose is to investigate and report on the state of civil rights in this country, including civil rights violations. When we have a Republican Congress in the House next year, we're not going to be able to pass voting rights legislation. And so it's going to become even more important that agencies like the [National Commission] are able to amplify what is going on in this country. Is this a f***?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "full-time position?"
+      }
+    ],
+    "speakername": "Mondaire Jones",
+    "ground_truth": "It's a part-time role, which allows me to do some other things, and I'm still having conversations about what those things are.",
+    "bio": "An American attorney and politician serving as a representative for a [State] congressional district since 2021. The district includes most of central and northwestern parts of a county and all of another county. A member of the Democratic Party, they and another representative are the first openly gay black members of Congress. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, thank you. I appreciate that. This is the first time I'm telling someone on the record. The Speaker, gets an appointment to the Commission on Civil Rights. The job of the Commission on Civil Rights is more important than ever before. The purpose is to investigate and report on the state of civil rights in this country, including civil rights violations. When we have a Republican Congress next year, we're not going to be able to pass voting rights legislation. And so it's going to become even more important that agencies like the Commission on Civil Rights are able to amplify what is going on in this country. Is this a f***?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "full-time position?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a part-time role, which allows me to do some other things, and I'm still having conversations about what those things are."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There are a lot of voters who would like to see you make a comeback to electoral politics and possibly even take on the congressman elect for the district. How closely are you considering making that run?"
+      }
+    ],
+    "speakername": "Mondaire Jones",
+    "ground_truth": "You know, I continue to hear from folks. Obviously, I didn't wake up one day and decide not to represent the community that I've loved my whole life. And that raised me and that got me this far from public housing to a prestigious law school and then all the way to Congress. I'm devastated by what happened. And it's also clear to me that I've got a job that I need to continue to finish. And so I am being very open minded about 2024.",
+    "bio": "An American attorney and politician serving as the U.S. representative for a congressional district in the northeastern United States since 2021. The district includes most of central and northwestern parts of a county and all of another county. A member of the Democratic Party, they are one of the first openly gay black members of Congress. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's a part-time role, which allows me to do some other things, and I'm still having conversations about what those things are."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There are a lot of voters who would like to see you make a comeback to electoral politics and possibly even take on Assemblyman [Name], who is the congressman elect for the district. How closely are you considering making that run?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I continue to hear from folks. Obviously, I didn't wake up one day and decide not to represent the community that I've loved my whole life. And that raised me and that got me this far from public housing to a prestigious law school and then all the way to the national legislature. I'm devastated by what happened. And it's also clear to me that I've got a job that I need to continue to finish. And so I am being very open minded about 2024."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think that you would have won that seat had you ran against Representative [Name]? There is no question."
+      }
+    ],
+    "speakername": "Mondaire Jones",
+    "ground_truth": "that I would have won a district that I already represent 70% of and whose constituents were already very proud of the job that I've been doing for them and took great pride in having me as their representative in the national legislature.",
+    "bio": "[target] (born May 18, 1987) is an American attorney and politician serving as the representative for a district in the northeastern state since 2021. The district includes most of central and northwestern parts of a county and all of another county. A member of the Democratic Party, he and another representative are the first openly gay black members of the national legislature. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, I continue to hear from folks. Obviously, I didn't wake up one day and decide not to represent the community that I've loved my whole life. And that raised me and that got me this far from Section 8 housing to a prestigious law school and then all the way to the national legislature. I'm devastated by what happened. And it's also clear to me that I've got a job that I need to continue to finish. And so I am being very open minded about 2024."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think that you would have won that seat had you ran against Republican Michael Lohan? There is no question."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that I would have won a district that I already represent 70% of and whose constituents were already very proud of the job that I've been doing for them and took great pride in having me as their representative in legislature."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Take me back to the moment and the emotions that you felt when you learned that Sean Patrick Maloney would be running for that seat, which essentially left you displaced. I was devastated."
+      }
+    ],
+    "speakername": "Mondaire Jones",
+    "ground_truth": "You know, these are the kinds of things that you try to work out with folks before announcements like that, especially when you're from the same party. And more than that, because it's not just about Sean, it's about an utter failure across the board in the state among elected leaders who got us to this place where a map was struck down by the state Court of Appeals. You know, I was quite pleased with the maps that had been drawn by the Independent Redictioning Commission. And even the maps that were drawn by the Republican commissioners on the Independent Redictioning Commission would have avoided a scenario where I was in a primary against Sean Patrick Maloney, the chair of the very powerful DCCC. And so this was completely avoidable.",
+    "bio": "The speaker (born May 18, 1987) is an American attorney and politician serving as the representative for a northeastern state's congressional district since 2021. The district includes most of central and northwestern parts of a county and all of another county. A member of the Democratic Party, they and another representative are the first openly gay black members of the national legislature. The speaker's MBTI type is INFP",
+    "split": "val"
+  }
+]

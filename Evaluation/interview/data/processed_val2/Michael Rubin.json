@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm killing it here!"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But I couldn't get into college because my SAT was so low. So I remember feeling very insecure around my abilities, my lack of ability from school, and it affected my self-worth. And I wanted to ask you this. You dropped out of college at one point, struggled in high school, probably all the way through school. Did you ever feel a lack of confidence, an insecurity, or a lack of self-worth because of school? Or did you always have confidence to go after what you wanted in business?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Honestly, not really. You know, for me, everything you said was right. I consider myself to be an awful student. I barely graduated high school. I went to college for one semester. I actually posted my, somehow they went back and found my [university] report card. I had a 1.87 in the one semester that I went to school."
+      },
+      {
+        "speaker": "[target]",
+        "text": "i couldn't then and still don't really read i haven't read a full book since ninth grade i haven't really read part of a book since ninth grade um and so like we all learned different ways and for me the one thing i was good at was business and i always loved it and enjoyed it so i always you know kind of put everything i had into that and so being a student failing in school or college didn't actually bother me because i always just had this huge desire to just give it everything i had in business and even having failures and that didn't bother me because i just felt like whatever you get back up and do it again and you were an athlete what happened when you you know when something goes wrong you just work harder and i just felt like i could always outwork out hustle you know everybody else and so"
+      }
+    ],
+    "speakername": "Michael Rubin",
+    "ground_truth": "like a lot of people you know are taking like failure has never bothered me i've dealt with it my whole life in different things and i just like i'm always like i can whatever i can overcome it i can keep pushing through it and that's just my personality",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "tie then your self-worth to your business success or your net worth as it went up? Or sometimes if it went down and you had failures, did you ever tie it to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um, again, this sounds weird, not really. Like I've been through, even in somewhat recent times, I mean, I almost got margined out, which means like pushed out of my company in 2009 during the financial crisis. And I was like near business death. And I thought it was fun. I'm like, this is an adventure, man. Like I like this, like I like the action and it just didn't bother me. Like I liked more playing the game. And that was what I really, you know, got me excited was figuring out, you know, how to try to get more wins than losses, how to try to put my best foot forward. You know, I don't know. I'm a pretty thick skinned person. I've always been that way. And maybe it's like, you know, different people grow up with different, different ways. Like my parents always beat on me to do better. Like it was like, you know, they'd be like, and when I mean beat on me, like, hey, you can do better, not physically beat on me. I had two parents that were amazing, you know, amazing parents, both were, you know, one was a veterinarian. One was a psychiatrist, but they'd always say like, you know, nothing was ever good enough. They were always pushing me. And so like I had that attitude of like, it didn't bother me to, you know,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "be you know done picked on you know have things go wrong i had every learning impediment like i had a speech you know tutor and this tutor and that like because i had all these things like i was like i had a lot of learning disabilities you know like before people knew what add was i had the worst add is that dyslexia 10 year old and you know i'm very dyslexic today and so but all this stuff for me it's just like i don't know i just had fun like playing the game"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "old and you know i'm very dyslexic today and so but all this stuff for me is just like i don't know i just had fun like playing the game so when you failed did you ever like get down on yourself or did you look at it as an opportunity of what you could do better next time"
+      }
+    ],
+    "speakername": "Michael Rubin",
+    "ground_truth": "so always what you can do better next time i think anytime i've had like a really bad moment i just say tomorrow's a fresh day so like i could have a like if i just like if everything went wrong for me in a day or like something really happened in business or something i really didn't like i was i'd always be like all right tomorrow's a new day so it might feel bad in that night but then i and by the way things always if you get i don't sleep that much but even like sleeping five hours like it's a new day you feel like it's things feel like less you know intense you just go deal with the issue the next day so um",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "be you know done picked on you know have things go wrong i had every learning impediment like i had a speech you know tutor and this tutor and that like because i had all these things like i was like i had a lot of learning disabilities you know like before people knew what add was i had the worst add is that dyslexia 10 year old and you know i'm very dyslexic today and so but all this stuff for me it's just like i don't know i just had fun like playing the game"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "old and you know i'm very dyslexic today and so but all this stuff for me is just like i don't know i just had fun like playing the game so when you failed did you ever like get down on yourself or did you look at it as an opportunity of what you could do better next time"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so always what you can do better next time i think anytime i've had like a really bad moment i just say tomorrow's a fresh day so like i could have a like if everything went wrong for me in a day or like something really happened in business or something i really didn't like i was i'd always be like all right tomorrow's a new day so it might feel bad in that night but then i and by the way things always if you get i don't sleep that much but even like sleeping five hours like it's a new day you feel like it's things feel like less you know intense you just go deal with the issue the next day so um"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What was the biggest loss you had in business? Would you say? I've had so many. Really?"
+      }
+    ],
+    "speakername": "Michael Rubin",
+    "ground_truth": "Yeah. I mean, it started, my first big loss in business was at 16. That was my first real loss. And I grew up as a, you remember, I was an entrepreneur before being an entrepreneur was cool, before it was normal, before technology. I mean.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It was just like, okay, like, great. If I go bankrupt, like, maybe I'm an idiot. I don't know. I'll figure it out. And so none."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "of that bothered me it's almost like if you didn't have that failure you wouldn't have had the i guess the opportunity you wouldn't have seen the opportunity of like oh i can go and buy these things at discount and then sell them for more in the future and build a business that way"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and that's the way life is and that's why I really believe every failure leads to your next success and so we have you know we have things that don't work out every day and you know yes I was sitting in a company meeting going through our quarterly review in our commerce business and the guy who took over international business who's just you know doing a great job you know went through three things he tested that all didn't work he was talking about great this didn't work this didn't work this work and here's what I'm doing about it because that's like part of how you grow in business so people a lot of people are scared to take risks and scared to fail and then if you do that then you never go anywhere right Wow"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But, you know, someone might be listening or watching and thinking, well, that's easy to do as a teenager to take these risks because you got your parents to support you. You're living at home. You know, they're going to take care of you if you fall. But what about a big risk when you had a lot to lose? What was the biggest failure in your 30s or 40s? Saw a."
+      }
+    ],
+    "speakername": "Michael Rubin",
+    "ground_truth": "i'll give you the best story i think of off the top of my head so in 2009 during the financial crisis um i never you know my company was a public company and i was not paid you know i was paid a pretty small amount of money on a relative basis to run the company what i actually did was i borrowed money against my public company stock and then i invested in a bunch of different investments and that was great from 99 until 2008 to the financial crisis when the financial crisis happened and our stock my stock went from being worth 250 million personally to being worth 25 million over a few months and then the banks went from landing 50 percent to lending 15 so i went from being over 125 million dollars to being able to borrow you know whatever 3.7 million dollars i basically it's it's called almost getting margined out of your company yes okay wow so i i remember so i i at one point that most money i owed dom it was actually you know one of the big banks i don't want to name them to not embarrass anybody but you know i i owed 50 million dollars a peak and it worked great for eight years and now they keep you know saying hey you got to pay the loan down you got to pay the loan down because the stock's going down and the rate the advancement is going down",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "of that bothered me it's almost like if you didn't have that failure you wouldn't have had the i guess the opportunity you wouldn't have seen the opportunity of like oh i can go and buy these things at discount and then sell them for more in the future and build a business that way"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and that's the way life is and that's why I really believe every failure leads to your next success and so we have you know we have things that don't work out every day and you know yes I was sitting in a business meeting going through our quarterly review in our commerce business and the guy who took over international business who's just you know doing a great job you know went through three things he tested that all didn't work he was talking about great this didn't work this didn't work this work and here's what I'm doing about it because that's like part of how you grow in business so people a lot of people are scared to take risks and scared to fail and then if you do that then you never go anywhere right Wow"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But, you know, someone might be listening or watching and thinking, well, that's easy to do as a teenager to take these risks because you got your parents to support you. You're living at home. You know, they're going to take care of you if you fall. But what about a big risk when you had a lot to lose? What was the biggest failure in your 30s or 40s? Saw a."
+      },
+      {
+        "speaker": "[target]",
+        "text": "i'll give you the best story i think of off the top of my head so in 2009 during the financial crisis um i never you know my company was a public company and i was not paid you know i was paid a pretty small amount of money on a relative basis to run the company what i actually did was i borrowed money against my public company stock and then i invested in a bunch of different investments and that was great from 99 until 2008 to the financial crisis when the financial crisis happened and our stock my stock went from being worth 250 million personally to being worth 25 million over a few months and then the banks went from landing 50 percent to lending 15 so i went from being over 125 million dollars to being able to borrow you know whatever 3.7 million dollars i basically it's it's called almost getting margined out of your company yes okay wow so i i remember so i i at one point that most money i owed dom it was actually you know one of the big banks i don't want to name them to not embarrass anybody but you know i i owed 50 million dollars a peak and it worked great for eight years and now they keep you know saying hey you got to pay the loan down you got to pay the loan down because the stock's going down and the rate the advancement is going down"
+      }
+    ],
+    "speakername": "Michael Rubin",
+    "ground_truth": "And I got the loan down to about $3 million. Fighting with everything. I couldn't get it. I was done. By the way, I was calling all my friends. Hey, can I borrow a million here? Can I borrow? Because I was running a big business. In 2009, no one was lending anybody money. So it was like I was getting no's from everybody. So I sold enough investments to get the loan from $50 million down to $3 million. $3 million. I'm done. No one else will give me money. You had no more cash. No more. Nothing. By the way, my net worth wasn't at this point.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

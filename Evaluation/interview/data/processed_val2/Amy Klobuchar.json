@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I just want to clarify, I would not have canceled because of a snowstorm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was actually going to..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You were"
+      },
+      {
+        "speaker": "[target]",
+        "text": "gonna i was gonna make that point actually oh i knew that you would say that"
+      }
+    ],
+    "speakername": "Amy Klobuchar",
+    "ground_truth": "Unfortunately senator [name] couldn't be with us today after we had to reschedule this but we're really looking forward to the conversation today So thanks for joining us and much much warmer weather So every everyone is thinking right now is there gonna be a shutdown what our Democrats gonna do so top of mind How are you thinking about this? How do you plan to vote? And what are your Democratic colleagues gonna do?",
+    "bio": "The subject (born May 25, 1960) is an American lawyer and politician serving as the senior United States Senator from [state]. A member of the [state] Democratic-Farmer-Labor Party, the state's affiliate of the Democratic Party, they previously served as the [county] County Attorney. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I want to get into this conversation on tariffs that you brought up. The 80% of the US supply of fertilizer ingredient potash comes from Canada, and the president ultimately did lessen that tariff from 25% to 10% on Canada. What do you think that says about the president's willingness to kind of engage with feedback and respond to feedback, especially on his tariff policy?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, it is clear that when people talk to him, that can make a difference. So you can imagine all the groups, everyone is trying to get in to talk to someone at the White House. I see a few nodding of heads here, including the Agriculture Secretary, of course, I know was concerned about the potash issue. But that being said, all of these other tariffs and the uncertainty of them, even when they're paused, now it's down to 10%. But you don't know at what moment with them it's going to suddenly escalate. When you are in another country and your livelihood depends on getting some part of a supply chain in manufacturing, or if it depends on some kind of agricultural ingredient, and suddenly you have this tariff that is suspended but may come back, and it's been proven to come back in other instances already, you just start looking for other suppliers. You say, is there something in Brazil I could buy? Maybe I'll look somewhere in another country, and that's the problem. And I continue on an international basis for national security and economics. Do not understand why the President is so interested in working with Russia. I get it with trying to have peace negotiations. But talking about Russia, which is only, I think, 2% to 3% of the world's economy, when our allies, this grouping of the U.S., Canada, Mexico, our USMCA. And then you add in Europe, you add in South Korea, Japan, that's 50% of the world's economy. And so I don't understand why you wouldn't, when you're dealing with China and Russia, want to actually have better trading relationships with your friends. And I think the way to negotiate this is in the USMCA. That was one of the crown jewels of the first Trump administration. I supported it on the presidential debate stage, the first Democrat to support it. There are still issues with it, with dairy and the like, that have to be dealt with. There are still issues with it, with dairy and the like, that have to be dealt with. There are still issues with it, with dairy and the like, that have to be negotiated. And that is a place that you negotiate these, not by just declaring yourself king and putting in 50% tariffs and then saying, oh, I'm going to do 25%. Let's see what it's like. And it is real hard to get the Premier of Ontario to unite with the Liberal government right now. But that's where they are. And it is equally hard to get Minnesota and Canadian hockey fans to boo at each other. But that is quite an accomplishment that he has wrought in just the first, first 50 days."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I want to ask you a little bit more about that. You made this point about you and some of your colleagues on both sides of the aisle have called for the Trump administration to level the playing field with Canada for US farmers. And you're kind of alluding to that just now. But at the same time, you've also criticized the Trump administration for jeopardizing trade partnerships and all these retaliatory tariffs we're seeing from other countries. How are you balancing that? And how do you see a way forward to kind of navigate both of those desires? Maybe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The first part is being the what on the economic"
+      }
+    ],
+    "speakername": "Amy Klobuchar",
+    "ground_truth": "Sorry, the first part was that you and your colleagues have want to level the playing field with Canada for U.S. farmers, thinking of dairy tariffs specifically.",
+    "bio": "Amy Jean Klobuchar (born May 25, 1960) is an American lawyer and politician serving as the senior United States Senator from Minnesota. A member of the Minnesota Democratic-Farmer-Labor Party, Minnesotaâs affiliate of the Democratic Party, she previously served as the Hennepin County Attorney. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sorry, the first part was that you and your colleagues have want to level the playing field with [Country] for U.S. farmers, thinking of dairy tariffs specifically."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "what I just said. You use the trade agreement to make improvements there. There's lots of opportunities to do that within that trade negotiation. I also did not oppose some of the, and in fact supported some of the very targeted tariffs that help say iron ore mining in [State]. But now when you look at these aluminum and steel tariffs to the amount that they're going, to me, some people found the first ones controversial. I was supportive of those. [Current President] continued those. But when you go up to this next level that he's going, I think that goes too far. So I've always been in favor of using tariffs and set it repeatedly on a targeted basis. That is not what he's doing here. This is a much different game, much different amount of tariffs resulting in for certain retaliatory actions, including the ones in [Country] that are now up to 20%, which of course is devastating for the soybean market. And many other agriculture markets for our farmers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So switching gears here a little bit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "One more thing I just want to add to just talk about ag because we're doing ag, so going all ag on you, but the real cost for Americans is the over $2,000 per family tax this is going to result in if you implemented all these things that he has actually put out on the table. It started out as $1,200 per family when he was messing around with like 10%, and now it's up to over $2,000 per family per year. And when you read [Senator]'s remarks about the cost for consumers, about tariffs at the Ag Committee, you can't tell if it's me or [Senator]. That's weird. Okay."
+      }
+    ],
+    "speakername": "Amy Klobuchar",
+    "ground_truth": "So switching gears here a little bit, everyone is wondering, are we going to get a farm bill this year? What are the conversations you're having with Senator [Name] and what is the bipartisan plan to actually get that done before September?",
+    "bio": "The speaker (born May 25, 1960) is an American lawyer and politician serving as the senior United States Senator from [State]. A member of the [State] Democratic-Farmer-Labor Party, the state's affiliate of the Democratic Party, they previously served as the [County] Attorney. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So switching gears here a little bit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "One more thing I just want to add to just talk about ag because we're doing ag, so going all ag on you, but the real cost for Americans is the over $2,000 per family tax this is going to result in if you implemented all these things that he has actually put out on the table. It started out as $1,200 per family when he was messing around with like 10%, and now it's up to over $2,000 per family per year. And when you read Senate Minority Leader's remarks about the cost for consumers, about tariffs at the Ag Committee, you can't tell if it's me or the Senate Minority Leader. That's weird. Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So switching gears here a little bit, everyone is wondering, are we going to get a farm bill this year? What are the conversations you're having with Senator Boes and what is the bipartisan plan to actually get that done before September?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "sure so um sarah bozeman and i have a very good friendship he actually came out to our state last year spent a whole day coming to going to barns going to meet with our groups including nutrition conservation groups so that's a good start our staffs have been working well together and as have the ag leaders in the house one of them just happens to be in our state and so my hope is that we can get a farm bill done but now that the republicans run the senate the house and the administration they're going to have to come with a plan and a way to do it i think you know we've always had bipartisan support for the farm bill it's the only way to pass it so the nutrition pieces of it and the conservation piece of it very very important to the members of the democratic caucus many of them have states they vote for the constitution of the country they vote for the constitution of the country and they vote for the Farm Bill in part because they believe in agriculture, they do, but for them what's most important is the nutrition programs and the conservation. If that's not in there or if it's greatly reduced, that is a problem in terms of trying to get the votes that we need to pass the Farm Bill. I am well aware of all the struggles that our farmers have. They have them in my state. But we know to get this done, we've got to have a coalition. And also that coalition, when you look at some of the conservation, voluntary conservation programs, CRP, CSP, EQIP, it helps our farmers as well. They like those programs. They're voluntary. They can decide if they use them, but they like them. If you look at nutrition, who grows the food? Our farmers and ranchers. And so this is an ecosystem. It's not just, oh, this helps this group, this helps the other group. There's a reason it's all in one piece of legislation."
+      }
+    ],
+    "speakername": "Amy Klobuchar",
+    "ground_truth": "So we've reported that Department of Agriculture has cut jobs at the farm loan officers. They've cut soil conservationists, folks who help farmers farm. They've cut foresters and all kinds of different staff, about over 5,000 employees, probationary employees. And they've preliminarily brought those folks back, but a lot of them are not working right now.",
+    "bio": "The speaker (born May 25, 1960) is an American lawyer and politician serving as the senior United States Senator from a midwestern state. A member of the state's Democratic-Farmer-Labor Party, the state's affiliate of the Democratic Party, they previously served as a County Attorney. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So we've reported that the agricultural department has cut jobs at the farm loan officers. They've cut soil conservationists, folks who help farmers farm. They've cut foresters and all kinds of different staff, about over 5,000 employees, probationary employees. And they've preliminarily brought those folks back, but a lot of them are not working right now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "workplace."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, I mean, my question to you is..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, you're not."
+      }
+    ],
+    "speakername": "Amy Klobuchar",
+    "ground_truth": "Yeah, what does that mean for farmers and ranchers? You know, it's planting season. What are you hearing in your state?",
+    "bio": "The speaker (born May 25, 1960) is an American lawyer and politician serving as the senior United States Senator from a midwestern state. A member of the state's Democratic-affiliated Party, they previously served as a County Attorney. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

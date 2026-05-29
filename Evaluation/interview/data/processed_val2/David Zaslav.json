@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "um"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So it's at a time of disruption, owning more IP, more diversity of IP, and being able to get on a train that's already moving. There's almost like 74 million subscribers. We have over 20 million subscribers. We have very, very low churn. We've been able to spend years trying to figure out what do people like, what do they want more of. So has John and Ann and Jason. And so together, I think we're going to get on this train. We're going to take it for a ride."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As in the past, I really think this is a transformative deal, obviously, but everybody else suddenly is in a position like, with the changing landscape, I don't know about streaming, how many are there going to be events? How much money are you going to make with that? It's just, does everyone else have to do something? What's Comcast got to do? What's Disney got to do? What's Viacom got to do? What does everyone else have to do in this new world that you're creating? Well, I'm focused on what I need to do to get..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "with a great leadership team and the great assets that John has been. But you mentioned two points."
+      }
+    ],
+    "speakername": "David Zaslav",
+    "ground_truth": "One is, how are you going to make money? The difference between this company and the overall fundamentals of any other media company that I have seen is, we see in 23 that we're going to be generating $8 billion or more in free cash flow. And $15 billion in EBIT. And over $50 billion in revenue. That's a real company. So, you've seen a lot of volatility in the market with, okay, we've got a lot of companies that are, hey, look what I have for the future. [Media Company] has great fundamental economics. So, we're going to be less than three times levered after 24 months. And here we are with $8 billion in free cash flow and growing. And on the right side of the company, we've got premium streaming services, we have all of our IP, we have all of our sports, the leader in sports in Europe. There's a deal that we announced yesterday with a telecommunications company that I want to talk about. We're a leader in kids. We're a leader in news. And over time, we have the money. One of the biggest challenges we're going to have is, how do we deploy that free cash flow for growth? We're not a company balanced on, hey, in a couple of years, we're going to make some money and we're going to be okay. No, we have that balance. And I think more and more the market is going to recognize and is starting to recognize, hey.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And talking about you in the company, you became the president of a major media company over a year ago. How would you answer if I ask you about the most important goal for you? I know it's a tough question to pick up one, but what it is?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I would say to tell great stories. Our company, whether it's our television shows, the motion picture business, premium content, even our gaming business. We have a new game about a magical school. The core of our company is about storytelling. And great storytelling can entertain. And when we're at our best, we can inspire. And getting great creative people at our company. And we're very diversified, because we're not just entertainment. We're also sports. We'll be having major sporting events here. We have the ski jumping. We have most of the tennis and cycling. And we have news. We're very proud of our news network, the most trusted brand in news here in this country. We fight very hard for journalistic integrity to bring all of the voices and facts to people here. It's core to the values of our company. We've been lucky to have this network as an asset for many years. That's why I've been here so many times. And now we have another major news network as well. And I spent this morning here. We're the number one entertainment company here and the number one news service, and the most trusted. And that's really important to us. And I know how hard you work at it. We have a whole team fighting. It's really exciting to put out the best version of the truth every day. And there's no more impact in telling stories than having people see what's going on around the world and what's happening in their world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and talking about our networks which are also part of our company so how important is this region for such a global company how important these networks are as independent free media in this country"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah. Well, this market is fantastic. It's, I think, the only market in Europe that's had positive GDP for the last decade. Great drive toward education, has a wonderful population, a strong market for television. It's also our biggest market. It's in terms of, we're in 210 countries, but this is our biggest market. We have almost 4,000 employees here. It's a fantastic country. We love the news business. We love our business here. Every once in a while, there are questions about whether it's for sale or not. And, you know, I'm here and one of the focuses is how do we invest more, more in local entertainment content, more in sport and more news so that we could drive this, the idea of real journalism, free speech and have all voices heard. And that's our journey in every country. And now with our news network, and they were here today. I'm here, I was here with our journalists, and you got a chance to spend some time. And we're doing a lot of collaboration between the two news networks. So it's quite gratifying. And the fact that we can do news, sports and entertainment, I think, really differentiates us as the leading media and entertainment company outside of our home country. And we are one of the biggest media companies there. So we have a real chance going forward. I look forward to have a strong voice."
+      }
+    ],
+    "speakername": "David Zaslav",
+    "ground_truth": "Talking about entertainment, we had a big media company announcement recently. The new streaming service will be launched in May in our home country, next year in other countries. What is most unique, most tempting, most exciting about this service that makes you feel that you can't wait for it to be launched?",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first, this past week I was with the vice president and talked about my trip here. I was also with the chief of staff. The relationship between our nations is very strong. I think we share values, which is really critical. The idea of free speech, the idea that we could have a free and fair news organization here and have it be number one and most trusted and robust, I think, is a tribute to this great country. And we watched from afar what happened in neighboring regions and how this country responded. We saw it on our network, but we also saw it on our international network, where we took it to over a billion people around the world. And it was inspiring. It was inspiring, the way that the people rose to support and provide shelter and medical aid and education, and brought almost two million displaced people into their families. It was inspiring. And I think it set an example for kindness, for helping others. And I think it's really important for us to keep going forward. I think that's what we've been working on for many, many years, that people all over Europe and all around the world looked at this country. I know across our region, we were really, really inspired by what's going on here and the way the population has supported those in need at great sacrifice, as well as all the volunteer work that's going on. So, it's quite compelling."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you so much, and thank you for being with us. [target], Media Company President and CEO, was with us in our network news program."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Bye, Becky."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Hey, [target]. Hey, [target]. Great to see you. You know, just on the strike, there are a lot of people from the entertainment industry who actually come out here, too. I was talking to a few of them last night. And the issues around this really have to do with streaming and with digital. And if streaming is not going to be as profitable and the writers now feel like they're not going to get as much of a cut, they're not going to get paid in the same way. Is there any flexibility around that? Because the last time the writers went on strike, they were out for 100 days. The terms that they eventually signed were worse than the original offer that had been put on the table. If you're telling us that streaming is not as profitable, but the writers feel like, hey, they're not making the money because they're not getting paid the same way they used to with the repeats or any of the different things that are out there, is there flexibility on that point?"
+      }
+    ],
+    "speakername": "David Zaslav",
+    "ground_truth": "Well, one, we think streaming is going to be very profitable for us. We are unique. We have a lot of scale. We have the largest TV and motion picture library. And we have our premium content division, some of the greatest creatives, and we have all of our other content. So for us, we think it's going to be, it will be very profitable. We've said we'll make over a billion and 25. And so right now we're significantly ahead of where we thought we would be. Having said that, the industry is in the middle of some significant disruption. And people are changing the way they consume content. And so it's very difficult to figure out, you know, how does that work? What's the right value for it? And so I think it's fair that we're trying to figure out, when it was just everyone consumed content on a TV set, and it was a model that existed for 50 years, it was very easy to figure out where's the value and how do we carve it up fairly.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Nice to see you Anita."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "so good to have you here thank you for for for joining us um you came to [city] in a very special time we commemorate the 80th anniversary of [city] ghetto uprising why is this anniversary so important to you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well first I'm here because I love our [company] business. I come often and I'm so proud of everything we're doing here at [company] and we'll talk about that. But much of my family was from [country] and I lost some family in the [city] Ghetto and so to be here and to see such a an important and strong commemoration here in [country] is just another affirmation of what a great country this is."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Not only your personal stories related to [country], but it is also the story of [company] founders. There were four brothers. Let me check their names. Harry, Albert, Sam and Jack Warner. Three of them were born in [country]. Do you feel like their work was influenced somehow by their historical experience?"
+      }
+    ],
+    "speakername": "David Zaslav",
+    "ground_truth": "They actually were born about a hundred kilometers from here in [city]. If you come to my office in [city], I'm in Jack Warner's office. And I think that his entrepreneurship, his drive for success, a lot of that comes from the culture here in [country]. I saw it with my grandparents. You saw that incredible entrepreneurial drive of the Warner Brothers coming out to [state] with the idea of telling stories that would have a real impact on how people see the world, on how they see themselves. At one point, they were producing a hundred movies a year. And there was only radio around the world at that time. So people went to the theater to see what different places of the world looked like and how people dressed. And so the Warner Brothers had a very big impact. And, you know, here on the set, here I am now at this great company and together with you here at [company] News and with [company] here in [country] and [company] and [company] and all the great content that we have. This is our chance to tell great stories. We're a great storytelling company and have our own impact.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well first I'm here because I love our TVN business. I come often and I'm so proud of everything we're doing here at TVN and we'll talk about that. But much of my family was from this country and I lost some family in the local ghetto and so to be here and to see such a an important and strong commemoration here is just another affirmation of what a great country this is."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Not only your personal stories related to this country, but it is also the story of the company founders. There were four brothers. Let me check their names. Harry, Albert, Sam and Jack. Three of them were born in this country. Do you feel like their work was influenced somehow by their historical experience?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "They actually were born about a hundred kilometers from here. If you come to my office in the west coast, I'm in one of the founder's office. And I think that his entrepreneurship, his drive for success, a lot of that comes from the culture here. I saw it with my grandparents. You saw that incredible entrepreneurial drive of the brothers coming out to the west coast with the idea of telling stories that would have a real impact on how people see the world, on how they see themselves. At one point, they were producing a hundred movies a year. And there was only radio around the world at that time. So people went to the theater to see what different places of the world looked like and how people dressed. And so the brothers had a very big impact. And, you know, here on the set, here I am now at this great company and together with you here at TVN News and with TVN here and HBO and all the great content that we have. This is our chance to tell great stories. We're a great storytelling company and have our own impact."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And talking about you in the company, you became the president of the media company over a year ago. How would you answer if I ask you about the most important goal for you? I know it's a tough question to pick up one, but what it is?"
+      }
+    ],
+    "speakername": "David Zaslav",
+    "ground_truth": "I would say to tell great stories. Our company, whether it's our television shows, the motion picture business, HBO, even our gaming business. We have a new game. The core of our company is about storytelling. And great storytelling can entertain. And when we're at our best, we can inspire. And getting great creative people at our company. And we're very diversified, because we're not just entertainment. We're also sports. We'll be having the major sporting events here. We have the ski jumping. We have most of the tennis and cycling. And we have news. We're very proud of TVN News, the most trusted brand in news here. We fight very hard for journalistic integrity to bring all of the voices and facts to people here. It's core to the values of our company. We've had TVN. We've been lucky to have TVN as an asset for many years. That's why I've been here so many times. And now we have our news network as well. And I spent this morning here at TVN. We're the number one entertainment company here and the number one news service, and the most trusted. And that's really important to us. And I know how hard you work at it. We have a whole team fighting. It's really exciting to put out the best version of the truth every day. And there's no more impact in telling stories than having people see what's going on around the world and what's happening in their world.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

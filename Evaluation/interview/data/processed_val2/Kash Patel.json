@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "strong"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "roll into it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, let's just roll into it. Where'd you grow up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, man. Look, it's great to be with you. Appreciate you having me on. This really shows us that [redacted]'s outreach to not just politicals is working. I mean, look at me. You're talking from a kid who's the son of lawful immigrants who fled a genocidal dictatorship in East Africa. And now he's on a show with a Super Bowl champion. It's freaking awesome. And it's badass. And that can only happen in America. I'm serious. Where else does that even remotely pop? I told my buddies I was on your show. They're like, there's no way you know that guy. He's way too cool for you. And I was like, no, I swear I'm doing a show. But no, look, I grew up like any immigrant kid, just public schools, focus on education, and best laid plans. If you want to make God laugh, just tell him your plan. So I wanted to be that guy in suits. I went to law school. I wanted to make a zillion dollars. And of course, no one would hire me because my grades sucked. I was like the only dumb Indian you'll ever meet."
+      }
+    ],
+    "speakername": "Kash Patel",
+    "ground_truth": "And then I went to law school and was okay at trial work, became a public defender in [redacted]. So like paid for law school, still paying that one off. And I got lucky. I got training and investigations and trying cases and being up in front of audiences and stuff like that. Folded that into becoming a terrorism prosecutor, which was really cool, which brought me into all the national security space. And then I went over to become a civilian at [redacted], which is doing special operations command. So [redacted] and [redacted], basically helping them kill bad guys. Pretty cool job. And then that whole [redacted] thing happened and not planned, but I met [redacted] and he's like, yo, you got to run this investigation. And I was like, I really don't want to do that. I really want to keep going on the counterterrorism national security thing. He's like, you do this, we'll put you in the [redacted] running counterterrorism for [redacted]. And that's basically what happened. But neither of us saw that [redacted] thing exploding into the Medusa that it was, just the outline of corruption. And so that got me into [redacted] world, into the world of [redacted]. And I was like, I'm going to do this. I'm going to do this. [redacted] and sort of just kept going from there, became deputy director of national intelligence. And then ultimately chief of staff, the department of defense, which is wild to say I had 3 million employees in a $750 billion budget, but they ran out of people to put there. So the boss was like, you're going.",
+    "bio": "[target] (born February 25, 1980) is an American attorney and announced government official as the federal investigation agency's director. He served as a national security council official, senior advisor to the acting Director of National Intelligence, and chief of staff to the acting secretary of defense during the [redacted] presidency. A member of the Republican Party, [target] previously worked as a senior aide to congressman [redacted] when he chaired the Intelligence Committee. He was previously a federal public defender, a federal prosecutor working on national security cases, and a legal liaison to the Armed Forces. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, let's just roll into it. Where'd you grow up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, man. Look, it's great to be with you. Appreciate you having me on. This really shows us that President Trump's outreach to not just politicals is working. I mean, look at me. You're talking from a kid who's the son of lawful immigrants who fled a genocidal dictatorship in East Africa. And now he's on a show with a Super Bowl champion. It's freaking awesome. And it's badass. And that can only happen in America. I'm serious. Where else does that even remotely pop? I told my buddies I was on your show. They're like, there's no way you know that guy. He's way too cool for you. And I was like, no, I swear I'm doing a show. But no, look, I grew up like any immigrant kid, just public schools, focus on education, and best laid plans. If you want to make God laugh, just tell him your plan. So I wanted to be that guy in suits. I went to law school. I wanted to make a zillion dollars. And of course, no one would hire me because my grades sucked. I was like the only dumb Indian you'll ever meet."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then I went to law school and was okay at trial work, became a public defender of all things in Miami. So like paid for law school, still paying that one off. And I got lucky. I got training and investigations and trying cases and being up in front of audiences and stuff like that. Folded that into becoming a terrorism prosecutor, which was really cool, which brought me into all the DC national security space. And then I went over to become a civilian at JSOC, which is doing special operations command. So SEAL Team 6 and Delta, basically helping them kill bad guys. Pretty cool job. And then that whole Russiagate thing happened and not planned, but I met Devin Nunes and he's like, yo, you got to run this investigation. And I was like, I really don't want to do that. I really want to keep going on the counterterrorism national security thing. He's like, you do this, we'll put you in the White House running counterterrorism for Trump. And that's basically what happened. But neither of us saw that Russiagate thing exploding into the Medusa that it was, just the outline of corruption. And so that got me into Trump world, into the world of Russia. And I was like, I'm going to do this. I'm going to do this. White House and sort of just kept going from there, became deputy director of national intelligence. And then ultimately chief of staff, the department of defense, which is wild to say I had 3 million employees in a $750 billion budget, but they ran out of people to put there. So the boss was like, you're going."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's a huge budget, man. That blows my mind. That's a lot, man. Is it overwhelming? Does it ever feel overwhelming?"
+      }
+    ],
+    "speakername": "Kash Patel",
+    "ground_truth": "um it does when you leave the building but as soon as you walk back in you look around and you're just like look at all these warriors you know just suiting up every day so you're like you got to do it for these guys and that's it and that's like all the motivation you needed and we were able to i think we flew like 65 000 miles in 90 days because the president was like we're ending the forever wars but ask the soldiers on the ground don't ask the generals ask the guys on the ground because they buried their brothers and sisters in afghanistan iraq and somalia so we did and you want to know the answer that every single soldier gave get us out of here it was unbelievable it was unbelievable",
+    "bio": "Kashyap Pramod Vinod \\\"Kash\\\" Patel (born February 25, 1980) is an American attorney and announced government official as the FBIâs dieector. He served as a U.S. National Security Council official, senior advisor to the acting Director of National Intelligence, and chief of staff to the acting United States secretary of defense during the Trump presidency. A member of the Republican Party, Patel previously worked as a senior aide to congressman Devin Nunes when he chaired the House Intelligence Committee. He was previously a federal public defender, a federal prosecutor working on national security cases, and a legal liaison to the United States Armed Forces. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And then I went to law school and was okay at trial work, became a public defender of all things in Miami. So like paid for law school, still paying that one off. And I got lucky. I got training and investigations and trying cases and being up in front of audiences and stuff like that. Folded that into becoming a terrorism prosecutor, which was really cool, which brought me into all the DC national security space. And then I went over to become a civilian at JSOC, which is doing special operations command. So SEAL Team 6 and Delta, basically helping them kill bad guys. Pretty cool job. And then that whole Russiagate thing happened and not planned, but I met Devin Nunes and he's like, yo, you got to run this investigation. And I was like, I really don't want to do that. I really want to keep going on the counterterrorism national security thing. He's like, you do this, we'll put you in the White House running counterterrorism for Trump. And that's basically what happened. But neither of us saw that Russiagate thing exploding into the Medusa that it was, just the outline of corruption. And so that got me into Trump world, into the world of Russia. And I was like, I'm going to do this. I'm going to do this. White House and sort of just kept going from there, became deputy director of national intelligence. And then ultimately chief of staff, the department of defense, which is wild to say I had 3 million employees in a $750 billion budget, but they ran out of people to put there. So the boss was like, you're going."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's a huge budget, man. That blows my mind. That's a lot, man. Is it overwhelming? Does it ever feel overwhelming?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "um it does when you leave the building but as soon as you walk back in you look around and you're just like look at all these warriors you know just suiting up every day so you're like you got to do it for these guys and that's it and that's like all the motivation you needed and we were able to i think we flew like 65 000 miles in 90 days because the president was like we're ending the forever wars but ask the soldiers on the ground don't ask the generals ask the guys on the ground because they buried their brothers and sisters in afghanistan iraq and somalia so we did and you want to know the answer that every single soldier gave get us out of here it was unbelievable it was unbelievable"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, that's kind of, all of the veterans that I've talked to, I've talked to a ton of tier one operators and Delta guys, and that's kind of, they're all like, hey, man, we were in there way too long. They felt like they could have accomplished their mission and their goal a lot quicker than what had happened. Do you think that's because the military industrial complex needs to, they got to feed that? Like they're keeping that, they kept that going?"
+      }
+    ],
+    "speakername": "Kash Patel",
+    "ground_truth": "You got a month. Oh, I know. Right. So it's one of the things that like, you know, Eisenhower warned about in the 60s. He's like, if you, you know, for those that don't know, the U.S. government can only make and produce so much stuff, especially in the defense space. And that's where companies like Boeing and Lockheed and Huntington Ingalls and all these. And look, they do a lot of good things. Don't get me wrong. Elon Musk, SpaceX. But when you let that behemoth become bigger than the government, which is it, which it is, they own government. So they own government contracting. You know, you need to sell ketchup packets to somebody in Afghanistan. You're going to go to your buddy and overcharge and sell them poor ketchup. And that's just an example of what DOD has to work on, not just the no fail mission. And now you've seen the waste. You know, you see Ukraine and you see an inspector general's report from the Department of Defense saying we lost, not we can't find, we lost a billion. dollars that we just gave to the Ukraine. That was just one example from one distribution in the Ukraine. How does the DOD lose money? Not like light it on fire, like they can't find it. They don't know where it went. And, you know, that's just one of the big fixes I talk about in my book, Government Gangsters, is like these people that are running D.C. in the DOD industrial complex or wherever else are literally making and profiteering off war. And they've turned the war machine on. I mean, the Bushes, the Cheneys, you've seen what they've done. And that's one of the reasons they hate Trump. We're not saying.",
+    "bio": "Kashyap Pramod Vinod \\\"Kash\\\" Patel (born February 25, 1980) is an American attorney and announced government official as the FBIâs dieector. He served as a U.S. National Security Council official, senior advisor to the acting Director of National Intelligence, and chief of staff to the acting United States secretary of defense during the Trump presidency. A member of the Republican Party, Patel previously worked as a senior aide to congressman Devin Nunes when he chaired the House Intelligence Committee. He was previously a federal public defender, a federal prosecutor working on national security cases, and a legal liaison to the United States Armed Forces. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's a huge budget, man. That blows my mind. That's a lot, man. Is it overwhelming? Does it ever feel overwhelming?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "um it does when you leave the building but as soon as you walk back in you look around and you're just like look at all these warriors you know just suiting up every day so you're like you got to do it for these guys and that's it and that's like all the motivation you needed and we were able to i think we flew like 65,000 miles in 90 days because the president was like we're ending the forever wars but ask the soldiers on the ground don't ask the generals ask the guys on the ground because they buried their brothers and sisters in conflict zones so we did and you want to know the answer that every single soldier gave get us out of here it was unbelievable it was unbelievable"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, that's kind of, all of the veterans that I've talked to, I've talked to a ton of tier one operators and special forces guys, and that's kind of, they're all like, hey, man, we were in there way too long. They felt like they could have accomplished their mission and their goal a lot quicker than what had happened. Do you think that's because the military industrial complex needs to, they got to feed that? Like they're keeping that, they kept that going?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You got a month. Oh, I know. Right. So it's one of the things that like, you know, a former president warned about in the 60s. He's like, if you, you know, for those that don't know, the federal government can only make and produce so much stuff, especially in the defense space. And that's where companies like major defense contractors and all these. And look, they do a lot of good things. Don't get me wrong. But when you let that behemoth become bigger than the government, which is it, which it is, they own government. So they own government contracting. You know, you need to sell ketchup packets to somebody overseas. You're going to go to your buddy and overcharge and sell them poor ketchup. And that's just an example of what the department has to work on, not just the no fail mission. And now you've seen the waste. You know, you see the conflict and you see an inspector general's report saying we lost, not we can't find, we lost a billion dollars that we just gave. That was just one example from one distribution. How does the department lose money? Not like light it on fire, like they can't find it. They don't know where it went. And, you know, that's just one of the big fixes I talk about in my book is like these people that are running the capital in the defense industrial complex or wherever else are literally making and profiteering off war. And they've turned the war machine on. I mean, certain political families, you've seen what they've done. And that's one of the reasons they hate a former president. We're not saying."
+      }
+    ],
+    "speakername": "Kash Patel",
+    "ground_truth": "don't fulfill the no-fail mission. We're saying just don't have it be wasteful. And they hate that in the capital because they're like, wait a second, this person just kneecapped our bankroll. But that's what a president's supposed to do.",
+    "bio": "The target (born February 25, 1980) is an American attorney and announced government official. They served as a national security official, senior advisor to the acting Director of National Intelligence, and chief of staff to the acting secretary of defense during a presidential administration. A member of a major political party, they previously worked as a senior aide to a congressman when he chaired a key intelligence committee. They were previously a federal public defender, a federal prosecutor working on national security cases, and a legal liaison to the armed forces. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, that's kind of, all of the veterans that I've talked to, I've talked to a ton of tier one operators and Delta guys, and that's kind of, they're all like, hey, man, we were in there way too long. They felt like they could have accomplished their mission and their goal a lot quicker than what had happened. Do you think that's because the military industrial complex needs to, they got to feed that? Like they're keeping that, they kept that going?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You got a month. Oh, I know. Right. So it's one of the things that like, you know, Eisenhower warned about in the 60s. He's like, if you, you know, for those that don't know, the U.S. government can only make and produce so much stuff, especially in the defense space. And that's where companies like Boeing and Lockheed and Huntington Ingalls and all these. And look, they do a lot of good things. Don't get me wrong. Elon Musk, SpaceX. But when you let that behemoth become bigger than the government, which is it, which it is, they own government. So they own government contracting. You know, you need to sell ketchup packets to somebody in Afghanistan. You're going to go to your buddy and overcharge and sell them poor ketchup. And that's just an example of what DOD has to work on, not just the no fail mission. And now you've seen the waste. You know, you see Ukraine and you see an inspector general's report from the Department of Defense saying we lost, not we can't find, we lost a billion. dollars that we just gave to the Ukraine. That was just one example from one distribution in the Ukraine. How does the DOD lose money? Not like light it on fire, like they can't find it. They don't know where it went. And, you know, that's just one of the big fixes I talk about in my book, Government Gangsters, is like these people that are running D.C. in the DOD industrial complex or wherever else are literally making and profiteering off war. And they've turned the war machine on. I mean, the Bushes, the Cheneys, you've seen what they've done. And that's one of the reasons they hate Trump. We're not saying."
+      },
+      {
+        "speaker": "[target]",
+        "text": "don't fulfill the no-fail mission. We're saying just don't have it be wasteful. And they hate that in Washington because they're like, wait a second, this guy just kneecapped our bankroll. But that's what a president's supposed to do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "yeah it's it's really it is sickening to watch you know because at the end of the day our tax dollars are funding the federal government the federal government is funding these war machines and and that's what makes you sick because then you when you see your own country suffer we're suffering in this country and then you see them wastefully like lose a billion dollars or 80 million dollars a week going to the taliban you know things like that that i thought the taliban was the enemy you've been telling me since i was 11 years old that that's the enemy and now i hear as an adult who pays who's been paying half of his paycheck to the federal government and you're telling me oh hey by the way we're sending 80 million dollars a week to the to the taliban and two of the two of the um you know two of those people accepting money are osama bin laden's kids it's like what what do you mean"
+      }
+    ],
+    "speakername": "Kash Patel",
+    "ground_truth": "it's a messed up world when you go down the rabbit hole, right? You know, the Taliban was and is the controlling faction of the government in Afghanistan. So if you want peace there, you got to deal with them. But at the end of the day, as you said, they're, of course, terrorist members in the Taliban. But we could not ever designate the Taliban a foreign terrorist organization, because if we did that, we couldn't give them any money. You know, so it's like this two edged sword, you're like, wait a second, who am I giving money to? And then when you look at the whole Afghan disaster, you know, 20 years in the treacherous withdrawal by Biden and Harris, and we literally flew the former president of Afghanistan out of there.",
+    "bio": "Kashyap Pramod Vinod \\\"Kash\\\" Patel (born February 25, 1980) is an American attorney and announced government official as the FBIâs dieector. He served as a U.S. National Security Council official, senior advisor to the acting Director of National Intelligence, and chief of staff to the acting United States secretary of defense during the Trump presidency. A member of the Republican Party, Patel previously worked as a senior aide to congressman Devin Nunes when he chaired the House Intelligence Committee. He was previously a federal public defender, a federal prosecutor working on national security cases, and a legal liaison to the United States Armed Forces. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

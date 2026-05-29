@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We got 53 of them, Chad."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I appreciate it."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We did not."
+      },
+      {
+        "speaker": "[target]",
+        "text": "way on it. Well, we're going to get one today. And I sure appreciate it. Now, my second question is."
+      }
+    ],
+    "speakername": "Barack Obama",
+    "ground_truth": "R.C. got his own style, doesn't he? Yeah. I mean, you're Taylor. I could not pull off what you pull off, man, but it's looking good on you. I just wanted to let you know. I was going to wear the formal suit.",
+    "bio": "[target] (born August 4, 1961) is an American politician who served as the 44th President from 2009 to 2017. A member of the Democratic Party, he was the first African American to be elected to the presidency and previously served as a United States Senator from [state] (2005-2008). [target] was born in 1961 in [city], [state], two years after the territory was admitted to the Union as the 50th state. After graduating from [university] in 1983, he worked as a community organizer in [city]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you guys are a lot younger than me. So I'm thinking back to folks like Warren Moon, Vince Evans. It was still a rarity when I was a young fan. So that any time there was a black quarterback, it didn't matter what team, you were rooting for them, just because it felt like they were representing everybody. And there was still so much bias against black quarterbacks. Then you start getting that generation of Donovan McNabb, Randall Cunningham. It wasn't a rarity, but I think the burden of proof was still on the black quarterback. Can you execute? What's great today is that people don't even think about it anymore, right? And I think part of it has to do with the change in the quarterback itself in the NFL. Because you had great players. You had great black quarterbacks in college who, because of their athleticism, a lot of times were running. And they'd be in formations where they weren't going to be the classic pocket passer. And so when they went to the NFL, they didn't have as much reps."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "doing that and then the teams would just discount them and what's happening in the nfl you guys know this better than i do everybody understands if you know if you don't have a mobile quarterback these days"
+      }
+    ],
+    "speakername": "Barack Obama",
+    "ground_truth": "you're gonna have problems but look you know there are still preconceptions think about lamar who right now is playing better than just about anybody um and it's a two-time mvp might win it again this year and the fact that there were still as recently as four or five years ago folks saying well maybe you know we should change him into a receiver yeah so some of those old habits die hard but but i think with patrick with lamar with stroud now i think it is a given who is the best player and the way that the nfl's changed um you know you want somebody who's a dual threat and and if you get somebody like that you look at your lsu man daniels even though he's hurt right now but you know that's a guy who shows you right off the bat you know what that means to have somebody who can you know throw the ball 60 yards but then might also take off for a 50-yard run it's the same thing that happens in coaching right i mean you know we're now getting to the point where it's not unusual to have african-american coaches and they're even getting second chances which never used to happen right the problem it used to be that you know you're gonna have somebody that's gonna push you up in front and you're gonna make your way out of a top spot and you're gonna it was that just change holds pressed cb wasn't that there weren't black coaches it was they have one losing season and then they're gone and then other folks would get recycled",
+    "bio": "The subject (born August 4, 1961) is an American politician who served as the 44th President of the United States from 2009 to 2017. A member of the Democratic Party, they were the first African American to be elected to the presidency and previously served as a United States Senator from [State] (2005-2008). The subject was born in 1961 in a major Pacific island city, two years after the territory was admitted to the Union as the 50th state. After graduating from [University] in 1983, they worked as a community organizer in a major Midwestern city. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It was just, you know, I don't know, the women be hollering at you and stuff, like, because of the fact that you a good looking dude, but now you're president good looking."
+      },
+      {
+        "speaker": "[target]",
+        "text": "do you know what so so first of all i don't know if michelle's gonna be watching this so i'm going i'm gonna i'm scared of michelle yeah you should be okay um"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, the truth is, you guys, as NFL players, and athletes generally, I think it's a lot like musicians, y'all get famous early. Y'all get famous young, at a time when the attention that you're talking about may be flattering, fun, what have you. By the time people really knew who I was, I was 43 years old. You know, I was married, had two kids, you know, had gone grocery shopping, had, you know, washed my car, right? You know, I was a regular guy in that sense. And so that kind of attention, by the time I got it, I was not tripping on it. There are times where women have... Acted in somewhat inappropriate ways. There are pictures in the internet of, like, women grabbing my butt. And I was president at the time, and I'm like... Why was this in your service? Well, you know, it's like old ladies and stuff, you know, so, I mean, they're not going to wrestle them down on the ground. My wife is such an extraordinary woman, such an amazing partner, that you just try to..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Sorry."
+      }
+    ],
+    "speakername": "Barack Obama",
+    "ground_truth": "stay focused stay on the the straight and narrow you know and uh and also look kids change your life right the idea of disappointing your kids and you know is is something that yeah you know that that that yeah i i ain't going there that's about as far as i'm going with your question",
+    "bio": "[target] (born August 4, 1961) is an American politician who served as the 44th President from 2009 to 2017. A member of the Democratic Party, he was the first African American to be elected to the presidency and previously served as a Senator from a midwestern state (2005-2008). [target] was born in 1961 in a Pacific island state, two years after the territory was admitted to the Union as the 50th state. After graduating from an Ivy League university in 1983, he worked as a community organizer in a major midwestern city. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The challenge for us is letting us give them any help at all. I mean, they're very sensitive about this stuff. They're very stubborn about it. [Name] is making movies. So she made her first movie. And I'll be a dad, I'll brag a little bit. She went to, right, she's working with [Name]. And her first film went to [Festival] and all these fancy film festivals. And she didn't use [target] as director. On the credits, it said [Name]. She used her middle name and didn't put [target] on there. I was all like, you do know they'll know who you are."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and she's all like you know what i i want them to watch it that first time and not in any way have that association so i think our daughters go out of their way to not try to leverage that and you know growing up that the press was pretty good you know i basically made a deal with the press pool at the [Government Building] press corps i said you you can follow me around you can talk about me you do whatever you need to do leave my children alone because they have the right to grow up they didn't choose this right let them grow up and to to the credit of the press um they did leave them alone now as they've gotten older there's been some paparazzi stuff going on and it drives them nuts you know because their attitude is we you know we're not looking for all that so they're grounded when [Name] and i were talking about me running our biggest concern was will our kids end up up weird right"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Yeah, yeah."
+      }
+    ],
+    "speakername": "Barack Obama",
+    "ground_truth": "Because it's a weird situation. But I've talked about this. One of the great blessings was, A, we brought my mother-in-law, who recently passed, and who was just an amazing woman I loved. And she was the most down-to-earth, from the city, straight up. If the kids misbehaved, she'd be like, y'all know you haven't done anything, right? Your parents have, don't you guys start acting entitled. And so everybody was on watch to make sure that they both had a normal childhood and that they did not feel as if they got something that they hadn't earned. They've turned out amazing. I can't brag about them enough.",
+    "bio": "The speaker (born August 4, 1961) is an American politician who served as the 44th President of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to be elected to the presidency and previously served as a United States Senator from [State] (2005-2008). The speaker was born in 1961 in [City], [State], two years after the territory was admitted to the Union as the 50th state. After graduating from [University] in 1983, he worked as a community organizer in [City]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Because it's a weird situation. But I've talked about this. One of the great blessings was, A, we brought my mother-in-law, who recently passed, and who was just an amazing woman I loved. And she was the most down-to-earth, from the city, straight up. If the kids misbehaved, she'd be like, y'all know you haven't done anything, right? Your parents have, don't you guys start acting entitled. And so everybody was on watch to make sure that they both had a normal childhood and that they did not feel as if they got something that they hadn't earned. They've turned out amazing. I can't brag about them enough."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "To that point, though, it's weird or, you know, normal, you say."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you can't live they can't live michelle can't live normal forever like is like honestly like we've seen these we've seen these big bastards walk in when you walked in like yeah if i get up right now they're gonna jump on me like that thought of that you can you can't go run and grab something to eat if you want no you can't just go on vacation like it's different but is it is it worth it that the rest of your life is what it's going to be"
+      }
+    ],
+    "speakername": "Barack Obama",
+    "ground_truth": "you know i talked about this the other day because because somebody asked me what what do you miss most uh or what would you like to do um and the thing i miss is just walking around and nobody knowing who you are like you don't realize how what a benefit that is until you know you try it and suddenly you got 100 people asking you for selfies and all that but i i also have to remind myself that's a that's a high class problem to have right a guy who who's been famous more famous than me for a long time was bruce springsteen and i've gotten to know him because he's he's been really supportive around a lot of issues and campaigns and uh he said to me uh one time when i mentioned this he said uh [target] that's that's the price uh you pay for living your dreams and he's right right i mean you you know you you pursue something you end up achieving what you want to achieve and they're going to be some trade-offs but um but i do miss it um i was joking the other day about uh there have been times where i thought about yeah we'll try a disguise you know put some dreadlocks on get a beard mustache walk around um but even then my daughters and and my my wife remind me because sometimes we do we'll walk in some quiet places and they'll say don't talk now because it's true if they hear me you know the other thing is the ears are too big you know i got to put on a hoodie or a cap or something because they folks say man i've seen those ears before",
+    "bio": "[target] (born August 4, 1961) is an American politician who served as the 44th President of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to be elected to the presidency and previously served as a United States Senator from [State] (2005â?008). [Target] was born in 1961 in [City], [State], two years after the territory was admitted to the Union as the 50th state. After graduating from [University] in 1983, he worked as a community organizer in [City]. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

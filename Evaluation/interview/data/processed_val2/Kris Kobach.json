@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You gotta love a comeback story, don't you?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "After several runs for office, [target] is taking on the state Attorney General seat, one of the most powerful positions in the state. In his first exclusive interview after the election, [target] says he's tackling government overreach."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The administration has undertaken so many actions that violate federal law or the Constitution."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "and fentanyl deaths."
+      }
+    ],
+    "speakername": "Kris Kobach",
+    "ground_truth": "These criminal organizations are the ones bringing it in. They're extremely powerful, extremely well-armed.",
+    "bio": "[target] (born March 26, 1966) is an American politician who served as the 31st Secretary of State of a midwestern state. [target] came to prominence over his hardline anti-immigration views and his involvement in the diffusion of high-profile anti-immigration ordinances in various American towns. [target] is also known for his calls for stronger voter ID laws in the United States and a specific registry. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The current administration has undertaken so many actions that violate federal law or the Constitution."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "and fentanyl deaths."
+      },
+      {
+        "speaker": "[target]",
+        "text": "These criminal organizations are the ones bringing it in. They're extremely powerful, extremely well-armed."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "fentanyl is killing people in the country at a record rate, with drug traffickers pushing fake pills that are almost identical to real ones. [target] says he's cracking down on drug dealers."
+      }
+    ],
+    "speakername": "Kris Kobach",
+    "ground_truth": "We need to increase the sentence that can be given to someone for trafficking in these controlled substances where the drug causes someone to die. And so it would be a death-caused enhancement. Our state law needs to have this because in many of these cases it's going to be a state prosecution.",
+    "bio": "The subject (/ËkoÊbÉËk/; born March 26, 1966) is an American politician who served as the 31st Secretary of State of a midwestern state. The subject came to prominence over their hardline anti-immigration views and their involvement in the diffusion of high-profile anti-immigration ordinances in various American towns. The subject is also known for their calls for stronger voter ID laws in the country and a specific religious registry. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Say, in [state], you have many sheriffs deeply integrated into the border enforcement there. You have the [state] DPS, Department of Public Safety. And so they have information on vehicles, individuals, operations of the cartel. We need to have that information in [state]."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Pushing back on government overreach is also on the top of his list. [target] is creating a special unit to help put [state] at the forefront of lawsuits against the administration. That includes challenging the student loan forgiveness plan. [state] is one of just six states that sued to block the plan, which [target] says is just one example of the president taking his power too far."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The president doesn't have the authority to spend half a trillion dollars, which is how much that would be. Congress never gave him that authority. The Constitution does not give him that authority."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "His relationship with the president may be on the fence, but [target] does say that he's working on his relationship with the state's Democratic governor, who's back for a second term. One item on his list, banning transgender athletes from women's sports."
+      }
+    ],
+    "speakername": "Kris Kobach",
+    "ground_truth": "The governor said in her advertisements that she's not for permitting, I think she used the term men, to participate in girls sports. I assume she meant biological males.",
+    "bio": "The subject (/ËkoÊbÉËk/; born March 26, 1966) is an American politician who served as the Secretary of State of [state]. The subject came to prominence over their hardline anti-immigration views and involvement in the diffusion of high-profile anti-immigration ordinances in various American towns. The subject is also known for calls for stronger voter ID laws in the United States and a specific registry. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The president doesn't have the authority to spend half a trillion dollars, which is how much that would be. Congress never gave him that authority. The Constitution does not give him that authority."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "[target] does say that he's working on his relationship with the state's Democratic governor, who's back for a second term. One item on his list, banning transgender athletes from women's sports."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The governor said in her advertisements that she's not for permitting, I think she used the term men, to participate in girls sports. I assume she meant biological males."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Let me just say it, of course men should not play girls sports."
+      }
+    ],
+    "speakername": "Kris Kobach",
+    "ground_truth": "if she's now come around on that issue because she did veto that bill prior to the election. We'd be happy to work with her. That's one of those issues that has a lot of legal angles to it.",
+    "bio": "The individual (born March 26, 1966) is an American politician who served as the 31st Secretary of State of a midwestern state. They came to prominence over their hardline anti-immigration views and involvement in the diffusion of high-profile anti-immigration ordinances in various American towns. The individual is also known for their calls for stronger voter ID laws in the United States and a specific registry. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It depends what the wording of the amendment would be. I mean, in principle, perhaps, I mean, I supported the Value Them Both amendment that was recently on the ballot in August. From personal communications with residents, lots of people didn't understand it, the way the legislature drafted it. So that would be a really important thing I'd be looking at if they proposed something in the future."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Marijuana legalization has also been a hot button issue. State lawmakers are working on a bipartisan bill to legalize medical marijuana, and based on our polling results, about 61% of voters would support it. If it passes, the state's attorney general would also have to defend that law."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'll absolutely defend whatever the legislature passes. That's the number one duty of the attorney general. I will offer cautionary advice, however. The states that have legalized marijuana have encountered a number of law enforcement problems. One of them is it's spread into being used by minors. Another is the difficulty of enforcing it on the roads in terms of impaired driving. Unlike alcohol, where you have a BAC, you have these abilities for officers to do breathalyzer tests right there on the spot. We don't have those tools or a firmly established line of where impairment begins."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "As for what's next, [target] is looking ahead to next year's legislative session. He's drafting bills for when lawmakers return."
+      }
+    ],
+    "speakername": "Kris Kobach",
+    "ground_truth": "We're getting bills drafted on a number of subjects. One of them is the subject of enhancing the penalties for people who deal in fentanyl. I think our human trafficking statute needs to be broadened to address this very real problem of human trafficking in the state. And those are just a couple of a larger package. So I am getting ready for that as well.",
+    "bio": "The target (/ËkoÊbÉËk/; born March 26, 1966) is an American politician who served as the 31st Secretary of State of a midwestern state. The target came to prominence over their hardline anti-immigration views and their involvement in the diffusion of high-profile anti-immigration ordinances in various American towns. The target is also known for their calls for stronger voter ID laws in the United States and a specific registry. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

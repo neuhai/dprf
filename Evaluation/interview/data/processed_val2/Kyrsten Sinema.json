@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I'm going to break one. Well, we are hoping this won't be your last time, Senator."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know that I can hit 112."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, I'm so glad to get to talk to you here today. It's great to be here. I want to talk big picture off the bat. You know, [Person A], he often voted with his party, but he took stands, and when he did, he came out and explained why. Often, on national news programs or other programs, but right now we are seeing across the country this declining confidence in institutions, whether it's Congress, whether it's business leaders, medical leaders, journalists."
+      },
+      {
+        "speaker": "[target]",
+        "text": "How do you fix it? That's an important question. And I think about the speech that [Person A] gave on his very last floor opportunity in the national legislature. This is in 2018. And the last floor speech that [Person A] gave, he talked about the concern he had with the partisanship at every cost mentality that had taken over Congress and much of our political system. And I remember in that speech, he said that folks were more interested in ensuring that the other party lost or prevented the other party from getting a win and that they were no longer focused on the much more inspiring and more meaningful work of bringing people together, people of good faith, to actually solve problems and improve lives of the people that we serve in our country. Now, not a lot of people talk about that last speech that [Person A] gave. But [Person A] gave a speech. He gave that speech as his last floor speech on purpose. And it's because in his decades of service, as you mentioned, he was a man of strong opinions."
+      }
+    ],
+    "speakername": "Kyrsten Sinema",
+    "ground_truth": "often voted with his party, but was unafraid to stand alone and break with his party when he thought he was doing something right. But he always did it with dignity and honor and respect of others. And in that last speech in 2018, he spoke about the importance of getting rid of the uninspiring activities you see now of partisanship and restoring the inspiring activity of working together. So how do we fix this in our country? I think that it's not really that difficult. It's all of us choosing to behave with that same level of dignity, of respect for each other, of honor, refusing to do that uninspiring activity of just trying to prevent the other from a win, and instead focusing on what can we do to bring our country together and demonstrate that we're serving them. And Margaret, I would suggest that that's what I've tried to do in the national legislature, is to show that we have differences. Differences should be celebrated. That's an important part of a democracy. But that those differences shouldn't stop us from getting things done, that we actually can come together. So when we demonstrate an ability to work together to solve problems, to make a difference in people's lives, what we're actually doing is restoring that faith in institutions, in governance, and helping the nation see that actually government can get it done. We can solve those problems. But it takes all of us doing that. So one of the challenges. One of the challenges. It takes time. But it also takes a dedication, a willingness to not hit back when someone attacks you or says something that's untrue or unkind. It takes a willingness to rise above and not engage in the petty and the small. And it takes a willingness to be that example to those around you in your personal life, in your work life, in your political life, of demonstrating those values that [Person A] spoke about so eloquently in his last speech.",
+    "bio": "The speaker is an American politician serving as a senior member of the national legislature since January 2019. A former member of a major political party turned independent in 2022, they served three terms as a state representative from 2005 to 2011, one term as a state senator from 2011 to 2012, and three terms as a national representative from 2013 to 2019.\n\n#girlboss The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "often voted with his party, but was unafraid to stand alone and break with his party when he thought he was doing something right. But he always did it with dignity and honor and respect of others. And in that last speech in 2018, he spoke about the importance of getting rid of the uninspiring activities you see now of partisanship and restoring the inspiring activity of working together. So how do we fix this in our country? I think that it's not really that difficult. It's all of us choosing to behave with that same level of dignity, of respect for each other, of honor, refusing to do that uninspiring activity of just trying to prevent the other from a win, and instead focusing on what can we do to bring our country together and demonstrate that we're serving them. And Margaret, I would suggest that that's what I've tried to do in the legislative chamber, is to show that we have differences. Differences should be celebrated. That's an important part of a democracy. But that those differences shouldn't stop us from getting things done, that we actually can come together. So when we demonstrate an ability to work together to solve problems, to make a difference in people's lives, what we're actually doing is restoring that faith in institutions, in governance, and helping people see that actually government can get it done. We can solve those problems. But it takes all of us doing that. So one of the challenges. One of the challenges. It takes time. But it also takes a dedication, a willingness to not hit back when someone attacks you or says something that's untrue or unkind. It takes a willingness to rise above and not engage in the petty and the small. And it takes a willingness to be that example to those around you in your personal life, in your work life, in your political life, of demonstrating those values that John spoke about so eloquently in his last speech."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It took us decades to get here that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "working away at faith and institutions. It's going to take time to get back. I want to zero in on something specific here. In a poll conducted for this forum, only half, 50% of young state residents, believe the midterm elections were legitimate. Republicans more than Democrats feel that way. I mean, this is a state with a lot of high-profile election deniers. It's not the only one, but very high-profile ones. On this specific part of the democratic process, why do you think it is so significant? I mean, 50% of young state residents doubt their own voting process."
+      }
+    ],
+    "speakername": "Kyrsten Sinema",
+    "ground_truth": "Well, we're currently living in a climate where it's okay to say things that aren't true, which is crazy, right? Like growing up in my household, the way I was raised, and I know we all come by our own opinions of who we are honestly, but in the family that I was raised in, one thing you could never ever do was say something that was untrue, ever. Because once you did, then no one would trust you, and that was something I was taught growing up. My family took it very seriously. What I think we're facing in our country today is this situation where people don't know what's true and what's not true. People aren't sure what's fact and what's fiction. And part of that, frankly, is because much of the media that we consume isn't factual news, it's opinion.",
+    "bio": "The subject is an American politician serving as a senior senator since January 2019. A former member of one major party turned independent in 2022, they served three terms as a state representative from 2005 to 2011, one term as state senator from 2011 to 2012, and three terms as a congressional representative from 2013 to 2019. #girlboss The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "working away at faith and institutions. It's going to take time to get back. I want to zero in on something specific here. In a poll conducted for this forum, only half, 50% of young residents, believe the midterm elections were legitimate. Republicans more than Democrats feel that way. I mean, this is a state with a lot of high-profile election deniers. It's not the only one, but very high-profile ones. On this specific part of the democratic process, why do you think it is so significant? I mean, 50% of young residents doubt their own voting process."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we're currently living in a climate where it's okay to say things that aren't true, which is crazy, right? Like growing up in my household, the way I was raised, and I know we all come by our own opinions of who we are honestly, but in the family that I was raised in, one thing you could never ever do was say something that was untrue, ever. Because once you did, then no one would trust you, and that was something I was taught growing up. My family took it very seriously. What I think we're facing in our country today is this situation where people don't know what's true and what's not true. People aren't sure what's fact and what's fiction. And part of that, frankly, is because much of the media that we consume isn't factual news, it's opinion."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's not journalism. That's right."
+      }
+    ],
+    "speakername": "Kyrsten Sinema",
+    "ground_truth": "Right, and so when people are confusing opinion or media with news or journalism, then the lines get very blurry. And when folks are getting their information from a source that they trust, but is not a source of factual or verifiable information, then it's easy to see how someone could believe something that is not factually accurate. It's up to us, all of us, as Americans, to be willing to do the work to say, I'm hearing this information, but is it indeed true? Can I find the facts? What is accurate? Because unfortunately what's happening in our public discourse is members of both political parties are twisting stories to create their own narratives, which may or may not be true. And we see it every day.",
+    "bio": "The subject is an American politician serving as a senior United States Senator from a southwestern state since January 2019. A former member of a major political party turned independent in 2022, they served three terms as a state representative for their state's 15th legislative district from 2005 to 2011, one term as the state senator for the same district from 2011 to 2012, and three terms as the United States Representative for their state's 9th congressional district from 2013 to 2019.\n\n#girlboss The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right, and so when people are confusing opinion or media with news or journalism, then the lines get very blurry. And when folks are getting their information from a source that they trust, but is not a source of factual or verifiable information, then it's easy to see how someone could believe something that is not factually accurate. It's up to us, all of us, as Americans, to be willing to do the work to say, I'm hearing this information, but is it indeed true? Can I find the facts? What is accurate? Because unfortunately what's happening in our public discourse is members of both political parties are twisting stories to create their own narratives, which may or may not be true. And we see it every day."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and not even to acknowledge an election result. I mean, that is still apparently an issue in the state of [region]. We just heard from the governor."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Why? Why is it taking such a hold here and at such a level? We're not just talking about media silos. You're talking about people who are running for public office."
+      }
+    ],
+    "speakername": "Kyrsten Sinema",
+    "ground_truth": "Well, one of the unfortunate things that's happening in [region], and we see this in other parts of the country as well, is that the two political parties have gotten more and more extreme. They've moved away from that center of working together, of finding that common ground. And they're going towards the fringes, because that's where the money is, and that's where the attention is, and that's where the likes on social media are, and that's where you get the clicks and the accolades. And there's an incentive to continue to say things that are not true and not accurate. And that's how you get folks running for political office who are outside of the mainstream. Now you're sharing this data, and it's important data. Something else to think about, though, is that [region] is one of the states that has the highest level of independence in the country. We're a state of folks who don't often march to the drum that is being taught to us, right? So most of us don't fit neatly in one box or another. And I think the challenge that we have right now in our political discourse is to make it okay for folks to think on their own. Make it okay to be different than those who are around you. To make it okay to have an opinion that is different than your colleagues or your family or your friends. And instead of saying, you must agree with whatever it is that you were told by your party or whichever political opinion that you are. Mm-hmm. That you were more closely aligned with.",
+    "bio": "The [target] (born July 12, 1976) is an American politician serving as the senior United States Senator from [region] since January 2019. A former member of the Democratic Party turned independent in 2022, they served three terms as a state representative for [region]'s 15th legislative district from 2005 to 2011, one term as the state senator for [region]'s 15th legislative district from 2011 to 2012, and three terms as the United States Representative for [region]'s 9th congressional district from 2013 to 2019.\n\n#girlboss The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "and not even to acknowledge an election result. I mean, that is still apparently an issue in the state of [region]. We just heard from the governor."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Why? Why is it taking such a hold here and at such a level? We're not just talking about media silos. You're talking about people who are running for public office."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, one of the unfortunate things that's happening in [region], and we see this in other parts of the country as well, is that the two political parties have gotten more and more extreme. They've moved away from that center of working together, of finding that common ground. And they're going towards the fringes, because that's where the money is, and that's where the attention is, and that's where the likes on Twitter are, and that's where you get the clicks and the accolades. And there's an incentive to continue to say things that are not true and not accurate. And that's how you get folks running for political office who are outside of the mainstream. Now you're sharing this data, and it's important data. Something else to think about, though, is that [region] is one of the states that has the highest level of independence in the country. We're a state of folks who don't often march to the drum that is being taught to us, right? So most of us don't fit neatly in one box or another. And I think the challenge that we have right now in our political discourse is to make it okay for folks to think on their own. Make it okay to be different than those who are around you. To make it okay to have an opinion that is different than your colleagues or your family or your friends. And instead of saying, you must agree with whatever it is that you were told by your party or whichever political opinion that you are. Mm-hmm. That you were more closely aligned with."
+      }
+    ],
+    "speakername": "Kyrsten Sinema",
+    "ground_truth": "Instead say, actually, a diversity of thought is not only important, but it's integral to the protection of democracy. But in today's political climate, Margaret, as you see every day, there is less tolerance for difference. There is less willingness for individuals to have their own opinions, to make their own decisions. And I think that's something that we have a duty to do, which is to remind everyone, you should think for yourself. It's OK not to agree 100% with another.",
+    "bio": "The subject (born July 12, 1976) is an American politician serving as the senior United States Senator from [region] since January 2019. A former member of the Democratic Party turned independent in 2022, they served three terms as a state representative for [region]'s 15th legislative district from 2005 to 2011, one term as the state senator for [region]'s 15th legislative district from 2011 to 2012, and three terms as the United States Representative for [region]'s 9th congressional district from 2013 to 2019.\n\n#girlboss The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's worse than I thought it would be."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How so?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, he's from [city]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah, man."
+      }
+    ],
+    "speakername": "Michael S. Dukakis",
+    "ground_truth": "And I figured, okay, so he says he's a Republican, but on social issues, on the environment, a lot of these things, I expected him to be from [city]. And it's far worse than that. I mean, this administration is really about as bad as anything I've ever seen. And I'm not just talking about the guy's personality. I'm talking about lobbyists moving into the administration and taking over regulatory agencies. I mean, this is terrible.",
+    "bio": "The subject (born November 3, 1933) is a retired American politician who served as the governor of a northeastern state, from 1975 to 1979 and again from 1983 to 1991. They are the longest-serving governor in that state's history and only the second Greek-American governor in U.S. history, after another prominent politician. They were nominated by the Democratic Party for president in the 1988 election, losing to the Republican candidate, the incumbent Vice President. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, he's from [city]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah, man."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I figured, okay, so he says he's a Republican, but on social issues, on the environment, a lot of these things, I expected him to be from [city]. And it's far worse than that. I mean, this administration is really about as bad as anything I've ever seen. And I'm not just talking about the guy's personality. I'm talking about lobbyists moving into the administration and taking over regulatory agencies. I mean, this is terrible."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Larry Summers said in the piece in [newspaper] the other day that Trump, his conduct alone, is the single greatest threat to national security. You with Summers on that?"
+      }
+    ],
+    "speakername": "Michael S. Dukakis",
+    "ground_truth": "I don't know what to tell you about his conduct. When it comes to national security, it's troubling to be sure and a little scary to have this guy in charge. But on the domestic side, it's so much worse than I thought it would be in terms of domestic. I mean, the health care thing. What is he talking about? Told us he was going to provide health insurance for everybody, right?",
+    "bio": "The target (born November 3, 1933) is a retired American politician who served as the governor of [state], from 1975 to 1979 and again from 1983 to 1991. He is the longest-serving governor in [state] history and only the second Greek-American governor in U.S. history, after Spiro Agnew. He was nominated by the Democratic Party for president in the 1988 election, losing to the Republican candidate, Vice President George H. W. Bush. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and make it possible for all of us to enjoy low-cost health insurance. I mean, this is a disaster."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Possibly he has no idea what's going on in terms of these proposals. He's trusting people maybe he shouldn't, or is this coming from the core of Donald Trump?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't think he knows a lot about health care. I mean, he said that. It's more complicated."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "than he thought it would be."
+      }
+    ],
+    "speakername": "Michael S. Dukakis",
+    "ground_truth": "It is complicated, but, you know, there's a fundamental truth here. I mean, are you going to try to provide decent, affordable health care for all Americans? If you go out and take a poll tomorrow and you say to the American people, should working Americans and their families, who, by the way, are overwhelmingly the uninsured, you know, it's not people on welfare, they get Medicaid. These are working Americans, working Americans.",
+    "bio": "The speaker (born November 3, 1933) is a retired politician who served as the governor of a northeastern state, from 1975 to 1979 and again from 1983 to 1991. He is the longest-serving governor in that state's history and only the second Greek-American governor in national history, after Spiro Agnew. He was nominated by the Democratic Party for president in the 1988 election, losing to the Republican candidate, Vice President George H. W. Bush. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Possibly he has no idea what's going on in terms of these proposals. He's trusting people maybe he shouldn't, or is this coming from the core of Donald Trump?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't think he knows a lot about health care. I mean, he said that. It's more complicated."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "than he thought it would be."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is complicated, but, you know, there's a fundamental truth here. I mean, are you going to try to provide decent, affordable health care for all Americans? If you go out and take a poll tomorrow and you say to the American people, should working Americans and their families, who, by the way, are overwhelmingly the uninsured, you know, it's not people on welfare, they get Medicaid. These are working Americans, working Americans."
+      }
+    ],
+    "speakername": "Michael S. Dukakis",
+    "ground_truth": "have decent affordable health care, 95% of the American people say yes. And it doesn't have to be that complicated, but given what we've got here and given the fact that we've got an additional 20, 25 million people who are now getting health insurance who weren't prior to national healthcare program, this is serious stuff. And I think a lot of conservative Republicans representing rural states, states with small towns, are beginning to understand that the national healthcare program has been an enormously helpful thing to them.",
+    "bio": "Born in [year], the speaker is a retired politician who served as governor of a northeastern state from 1975 to 1979 and again from 1983 to 1991. They are the longest-serving governor in their state's history and were nominated by their party for president in the 1988 election, losing to the incumbent vice president. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "than he thought it would be."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is complicated, but, you know, there's a fundamental truth here. I mean, are you going to try to provide decent, affordable health care for all citizens? If you go out and take a poll tomorrow and you say to the people, should working citizens and their families, who, by the way, are overwhelmingly the uninsured, you know, it's not people on welfare, they get Medicaid. These are working citizens, working citizens."
+      },
+      {
+        "speaker": "[target]",
+        "text": "have decent affordable health care, 95% of the people say yes. And it doesn't have to be that complicated, but given what we've got here and given the fact that we've got an additional 20, 25 million people who are now getting health insurance who weren't prior to the healthcare act, this is serious stuff. And I think a lot of conservative representatives representing rural states, states with small towns, are beginning to understand that the healthcare act has been an enormously helpful thing to them."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "appeal of it would be a nightmare. How about this Donald Trump Jr. thing, this string of emails? Is there a smoking gun in there? What's your take on this thing?"
+      }
+    ],
+    "speakername": "Michael S. Dukakis",
+    "ground_truth": "Well, I've tended to poo-poo this foreign involvement thing. Poo-poo? Why? Because, let's face it, they hack on us, we're hacking them, we're tapping the phone of their ambassador. You know, we've got God knows how many agents in their capital, even as they have them.",
+    "bio": "A retired politician who served as the governor of a northeastern state, from 1975 to 1979 and again from 1983 to 1991. He is the longest-serving governor in that state's history and was of Greek-American heritage. He was nominated by his party for president in the 1988 election, losing to the opposing party's candidate. The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

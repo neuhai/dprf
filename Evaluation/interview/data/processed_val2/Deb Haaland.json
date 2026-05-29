@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "but I went door to door for you."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "But until this year, no one like her had ever served in the [legislative body]. She and [another representative] from [state] became the first Native American women elected to Congress."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That was emotional. We're really, honestly, finally sworn in as Congresswomen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target]'s father was a career marine. His people came to America from [European country] about a century ago. Her mother's family, on the other hand, have somewhat deeper roots."
+      }
+    ],
+    "speakername": "Deb Haaland",
+    "ground_truth": "My ancestors migrated to this area of [state] in the late 1200s, which makes me about a 35th generation [state] resident. So when I say I love this state, I'm not kidding.",
+    "bio": "The target (born December 2, 1960) is an American politician serving as the 54th United States secretary of the interior. A member of the Democratic Party, they served as chair of the [state] Democratic Party from 2015 to 2017 and as the U.S. representative for [state]'s 1st congressional district from 2019 to 2021. Along with [another representative], they are one of the first two Native American women elected to the U.S. Congress. The target is an enrolled member of the [tribal] Pueblo.\n\nOn December 17, 2020, President [name] announced that he would nominate the target to serve as Secretary of the Interior. They were confirmed by the United States Senate on March 15, 2021, by a vote of 51-0. Following their swearing-in on March 16, 2021, they became the first Native American to serve as a Cabinet secretary and the second to serve in the Cabinet, after Republican former vice president and [tribal] Nation citizen [name]. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That was emotional. We're really, honestly, finally sworn in as Congresswomen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The target's father was a career marine. His people came to America from [country] about a century ago. Her mother's family, on the other hand, have somewhat deeper roots."
+      },
+      {
+        "speaker": "[target]",
+        "text": "My ancestors migrated to this area of [state] in the late 1200s, which makes me about a 35th generation [state] resident. So when I say I love this state, I'm not kidding."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "The target's family history includes the cruel fact that her grandparents were torn away from their families and sent away to what were called Indian schools to be Americanized."
+      }
+    ],
+    "speakername": "Deb Haaland",
+    "ground_truth": "My grandmother, she went to boarding school. They took her away from her family when she was eight and she didn't come home till she was 13. Her dad was only able to visit her twice because all he had was a horse and a wagon.",
+    "bio": "The target (born December 2, 1960) is an American politician serving as the 54th United States secretary of the interior. A member of the Democratic Party, they served as chair of the [state] Democratic Party from 2015 to 2017 and as the U.S. representative for [state]'s 1st congressional district from 2019 to 2021. Along with [other representative], they are one of the first two Native American women elected to the U.S. Congress. The target is an enrolled member of the [tribal] Pueblo.\n\nOn December 17, 2020, President [name] announced that he would nominate the target to serve as Secretary of the Interior. They were confirmed by the United States Senate on March 15, 2021, by a vote of 51-0. Following their swearing-in on March 16, 2021, they became the first Native American to serve as a Cabinet secretary and the second to serve in the Cabinet, after Republican former vice president and [tribe] Nation citizen [name]. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I think that, you know, in and of itself, the Biden campaign appointing a climate council and coming out with a plan on climate change, you know, it shows where his commitment is. Joe Biden realizes how important this issue is, and he's willing to work hard at it. I think there are a lot of climate leaders all over this country who are going to pitch in and make sure that we can keep moving our country forward. You know, it makes me feel sort of confident that we'll have leadership right now or in the future after the November election, because right now with this administration, you know, gutting the EPA, you know, taking climate scientists in the Department of the Interior, folks who were studying climate change in places like Alaska and sticking them in the auditing department. This administration, you know, cutting off big swaths of our public lands, you know, wanting to drill and frack on our public lands everywhere. We, this administration has done nothing but make climate change so much more difficult for us. Much worse than it needs to be, removing our country from the Paris Climate Agreement. A, President Biden, when he gets in office, will get us back on track and move us in a direction we absolutely need to move. And I completely trust that with all of us helping him, that we'll be able to make a real difference in this country."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, you represent a state that has a significant oil and gas industry. And I'm curious, you know, how do you message to people in New Mexico who might be concerned about the costs of a transition for their, you know, well, their livelihood? What's your message to them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I don't want one single person to not be able to support their families, right? We want everyone to have a good job, a well-paying job with benefits so that they can support their families and contribute to our economy and all of those things. You know, when I think about this issue, yes, we have a very robust gas and oil industry here. There's no reason that we can't work on moving our renewable energy forward at the same time. We're smart enough as a society to essentially walk and chew gum at the same time. One of the things that I really want to see happen, and as the vice chair on the House Natural Resources Committee and the chair of the subcommittee on National Parks, Forests, and Public Lands, our public lands emit 25 percent of our energy. And so, you know, we're going to have to work on that. And so, you know, we're going to have to work on that. And so, you know, we're going to have to work on that. And so, we're going to have to work on that. And so, you know, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, if we go forward and, and we're going to do moreug Ð±Ñ investment in national parks, we're going to have to work on that. And so, I think, again, in all honesty, we wanted to pull out the number of causes that really make it, you know, emissions by 2030. That in and of itself will protect habitat for species that are in danger of becoming extinct. It will get our emissions down, hopefully to net zero. There's a lot of things we can do. I want us to remember that our public lands are for all of us, not just for one sector or one industry."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, such an important point. I think oftentimes people think about net zero and they think about solar panels. And of course, protecting nature is crucial to that. I guess just one question. I'm curious if you could share from your experience in the state, how are people in New Mexico feeling the effects of climate change right now? I mean, why is it so urgent there?"
+      }
+    ],
+    "speakername": "Deb Haaland",
+    "ground_truth": "Well, I mean, there's no, you know, it's no secret that places are getting warmer. We don't have as much snow as we used to have. You know, people relied on snowpack. I talked to, you know, some of my, I was talking to a man the other day who lives up in Las Vegas, New Mexico, and he was talking about on his graduation day in May, you know, decades and decades ago that it rained four feet in northern New Mexico. You don't see that anymore. And that's a shame that we're barely having any snowfall here in New Mexico. We're in high desert, 5,000 feet. You know, water is always a scarce resource. Fires, you know, wildfires are more intense when they catch fire and we don't have the rain to dampen those fires out. There's issue after issue that we're struggling with here in the high desert. And, you know, as much as we are having to combat these wildfires that start, you know, folks on the coastlines are losing their homes to the ocean. So it's absolutely everywhere. And we need to be diligent about doing something about this.",
+    "bio": "Debra Anne Haaland (born December 2, 1960) is an American politician serving as the 54th United States secretary of the interior.[2] A member of the Democratic Party, she served as chair of the New Mexico Democratic Party from 2015 to 2017 and as the U.S. representative for New Mexico's 1st congressional district from 2019 to 2021. Along with Sharice Davids, she is one of the first two Native American women elected to the U.S. Congress. Haaland is an enrolled member of the Laguna Pueblo.\\n\\nOn December 17, 2020, President Joe Biden announced that he would nominate Haaland to serve as Secretary of the Interior. She was confirmed by the United States Senate on March 15, 2021, by a vote of 51â?0. Following her swearing-in on March 16, 2021, she became the first Native American to serve as a Cabinet secretary and the second to serve in the Cabinet, after Republican former vice president and Kaw Nation citizen Charles Curtis The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, I don't want one single person to not be able to support their families, right? We want everyone to have a good job, a well-paying job with benefits so that they can support their families and contribute to our economy and all of those things. You know, when I think about this issue, yes, we have a very robust gas and oil industry here. There's no reason that we can't work on moving our renewable energy forward at the same time. We're smart enough as a society to essentially walk and chew gum at the same time. One of the things that I really want to see happen, and as the vice chair on the House Natural Resources Committee and the chair of the subcommittee on National Parks, Forests, and Public Lands, our public lands emit 25 percent of our energy. And so, you know, we're going to have to work on that. And so, you know, we're going to have to work on that. And so, you know, we're going to have to work on that. And so, we're going to have to work on that. And so, you know, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, we're going to have to work on that. And so, if we go forward and, and we're going to do moreug Ð±Ñ investment in national parks, we're going to have to work on that. And so, I think, again, in all honesty, we wanted to pull out the number of causes that really make it, you know, emissions by 2030. That in and of itself will protect habitat for species that are in danger of becoming extinct. It will get our emissions down, hopefully to net zero. There's a lot of things we can do. I want us to remember that our public lands are for all of us, not just for one sector or one industry."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, such an important point. I think oftentimes people think about net zero and they think about solar panels. And of course, protecting nature is crucial to that. I guess just one question. I'm curious if you could share from your experience in the state, how are people in New Mexico feeling the effects of climate change right now? I mean, why is it so urgent there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I mean, there's no, you know, it's no secret that places are getting warmer. We don't have as much snow as we used to have. You know, people relied on snowpack. I talked to, you know, some of my, I was talking to a man the other day who lives up in Las Vegas, New Mexico, and he was talking about on his graduation day in May, you know, decades and decades ago that it rained four feet in northern New Mexico. You don't see that anymore. And that's a shame that we're barely having any snowfall here in New Mexico. We're in high desert, 5,000 feet. You know, water is always a scarce resource. Fires, you know, wildfires are more intense when they catch fire and we don't have the rain to dampen those fires out. There's issue after issue that we're struggling with here in the high desert. And, you know, as much as we are having to combat these wildfires that start, you know, folks on the coastlines are losing their homes to the ocean. So it's absolutely everywhere. And we need to be diligent about doing something about this."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to switch gears a little bit. You've been very vocal about the Washington NFL team and the changing of the name. And of course, it's a significant victory that they've said that they will do that, a victory for activists and critics. I'm curious, though, in this moment of reckoning, there's been a lot of changes like that that are significant, but they're on the surface, changing a name and not necessarily dealing with the systemic issues in our society. And I'm just curious, is this a jumping off point to bigger systemic changes? And obviously, it's not enough, but is it a jumping off point?"
+      }
+    ],
+    "speakername": "Deb Haaland",
+    "ground_truth": "Well, I think that it's progress, right? We have, I mean, for decades, not just, it didn't just happen in the last few years, but for decades, Indian activists have been working to bring attention to this issue. And, you know, you have really stubborn people like the owner of the Washington NFL team, who essentially was in denial about what the name of his football team was doing. I think that Native American activists have been present as long as, you know, the Europeans have been working to colonize us. We're just sort of in a new phase, I guess. What I think it does is it brings attention to the need for all of us as Americans to think about this history. Native American history is American history. And since George Floyd died, God rest his soul, we've been dealing with the reckoning in our country about, you know, what do we stand for? Are we really, you know, do we really want liberty and justice for all? Do we really want these things? Do we really want America to be a place where everybody can be successful? And we're getting the answer back that no, only certain people deserve to be successful. And so it's important for people to rise up and demand change. And I think that's incredibly good. And the naming of this football team, even though we had been fighting for it for a long, long time, it was timely to push it even more. And finally, you know, it shouldn't take a huge social movement and corporate sponsors to, you know, threaten to threaten, you know, their, to threaten the team for them to change the name. But, but clearly, that's what it took for this. And I think that it's a good time for all of us to reflect on, on the true history of our country.",
+    "bio": "Debra Anne Haaland (born December 2, 1960) is an American politician serving as the 54th United States secretary of the interior.[2] A member of the Democratic Party, she served as chair of the New Mexico Democratic Party from 2015 to 2017 and as the U.S. representative for New Mexico's 1st congressional district from 2019 to 2021. Along with Sharice Davids, she is one of the first two Native American women elected to the U.S. Congress. Haaland is an enrolled member of the Laguna Pueblo.\\n\\nOn December 17, 2020, President Joe Biden announced that he would nominate Haaland to serve as Secretary of the Interior. She was confirmed by the United States Senate on March 15, 2021, by a vote of 51â?0. Following her swearing-in on March 16, 2021, she became the first Native American to serve as a Cabinet secretary and the second to serve in the Cabinet, after Republican former vice president and Kaw Nation citizen Charles Curtis The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I mean, there's no, you know, it's no secret that places are getting warmer. We don't have as much snow as we used to have. You know, people relied on snowpack. I talked to, you know, some of my, I was talking to a man the other day who lives up in Las Vegas, New Mexico, and he was talking about on his graduation day in May, you know, decades and decades ago that it rained four feet in northern New Mexico. You don't see that anymore. And that's a shame that we're barely having any snowfall here in New Mexico. We're in high desert, 5,000 feet. You know, water is always a scarce resource. Fires, you know, wildfires are more intense when they catch fire and we don't have the rain to dampen those fires out. There's issue after issue that we're struggling with here in the high desert. And, you know, as much as we are having to combat these wildfires that start, you know, folks on the coastlines are losing their homes to the ocean. So it's absolutely everywhere. And we need to be diligent about doing something about this."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to switch gears a little bit. You've been very vocal about the Washington NFL team and the changing of the name. And of course, it's a significant victory that they've said that they will do that, a victory for activists and critics. I'm curious, though, in this moment of reckoning, there's been a lot of changes like that that are significant, but they're on the surface, changing a name and not necessarily dealing with the systemic issues in our society. And I'm just curious, is this a jumping off point to bigger systemic changes? And obviously, it's not enough, but is it a jumping off point?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think that it's progress, right? We have, I mean, for decades, not just, it didn't just happen in the last few years, but for decades, Indian activists have been working to bring attention to this issue. And, you know, you have really stubborn people like the owner of the Washington NFL team, who essentially was in denial about what the name of his football team was doing. I think that Native American activists have been present as long as, you know, the Europeans have been working to colonize us. We're just sort of in a new phase, I guess. What I think it does is it brings attention to the need for all of us as Americans to think about this history. Native American history is American history. And since George Floyd died, God rest his soul, we've been dealing with the reckoning in our country about, you know, what do we stand for? Are we really, you know, do we really want liberty and justice for all? Do we really want these things? Do we really want America to be a place where everybody can be successful? And we're getting the answer back that no, only certain people deserve to be successful. And so it's important for people to rise up and demand change. And I think that's incredibly good. And the naming of this football team, even though we had been fighting for it for a long, long time, it was timely to push it even more. And finally, you know, it shouldn't take a huge social movement and corporate sponsors to, you know, threaten to threaten, you know, their, to threaten the team for them to change the name. But, but clearly, that's what it took for this. And I think that it's a good time for all of us to reflect on, on the true history of our country."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think, I mean, clearly this is a moment where there's been a reckoning over anti-Black racism, but do you think there's also been a reckoning with that history, you know, with the treatment and colonization of Native Americans? Has there been a reckoning there as well?"
+      }
+    ],
+    "speakername": "Deb Haaland",
+    "ground_truth": "IT'S THE TYPE OF HISTORY THAT I'M EMBARRASSED I DON'T KNOW MORE ABOUT SO THEN I'M AFRAID TO ASK ABOUT IT AND THEN THE CYCLE HAPPENS AND CONTINUES AND WHAT DOES ATONEMENT LOOK LIKE WHAT",
+    "bio": "Debra Anne Haaland (born December 2, 1960) is an American politician serving as the 54th United States secretary of the interior.[2] A member of the Democratic Party, she served as chair of the New Mexico Democratic Party from 2015 to 2017 and as the U.S. representative for New Mexico's 1st congressional district from 2019 to 2021. Along with Sharice Davids, she is one of the first two Native American women elected to the U.S. Congress. Haaland is an enrolled member of the Laguna Pueblo.\\n\\nOn December 17, 2020, President Joe Biden announced that he would nominate Haaland to serve as Secretary of the Interior. She was confirmed by the United States Senate on March 15, 2021, by a vote of 51â?0. Following her swearing-in on March 16, 2021, she became the first Native American to serve as a Cabinet secretary and the second to serve in the Cabinet, after Republican former vice president and Kaw Nation citizen Charles Curtis The speaker's MBTI type is INFJ",
+    "split": "val"
+  }
+]

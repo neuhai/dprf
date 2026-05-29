@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So without further ado, first question is, what is a Dungeon Master? A. A world builder B. A storyteller C. A referee or D. All of the above."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I feel like D."
+      },
+      {
+        "speaker": "[target]",
+        "text": "D is the correct answer. Perfect."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "survive"
+      }
+    ],
+    "speakername": "Chris Perkins",
+    "ground_truth": "It's more than that. A dungeon master is also an actor, a director, a teacher, and an improviser. That is a lot of roles for one person to play at the table, and all of us DMs are better at some of those roles than others. And those of us who have been DMing a long time have found tips or tricks or ways to up our game in the areas or the roles where we're not the most comfortable or able.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "D is the correct answer. Perfect."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "survive"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's more than that. A dungeon master is also an actor, a director, a teacher, and an improviser. That is a lot of roles for one person to play at the table, and all of us DMs are better at some of those roles than others. And those of us who have been DMing a long time have found tips or tricks or ways to up our game in the areas or the roles where we're not the most comfortable or able."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Chris Perkins",
+    "ground_truth": "So what I'd like to do for the remainder of this presentation is take each of these Dungeon Mastering roles and give one tried-and-true tip, and then intersperse a few little Q&As in between. So the first thing is worldbuilding. The Dungeon Master is a worldbuilder. That means that the Dungeon Master is responsible for creating the setting in which the campaign or the adventures happen. And there's a lot to a campaign setting to think about. If you're thinking about it on the world scale, it can be quite daunting, which is why my tip for worldbuilding is start small. It can be very tempting to bite off more of the campaign than you can chew, or more of the campaign that the players will even experience.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's more than that. A dungeon master is also an actor, a director, a teacher, and an improviser. That is a lot of roles for one person to play at the table, and all of us DMs are better at some of those roles than others. And those of us who have been DMing a long time have found tips or tricks or ways to up our game in the areas or the roles where we're not the most comfortable or able."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So what I'd like to do for the remainder of this presentation is take each of these Dungeon Mastering roles and give one tried-and-true tip, and then intersperse a few little Q&As in between. So the first thing is worldbuilding. The Dungeon Master is a worldbuilder. That means that the Dungeon Master is responsible for creating the setting in which the campaign or the adventures happen. And there's a lot to a campaign setting to think about. If you're thinking about it on the world scale, it can be quite daunting, which is why my tip for worldbuilding is start small. It can be very tempting to bite off more of the campaign than you can chew, or more of the campaign that the players will even experience."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      }
+    ],
+    "speakername": "Chris Perkins",
+    "ground_truth": "And DMs are busy people. They have lives. They don't have infinite amount of time to get their setting off the ground. But if you start small, you have a better chance of actually creating content that the players will experience and use and enjoy. And by small, I mean maybe your campaign starts at a village. So detail the village. Define some of the personalities of the NPCs who live there. Flesh out some of the locations that are important. And then if there are areas around the village, like maybe there's a dungeon nearby or a haunted castle or a ruined tower on a hilltop, these close-by locations can serve as the starting places for the characters to explore in their early adventures. That is enough of a campaign right there to get things off the ground. Right there, you've got several sessions of play that can happen. Starting small means that you won't waste a lot of time. It takes a lot of effort describing places that the characters might never go to. So question! Where should one keep one's campaign notes? Oh, wow.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So what I'd like to do for the remainder of this presentation is take each of these Dungeon Mastering roles and give one tried-and-true tip, and then intersperse a few little Q&As in between. So the first thing is worldbuilding. The Dungeon Master is a worldbuilder. That means that the Dungeon Master is responsible for creating the setting in which the campaign or the adventures happen. And there's a lot to a campaign setting to think about. If you're thinking about it on the world scale, it can be quite daunting, which is why my tip for worldbuilding is start small. It can be very tempting to bite off more of the campaign than you can chew, or more of the campaign that the players will even experience."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And DMs are busy people. They have lives. They don't have infinite amount of time to get their setting off the ground. But if you start small, you have a better chance of actually creating content that the players will experience and use and enjoy. And by small, I mean maybe your campaign starts at a village. So detail the village. Define some of the personalities of the NPCs who live there. Flesh out some of the locations that are important. And then if there are areas around the village, like maybe there's a dungeon nearby or a haunted castle or a ruined tower on a hilltop, these close-by locations can serve as the starting places for the characters to explore in their early adventures. That is enough of a campaign right there to get things off the ground. Right there, you've got several sessions of play that can happen. Starting small means that you won't waste a lot of time. It takes a lot of effort describing places that the characters might never go to. So question! Where should one keep one's campaign notes? Oh, wow."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wow, I am terrible about this."
+      }
+    ],
+    "speakername": "Chris Perkins",
+    "ground_truth": "In a journal or notebook, B, in folders on a computer, C, in a wiki, or D, in an online virtual tabletop.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And DMs are busy people. They have lives. They don't have infinite amount of time to get their setting off the ground. But if you start small, you have a better chance of actually creating content that the players will experience and use and enjoy. And by small, I mean maybe your campaign starts at a village. So detail the village. Define some of the personalities of the NPCs who live there. Flesh out some of the locations that are important. And then if there are areas around the village, like maybe there's a dungeon nearby or a haunted castle or a ruined tower on a hilltop, these close-by locations can serve as the starting places for the characters to explore in their early adventures. That is enough of a campaign right there to get things off the ground. Right there, you've got several sessions of play that can happen. Starting small means that you won't waste a lot of time. It takes a lot of effort describing places that the characters might never go to. So question! Where should one keep one's campaign notes? Oh, wow."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wow, I am terrible about this."
+      },
+      {
+        "speaker": "[target]",
+        "text": "In a journal or notebook, B, in folders on a computer, C, in a wiki, or D, in an online virtual tabletop."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Whatever works best for you."
+      }
+    ],
+    "speakername": "Chris Perkins",
+    "ground_truth": "Correct. Yes. All of those answers are fine. It was a trick question. It wasn't just one correct answer. It is a matter of DM choice. And one of the beats I'll hit later is that DMs are individuals. They have their own ways of organizing their information. And however works best for you is great.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

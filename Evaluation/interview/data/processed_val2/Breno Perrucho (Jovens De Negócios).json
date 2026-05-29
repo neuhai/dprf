@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "we have this two structural problems that we do not give education about entrepreneurship and financial education and i want to tackle that everybody should learn entrepreneurship or everybody should learn financial education so that we could actually grasp the reality after we leave school and not being theorized and like for hours and hours about some theorem that we're not going to apply in real life"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "welcome to another episode of the dan locke show today i have a young entrepreneur joining us and i think it's a it's a very very interesting uh connection that we have because as i i brought him on you see that uh i've been able to inspire this young entrepreneur to start his you know journey on entrepreneurship and we've been just talking back and forth before we start this interview and i think it's very useful for all my listeners to think about how do you monetize your influence because it's one thing to say i have a big social media following and that's nice but exactly how do you build a business around that so [target] welcome to the show and before we dive into it i would love to hear a little bit of your your story"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, absolutely. Thanks, Dan. You live in my heart. You really helped me a lot during the first process of starting businesses and you are figure they're inspiring me to this day. I love the conversation. We just did a beautiful YouTube video for my channel. And yeah, I can't stress how honored I am to be here. So thanks."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yes."
+      }
+    ],
+    "speakername": "Breno Perrucho (Jovens De Negócios)",
+    "ground_truth": "well i started well my story started actually pretty young was about 11 12 years old i used to watch youtube videos of musicians people that just play instruments and put those different frames in the same youtube video by playing different instruments so there was one frame of playing the guitar and then one thing playing the piano",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, absolutely. Thanks, Dan. You live in my heart. You really helped me a lot during the first process of starting businesses and you are figure they're inspiring me to this day. I love the conversation. We just did a beautiful video for my channel. And yeah, I can't stress how honored I am to be here. So thanks."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "well i started well my story started actually pretty young was about 11 12 years old i used to watch online videos of musicians people that just play instruments and put those different frames in the same video by playing different instruments so there was one frame of playing the guitar and then one thing playing the piano"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "just play instruments and put those different frames in the same video by playing different instruments so there was one frame of playing the guitar and then one playing the piano"
+      }
+    ],
+    "speakername": "Breno Perrucho (Jovens De Negócios)",
+    "ground_truth": "And they put it all together in the after edit and I just said to myself, wow, I need to do that. I love the music. I like to play instruments and really was the kind of person that went to online platforms to learn how to play stuff. So I got in contact with the video platform pretty young.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "well i started well my story started actually pretty young was about 11 12 years old i used to watch youtube videos of musicians people that just play instruments and put those different frames in the same youtube video by playing different instruments so there was one frame of playing the guitar and then one thing playing the piano"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "just play instruments and put those different frames in the same youtube video by playing different instruments so there was one frame of playing the guitar and then one playing the piano"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And they put it all together in the after edit and I just said to myself, wow, I need to do that. I love the music. I like to play instruments and really was the kind of person that went to YouTube to learn how to play stuff. So I got in contact with the YouTube platform pretty young."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yes."
+      }
+    ],
+    "speakername": "Breno Perrucho (Jovens De Negócios)",
+    "ground_truth": "and sadly one year later my father passed away it was a car accident so it was unexpected and suddenly i had some kind of money which was not loads of money but it was more than a 13 year old would ever expect to receive i would only have access to that money five years later when i turned 18 because in [country] it's like locked until you turn to that age",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And they put it all together in the after edit and I just said to myself, wow, I need to do that. I love the music. I like to play instruments and really was the kind of person that went to online video platform to learn how to play stuff. So I got in contact with the online video platform pretty young."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and sadly one year later my father passed away it was a car accident so it was unexpected and suddenly i had some kind of money which was not loads of money but it was more than a 13 year old would ever expect to receive i would only have access to that money five years later when i turned 18 because in the country it's like locked until you turn to that age"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I would only have access to that money five years later when I turned 18 because in the country it's like locked until you turn to an adult. Yes."
+      }
+    ],
+    "speakername": "Breno Perrucho (Jovens De Negócios)",
+    "ground_truth": "yeah so i always ask myself how would i spend that money because i want to have the responsibility to spend it as something that my father would be proud as it was his hard sweat that brought that money to me and i wouldn't have access to it unless he'd worked hard for it",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yeah so i always ask myself how would i spend that money because i want to have the responsibility to spend it as something that my father would be proud as it was his hard sweat that brought that money to me and i wouldn't have access to it unless he'd worked hard for it"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I wanted to give it significance to it, but I always thought, how will I spend it?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Breno Perrucho (Jovens De Negócios)",
+    "ground_truth": "And then the first answer that came to my mind since I wanted to go to medical school was maybe I'll build a doctor's office so that I can receive the customers and the patients. But six months later, after starting medical school, I dropped it. I just couldn't see the value in it because, well, I wasn't fit for it. I had this one subject in medical school where we would go climb the low-income communities and get in contact with people that did not have access to the private medical system, only the government one. And some of them were so bad and injured and in miserable states of health that those were those final moments of them. And then I brought that negative energy to my home and that impacted my mom, my sister, those around me. And I always thought,",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

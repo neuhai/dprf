@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to talk about housing specifically. I mean, they would need to drop 32% to be as affordable as they were in 2015. You acknowledged rent costs are up as well. How do you help the families who are at the bottom end, who are facing rental increases, who can hardly afford a small place to live, up to the middle ground people who would have been able to afford a house seven years ago, and now they can't. And possibly won't be able to if they stay where they are at a $600,000 average cost of a home here. What do you say to that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I shared that, that just came out a few days ago, that study, really well done, and you guys covered it, and I sent it to all my senior staff, because this is the challenge we face. I mean, essentially,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We don't have the numbers, but we basically went from about $400,000 to about $600,000 for an average house in the metro area, roughly speaking. And obviously, there's areas in our state where it's more expensive than that. That is coupled with higher interest rates on mortgages. So people's buying power is less. Home prices, they've probably stabilized. They've only gone up in the last few months. Maybe they even go down a little bit, but still, effectively, they're going up because your mortgage rate is up if you're getting into a new mortgage. So what we need to do is we need to get some of the onerous requirements that suppress the quantity of housing out of the way to have more housing close to where jobs are. And also, again, not just any housing. We need housing in the threes and the fours, 300s, 400s. That's what we need, right? I mean, there's always going to be demand for people buying million-dollar homes and a few here and there. But what we really need are the 300s and 400s. And then we also need affordable access to rental for people that are an important part of our workforce. We hope they aspire to homeowners. We hope they aspire to homeownership someday. But while you're saving up that down payment, you might be in a rental for a while, and we need to make sure that that's also close to where you live. We all benefit because it also means less traffic on our roads and better air quality if we can pull this off."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Where do we build these $300,000, $400,000 houses and how do we build them?"
+      }
+    ],
+    "speakername": "Jared Polis",
+    "ground_truth": "Yeah. So what it means is, again, two things. It's on transit corridors. So this is areas where we have bus, light rail service to the job centers. And then the other area is kind of within a mile of job centers. So you don't want to go further and further out. You don't want to say you want something affordable. You've got to go out, you know, 10 miles east of Keensburg and you can find something for 300. Fine. But you have an hour commute. You're on the road. It costs you all that money for gas and it leads to more traffic for everybody. So, you know, again, that's happening. We need to change that paradigm. So those more affordable housing options are closer to job centers. And there's multiple job centers across the Denver metro. It's not just downtown Denver. People think, oh, it's downtown Denver. I mean, there's jobs in Thornton. There's commercial jobs in Broomfield. There's commercial jobs, you know, in Denver Tech Center. I mean, it's kind of all these areas where we want to give people the opportunity to live close to their jobs.",
+    "bio": "Jared Schutz Polis is an American politician, entrepreneur, and philanthropist serving as the 43rd governor of Colorado since January 2019. A member of the Democratic Party, he served one term on the Colorado State Board of Education from 2001 to 2007 and five terms as the United States Representative from Colorado's 2nd congressional district from 2009 to 2019. During his time in Congress, he was the only Democratic member of the libertarian conservative Liberty Caucus. He was elected governor of Colorado in 2018, defeating Republican nominee Walker Stapleton. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We don't have the numbers, but we basically went from about $400,000 to about $600,000 for an average house in the metro area, roughly speaking. And obviously, there's areas in our state where it's more expensive than that. That is coupled with higher interest rates on mortgages. So people's buying power is less. Home prices, they've probably stabilized. They've only gone up in the last few months. Maybe they even go down a little bit, but still, effectively, they're going up because your mortgage rate is up if you're getting into a new mortgage. So what we need to do is we need to get some of the onerous requirements that suppress the quantity of housing out of the way to have more housing close to where jobs are. And also, again, not just any housing. We need housing in the threes and the fours, 300s, 400s. That's what we need, right? I mean, there's always going to be demand for people buying million-dollar homes and a few here and there. But what we really need are the 300s and 400s. And then we also need affordable access to rental for people that are an important part of our workforce. We hope they aspire to homeowners. We hope they aspire to homeownership someday. But while you're saving up that down payment, you might be in a rental for a while, and we need to make sure that that's also close to where you live. We all benefit because it also means less traffic on our roads and better air quality if we can pull this off."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Where do we build these $300,000, $400,000 houses and how do we build them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So what it means is, again, two things. It's on transit corridors. So this is areas where we have bus, light rail service to the job centers. And then the other area is kind of within a mile of job centers. So you don't want to go further and further out. You don't want to say you want something affordable. You've got to go out, you know, 10 miles east of Keensburg and you can find something for 300. Fine. But you have an hour commute. You're on the road. It costs you all that money for gas and it leads to more traffic for everybody. So, you know, again, that's happening. We need to change that paradigm. So those more affordable housing options are closer to job centers. And there's multiple job centers across the Denver metro. It's not just downtown Denver. People think, oh, it's downtown Denver. I mean, there's jobs in Thornton. There's commercial jobs in Broomfield. There's commercial jobs, you know, in Denver Tech Center. I mean, it's kind of all these areas where we want to give people the opportunity to live close to their jobs."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So we're talking about that whole corridor. I mean, a lot of people did move to the suburbs in the pandemic that's played out. That's been shown in the rise of rent in the suburbs as well. Can people live outside of the Denver Metro? I mean, we see people wanting to work from home. Is that a solution?"
+      }
+    ],
+    "speakername": "Jared Polis",
+    "ground_truth": "Working from home is a great thing. It's a great option for many people. I mean, like many employers, you know, we have 31,000 people to work for the state. They do, you know, everything from plowing the roads. You can't telecommute that to, you know, answering your questions on taxes. You can telecommute that. So we're going to be reducing our state office space by about a million square feet over the next three years. It's really exciting for me as somebody who comes from the private sector to say, hey, we're no longer going to have that overhead, a million square feet. We'll have about 20 to 30 percent of our workforce that'll be largely telecommuting. I mean, they're coming together for, you know, weekly meetings. But, you know, we're able to save taxpayer money and deploy that for our schools for other purposes rather than just have overhead for the sake of overhead.",
+    "bio": "Jared Schutz Polis is an American politician, entrepreneur, and philanthropist serving as the 43rd governor of Colorado since January 2019. A member of the Democratic Party, he served one term on the Colorado State Board of Education from 2001 to 2007 and five terms as the United States Representative from Colorado's 2nd congressional district from 2009 to 2019. During his time in Congress, he was the only Democratic member of the libertarian conservative Liberty Caucus. He was elected governor of Colorado in 2018, defeating Republican nominee Walker Stapleton. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So what it means is, again, two things. It's on transit corridors. So this is areas where we have bus, light rail service to the job centers. And then the other area is kind of within a mile of job centers. So you don't want to go further and further out. You don't want to say you want something affordable. You've got to go out, you know, 10 miles east of [location] and you can find something for 300. Fine. But you have an hour commute. You're on the road. It costs you all that money for gas and it leads to more traffic for everybody. So, you know, again, that's happening. We need to change that paradigm. So those more affordable housing options are closer to job centers. And there's multiple job centers across the metro area. It's not just downtown. People think, oh, it's downtown. I mean, there's jobs in [location]. There's commercial jobs in [location]. There's commercial jobs, you know, in [location]. I mean, it's kind of all these areas where we want to give people the opportunity to live close to their jobs."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So we're talking about that whole corridor. I mean, a lot of people did move to the suburbs in the pandemic that's played out. That's been shown in the rise of rent in the suburbs as well. Can people live outside of the metro area? I mean, we see people wanting to work from home. Is that a solution?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Working from home is a great thing. It's a great option for many people. I mean, like many employers, you know, we have 31,000 people to work for the state. They do, you know, everything from plowing the roads. You can't telecommute that to, you know, answering your questions on taxes. You can telecommute that. So we're going to be reducing our state office space by about a million square feet over the next three years. It's really exciting for me as somebody who comes from the private sector to say, hey, we're no longer going to have that overhead, a million square feet. We'll have about 20 to 30 percent of our workforce that'll be largely telecommuting. I mean, they're coming together for, you know, weekly meetings. But, you know, we're able to save taxpayer money and deploy that for our schools for other purposes rather than just have overhead for the sake of overhead."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you for pointing that out, that that is a solution. Can you influence, do you have any power to influence other businesses to let employees work from home, if that's a solution?"
+      }
+    ],
+    "speakername": "Jared Polis",
+    "ground_truth": "Very little. I mean, I think that many businesses are doing that. When I say there is some, so for instance, through our Office of Economic Development and International Trade, this is our kind of state promotion offices. We market [state]. By the way, we're doing great. Like every week we're getting new companies. We're putting 200 people, 100 people. I, you know, get to, I can't, there's so many I can't even go to all the announcements and dedications. But we do prioritize companies that have some part of their workforce that allow for location independent. And so they can live in.",
+    "bio": "The speaker is an American politician, entrepreneur, and philanthropist serving as the 43rd governor of a western state since January 2019. A member of the Democratic Party, they served one term on the State Board of Education from 2001 to 2007 and five terms as the United States Representative from the state's 2nd congressional district from 2009 to 2019. During their time in Congress, they were the only Democratic member of the libertarian conservative Liberty Caucus. They were elected governor in 2018, defeating the Republican nominee. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So we're talking about that whole corridor. I mean, a lot of people did move to the suburbs in the pandemic that's played out. That's been shown in the rise of rent in the suburbs as well. Can people live outside of the [metro area]? I mean, we see people wanting to work from home. Is that a solution?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Working from home is a great thing. It's a great option for many people. I mean, like many employers, you know, we have 31,000 people to work for the state. They do, you know, everything from plowing the roads. You can't telecommute that to, you know, answering your questions on taxes. You can telecommute that. So we're going to be reducing our state office space by about a million square feet over the next three years. It's really exciting for me as somebody who comes from the private sector to say, hey, we're no longer going to have that overhead, a million square feet. We'll have about 20 to 30 percent of our workforce that'll be largely telecommuting. I mean, they're coming together for, you know, weekly meetings. But, you know, we're able to save taxpayer money and deploy that for our schools for other purposes rather than just have overhead for the sake of overhead."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you for pointing that out, that that is a solution. Can you influence, do you have any power to influence other businesses to let employees work from home, if that's a solution?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Very little. I mean, I think that many businesses are doing that. When I say there is some, so for instance, through our Office of Economic Development and International Trade, this is our kind of state promotion offices. We market [state]. By the way, we're doing great. Like every week we're getting new companies. We're putting 200 people, 100 people. I, you know, get to, I can't, there's so many I can't even go to all the announcements and dedications. But we do prioritize companies that have some part of their workforce that allow for location independent. And so they can live in."
+      }
+    ],
+    "speakername": "Jared Polis",
+    "ground_truth": "You know, [city1], you can live in [city2] and many companies, 10, 20, 30 percent telecommuting. So we value that in our state. For the worker perspective, it has flexibility. That's a wonderful thing. It also can help.",
+    "bio": "[target] is an American politician, entrepreneur, and philanthropist serving as the 43rd governor of [state] since January 2019. A member of the Democratic Party, he served one term on the [state] State Board of Education from 2001 to 2007 and five terms as the United States Representative from [state]'s 2nd congressional district from 2009 to 2019. During his time in Congress, he was the only Democratic member of the libertarian conservative Liberty Caucus. He was elected governor of [state] in 2018, defeating Republican nominee [opponent]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to take two things from that. Law enforcement. I think it would be very difficult to find a tougher job than putting your life on the line every day. So hiring bonuses, things like that, money is great, but do they have the support they need, the law enforcement agents in our state to want to do that job?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "They can always use more. I've, you know, I've been to too many funerals for law enforcement officers over the last few years. When the family wants, I'm always honored to attend on behalf of the state if they request it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And we need to do more as a society to support those who keep us safe, our law enforcement officers, our firefighters. You're absolutely right. I mean, pay is part of it, and that's a real part of it. And that's why some of these grants we're giving are used for retention bonuses, for signing bonuses. But at the end of the day, it is about more than pay. It's also about really supporting our heroes that protect us in our communities."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do we have, I mean, Democrats in recent years have been blamed for reducing, you know, calling for things like defunding the police. Not to say that you called for that in any way. But is there a feeling that our law enforcement is part of the problem, that they're biased, that they're going after the wrong people at times? Or do you feel like they get the support in the community and are treated as the heroes that they are?"
+      }
+    ],
+    "speakername": "Jared Polis",
+    "ground_truth": "There's a lot of people that work in law enforcement, just like there's a lot of teachers your kids might have at school. There's a lot of firefighters. There's a lot of people in every occupation. Some are going to perform better than others, right? We hope that well-run law enforcement organizations, municipal police departments, sheriff's departments, they work, they train, they promote top performers, and they make sure that for people that need corrective action, they are able to do that. So, I mean, you know, we have us local, fundamentally local in our state. I mean, the state role, we're helping. And our grants are used for retention, for bonuses, for support. We have our own. We increase funding for the state investigation bureau that can assist on many of the more complicated inter-jurisdictional investigations with gangs or multi-county. And especially when serious crimes happen in some of the small counties, they turn to us. We're investing in a new crime lab. So we're doing a lot as a state.",
+    "bio": "The speaker is an American politician, entrepreneur, and philanthropist serving as the 43rd governor of a western state since January 2019. A member of the Democratic Party, they served one term on the state Board of Education from 2001 to 2007 and five terms as the United States Representative from a congressional district from 2009 to 2019. During their time in Congress, they were the only Democratic member of the libertarian conservative Liberty Caucus. They were elected governor in 2018, defeating the Republican nominee. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

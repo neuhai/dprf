@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "See, I've been wanting, I've been, you know, we had this wonderful interview, and I would occasionally say, whatever happened to [target]? It's one of those things, because..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Whatever happened to [target] is my question."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's funny. People said he'll start his own fund. He'll do a hedge fund. I said, no, I've had enough of it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "He wants to do it all on his own. He doesn't need the great financial company, you know, as a cover."
+      }
+    ],
+    "speakername": "Peter Lynch",
+    "ground_truth": "small transmission is one gear overdrive and that's it yes so you can't sort of run a fund and i had a lovely wife with three children i wanted to do other things so i'm now work very part-time with younger analysts so it's been my father died at 46 so it was",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's funny. People said he'll start his own fund. He'll do a hedge fund. I said, no, I've had enough of it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "He wants to do it all on his own. He doesn't need the great company, you know, as a cover."
+      },
+      {
+        "speaker": "[target]",
+        "text": "small transmission is one gear overdrive and that's it yes so you can't sort of run a fund and i had a lovely wife and three children i wanted to do other things so i'm now work very part-time with younger analysts so it's been my father died at 46 so it was"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the reason 46 or was she"
+      }
+    ],
+    "speakername": "Peter Lynch",
+    "ground_truth": "sticks in your mind he took sick when he was 43 died at 46. maybe i was gonna live to 146 but i said i love the job love the company but i worked every saturday for 11 years i just want to spend more time my wife and family",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, that's right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "family with you because you know in search of understanding the company correct yeah and and and so what have you learned since then i mean do you look back and say oh i stopped too early b"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I stopped too late."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's lucky it was a perfect time it was an absolutely perfect time to be able to see all my three children grow up and now they're all married and spend time my grandchildren you know it's fabulous tell me about your passions"
+      }
+    ],
+    "speakername": "Peter Lynch",
+    "ground_truth": "Well, I think my wife and I, her father was a high school principal, her principal. She grew up in a rural area.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "family with you because you know in search of understanding the company correct yeah and and and so what have you learned since then i mean do you look back and say oh i stopped too early b"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I stopped too late."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's lucky it was a perfect time it was an absolutely perfect time to be able to see all my three children grow up and now they're all married and spend time my grandchildren you know it's fabulous tell me about your passions"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think my wife and I, her father was a high school principal, her principal. She grew up in a rural area."
+      }
+    ],
+    "speakername": "Peter Lynch",
+    "ground_truth": "I went to public schools, and we have the best colleges and universities in the country. No one would doubt that.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I went to public schools, and we have the best colleges and universities in the world. No one would doubt that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But K through 12 were not that hot."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "know."
+      }
+    ],
+    "speakername": "Peter Lynch",
+    "ground_truth": "And somebody born in this country today is less likely to graduate from high school than their parents. That's remarkable.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

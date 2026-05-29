@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you Peter glad to be here"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Segment one reading Law quote we seek a return to the oldest and most common sensical interpretive principle in their full context words mean what they conveyed to reasonable people at the time they were written close quote Mr Justice in this 2 36th year of our Republic why should it be necessary to devote more than 400 pages to a common sensical principle"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's a very good question well the reason uh as explained in in the first part of the book is that uh We've sort of gone off the rails that uh nowadays uh uh especially with the regard to the Constitution uh the accepted uh View and The View stated by my court uh repeatedly is that the words don't necessarily mean what they were understood to mean at the time but can be given new meaning it's up to the court to say what they what they mean today they mean today what they ought to mean today and it's up to the court to uh to decide that that's new and but you know it it it all comes under the uh the title The Living Constitution living"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "We'll get to that phrase but again and again you you make that clear again and again in reading Law it's like picking up cosmic background radiation from some distant cataclysmic event a couple quotations since the mid 20th century there's been a breakdown in the transmission of our heritage again over the past 50 years especially we've seen the Judiciary take control of territory that ought to be settled legislatively once again some commentators have claimed since the mid 20th century that all language is ambiguous 50 years ago something terrible happened what was it what went wrong why did it happened then"
+      }
+    ],
+    "speakername": "Antonin Scalia",
+    "ground_truth": "Wow that we don't try to explain why it why it happened then um it it did happen then uh the time that that uh philosophy took over is about the time of the Court uh there had been you know hints of it earlier I suppose but it was never the accepted philosophy of of the Judiciary um the living Constitution notion the notion that words are all words are ambiguous it's really up to the court to give them meaning is much more attractive to academics than it is to judges uh and it's really the academy that that brought all of this into the prominence and into the majority status that it now now enjoys",
+    "bio": "The target (March 11, 1936 - February 13, 2016) was an Associate Justice of the federal high court from 1986 until his death in 2016. He was described as the intellectual anchor for the originalist and textualist position in the Court's conservative wing. For catalyzing an originalist and textualist movement in national law, he has been described as one of the most influential jurists of the twentieth century. The target was posthumously awarded a prestigious national honor in 2018. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's a very good question well the reason uh as explained in in the first part of the book is that uh We've sort of gone off the rails that uh nowadays uh uh especially with regard to the Constitution uh the accepted uh View and The View stated by my court uh repeatedly is that the words don't necessarily mean what they were understood to mean at the time but can be given new meaning it's up to the court to say what they what they mean today they mean today what they ought to mean today and it's up to the court to uh to decide that that's new and but you know it it it all comes under the uh the title The Living Constitution living"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "We'll get to that phrase but again and again you you make that clear again and again in reading Law it's like picking up cosmic background radiation from some distant cataclysmic event a couple quotations since the mid 20th century there's been a breakdown in the transmission of our heritage again over the past 50 years especially we've seen the Judiciary take control of territory that ought to be settled legislatively once again some commentators have claimed since the mid 20th century that all language is ambiguous 50 years ago something terrible happened what was it what went wrong why did it happened then"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Wow that we don't try to explain why it why it happened then um it it did happen then uh the time that that uh philosophy took over is about the time of the high court uh there had been you know hints of it earlier I suppose but it was never the accepted philosophy of of the Judiciary um the living Constitution notion the notion that words are all words are ambiguous it's really up to the court to give them meaning is much more attractive to academics than it is to judges uh and it's really the academy that that brought all of this into the prominence and into the majority status that it now now enjoys"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "So the court is a lagging the court lag the academy"
+      }
+    ],
+    "speakername": "Antonin Scalia",
+    "ground_truth": "Yeah I think probably I think probably I think that probably there were law professors that that were espousing these views before uh before the courts adopted them",
+    "bio": "[target] (March 11, 1936 – February 13, 2016) was an Associate Justice of the high court from 1986 until his death in 2016. He was described as the intellectual anchor for the originalist and textualist position in the Court's conservative wing. For catalyzing an originalist and textualist movement in national law, he has been described as one of the most influential jurists of the twentieth century. [target] was posthumously awarded a prestigious national medal in 2018. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Wow that we don't try to explain why it why it happened then um it it did happen then uh the time that that uh philosophy took over is about the time of the judicial reforms uh there had been you know hints of it earlier I suppose but it was never the accepted philosophy of of the Judiciary um the living Constitution notion the notion that words are all words are ambiguous it's really up to the court to give them meaning is much more attractive to academics than it is to judges uh and it's really the academy that that brought all of this into the prominence and into the majority status that it now now enjoys"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "So the court is a lagging the court lag the academy"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah I think probably I think probably I think that probably there were law professors that that were espousing these views before uh before the courts adopted them"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "All right um reading Law once again the purpose of vist did I pronounce that one correctly"
+      }
+    ],
+    "speakername": "Antonin Scalia",
+    "ground_truth": "Purpose of vist purpose of vist all right the purpose of vist you have to have some word for that you know I made it up",
+    "bio": "The speaker (March 11, 1936 – February 13, 2016) was an Associate Justice of the nation's highest court from 1986 until his death in 2016. He was described as the intellectual anchor for the originalist and textualist position in the Court's conservative wing. For catalyzing an originalist and textualist movement in national law, he has been described as one of the most influential jurists of the twentieth century. The speaker was posthumously awarded a prestigious national honor in 2018. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah I think probably I think probably I think that probably there were law professors that that were espousing these views before uh before the courts adopted them"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "All right um reading Law once again the purpose of vist did I pronounce that one correctly"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Purpose of vist purpose of vist all right the purpose of vist you have to have some word for that you know I made it up"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "The purpose of vist deres the meaning of text from purpose and not purpose from the meaning of the text that's related to The Living Constitution or that's distinct"
+      }
+    ],
+    "speakername": "Antonin Scalia",
+    "ground_truth": "That's uh that's distinct look there there there are two things that the book urges lawyers to be and judges to be number one is textualists okay uh the point you just made uh is a point uh urged by someone who is not at all a textualist he doesn't want to be bound by the text at all and uh he just looks at what what was the purpose of this text and once he figures out you know any purpose can be uh identified at an infinite number of levels the top of which is uh you know do good and avoid Evil And depending on what level of generality you pick you can make a very narrow statute into a very broad statute because the broad purpose that it's seeks is this and therefore even though the text does not specifically address that particular question the question ought to be answered that way because of this text that's a person who is not a textualist he's a purpos aist",
+    "bio": "The subject (March 11, 1936 - February 13, 2016) was an Associate Justice of the [national court] from 1986 until his death in 2016. He was described as the intellectual anchor for the originalist and textualist position in the Court's conservative wing. For catalyzing an originalist and textualist movement in national law, he has been described as one of the most influential jurists of the twentieth century. The subject was posthumously awarded the [national honor] in 2018. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "Interviewer",
+        "text": "All right um reading Law once again the purpose of vist did I pronounce that one correctly"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Purpose of vist purpose of vist all right the purpose of vist you have to have some word for that you know I made it up"
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "The purpose of vist deres the meaning of text from purpose and not purpose from the meaning of the text that's related to The Living Constitution or that's distinct"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's uh that's distinct look there there there are two things that the book urges lawyers to be and judges to be number one is textualists okay uh the point you just made uh is a point uh urged by someone who is not at all a textualist he doesn't want to be bound by the text at all and uh he just looks at what what was the purpose of this text and once he figures out you know any purpose can be uh identified at an infinite number of levels the top of which is uh you know do good and avoid Evil And depending on what level of generality you pick you can make a very narrow statute into a very broad statute because the broad purpose that it's seeks is this and therefore even though the text does not specifically address that particular question the question ought to be answered that way because of this text that's a person who is not a textualist he's a purpos aist"
+      }
+    ],
+    "speakername": "Antonin Scalia",
+    "ground_truth": "Even if you are a textualist though and you say yes we're Bound by the text you can give the text the meaning it bore at the time or you can say and indeed many of many of the living constitutionalists they say we are all textualists now",
+    "bio": "The subject (March 11, 1936 - February 13, 2016) was an Associate Justice of the [National High Court] from 1986 until his death in 2016. He was described as the intellectual anchor for the originalist and textualist position in the Court's conservative wing. For catalyzing an originalist and textualist movement in national law, he has been described as one of the most influential jurists of the twentieth century. The subject was posthumously awarded the [National Honor] in 2018. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

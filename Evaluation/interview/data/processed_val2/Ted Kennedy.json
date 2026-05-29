@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Very, very well. I'm delighted to be back in your program."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's lovely to have you here, hands across [state]. You were involved this weekend, and you had a lot of things to say about The Hungry. The [government building] says that the poor don't know about the programs, and yet you say there just aren't enough. Is that true?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the point I was making is the fact that those that are really ignorant about hunger, not only in [state] but across the country, are those, I think, probably within the administration who fail to recognize the depth of the problem that we're facing, not only on hunger but also on homelessness. And we have an opportunity to do something about it. I was inspired by the people in [state] at the [public space]. And I think all Americans were inspired by the fact of close to 7 million Americans were sufficiently caring about the 20 million that are hungry to really take some time and to indicate that they do care. It really shows that this country has a conscience. And I think that that's very encouraging. And the real question now is what we're going to do about it. This was inspirational on Sunday. But the point now is, where do we go from here? And I think we have some important opportunities to try and relieve the problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "If we increase the programs, do we also increase the opportunity for misuse? And those that are not aware of the depth of hunger, isn't that what they fall back on?"
+      }
+    ],
+    "speakername": "Ted Kennedy",
+    "ground_truth": "misuse uh well the uh the studies that have been done by the general accounting office which is really an arm of the congress but it's basically nonpartisan it shows that there's about an eight percent mistaken level but about half of those mistakes are people that are worthy of the programs that are not receiving it that's considered a failure and about half of that are those that are getting too much so it's in terms of it doesn't even compare for example defense contracting",
+    "bio": "A prominent American politician (February 22, 1932 – August 25, 2009) who served in the [legislative body] from [state] for almost 47 years, from 1962 until his death in 2009. A member of the Democratic Party, he was the second most senior member of the [legislative body] when he died and is the third-longest-continuously-serving senator in United States history. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the point I was making is the fact that those that are really ignorant about hunger, not only in [state] but across the country, are those, I think, probably within the administration who fail to recognize the depth of the problem that we're facing, not only on hunger but also on homelessness. And we have an opportunity to do something about it. I was inspired by the people in [state] at the public park. And I think all Americans were inspired by the fact of close to 7 million Americans were sufficiently caring about the 20 million that are hungry to really take some time and to indicate that they do care. It really shows that this country has a conscience. And I think that that's very encouraging. And the real question now is what we're going to do about it. This was inspirational on Sunday. But the point now is, where do we go from here? And I think we have some important opportunities to try and relieve the problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "If we increase the programs, do we also increase the opportunity for misuse? And those that are not aware of the depth of hunger, isn't that what they fall back on?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "misuse uh well the uh the studies that have been done by the general accounting office which is really an arm of the congress but it's basically nonpartisan it shows that there's about an eight percent mistaken level but about half of those mistakes are people that are worthy of the programs that are not receiving it that's considered a failure and about half of that are those that are getting too much so it's in terms of it doesn't even compare for example defense contracting"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Oh."
+      }
+    ],
+    "speakername": "Ted Kennedy",
+    "ground_truth": "And the question is, in what we are basically trying to do, legislation that I've introduced with Representative [name], it will cost a billion dollars a year, but it will, over a five-year period, effectively reduce the problem of hunger in America. You know, hunger is something that we know how to deal with. There are many problems that we're facing in the country that we have different ways of trying to approach. But hunger, we know how to feed people, we know how to grow. And a billion dollars out of an $850 billion budget seems to me to be something we can't afford not to do.",
+    "bio": "The subject (February 22, 1932 – August 25, 2009) was an American politician who served in the national Senate from [state] for almost 47 years, from 1962 until his death in 2009. A member of the Democratic Party, he was the second most senior member of the Senate when he died and is the third-longest-continuously-serving senator in United States history. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "misuse uh well the uh the studies that have been done by the general accounting office which is really an arm of the congress but it's basically nonpartisan it shows that there's about an eight percent mistaken level but about half of those mistakes are people that are worthy of the programs that are not receiving it that's considered a failure and about half of that are those that are getting too much so it's in terms of it doesn't even compare for example defense contracting"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Oh."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And the question is, in what we are basically trying to do, legislation that I've introduced with Representative [name], it will cost a billion dollars a year, but it will, over a five-year period, effectively reduce the problem of hunger in our country. You know, hunger is something that we know how to deal with. There are many problems that we're facing in the country that we have different ways of trying to approach. But hunger, we know how to feed people, we know how to grow. And a billion dollars out of an $850 billion budget seems to me to be something we can't afford not to do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "interesting senator you didn't grow up hungry i didn't grow up hungry i think until you put yourself in a position where you really see the the gnawings of hunger you don't understand it with your own children you've opened their eyes with taking [name] to [region] with taking [name] to [region] do you do that because they didn't grow up knowing hunger just as you didn't i mean putting them in that setting does that make them more compassionate"
+      }
+    ],
+    "speakername": "Ted Kennedy",
+    "ground_truth": "Well, first of all, they care about the problem, and I think it's important that we become exposed to it. I find, as someone involved in public life, that we spend a good deal of time on the floor of the legislative chamber and committees, but I find one of the factors that continues to inspire me is to be in touch with people who, first of all, are doing something about it. They're the real heroes, and those people working for the voluntary agencies here in our own state and across the country, they're so-called nameless people, but they're doing something for others, and also to be exposed to the problem and see proud individuals who want to provide for themselves and for their families reduced to this kind of a situation. The thing that you're constantly inspired by is that they don't want it. They want to be able to provide. Many of them have been able to provide for their families and now caught into this new situation.",
+    "bio": "The subject (born February 22, 1932 - died August 25, 2009) was an American politician who served as a legislator from a northeastern state for almost 47 years, from 1962 until his death in 2009. A member of a major political party, he was the second most senior member of the legislative body when he died and is the third-longest-continuously-serving legislator in the country's history. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "interesting senator you didn't grow up hungry i didn't grow up hungry i think until you put yourself in a position where you really see the the gnawings of hunger you don't understand it with your own children you've opened their eyes with taking [name] to [region] with taking [name] to [region] do you do that because they didn't grow up knowing hunger just as you didn't i mean putting them in that setting does that make them more compassionate"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, they care about the problem, and I think it's important that we become exposed to it. I find, as someone involved in public life, that we spend a good deal of time on the floor of the legislative chamber and committees, but I find one of the factors that continues to inspire me is to be in touch with people who, first of all, are doing something about it. They're the real heroes, and those people working for the voluntary agencies here in our own state and across the country, they're so-called nameless people, but they're doing something for others, and also to be exposed to the problem and see proud individuals who want to provide for themselves and for their families reduced to this kind of a situation. The thing that you're constantly inspired by is that they don't want it. They want to be able to provide. Many of them have been able to provide for their families and now caught into this new situation."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Great deal of pride among the hungry. Your kids, how are they faring? [name]'s the oldest, right? And then [name] and then [name]. Let's focus on [name]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "little change. Is that not right? Am I not right? Yeah, it's [name], [name] and [name]."
+      }
+    ],
+    "speakername": "Ted Kennedy",
+    "ground_truth": "I don't know how you keep everyone's names straight. I'm glad you keep them straight. Don't ask me about all the other 30 nieces and nephews, in what order they come. You couldn't do it? I don't think so. You wouldn't pass that test, huh? Hopefully we'd run out of time before I'm really challenged by it.",
+    "bio": "The subject (February 22, 1932 – August 25, 2009) was an American politician who served in the national legislative body from [state] for almost 47 years, from 1962 until his death in 2009. A member of a major political party, he was the second most senior member of the legislative body when he died and is the third-longest-continuously-serving legislator in the nation's history. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Great deal of pride among the hungry. Your kids, how are they faring? [target's child] is the oldest, right? And then [target's child] and then [target's child]. Let's focus on [target's child]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "little change. Is that not right? Am I not right? Yeah, it's [target's child], [target's child] and [target's child]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know how you keep everyone's names straight. I'm glad you keep them straight. Don't ask me about all the other 30 nieces and nephews, in what order they come. You couldn't do it? I don't think so. You wouldn't pass that test, huh? Hopefully we'd run out of time before I'm really challenged by it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um, how's [target's child] doing?"
+      }
+    ],
+    "speakername": "Ted Kennedy",
+    "ground_truth": "She is, well, she's been working in [major city] for a television station for the last three years and has enjoyed it working in the production. One of the things that has been very, made me proud is that she's done so well in that particular assignment. The other thing that kind of troubles me is I don't see her as much as I can. But I hope this summer she's hopefully moving up to.",
+    "bio": "The subject (February 22, 1932 – August 25, 2009) was an American politician who served in the national legislative body from a northeastern state for almost 47 years, from 1962 until his death in 2009. A member of the Democratic Party, he was the second most senior member of the legislative body when he died and is the third-longest-continuously-serving legislator in national history. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "that's it oh for god look at that look at that look at that pandering works"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Gendry works, Gendry works."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "See you next time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "a regular listener and I'm a regular pander."
+      }
+    ],
+    "speakername": "Sherrod Brown",
+    "ground_truth": "I'm now joined by a power couple. The senior Senator from [state], [target] and Pulitzer Prize winning writer, [name], her first novel, The Daughters of [generic town] is out June 9th. Yes. Welcome to you both. Thank you, John. It's so good to see your face. No, you're not holding up the book.",
+    "bio": "[target] (born November 9, 1952) is an American politician serving as the senior United States Senator from [state], a seat he was first elected to in 2006. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "See you next time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "a regular listener and I'm a regular pander."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm now joined by a power couple. The senior Senator from [state], [target] and Pulitzer Prize winning writer, [name], her first novel, The Daughters of [location] Town is out June 9th. Yes. Welcome to you both. Thank you, John. It's so good to see your face. No, you're not holding up the book."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to hold it up, I'm not allowed to hold it up."
+      }
+    ],
+    "speakername": "Sherrod Brown",
+    "ground_truth": "Well, you know what? The good news is it's a podcast. How is quarantine going? How are you doing together?",
+    "bio": "[target] (born November 9, 1952) is an American politician serving as the senior United States Senator from [state], a seat he was first elected to in 2006. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So Senator, right now the Senate's keeping a pretty normal schedule. You're going in and out of session. That means you have to go back and forth to the capital. Do you think that there's a safer way to proceed?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, first of all, the Senate leader is bringing us to the capital every week. I have no staff in the building. I'm not asking staff to come. But because we're in session, police officers and food service people and custodians are there. They don't come to work in black SUVs like the Senate leader. They get to work how they get to work, and they're exposing, potentially exposing themselves to that illness. At the same time, violating local public health orders, I might add. And at the same time, the Senate leader's not doing anything of real substance to deal with the coronavirus. He said there's no urgency."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "uh the for a while he said let the cities and states go bankrupt but um clearly we've got it we've got a lot to do and we ought to be doing it i think we can do it remote we're doing our hearings remote um in banking committee banking and housing at your insistence and my insistence your initiation and senator crapo the chairman republican chairman has been good about it very cooperative we've done it"
+      }
+    ],
+    "speakername": "Sherrod Brown",
+    "ground_truth": "We've done it well to tomorrow, we're going to have the Chairman of the Federal Reserve and the Secretary of the Treasury in and they're going to be remote, we're going to be remote, we can do that, we can do everything remote. But the most important thing is not about our going back or not, the most important thing is the Senate leader actually addressed these awful public health, housing and economic problems.",
+    "bio": "The target is an American politician serving as the senior United States Senator from a midwestern state, a seat first elected to in 2006. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm now joined by a power couple. The senior Senator from [State], [target] and Pulitzer Prize winning writer, [Person2], her first novel, The Daughters of [Generic Town] is out June 9th. Yes. Welcome to you both. Thank you, John. It's so good to see your face. No, you're not holding up the book."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I want to hold it up, I'm not allowed to hold it up."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, you know what? The good news is it's a podcast. How is quarantine going? How are you doing together?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We'll be right back."
+      }
+    ],
+    "speakername": "Sherrod Brown",
+    "ground_truth": "No, I mean, you can, you know, we have, we have a good marriage and love each other and two great dogs and we have paying jobs and we can work at home and, you know, we're pretty lucky. And I just know that, you know, that the mental health issues and the financial issues and the, you know, the millions of people that go to work every day and",
+    "bio": "[target] (born [Date], 1952) is an American politician serving as the senior United States Senator from [State], a seat he was first elected to in 2006. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We plan to do that, by the way."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So Senator, right now the Senate's keeping a pretty normal schedule. You're going in and out of session. That means you have to go back and forth to the capital. Do you think that there's a safer way to proceed?"
+      }
+    ],
+    "speakername": "Sherrod Brown",
+    "ground_truth": "Yeah, first of all, [target] is bringing us to the capital every week. I have no staff in the building. I'm not asking staff to come. But because we're in session, police officers and food service people and custodians are there. They don't come to work in black SUVs like [target]. They get to work how they get to work, and they're exposing, potentially exposing themselves to that illness. At the same time, violating local public health orders, I might add. And at the same time, [target]'s not doing anything of real substance to deal with the coronavirus. He said there's no urgency.",
+    "bio": "The target (born November 9, 1952) is an American politician serving as the senior United States Senator from a midwestern state, a seat they were first elected to in 2006. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's how it works."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "No, truly, I don't think I've ever met someone who, like, is as, like, sweet and warm and, like, just welcoming to everybody. Well, thank you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Gosh, I didn't deserve that, but thank you. No, it's true."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you have nightmares? I feel like you can't possibly."
+      }
+    ],
+    "speakername": "Doug Jones",
+    "ground_truth": "I haven't had nightmares, like, you know, scary things since I was a kid. Really? But I can tell you in detail what that was. Yeah. Oh. Do you want to hear right now? Yes.",
+    "bio": "The individual is an American attorney, former prosecutor and politician serving as a junior United States Senator from a southern state since 2018. A member of a major political party, they served as a United States Attorney for a regional district from 1997 to 2001. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Gosh, I didn't deserve that, but thank you. No, it's true."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you have nightmares? I feel like you can't possibly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I haven't had nightmares, like, you know, scary things since I was a kid. Really? But I can tell you in detail what that was. Yeah. Oh. Do you want to hear right now? Yes."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Oh, still right now? They were that traumatic?"
+      }
+    ],
+    "speakername": "Doug Jones",
+    "ground_truth": "traumatic well for some reason okay when i was a kid uh i was one of four of the youngest of four boys and we all had to rotate on washing dishes and i absolutely hated it right but mom was like did your night so i would be like i didn't stand at the sink for i would took me hours because i was like i don't want to do that so i this recurring dream i had it was more than once was this woman who did not look like my mom at all she had like blonde 50s hair and like heavily made up with bright red lipstick and bright red long fingernails and so i would be in in my dream walking around a corner and there she would be this woman dipping her hands in and out of dishwater going making that noise i have no idea why but i wake up going ah okay what what what right so um sorry about that sorry about that but you know what i'm saying so so she kept haunting me in my dreams this woman and i don't know what the threat was the threat",
+    "bio": "The subject is an American attorney, former prosecutor and politician serving as a junior United States Senator from a southern state since 2018. A member of the Democratic Party, they served as a United States Attorney for a regional district from 1997 to 2001. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I haven't had nightmares, like, you know, scary things since I was a kid. Really? But I can tell you in detail what that was. Yeah. Oh. Do you want to hear right now? Yes."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Oh, still right now? They were that traumatic?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "traumatic well for some reason okay when i was a kid uh i was one of four of the youngest of four boys and we all had to rotate on washing dishes and i absolutely hated it right but mom was like did your night so i would be like i didn't stand at the sink for i would took me hours because i was like i don't want to do that so i this recurring dream i had it was more than once was this woman who did not look like my mom at all she had like blonde 50s hair and like heavily made up with bright red lipstick and bright red long fingernails and so i would be in in my dream walking around a corner and there she would be this woman dipping her hands in and out of dishwater going making that noise i have no idea why but i wake up going ah okay what what what right so um sorry about that sorry about that but you know what i'm saying so so she kept haunting me in my dreams this woman and i don't know what the threat was the threat"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So."
+      }
+    ],
+    "speakername": "Doug Jones",
+    "ground_truth": "I don't know. I think the threat of getting pruney fingers from doing the dishes. Pruney fingers, maybe. And also the not talking. She wasn't saying. That's what scares me is when.",
+    "bio": "A former attorney, prosecutor and politician serving as a junior United States Senator from a southern state since 2018. A member of a major political party, they served as a United States Attorney for a regional district from 1997 to 2001. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And me, them not understanding me either when I'm using words. So I was like, what are you doing? So that's like, we're not meeting at the same place. You know what I'm saying? Yeah. And that's kind of a little bit frightening, you know? Because the unpredictability of it. What does she really want? Why is she here? And what are those fingernails gonna, are those gonna be in my eyeballs soon? I don't know."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "It's funny considering that your career you've played a lot of"
+      },
+      {
+        "speaker": "[target]",
+        "text": "A lot of non-speaking characters. Exactly. Sometimes."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "where communication is the central focus of the film."
+      }
+    ],
+    "speakername": "Doug Jones",
+    "ground_truth": "And you can communicate non-verbally. I believe we're doing it right now actually, with our posture and our gestures and our facial expressions, we're doing a lot of communicating right now.",
+    "bio": "The subject is an American attorney, former prosecutor and politician serving as a junior United States Senator from a southern state since 2018. A member of a major political party, they served as a United States Attorney for a regional district from 1997 to 2001. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh oh what happened"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "pull the mic away a little bit."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I blasted it too much."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "it's catching too much of your breath uh it's like a front facing so you don't really have"
+      }
+    ],
+    "speakername": "Doug Jones",
+    "ground_truth": "Oh, so it's a different mic than ours. It's actually a better mic. I moved it in to go right around there. That is my tendency as well. It's totally fine. It's just it's a little sound and clack. Is that the better rate? Yeah.",
+    "bio": "The subject is an American attorney, former prosecutor and politician serving as a junior United States Senator from a southern state since 2018. A member of a major political party, they served as a United States Attorney for a regional district from 1997 to 2001. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

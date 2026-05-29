@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Joe, I think it's the first time I've heard a number around it, but in our conversations with Secretary and officials, who are the two people really negotiating this, we had been told that they were very close, and I guess that's the 90 percent, but then they had walked back. So you're probably right. Probably we were very close, and they'd walked back some of the structural changes, probably on the subsidies side and probably on the tech transfer side, both of which are really important to actually having a deal that makes sense for us. So look, I think we are in a situation where at a minimum we're going to jumpstart the talks, thanks to this meeting with both presidents. That's a good thing. We need to be back at the table. We really haven't had serious negotiations for almost six weeks now. And second, I do think there's a way to move forward on this. So I think it's a positive statement, but we were probably 90 percent there, and then they walked back last time. Hopefully they'll be willing to come back to the table with a more genuine effort."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So, Senator, should we hope for an agreement to keep talking or should we hope for something actually substantial to be signed, you know, where we're ready to go right now? Do you really think it's possible that we do anything more than just sort of delay more tariffs, maybe even take off some of the ones we have now, but really still just agree to talk for the next six months or so? Do you think it's possible to actually arrive at a deal where some of these issues are solved?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think so. I was asked to come to the executive building to talk policy with them a week or so ago, which I did. I'll be there tomorrow again, talking about tax reform, regulation reform and relief, talk about how to deal with trade, how to get more exports, but also be tougher on fun for imports. So I'm talking to them. I'm helping them in terms of providing names for people at jobs like my old ones. Trade Representative and Budget Management were two jobs I had in previous administrations where they don't have a candidate yet. So, no, we're working together. I want them to be successful and I want our country to be successful. And I think there's an opportunity here on a number of these issues to kind of break through some of the partisan gridlock."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, let's talk about opportunity for you. Is there any chance at a high level appointment in the administration? Are you vying for that? No."
+      }
+    ],
+    "speakername": "Rob Portman",
+    "ground_truth": "No, I have no interest. And it's probably mutual. The feeling's probably mutual. But, no, I just got reelected. I'm excited about representing my state. I was able to get a lot done in my first term on a bipartisan basis. And even in the lame duck session, which just ended a few days ago, we were able to get a number of things done, including funding for the riverfront here and some issues that are national issues, like the national parks issue or funding for drug treatment and recovery. So that's what I want to do, is to focus on being a legislator who has the ability to reach across the aisle and get things done.",
+    "bio": "Born December 19, 1955, the speaker is an American politician, currently serving as the junior United States Senator from a midwestern state. A member of their party, they previously served as a U.S. Representative, Trade Representative, and Director of the Office of Management and Budget. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think so. I was asked to come to the administrative building to talk policy with them a week or so ago, which I did. I'll be there tomorrow again, talking about tax reform, regulation reform and relief, talk about how to deal with trade, how to get more exports, but also be tougher on fun for imports. So I'm talking to them. I'm helping them in terms of providing names for people at jobs like my old ones. Trade Representative and Budget Management were two jobs I had in previous administrations where they don't have a candidate yet. So, no, we're working together. I want them to be successful and I want our country to be successful. And I think there's an opportunity here on a number of these issues to kind of break through some of the partisan gridlock."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, let's talk about opportunity for you. Is there any chance at a high level appointment in the administration? Are you vying for that? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I have no interest. And it's probably mutual. The feeling's probably mutual. But, no, I just got reelected. I'm excited about representing my state. I was able to get a lot done in my first term on a bipartisan basis. And even in the lame duck session, which just ended a few days ago, we were able to get a number of things done, including funding for the riverfront here and some issues that are national issues, like the national parks issue or funding for drug treatment and recovery. So that's what I want to do, is to focus on being a legislator who has the ability to reach across the aisle and get things done."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You're more than a legislator. I mean, you're being humble. You're a senator. Senators are, as you know, in a position much more than just a congressman, if I can say that, a congressman or a woman. You can lead as we go. You seriously, in the conversations with the administration, is he going to allow you to lead? Or are there still hard feelings about the fact that you did not endorse?"
+      }
+    ],
+    "speakername": "Rob Portman",
+    "ground_truth": "I think he wants to be successful and that means he needs to work with all of us and vice versa. You know, I'm very supportive of the issues that he cares about on the economy, economic growth. This is an issue that affects our state in such huge ways. We have this headwind from the capital, you know, we can only do so much here in our state. Bad tax policy, bad regulatory policy, you know, lack of skills training by the federal government, the way they do it doesn't work. Exports is good for our state, so those are things that I can help on.",
+    "bio": "The speaker (born December 19, 1955) is an American politician, currently serving as the junior United States Senator from a midwestern state. A member of his party, he previously served as a U.S. Representative, the Trade Representative, and the Director of the Office of Management and Budget (OMB). The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I have no interest. And it's probably mutual. The feeling's probably mutual. But, no, I just got reelected. I'm excited about representing [state]. I was able to get a lot done in my first term on a bipartisan basis. And even in the lame duck session, which just ended a few days ago, we were able to get a number of things done, including funding for the riverfront here and some issues that are national issues, like the national parks issue or funding for drug treatment and recovery. So that's what I want to do, is to focus on being a legislator who has the ability to reach across the aisle and get things done."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You're more than a legislator. I mean, you're being humble. You're a senator. Senators are, as you know, in a position much more than just a congressman, if I can say that, a congressman or a woman. You can lead as we go. You seriously, in the conversations with Mr. Trump, is he going to allow you to lead? Or are there still hard feelings about the fact that you did not endorse?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think he wants to be successful and that means he needs to work with all of us and vice versa. You know, I'm very supportive of the issues that he cares about on the economy, economic growth. This is an issue that affects our state in such huge ways. We have this headwind from [capital], you know, we can only do so much here in [state]. Bad tax policy, bad regulatory policy, you know, lack of skills training by the federal government, the way they do it doesn't work. Exports is good for [state], so those are things that I can help on."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Did you have a frank conversation to get that out of the way, the lack of endorsement? Did you get that out of the way?"
+      }
+    ],
+    "speakername": "Rob Portman",
+    "ground_truth": "Yeah, we've talked, he called me after the election, couldn't have been more gracious. He won [state] pretty handily, he won by 8.5 points, I won by about 21.5 points, so I ran a little ahead of him, and we probably helped each other.",
+    "bio": "Born December 19, 1955, the speaker is an American politician, currently serving as the junior United States Senator from [state]. A member of their party, they previously served as a U.S. Representative, the 14th United States Trade Representative, and the 35th Director of a federal budget office. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think he wants to be successful and that means he needs to work with all of us and vice versa. You know, I'm very supportive of the issues that he cares about on the economy, economic growth. This is an issue that affects our state in such huge ways. We have this headwind from the capital, you know, we can only do so much here in our state. Bad tax policy, bad regulatory policy, you know, lack of skills training by the federal government, the way they do it doesn't work. Exports is good for our state, so those are things that I can help on."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Did you have a frank conversation to get that out of the way, the lack of endorsement? Did you get that out of the way?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we've talked, he called me after the election, couldn't have been more gracious. He won our state pretty handily, he won by 8.5 points, I won by about 21.5 points, so I ran a little ahead of him, and we probably helped each other."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So it's bygones being bygones, let's work together? Let's work together. Okay. And there is an apparent..."
+      }
+    ],
+    "speakername": "Rob Portman",
+    "ground_truth": "um split of sorts in that is getting more and more vocal between the state republican party and the election campaign people themselves after all you have an advancement of the campaign people to the national level while the state republican party by some was characterized as working against the candidate will that be something that that could cost us here in our state in other words of an infight of sorts",
+    "bio": "The speaker (born December 19, 1955) is an American politician, currently serving as the junior United States Senator from their state. A member of their party, they previously served as a U.S. Representative, the 14th United States Trade Representative, and the 35th Director of the Office of Management and Budget (OMB). The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we've talked, he called me after the election, couldn't have been more gracious. He won the state pretty handily, he won by 8.5 points, I won by about 21.5 points, so I ran a little ahead of him, and we probably helped each other."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So it's bygones being bygones, let's work together? Let's work together. Okay. And there is an apparent..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "um split of sorts in that is getting more and more vocal between the state republican party and the election campaign people themselves after all you have an advancement of the people to the national level while the state republican party by some was characterized as working against the candidate will that be something that that could uh cost us here in the state in other words of an infight of sorts"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I hope not. I mean, the state Republican Party was actually very helpful to the campaign. They housed the staff. They provided the data. We worked with both in terms of get-out-to-vote efforts. As you know, we had a very extensive grassroots effort in our campaign. We had 2,000 volunteers, contacted over 6 million people, and so we all worked together. So I hope that won't be a divisive situation, but rather one where we figure out how to work together. And look, the country's in trouble. We need a lot of things to get done. We have to kind of let bygones be bygones and figure out how to move forward together. And I think that's true for Republicans and Democrats alike."
+      }
+    ],
+    "speakername": "Rob Portman",
+    "ground_truth": "you know we've got some things we have to do if we don't deal with the budget issues obviously we go into shutdown again which is totally unacceptable so we've got to figure that out",
+    "bio": "Born December 19, 1955, is an American politician, currently serving as the junior United States Senator from a midwestern state. A Republican, the speaker previously served as a U.S. Representative, the 14th United States Trade Representative, and the 35th Director of a federal budget office. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

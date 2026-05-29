@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I got depressed and I got out in 2003 and had a hard time kind of acquiescing into civilian life. Started using cannabis and it was like the light switched on for me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "With 25 years in tech and cannabis, I've built and sold multi-million dollar companies, but there's always more to learn."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So there's a lot of people that they like to enforce keystone pricing. We don't do that. We don't like to get into people's kitchens. And once we sell it to them, we like to kind of assume that they're going to be responsible with their margins."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Today, I'm sitting down with [target], a veteran who went from jumping out of airplanes with the military division to navigating the legacy cannabis market and now scaling in the licensed market."
+      }
+    ],
+    "speakername": "Ryan Cohen",
+    "ground_truth": "it's kind of like trial and error find someone that works with you and and you can work with them and you build up some trust and you know everything's usually on the arm like you're always in the oz's to somebody which is not so much different than what i'm dealing with now in the in the regulated industry you know just predicated on trust and found myself in some trouble that wasn't so great in 2009 i did 90 days",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So there's a lot of people that they like to enforce keystone pricing. We don't do that. We don't like to get into people's kitchens. And once we sell it to them, we like to kind of assume that they're going to be responsible with their margins."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Today, I'm sitting down with [target], a veteran who went from jumping out of airplanes with the military division to navigating the legacy cannabis market and now scaling in the licensed market."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's kind of like trial and error find someone that works with you and and you can work with them and you build up some trust and you know everything's usually on the arm like you're always in the oz's to somebody which is not so much different than what i'm dealing with now in the in the regulated industry you know just predicated on trust and found myself in some trouble that wasn't so great in 2009 i did 90 days"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "After his discharge, [target] was searching for direction and decided to attend school under the GI Bill. However, he soon found himself dealing weed, a trade he had a knack and passion for, until he landed on the wrong side of the law, resulting in a 90-day jail stint."
+      }
+    ],
+    "speakername": "Ryan Cohen",
+    "ground_truth": "From, like, the late to mid-90s into, like, I don't know, the 2010s or so, there was this type of weed called beasters, and it came down from the northern country. Okay. And it was...",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "it's kind of like trial and error find someone that works with you and and you can work with them and you build up some trust and you know everything's usually on the arm like you're always in the oz's to somebody which is not so much different than what i'm dealing with now in the in the regulated industry you know just predicated on trust and found myself in some trouble that wasn't so great in 2009 i did 90 days"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "After his discharge, [target] was searching for direction and decided to attend school under the GI Bill. However, he soon found himself dealing weed, a trade he had a knack and passion for, until he landed on the wrong side of the law, resulting in a 90-day jail stint."
+      },
+      {
+        "speaker": "[target]",
+        "text": "From, like, the late to mid-90s into, like, I don't know, the 2010s or so, there was this type of weed called beasters, and it came down from neighboring country. Okay. And it was..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In this episode [target] clarifies what's really happening behind the headlines about that 55 million dollar debt"
+      }
+    ],
+    "speakername": "Ryan Cohen",
+    "ground_truth": "So I think not less resting on your laurels, right, is important. Just because you have great markets here today does not mean tomorrow it's going to be the same. He shares his powerful.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "From, like, the late to mid-90s into, like, I don't know, the 2010s or so, there was this type of weed called beasters, and it came down from up north. Okay. And it was..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In this episode [target] clarifies what's really happening behind the headlines about that 55 million dollar debt"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I think not less resting on your laurels, right, is important. Just because you have great markets here today does not mean tomorrow it's going to be the same. He shares his powerful."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "driving glorious cannabis and gives his unfiltered take on where the cannabis industry is headed. Let's dive in."
+      }
+    ],
+    "speakername": "Ryan Cohen",
+    "ground_truth": "My name is [target] and I am in the cannabis space here in [state]. I started in 2018 and began with a company called Top Shelf Cannasaurs. It's kind of a veteran legacy owned licensee. We did a joint venture with Glorious Cannabis in 2020 to bring them to [state] as their second state. So I'm part of the ownership group and I am the head of sales here in [state]. Oh, fantastic. So",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "driving glorious cannabis and gives his unfiltered take on where the cannabis industry is headed. Let's dive in."
+      },
+      {
+        "speaker": "[target]",
+        "text": "My name is [target] and I am in the cannabis space here in [state]. I started in 2018 and began with a company called [company1]. It's kind of a veteran legacy owned licensee. We did a joint venture with [company2] in 2020 to bring them to [state] as their second state. So I'm part of the ownership group and I am the head of sales here in [state]. Oh, fantastic. So"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You started with [company1]. Yes. TSC, [company1]. You got it. Was that like, you were homegrown that license? Did you have any investors at that point? Or were you just like, hey, I'm just doing this. And you kind of just like got some friends."
+      }
+    ],
+    "speakername": "Ryan Cohen",
+    "ground_truth": "family to like so me and my partner scott um we put together some money to kind of go through the licensing stage we got to provisional we had a building in [town] which is my hometown and we were going to proceed with a tier two cultivation and manufacturing 2018 this is 20 yeah 2018 into 2019 we got all the way to provisional we got our special permit through the town of [town] and then we had some neighbors that were unhappy with our location in [town] you know the nimby's yeah 2018 is filled with nimby's yeah uh so we had already spent about 200k at that point without holding costs and and licensing fees lawyers i'm sure you're paying you're probably paying rent at that point and everything correct yeah and um we were ushered out of town pretty much they took us to land court to the neighbor's house and we were neighbors and were you doing everything by the book at that point yeah",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

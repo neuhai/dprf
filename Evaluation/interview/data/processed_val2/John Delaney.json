@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, [target], Chief Executive of the organization, is with me. [target], you're very welcome to the programme. Thank you, Pat. Now, this is no surprise, really, although it was when it broke on Friday night. I was at a sports testimonial and when the word went round that [name] was to be the manager but his number two was to be [name], the shock was palpable."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm sure for the public, there might be a bit of surprise. What I can say, Pat, is look, we've been at detailed discussions with both candidates for a while. Almost done now. There's nothing that I think will be an impediment to the two guys in terms of managing the team and being the assistant manager. I don't see any impediment to that happening. And I hope that on Saturday, this coming Saturday, that we'll have an unveiling of our new manager."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So it will be."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "One as number one, other as number two. That's what we expect to happen. All the documents are signed. The guys are off going to do punditry in the Champions League match, so presumably they will be quizzed in that regard."
+      }
+    ],
+    "speakername": "John Delaney",
+    "ground_truth": "is tonight the documents have to be signed yet um there's been contracts obviously between lawyers this is sunday monday but there's nothing in principle that that that will be an impediment to signature at this stage absolutely not slightly i suppose with the candidates being away at the games that probably slowed it was slowed down a little bit but um the solicitors have done great work over the last day or two and i don't see any impediment to having our new manager as far as i can see yes",
+    "bio": "The speaker (born April 16, 1963) is an American attorney, businessman, politician, and former presidential candidate who was the Representative for a congressional district from 2013 to 2019. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, that was Martin. I mean, when Martin agreed to be the manager, the backroom staff, first of all, for a manager is his decision. Completing. Complete. Always is, should be. As I said to Martin, look, if you told me who my commercial manager should be or my finance director, that wouldn't be your side of it. But when you want an assistant manager or a goalkeeping coach, you know, whatever it is, that's the manager's decision. So he asked what the association's view would be in terms of Roy being the assistant. And we said, and I said in particular, absolutely no problem. Absolutely no problem. OK, now."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "If you stick on the headphones, I want to play just a little bit of our interview on September the 11th when Giovanni was parting the ways. And this is just when we knew that Mick McCarthy's name has been bandied about and Martin O'Neill's name was being bandied about. And then this. Do you rule anyone out? I mean, do you rule Roy Keane out as a potential candidate if he sends in an application?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think I'd comment on any individual."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It was the laugh that got people. They were wondering whether you thought my question was so outlandish."
+      }
+    ],
+    "speakername": "John Delaney",
+    "ground_truth": "bandish at the time no i think i think it's been well speculated for for a long time about maybe roy's relationships with the association and i suppose i was trying probably trying to lighten the tone of the question but i mean i suppose what people would have known pad in my own particular instance is that roy and i wouldn't have had much contact in the past i mean because he was a player um with the team and i was probably a young honorary treasurer whatever it was there wouldn't have been any great dialogue so when we met last week there was no problems whatsoever okay",
+    "bio": "A former politician and businessman (born April 16, 1963) who served as a representative for a congressional district from 2013 to 2019. He is also an attorney and former presidential candidate. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no i mean i think we all say things pat at different parts of our life i mean i'm sure you've said i've said things that we regret okay and we all said things at a point in time that are relevant but anything that would have been said by roy or i to each other about each other is now irrelevant"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's over."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's irrelevant because national football and our country is bigger than anything. Bigger than anything."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But have you had to meet with him face to face? I met him last week."
+      }
+    ],
+    "speakername": "John Delaney",
+    "ground_truth": "No issue. Absolutely not. Absolutely not. I'd say we discussed the past. And I don't want to go to too much what we said because it's unfair. I'd like to keep those things private. The past was discussed for about 30 seconds. And it was all about the future, about how two great icons of national soccer, Martin O'Neill and Roy Keane, and people like myself in the association, can work together for the better of national football for this country. There was, I mean, to be honest with you, I don't think we'd ever sat down and spoken before we met last week in the way that we did. And it was absolutely brilliant from my point of view and I think from his point of view as well.",
+    "bio": "The individual (born April 16, 1963) is an American attorney, businessman, politician, and former presidential candidate who was the Representative for a district in the mid-Atlantic region from 2013 to 2019. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's irrelevant because national football and our country is bigger than anything. Bigger than anything."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But have you had to meet with him face to face? I met him last week."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No issue. Absolutely not. Absolutely not. I'd say we discussed the past. And I don't want to go to too much what we said because it's unfair. I'd like to keep those things private. The past was discussed for about 30 seconds. And it was all about the future, about how two great icons of national soccer can work together for the better of national football for this country. There was, I mean, to be honest with you, I don't think we'd ever sat down and spoken before we met last week in the way that we did. And it was absolutely brilliant from my point of view and I think from his point of view as well."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "All right. Now, we know famously that he made his piece with another manager because obviously they had two teams in common. Also, he made his piece with a former player, who was one of his greatest critics after that incident."
+      }
+    ],
+    "speakername": "John Delaney",
+    "ground_truth": "well last week all I can say is we met we met we met twice and it was all about the future not about the past I think the past is the past it's a great phrase I think you don't live in the past you learn from the past and anything that happened previously from my point of view is now irrelevant because we want to make national football great we want to go to the tournament we want to get to the championship in 2016 we want to get the best out of our players and the manager as manager assistant with the support of the association and with the players that's what we want How do you",
+    "bio": "The target (born April 16, 1963) is an American attorney, businessman, politician, and former presidential candidate who was the Representative for a congressional district from 2013 to 2019. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No issue. Absolutely not. Absolutely not. I'd say we discussed the past. And I don't want to go to too much what we said because it's unfair. I'd like to keep those things private. The past was discussed for about 30 seconds. And it was all about the future, about how two great icons of national soccer can work together for the better of national football for this country. There was, I mean, to be honest with you, I don't think we'd ever sat down and spoken before we met last week in the way that we did. And it was absolutely brilliant from my point of view and I think from his point of view as well."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "All right. Now, we know famously that he made his piece with his former manager because obviously they had two clubs in common. Also, he made his piece with his former critic after that incident."
+      },
+      {
+        "speaker": "[target]",
+        "text": "well last week all I can say is we met we met twice and it was all about the future not about the past I think the past is the past it's a great phrase I think you don't live in the past you learn from the past and anything that happened previously from my point of view is now irrelevant because we want to make national football great we want to go to the tournament we want to qualify for 2016 we want to get the best out of our players and with the manager and assistant with the support of the association and with the players that's what we want How do you"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "the number one and number two roles playing out I mean will that be the manager's call how the work is divided or are we going to see more of the assistant than we might have seen of the previous assistant yeah"
+      }
+    ],
+    "speakername": "John Delaney",
+    "ground_truth": "I think the manager will explain that at the press conference on Saturday. I think he'll explain as to how that dynamic will work. And I think that's for him to do because he is the manager and a manager uses an assistant in the way that he wants to do. So some managers use them in a very open way. Others kind of say, these are your tasks. And I think the manager will explain that when he's in on Saturday. I know they've had detailed discussions and I know that they've agreed what it will be. And it'll be great, I think, when he explains to the public how he expects that dynamic to work.",
+    "bio": "The target (born April 16, 1963) is an American attorney, businessman, politician, and former presidential candidate who was the Representative for a congressional district from 2013 to 2019. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

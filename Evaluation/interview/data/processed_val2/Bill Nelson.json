@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You think I'm going to drink all that water?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "mean it's there for you if you need it and we have them labeled so no one can reuse them so let's start not surprisingly with astronauts you have commercial launch scheduled for later this week this month we've already had Polaris which was the first time the company had its own employees on board a mission and achieved a new record altitude but other commercial partners notably another aerospace company and has had mission problems that have left two of your astronauts on the space station until next year I wanted to start by asking you about the company and its setbacks and if you feel like that means the agency's overly reliant on one provider for the foreseeable future"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Understand that this commercial partnership is a new thing that we started as a result of a senator and I passing new laws in 2010 on the agency going forward. All our exploration in the past had been because we were the government. That's how we went to the moon half a century ago. But what we then designed that there would be a dual track. That we would have the government program, but we would bring in commercial partners to tap that ingenuity as well as their finances so that they would share the cost. That along with our international partners. Makes our space program, particularly the human space program, so much different from the past. It's true on low Earth orbit, on the space station where we have 40 some partners internationally. It's true as we go back to the moon after a half century. By the way, not to just go to the moon, we're going to learn to live, to work in that hostile environment. So we can send humans to Mars."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So that said, where do you think the company then ranks in terms of all of the partnerships? Because certainly the CEO gets a lot."
+      }
+    ],
+    "speakername": "Bill Nelson",
+    "ground_truth": "Right. They've been phenomenal. The proof's in the pudding. Look, they developed the reusable rocket. It's now the workhorse to get into space, government, commercial, defense. It's the workhorse.",
+    "bio": "The speaker (born September 29, 1942) is an American politician and attorney serving as the administrator of a federal space agency. They previously served as a United States Senator from a southern state from 2001 to 2019. A member of the Democratic Party, they previously served in the state House of Representatives from 1972 to 1978 and in the United States House of Representatives from 1979 to 1991. In January 1986, they became the second sitting member of Congress to fly in space, after another representative, when they served as a payload specialist on a space shuttle mission. Before entering politics they served in the U.S. Army Reserve during the Vietnam War. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Understand that [private space company] is a new thing that we started as a result of [legislator] and I passing new laws in 2010 on [space agency] going forward. All our exploration in the past had been because we were the government. That's how we went to the moon half a century ago. But what we then designed that there would be a dual track. That we would have the government program, but we would bring in commercial partners to tap that ingenuity as well as their finances so that they would share the cost. That along with our international partners. Makes our space program, particularly the human space program, so much different from the past. It's true on low Earth orbit, on the International Space Station where we have 40 some partners internationally. It's true as we go back to the moon after a half century. By the way, not to just go to the moon, we're going to learn to live, to work in that hostile environment. So we can send humans to Mars."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So that said, where do you think [private space company] then ranks in terms of all of the partnerships? Because certainly [CEO] gets a lot."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right. They've been phenomenal. The proof's in the pudding. Look, they developed the [rocket model] rocket. It's now the workhorse to get into space, government, commercial, defense. It's the workhorse."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you worry about [CEO] and the misinformation that he spreads that detracts or distracts from [space agency] and its mission?"
+      }
+    ],
+    "speakername": "Bill Nelson",
+    "ground_truth": "you know the good news about that is that [CEO] has a president that he lets run the company and her name is [executive] and she's done that she was the eighth employee of [private space company] and she's done a phenomenal job and as we say in the south the proof's in the pudding look look at the crew to orbit cargo to orbit now we'll see they along with [competitor CEO] company [competitor company] are going to be our two landers we're going to get our astronauts to the moon in lunar orbit and then they will transfer into first a [private space company] lander and then a [competitor company] land",
+    "bio": "Born in [year], the speaker is an American politician and attorney serving as the administrator of the [space agency]. The speaker previously served as a Senator from [state] from 2001 to 2019. A member of the Democratic Party, they previously served in the [state] House of Representatives from 1972 to 1978 and in the United States House of Representatives from 1979 to 1991. In 1986, they became the second sitting member of Congress to fly in space when they served as a payload specialist on the Space Shuttle. Before entering politics they served in the military reserve during the Vietnam War. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you know the good news about that is that elon has a president that he lets run the company and her name is gwen shotwell and she's done that she was the eighth employee of the company and she's done a phenomenal job and as we say in the south the proof's in the pudding look look at the uh the crew to orbit cargo to orbit now we'll see they along with another company are going to be our two landers we're going to get our astronauts to the moon in lunar orbit and then they will transfer into first one company's lander and then another company's lander"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right, and I think it's not necessarily how the company is run, as you're saying. I'm just talking about the distraction of the constant headlines about him and if you all feel like that's a distraction."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, they distract you, but they don't distract the agency."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I think one of my favorite facts about Sonny Williams and Butch Wilmore is that they'll be able to vote from space. And I feel like there's also been so much publicity about these astronauts who are up at the station. I know you all don't like to use the word stranded. Why do you think this has captured so much of the public's attention, this story?"
+      }
+    ],
+    "speakername": "Bill Nelson",
+    "ground_truth": "because it's a human drama. How are we going to get our astronauts, two test pilots, on a test flight, and suddenly we discover that with all the testing and the evaluation, it was unanimous in the agency. My decision is the final decision. It was easy, it was unanimous in the agency that we finally knew the cause of that valve malfunctioning, but we didn't understand why. And in this day and time of putting two test pilots' lives on the line, we just were not gonna take that risk. But remember what the former president said. He said, we go to the moon, not because it's easy, but because it's hard. Space is hard. Space flight is risky. We have lost 17 astronauts on spacecraft. We just wanna make it as safe as possible, accepting the fact that there is significant risk. And that pretty well decided the reason that we did, and that's what your question was, why is there so much, so much attention to it? It's a human drama of life or death.",
+    "bio": "The individual (born September 29, 1942) is an American politician and attorney serving as the administrator of a major space agency. They previously served as a Senator from a southern state from 2001 to 2019. A member of their political party, they previously served in their state House of Representatives from 1972 to 1978 and in the national House of Representatives from 1979 to 1991. In January 1986, they became the second sitting member of Congress to fly in space, after another representative, when they served as a payload specialist on a space shuttle mission. Before entering politics they served in the military reserve during a major conflict. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, they distract you, but they don't distract [generic space agency]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I think one of my favorite facts about Sonny Williams and Butch Wilmore is that they'll be able to vote from space. And I feel like there's also been so much publicity about these astronauts who are up at the [generic space station]. I know you all don't like to use the word stranded. Why do you think this has captured so much of the public's attention, this story?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "because it's a human drama. How are we going to get our astronauts, two test pilots, on a test flight, and suddenly we discover that with all the testing and the evaluation, it was unanimous in [generic space agency]. My decision is the final decision. It was easy, it was unanimous in [generic space agency] that we finally knew the cause of that valve malfunctioning, but we didn't understand why. And in this day and time of putting two test pilots' lives on the line, we just were not gonna take that risk. But remember what former president said. He said, we go to the moon, not because it's easy, but because it's hard. Space is hard. Space flight is risky. We have lost 17 astronauts on spacecraft. We just wanna make it as safe as possible, accepting the fact that there is significant risk. And that pretty well decided the reason that we did, and that's what your question was, why is there so much, so much attention to it? It's a human drama of life or death."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Since we're here at [generic conference] week, I wanted to ask you about [generic space agency] has now had 43 nations sign on to the Artemis Deep Space Exploration Accords. I know that you have had a meeting last week with Korea about this. How did it go? Can you tell us how much conversation you expect about that and the Outer Space Treaty this week?"
+      }
+    ],
+    "speakername": "Bill Nelson",
+    "ground_truth": "Well, we're at 43, and soon, probably by the end of this year, we'll be over 50 nations that will have signed the Artemis Courts. What are they? They're a common-sense declaration of principles of peaceful use of space. I mentioned earlier, you know, we're doing our space ventures with international partners. We're going to the moon next year, and it's three Americans and a Canadian, and that starts a whole series of foreign nationals as astronauts that train with us. That's already been the case in the [generic space station], many, many astronauts from other nations. What it says is space exploration is for all, and I thought we were going to talk some about climate change.",
+    "bio": "[target] is an American politician and attorney serving as the administrator of the [generic space agency]. [target] previously served as a United States Senator from [generic state] from 2001 to 2019. A member of the Democratic Party, [target] previously served in the [generic state] House of Representatives from 1972 to 1978 and in the United States House of Representatives from 1979 to 1991. In January 1986, [target] became the second sitting member of Congress to fly in space, after Jake Garn, when [target] served as a payload specialist on the Space Shuttle Columbia. Before entering politics [target] served in the U.S. Army Reserve during the Vietnam War. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "because it's a human drama. How are we going to get our astronauts, two test pilots, on a test flight, and suddenly we discover that with all the testing and the evaluation, it was unanimous in [organization]. My decision is the final decision. It was easy, it was unanimous in [organization] that we finally knew the cause of that valve malfunctioning, but we didn't understand why. And in this day and time of putting two test pilots' lives on the line, we just were not gonna take that risk. But remember what President said. He said, we go to space, not because it's easy, but because it's hard. Space is hard. Space flight is risky. We have lost 17 astronauts on spacecraft. We just wanna make it as safe as possible, accepting the fact that there is significant risk. And that pretty well decided the reason that we did, and that's what your question was, why is there so much, so much attention to it? It's a human drama of life or death."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Since we're here at [event] week, I wanted to ask you about [organization] has now had 43 nations sign on to the Artemis Deep Space Exploration Accords. I know that you have had a meeting last week with Korea about this. How did it go? Can you tell us how much conversation you expect about that and the Outer Space Treaty this week?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we're at 43, and soon, probably by the end of this year, we'll be over 50 nations that will have signed the Artemis Courts. What are they? They're a common-sense declaration of principles of peaceful use of space. I mentioned earlier, you know, we're doing our space ventures with international partners. We're going to space next year, and it's three Americans and a Canadian, and that starts a whole series of foreign nationals as astronauts that train with us. That's already been the case in the International Space Station, many, many astronauts from other nations. What it says is space exploration is for all, and I thought we were going to talk some about climate change."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We're going to get to that. Yeah."
+      }
+    ],
+    "speakername": "Bill Nelson",
+    "ground_truth": "Okay, I want to lead into that by saying that, you know, that's one of the most important things that we do. You don't think of us as a climate agency.",
+    "bio": "The speaker was born on September 29, 1942, and is serving as the administrator of a major space agency. The speaker previously served as a Senator from a southern state from 2001 to 2019. A member of the Democratic Party, they served in state legislature from 1972 to 1978 and in the U.S. House of Representatives from 1979 to 1991. In January 1986, they became the second sitting member of Congress to fly in space, after another congressman, when they served as a payload specialist on a space shuttle mission. Before entering politics they served in the military reserve during the Vietnam War. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

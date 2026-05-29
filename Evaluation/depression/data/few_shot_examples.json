@@ -1,0 +1,46 @@
+{
+  "task": "depression",
+  "seed": 42,
+  "pool_size": 100,
+  "num_shots": 5,
+  "pool_slice": "last_100_items_in_json_array",
+  "selected_ids": [
+    "383",
+    "1857",
+    "2799",
+    "1003",
+    "322"
+  ],
+  "examples": [
+    {
+      "id": "383",
+      "depression_level": "minimum",
+      "input": "Your depression severity level is: minimum",
+      "output": "I spent six years in a very abusive relationship. We had a child together. After she was born, I made my way out. I ended up fleeing several houses and apartments trying to stay away from him. There’s been a long history."
+    },
+    {
+      "id": "1857",
+      "depression_level": "minimum",
+      "input": "Your depression severity level is: minimum",
+      "output": "I’d decided to include them because they can either be used or not, but would be interested to hear people's thoughts. I’ll be going out this weekend to pass them out, there are unfortunately quite a few people sleeping on our high street so I had planned to give them to the first four people I came across. I assume it would be best to just say “Hi” and explain what’s in the bag and take it from there? I imagine people on the streets get a lot of abuse so I’m a bit worried about approaching someone in case they think I’m a twat. Also if someone is asleep, I assume it would be best to just leave a bag for them rather than wake them up to see if they wanted it?"
+    },
+    {
+      "id": "2799",
+      "depression_level": "severe",
+      "input": "Your depression severity level is: severe",
+      "output": "We went home the next day. And now i fcking dont know what to do. My heart rate feels like it’s shaking the whole bed. Im dying. TLDR i got friendzoned at the beach and I cant take it like a man"
+    },
+    {
+      "id": "1003",
+      "depression_level": "minimum",
+      "input": "Your depression severity level is: minimum",
+      "output": "I can't afford a treadmill and I'm not a big fan of gyms (plus there's none really nearby), so I'm trying to use really the one option available: going outside. This is a real problem for me and my anxiety. I feel like a gasping hippopotamus when I try running and am too embarrassed to let anyone see me like that, so every time I see a car or person, I stop running and immediately go back home. I try going outside late at night and early in the morning so I can run, but there are like always people around and it drives me insane. I don't know how to maintain the motivation to be active while dealing with my anxiety that keeps convincing me that everyone is judging me and may yell insults at me or the other side of things: may kidnap, attack or murder me (since I go out when it's pitch black outside to reduce the ability to see me)."
+    },
+    {
+      "id": "322",
+      "depression_level": "severe",
+      "input": "Your depression severity level is: severe",
+      "output": "! I feel like I am in a pit that I cannot escape from. I know that I am anxious all the time and terrified of fucking up and I know for sure that the more anxious I am, the more I cannot focus well and think straight and the more likely it is for me to fuck up .. and somehow, everytime I do, I feel like I just want to belittle myself so much that I deliberately and purposefully want to see myself covered in blood and bruises because I feel like I deserve it! ! EDIT 2 .."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, people as diverse as John McLaughlin, Brian Lamb, the governor of [state], the Republican Gary Johnson, Mario Cuomo. It doesn't matter. I mean, the polls are showing 64%. The American people want a four-way debate. You know, the audience shrank the other night to a very low 35 or so million people when 90 million people watched the Ross Perot debate with Clinton and Bush."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Would you think of the debate, though, having notwithstanding the fact that the audience"
+      },
+      {
+        "speaker": "[target]",
+        "text": "eroded."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "during the hour and a half."
+      }
+    ],
+    "speakername": "Ralph Nader",
+    "ground_truth": "Well, I thought it was a little bit sterile. I don't know if I'd go as far as Dan Rather, who called it narcolepsy-inducing and pedantic. Dan, to the left of you on this issue. They don't deal with the central issue, which is the distribution of power in a country. There's too much concentrated power and wealth in too few hands. You're sounding like [target]. Well, no, he hasn't really said that, although I think he's borrowed some populist...",
+    "bio": "[target] (born February 27, 1934) is an American political activist, author, lecturer, and attorney noted for his involvement in consumer protection, environmentalism, and government reform causes. The son of immigrants to the United States, [target] was educated at [university1] and [university2] and first came to prominence in 1965 with the publication of the bestselling book 'Unsafe at Any Speed', a highly influential critique of the safety record of American automobile manufacturers. Following the publication of 'Unsafe at Any Speed'.\n\nHe ran for President of the United States on several occasions as an independent and third party candidate, using the campaigns to highlight under-reported issues and a perceived need for electoral reform. His 2000 candidacy stirred controversy, with several studies suggesting that [target]'s candidacy helped Republican George W. Bush win a close election against Democrat [target]. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You think that's true?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, not at all. I mean, it's a top-down. That's what it is. It isn't right and left. The real issue is who has the power and who doesn't. And I'm contending and can document that voters, workers, consumers, and taxpayers don't have much power at all. It's in the hands of these big companies who are connected with the two parties, fund the same two parties with the same corporate interests, things that John McCain criticized, things that Bill Bradley criticized, even things that Ross Perot criticized. They got millions of votes, but there's no one carrying that torch to November except the Nader-Leduc Green Party ticket."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "do it. Reduce the power of the few and spread it out to the many."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, public funding and public campaigns, same-day voter registration, will give voters more voice and won't have their votes nullified by money in politics. That's one. Second, repeal Taft-Hartley Act and other restrictive labor laws that keep tens of millions of workers from forming trade unions, especially those in low-paid jobs, of which there are a huge number. One out of every three workers in this country doesn't earn a living wage. Places like Walmart and McDonald's and Burger King and Kmart. Third, give people universal health insurance. That will sure help consumers. And give consumers some good old-fashioned law enforcement against the corporate crooks and the defrauders, especially which eat away at low-income people in the ghettos, predatory lending. And then finally, taxpayers. Hundreds of billions of dollars going into corporate welfare. Subsidies, giveaways, handouts, the whole works. Give me the worst as you see it."
+      }
+    ],
+    "speakername": "Ralph Nader",
+    "ground_truth": "In terms of these handouts, okay, 1872 Mining Act, never discussed by Bush and Gore, it allows a foreign or domestic corporation to go on our lands, on the federal lands, discover gold, molybdenum, copper, silver, you name it, hard rock metals, they document it with their geologists, they then fly to Washington, the Department of Interior, and Washington, because of this law, has to sell the acreage above the mine for five bucks an acre. So a Canadian company, a few years ago, goes on federal land in Nevada, discovers $9 billion worth of gold, and gets it for $30,000. No royalties back to the government. We're the only country in the world who gives away our natural resources. The other outrage is the drug companies. I would think American companies would be outraged by that. Well, you know, American companies, foreign companies, what's the difference anymore, right? They're all mixed. The other one is the drug companies. They get all this free medicine that's developed. By the taxpayers, the National Institutes of Health, like the anti-cancer drug Taxol or AZT and AIDS, and under our federal government, we give them away the drugs, we give the drugs away to Bristol-Myers Squibb and other companies. No royalties back to the government, no control of drug prices to millions of people. A few months ago, a woman with ovarian cancer said she lost her $19,000 a year job, goes to a doctor, says, very serious, the only drug I can prescribe is Taxol. She says, how much? He said, six treatments. $14,000. Bristol-Myers Squibb didn't spend a cent discovering and human clinically testing that drug. That was done by the taxpayer at the U.S. government, and that's what the story is in drug after drug.",
+    "bio": "[target] (born February 27, 1934) is an American political activist, author, lecturer, and attorney noted for his involvement in consumer protection, environmentalism, and government reform causes. The son of Lebanese immigrants to the United States, Nader was educated at Princeton and Harvard and first came to prominence in 1965 with the publication of the bestselling book Unsafe at Any Speed, a highly influential critique of the safety record of American automobile manufacturers. Following the publication of Unsafe at Any Speed.\\n\\nHe ran for President of the United States on several occasions as an independent and third party candidate, using the campaigns to highlight under-reported issues and a perceived need for electoral reform. His 2000 candidacy stirred controversy, with several studies suggesting that Nader's candidacy helped Republican George W. Bush win a close election against Democrat Al Gore. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "do it. Reduce the power of the few and spread it out to the many."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, public funding and public campaigns, same-day voter registration, will give voters more voice and won't have their votes nullified by money in politics. That's one. Second, repeal Taft-Hartley Act and other restrictive labor laws that keep tens of millions of workers from forming trade unions, especially those in low-paid jobs, of which there are a huge number. One out of every three workers in this country doesn't earn a living wage. Places like Walmart and McDonald's and Burger King and Kmart. Third, give people universal health insurance. That will sure help consumers. And give consumers some good old-fashioned law enforcement against the corporate crooks and the defrauders, especially which eat away at low-income people in the ghettos, predatory lending. And then finally, taxpayers. Hundreds of billions of dollars going into corporate welfare. Subsidies, giveaways, handouts, the whole works. Give me the worst as you see it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "In terms of these handouts, okay, 1872 Mining Act, never discussed by Bush and Gore, it allows a foreign or domestic corporation to go on our lands, on the federal lands, discover gold, molybdenum, copper, silver, you name it, hard rock metals, they document it with their geologists, they then fly to Washington, the Department of Interior, and Washington, because of this law, has to sell the acreage above the mine for five bucks an acre. So a Canadian company, a few years ago, goes on federal land in Nevada, discovers $9 billion worth of gold, and gets it for $30,000. No royalties back to the government. We're the only country in the world who gives away our natural resources. The other outrage is the drug companies. I would think American companies would be outraged by that. Well, you know, American companies, foreign companies, what's the difference anymore, right? They're all mixed. The other one is the drug companies. They get all this free medicine that's developed. By the taxpayers, the National Institutes of Health, like the anti-cancer drug Taxol or AZT and AIDS, and under our federal government, we give them away the drugs, we give the drugs away to Bristol-Myers Squibb and other companies. No royalties back to the government, no control of drug prices to millions of people. A few months ago, a woman with ovarian cancer said she lost her $19,000 a year job, goes to a doctor, says, very serious, the only drug I can prescribe is Taxol. She says, how much? He said, six treatments. $14,000. Bristol-Myers Squibb didn't spend a cent discovering and human clinically testing that drug. That was done by the taxpayer at the U.S. government, and that's what the story is in drug after drug."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The big debate among the two primary, the two major party candidates has to do with the surplus and tax cuts. Bush has proposed one tax cut proposal. Al Gore spent most of the debates attacking his tax cut proposal. Where do you come down in terms of the kind of tax cut proposal or how you would handle the surplus if it's not a tax cut? What would you do to redistribute wealth as you see it? Well, first of all..."
+      }
+    ],
+    "speakername": "Ralph Nader",
+    "ground_truth": "Forced progressive taxation laws against corporations. The New York Times has documented, again, all these shelters and loopholes, and they're increasing and draining away revenues from the government. That could be used for neighborhood and community needs. And look, America needs repair. You know, public transit, schools, clinics, drinking water systems, crumbling, lack of repair. The second is, I don't know if this surplus is going to materialize, Charlie. I mean, this is a projection. I think that both candidates are creating an unnecessary scare on Social Security. Social Security is not in trouble, not in trouble at all. The Social Security trustees say that up all the way to 2037, every dollar will be paid on 1.7% annual growth predictions. We're growing over 4%.",
+    "bio": "[target] (born February 27, 1934) is an American political activist, author, lecturer, and attorney noted for his involvement in consumer protection, environmentalism, and government reform causes. The son of Lebanese immigrants to the United States, Nader was educated at Princeton and Harvard and first came to prominence in 1965 with the publication of the bestselling book Unsafe at Any Speed, a highly influential critique of the safety record of American automobile manufacturers. Following the publication of Unsafe at Any Speed.\\n\\nHe ran for President of the United States on several occasions as an independent and third party candidate, using the campaigns to highlight under-reported issues and a perceived need for electoral reform. His 2000 candidacy stirred controversy, with several studies suggesting that Nader's candidacy helped Republican George W. Bush win a close election against Democrat Al Gore. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you impact you think you will have on this election? Can you make a difference in [state]? Will you make a difference in [state]? Will you have some impact in [state]? Where do you think that [target] may be decisive in what happens on November 7th?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'd like to be decisive, period, if I could get on the debate. I think the close states, there are 40 states where [candidate] is way ahead or [candidate] is way ahead. [State], [candidate], [state], [state], [candidate]. That's where people can vote their conscience and have the double header. I mean, if they want [candidate] to win, they don't have to vote for him in [state] because he's a landslide. They could vote for the Green Party, which could be a watchdog after November. See, this is what's going to come out after November. It's a Green Party that's growing, that's robust, that has grassroots involvement, and that has millions of votes behind it. And it's going to tell the Democrat-Republican Party, you're either going to shape up for the American people or you're going to shrink down in future elections. There's never been that kind of lever on the two parties."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "saying you guarantee that the Green Party will do 7% of the vote on Election Day? I'm very confident."
+      },
+      {
+        "speaker": "[target]",
+        "text": "At least seven percent. Yeah, I'm very confident. More than seven?"
+      }
+    ],
+    "speakername": "Ralph Nader",
+    "ground_truth": "It could well go more than seven. You know, the tipping point is not quite clear. But, you know, [politician] was at 8% a month before the election. He gets on the debates. He gets state financing for a campaign. He gets same-day registration. And he zooms in three stages, 8%, 19%, 28%, and the last week in 38%. And he wins. In a three-person race. Yeah, in a three-person race. But the key here is we've already won in a number of ways. We've got tens of thousands of people coming into progressive political politics. You should see them pouring into our website. All kinds of people pouring into our website. [website], by the way.",
+    "bio": "[target] (born February 27, 1934) is an American political activist, author, lecturer, and attorney noted for his involvement in consumer protection, environmentalism, and government reform causes. The son of [nationality] immigrants to the United States, [target] was educated at [university] and [university] and first came to prominence in 1965 with the publication of the bestselling book [book title], a highly influential critique of the safety record of American automobile manufacturers. Following the publication of [book title].\n\nHe ran for President of the United States on several occasions as an independent and third party candidate, using the campaigns to highlight under-reported issues and a perceived need for electoral reform. His 2000 candidacy stirred controversy, with several studies suggesting that [target]'s candidacy helped Republican [politician] win a close election against Democrat [politician]. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "saying you guarantee that the third party will do 7% of the vote on Election Day? I'm very confident."
+      },
+      {
+        "speaker": "[target]",
+        "text": "At least seven percent. Yeah, I'm very confident. More than seven?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It could well go more than seven. You know, the tipping point is not quite clear. But, you know, Ventura was at 8% a month before the election. He gets on the debates. He gets state financing for a campaign. He gets same-day registration. And he zooms in three stages, 8%, 19%, 28%, and the last week in 38%. And he wins. In a three-person race. Yeah, in a three-person race. But the key here is we've already won in a number of ways. We've got tens of thousands of people coming into progressive political politics. You should see them pouring into our website. All kinds of people pouring into our website. [anonymized website]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "that is, in the end, a dissatisfaction with the major parties or an enthusiasm for [target]?"
+      }
+    ],
+    "speakername": "Ralph Nader",
+    "ground_truth": "That's usually what politics is about. You get alienated from corrupt politics as usual. Then you look around, and you see a new...",
+    "bio": "The subject (born February 27, 1934) is an American political activist, author, lecturer, and attorney noted for involvement in consumer protection, environmentalism, and government reform causes. The son of immigrants to the United States, the subject was educated at [prestigious university 1] and [prestigious university 2] and first came to prominence in 1965 with the publication of the bestselling book [book title], a highly influential critique of the safety record of American automobile manufacturers. Following the publication of [book title].\n\nThe subject ran for President of the United States on several occasions as an independent and third party candidate, using the campaigns to highlight under-reported issues and a perceived need for electoral reform. The 2000 candidacy stirred controversy, with several studies suggesting that the candidacy helped Republican candidate win a close election against Democratic candidate. The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

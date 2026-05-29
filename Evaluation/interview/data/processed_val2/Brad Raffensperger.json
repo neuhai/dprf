@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We just were really clear with the legislative body. We think that if you poll and ask voters what they think, that they're ready for runoffs to be done and not have them. So how do we do that? What does that look like? And the election workers, a large majority of them would like to see us eliminate runoffs. So what does that look like? And the legislative body kind of talked about it last session. I'm sure they'll talk about it next session. Because when you have your race in November, you're always going to have some races where you'll have a runoff. It could be a state representative, state senator, or it could be a statewide seat. And then you have them rolling right into Thanksgiving, and then all the work that they have to do to certify it just ends up being an awful lot. But the counties will get it done one way or the other, but it's one of the things that I think maybe the time has come to look at eliminating runoffs."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "And Secretary, what was the reasoning behind today's visit?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just the Chamber has asked me to come down and talk about a legislative update, but while I'm here, obviously I want to drop by and see all the people who do the hard work of making sure we run honest and fair elections. And this is a great facility, you all should have a lot to be proud of."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Can you talk to me about what you're looking to reform next in the state? What do you want in place before the 2024 presidential election?"
+      }
+    ],
+    "speakername": "Brad Raffensperger",
+    "ground_truth": "I think we're in pretty good shape legislatively and really this last session pretty much does it for the next cycle because when you come into the next session it'll be 2024 and to get something passed and in place I think it probably won't happen next year. So it's really every other year when you can look at any kind of modifications, updates, further improvements in state law. So we're really excited that what we did get in place was we got funding for additional electronic poll pads so that is really speeding up the process of checking in voters. We had last session the county last election when we had those in place for the counties that already had them in place we were getting reports that we were checking in voters in under a minute and so that just really helps accelerate and keep those lines short and that's really improves the voter experience so we're very voter centric. Also you now get time off work for early voting. And we think that's really important right now we're seeing about 65% of all voters are voting early and so whatever we can do to help voters get time off so that they can vote that was a bill that we wanted to support also. So we think we're in good shape for 2024 we're expecting big very big turnout numbers next year and so when we see facilities like this we're really excited that we think that we'll be able to handle whatever is thrown our way.",
+    "bio": "The target is an American politician, businessman, and civil engineer from a southern state. A member of their party, they serve as the Secretary of State. They previously served in the state House of Representatives, representing their district. In early 2021, a controversy occurred involving pressure from a former president during a recorded phone call. The target has stated 'the truth will come out'. It remains an ongoing issue. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Just the organization has asked me to come down and talk about a legislative update, but while I'm here, obviously I want to drop by and see all the people who do the hard work of making sure we run honest and fair elections. And this is a great facility, you all should have a lot to be proud of."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Can you talk to me about what you're looking to reform next in this state? What do you want in place before the 2024 presidential election?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think we're in pretty good shape legislatively and really this last session pretty much does it for the next cycle because when you come into the next session it'll be 2024 and to get something passed and in place I think it probably won't happen next year. So it's really every other year when you can look at any kind of modifications, updates, further improvements in state law. So we're really excited that what we did get in place was we got funding for additional electronic poll pads so that is really speeding up the process of checking in voters. We had last session the county last election when we had those in place for the counties that already had them in place we were getting reports that we were checking in voters in under a minute and so that just really helps accelerate and keep those lines short and that's really improves the voter experience so we're very voter centric. Also you now get time off work for early voting. And we think that's really important right now we're seeing about 65% of all citizens are voting early and so whatever we can do to help you know voters you know get time off so that they can vote that was a bill that we wanted to support also. So we think we're in good shape for 2024 we're expecting big very big turnout numbers next year and so when we see facilities like this we're really excited that we think that we'll be able to handle whatever is thrown our way."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "They put a lot of effort into transparency in this building. How important do you think that is moving forward to sort of combat all the rumors and conspiracy theories?"
+      }
+    ],
+    "speakername": "Brad Raffensperger",
+    "ground_truth": "I think whenever you can have additional glass and transparency, whatever, going through the process, I think it just gives voters that they can ask a question and they get an answer, so it's very transparent. Because I think what we've shown is that, you know, we're going to have inaccurate results and that many people will be disappointed in that and that other people will be happy, and we don't know how that's going to go. If you look at the Governor and I were reelected with really strong margins, and obviously one party was very happy and maybe the other side wasn't, and then likewise in 2020 it was cut the other way. And so we want people to understand that we have, and that's why we are actually, you know, the leader in election integrity throughout the entire country. We're ranked at the top of the ranks, number one for the cleanest voter rolls, but also we have honest and fair elections.",
+    "bio": "The target is an American politician, businessman, and civil engineer from a southeastern state. A member of his political party, he serves as the Secretary of State. He previously served in the state House of Representatives, representing District 50. Around January 3, 2021, a controversy which included an attempt by the former president to persuade the target took place, in which the president apparently attempted to pressure him during a taped phone call. The target has, in response, stated \"the truth will come out\". It is an ongoing issue as of today. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think we're in pretty good shape legislatively and really this last session pretty much does it for the next cycle because when you come into the next session it'll be 2024 and to get something passed and in place I think it probably won't happen next year. So it's really every other year when you can look at any kind of modifications, updates, further improvements in state law. So we're really excited that what we did get in place was we got funding for additional electronic poll pads so that is really speeding up the process of checking in voters. We had last session the county last election when we had those in place for the counties that already had them in place we were getting reports that we were checking in voters in under a minute and so that just really helps accelerate and keep those lines short and that's really improves the voter experience so we're very voter centric. Also you now get time off work for early voting. And we think that's really important right now we're seeing about 65% of all residents are voting early and so whatever we can do to help voters get time off so that they can vote that was a bill that we wanted to support also. So we think we're in good shape for 2024 we're expecting big very big turnout numbers next year and so when we see facilities like this we're really excited that we think that we'll be able to handle whatever is thrown our way."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "They put a lot of effort into transparency in this building. How important do you think that is moving forward to sort of combat all the rumors and conspiracy theories?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think whenever you can have additional glass and transparency, whatever, going through the process, I think it just gives voters that they can ask a question and they get an answer, so it's very transparent. Because I think what we've shown is that, you know, we're going to have inaccurate results and that many people will be disappointed in that and that other people will be happy, and we don't know how that's going to go. If you look at the Governor and I were reelected with really strong margins, and obviously one party was very happy and maybe the other side wasn't, and then likewise in 2020 it was cut the other way. And so we want people to understand that we have, and that's why we are actually, you know, the leader in election integrity throughout the entire country. We're ranked at the top of the ranks, number one for the cleanest voter rolls, but also we have honest and fair elections."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I have a personal question too. Why did you decide you wanted to be Secretary of State?"
+      }
+    ],
+    "speakername": "Brad Raffensperger",
+    "ground_truth": "Well, I'm an engineer, also a business owner, and really when you look at the Office of Secretary of State, first of all we wanted to get new voting machines and I think it's really important that we have something with a verifiable paper ballot so we can audit any race, so that's what we have now.",
+    "bio": "The target is an American politician, businessman, and civil engineer from a southeastern state. A member of one of the major political parties, they serve as the Secretary of State of their state. They previously served in the state House of Representatives, representing District 50. Around January 2021, a controversy occurred involving a phone call with the then-president, in which there was allegedly an attempt to influence the target regarding election results. The target has maintained that 'the truth will come out'. It remains an ongoing issue. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "They put a lot of effort into transparency in this building. How important do you think that is moving forward to sort of combat all the rumors and conspiracy theories?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think whenever you can have additional glass and transparency, whatever, going through the process, I think it just gives voters that they can ask a question and they get an answer, so it's very transparent. Because I think what we've shown is that, you know, we're going to have inaccurate results and that many people will be disappointed in that and other people will be happy, and we don't know how that's going to go. If you look at the governor and I were reelected with really strong margins, and obviously Republicans were very happy and maybe the other side wasn't, and then likewise in 2020 it was cut the other way. And so we want people to understand that we have, and that's why we are actually, you know, the leader in election integrity throughout the entire country. We're ranked at the top of the ranks, number one for the cleanest voter rolls, but also we have honest and fair elections."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I have a personal question too. Why did you decide you wanted to be Secretary of State?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm an engineer, also a business owner, and really when you look at the Office of Secretary of State, first of all we wanted to get new voting machines and I think it's really important that we have something with a verifiable paper ballot so we can audit any race, so that's what we have now."
+      }
+    ],
+    "speakername": "Brad Raffensperger",
+    "ground_truth": "so is really doing something and engineers like to do things and set goals and accomplish those so we did that but also since i'm a licensed structural engineer licensed civil engineer also licensed general contractor licensing reform and that's why this past monday we formed a commission the state works and election and licensing reform commission because we license a lot of things and can we reform that process to really speed it up so we're not you know putting in impediments for people to enjoy their profession so that's one of the things and securities and charities making sure that whenever people give money to a charity it truly is a charity and it's not a scam and so we've strengthened a lot of that and we're really grateful for the work of our securities division we're really focusing on making sure that those were honest charities making sure that the money gets out to the mission field",
+    "bio": "The target is an American politician, businessman, and civil engineer from a southeastern state. A member of a major political party, they serve as the Secretary of State of their state. They previously served in the state House of Representatives, representing a district. Around early 2021, a controversy occurred involving a phone call with a former president, in which there was allegedly an attempt to influence the target. The target has responded that 'the truth will come out'. It remains an ongoing issue. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I have a personal question too. Why did you decide you wanted to be Secretary of State?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm an engineer, also a business owner, and really when you look at the Office of Secretary of State, first of all we wanted to get new voting machines and I think it's really important that we have something with a verifiable paper ballot so we can audit any race, so that's what we have now."
+      },
+      {
+        "speaker": "[target]",
+        "text": "so is really doing something and engineers like to do things and set goals and accomplish those so we did that but also since i'm a licensed structural engineer licensed civil engineer also licensed general contractor licensing reform and that's why this past monday we formed a commission the state works and election and licensing reform commission because we license a lot of things and can we reform that process to really speed it up so we're not you know putting in impediments for people to enjoy their profession so that's one of the things and securities and charities making sure that whenever people give money to a charity it truly is a charity and it's not a scam and so we've strengthened a lot of that and we're really grateful for the work of our securities division we're really focusing on making sure that those were honest charities making sure that the money gets out to the mission field"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Secretary, regarding the regional county grand jury, have you been contacted by federal investigators in the last several weeks or months at all further?"
+      }
+    ],
+    "speakername": "Brad Raffensperger",
+    "ground_truth": "No, I think that right now, those things are processes that are going on, and they don't tell us what they're going to do and, you know, all that. We'll just wait and see, like you in the press.",
+    "bio": "The subject is an American politician, businessman, and civil engineer from a southeastern state. A member of their political party, they serve as the Secretary of State of their state. They previously served in the state House of Representatives, representing a district. Around January 2021, a scandal which included an attempt by a former president to persuade the subject took place, in which the president apparently attempted to pressure them during a recorded phone call. The subject has, in response, stated \"the truth will come out\". It is an ongoing issue as of today. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

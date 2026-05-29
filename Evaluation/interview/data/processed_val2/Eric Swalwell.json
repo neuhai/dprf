@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You've got to beat them. Yeah, and there's opportunities now, right? [State1], [State2], those are two of the top targets. [State3] coming up. You've got to beat them. Or, you know, also..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The senators, I think, should be pushing to pass the background check bill there. You know, we worked our asses off to win the legislature, right? We beat 17 gun lobby-endorsed candidates to pass background checks. We got people like [Person1] in [State4] who lost her son and was one of the leaders, you know, on the Judiciary Committee with me and others to pass it. Now we should at least be forcing them to have a vote, you know, whether it's filibustering or, you know, what have you in the Senate to get a vote there. But, you know, it's really just building on that momentum or making [Person2] explain to his constituents in [State3] where they just had a shooting, you know, why he isn't, you know, pushing for background."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah. Senator [Person3] of [State5] said that she would sign an executive order mandating background checks for firearms dealers who sell more than five guns a year. She wants to close a loophole that allows some domestic abusers to buy guns. Do you support those policies and do you think we can accomplish those things with executive action?"
+      }
+    ],
+    "speakername": "Eric Swalwell",
+    "ground_truth": "Well, I do think gun violence is a, you know, national crisis right now. What I would hope to do as nominee would be to, you know, support Senate candidates who, you know, could win and give us, you know, a governing majority in the legislature. So you have the force of, you know, the Article 1 and an executive passing these laws. That is ideal. But I will do anything it takes to prevent, you know, more and more loss in our communities. But in that spirit of negotiating up, you know, not just background checks, I believe that just as [Country1] did and just as [Country2] has done, that we can take, you know, assault rifles out of our communities by banning them and buying them back. And I'm the only, you know, candidate right now that's calling for, you know, a mandatory buyback. And it's not because I, you know, don't value the Second Amendment. I say keep your pistols, your long rifles, your shotguns. But these weapons I saw when I was a prosecutor are just different. They leave. No chance. And even if they are a smaller percentage of the deaths in America from assault rifles, it's 100 percent of the fear that a student has in their classroom is that they're going to be victim of an assault rifle. And you can't measure what that does to the psyche of a student who's sitting in fear in their class today.",
+    "bio": "[target] (born November 16, 1980) is an American lawyer and politician serving as the U.S. representative for [State5]'s 15th congressional district since 2013. His district covers most of eastern [County1] County and part of central [County2] County. A member of the Democratic Party, [target] was raised in [City1], [State6], and [City2], [State5]. While attending the University of [State7], [City3], [target] served as a student liaison to the city council for [City3], [State7]. He then interned for [Person4] and worked as a deputy district attorney in [County1] County, [State5]. Before his election to Congress, he was appointed to multiple municipal commissions and served one term on the [City2] City Council. [target] was elected to the U.S. House in 2012, defeating incumbent [Person5], who had held the office since 1973. [Person5] was a fellow Democrat almost a half-century [target]'s senior. [target] took office on January 3, 2013. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The senators, I think, should be pushing to pass the background check bill there. You know, we worked our asses off to win the House, right? We beat 17 NRA-endorsed candidates to pass background checks. We got people like Lucy McBath in Georgia who lost her son and was one of the leaders, you know, on the Judiciary Committee with me and others to pass it. Now we should at least be forcing them to have a vote, you know, whether it's filibustering or, you know, what have you in the Senate to get a vote there. But, you know, it's really just building on that momentum or making Cory Gardner explain to his constituents in Colorado where they just had a shooting, you know, why he isn't, you know, pushing for background."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah. Senator Kamala Harris of California said that she would sign an executive order mandating background checks for firearms dealers who sell more than five guns a year. She wants to close a loophole that allows some domestic abusers to buy guns. Do you support those policies and do you think we can accomplish those things with executive action?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I do think gun violence is a, you know, national crisis right now. What I would hope to do as nominee would be to, you know, support Senate candidates who, you know, could win and give us, you know, a governing majority in the House and the Senate. So you have the force of, you know, the Article 1 and an executive passing these laws. That is ideal. But I will do anything it takes to prevent, you know, more and more loss in our communities. But in that spirit of negotiating up, you know, not just background checks, I believe that just as Australia did and just as New Zealand has done, that we can take, you know, assault rifles out of our communities by banning them and buying them back. And I'm the only, you know, candidate right now that's calling for, you know, a mandatory buyback. And it's not because I, you know, don't value the Second Amendment. I say keep your pistols, your long rifles, your shotguns. But these weapons I saw when I was a prosecutor are just different. They leave. No chance. And even if they are a smaller percentage of the deaths in America from assault rifles, it's 100 percent of the fear that a student has in their classroom is that they're going to be victim of an assault rifle. And you can't measure what that does to the psyche of a student who's sitting in fear in their class today."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Would that buyback plan require congressional action and significant funding to pay for the buyback?"
+      }
+    ],
+    "speakername": "Eric Swalwell",
+    "ground_truth": "number I put out there it's yes the number I put out there was a thousand dollars an assault rifle essentially would be market rate that's that's what Australia did we're not gonna get off as cheaply they bought back about 700,000 they haven't had a mass shooting since we have by estimate about 15 million assault rifles in America now that does not mean 15 million people own assault rifles and if you watch the news you know this week you saw that there's a Bel Air family thousands you know a thousand guns in a house",
+    "bio": "Eric Michael Swalwell (born November 16, 1980) is an American lawyer and politician serving as the U.S. representative for California's 15th congressional district since 2013. His district covers most of eastern Alameda County and part of central Contra Costa County. A member of the Democratic Party, Swalwell was raised in Sac City, Iowa, and Dublin, California. While attending the University of Maryland, College Park, Swalwell served as a student liaison to the city council for College Park, Maryland. He then interned for Ellen Tauscher and worked as a deputy district attorney in Alameda County, California. Before his election to Congress, he was appointed to multiple municipal commissions and served one term on the Dublin City Council. Swalwell was elected to the U.S. House in 2012, defeating incumbent Pete Stark, who had held the office since 1973. Stark was a fellow Democrat almost a half-century Swalwell's senior. Swalwell took office on January 3, 2013. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I do think gun violence is a, you know, national crisis right now. What I would hope to do as nominee would be to, you know, support Senate candidates who, you know, could win and give us, you know, a governing majority in the Legislature. So you have the force of, you know, the Article 1 and an executive passing these laws. That is ideal. But I will do anything it takes to prevent, you know, more and more loss in our communities. But in that spirit of negotiating up, you know, not just background checks, I believe that just as other countries did, that we can take, you know, assault rifles out of our communities by banning them and buying them back. And I'm the only, you know, candidate right now that's calling for, you know, a mandatory buyback. And it's not because I, you know, don't value the Second Amendment. I say keep your pistols, your long rifles, your shotguns. But these weapons I saw when I was a prosecutor are just different. They leave. No chance. And even if they are a smaller percentage of the deaths from assault rifles, it's 100 percent of the fear that a student has in their classroom is that they're going to be victim of an assault rifle. And you can't measure what that does to the psyche of a student who's sitting in fear in their class today."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Would that buyback plan require congressional action and significant funding to pay for the buyback?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "number I put out there it's yes the number I put out there was a thousand dollars an assault rifle essentially would be market rate that's that's what other countries did we're not gonna get off as cheaply they bought back about 700,000 they haven't had a mass shooting since we have by estimate about 15 million assault rifles now that does not mean 15 million people own assault rifles and if you watch the news you know this week you saw that there's a suburban family thousands you know a thousand guns in a house"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in that neighborhood what the fuck is going on"
+      }
+    ],
+    "speakername": "Eric Swalwell",
+    "ground_truth": "A lot of people, you know, they collect a number of assault rifles. And so you're not talking about 15 million people would have to sell them back. It would be significantly less. But, again, part of the problem here is we don't even know who owns them because there's no federal, you know, gun registry. Like, we have information about, you know, when you get a driver license, we know who has a driver license, who does not. We don't know who owns a gun right now. Yeah.",
+    "bio": "The target (born November 16, 1980) is an American lawyer and politician serving as the U.S. representative for a congressional district since 2013. His district covers most of eastern portions of a county and part of central portions of another county. A member of the Democratic Party, the target was raised in a city in Iowa, and a city in California. While attending a major university, the target served as a student liaison to the city council. He then interned for a politician and worked as a deputy district attorney in a California county. Before his election to Congress, he was appointed to multiple municipal commissions and served one term on a City Council. The target was elected to the U.S. House in 2012, defeating an incumbent who had held the office since 1973. The incumbent was a fellow Democrat almost a half-century the target's senior. The target took office on January 3, 2013. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "number I put out there it's yes the number I put out there was a thousand dollars an assault rifle essentially would be market rate that's that's what they did we're not gonna get off as cheaply they bought back about 700,000 they haven't had a mass shooting since we have by estimate about 15 million assault rifles in America now that does not mean 15 million people own assault rifles and if you watch the news you know this week you saw that there's a residential area family thousands you know a thousand guns in a house"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in that neighborhood what the fuck is going on"
+      },
+      {
+        "speaker": "[target]",
+        "text": "A lot of people, you know, they collect a number of assault rifles. And so you're not talking about 15 million people would have to sell them back. It would be significantly less. But, again, part of the problem here is we don't even know who owns them because there's no federal, you know, gun registry. Like, we have information about, you know, when you get a driver license, we know who has a driver license, who does not. We don't know who owns a gun in America right now. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So Cory Booker's talked about proposing that all gun owners be licensed by the federal government. Do you think that makes sense? Yeah, I do. Yeah, I support that. So your campaign mantra has been go big, be bold, do good. So besides the gun control policies we just talked about, what do you think the boldest thing you put forward is or the biggest idea you'd want to implement as president?"
+      }
+    ],
+    "speakername": "Eric Swalwell",
+    "ground_truth": "Yeah. So, and I hope people see that boldness on gun safety can also be projected on education, on healthcare, on even governing. So for example, on healthcare, like we're going to have a coverage debate. I mean, absolutely. We have to get away from this free market coverage plan where, you know, more and more paychecks are being eaten up by prescription drug costs or, you know, premiums. And as a father of, you know, two kids under two, like you become like a healthcare expert when you're like in and out of the ER. And I know not to call my wife after she's been fighting an insurance company, you know, all afternoon. So we live it. Stay off WebMD. Yeah.",
+    "bio": "The target (born November 16, 1980) is an American lawyer and politician serving as the U.S. representative for a congressional district since 2013. His district covers most of eastern parts of a county and part of central region of another county. A member of the Democratic Party, the target was raised in a city in Iowa, and a city in California. While attending a major university, he served as a student liaison to the city council. He then interned for a politician and worked as a deputy district attorney in a California county. Before his election to Congress, he was appointed to multiple municipal commissions and served one term on a city council. The target was elected to the U.S. House in 2012, defeating an incumbent who had held the office since 1973. The incumbent was a fellow Democrat almost a half-century the target's senior. The target took office on January 3, 2013. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. So, and I hope people see that boldness on gun safety can also be projected on education, on healthcare, on even governing. So for example, on healthcare, like we're going to have a coverage debate. I mean, absolutely. We have to get away from this free market coverage plan where, you know, more and more paychecks are being eaten up by prescription drug costs or, you know, premiums. And as a father of, you know, two kids under two, like you become like a healthcare expert when you're like in and out of the ER. And I know not to call my wife after she's been fighting an insurance company, you know, all afternoon. So we live it. Stay off WebMD. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It never ends well."
+      },
+      {
+        "speaker": "[target]",
+        "text": "for me that's right then you're like at the doctor's office you're like i"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I know what this is, sir."
+      }
+    ],
+    "speakername": "Eric Swalwell",
+    "ground_truth": "they're like, no, you're fine. So I hope the debate also, and the boldness that I would offer would be cures in our lifetime. I see this generation that is very collaborative and inventive in the private sector, but have lost faith that government could be a partner as it battles disease and wants to believe that we can invest in genomics research, targeted therapies, data sharing, and using innovation as a way to bring down the cost. I'll give you an example. A friend of mine worked on the administration campaign, was a federal prosecutor. Last year he called me and told me he has ALS. He's 38, two beautiful girls. And he represents a generation that is going to do this on his own. He started a foundation to take the fight to ALS and find research. But he also wants to believe that his government can be a partner and also invest in cures. And I want to be a leader for the ALS patient, the Parkinson's patient, the Alzheimer's patient, to believe that their government is up to the job and that we're going to challenge the country to invest and find cures.",
+    "bio": "The [target] (born November 16, 1980) is an American lawyer and politician serving as the U.S. representative for a congressional district since 2013. His district covers most of eastern part of a county and part of central region of another county. A member of the Democratic Party, [target] was raised in a city in Iowa, and a city in California. While attending a major university, [target] served as a student liaison to the city council. He then interned for a politician and worked as a deputy district attorney in a California county. Before his election to Congress, he was appointed to multiple municipal commissions and served one term on a city council. [target] was elected to the U.S. House in 2012, defeating an incumbent who had held the office since 1973. The incumbent was a fellow Democrat almost a half-century [target]'s senior. [target] took office on January 3, 2013. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

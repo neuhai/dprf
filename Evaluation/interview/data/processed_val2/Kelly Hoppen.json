@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's just breathtaking. I know I've been here before, but every time I come, I see something else wonderful tucked away in a little corner or up on a wall somewhere. It's just amazing. Thanks."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you I mean that's the weird thing about I think about good design is that you you can go into a space and you can experience it and then every time you go back somebody says is that new and you go no because for me the home is is a discovery you're constantly finding and seeing new things because you can't take everything in at once and the home is all about the experience that you feel in it and your memory you know your childhood memories like for me was my grandmother's home was very much the kind of the core of who I am today because of the experiences that I had there so that's what I've always tried to recreate in people's homes over 41 years and"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, when you look at it, it's all so beautifully put together and it looks as though it'd be relatively simple to do, but I can't imagine how..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "difficult it is."
+      }
+    ],
+    "speakername": "Kelly Hoppen",
+    "ground_truth": "Well, it's simple for me, but having done so many books to try and share all my knowledge with people, which I decided to do many years ago, rather than kind of store it all up in my own head, because so many people would come to me and say, but how do you do that?",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "was that when you left school to go into work or you left school and then fell into work well"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My father was killed and I was really completely, it was like the worst surprise of my life. I just thought my parents would be with me forever at that age. And he was very sick and he was given the wrong medication and he died and it was horrific. And I ran away to [country] and hooked up with a band there and was thrown in jail."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in"
+      }
+    ],
+    "speakername": "Kelly Hoppen",
+    "ground_truth": "Well, I did, but I ran away thinking no one would find me. But of course, my mother was on, you know, found me walking down [location] in [country]. It's at [city]. It's not exactly...",
+    "bio": " The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My father was killed and I was really completely, it was like the worst surprise of my life. I just thought my parents would be with me forever at that age. And he was very sick and he was given the wrong medication and he died and it was horrific. And I ran away to [country] and hooked up with a band there and was thrown in jail."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I did, but I ran away thinking no one would find me. But of course, my mother was on, you know, found me walking down [location] in [country]. It's at [city]. It's not exactly..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You ended up in jail?"
+      }
+    ],
+    "speakername": "Kelly Hoppen",
+    "ground_truth": "So I was with a multi-racial band and it, you know, there was apartheid then. And so I was traveling around and I was a backing singer. This is for a few months. I can't imagine this. You know, living on chip butties and, and literally. I can't imagine that either. Yeah. Knowing how healthy you are. Kind of got lost into a world because I was so shaken by my father's death. My mother found me and I said, mum, I'm not coming home. And she said, you need to come home. I said,",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I did, but I ran away thinking no one would find me. But of course, my mother was on, you know, found me walking down the beachfront in a coastal city. It's not exactly..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You ended up in jail?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I was with a multi-racial band and it, you know, there was segregation then. And so I was traveling around and I was a backing singer. This is for a few months. I can't imagine this. You know, living on chip butties and, and literally. I can't imagine that either. Yeah. Knowing how healthy you are. Kind of got lost into a world because I was so shaken by my father's death. My mother found me and I said, mum, I'm not coming home. And she said, you need to come home. I said,"
+      }
+    ],
+    "speakername": "Kelly Hoppen",
+    "ground_truth": "So we had a big argument and we took a trip through the desert region and we ended up somewhere and I booked all of them into a hotel and of course that wasn't allowed and we spent a night in jail and when I left the country then to finally come home, I didn't go back for many, many years. I was so young but I still understood it wasn't right.",
+    "bio": " The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I think that drove me to become, you know, really successful, you know, earned my own money. Everything that I've done and bought, I've done myself because I was so frightened that I would ever have to rely. But in the same time, you know, you lose your vulnerability. So probably throughout my life and some of the things that I did, I might have not done had I not been like that. I now am vulnerable and I've grown up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and it's different but that time was really difficult for me and I was a real loner and I was just focused I worked you know seven days a week you know through the night and I was self-taught and so that all came out of that little journey of me going over there and meeting these wonderful people and you know I love music and I love jazz and funk and and so and I still design to that kind of music so that was a very kind of pivotal time for me but this"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "strength of character it must take 16 to leave home and go to [country] and not come back at the demands of your mother and then come back and start at a business"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, that shows a real strength, a real backbone. Yeah, I don't know."
+      }
+    ],
+    "speakername": "Kelly Hoppen",
+    "ground_truth": "You know, sometimes I can transport myself back to that time and there was a very frightened little girl inside. But I have this extraordinary imagination, so I can create scenarios in my head and I can make-believe. I've always been able to visualize, which is one of the reasons I'm good at what I do, because this room can be empty and I can see it finished. So I can create fantasies. So probably a lot of my life then was a fantasy in my head, but I actually turned it into a reality. And there's an art in that, I think. And that's from just pure and utter determination. And my mother's a very strong character and I love her so much. And we're great, great friends now. But we went through a very tough time because when my father died, I hadn't seen her for a year. So I felt very alone. When I was in [country] and I attached myself to these people who didn't know who I was. They had no idea who my grandfather was, who was this highly successful businessman in [country]. I was just this girl with red hair who just loved music, loved to dance. And was a good singer. Was a good singer and was blown away by this underground, knew it was naughty and it was bad, but wanted to be that way.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

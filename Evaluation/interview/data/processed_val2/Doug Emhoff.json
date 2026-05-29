@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you know she's still thinking of me uh as her husband and thinking of the kids and our family so while everything's changed that's how she's always been"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "being there for us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "9. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it."
+      }
+    ],
+    "speakername": "Doug Emhoff",
+    "ground_truth": "Still the same, but I will say I'm just so proud of the way she stepped up when the president decided not to continue on his campaign.",
+    "bio": "Born October 13, 1964, is an American lawyer who serves as the second spouse of the country. As the first-ever husband of the vice president, he is the first male spouse in this role in American history. He is also the first Jewish spouse of a vice president. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "being there for us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "9. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Still the same, but I will say I'm just so proud of the way she stepped up when the President decided not to continue on his campaign."
+      }
+    ],
+    "speakername": "Doug Emhoff",
+    "ground_truth": "I mean, we needed a leader. We needed somebody to step up, and she did. I'm just so proud of her. Yes. Every moment. She's just, like, exceeding these really high expectations each and every time, and she keeps doing it. So I'm just so proud of her.",
+    "bio": "Born on October 13, 1964, the target is a lawyer who serves as the Second Gentleman of the nation. They are married to the 49th Vice President. As the first-ever husband of a Vice President, they are the first Second Gentleman in the country's history. They are also the first Jewish spouse of a Vice President. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "9. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it. I'm not sure if this is the right way to do it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Still the same, but I will say I'm just so proud of the way she stepped up when the president decided not to continue on his campaign."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, we needed a leader. We needed somebody to step up, and she did. I'm just so proud of her. Yes. Every moment. She's just, like, exceeding these really high expectations each and every time, and she keeps doing it. So I'm just so proud of her."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So tell me this, I mean, because that's a huge whirlwind. I thought my life was a whirlwind, but you got me beat, honey. Let me say this. So when you're on the road, what do you miss most about [city]?"
+      }
+    ],
+    "speakername": "Doug Emhoff",
+    "ground_truth": "Well, it's our home, so there's so much about it. Just even, you know, driving on the lot here, being an entertainment lawyer, kind of my old life. But I still, when I'm here...",
+    "bio": "Born October 13, 1964, the speaker is a lawyer who serves as the Second Gentleman of the country. He is married to the 49th Vice President. As the first-ever husband of a Vice President, he is the first Second Gentleman in the nation's history. He is also the first Jewish spouse of a Vice President. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "makes it a little difficult. Can you imagine? You're the second gentleman. That is amazing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's funny you say that, Jenner. Sometimes, you know, we'll just be together, and I'll lean over and say, you're the vice president. And he'll say, you're the second gentleman. And now it's, you're everywhere. Yes. And it's, you're running for president. It does take a moment to take."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "take it all in. So what has the last four years been like for you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So stepping away from the career that I loved,"
+      }
+    ],
+    "speakername": "Doug Emhoff",
+    "ground_truth": "I'd say at first, I'd say it was difficult. But my spouse really pushed me to take on this role as second gentleman. So whether it was fighting for being the first man in this role, so, you know, fight for gender equity as the first guy in this role. First person of my faith in this role.",
+    "bio": "Born October 13, 1964, he is a lawyer who is the Second Gentleman of the nation. He is married to the 49th Vice President. As the first-ever husband of a Vice President, he is the first Second Gentleman in the country's history. He is also the first person of his faith to be spouse of a Vice President. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "take it all in. So what has the last four years been like for you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So stepping away from the career that I loved,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'd say at first, I'd say it was difficult. But my spouse really pushed me to take on this role as second gentleman. So whether it was fighting for being the first man in this role, so, you know, fight for gender equity as the first guy in this role. First Jew in this role."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Doug Emhoff",
+    "ground_truth": "First Jewish person ever in this role. And so fighting this uptick in anti-Semitism, I'm a lawyer, access to the legal system and pro bono legal services. So I've really found my way and she's really helped.",
+    "bio": "Born October 13, 1964, is an American lawyer who is the Second Gentleman of the nation. He is married to the 49th Vice President. As the first-ever husband of a Vice President, he is the first Second Gentleman in national history. He is also the first Jewish spouse of a Vice President. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

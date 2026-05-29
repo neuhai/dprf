@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And you were going to lose, and you lost the business? That's right. I sold it at auctions. Sold it for auctions? Just got enough out of it to pay my taxes and bills, you see. What age were you at that time? I was 66 years old when I started franchising in earnest."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, but when you lost the business, when you lost your motel, you were really looking forward to this being the nest egg that you'd worked for all of your life, and now it was gone, had to sell it at the auction. You were 65 at that time?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "sixty-five, but I'd already had a guinea pig franchised out or two, knowing that I was going to have to franchise, I wanted to see how it would take, you see. So then I started franchising in earnest when I was sixty-six years old. I just say the moral of my life, don't quit at age sixty-five, maybe your boat hasn't come in yet, mine hasn't."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How long, when you started with this franchise, how long before the real break came and it began to take off across the country?"
+      }
+    ],
+    "speakername": "Harland Sanders",
+    "ground_truth": "It began to do pretty good after about two years. See, I only got a nickel on every chicken that they sold. They got three dinners out of it. But I got one nickel for the whole deal. But you'd be surprised how fast old nickel added up. It gave me an insight into how much money is handled by five and ten-cent stores. I finally got up to where I had an income of $1,000 a day, don't you see? And, of course, my only reason for selling the company was I didn't have anybody succeed me in running it for my wife and two daughters if I was taken away. And the government would also get to set a price, their price on it, just they have an estate, and that would probably wipe it out. So I had $2 million coming, and I thought, well, I take that, and that will last us the rest of our lives. But it didn't, don't you see? My first tithe, when I got my first payment on that $500,000, my first tithe was $50,000. I gave that to a charitable organization. I didn't consider any of you fellows in your churches.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, but when you lost the business, when you lost your motel, you were really looking forward to this being the nest egg that you'd worked for all of your life, and now it was gone, had to sell it at the auction. You were 65 at that time?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "sixty-five, but I'd already had a guinea pig franchised out or two, knowing that I was going to have to franchise, I wanted to see how it would take, you see. So then I started franchising in earnest when I was sixty-six years old. I just say the moral of my life, don't quit at age sixty-five, maybe your boat hasn't come in yet, mine hasn't."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How long, when you started with this franchise, how long before the real break came and it began to take off across the country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It began to do pretty good after about two years. See, I only got a nickel on every chicken that they sold. They got three dinners out of it. But I got one nickel for the whole deal. But you'd be surprised how fast old nickel added up. It gave me an insight into how much money is handled by five and ten-cent stores. I finally got up to where I had an income of $1,000 a day, don't you see? And, of course, my only reason for selling the company was I didn't have anybody succeed me in running it for my wife and two daughters if I was taken away. And Uncle Sam would also get to set a price, his price on it, just he has an estate, and that would probably wipe it out. So I had $2 million coming, and I thought, well, I take that, and that will last us the rest of our lives. But it didn't, don't you see? My first tithe, when I got my first payment on that $500,000, my first tithe was $50,000. I gave that to a charitable organization. I didn't consider any of you fellows in your churches."
+      }
+    ],
+    "speakername": "Harland Sanders",
+    "ground_truth": "I figured the charitable organization would stoop to pick up a man or a woman who's downtrodden and try to rehabilitate them more than any other church in the country. Right. Don't you agree with me?",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I gave that to charity because I didn't want that to fall into my estate. I didn't sell it at the time I sold it to this country. I kept the northern territory. And then I realized that that would fall into my estate for taxes, so the thing would do me, and they made it. I didn't owe anybody anything for it down here, not even my family. So I gave it to a charitable organization, incorporated the charitable foundation, and gave the stock, the whole $6 million company, to the charity. And for that reason, I've got about 1,000 students on scholarships throughout the country in eight different colleges."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Beautiful."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's better than me getting it, because if I got the income from that, it'd go for taxes, and it is now, it's going to raise. And then hospitals and other hospitals, churches, it's just wonderful to, I say that's where the Lord has saved me, I think, for that kind of a deal, don't you see? I believe so. To do something for him, and I see I'm trying to do it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There came a time after you had sold the food franchise here and you hit upon a particular hard time, not financially, but there were some disappointments in your life and you made the statement that if you could just make peace with your maker, you'd like to go on home and be with the Lord."
+      }
+    ],
+    "speakername": "Harland Sanders",
+    "ground_truth": "That's what we, I want to be sure we're right with that. Sir, how long? Thanks to you boys for coming along.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "There came a time after you had sold the franchise here and you hit upon a particular hard time, not financially, but there were some disappointments in your life and you made the statement to [name] that if you could just make peace with your maker, you'd like to go on home and be with the Lord."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's what we, I want to be sure we're right with that. Sir, how long? Thanks to you boys for coming along."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Praise the Lord. Praise the Lord."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you've experienced the Lord Jesus Christ"
+      }
+    ],
+    "speakername": "Harland Sanders",
+    "ground_truth": "as your personal savior. You betcha. It's a great experience and the greatest experience I've had in my 89 years before.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Praise the Lord. Praise the Lord."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you've experienced the Lord Jesus Christ"
+      },
+      {
+        "speaker": "[target]",
+        "text": "as your personal savior. You betcha. It's a great experience and the greatest experience I've had in my 89 years before."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "the Lord. Eighty-nine years of age. What do you think about your great granddaughter receiving the Lord Jesus Christ as her Savior?"
+      }
+    ],
+    "speakername": "Harland Sanders",
+    "ground_truth": "I think that was one I'm so proud of because she was born and raised in a religious family. Very devout and a good family they were. And that religion's all right. If they just knew what made them followers of their faith, they don't know that. But they're just as devout and a religious person, I guess, is just as good as any other faithful person. And I have known some that were. But they don't have to...",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

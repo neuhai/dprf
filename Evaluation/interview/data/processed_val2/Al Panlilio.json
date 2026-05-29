@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I mean, despite those challenges, I think we see a lot of opportunities as we move forward. And our main focus always will be our customers, communities, and the country that we serve. And making sure that we're able to help them get back either their lives or their businesses during this new normal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "COVID-19 has now transformed into a global pandemic. It has affected our economies, our jobs, the stock market, and our way of life. As it brings uncertainty to many parts of our lives, this series is our conversations with the companies, the players, the decision makers, to help us make sense of it all. Welcome to Call Conversations."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Welcome to COL Conversations. I'm very fortunate today to have with me [target], the Chief Revenue Officer of PLDT and President of Smart Communications, Annabelle Limchua, Senior Vice President, CFO and Chief Risk Management Officer of PLDT, and Melissa Vergel de Joss, First Vice President and Head of Investor Relations. They will be talking about how PLDT is doing today in light of the COVID-19 pandemic and lessons learned from past crises that they're applying today. So first of all, how is PLDT being affected by the COVID-19 pandemic and the lockdown that was recently implemented in most of the country? And what are you doing differently right now because of the pandemic?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, okay, April. Thank you. And again, thank you for inviting us and just going back to the bond, I think that's a very significant effort that Annabel and the team has done and really, it's really good for the company, but also good for the country. And I think you've seen a lot of other companies following suit just gives the confidence and only to, I think, PLDT, but also to the country. I guess for us, we've been very busy, April, since the start of the year, but even busier, of course, during the pandemic. Maybe I just run through very quickly the programs that we've had from a business segment point of view. I guess for SMART, which is the individual business, really, our brand promise, really passions powered by innovation and cutting edge technology made simple."
+      }
+    ],
+    "speakername": "Al Panlilio",
+    "ground_truth": "we we are really pushing for digital solutions across the board driving our customers to online which is significant during the during the pandemic pushing on our platforms and as you know it's already the 20th year of digital communications so some programs also in messaging and pushing also for mobile wifi devices where it's really now very critical especially for certain industries like education where students will really be studying from home we also got a lot of demand during the lockdown for remote work connectivity that was very very big during this period again i think you're very aware of this we had a major campaign despite the pandemic we launched this june 1 and we shot this at the height of the lockdown of course we're not able to travel internationally but we had people working and really the promise as i said is making it simple for our customers and really relying on our network classes mobile network that have been actually acknowledged by third-party companies so for home again keeping our brand promise keeping families connected in a meaningful way used to be really just for funding and rest time for families but during the lockdown even for work as i said and also for education so it became a very very strong message for us to really continue pushing connectivity to the home shifting online selling services also online staying home campaign and even we even did the speed boost to our customers doubling the data so that we can help them during this time",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "COVID-19 has now transformed into a global pandemic. It has affected our economies, our jobs, the stock market, and our way of life. As it brings uncertainty to many parts of our lives, this series is our conversations with the companies, the players, the decision makers, to help us make sense of it all. Welcome to Call Conversations."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Welcome to COL Conversations. I'm very fortunate today to have with me [target], the Chief Revenue Officer of a major telecommunications company and President of its mobile division, alongside two other senior executives. They will be talking about how their company is doing today in light of the COVID-19 pandemic and lessons learned from past crises that they're applying today. So first of all, how is your company being affected by the COVID-19 pandemic and the lockdown that was recently implemented in most of the country? And what are you doing differently right now because of the pandemic?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, okay, April. Thank you. And again, thank you for inviting us and just going back to the bond, I think that's a very significant effort that our team has done and really, it's really good for the company, but also good for the country. And I think you've seen a lot of other companies following suit just gives the confidence not only to our company, but also to the country."
+      },
+      {
+        "speaker": "[target]",
+        "text": "we are really pushing for digital solutions across the board driving our customers to online which is significant during the pandemic pushing on our digital platforms and as you know it's already the 20th year of our messaging service so some programs also in messaging and pushing also for mobile wifi devices where it's really now very critical especially for certain industries like education where students will really be studying from home we also got a lot of demand during the lockdown for business process outsourcing for example of having work from home connectivity so that was very very big during this period again i think you're very aware of this we had a major campaign despite the pandemic we launched this june 1 and we shot this at the height of the lockdown of course we weren't able to travel overseas but we had people working and really the promise as i said is making it simple for our customers and really relying on our network quality that have been actually acknowledged by third-party companies"
+      }
+    ],
+    "speakername": "Al Panlilio",
+    "ground_truth": "Initially, during the onset, the first quarter was very strong, still carrying the momentum from the fourth quarter of last year. Starting the third week of March, we did see a slowdown up to April, where top-ups were softer. But after the holiday period, our top-ups started to come back. Even up to this day, we are already above pre-lockdown levels in terms of top-ups. We've also been able to recover on our post-paid applications. During the lockdown, when retail stores were closed, new activations were near zero. Now it's back to almost pre-lockdown levels. For home broadband, demand continues to be strong. The pandemic clearly shows our advantage on our fiber network. Enterprise segment is the softest but still growing compared to last year, mainly because many customers, especially small businesses, are impacted. Data traffic grew by 25% during lockdown and remains at that level today. We were able to address capacity issues and reallocate frequencies to provide more capacity for our mobile network. Looking forward, we're focusing on data and broadband services, with work from home gaining greater adoption as the new normal. The investments made by the company in recent years are showing positive results in terms of customer experience.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I think that's the good news despite the fact that almost the whole month of April was very very soft in terms of our business."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "But you're still maintaining your conservative guidance that you gave during the first quarter briefing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "in terms of revenues or"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yes, in terms of revenue, it's going to be slightly lower."
+      }
+    ],
+    "speakername": "Al Panlilio",
+    "ground_truth": "Well, if you compare second quarter to first quarter 2020, I think it will be obviously negative, but very, very low-digit negative. So it's not going to be too far from first quarter. In fact, I think our second quarter revenues will be higher than the first three quarters of last year. Okay, that's very good. Only not higher than fourth quarter, which is normally our highest month, highest quarter for the year. But our first quarter this year is already higher than fourth quarter of last year. So I think those are the numbers that we see. And I think it created momentum starting from last year, as I said. So that's bringing us forward. And I think our first half will show growth vis-a-vis last year. Same period.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "So, yeah, we were very pleased with the outcomes of the bond issue. As you indicated, we had orders of over US$10 billion for an issue size requirement of US$600 billion. So, it affirms basically that the confidence of investors behind the PLDT story, particularly as it relates to a historic 30-year tenor and at very historically low coupons also for any Philippine issuer. It helps also that we have a credit rating of investment grade provided by S&P and Moody. So, that again gave confidence to the auditors. Offshore investors in the PLDT long-term credit story. So, it's principally meant for refinancing of our debt maturities for balance of the year and next year and some prepayments even of 2022 loans. So, effectively, we're going to be able to achieve a lower financing cost by being able to refinance at this rate. And also, it takes away the risk of any refinancing. So, that's one of the issues that we may have. It also diversifies our funding source to a new base and effectively preserves our bank lines locally for other financing requirements we have. From a currency perspective, PLDT still enjoys some US dollar inflows. So, we feel that we have the ability to take on some additional US dollar exposure. Although, we will also be actively managing our hedging. So, all told, I think it really benefits even the equity story because we have put in place the refinancing at good terms for PLDT."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, definitely. It's good news. I remember in the past, I mean, when you go through crisis, it's one of the major problems being able to refinance at a very good rate. And you have at least addressed that problem that there will be no refinancing risk for PLDT in the near term. Okay, so out of curiosity, the decision to tap Yunbin as your endorser, how has that been? Has it been very successful in generating revenues for you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, the day that we launched June 1, we launched Fume Bean, we had, I think that was the second highest top-up of the day for our business. So there has been a big demand, actually. It has impacted our business, actually. It has shown interest."
+      },
+      {
+        "speaker": "[target]",
+        "text": "from the market and I think maybe for a change during the time that everybody was on a lockdown and there was really nothing to look forward to but watch Chloe, everybody sort of knew him, knew Yoon Bin and I think we're very lucky and very blessed that we were able to get him and I guess that was maybe the good news during a time when there was a crisis that was happening and a welcome good news at that time and it also shows I think what our business is all about, technology and I think we shot this commercial still in the middle of May despite people not being able to travel and it was a one-day shoot in [region] May 16 if I recall and we had a zoom-in call with Yoon Bin during the actual shot and I think he was very happy and of course he didn't speak too much English but he said thank you and all of that and we just said thank you for endorsing but I think it shows you the technology, connectivity and you know we can still do things I mean I guess despite the challenges and the obstacles."
+      }
+    ],
+    "speakername": "Al Panlilio",
+    "ground_truth": "And to the point, going back to the bond, I was telling Annabel, I wanted to have gone to [city], [city], [city] for the roadshow.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But we did a roadshow virtually, eight or nine, I think, Annabel, meetings in eight hours. And really, it was done through virtual."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, it's very impressive actually. I mean, the sign of confidence on the company is very impressive. I mean, with that band offering, yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The chairman was very very happy with that, so thank you."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, and on the other side, we have the SMEs though that are suffering because of the COVID-19 pandemic and that's hurting your enterprise business. We're just wondering, would that have a significant impact and how are you helping them cope?"
+      }
+    ],
+    "speakername": "Al Panlilio",
+    "ground_truth": "Yeah, well, first of all, we've given them reprieve on the billings. We're giving them six months to, you know, so that we don't give, you know, they don't get suffer a bill shock. We're giving them time to pay and recover. We also just launched late last week a new offering, Beyond Fiber, which is really more beyond connectivity. It offers also, you know, Wi-Fi in your office and some other platforms that can help you run your business. I mean, today, a lot of people during the lockdown are baking from their homes and wanting to sell it online. So I think there are packages that we can offer for people that are, you know, entrepreneurial in their own way and are able to push these products online and they can sell and they can earn money. I know that a lot of people have lost their jobs also. So I think this is our small way of maybe offering a package that can help them get into their own business and have their own e-commerce platform run their business.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

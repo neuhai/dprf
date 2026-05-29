@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, welcome [target]. So, you know, to kind of start us off, you're a city native, born and bred. So maybe we can kind of go back to the very beginning. Tell us a little bit about the housing projects and where you grew up. You know, your dad used to work for the postal service and your mom at a security company. Both pretty different, you know, from the investment bank. So I'm trying to just tell us about the early days."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I grew up in, as you say, I grew up in the outer borough, which is a stone's throw from the city center, but I probably went into the city center no more than three or four times. Two or three of those times would have been to the entertainment venue Christmas show. When my parents brought me there, I might as well have been 400 miles away and not just four miles away. But for those of you who visit the city center, there's a lot of city around that. And I know I'm one of those outer borough people. I grew up in the housing projects, public housing. I'm now 69 years old, so that dates me and it dates my childhood. When we got there, when I was an infant in the late 50s, I had two parents and a family that was co... I was coherent. I went to high school, overcrowded city high school, triple session high school, disadvantages and advantages. At the time, I thought one of the advantages were you only had about three hours a day or three, three and a half hours a day because they cleared out the school twice because they had three sessions. And so that seemed like a good idea at the time when I was a kid looking back, that's not necessarily the way to do things. But I did well in that context. And fortunately, I got into great schools on scholarship, which I remain grateful today. And then, of course, that caused a change in the trajectory and went through college, went through law school, got a job, obviously, in a law firm for a long time, then made my way into finance."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What would you say was your driving force or your driving motivation growing up in the projects and making your way into the banking world?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the banking world was not even a dot on the horizon. Where I grew up, very few people, nobody's parents went to college and nobody's parents had a white college job. I wouldn't have known what that was even to have a conversation about it. I knew there was a wider world. I had a, in my high school."
+      }
+    ],
+    "speakername": "Lloyd Blankfein",
+    "ground_truth": "I was on a swimming team. It wasn't a very good swimming team. I wasn't a very good swimmer on the not very good swimming team, but I did have a coach that took an interest in me. And for one summer, he tended to the waterfront of a camp in the mountain region, which catered to kids who could afford to go to summer camp in that area. And so I was hired for the summer. I think I was paid $100 for the whole summer, and I worked as an assistant to an assistant on the waterfront there. But what that gave me was an exposure to kids who I couldn't even grasp what they were. They came to this camp and had little TVs and their own paddle for canoeing that was theirs. I thought these were kids from another planet. They were children of doctors and lawyers and professionals. These weren't ludicrous. Not by any means, but I got some exposure to different kinds and generally that and reading and watching. I knew there was something beyond. And I'd say my motivation at the time was to get away, go to, quote, an out-of-town school, whatever that meant.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was on a swimming team. It wasn't a very good swimming team. I wasn't a very good swimmer on the not very good swimming team, but I did have a coach that took an interest in me. And for one summer, he tended to the waterfront of a camp in [location], which catered to kids who could afford to go to summer camp in [location]. And so I was hired for the summer. I think I was paid $100 for the whole summer, and I worked as an assistant to an assistant on the waterfront there. But what that gave me was an exposure to kids who I couldn't even grasp what they were. They came to this camp and had little TVs and their own paddle for canoeing that was theirs. I thought these were kids from another planet. They were children of doctors and lawyers and professionals. These weren't ludicrous. Not by any means, but I got some exposure to different kinds and generally that and reading and watching. I knew there was something beyond. And I'd say my motivation at the time was to get away, go to, quote, an out-of-town school, whatever that meant."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I applied to schools and I got in. I didn't get into all of them, but I got into, you only can go to one and I got into a good one."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So, I mean, [target], this is super interesting. Would you say that you were unusually cautious or unusually, like, ambitious or driven? Like, were you, like..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "are actually talented academically like what was what was the thing"
+      }
+    ],
+    "speakername": "Lloyd Blankfein",
+    "ground_truth": "You know, I don't know. I don't, look, I've had a lot of validation in my life. So, gosh, when I look in the mirror, I think to myself, boy, I must really be terrific. But the fact of the matter is.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, I don't know. I don't, look, I've had a lot of validation in my life. So, gosh, when I look in the mirror, I think to myself, boy, I must really be terrific. But the fact of the matter is."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I say that to myself too all the time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm sure other people say it to you. Other people don't say it to me. But I look, look, everybody knows bad luck, but there's also good luck. And you get to a crossroads. I went to a college night that my own high school didn't have because not a lot of kids from my high school went to college, but I went to it. I met a guy who was handing out applications at college night and talking about his school. It was a guy from [university]. And on that basis, I applied to [university]. And I got in. What if I had not done that? I would have gone to, look, who knows? I made a video. You just don't know. There's a lot of randomness. You can charge people as fully accountable for everything that happens in their lives. And you can lean into it. You can lean into certain places. You can steer your career and your life. You can put yourself into a different position and work hard. But the fact of the matter is, you have to sometimes be lucky and you have to get people who have an interest in you. Some people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Lloyd Blankfein",
+    "ground_truth": "carry themselves in a way that make it more likely that people will take an interest in them, some less. You could be the Olympic athlete, but you could peak in a non-Olympic year. So I'm just saying that a lot of, you know, and I think it's very important for very, very successful people to realize when they admire themselves and they have very libertarian tendencies because they think, you know, we should all enjoy what we have and not have restrictions or other or throw into a common pool. I think it's worthwhile to remind yourself that we're all, that all of us, you know, are beneficiaries who get to good places or beneficiaries of good luck too.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm sure other people say it to you. Other people don't say it to me. But I look, look, everybody knows bad luck, but there's also good luck. And you get to a crossroads. I went to a college night that my own high school didn't have because not a lot of kids from my high school went to college, but I went to it. I met a guy who was handing out applications at college night and talking about his school. It was a guy from a prestigious university. And on that basis, I applied to that university. And I got in. What if I had not done that? I would have gone to, look, who knows? I made a video. You just don't know. There's a lot of randomness. You can charge people as fully accountable for everything that happens in their lives. And you can lean into it. You can lean into certain places. You can steer your career and your life. You can put yourself into a different position and work hard. But the fact of the matter is, you have to sometimes be lucky and you have to get people who have an interest in you. Some people."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "carry themselves in a way that make it more likely that people will take an interest in them, some less. You could be the Olympic athlete, but you could peak in a non-Olympic year. So I'm just saying that a lot of, you know, and I think it's very important for very, very successful people to realize when they admire themselves and they have very libertarian tendencies because they think, you know, we should all enjoy what we have and not have restrictions or other or throw into a common pool. I think it's worthwhile to remind yourself that we're all, that all of us, you know, are beneficiaries who get to good places or beneficiaries of good luck too."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. You know, I think something I tell a lot of people at SPC, but even in looking back at my own career, there have just been these pivotal points of like people I've met, projects I've taken on, things that have been successful. And a lot of the times that it springs from serendipitous, kind of like lucky meetings. And I, you know, I always tell people like, you can make yourself a big target for luck, you know, make yourself a big bullseye so lady luck can get to you, but you still have to get a little lucky."
+      }
+    ],
+    "speakername": "Lloyd Blankfein",
+    "ground_truth": "I don't know. And lucky always sounds, when you say somebody is lucky, that always sounds good. There's good luck and bad luck. But look, we would not be having this conversation had I not been CEO of a major investment bank. Would I have been CEO of that bank if my predecessor wasn't appointed Secretary of the Treasury?",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "carry themselves in a way that make it more likely that people will take an interest in them, some less. You could be the Olympic athlete, but you could peak in a non-Olympic year. So I'm just saying that a lot of, you know, and I think it's very important for very, very successful people to realize when they admire themselves and they have very libertarian tendencies because they think, you know, we should all enjoy what we have and not have restrictions or other or throw into a common pool. I think it's worthwhile to remind yourself that we're all, that all of us, you know, are beneficiaries who get to good places or beneficiaries of good luck too."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. You know, I think something I tell a lot of people at SPC, but even in looking back at my own career, there have just been these pivotal points of like people I've met, projects I've taken on, things that have been successful. And a lot of the times that it springs from serendipitous, kind of like lucky meetings. And I, you know, I always tell people like, you can make yourself a big target for luck, you know, make yourself a big bullseye so lady luck can get to you, but you still have to get a little lucky."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know. And lucky always sounds, when you say somebody is lucky, that always sounds good. There's good luck and bad luck. But look, we would not be having this conversation had I not been CEO of [financial institution]. Would I have been CEO of [financial institution] if my predecessor wasn't appointed Secretary of the Treasury?"
+      }
+    ],
+    "speakername": "Lloyd Blankfein",
+    "ground_truth": "When he still had a lot of runway ahead of him in this job, who knows? I could have retired as his number two. Who knows? And so that's the point. That said, when you're in a leadership position, you're organizing things, you have to hold people accountable. It's not always useful. It's not. Yeah, exactly. It's fun.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That was the second high school I got kicked out of in [state]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "trailblazer I did it before you that's right."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So are we like the poster children for how much high school sucks and you don't really need it?"
+      }
+    ],
+    "speakername": "Nancy Mace",
+    "ground_truth": "And how we shouldn't have been successful. Like you and I, to be on the stage tonight, to be doing the television show out of basically the same stoplight in [state].",
+    "bio": "The politician (born December 4, 1977) is an American politician serving as the U.S. representative for [state]'s 1st congressional district since 2021. The district includes much of the state's share of the East Coast, from [city] to [city]. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "trailblazer I did it before you that's right."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So are we like the poster children for how much high school sucks and you don't really need it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And how we shouldn't have been successful. Like you and I, to be on the stage tonight, to be doing The Daily Show out of basically the same stoplight in [state]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's right."
+      }
+    ],
+    "speakername": "Nancy Mace",
+    "ground_truth": "We were that close, we're the same age, and we both dropped out or got kicked out of high school. To be here tonight together is a huge testament to hard work.",
+    "bio": "The representative (born December 4, 1977) is an American politician serving as the U.S. representative for [state]'s 1st congressional district since 2021. The district includes much of the state's share of the East Coast, from [city] to [city]. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We were that close, we're the same age, and we both dropped out or got kicked out of high school. To be here tonight together is a huge testament to hard work."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and to values, it's amazing. We should not be where we are today."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Should we say something about being pro high school? I don't want kids to just drop out."
+      }
+    ],
+    "speakername": "Nancy Mace",
+    "ground_truth": "I don't want my kids dropping out of high school, I don't want your kids dropping out of high school, you got to get your high school diploma and if you get your high school diploma your kids are more likely to get theirs too, but it's a testament to whether it's divine intervention, divine attraction, it's a testament to hard work, a little bit of good luck, but it's a huge honor to be here and to do this.",
+    "bio": "The target (born December 4, 1977) is an American politician serving as the U.S. representative for a coastal congressional district since 2021. The district includes much of the state's share of the East Coast, from a major coastal city to a prominent island. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't want my kids dropping out of high school, I don't want your kids dropping out of high school, you got to get your high school diploma and if you get your high school diploma your kids are more likely to get theirs too, but it's a testament to whether it's divine intervention, divine attraction, it's a testament to hard work, a little bit of good luck, but it's a huge honor to be here and to do this."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Thanks for having us."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Awesome. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And, you know, the first time we met was backstage at a comedy show in [location]. Somebody snapped his picture. And when I walked back there, y'all was in like a heated debate, kind of."
+      }
+    ],
+    "speakername": "Nancy Mace",
+    "ground_truth": "Yeah, we were drinking tequila. There was tequila involved. Did you partake in the tequila? I did have some tequila. We were doing shots of tequila, for better or worse, and we had a political debate. And basically, from my recollection, is that the comedian's message was that one political party needs to read the room. And my message is every politician, from either party, need to read the room because they aren't paying attention to the people. And the people are the ones that elected them to office. And that's what we have to be doing today.",
+    "bio": "The representative (born December 4, 1977) is an American politician serving as the U.S. representative for a coastal district since 2021. The district includes much of the state's share of the East Coast, from a major coastal city to a resort island. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Awesome. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And, you know, the first time we met was backstage at a comedy show in [city], [state]. Somebody snapped his picture. And when I walked back there, y'all was in like a heated debate, kind of."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we were drinking tequila. There was tequila involved. Did you partake in the tequila? I did have some tequila. We were doing shots of tequila, for better or worse, and we had a political debate. And basically, from my recollection, is that the comedian's message was that Republicans need to read the room. And my message is every politician, Democrat or Republican, need to read the room because they aren't paying attention to the people. And the people are the ones that elected them to office. And that's what we have to be doing today."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did you feel, like, prejudged in a way just because you were introduced as a conservative so he just automatically assumed, you know, what you were about?"
+      }
+    ],
+    "speakername": "Nancy Mace",
+    "ground_truth": "A little bit. And I'm not your typical Republican. I would say not typical conservative because when I agree with my party, I support them. When I disagree, I call my party out and I do it over and over and over again. I would say I have a different flavor of Republicanism.",
+    "bio": "The speaker (born December 4, 1977) is an American politician serving as the U.S. representative for [state]'s 1st congressional district since 2021. The district includes much of the state's share of the East Coast, from [city] to [city]. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hi, thank you for having me!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um, so this is the first time we've had you on since you took office. Um, I remember in the first year of the [federal building], uh, there were quite a few times where we looked at each other and said, wow, [capital city] is even worse than we said it was on the campaign. Um, have you had moments like that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, I have had moments like that. In other ways, though, it has been better than what I expected."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Where has it been worse and where has it been better?"
+      }
+    ],
+    "speakername": "Alexandria Ocasio-Cortez",
+    "ground_truth": "Worse in that I see how laws are made and I am shocked. You know, I sometimes I feel as though if people really saw what our legislative process was like, it would be a national scandal sometimes. But it's been better in that I actually I think I was more cynical about the capacity for change even going in.",
+    "bio": "The subject (born October 13, 1989), also known by their initials, is an American politician and activist. They are the United States Representative-elect for a congressional district, having won the district's general election in November 2018. The subject is the youngest woman ever elected to Congress. In June 26, 2018, they won the Democratic primary in their district covering parts of two urban areas in a major city, defeating the incumbent Congressman, Democratic Caucus Chair, in what was described as the biggest upset victory in the 2018 midterm-election season. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, I have had moments like that. In other ways, though, it has been better than what I expected."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Where has it been worse and where has it been better?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Worse in that I see how laws are made and I am shocked. You know, I sometimes I feel as though if people really saw what our legislative process was like, it would be a national scandal sometimes. But it's been better in that I actually I think I was more cynical about the capacity for change even going in."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Uh-huh."
+      }
+    ],
+    "speakername": "Alexandria Ocasio-Cortez",
+    "ground_truth": "And now I actually surprisingly believe that it's even more possible than I had thought going in. Not that I thought it was impossible going in, but seeing how a lot of these dynamics work, I feel more hopeful now more than ever about the possibility of grassroots politics.",
+    "bio": "The speaker (born October 13, 1989), also known by their initials, is an American politician and activist. They are the United States Representative-elect for a congressional district in a major northeastern state, having won the district's general election in November 2018. They are the youngest woman ever elected to Congress. On June 26, 2018, they won the Democratic primary in their district covering parts of two urban areas, defeating the incumbent Congressman, Democratic Caucus Chair, in what was described as the biggest upset victory in the 2018 midterm-election season. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And now I actually surprisingly believe that it's even more possible than I had thought going in. Not that I thought it was impossible going in, but seeing how a lot of these dynamics work, I feel more hopeful now more than ever about the possibility of grassroots politics."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What has made you more hopeful than you thought you'd be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think so many of our decisions are based on public sentiment."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Alexandria Ocasio-Cortez",
+    "ground_truth": "And I believe that if we can really unlock the ability to transform and change and focus on moving public sentiment, then we can really open up our possibilities of what we're capable in [government center]. And granted, I think that I and our team and some other members are in a unique capacity. We haven't had this strange fusion of politics and pop culture in this way since I think, frankly, the 60s.",
+    "bio": "[target] (born October 13, 1989), also known by their initials, is an American politician and activist. They are the United States Representative-elect for [state]'s 14th congressional district, having won the district's general election in November 2018. [target] is the youngest woman ever elected to Congress. On June 26, 2018, [target] won the Democratic primary in [state]'s 14th congressional district covering parts of [city region] in [major city], defeating the incumbent Congressman, Democratic Caucus Chair [opponent name], in what was described as the biggest upset victory in the 2018 midterm-election season. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I do think that out of all of the issues, immigration is probably the most difficult within the Democratic Party. I think that it is the single most challenging issue within the party because we have members from all over the country and we have members that won really tough districts. And immigration is the one issue that really touches a big nerve. And so it's a challenge. It's a really big challenge. And it's one that I think is really important."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "For me, coming from a district that's 50% immigrant, I come from one of the most diverse districts, arguably the most diverse district in the country in terms of languages spoken. Over 200 languages are spoken in my community, and it's tough to reconcile that. It really does get very difficult."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What lessons did you learn from the last sort of immigration funding battle for next time?"
+      }
+    ],
+    "speakername": "Alexandria Ocasio-Cortez",
+    "ground_truth": "Well, I learned, I learned that, I learned where a lot of the fault lines are and a lot of these decisions, you know, when we talk about how",
+    "bio": "A prominent American politician and activist born October 13, 1989, also known by their initials. They are the United States Representative-elect for a congressional district in [state], having won the district's general election in November 2018. They are the youngest woman ever elected to Congress. In June 2018, they won the Democratic primary in their district covering parts of [city] in [state], defeating the incumbent Congressman, Democratic Caucus Chair, in what was described as the biggest upset victory in the 2018 midterm-election season. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "For me, coming from a district that's 50% immigrant, I come from one of the most diverse districts, arguably the most diverse district in the country in terms of languages spoken. Over 200 languages are spoken in my community, and it's tough to reconcile that. It really does get very difficult."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What lessons did you learn from the last sort of immigration funding battle for next time?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I learned, I learned that, I learned where a lot of the fault lines are and a lot of these decisions, you know, when we talk about how"
+      }
+    ],
+    "speakername": "Alexandria Ocasio-Cortez",
+    "ground_truth": "legislation is made, it's made a lot of times, there's a long process where people are kind of writing it and toiling over it, but really the chips fall within 48 hours.",
+    "bio": "A political figure (born October 13, 1989), also known by their initials, is an American politician and activist. They are the United States Representative-elect for a congressional district in [state], having won the district's general election in November 2018. They are the youngest woman ever elected to Congress. In June 26, 2018, they won the Democratic primary in their congressional district covering parts of an urban area, defeating the incumbent Congressman, Democratic Caucus Chair, in what was described as the biggest upset victory in the 2018 midterm-election season. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

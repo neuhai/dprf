@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It always starts with the game, David. I think the game is one of the greatest games, if not the greatest game in the world. The competition is extraordinary, the players, the coaching. Our games have never been closer in history, and I think it brings people together, and it does well on media. I think the television experience is as great as anything in television. I think being in the stadium is better, but I think we're fortunate to have a great product. Second, I'd say the business model. I think we have a tremendous business model. I think when you look at the key aspects of revenue sharing and a salary cap that we've designed with our players, that we have something that I think makes every team competitive, and I think that's unusual. And they have the finances to be competitive, and I think that's an important element that people overlook. And I think it also is just a statement. You know better than I do. You're a great investor, and you know this business better than I do. I think it's a statement on the potential success for the league going forward, too."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've had a number of games overseas in recent years and in fact you opened the season going to the opening game in [location]. So do you expect to do more overseas games and is that a part of your strategy?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is. We had five last year. We expect to have eight this year, which will be the highest we've ever had. Our hope would be at some stage to get to 16 games in the next few years. We think we can do that. I think it's an indication of the popularity of our game. Every time we take our game to a new market, [location]'s a great example of it, the fans go crazy for it. They sold out the tickets in less than 90 minutes. People had a wonderful time. It was the talk of the town. I think it will be the basis and the match that lights the excitement and the popularity of the game in that market, as well as what we're doing around the world. We're very excited by it. It's just one element of that strategy. You need to have television. You need to have activity and participation in the sport. Flying football is a big part of that. All of those factors, I think, are going to be what we're going to do. We think it will be a very successful formula to be a global sport."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you ever envision having a team that's based overseas in [location] or in [location]?"
+      }
+    ],
+    "speakername": "Roger Goodell",
+    "ground_truth": "Listen, we've talked an awful lot about it. And I think there are markets that could, without question, support an NFL franchise. I think there's a lot of issues with expansion of our league that we have to debate on that one. You know, additional teams. We have 32 now. We think that's a really good number for the NFL. But also, I think we would probably look at it potentially as building out by divisions as opposed to individual teams. You have a lot of issues with the team that's in, let's say, [location]. And having to travel over playing games and teams going back over to [location] to play. I think the competitive issues still need to be worked out.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It is. We had five last year. We expect to have eight this year, which will be the highest we've ever had. Our hope would be at some stage to get to 16 games in the next few years. We think we can do that. I think it's an indication of the popularity of our game. Every time we take our game to a new market, the fans go crazy for it. They sold out the tickets in less than 90 minutes. People had a wonderful time. It was the talk of the town. I think it will be the basis and the match that lights the excitement and the popularity of the game in that market, as well as what we're doing around the world. We're very excited by it. It's just one element of that strategy. You need to have television. You need to have activity and participation in the sport. Flying football is a big part of that. All of those factors, I think, are going to be what we're going to do. We think it will be a very successful formula to be a global sport."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you ever envision having a team that's based overseas in [location] or in [location]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, we've talked an awful lot about it. And I think there are markets that could, without question, support an NFL franchise. I think there's a lot of issues with expansion of our league that we have to debate on that one. You know, additional teams. We have 32 now. We think that's a really good number for the NFL. But also, I think we would probably look at it potentially as building out by divisions as opposed to individual teams. You have a lot of issues with the team that's in, let's say, [location]. And having to travel over playing games and teams going back over to [location] to play. I think the competitive issues still need to be worked out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "All the Super Bowls have been held in the [location]. And they've had more than 50 of them so far. Do you ever envision a time when a Super Bowl will be held in a city not in the [location]?"
+      }
+    ],
+    "speakername": "Roger Goodell",
+    "ground_truth": "Well, we've always, I think, had Super Bowl in the city that has a franchise. And I think that's sort of the core principle that we've had. I think if we have an international franchise, I definitely see that happening. I think as we become global, that'll be something that, as we have international franchises, that would be logical.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Listen, we've talked an awful lot about it. And I think there are markets that could, without question, support an NFL franchise. I think there's a lot of issues with expansion of our league that we have to debate on that one. You know, additional teams. We have 32 now. We think that's a really good number for the NFL. But also, I think we would probably look at it potentially as building out by divisions as opposed to individual teams. You have a lot of issues with the team that's in, let's say, a foreign continent. And having to travel over playing games and teams going back over to play. I think the competitive issues still need to be worked out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "All the championship games have been held in this country. And they've had more than 50 of them so far. Do you ever envision a time when a championship game will be held in a city not in this country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we've always, I think, had championship games in the city that has a franchise. And I think that's sort of the core principle that we've had. I think if we have an international franchise, I definitely see that happening. I think as we become global, that'll be something that, as we have international franchises, that would be logical."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So let's talk about one of the franchises. Recently, a team was sold for $6 billion, I'd say about a year ago or so, a major team, for a price that nobody had ever thought a sports franchise in this country would reach, $6 billion. Were you surprised the price was that high?"
+      }
+    ],
+    "speakername": "Roger Goodell",
+    "ground_truth": "No, I think one that's a that's a franchise that growing up in that region, I probably have deeper emotional feelings for it. But that's a franchise in a great market. And we believe that it's going to be a tremendous success there. And I think the new ownership group and their limited investors are going to do a great job. I'm not at all surprised they got to that price.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we've always, I think, had major games in the city that has a franchise. And I think that's sort of the core principle that we've had. I think if we have an international franchise, I definitely see that happening. I think as we become global, that'll be something that, as we have international franchises, that would be logical."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So let's talk about one of the franchises. Recently, a team was sold for $6 billion, I'd say about a year ago or so, [team name], for a price that nobody had ever thought a sports franchise in the United States would reach, $6 billion. Were you surprised the price was that high?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I think one that's a that's a franchise that growing up in [city], I probably have deeper emotional feelings for it. But that's a franchise in a great market. And we believe that it's going to be a tremendous success there. And I think [investor name] and his limited investors are going to do a great job. I'm not at all surprised that they got to that price."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Recently, the NFL allowed private equity firms, including mine, to invest in NFL teams in minority stakes, I think up to 10%. Right. And a number of these have already been done. In fact, I think valuations are above the $6 billion level that the commanders receive. I think some of the minority stake investments are at least $8 billion valuations. So why did you let the bad guys known as the private equity people into the tent? And why have you capped it at 10%? One, letting."
+      }
+    ],
+    "speakername": "Roger Goodell",
+    "ground_truth": "the bad guys in, we really feel like there are things that you all can teach us a little bit about our business and maybe help us think about it a little differently. As you know, that 10% position is a silent position. We believe very strongly in the fact that we like the principal owner approach that we've had for years and other sports have had successfully. So we want to make sure that the controlling owner is the one that makes the decisions on behalf of the club, both at the league level and at the club level.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I think one that's a that's a franchise that growing up in [location], I probably have deeper emotional feelings for it. But that's a franchise in a great market. And we believe that it's going to be a tremendous success there. And I think Josh Harris and his limited investors are going to do a great job. I'm not at all surprised that they got to that price."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Recently, the NFL allowed private equity firms, including mine, to invest in NFL teams in minority stakes, I think up to 10%. Right. And a number of these have already been done. In fact, I think valuations are above the $6 billion level that the commanders receive. I think some of the minority stake investments are at least $8 billion valuations. So why did you let the bad guys known as the private equity people into the tent? And why have you capped it at 10%? One, letting."
+      },
+      {
+        "speaker": "[target]",
+        "text": "the bad guys in, we really feel like there are things that you all can teach us a little bit about our business and maybe help us think about it a little differently. As you know, that 10% position is a silent position. We believe very strongly in the fact that we like the principal owner approach that we've had for years and other sports have had successfully. So we want to make sure that the controlling owner is the one that makes the decisions on behalf of the club, both at the league level and at the club level."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But do you ever envision a time when a sovereign wealth fund could invest directly in a minority stake in a team?"
+      }
+    ],
+    "speakername": "Roger Goodell",
+    "ground_truth": "I don't think we'll ever allow institutional in a controlling position, at least in the foreseeable future. Again, I think we feel very strongly about having a principal owner that is there operating the franchise responsible for that, both in the club level as well as the league level.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

@@ -48,6 +48,8 @@ cache/
 # Experiment outputs
 outputs/
 results/
+res/
+tmp/
 logs/
 wandb/
 *.log

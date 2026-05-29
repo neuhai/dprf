@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hello, Joe. Good to see you. It's good to be back."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "nice seeing you what's it been like uh retiring from being a congresswoman for a wee bit"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It feels so weird hearing that word. Retire? Yeah."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "It's a dirty word. I don't know what that means. I don't believe in retirement. Yeah. I believe in quitting."
+      }
+    ],
+    "speakername": "Tulsi Gabbard",
+    "ground_truth": "Yeah, I suppose. Or moving on, rather. Moving on. That's where I've never seen politics as a quote-unquote career. Some people are like, oh, how's it like retiring from Congress? I can't relate to that. I'm just continuing the work, but in a different way.",
+    "bio": "[target] is an American politician who served as the U.S. Representative for a congressional district from 2013 to 2021. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Well, the way you did it though is what most people should do. When people are running for office and then they're also in a job, you're not doing a good job at that job. There's no way you can be. Running for office, just campaign financing, just raising the money for the campaign has to be crazy. It is. The amount of time. There's no way that you could be dedicating 100% of your time to your constituents."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It."
+      },
+      {
+        "speaker": "[target]",
+        "text": "amount of time. There's no way that you could be dedicating 100% of your time to your constituents."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Like you should be. Yeah."
+      }
+    ],
+    "speakername": "Tulsi Gabbard",
+    "ground_truth": "Yeah, it has to be it has to be your full time mission. And, you know, people who come and ask me, they're like, Oh, I'm thinking of running for office. And that's literally what I tell them. I'm like, Are you ready to quit everything else in your life, and have the support of your family, and dedicate all your energy towards this mission of service, because it will require that if you're serious about it, it will require that.",
+    "bio": "[target] is an American politician who served as the U.S. Representative for [State]'s 2nd congressional district from 2013 to 2021. [Political Party] [Election] The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it has to be it has to be your full time mission. And, you know, people who come and ask me, they're like, Oh, I'm thinking of running for office. And that's literally what I tell them. I'm like, Are you ready to quit everything else in your life, and have the support of your family, and dedicate all your energy towards this mission of service, because it will require that if you're serious about it, it will require that."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "If you want to do it at your best."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Tulsi Gabbard",
+    "ground_truth": "And if you want to be truly sincere, when you're knocking on people's doors, you're standing in a town hall meeting and you're saying, hey, essentially, give me your trust that I will fight for you, I will speak for you, I will represent you every single day. How are you going to do that if you're like, yeah, by the way, I got this side gig or that side gig or this, you know, other loyalty that is something other than you, you know, the people, the voter? And I don't know, I think more and more people are starting to pick up on that and question that in both people who are running for office and their electeds, like who are you really working for?",
+    "bio": "[target] is an American politician who served as a representative for a [state] congressional district from 2013 to 2021. #Political Party #NationalElection The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And if you want to be truly sincere, when you're knocking on people's doors, you're standing in a town hall meeting and you're saying, hey, essentially, give me your trust that I will fight for you, I will speak for you, I will represent you every single day. How are you going to do that if you're like, yeah, by the way, I got this side gig or that side gig or this, you know, other loyalty that is something other than you, you know, the people, the voter? And I don't know, I think more and more people are starting to pick up on that and question that in both people who are running for office and their electeds, like who are you really working for?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Well, they certainly should. It's a complicated union. It is. It is that. It really is. Between money and politics. I mean, it would be wonderful if we could get money entirely out of politics. If the only way that a politician could make money while they're in office is just their salary. Yeah. If we said it that way. I'm sure you're aware of the [senior politician] stuff. Absolutely."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm sure you're aware of the [senior politician] stuff. Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Wild."
+      }
+    ],
+    "speakername": "Tulsi Gabbard",
+    "ground_truth": "It is. And look, I think this is one of the good things about social media is, of course, the mainstream corporate media is hardly covering it at all. But because of social media, things like that are spreading like wildfire, like, hey, [senior politician's spouse] is doing these trades within this period of time of [senior politician] voting on this bill or bringing a bill to the floor. Because we've got to remember, [senior politician] as [government position], nothing happens without her knowing about it or giving her stamp of approval. So regardless of whether it's happening in the [government committee] or the [government committee] or the [government committee], if there's a bill coming to the floor and there's major legislation that's being passed or is being squashed, that is happening with her say-so. And so just in these last few days. You know, once people started making noise saying, hey, you as a member of Congress or your spouse or your adult child should not be allowed to conduct insider trading on issues that Congress is dealing with, which really covers every issue under the spectrum.",
+    "bio": "[target] is an American politician who served as the U.S. Representative for [state]'s 2nd congressional district from 2013 to 2021. [political party] [election] The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Well, they certainly should. It's a complicated union. It is. It is that. It really is. Between money and politics. I mean, it would be wonderful if we could get money entirely out of politics. If the only way that a politician could make money while they're in office is just their salary. Yeah. If we said it that way. I'm sure you're aware of the leadership stuff. Absolutely."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm sure you're aware of the leadership stuff. Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Wild."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is. And look, I think this is one of the good things about social media is, of course, the mainstream corporate media is hardly covering it at all. But because of social media, things like that are spreading like wildfire, like, hey, certain officials are doing these trades within this period of time of voting on this bill or bringing a bill to the floor. Because we've got to remember, as Speaker of the House, nothing happens without their knowing about it or giving their stamp of approval. So regardless of whether it's happening in the various committees, if there's a bill coming to the floor and there's major legislation that's being passed or is being squashed, that is happening with their say-so. And so just in these last few days. You know, once people started making noise saying, hey, you as a member of Congress or your spouse or your adult child should not be allowed to conduct insider trading on issues that Congress is dealing with, which really covers every issue under the spectrum."
+      }
+    ],
+    "speakername": "Tulsi Gabbard",
+    "ground_truth": "They can't pretend anymore that they haven't been doing it. And yet, even as leadership, like, OK, OK, fine, we'll draft legislation. But Congress is about to take a break as they head into the general elections. And once again, they're refusing to bring the bill to the floor for a vote saying, oh, well, you know, we're not going to bring it to the floor if it doesn't have support. Put people on the spot. Make them cast that vote.",
+    "bio": "The speaker is an American politician who served as a U.S. Representative for a congressional district from 2013 to 2021. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

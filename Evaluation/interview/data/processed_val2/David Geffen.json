@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's not a problem, because there are so few great talents that it's always a discovery when you find the one. There are so many people around who are trying to make it in the music business. It's a very open business, more open, I think, than any other area of show business. With Laura, I didn't discover her. I was in the region, and she had a record that was being played quite a bit. And I heard the record, and I loved it, and I went out and bought the album and listened to it. And I was stunned at all the insight that she had. You know, she was at the time, I think, 19 years old, and it was overwhelming. It was more of an experience than I had ever had listening to an artist. I got back to the city. I tried to track her down, and I called up her manager, the man who was handling her at the time, and I said, your client is unbelievable. And he proceeded to put her down. Terribly, you know, and I thought to myself, how awful that this poor girl was, you know, being managed by someone who had no respect for her at all. And I finally got to meet her. And she was a very innocent, very, very innocent young girl who really couldn't take care of herself. All she could do was create. And I told her that I wanted to help her, and she needed help. We got together, and I've been her agent since then. She's a very special person. She's very much a woman, and yet she's incredibly a child, incapable of driving or, you know, just makes beautiful music and has a great deal of love."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, now, when you first met Miss Nero, she had arrived at some public identification. Was she known broadly or basically, say, among the aficionados of soul music or rock or whatever you would call it? Or was there a need to begin almost all over again and make an introduction to the audience?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes, it was, because her..."
+      }
+    ],
+    "speakername": "David Geffen",
+    "ground_truth": "The initial start in this business had been handled by people who had no sensitivity at all, and they had led her in all the wrong directions. I remember she was telling this story the first time that she appeared anywhere. They had her booked on a military vessel with 60,000 drunken sailors, and she was...",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The initial start in this business had been handled by people who had no sensitivity at all, and they had led her in all the wrong directions. I remember she was telling this story the first time that she appeared anywhere. They had her booked on a military vessel with 60,000 drunken sailors, and she was..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "She's right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What an old, retired naval officer, [target]. Now, would you like to rephrase that? She was on a military vessel and was? 60,000 men. Young men. Yes."
+      }
+    ],
+    "speakername": "David Geffen",
+    "ground_truth": "And she was following a roller skating act, and they wouldn't let her sing live, they had her, and she's a great singer, they had her mouth lip-synced to a record, and in the middle of the record it started skipping. You know, there was just no protection, you know, no care for her as a person or an artist. And this first album that she'd recorded was also, again, with no care. All the care that she'd put into creating the material was then handled with no care by the people who were going to lay it down on tape, and it was an inferior product for her, not that it... Maybe in terms of sound production?",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What an old, retired naval officer, [target]. Now, would you like to rephrase that? She was on an aircraft carrier and was? 60,000 men. Young men. Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And she was following a roller skating act, and they wouldn't let her sing live, they had her, and she's a great singer, they had her mouth lip-synced to a record, and in the middle of the record it started skipping. You know, there was just no protection, you know, no care for her as a person or an artist. And this first album that she'd recorded was also, again, with no care. All the care that she'd put into creating the material was then handled with no care by the people who were going to lay it down on tape, and it was an inferior product for her, not that it... Maybe in terms of sound production?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "or"
+      },
+      {
+        "speaker": "[target]",
+        "text": "term."
+      }
+    ],
+    "speakername": "David Geffen",
+    "ground_truth": "of what she writes marvelous lyric musical changes and her arranger didn't think that they were commercial she doesn't know what commercial means she only knows what she feels so they would write out her changes things that she labored on for months and months and months and they would just take them out and she used to go in and and listen to the tracks that they had made out of her music and she would cry you know she would just cry and they think she was crazy you know here she was crying all the time and then they would give her a you know one or two opportunities to sing the song and and she was going for something that was beautiful something that was was personal and beautiful to her and they were just looking to sell records you know and that was not what her intention is it isn't today as a matter of fact it's very difficult to get her to do anything that might further her you know her career in the in the business so to speak she won't do television shows for the most part she never has she doesn't go on the road and all she wants to do is do a personal creative thing although she'll start now because she she wants to perform it's part it's part of the whole talent uh but now when she she'll perform she'll perform surrounded by people who are interested in what she's doing not",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "the artists presumably are in full control of what happens."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Peace."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think that they are, as much as they can be."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did you find many problems actually putting the label together, [target]?"
+      }
+    ],
+    "speakername": "David Geffen",
+    "ground_truth": "Actually not, because we put the label together with [company] as our partner, and they helped us tremendously, and [company] distributes us here in [country], and they've been fantastic.",
+    "bio": " The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Because one of the interesting things about the record label, I think, [target], is that it, perhaps more than almost any label I can think of, reflects the musical taste of the person who runs it. You do have very specific musical ideas, don't you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think I like music, you know. Whatever strikes me as being good is something that I want to record. I mean, I don't think that every record that we make is a hit or that every artist that we record is going to be a star. But I think that all the music that we put out is very valid and that all the people making these records are making good records. And I think that's what's important and they get a free opportunity to make these records and if we believe in them, we'll stick with them whether they make it or not. We're not going to drop an artist."
+      },
+      {
+        "speaker": "[target]",
+        "text": "If they don't sell, that isn't the kind of company it is."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "David Geffen",
+    "ground_truth": "and it's been fun and it was never a great deal of fun dealing with all the record companies that we were dealing with in the past because we had ideas about how we wanted our artists recorded or how we wanted them promoted or what we wanted them to do and they had specific ideas and it's their company so we decided that we'd start one of our own and see if we could make it work the way we wanted it to and it has i think you know and it's it's only a baby in the next year the first year that we've been in business we put out eight albums and our latest artist's album is the newest album and i think it's the best album that she's made it's uh just been released about uh three weeks ago and i think it should be a very big hit but we have albums coming out in february by the original group which we've put back together",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

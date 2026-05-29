@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes. Oh, my goodness. So today, like you said, today is Election Day. Every day is going to be Election Day until November 8th. So we are really just moving into our GOTV, our get out the vote period. Right. Our campaign is so excited. We're energized. We're out talking to voters, knocking doors and excited about these last few weeks and even more excited about the end because it's been a year."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I know it's been a long haul. It always is for candidates for Congress. No sooner does it finish than you start all over again. But let me just ask you, what are the big issues in your district that you see?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, certainly. You know, obviously, I mean, not just in our district, but state and nationwide, the fall of Roe v. Wade has really been just a critical and important issue, right? Especially with our state legislature, the state legislature, abortion access has really played a key role over the last few months. That, of course, is still joined by so many of the other issues we have. Job creation and infrastructure are still issues, right? Housing is an issue in our district. Education. Those are things that folks are still thinking about every single day. Of course, folks are, you know, really just looking to how are they going to get and where are they going to get relief? So those are the things that we've been hearing and seeing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Representative, I've seen on, I think, some of your social media posts, you participated in a program, I think, that identified you and a number of others as the most progressives in the Congress with your election coming up. And it does raise the question, because your opponent raises this, that you are not only progressive, but that you're a socialist. Are you? I would like to..."
+      }
+    ],
+    "speakername": "Summer Lee",
+    "ground_truth": "know how people even define socialists look the reality is is from day one i've been so upfront about what i'm fighting for with the movement that's connected to us has been fighting for and the truth is is that we've been very clear we're fighting for working class people for labor for unions and living wage we're fighting for housing we're fighting for equitable education uh and opportunity uh those are the things that we're fighting for those are the things that we are very upfront about so labels folks have labeled me various things um we take it we keep moving but as long as people know what we're standing for and what we're fighting for i think that that is actually um really the more important thing",
+    "bio": "The representative (born November 26, 1987) is an American politician and community organizer serving as the U.S. representative for a congressional district since 2023. A member of the Democratic Party, they served as a member of the state House of Representatives for the local district from 2019 to 2022. With the support of the local chapter of the Democratic Socialists of America, they defeated the incumbent in the 2018 Democratic primary election with over 67% of the vote. They were the first black woman to represent the region in the state legislature. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, certainly. You know, obviously, I mean, not just in our district, but state and nationwide, the legislative changes have really been just a critical and important issue, right? Especially with our state legislature, the state legislature, healthcare access has really played a key role over the last few months. That, of course, is still joined by so many of the other issues we have. Job creation and infrastructure are still issues, right? Housing is an issue in our district. Education. Those are things that folks are still thinking about every single day. Of course, folks are, you know, really just looking to how are they going to get and where are they going to get relief? So those are the things that we've been hearing and seeing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Representative, I've seen on, I think, some of your social media posts, you participated in a program, I think, that identified you and a number of others as the most progressives in the legislative body with your election coming up. And it does raise the question, because your opponent raises this, that you are not only progressive, but that you're a socialist. Are you? I would like to..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "know how people even define socialists look the reality is is from day one i've been so upfront about what i'm fighting for with the movement that's connected to us has been fighting for and the truth is is that we've been very clear we're fighting for working class people for labor for unions and living wage we're fighting for housing we're fighting for equitable education uh and opportunity uh those are the things that we're fighting for those are the things that we are very upfront about so labels folks have labeled me various things um we take it we keep moving but as long as people know what we're standing for and what we're fighting for i think that that is actually um really the more important thing"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, let me ask you just directly, is it your intention to be part of the progressive caucus if you're elected to Congress?"
+      }
+    ],
+    "speakername": "Summer Lee",
+    "ground_truth": "That's a really good question. It is my intention to work with every single member who is working to advance the issues that we so desperately care about. Right. And are so desperately fighting for in this district. Right. That would and I and I truly do believe that will include the progressives, the progressive caucus that will include the minority caucus. That would include members who are less progressive. Right. Some of our more moderate and conservative members, as we are working together, whether it be on infrastructure or whether it be on environmental justice. I am looking to partner with all those folks who are moving in the direction that we are.",
+    "bio": "The representative is an American politician and community organizer serving as the U.S. representative for a district in a northeastern state since 2023. A member of the Democratic Party, they served as a member of the state House of Representatives from 2019 to 2022. With the support of a local progressive organization, they defeated an incumbent in the 2018 Democratic primary election with over 67% of the vote. They were the first minority representative to represent their region in the state legislature. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "know how people even define socialists look the reality is is from day one i've been so upfront about what i'm fighting for with the movement that's connected to us has been fighting for and the truth is is that we've been very clear we're fighting for working class people for labor for unions and living wage we're fighting for housing we're fighting for equitable education uh and opportunity uh those are the things that we're fighting for those are the things that we are very upfront about so labels folks have labeled me various things um we take it we keep moving but as long as people know what we're standing for and what we're fighting for i think that that is actually um really the more important thing"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, let me ask you just directly, is it your intention to be part of the squad if you're elected to Congress?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's a really good question. It is my intention to work with every single member who is working to advance the issues that we so desperately care about. Right. And are so desperately fighting for in the district. Right. That would and I and I truly do believe that will include the progressives, the squad that will include the Black Caucus. That would include members who are less progressive. Right. Some of our more moderate and conservative members, as we are working together, whether it be on infrastructure or whether it be on climate justice and environmental justice. I am looking to partner with all those folks who are moving in the direction that we are."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "know it's a little strange but there is an ad that's running on television that is purportedly against chris deluzio your colleague who is running in a district next door to you but it seems to feature you more than it does deluzio um first before i ask you about the specifics what's your reaction to this ad from the congressional leadership front"
+      }
+    ],
+    "speakername": "Summer Lee",
+    "ground_truth": "you know it's it's annoying but i i guess it makes total total sense right we expected that we knew that was to come right the uh the nrcc right the the republican the national republicans campaign arm they signal early on that this was a race that they would love to kind of try to poke and prod in and of course helps that they uh have a candidate that shares the same exact name as the outgoing congressman uh so all of those cards kind of align for them to try to kind of kill two birds with one stone as it were and also i'm used to being a target right uh there's been a concerted effort you know in our just political system right to try to make not just me but the movement that we represent the the constituents that we represent kind of a pariah in our political system um you know make it harder for folks who truly do align with us uh to be public and to be outward and really trying to hurt chris with guilt by association but chris is his own candidate he's his own man he is working his district uh and he's and he's standing on his record he's standing on his values and it would be great if they focused on that over in that district",
+    "bio": "The representative (born November 26, 1987) is an American politician and community organizer serving as the U.S. representative for a congressional district since 2023. A member of the Democratic Party, [target] served as a member of the state House of Representatives for the district from 2019 to 2022. With the support of the local chapter of the Democratic Socialists of America, [target] defeated the incumbent in the 2018 Democratic primary election with over 67% of the vote. [target] was the first black woman to represent the region in the state legislature. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's a really good question. It is my intention to work with every single member who is working to advance the issues that we so desperately care about. Right. And are so desperately fighting for in the 12th congressional district. Right. That would and I and I truly do believe that will include the progressives, the squad that will include the Black Caucus. That would include members who are less progressive. Right. Some of our more moderate and conservative members, as we are working together, whether it be on infrastructure or whether it be on climate justice and environmental justice. I am looking to partner with all those folks who are moving in the direction that we are."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "know it's a little strange but there is an ad that's running on television that is purportedly against chris deluzio your colleague who is running in a district next door to you but it seems to feature you more than it does deluzio um first before i ask you about the specifics what's your reaction to this ad from the congressional leadership front"
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know it's it's annoying but i i guess it makes total total sense right we expected that we knew that was to come right the uh the nrcc right the the republican the national republicans campaign arm they signal early on that this was a race that they would love to kind of try to poke and prod in and of course helps that they uh have a candidate that shares the same exact name as the outgoing congressman uh so all of those cards kind of align for them to try to kind of kill two birds with one stone as it were and also i'm used to being a target right uh there's been a concerted effort you know in our just political system right to try to make not just me but the movement that we represent the the constituents that we represent kind of a pariah in our political system um you know make it harder for folks who truly do align with us uh to be public and to be outward and really trying to you know hurt chris with guilt by association but chris is his own candidate he's his own man he is working his district uh and he's and he's standing on his record he's standing on his values and it would be great if they focused on that over in that district"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It appears as if they're more focused on you in that ad. And I wanted to ask you about two lines that they quote you. First of all, they have you on camera saying these words, policing as we know it is no longer necessary, quote unquote. It's [target] saying that. What did you mean by that?"
+      }
+    ],
+    "speakername": "Summer Lee",
+    "ground_truth": "Certainly. Honestly, I don't remember what the entire context is, because as those ads go, they rarely play the entire thing or even signal to viewers where they are pulling it from. But if I could imagine what we've been talking about is what does policing look like post George Floyd, post Trayvon Martin, post Antoine Rose II, right, which is a case that we saw here in our own backyard. And there has been a national conversation about how do we address the inequities, the discrimination, the racial biases in policing. And that is not something that we can afford to shy away from. It's an uncomfortable conversation. But the reality is, is that if we are going to be honest about addressing public safety, about addressing crime, then as politicians, as local political and movement leaders, we should focus on the root of that. And that's not increased policing in marginalized communities. But instead, it's increased funding to schools in those districts. It's increased opportunities through jobs that pay a family sustaining wage is addressing the social determinants of crime. And I think that if we put more effort and resource and energy into that endeavor, I think that it would pay dividends and quite more than continuing on pretending that policing doesn't have systemic concerns.",
+    "bio": "Summer Lynn Lee (born November 26, 1987) is an American politician and community organizer serving as the U.S. representative for Pennsylvania's 12th congressional district since 2023. A member of the Democratic Party, Lee served as a member of the Pennsylvania House of Representatives for the 34th district from 2019 to 2022. With the support of the local chapter of the Democratic Socialists of America, she defeated incumbent Paul Costa in the 2018 Democratic primary election with over 67% of the vote. Lee was the first black woman to represent Southwestern Pennsylvania in the state legislature. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you know it's it's annoying but i i guess it makes total total sense right we expected that we knew that was to come right the uh the nrcc right the the republican the national republicans campaign arm they signal early on that this was a race that they would love to kind of try to poke and prod in and of course helps that they uh have a candidate that shares the same exact name as the outgoing congressman uh so all of those cards kind of align for them to try to kind of kill two birds with one stone as it were and also i'm used to being a target right uh there's been a concerted effort you know in our just political system right to try to make not just me but the movement that we represent the the constituents that we represent kind of a pariah in our political system um you know make it harder for folks who truly do align with us uh to be public and to be outward and really trying to you know hurt chris with guilt by association but chris is his own candidate he's his own man he is working his district uh and he's and he's standing on his record he's standing on his values and it would be great if they focused on that over in that district"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It appears as if they're more focused on you in that ad. And I wanted to ask you about two lines that they quote you. First of all, they have you on camera saying these words, policing as we know it is no longer necessary, quote unquote. It's [target] saying that. What did you mean by that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Certainly. Honestly, I don't remember what the entire context is, because as those ads go, they rarely play the entire thing or even signal to viewers where they are pulling it from. But if I could imagine what we've been talking about is what does policing look like post George Floyd, post Trayvon Martin, post Antoine Rose II, right, which is a case that we saw here in our own backyard. And there has been a national conversation about how do we address the inequities, the discrimination, the racial biases in policing. And that is not something that we can afford to shy away from. It's an uncomfortable conversation. But the reality is, is that if we are going to be honest about addressing public safety, about addressing crime, then as politicians, as local political and movement leaders, we should focus on the root of that. And that's not increased policing in marginalized communities. But instead, it's increased funding to schools in those districts. It's increased opportunities through jobs that pay a family sustaining wage is addressing the social determinants of crime. And I think that if we put more effort and resource and energy into that endeavor, I think that it would pay dividends and quite more than continuing on pretending that policing doesn't have systemic concerns."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your opponents, of course, say that you want to defund the police. Do you want to defund the local police in this area?"
+      }
+    ],
+    "speakername": "Summer Lee",
+    "ground_truth": "I want to do precisely what I just laid out. The Republicans, the national Republicans have made it a point to say that every Democrat wants to destroy policing and is to deflect away from that very serious conversation that we're having. The reality is, is that black and brown folks are disproportionately killed when they are unarmed or when they are not non-threatening by police officers. And we can talk about how dangerous a job that is. Those are conversations that we can have. But that statistic still stands. And we know that there is a direct correlation there. And to address that is not the problem. To address that is actually the solution. And what I talked about addressing crime and poverty at its root, there is a direct correlation between poverty and crime. Addressing those will alleviate policing. It will make that job safer. It'll make communities safer for all the folks who push tough on crime narratives. They're soft on action, right? They're soft on actually funding and investing in the programs, the policies, the wraparound services that will actually accomplish that. And they use police as a scapegoat. And it's not fair to police and it's not fair to our communities and it's not fair to our political system.",
+    "bio": "Summer Lynn Lee (born November 26, 1987) is an American politician and community organizer serving as the U.S. representative for Pennsylvania's 12th congressional district since 2023. A member of the Democratic Party, Lee served as a member of the Pennsylvania House of Representatives for the 34th district from 2019 to 2022. With the support of the local chapter of the Democratic Socialists of America, she defeated incumbent Paul Costa in the 2018 Democratic primary election with over 67% of the vote. Lee was the first black woman to represent Southwestern Pennsylvania in the state legislature. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

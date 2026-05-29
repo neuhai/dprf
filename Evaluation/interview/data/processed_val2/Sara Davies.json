@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Today I am delighted to share that we have managed to capture a dragon. We welcome onto the show [target], founder of a crafting company and star of the hit business show on television. [target] shares her story from kicking off her own business while still studying at university in a northern city to building a global crafting empire and then hitting our screens with hit shows as I say such as the business investment show, a popular dancing competition and lots to come in the future. So I'm not going to spoil it because the story behind how [target] got there is very very interesting and not what you might expect to hear. So I'll shut up and let you listen to her story in her words. I hope you enjoy. Today I am delighted to be joined by [target] on Swim Against the Tide. Hi [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Hello! You know I was thrilled to be invited!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Oh, pleasure. So, some might think you don't need an introduction, but I think it's always good with most of the guests that we've had on, because we're trying to sort of let people understand how career journeys can go and how businesses can be built, that they see you at this lofty position of this superstar on TV and business and forget that there was a time when you started this out. So, I'd love if you'd go back. Obviously, I'm very lucky I've met you a couple of times. I know your story to a degree, but it'd be good to go back to those university days and explain how the empire was built. And then we can go through and hopefully meander through the rest of it for the next hour or so."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, you're right, and I remember a couple of years ago, I was in the back of a taxi with a fellow business person. It's when we were filming the show, and I think we were talking about, you know, she'd been booked for a speaking opportunity, and we'd got talked about, and really it was... I was like, sometimes, I pinch myself when I think, when I've got to say so valuable that a company will pay so much money to fly me into something to speak for 20 minutes. And she said, yeah, but, you're not paying for those 20 minutes. They're paying for the lifetime that has gone into creating the experience. That means you can talk about it in that 20 minutes. And it really changed my thinking around so much stuff, because I used to think, oh, I can't believe, I can't believe, I'm so lucky, and I think, no."
+      }
+    ],
+    "speakername": "Sara Davies",
+    "ground_truth": "It's not bloody luck. It's a lifetime of hard work that then starts to culminate and you start to reap the rewards.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I know and I accept that because when I was a kid growing up, my mom and dad had their own business and there was never a line in our life. The business and the family life was just all mushed into one big thing. And I think when you've grown up in that world with that experience and that's all you ever know, I knew that, you know what, I'm absolutely cut out for this. I'm happy to give this my life. And you know what? That sounds like, oh, my God, what a sacrifice. And it is a sacrifice being an entrepreneur, but then you get all the great stuff that comes with it as well. And so whenever I talk to people and they say, oh, you're so lucky being, you know, running your own business, work your own hours, do your own thing, be your own boss. And I think you have no bloody idea, no idea of the blood, sweat and tears that goes into it. You'll be able to empathize. So, yes, I think very much. People always say, is it nature? Nature or nurture? You know, are you born an entrepreneur or do you make yourself an entrepreneur? I've honestly got absolutely no idea. All I know is I was born into an entrepreneurial family. So, yes, I probably got the genes. But it was the environment that I grew up in that showed me that this is what I want to live. And now my sister's actually taken over our family business. It's now third generation. My mom started it with her mom."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and and now my sister runs it so I think it's obviously in our genes but also she's been exposed to the same thing as me we see all the brilliant things that come with running the family business and and she wants a part of that"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "think it's interesting yeah that family thing because yeah but my father was the same he ran his own business so i think there's part of it that is it validates you with a young age that that is an option for you whereas if maybe your parents are in a corporate job or in a factory it doesn't matter what you think that's the journey you go where suddenly you go all right yeah my dad does work late but like you say we've got a nice house and a nice car but he i don't maybe see him till eight o'clock at night which we'll come on to but yeah so sorry yeah so that that was a spark then we reckon so i think that's fair enough"
+      }
+    ],
+    "speakername": "Sara Davies",
+    "ground_truth": "Yep, that was definitely the spark. And so I went off to university at [regional university] to study management, knowing that I wanted to run my own business. Didn't know what that business would be in. Certainly never imagined it would ever be in craft. You know, it's not like I had this huge crafting passion and I thought, oh, I'm desperate to start a business here. I just knew I wanted to be in business. So I thought, I'm going to go to university. I'm going to study management. I'm going to study really, really hard. And I actually thought I was probably most likely to take over the family business. That was what I was thinking I would do. You know, I thought it's a shame that they've worked for 25 years and built up this amazing business and these customers and the loyalty and they've got this ready established business. Yes, it's only this big and I would want it to be this big, but I've got the foundation, they've put the hard work in. So that was always my plan. And it was actually in my last year at university.",
+    "bio": " The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "think it's interesting yeah that family thing because yeah but my father was the same he ran his own business so i think there's part of it that is it validates you with a young age that that is an option for you whereas if maybe your parents are in a corporate job or in a factory it doesn't matter what you think that's the journey you go where suddenly you go all right yeah my dad does work late but like you say we've got a nice house and a nice car but he i don't maybe see him till eight o'clock at night which we'll come on to but yeah so sorry yeah so that that was a spark then we reckon so i think that's fair enough"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yep, that was definitely the spark. And so I went off to university at [location] to study management, knowing that I wanted to run my own business. Didn't know what that business would be in. Certainly never imagined it would ever be in craft. You know, it's not like I had this huge crafting passion and I thought, oh, I'm desperate to start a business here. I just knew I wanted to be in business. So I thought, I'm going to go to university. I'm going to study management. I'm going to study really, really hard. And I actually thought I was probably most likely to take over the family business. That was what I was thinking I would do. You know, I thought it's a shame that they've worked for 25 years and built up this amazing business and these customers and the loyalty and they've got this ready established business. Yes, it's only this big and I would want it to be this big, but I've got the foundation, they've put the hard work in. So that was always my plan. And it was actually in my last year at university."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That was"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I did one of those courses where you study for a couple of years, you go out to the big wide world."
+      }
+    ],
+    "speakername": "Sara Davies",
+    "ground_truth": "get the experience, come back and then do your final year of studying with that lens of what you've learned as well. And so it was when I was working for that year that I got exposed to the craft industry. I fell in love with the industry, the customers, people who craft. It is not a hobby for them, it's a passion. And they love so much what they do and it's infectious. And I just thought, I love these people, I love this industry, I want a part of that. So I looked for where the opportunities were in the industry, spotted a gap in the market, went for the jugular.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That was"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I did one of those courses where you study for a couple of years, you go out to the big wide world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "get the experience, come back and then do your final year of studying with that lens of what you've learned as well. And so it was when I was working for that year that I got exposed to the craft industry. I fell in love with the industry, the customers, people who craft. It is not a hobby for them, it's a passion. And they love so much what they do and it's infectious. And I just thought, I love these people, I love this industry, I want a part of that. So I looked for where the opportunities were in the industry, spotted a gap in the market, went for the jugular."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Sara Davies",
+    "ground_truth": "so um which is always the best way to do it in business so I did that and I and I just think that I ended up falling into this craft industry and the problem was I graduated nine months later I haven't I started the business as I went back into my final year had exposure to it in that placement year didn't want to wait you'll learn this about me if I'm doing something I'm doing it yesterday so I wasn't waiting till I graduated I had a head full of magic and all these ideas for the craft industry so my dad was like well just start a little business on the side just be a side hustle while you're at uni so I started my side hustle business outside of my lecture time and whatnot used a couple of grand that I'd saved up the year before and the problem was nine months later when I came to graduate that side hustle business was bigger than what what my mom and dad's business that they've been building for five years so I was like oh I guess I'm in crafts",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "get the experience, come back and then do your final year of studying with that lens of what you've learned as well. And so it was when I was working for that year that I got exposed to the craft industry. I fell in love with the industry, the customers, people who craft. It is not a hobby for them, it's a passion. And they love so much what they do and it's infectious. And I just thought, I love these people, I love this industry, I want a part of that. So I looked for where the opportunities were in the industry, spotted a gap in the market, went for the jugular."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "so um which is always the best way to do it in business so I did that and I and I just think that I ended up falling into this craft industry and the problem was I graduated nine months later I haven't I started the business as I went back into my final year had exposure to it in that placement year didn't want to wait you'll learn this about me Steve if I'm doing something I'm doing it yesterday so I wasn't waiting till I graduated I had a head full of magic and all these ideas for the craft industry so my dad was like well just start a little business on the side just be a side hustle while you're at uni so I started my side hustle business outside of my lecture time and whatnot used a couple of grand that I'd saved up the year before and the problem was nine months later when I came to graduate that side hustle business was bigger than what what my mom and dad's business that they've been building for five years so I was like oh I guess I'm in crafts"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "five years so I was like oh I guess I'm in crafts yeah I am now an entrepreneur I have become one I didn't realize but that suddenly happened fascinating so that so so how did it start because obviously you shouldn't have a shop was it online was it how are you selling these things what was was it"
+      }
+    ],
+    "speakername": "Sara Davies",
+    "ground_truth": "yes so actually very different to all of the above so when i worked for that company that year what i realized was a really big driver within the craft industry in the region is there was a shopping channel and so they had their tv shopping shows and once a week they did a craft show",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

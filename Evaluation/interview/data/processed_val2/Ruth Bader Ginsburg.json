@@ -1,0 +1,124 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm an optimistic long-run. There was a great man who once said that the true symbol of the [country] is not the bald eagle, it is the pendulum. And when the pendulum swings too far in one direction, it will go back. Some terrible things have happened in the [country], but one can only hope that we learn from those bad things. Think of when I grew up at the time of World War II. The irony was we were fighting a war against racism, and yet by an executive order of the President, people who had done nothing wrong. Except they were of Japanese ancestry, were interned in camps far from their homes. That was a dreadful mistake. It took a long time for the [country] to realize how dreadful it was. But ultimately, the President acknowledged that there was no reason to intern people of Japanese ancestry, and Congress passed a bill providing compensation for the people who were interned or their survivors."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But do you see echoes in that kind of historical story in the present day?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I would say that we are not experiencing the best of times. But there's hope in seeing how the public is reacting to it. The Women's March, I've never seen such a demonstration, both the numbers and the rapport of the people in that crowd. There was no violence. It was orderly. So yes, we are not experiencing the best of times. But there's reason to hope that we will see a better day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What is it about the current climate that most concerns you?"
+      }
+    ],
+    "speakername": "Ruth Bader Ginsburg",
+    "ground_truth": "Our legislature, which is the first branch of government, is right now not functioning. But I can think back to 1993, the year that the President nominated me for a vacancy on the [highest court]. I had spent ten years of my life litigating gender discrimination cases. I was one of four general counsel to the [civil rights organization], and yet the vote to confirm me was 96 to 3. No one raised a question about my affiliation with the [civil rights organization]. That kind of rapport doesn't exist now, but my dream is that we will get back to it. One day, I think it will take strong people from both parties to say, let's get together and work for the good of the country.",
+    "bio": "[Target] (born March 15, 1933 - September 18, 2020) was a Jewish American lawyer and jurist who was an Associate Justice of the [highest court]. [Target] was appointed by the President and took the oath of office on August 10, 1993. They were the second female justice (after a predecessor) of four to be confirmed to the court (along with two other justices who are still serving). Following their predecessor's retirement, and until another justice joined the court, [target] was the only female justice on the [highest court]. During that time, [target] became more forceful with their dissents, which were noted by legal observers and in popular culture. They were generally viewed as belonging to the liberal wing of the court. [Target] has authored notable majority opinions, including several significant cases. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Our legislature, which is the first branch of government, is right now not functioning. But I can think back to 1993, the year that the President nominated me for a vacancy on the [institution]. I had spent ten years of my life litigating gender discrimination cases. I was one of four general counsel to the [organization], and yet the vote to confirm me was 96 to 3. No one raised a question about my affiliation with the [organization]. That kind of rapport doesn't exist now, but my dream is that we will get back to it. One day, I think it will take strong people from both parties to say, let's get together and work for the good of the country."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, you mentioned the legislature, but I'm thinking of you specifically as a judge at this point. There's been a lot of quite outspoken criticism of both individual judges and the judiciary as a whole, one being called a so-called judge. You know, as someone who served a lifetime in the courts, how do you feel about the new administration's quite public criticism?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't want to comment on that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're 83. You're the oldest serving member on the [institution]. How long do you think you can do this?"
+      }
+    ],
+    "speakername": "Ruth Bader Ginsburg",
+    "ground_truth": "At my age, you have to take it year by year. I know I'm okay this year, but what will be next year? I'm hopeful, however, because my most senior colleague, the one who most recently retired, Justice [name], stepped down at age 90, so I have a way to go.",
+    "bio": "[target] was an American lawyer and jurist who was an Associate Justice of the [institution]. [target] was appointed by the President and took the oath of office on August 10, 1993. She was the second female justice (after [name]) of four to be confirmed to the court (along with [name] and [name], who are still serving). Following [name]'s retirement, and until [name] joined the court, [target] was the only female justice on the [institution]. During that time, [target] became more forceful with her dissents, which were noted by legal observers and in popular culture. She was generally viewed as belonging to the liberal wing of the court. [target] has authored notable majority opinions, including several significant cases. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't want to comment on that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're 83. You're the oldest serving member on the [institution]. How long do you think you can do this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "At my age, you have to take it year by year. I know I'm okay this year, but what will be next year? I'm hopeful, however, because my most senior colleague, the one who most recently retired, Justice [person], stepped down at age 90, so I have a way to go."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Since you were made a [institution] judge, how do you feel women's equality and women's rights have changed?"
+      }
+    ],
+    "speakername": "Ruth Bader Ginsburg",
+    "ground_truth": "If you just look at the numbers, when I became a [institution] Justice, there were six women in the Senate. Now there are 20. I was the second woman on the [institution], and when Justice [person] left, I was all alone. Now I have two colleagues, Justice [person] and Justice [person]. People ask me, well, when do you think there will be enough? I say, well, when there are nine, and people are aghast. We've had nine men for most of the country's history, and no one thought that there was anything wrong with that.",
+    "bio": "[target] was an American lawyer and jurist who was an Associate Justice of the [institution]. [target] was appointed by President [person] and took the oath of office on August 10, 1993. She was the second female justice (after [person]) of four to be confirmed to the court (along with [person] and [person], who are still serving). Following [person]'s retirement, and until [person] joined the court, [target] was the only female justice on the [institution]. During that time, [target] became more forceful with her dissents, which were noted by legal observers and in popular culture. She was generally viewed as belonging to the liberal wing of the court. [target] has authored notable majority opinions, including several significant cases. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "At my age, you have to take it year by year. I know I'm okay this year, but what will be next year? I'm hopeful, however, because my most senior colleague, the one who most recently retired, Justice John Paul Stevens, stepped down at age 90, so I have a way to go."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Since you were made a high court judge, how do you feel women's equality and women's rights have changed?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If you just look at the numbers, when I became a high court Justice, there were six women in the legislative body. Now there are 20. I was the second woman on the high court, and when Justice O'Connor left, I was all alone. Now I have two colleagues, Justice Sotomayor and Justice Kagan. People ask me, well, when do you think there will be enough? I say, well, when there are nine, and people are aghast. We've had nine men for most of the country's history, and no one thought that there was anything wrong with that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to return to something that we talked about at the beginning, that's to do with the sort of erosion of facts and truth. It just feels like there's less and less that one can be sure of. I wonder both in, not just in the news, but in all sorts of ways, I wonder if that's something that strikes you as you look around."
+      }
+    ],
+    "speakername": "Ruth Bader Ginsburg",
+    "ground_truth": "What is important is that we have a free press, which many countries don't have. Think of what the press has done in this country. I live in a famous residential complex. That story might never have come out if we didn't have the free press that we do.",
+    "bio": "[target] was a lawyer and jurist who was an Associate Justice of the national high court. [target] was appointed by the president and took the oath of office on August 10, 1993. She was the second female justice (after O'Connor) of four to be confirmed to the court (along with two other justices who are still serving). Following O'Connor's retirement, and until another justice joined the court, [target] was the only female justice on the high court. During that time, [target] became more forceful with her dissents, which were noted by legal observers and in popular culture. She was generally viewed as belonging to the liberal wing of the court. [target] has authored notable majority opinions, including several landmark cases. The speaker's MBTI type is ISTJ",
+    "speaking_to": "Ruth Bader Ginsburg",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If you just look at the numbers, when I became a high court Justice, there were six women in the legislative body. Now there are 20. I was the second woman on the high court, and when my senior female colleague left, I was all alone. Now I have two colleagues. People ask me, well, when do you think there will be enough? I say, well, when there are nine, and people are aghast. We've had nine men for most of the country's history, and no one thought that there was anything wrong with that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to return to something that we talked about at the beginning, that's to do with the sort of erosion of facts and truth. It just feels like there's less and less that one can be sure of. I wonder both in, not just in the news, but in all sorts of ways, I wonder if that's something that strikes you as you look around."
+      },
+      {
+        "speaker": "[target]",
+        "text": "What is important is that we have a free press, which many countries don't have. Think of what the press has done in this country. I live in a famous residential complex. That story might never have come out if we didn't have the free press that we do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why do you mention that? Do you feel it's something that's maybe forgotten?"
+      }
+    ],
+    "speakername": "Ruth Bader Ginsburg",
+    "ground_truth": "I read two major national newspapers every day, and I think that the reporters are trying to tell the public the way things are.",
+    "bio": "[target] was an American lawyer and jurist who was an Associate Justice of the national high court. [target] was appointed by a former president and took the oath of office on August 10, 1993. She was the second female justice (after her predecessor) of four to be confirmed to the court (along with two other justices who are still serving). Following her predecessor's retirement, and until another female justice joined the court, [target] was the only female justice on the high court. During that time, [target] became more forceful with her dissents, which were noted by legal observers and in popular culture. She was generally viewed as belonging to the liberal wing of the court. [target] has authored notable majority opinions, including several landmark cases. The speaker's MBTI type is ISTJ",
+    "mbti": "ISTJ",
+    "split": "val"
+  }
+]

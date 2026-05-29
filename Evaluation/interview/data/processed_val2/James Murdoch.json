@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, but then you look at it and you say, well, every five years or so, I mean, every five years or so, I sort of do something new-ish, so I think, you know, I started out, Cara and I were talking before, you know, we used to meet at these conferences in the 90s, I spent a bunch of time, you know, in the 90s working in the digital area, et cetera, I moved to [location], built our star business out for a number of years there, moved to [location], did a number of things there, and two different jobs, and it's been kind of the five-year mark since I moved back to [location], so I think it's time to do something new. All right, I'm not going to get you to it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "announce the new job yet on stage? Okay. The [company]... Well, I don't..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know what it is, so. Fair enough."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "ideas. [company] tried to buy you guys once. You said, no, we want to sell to [company]. Now they've literally put out a press release instead of theoretically putting out a press release saying we really want to buy this company or we're going to make another bid. Explain to this audience why it seems like your position is we prefer to sell to [company], even though [company] is going to offer us more money."
+      }
+    ],
+    "speakername": "James Murdoch",
+    "ground_truth": "Well, we made an extensive filing around this that has all the details in it for the record. But essentially, we had an agreement with [company], and we have an agreement with [company], which we find very attractive for our shareholders. It's an all-stock agreement. We think the prospects for the new firm are very strong. And we think from a regulatory perspective, and we thought as well in December from a regulatory perspective, that you have a higher certainty of close. So when you weigh up all of those factors, that's really what we thought was the right thing to do. Now, whether or not the board is asked to consider a different offer from somebody else, in the future we'll deal with that as we go. We have responsibilities to our shareholders. We know what those are, and we're going to get the right answer for that at the end of the day.",
+    "bio": "The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't know what it is, so. Fair enough."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "ideas. A major media company tried to buy you guys once. You said, no, we want to sell to another media corporation. Now they've literally put out a press release instead of theoretically putting out a press release saying we really want to buy this company or we're going to make another bid. Explain to this audience why it seems like your position is we prefer to sell to the second company, even though the first one is going to offer us more money."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we made an extensive filing around this that has all the details in it for the record. But essentially, we had an agreement with the second company, and we have an agreement with them, which we find very attractive for our shareholders. It's an all-stock agreement. We think the prospects for the new firm are very strong. And we think from a regulatory perspective, and we thought as well in December from a regulatory perspective, that you have a higher certainty of close. So when you weigh up all of those factors, that's really what we thought was the right thing to do. Now, whether or not the board is asked to consider a different offer from somebody else, in the future we'll deal with that as we go. We have responsibilities to our shareholders. We know what those are, and we're going to get the right answer for that at the end of the day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We're going to make another bid. It's going to be all cash. It'll be more than what they're paying"
+      }
+    ],
+    "speakername": "James Murdoch",
+    "ground_truth": "but they haven't done it yet. So, you know, you have to... What did you say? But they're coming. But they're coming. I think, you know, look, what we have to do is continue to plow kind of the fur that we're on here and until something changes. So I think right now, you know, we're making a lot of progress on the regulatory front with sort of getting all the right filings in and doing that stuff with the second company. And if something changes that the board has to consider, they know what to do and we know how to deal with it.",
+    "bio": "The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we made an extensive filing around this that has all the details in it for the record. But essentially, we had an agreement with the company, and we have an agreement with the company, which we find very attractive for our shareholders. It's an all-stock agreement. We think the prospects for the new firm are very strong. And we think from a regulatory perspective, and we thought as well in December from a regulatory perspective, that you have a higher certainty of close. So when you weigh up all of those factors, that's really what we thought was the right thing to do. Now, whether or not the board is asked to consider a different offer from somebody else, in the future we'll deal with that as we go. We have responsibilities to our shareholders. We know what those are, and we're going to get the right answer for that at the end of the day."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We're going to make another bid. It's going to be all cash. It'll be more than what the company's paying"
+      },
+      {
+        "speaker": "[target]",
+        "text": "but they haven't done it yet. So, you know, you have to... What did you say? But they're coming. But they're coming. I think, you know, look, what we have to do is continue to plow kind of the fur that we're on here and until something changes. So I think right now, you know, we're making a lot of progress on the regulatory front with sort of getting all the right filings in and doing that stuff with the company. And if something changes that the board has to consider, they know what to do and we know how to deal with it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "let's pull back even further um you your brother especially your father have been building the company for decades and decades trying to become a really big company you're trying to buy another media company a couple years ago now you're selling not the entire company but a big chunk of it another executive is trying to sell their company other executives can't agree on it but they really want to sell those two companies all the people who've been building these big media assets have decided it's time to sell um shouldn't that worry me if i'm on the other edge of the table"
+      }
+    ],
+    "speakername": "James Murdoch",
+    "ground_truth": "Well, I don't think so. I think it's not so much are you selling, are you buying? It's a question of what kind of firms are going to be the most competitive in this area going forward and in this piece. And I think what we concluded, certainly what I feel, is that from an organic perspective, we can do a lot. We can continue to grow our business. And our business is growing fast. It's growing super fast in South Asia, super fast across South America. Nobody really focuses on our South American business. It's a very large business today. Our overseas businesses have really been transformed over the last sort of 15 years in terms of scale and velocity. And our studio business, our creative business in television and film here has been pretty strong, actually. And we made, I think, a lot of the right bets in terms of focusing on big brands that matter in an environment where you were going to have much, much more pressure on the kind of cable bundle. You wanted to make sure that you were somewhere where it really mattered to customers that you were included there. So we've made these bets. We kind of set that strategy a number of years ago. We simplified our business. We really transformed it in a number of different ways. And we look at it today and say, we like our prospects. We think it can continue to grow and we can be successful. But in a certain context of a merger with another firm, you may be able to really accelerate that and kind of move forward in a different way. And for the businesses themselves, we care a lot about that. And for our shareholders, we care a lot about that. So it's a question, whether you're a buyer or seller, the point is the combination of that. And that's really what's driving our thinking.",
+    "bio": "The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "but they haven't done it yet. So, you know, you have to... What did you say? But they're coming. But they're coming. I think, you know, look, what we have to do is continue to plow kind of the fur that we're on here and until something changes. So I think right now, you know, we're making a lot of progress on the regulatory front with sort of getting all the right filings in and doing that stuff with Disney. And if something changes that the board has to consider, they know what to do and we know how to deal with it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "let's pull back even further um you your brother especially your father have been building fox for decades and decades trying to become a really big company you're trying to buy time warner a couple years ago now you're selling not the entire company but a big chunk of it jeff bukus is trying to sell time warner sherry redstone and les moonves can't agree on it but they really want to sell those two companies bicom and cbs all the people who've been building these big media assets have decided it's it's time to sell um shouldn't that worry me if i'm on the other edge of the table"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't think so. I think it's not so much are you selling, are you buying? It's a question of what kind of firms are going to be the most competitive in this area going forward and in this piece. And I think what we concluded, certainly what I feel, is that from an organic perspective, we can do a lot. We can continue to grow our business. And our business is growing fast. It's growing super fast in India, super fast across Latin America. Nobody really focuses on our Latin American business. It's a very large business today. Our European businesses, the skies, have really been transformed over the last sort of 15 years in terms of scale and velocity. And our studio business, our creative business in television and film here in the U.S. has been pretty strong, actually. And we made, I think, a lot of the right bets in terms of focusing on big brands that matter in an environment where you were going to have much, much more pressure on the kind of cable bundle. You wanted to make sure that you were somewhere where it really mattered to customers that you were included there. So we've made these bets. We kind of set that strategy a number of years ago. We simplified our business. We really transformed it in a number of different ways. And we look at it today and say, we like our prospects. We think it can continue to grow and we can be successful. But in a certain context of a merger with another firm, you may be able to really accelerate that and kind of move forward in a different way. And for the businesses themselves, we care a lot about that. And for our shareholders, we care a lot about that. So it's a question, whether you're a buyer or seller, the point is the combination of that. And that's really what's driving our thinking."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you were you were a buyer a couple years ago and again I don't want to beat this in the ground but it seems like a lot of folks have been running media businesses for a long time are saying now's a good time to get out and they're all sort of calling a top at the same time and you've got you know in AT&T's case a phone company and and you've got other sort of tech companies moving around and it seems like they should be asking themselves why do these guys I want to sell their media"
+      }
+    ],
+    "speakername": "James Murdoch",
+    "ground_truth": "Well, I don't think you can put it all in one bucket, right? I think actually what's happened is the pack has kind of separated, right? And there are certain firms with certain characteristics that make them particularly attractive in the future. And you can think about owning IP. You can think about the level of excellence creatively in a firm. You can think about international reach and more than reach depth, actually, in big markets that really matter. We often talk about investing in markets that, in success, will really change our lives. As opposed to kind of being spread too thin on the toast. We'd much rather be a big investor in key places where we really believe in. So I think, you know, for us, having done all those things in the business, getting to a certain scale and continuing to grow, it was just a question of if there were, you know, in the presence of another opportunity that may be more attractive and can accelerate the business further and create a global platform for video consumption and creation, we think that's very, very attractive, a platform like that. Particularly in an environment where, as you said, you do have multiple, multiple new players kind of circling or investing heavily in the space. And you do have really a revolution in terms of the barriers to entry for downstream distribution really coming down, the untethering of kind of bundled video from infrastructure. And we think those two things mean that if, you know, content really is going to be king and we see the quality that we're producing and the breadth of it and how much engagement is driving it, content really is going to be king. The opportunity to build platforms with that is really profound. And that's why you look at it and say, okay, how do I do that? Can I do that alone or do I have a lot of counterparty risk? Do I have to buy other programs from people, et cetera? And I think what you want to do is eliminate to the extent you can the amount of counterparty risk you have and you really want to be a free agent to build those platforms and populate those platforms with programming that's proven to be really exciting and engaging for customers.",
+    "bio": " The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't think so. I think it's not so much are you selling, are you buying? It's a question of what kind of firms are going to be the most competitive in this area going forward and in this piece. And I think what we concluded, certainly what I feel, is that from an organic perspective, we can do a lot. We can continue to grow our business. And our business is growing fast. It's growing super fast in India, super fast across Latin America. Nobody really focuses on our Latin American business. It's a very large business today. Our European businesses, the skies, have really been transformed over the last sort of 15 years in terms of scale and velocity. And our studio business, our creative business in television and film here in the U.S. has been pretty strong, actually. And we made, I think, a lot of the right bets in terms of focusing on big brands that matter in an environment where you were going to have much, much more pressure on the kind of cable bundle. You wanted to make sure that you were somewhere where it really mattered to customers that you were included there. So we've made these bets. We kind of set that strategy a number of years ago. We simplified our business. We really transformed it in a number of different ways. And we look at it today and say, we like our prospects. We think it can continue to grow and we can be successful. But in a certain context of a merger with another firm, you may be able to really accelerate that and kind of move forward in a different way. And for the businesses themselves, we care a lot about that. And for our shareholders, we care a lot about that. So it's a question, whether you're a buyer or seller, the point is the combination of that. And that's really what's driving our thinking."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you were you were a buyer a couple years ago and again I don't want to beat this in the ground but it seems like a lot of folks have been running media businesses for a long time are saying now's a good time to get out and they're all sort of calling a top at the same time and you've got you know in AT&T's case a phone company and and you've got other sort of tech companies moving around and it seems like they should be asking themselves why do these guys I want to sell their media"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I don't think you can put it all in one bucket, right? I think actually what's happened is the pack has kind of separated, right? And there are certain firms with certain characteristics that make them particularly attractive in the future. And you can think about owning IP. You can think about the level of excellence creatively in a firm. You can think about international reach and more than reach depth, actually, in big markets that really matter. We often talk about investing in markets that, in success, will really change our lives. As opposed to kind of being spread too thin on the toast. We'd much rather be a big investor in key places where we really believe in. So I think, you know, for us, having done all those things in the business, getting to a certain scale and continuing to grow, it was just a question of if there were, you know, in the presence of another opportunity that may be more attractive and can accelerate the business further and create a global platform for video consumption and creation, we think that's very, very attractive, a platform like that. Particularly in an environment where, as you said, you do have multiple, multiple new players kind of circling or investing heavily in the space. And you do have really a revolution in terms of the barriers to entry for downstream distribution really coming down, the untethering of kind of bundled video from infrastructure. And we think those two things mean that if, you know, content really is going to be king and we see the quality that we're producing and the breadth of it and how much engagement is driving it, content really is going to be king. The opportunity to build platforms with that is really profound. And that's why you look at it and say, okay, how do I do that? Can I do that alone or do I have a lot of counterparty risk? Do I have to buy other programs from people, et cetera? And I think what you want to do is eliminate to the extent you can the amount of counterparty risk you have and you really want to be a free agent to build those platforms and populate those platforms with programming that's proven to be really exciting and engaging for customers."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I mean, it seems like one common threat here is that the buyers, the perceived buyers, the perceived threat to the established media guys are really distributors that have direct access to the consumer, whether it's AT&T or Netflix, and then theoretically we're waiting for Apple to really get into it, and Google and Facebook and Amazon are all playing around to different degrees. Would things be different had you guys moved more quickly to sell your own stuff directly to consumers?"
+      }
+    ],
+    "speakername": "James Murdoch",
+    "ground_truth": "Well, we are one of the biggest direct-to-consumer firms in the world, right? So if I look at our hot star business in India, which is a mobile video app that we launched two years ago, we have 145 million average monthly uniques now interacting directly with the platform over up to 2 billion minutes a day, actually, across that platform in India. At the Sky business, with the Sky Go over-the-top business and now TV, alongside the overall kind of more traditional but digital and very different from the MVPDs here, 23 million families, households, and many, many more customers interacting with that platform there. And then in our joint venture with Disney and Comcast, the Hulu business has accelerated tremendously over the last year and is now a 20 million-plus.",
+    "bio": " The speaker's MBTI type is ISTP",
+    "split": "val"
+  }
+]

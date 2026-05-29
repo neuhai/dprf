@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Welcome to the [show name]. We're on the, at the very least, we're on every Monday, Wednesday, and Friday afternoon, so make sure to tune in. As always, thank you for your support. We're here in our studios thanks to our official studio sponsor, [sponsor name]. [sponsor name] is the official sports betting company of the [show name]. Please make sure to like and follow the [show name] on YouTube. Click the bell to get notified of all of our new content, and please do make sure you pick up a copy of my bestselling book, [book title], a memoir of second chances and first takes. I was looking forward to talking to this individual. He is my guest today. He is a second-term U.S. Congressman representing [state]'s 19th Congressional District and one of just two black Republicans currently serving. He sits on the House Oversight and Financial Services Committee and is a member of the House Freedom Caucus. Ladies and gentlemen, please welcome to the [show name], Congressman [target]. Congressman, sir, how are you? How's everything going?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Man, I'm good. Look, I got to tell you real quick, [host name], man, I've been watching you for years, man. I'm a fan."
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh i'm also a sports junkie most people don't really know that so really big fan excited to be"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Man, thank you so much. I'm honored to have you. First of all, before we even get into all of that, since you're a sports fan, who's your favorite team? I need to know the answers to this question. Who do you root for?"
+      }
+    ],
+    "speakername": "Byron Donalds",
+    "ground_truth": "Man, listen, I root for the [team name]. Okay. And I root for [team name], the [team name]. I know you got issues, but that's my team.",
+    "bio": "[target] (born October 28, 1978) is an American politician and financial professional serving as the U.S. representative for [state]'s 19th congressional district since 2021. His district includes much of Southwest [state]. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh i'm also a sports junkie most people don't really know that so really big fan excited to be"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Man, thank you so much. I'm honored to have you. First of all, before we even get into all of that, since you're a sports fan, who's your favorite team? I need to know the answers to this question. Who do you root for?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Man, listen, I root for the [professional basketball team]. Okay. And I root for [professional football team]. I know you got issues, but that's my team."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh my Lord. Oh my Lord. You done messed up. You done messed up now. I mean, you done messed up. There's no hope for you now. I mean, do you understand that the [professional football team] will contaminate you? If you have any aspirations for office, higher office, other than being a congressman, you know, being associated with the [professional football team] can ruin that, right? I mean, you have no chance. You have no chance. Oh no."
+      }
+    ],
+    "speakername": "Byron Donalds",
+    "ground_truth": "No, I don't agree with that whatsoever. Let me tell you why. Listen, first of all, we know the [professional football team] are number one in merchandise worldwide. We understand that. More following than anybody. But listen, I'm a fan for real. I've been in purgatory for a long time, since 1995. I just need [player] to make a couple throws. That's all I need.",
+    "bio": "A politician and financial professional serving as a U.S. representative for a [state] congressional district since 2021. The district includes much of [region]. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Man, listen, I root for the [sports team 1]. Okay. And I root for America's team, the [sports team 2]. I know you got issues, but that's my team."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh my Lord. Oh my Lord. You done messed up. You done messed up now. I mean, you done messed up. There's no hope for you now. I mean, do you understand that the [sports team 2] will contaminate you? If you have any aspirations for office, higher office, other than being a congressman, you know, being associated with the [sports team 2] can ruin that, right? I mean, you have no chance. You have no chance. Oh no."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I don't agree with that whatsoever. Let me tell you why. Listen, first of all, we know the [sports team 2] are number one in merchandise worldwide. We understand that. More following than anybody. But listen, I'm a fan for real. I've been in purgatory for a long time, since 1995. I just need [player name] to make a couple throws. That's all I need."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "because we get a couple throws and our defense do it. Did you just say that? Yeah. I did. That's all you need is [player name] to make a couple of throws, right? Now, you've been waiting for eight years. You only got two playoff victories. You know it takes at least three playoff victories to win a Super Bowl. The man's got two in eight years. So you still wait for him to throw you a pass, throw you a good pass."
+      }
+    ],
+    "speakername": "Byron Donalds",
+    "ground_truth": "Listen, man, just connect with our receivers. They'll do the work. I love our defense, and I feel like we got what we need to go get the job done.",
+    "bio": "A politician and financial professional serving as the U.S. representative for a congressional district since 2021. The district includes much of a region in a southern state. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I don't agree with that whatsoever. Let me tell you why. Listen, first of all, we know the Cowboys are number one in merchandise worldwide. We understand that. More following than anybody. But listen, I'm a fan for real. I've been in purgatory for a long time, since 1995. I just need Dak to make a couple throws. That's all I need."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "because we get a couple throws and our defense do it. Did you just say that? Yeah. I did. That's all you need is Dak to make a couple of throws, right? Now, you've been waiting for eight years. You only got two playoff victories. You know it takes at least three playoff victories to win a Super Bowl. The man's got two in eight years. So you still wait for him to throw you a pass, throw you a good pass."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, man, just connect with our receivers. They'll do the work. I love our defense, and I feel like we got what we need to go get the job done."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let me let me I'm going to root for you, man, because I like you already because you don't mess. I was looking forward to talking to you. Then you messed up bringing up the Cowboys. But I'm going to get this interview back on track because I don't want them to mess up your career. I don't want the Dallas Cowboys to mess up your career before I even get into politics. I really want people to get to know about you. I've been doing my research. I learned a lot. You're a New Yorker born and raised in [residential area], [city]. Tell me what it was like for you growing up in [city] in [residential area]. Give our audience that perspective."
+      }
+    ],
+    "speakername": "Byron Donalds",
+    "ground_truth": "You know, I mean, look, it was tough. You know, it was real tough. My mother and I, you know, we grew up poor. You know, my youngest sister was born when I was in middle school. You know, my mom was at work for a while. You know, we really struggled. But for her, it was about education. She her her value set was get your education and do whatever you need to do to not become a statistic, to escape what happens to a lot of young black kids, you know, when I was growing up. And and so, you know, she did everything she could, you know, just try to keep me from the streets, keep me focused, played a lot of sports, a lot of basketball, a lot of baseball. And, you know, when I graduated high school, you know, I went to [university] in [city] and the rest kind of just took off from there. But growing up, man, I remember walking to baseball practice at [park]. And this is when I was like 10 years old. I'm going to get the train. And you see crack vials all over street corners in the morning and stuff like that. And you just kind of learn to just keep your head on the swing. So we'll keep your head down, stay focused, try not to get caught up in a lot of stuff and just find a way to be successful.",
+    "bio": "[target] (born October 28, 1978) is an American politician and financial professional serving as the U.S. representative for [state]'s 19th congressional district since 2021. His district includes much of [region]. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Listen, man, just connect with our receivers. They'll do the work. I love our defense, and I feel like we got what we need to go get the job done."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let me let me I'm going to root for you, man, because I like you already because you don't mess. I was looking forward to talking to you. Then you messed up bringing up the Cowboys. But I'm going to get this interview back on track because I don't want them to mess up your career. I don't want the Dallas Cowboys to mess up your career before I even get into politics. I really want people to get to know about you. I've been doing my research. I learned a lot. You're a New Yorker born and raised in Crown Heights, Brooklyn. Tell me what it was like for you growing up in New York in Crown Heights. Give our audience that perspective."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I mean, look, it was tough. You know, it was real tough. My mother and I, you know, we grew up poor. You know, my youngest sister was born when I was in middle school. You know, my mom was at work for a while. You know, we really struggled. But for her, it was about education. She her her value set was get your education and do whatever you need to do to not become a statistic, to escape what happens to a lot of young black kids, you know, when I was growing up. And and so, you know, she did everything she could, you know, just try to keep me from the streets, keep me focused, played a lot of sports, a lot of basketball, a lot of baseball. And, you know, when I graduated high school, you know, I went to Florida A&M in Tallahassee and the rest kind of just took off from there. But growing up, man, I remember walking to baseball practice at Prospect Park. And this is when I was like 10 years old. I'm going to get the train. And you see crack vials all over street corners in the morning and stuff like that. And you just kind of learn to just keep your head on the swing. So we'll keep your head down, stay focused, try not to get caught up in a lot of stuff and just find a way to be successful."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You went to FAMU, one of my boys, the great Will Packer, movie producer and what have you. He went to FAMU. My CMO, Sharonda Britton, she went to FAMU. I know a whole bunch of people that's going to FAMU. And I'm wondering, listening to you, what had more of an impact in terms of shaping your life, shaping your life to the point where it is now? Was it that growing up in Crown Heights or was it more so FAMU? Obviously, both had a profound impact. I certainly don't mean to imply that that was not the case. But I want to know, what do you think had the most impact, the streets of New York City or FAMU and HBCU? It was it was."
+      }
+    ],
+    "speakername": "Byron Donalds",
+    "ground_truth": "actually a combination of things. I think, you know, the streets in New York, what it always taught me growing up is, you know, nothing's never truly personal. Everything is business. You know, you just got to be aware of what's going on at all times. Being at FAMU was just an awesome experience, the highest of seven hills in Tallahassee. But even during that time, that's when I really had to learn to grow up. And I told you, my mom is tough. And so when I was out on my own, made a lot of mistakes, you know, really almost destroyed my life and did a lot of stupid things when I was in college. So, you know, I really had to get myself together. That started at FAMU. And then I transferred to Florida State, also in Tallahassee, graduated from Florida State. And the last piece of that was, you know, I found God, you know. My girlfriend at the time, my wife now, she was going to church, trying to get herself in order and together and asked me to go. And I went with her. And I felt like the pastor was talking to me, honestly. I felt like he called everybody that knew me and was reading the script of my life. And it was really the combination of all those experiences that put me on the path to where I am now.",
+    "bio": "Byron Lowell Donalds (born October 28, 1978) is an American politician and financial professional serving as the U.S. representative for Florida's 19th congressional district since 2021. His district includes much of Southwest Florida. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

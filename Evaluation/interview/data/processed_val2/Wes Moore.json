@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So as it turned out, a number of people were working in the middle of the night on the bridge, and I guess most of them, if not all of them, lost their lives. And now the bridge is now going to be repaired. Somehow you managed to get the federal government to pay for all of it. Bipartisan support. So when will the bridge reopen? It will reopen in 2028. We will have that bridge done. And why is it important to the state and the city?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "to have the bridge anyway. Well, you know, the port, it really is the nation's gateway. It's one of the most important, not just maritime facilities, but just port entries that we have in the country. Two-thirds of the country get its goods from the port as its main entry point. But there's only really three main arteries to the port. You have two tunnels and the bridge. The problem is that all hazmat materials, oil refineries, et cetera, they cannot take tunnels legally. They can only take the bridge. And so, this is having a distinct impact, not just on transit and transportation, but it is having a distinct impact on goods and commerce."
+      },
+      {
+        "speaker": "[target]",
+        "text": "able to move."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So right now as we talk there have been fires in the western state. Do you have any advice for your fellow Democratic Governor about how to handle crises like these. Yeah. I mean"
+      }
+    ],
+    "speakername": "Wes Moore",
+    "ground_truth": "It's heartbreaking what's going on in the western region. And I know, you know, I reached out to the governor as soon as I heard about what happened and offered our support and offered our resources as well because I was really humbled how many governors reached out to me right after the bridge incident and did the same. And so that bond does matter. I think when I think about the bridge, the most important thing that we were able to do was have unified command, was be able to bring everybody on board that we were all singing from the same sheet of music, that we all had unified goals. What caused the ship to collapse or crash into the bridge? What was the cause? Well, they're still going through that now. In fact, there's litigation that our attorney general has filed. And so we're going through the process of identification. The thing that we know is that bridges don't just collapse. There's negligence that caused that bridge to collapse on that date.",
+    "bio": "Born in 1978, this American author, entrepreneur, television producer, and United States Army veteran served as the CEO of a prominent charitable foundation from 2017 to 2021. They became the Democratic nominee for governor in a 2022 state gubernatorial election. They authored two New York Times Bestsellers and hosted a show on a major network, as well as executive produced and wrote for a PBS series. They founded a social enterprise dedicated to helping students transition to their freshman year of college. Student interviews found that the program supported them in their first year, helping them to progress toward graduation. The speaker's MBTI type is ENFJ",
+    "MBTI_type": "ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "able to move."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So right now as we talk there have been fires in California. Do you have any advice for your fellow Democratic Governor Gavin Newsom about how to handle crises like these. Yeah. I mean"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's heartbreaking what's going on in Southern California. And I know, you know, I reached out to Gavin as soon as I heard about what happened and offered our support and offered our resources as well because I was really humbled how many governors reached out to me right after the Key Bridge and did the same. And so that bond does matter. I think when I think about the Key Bridge, the most important thing that we were able to do was have unified command, was be able to bring everybody on board that we were all singing from the same sheet of music, that we all had unified goals. What caused the ship to collapse or crash into the bridge? What was the cause? Well, they're still going through that now. In fact, there's litigation that our attorney general has filed. And so we're going through the process of identification. The thing that we know is that bridges don't just collapse. There's negligence that caused that bridge to collapse on March 26th."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Maryland has had a reputation in this metropolitan area of being a higher tax state than Virginia. Recently, you have announced a $3 billion budget gap that you're trying to deal with, and part of it is you're increasing taxes on wealthier people."
+      }
+    ],
+    "speakername": "Wes Moore",
+    "ground_truth": "Yeah. But what we're doing is this. No one agrees that the tax code makes sense in the state of Maryland. And so I said, we've got to be able to reform the tax code to make us more competitive and to make taxes simpler, fairer, and pro-growth. And so I just announced a budget plan. And it is kind of intuitive, but I explain to people, to deal with the budget deficit, the structural deficit that we inherited, we're actually going to give two-thirds of Marylanders a tax cut. We're going to take 82% of Marylanders and say, we're actually going to make sure that you pay either less in taxes or there's no change. We did not raise the sales tax. We did not raise the income tax. We've cut the corporate tax rate in the state of Maryland, and we've eliminated the inheritance tax. And for a lot of people, it did seem a little bit odd because they're like, well, why don't you just raise sales taxes or raise property taxes? And my answer is this. A, I would have found that to be just a lazy way of thinking. Because it's not reform. We've got to reform the tax code. And the second piece is, it's not pro-growth. I actually want to attract businesses to come to the state of Maryland. And that's why in our budget, we have some historic adjustments to doing regulatory reform, permitting reform, procurement reform. Actually, we've announced an executive order focusing on government modernization, where it's all about getting rid of the government waste, getting rid of the unnecessary spending, doing consolidation, doing fleet consolidation, IT consolidation, focusing on real estate. I mean, all things that we can make get our economy going. And so that has been the focus, is that we've got to get out of this crisis by focusing on growth.",
+    "bio": "Westley Watende Omari Moore (born October 15, 1978) is an American author, entrepreneur, television producer, and United States Army veteran. From 2017 to 2021 Moore served as the CEO of the Robin Hood Foundation. He is currently the Democratic nominee for governor in the 2022 Maryland gubernatorial election. If elected, Moore would be the first African-American governor of Maryland. Moore is the author of The Other [target] and The Work, both of which are New York Times Bestsellers. He was also the host of Beyond Belief on the Oprah Winfrey Network, as well as the executive producer and a writer for Coming Back with [target] on PBS. Moore is the founder and CEO of BridgeEdU, a social enterprise dedicated to helping students in their transitions to the freshman year of college. A Baltimore Banner interview with former BridgeEdU students found that the program supported them in their first year, helping them to progress toward graduation. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's heartbreaking what's going on in Southern California. And I know, you know, I reached out to Gavin as soon as I heard about what happened and offered our support and offered our resources as well because I was really humbled how many governors reached out to me right after the Key Bridge and did the same. And so that bond does matter. I think when I think about the Key Bridge, the most important thing that we were able to do was have unified command, was be able to bring everybody on board that we were all singing from the same sheet of music, that we all had unified goals. What caused the ship to collapse or crash into the bridge? What was the cause? Well, they're still going through that now. In fact, there's litigation that our attorney general has filed. And so we're going through the process of identification. The thing that we know is that bridges don't just collapse. There's negligence that caused that bridge to collapse on March 26th."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Maryland has had a reputation in this metropolitan area of being a higher tax state than Virginia. Recently, you have announced a $3 billion budget gap that you're trying to deal with, and part of it is you're increasing taxes on wealthier people."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. But what we're doing is this. No one agrees that the tax code makes sense in the state of Maryland. And so I said, we've got to be able to reform the tax code to make us more competitive and to make taxes simpler, fairer, and pro-growth. And so I just announced a budget plan. And it is kind of intuitive, but I explain to people, to deal with the budget deficit, the structural deficit that we inherited, we're actually going to give two-thirds of Marylanders a tax cut. We're going to take 82% of Marylanders and say, we're actually going to make sure that you pay either less in taxes or there's no change. We did not raise the sales tax. We did not raise the income tax. We've cut the corporate tax rate in the state of Maryland, and we've eliminated the inheritance tax. And for a lot of people, it did seem a little bit odd because they're like, well, why don't you just raise sales taxes or raise property taxes? And my answer is this. A, I would have found that to be just a lazy way of thinking. Because it's not reform. We've got to reform the tax code. And the second piece is, it's not pro-growth. I actually want to attract businesses to come to the state of Maryland. And that's why in our budget, we have some historic adjustments to doing regulatory reform, permitting reform, procurement reform. Actually, we've announced an executive order focusing on government modernization, where it's all about getting rid of the government waste, getting rid of the unnecessary spending, doing consolidation, doing fleet consolidation, IT consolidation, focusing on real estate. I mean, all things that we can make get our economy going. And so that has been the focus, is that we've got to get out of this crisis by focusing on growth."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So as we talk. Donald Trump is about to be inaugurated again as president United States. So as a Democratic leader and a Democratic governor of Maryland a very Democratic state. Do you feel like you're a leader of the opposition or do you feel like your job is to cooperate with him or how do you view Donald Trump as somebody you work with or."
+      }
+    ],
+    "speakername": "Wes Moore",
+    "ground_truth": "Yeah, I mean, I'm not the leader of the resistance. I'm the governor of Maryland. I've got six and a half million people who I answer to, and some of whom voted for Donald Trump, some of whom did not vote for Donald Trump. But the thing that I know is that the thing they all have in common is they're Marylanders. And so the way I'm going to approach this, working with the new administration, is the way that I would approach working with any administration, where, you know, I understand how tethered Maryland is to Washington and to the federal government. We have over 160,000 federal employees. We are the home of some of the largest federal installations in the country here in the state of Maryland, that a lot of our infrastructure projects are being underwritten by the federal government to include the Key Bridge. So I understand how important that relationship is, and I am very clear that I will work with this administration and find ways of finding common-sense solutions that are going to uplift Maryland, invest in Maryland, support Maryland. I'll push back on things that I think are either don't make sense or are unconstitutional or challenge our values. But I am approaching this truly with a sense of partnership.",
+    "bio": "Westley Watende Omari Moore (born October 15, 1978) is an American author, entrepreneur, television producer, and United States Army veteran. From 2017 to 2021 Moore served as the CEO of the Robin Hood Foundation. He is currently the Democratic nominee for governor in the 2022 Maryland gubernatorial election. If elected, Moore would be the first African-American governor of Maryland. Moore is the author of The Other [target] and The Work, both of which are New York Times Bestsellers. He was also the host of Beyond Belief on the Oprah Winfrey Network, as well as the executive producer and a writer for Coming Back with [target] on PBS. Moore is the founder and CEO of BridgeEdU, a social enterprise dedicated to helping students in their transitions to the freshman year of college. A Baltimore Banner interview with former BridgeEdU students found that the program supported them in their first year, helping them to progress toward graduation. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah. But what we're doing is this. No one agrees that the tax code makes sense in the state of Maryland. And so I said, we've got to be able to reform the tax code to make us more competitive and to make taxes simpler, fairer, and pro-growth. And so I just announced a budget plan. And it is kind of intuitive, but I explain to people, to deal with the budget deficit, the structural deficit that we inherited, we're actually going to give two-thirds of Marylanders a tax cut. We're going to take 82% of Marylanders and say, we're actually going to make sure that you pay either less in taxes or there's no change. We did not raise the sales tax. We did not raise the income tax. We've cut the corporate tax rate in the state of Maryland, and we've eliminated the inheritance tax. And for a lot of people, it did seem a little bit odd because they're like, well, why don't you just raise sales taxes or raise property taxes? And my answer is this. A, I would have found that to be just a lazy way of thinking. Because it's not reform. We've got to reform the tax code. And the second piece is, it's not pro-growth. I actually want to attract businesses to come to the state of Maryland. And that's why in our budget, we have some historic adjustments to doing regulatory reform, permitting reform, procurement reform. Actually, we've announced an executive order focusing on government modernization, where it's all about getting rid of the government waste, getting rid of the unnecessary spending, doing consolidation, doing fleet consolidation, IT consolidation, focusing on real estate. I mean, all things that we can make get our economy going. And so that has been the focus, is that we've got to get out of this crisis by focusing on growth."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So as we talk. Donald Trump is about to be inaugurated again as president United States. So as a Democratic leader and a Democratic governor of Maryland a very Democratic state. Do you feel like you're a leader of the opposition or do you feel like your job is to cooperate with him or how do you view Donald Trump as somebody you work with or."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, I'm not the leader of the resistance. I'm the governor of Maryland. I've got six and a half million people who I answer to, and some of whom voted for Donald Trump, some of whom did not vote for Donald Trump. But the thing that I know is that the thing they all have in common is they're Marylanders. And so the way I'm going to approach this, working with the new administration, is the way that I would approach working with any administration, where, you know, I understand how tethered Maryland is to Washington and to the federal government. We have over 160,000 federal employees. We are the home of some of the largest federal installations in the country here in the state of Maryland, that a lot of our infrastructure projects are being underwritten by the federal government to include the Key Bridge. So I understand how important that relationship is, and I am very clear that I will work with this administration and find ways of finding common-sense solutions that are going to uplift Maryland, invest in Maryland, support Maryland. I'll push back on things that I think are either don't make sense or are unconstitutional or challenge our values. But I am approaching this truly with a sense of partnership."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why do you think Maryland has now become such a liberal state, such a democratic state?"
+      }
+    ],
+    "speakername": "Wes Moore",
+    "ground_truth": "We tell people that we are, this is the northernmost southern state. I'm one of the only Democratic southern governors inside of the country that the bloodiest battles of the Civil War took place in the state of Maryland. I'm the first black governor in the history of the state of Maryland that literally down the street is the docks, the Annapolis docks, which was one of the country's first and largest slave ports that the building we're in right now, the state capitol, was built by the hands of enslaved people. So the dichotomy and the complexity of this state is very real. But it's one of the things that I take a real sense of pride in.",
+    "bio": "Westley Watende Omari Moore (born October 15, 1978) is an American author, entrepreneur, television producer, and United States Army veteran. From 2017 to 2021 Moore served as the CEO of the Robin Hood Foundation. He is currently the Democratic nominee for governor in the 2022 Maryland gubernatorial election. If elected, Moore would be the first African-American governor of Maryland. Moore is the author of The Other [target] and The Work, both of which are New York Times Bestsellers. He was also the host of Beyond Belief on the Oprah Winfrey Network, as well as the executive producer and a writer for Coming Back with [target] on PBS. Moore is the founder and CEO of BridgeEdU, a social enterprise dedicated to helping students in their transitions to the freshman year of college. A Baltimore Banner interview with former BridgeEdU students found that the program supported them in their first year, helping them to progress toward graduation. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We tell people that we are, this is the northernmost southern state. I'm one of the only Democratic southern governors inside of the country that the bloodiest battles of the Civil War took place in this state. I'm the first black governor in the history of this state that literally down the street are the docks, which was one of the country's first and largest slave ports that the building we're in right now, the state capitol, was built by the hands of enslaved people. So the dichotomy and the complexity of this state is very real. But it's one of the things that I take a real sense of pride in."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Now, you ran for governor initially in 2022 and were elected overwhelmingly. You're up for reelection in 2026. Yes. You haven't announced yet, I don't think, that you're running."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I can announce now, I'm running for re-election."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "OK. So you're running for reelection as governor. I think you're likely to win based on everything I know about state politics. But the question you'll be asked is, are you thinking of running as well for president of the United States? And the answer to that question is no."
+      }
+    ],
+    "speakername": "Wes Moore",
+    "ground_truth": "I've got the best job around and I love the momentum we're actually seeing in this state you know I think about when I when I was first elected this state was ranked 43rd in the country in unemployment now this state's going on 15 straight months of amongst the lowest unemployment rates in the entire country that when I was elected governor this state was in the middle of a of a scourge of violent crime over an eight-year period this state saw our homicide rate nearly doubled the major city had eight straight years of 300 plus homicides now this state has amongst the most precipitous drops in violent crime of anywhere in the country right now and so I love the momentum that we're seeing here and uh and I want this to be our state's decade and I want to lead that charge",
+    "bio": "The target (born October 15, 1978) is an American author, entrepreneur, television producer, and United States Army veteran. From 2017 to 2021 they served as the CEO of a major charitable foundation. They were the Democratic nominee for governor in the 2022 state gubernatorial election. If elected, they would be the first African-American governor of their state. The target is the author of two New York Times Bestsellers. They were also the host of a show on a major television network, as well as the executive producer and writer for another show on public television. They are the founder and CEO of an educational social enterprise dedicated to helping students in their transitions to the freshman year of college. A local news interview with former students found that the program supported them in their first year, helping them to progress toward graduation. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Morning, everybody. It's DJ Envy, Angela Yee, Charlamagne Tha God. We are The Breakfast Club. We got a special guest on the line."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, indeed. Congressman [target], welcome."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thank you. Big fan of the show. Thanks for having me. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You know, I'm glad that you're here, man, because, you know, you've spoken to me about this proposal for wealth generation and tech jobs for young black Americans. And you sent it. I believe you sent it to VP and their running mate. But explain to people what that is."
+      }
+    ],
+    "speakername": "Ro Khanna",
+    "ground_truth": "Well, it's very simple. Right now, the black community is being left out of the main wealth generation. I mean, I represent [tech region]. Less than three percent of venture capital goes to black or Latino entrepreneurs. They're less than 10 percent at major tech companies of the employees or executives. If you think about it, the black community was not fully part of the industrial revolution. And now you have a digital revolution, which is driving most of the stock market, 90 percent of the gains. And you don't see black folks getting the IPOs. You don't see them at the executive tables. You don't see them generating wealth. So my view is you want to deal with the racial wealth gap. We've got to have more funding for black entrepreneurs. We've got to actually create boot camps. We've got to get at least a million black young men and women in the digital economy.",
+    "bio": "[target] is an American politician, lawyer, and academic serving as the U.S. representative from a congressional district since 2017. A member of the Democratic Party, he defeated an eight-term incumbent Democratic Representative in the general election. [target] also served as the deputy assistant secretary in the Department of Commerce under a previous administration from August 8, 2009, to August 2011. [target] identifies as a progressive capitalist. He states that he only accepts campaign donations from individuals and is one of only six members of the U.S. House of Representatives, and ten members of Congress, who state that they do not take campaign contributions from political action committees (PACs) or corporations. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you. Big fan of the show. Thanks for having me. Thank you, [target]."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You know, I'm glad that you're here, man, because, you know, you've spoken to me about this proposal for wealth generation and tech jobs for young black Americans. And you sent it. I believe you sent it to VP Biden and Kamala Harris. But explain to people what that is."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's very simple. Right now, the black community is being left out of the main wealth generation. I mean, I represent [tech region]. Less than three percent of venture capital goes to black or Latino entrepreneurs. They're less than 10 percent at major tech companies of the employees or executives. If you think about it, the black community was not fully part of the industrial revolution. And now you have a digital revolution, which is driving most of the stock market, 90 percent of the gains. And you don't see black folks getting the IPOs. You don't see them at the executive tables. You don't see them generating wealth. So my view is you want to deal with the racial wealth gap. We've got to have more funding for black entrepreneurs. We've got to actually create boot camps. We've actually got to get at least a million black young men and women in the digital economy."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How do we do that?"
+      }
+    ],
+    "speakername": "Ro Khanna",
+    "ground_truth": "Well, I think it's very simple, very concrete, four things. First, let's create actual boot camps at historically black colleges and universities in partnership with the private sector to get folks the skills and jobs. It's not enough for major tech companies to write a check to the United Negro Scholarship Fund and think their job is done. You know, there are only a third of computer science graduates or people with skills are actually getting jobs. They have to actually commit to hiring these people, not just giving some skills. And what often happens is the HBCUs or other schools, they don't have the access to get interviews. So they may be doing computer science stuff, but then they're not doing the whiteboard interviews and they're getting blocked out. So we had a partnership at [university] with [tech company]. We're [tech company] committed to not just funding the training, practical skills, but actually hiring folks afterwards. And I think we have to create. These kind of boot camps that Opportunity Hub and others are doing across across the country. Changing the career.",
+    "bio": "The target (born September 13, 1976) is an American politician, lawyer, and academic serving as the U.S. representative from [state]'s 17th congressional district since 2017. A member of the Democratic Party, he defeated eight-term incumbent Democratic Representative in the general election on November 8, 2016, after first running for the same seat in 2014. The target also served as the deputy assistant secretary in the United States Department of Commerce under President Barack Obama from August 8, 2009, to August 2011. The target identifies as a progressive capitalist. He states that he only accepts campaign donations from individuals and is one of only six members of the U.S. House of Representatives, and ten members of Congress, who state that they do not take campaign contributions from political action committees (PACs) or corporations. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How do we do that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think it's very simple, very concrete, four things. First, let's create actual boot camps at minority-serving institutions in partnership with the private sector to get folks the skills and jobs. It's not enough for a tech company to write a check to a scholarship fund and think their job is done. You know, there are only a third of computer science graduates or people with skills are actually getting jobs. They have to actually commit to hiring these people, not just giving some skills. And what often happens is these institutions or other schools, they don't have the access to get interviews. So they may be doing computer science stuff, but then they're not doing the whiteboard interviews and they're getting blocked out. So we had a partnership at a university with a tech company. We're they committed to not just funding the training, practical skills, but actually hiring folks afterwards. And I think we have to create. These kind of boot camps that Opportunity Hub and others are doing across across the country. Changing the career."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Changing the curriculum. We have to change the curriculum."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The university in the Southeast? That university, yes."
+      }
+    ],
+    "speakername": "Ro Khanna",
+    "ground_truth": "Yeah. No, that university and the tech company. So, you know, what was happening is these minority-serving institutions, they give all the academic stuff and then people would go to interview and there are all these whiteboard interviews and all these things and they've never been exposed to it. So they wouldn't get the job. And that's, you know, that's not going to create actual opportunity. So first, get people the actual practical skills and certification that's going to lead to a job. So these institutions should partner with the private institutions and these private companies have to commit to hiring.",
+    "bio": "The target is an American politician, lawyer, and academic serving as a U.S. representative from a Western state congressional district since 2017. A member of the Democratic Party, he defeated an eight-term incumbent Democratic Representative in the general election. The target also served as the deputy assistant secretary in a federal department under a previous administration. The target identifies as a progressive capitalist and only accepts campaign donations from individuals, being one of only six members of the U.S. House of Representatives, and ten members of Congress, who do not take campaign contributions from political action committees (PACs) or corporations. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It should reflect the population of black people in this country. So 13 to 14 percent is what I say."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Great. Let's do something. 13%, 14% makes a lot of sense. And a civil rights leader, who I admire, but he's been going to the tech region for the past 15 years. And he gives the same speech about diversity and they put out some statistics, but it's not improving. I mean, we've got to have some real policy and it can't just be left to the intentions of people in the region. Third thing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Go ahead, please."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And what about raising funds? Because you did talk about venture capitalists and how black people are getting left out when it comes to that. So what can be done about that?"
+      }
+    ],
+    "speakername": "Ro Khanna",
+    "ground_truth": "I think two things. First, let's look at the statistics. Less than 3%, $130 billion venture capital industry, less than 3% is going to Black or Latino entrepreneurs, probably less than 1% to Black entrepreneurs. And when it comes to women.",
+    "bio": "The target (born September 13, 1976) is an American politician, lawyer, and academic serving as the U.S. representative from a congressional district since 2017. A member of the Democratic Party, he defeated an eight-term incumbent Democratic Representative in the general election on November 8, 2016, after first running for the same seat in 2014. The target also served as the deputy assistant secretary in the Department of Commerce under a previous administration from August 8, 2009, to August 2011. The target identifies as a progressive capitalist. He states that he only accepts campaign donations from individuals and is one of only six members of the legislative body, and ten members of Congress, who state that they do not take campaign contributions from political action committees (PACs) or corporations. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "three percent uh i think we need to do two things one we need actual targeted federal government matching funds where we're putting funds into black owned uh vcs there are about 20 prominent black owned vcs you know if you give money to people with black owned funds they're more likely to fund black entrepreneurs that's just the reality of it but the black funds vc funds are you know a very small fraction of the 130 billion so i have federal funds uh to match that and secondly incentivize the harvard's the public pension funds to say uh look you get a different capital gains tax rate if you're going to invest that money uh with a black owned fund so that you're incentivizing these huge uh people who control a lot of the capital to put the money in in black funds i fundamentally believe if you give money to black run funds you're going to get more black entrepreneurs funded i don't think you can rely on non you know other funds finding the entrepreneurs or opportunities"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, you got to be intentional about it. You know what I mean? So you got to give the money to people who are going to be intentional about empowering other black people. But I got a question, Roe. What's keeping black people out of the digital revolution? We're the consumers of all this tech, all these social media apps, but not the creators. Why?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, that's brilliantly put. I mean, simply, I mean, look, you know, black Twitter. I mean, the black people get a lot of the cultural stuff started on these tech companies. They wouldn't have grown. Twitter wouldn't have grown if it was not."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And right now, Clubhouse."
+      }
+    ],
+    "speakername": "Ro Khanna",
+    "ground_truth": "Clubhouse and on Amazon, obviously huge purchases on Facebook. And so the black community is exactly as you put it, they're the consumers. But more than the consumers, they're the cultural movers. They're getting this stuff popular. I mean, you look at the videos on entertainment and things on Instagram or TikTok, it's often black entertainers, black influencers, and yet they're not getting the wealth, the actual wealth creation, and they're not being able to shape these platforms. And that's the huge disjuncture of the digital revolution. I mean, people keep talking about the racial wealth gap, 10 to 1. It has increased in the last 20 years, not decreased, increased. And one of the big parts of the reasons for that, in my view, is that all the wealth creation is largely being driven in the digital economy. So why are they excluded? Have they been excluded? I think partly it's that there's network effects. You know, if you're, it's not that they don't, they don't want to go into computer science. Actually, young black kids have a greater desire. There's a study showing they have a greater desire to study computer science than white kids. Actual, they're more interested in it. So, and a third of black graduates include. So, and a third of black graduates include. Boot camp training, which teaches folks not just about the algorithms and how to code, but actually the way that interviews are conducted to get jobs, and then partly is the exclusion of capital. But if this continues, the racial wealth gap 20 years from now will be worse. And what I say is, look, the racial wealth gap is going to be worse. But if this continues, the racial wealth gap is going to be worse. And what I say is, look, the racial wealth gap is going to be worse. And what I say is, look, the racial wealth gap is going to be worse. But if this continues, the racial wealth gap is going to be worse. And what I say is, look, the racial wealth gap is going to be worse. And what I say is, look, the racial wealth gap is going to be worse. But I clearanan you know that's the biggest issue obviously and you're not sure why you've been very eloquent on it is with criminal justice reform and police violence and that, obviously, we people can't be getting shot but in Silicon Valley it's easy to sit there and say, you know, the problem is the cop in Minnesota or the cop in Wisconsin and and support black lives matter or theoretically and say okay we're going to go out and March For Graham. sort of theoretically and say, OK, we're going to go out and march for greater racial justice against police violence. But what are you doing? Black Lives Matter is not just about making sure black kids don't get shot in the streets. It's about making sure they have a shot at the American dream and wealth creation. That's a far harder structural reform. And I think we can't let off companies and the area I represent saying, OK, support Black Lives Marches without talking about equity and wealth generation.",
+    "bio": "Rohit Khanna (/ËkÊnÉ/; born September 13, 1976) is an American politician, lawyer, and academic serving as the U.S. representative from California's 17th congressional district since 2017. A member of the Democratic Party, he defeated eight-term incumbent Democratic Representative Mike Honda in the general election on November 8, 2016, after first running for the same seat in 2014. Khanna also served as the deputy assistant secretary in the United States Department of Commerce under President Barack Obama from August 8, 2009, to August 2011. Khanna identifies as a progressive capitalist. He states that he only accepts campaign donations from individuals and is one of only six members of the U.S. House of Representatives, and ten members of Congress, who state that they do not take campaign contributions from political action committees (PACs) or corporations. The speaker's MBTI type is INFJ",
+    "split": "val"
+  }
+]

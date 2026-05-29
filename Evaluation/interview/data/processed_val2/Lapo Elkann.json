@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you very much. How are you?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Good."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's good to have you in [city]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Could you tell me, what's it been like growing up as part of this dynasty, this [family] dynasty, [country]'s first family as it's known?"
+      }
+    ],
+    "speakername": "Lapo Elkann",
+    "ground_truth": "But today if I have to speak of myself I would speak about [target] and not about [family] or [family] or the dynasty or the family business because the truth is my life is something else.",
+    "bio": " The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's good to have you in [city]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Could you tell me, what's it been like growing up as part of this dynasty, this [family name] dynasty, [country]'s first family as it's known?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "But today if I have to speak of myself I would speak about [target] and not about [family name] or the dynasty or the family business because the truth is my life is something else."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Has it been a hard reputation to live up to, though, as you were growing up?"
+      }
+    ],
+    "speakername": "Lapo Elkann",
+    "ground_truth": "I wouldn't say it's been a hard reputation. I would say it's been an interesting ladder to have to compare to and a fun ladder to have to climb. Because the reality is I created my own ladder to have to climb compared to the one my family has created for itself. People think that things come easily. The reality is you can have a name, a surname, you can have a big bank account. But the truth is if you build something, if what you build doesn't have substance, on the long run, you're dead.",
+    "bio": "The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I wouldn't say it's been a hard reputation. I would say it's been an interesting ladder to have to compare to and a fun ladder to have to climb. Because the reality is I created my own ladder to have to climb compared to the one my family has created for itself. People think that things come easily. The reality is you can have a name, a surname, you can have a big bank account. But the truth is if you build something, if what you build doesn't have substance, on the long run, you're dead."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So we asked our online audience to send us in questions for this interview. And we received this question from Kevin Borg. And he wants to know, what's your greatest passion? Is it for cars? Is it for fashion and style? Or sports? Do you have a favorite?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, cars."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You are known for being instrumental in the design of the new model, but you subsequently left the company. How difficult a decision was that?"
+      }
+    ],
+    "speakername": "Lapo Elkann",
+    "ground_truth": "the new model was a great achievement a great achievement i would say professionally personally for me and for the team who worked on it because",
+    "bio": "The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "the car model was a great achievement a great achievement i would say professionally personally for me and for the team who worked on it because"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did you not want to stay and carry on working with the company afterwards?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I've never left the company."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mhmm."
+      }
+    ],
+    "speakername": "Lapo Elkann",
+    "ground_truth": "because i remain largest shareholder of the company with my brother my sister so as a shareholder i've never left the company and as a supporter i've never left the company as an entrepreneur i'm extremely happy of having built my own because if i wouldn't have built my own i wouldn't know what are the satisfaction of being capable and able of something yours and not something that you inherited",
+    "bio": "The speaker's MBTI type is ISFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mhmm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "because i remain largest shareholder of the company with my brother my sister so as a shareholder i've never left the company and as a supporter i've never left the company as an entrepreneur i'm extremely happy of having built my own because if i wouldn't have built my own i wouldn't know what are the satisfaction of being capable and able of something yours and not something that you inherited"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you said, you're an entrepreneur at heart and you travel immensely, a lot between Europe and North America. Given these difficult economic times, what lessons do you think we can learn from each other in terms of entrepreneurship?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What I take from North America is pragmatism. It's to cut the crap and to be direct."
+      }
+    ],
+    "speakername": "Lapo Elkann",
+    "ground_truth": "which sadly in Europe I see less. What I take from Europe is, how do you say, the passion, and I would say more than from Europe, from Southern Europe, the passion and the enthusiasm in the phase of development and creativity of a product or a project, but without order, organization, discipline and structure, which means building a company and having right people and right teams, you don't deliver.",
+    "bio": "The speaker's MBTI type is ISFP",
+    "split": "val"
+  }
+]

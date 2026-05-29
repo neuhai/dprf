@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If you think about national security today, in 2024, it's not just tanks and missiles, it's technology, it's semiconductors, it's AI, it's drones, and the government department is at the red-hot center of technology."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And at the technology center, a global chip war that ramped up, says [target], when one nation invaded another."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Government department stopped all semiconductor chips from being sold to that nation. Every drone, every missile, every tank has semiconductors in them. And you know, Leslie, you know we're being effective because shortly after we started that work, we heard stories of them taking semiconductors out of refrigerators, out of dishwashers, out of breast pumps, getting the chips to put them into their military equipment."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "However, they are now working their way around this. They are. Successfully, and they're doing better in the war probably because of this."
+      }
+    ],
+    "speakername": "Gina Raimondo",
+    "ground_truth": "You are right in what you say. But, [target] says, it's absolutely the case that our export controls have hurt their ability to conduct the war, made it harder, and we are enforcing this every minute of every day, doing everything we can.",
+    "bio": "An American politician and venture capitalist serving as a senior government official. A member of the Democratic Party, they served as the first female governor of a northeastern state from 2015 to 2021. They served as General Treasurer of that state from 2011 to 2015. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We want to trade with [Country] on the vast majority of goods and services, but on those technologies that affect our national security, no."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Those advanced chips are in consumer goods. Banks use them, hospitals. This is going toward products that are made for civilian use. Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, they also go into nuclear weapons, surveillance systems, and we know they want these chips and our sophisticated technology to advance their military."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "her toughness has made her a target in [Country] where fake ads have her promoting the new [Country]-made smartphone last year the government in [Capital] hacked her email and when she was in [Country] on a trip ironically to improve relations the tech company [Company] introduced that new smartphone with an advanced [Country]-made chip it was kind of in your face as if to say look at the chip that we have and it was a pretty good high level chip"
+      }
+    ],
+    "speakername": "Gina Raimondo",
+    "ground_truth": "Well, I have their attention, clearly. And they've gotten yours. Well, what it tells me is the export controls are working because that chip is not nearly as good. It's years behind what we have in [Country]. We have the most sophisticated semiconductors in the world. [Country] doesn't. We've out-innovated [Country].",
+    "bio": "A senior government official serving as a cabinet secretary. A member of the Democratic Party, they served as the first female governor of a northeastern state from 2015 to 2021. They previously served as State Treasurer from 2011 to 2015. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I have their attention, clearly. And they've gotten yours. Well, what it tells me is the export controls are working because that chip is not nearly as good. It's years behind what we have in the United States. We have the most sophisticated semiconductors in the world. China doesn't. We've out-innovated China."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, we, you mean [region]. Fair. While American tech companies design the world's most advanced chips, none are actually made in the U.S. Ninety percent of them come from [region], and they are key to the future of U.S. military weaponry. And China, from time to time, threatens, you know, the wolf, to invade [region]. And some people say the whole reason is to get their hands on those chips. That's a problem. It's a risk. It makes us vulnerable. The problem of our outsourcing production goes way beyond high tech, with millions of American workers having lost their jobs that went overseas, something [target] knows firsthand, growing up as the youngest child in an Italian-American family in [state]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is the old [company] factory where my dad worked for almost 30 years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Her dad lost his job when [company] abandoned the factory in 1983 and moved its operations to China."
+      }
+    ],
+    "speakername": "Gina Raimondo",
+    "ground_truth": "for you to imagine it now as you look around here but this was a you know a bustling place you know they had a thousand people working here food trucks on the sidewalk an electric plating shop there a tool and dye shop there and now this is what you have and how old were you i was in like sixth grade but i saw the toll it took on my dad and my family",
+    "bio": "An American politician and venture capitalist serving as the United States secretary of commerce. A member of the Democratic Party, she served as the 75th and first female governor of [state] from 2015 to 2021. She served as General Treasurer of [state] from 2011 to 2015. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This is the old manufacturing facility where my dad worked for almost 30 years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Her dad lost his job when the company abandoned the factory in 1983 and moved its operations overseas."
+      },
+      {
+        "speaker": "[target]",
+        "text": "for you to imagine it now as you look around here but this was a you know a bustling place you know they had a thousand people working here food trucks on the sidewalk an electric plating shop there a tool and dye shop there and now this is what you have and how old were you i was in like sixth grade but i saw the toll it took on my dad and my family"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And that influenced her career choices, from when she studied economics and played rugby at a prestigious university... So this is my office. ...to when she left a high-paying job as a venture capitalist to run for public office in a northeastern state."
+      }
+    ],
+    "speakername": "Gina Raimondo",
+    "ground_truth": "This was the day that I was sworn in as state treasurer, and those were my parents. That was my dad. That's your dad? Super proud of me.",
+    "bio": "The speaker is an American politician and venture capitalist serving as a senior cabinet member. A member of the Democratic Party, they served as the first female governor of a northeastern state from 2015 to 2021. They served as General Treasurer of the same state from 2011 to 2015. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "for you to imagine it now as you look around here but this was a you know a bustling place you know they had a thousand people working here food trucks on the sidewalk an electric plating shop there a tool and dye shop there and now this is what you have and how old were you i was in like sixth grade but i saw the toll it took on my dad and my family"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And that influenced her career choices, from when she studied economics and played rugby at [prestigious university]... So this is my office. ...to when she left a high-paying job as a venture capitalist to run for public office in [state]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This was the day that I was sworn in as state treasurer, and those were my parents. That was my dad. That's your dad? Super proud of me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "boulevard"
+      }
+    ],
+    "speakername": "Gina Raimondo",
+    "ground_truth": "The man who worked at [company name], the man who taught me about manufacturing, taught me that a job is about your pride, ability to take care of your family, not just a paycheck.",
+    "bio": "A politician and venture capitalist serving as the [government position]. A member of the [political party], they served as the 75th and first female governor of [state] from 2015 to 2021. They served as General Treasurer of [state] from 2011 to 2015. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

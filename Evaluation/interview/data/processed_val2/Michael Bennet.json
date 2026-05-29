@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it will be good for the state if the neighboring state legalizes it in particular because it will give us more folks in the legislature who will argue that we need to allow, for example, the money that's generated as a result of marijuana businesses to be banked in banks. We've had a challenge with that when it's just our state or just a few states. I think now that the whole western region will have legalized marijuana, we'll have a very strong argument to make."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What has to happen first? Is it the banking or reclassifying where it falls with the DEA?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I wish that we had reclassified it just now. The DEA just came out with a new regulation still calling it a Class 1 narcotic. I thought that was unfortunate. They did make it easier for universities and others to do research on marijuana, which I think is important. I think we can get it done either way. So we're going to continue to focus on Treasury and try to get them to do the right thing."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What about the impact on the state, specifically businesses, tourism?"
+      }
+    ],
+    "speakername": "Michael Bennet",
+    "ground_truth": "Well, I've never thought that we wanted our state to be a tourist destination for marijuana. We have lots of reasons why people want to come here, and they are coming here. It may be too late for some rental businesses and other things, but I think it'll be good for our state to have other states legalize this and not have us just be out there on our own.",
+    "bio": "Born November 28, 1964, the target is an American businessman, lawyer, and politician serving as the senior United States Senator from their state since 2009. A member of the Democratic Party, they were appointed to the seat when the previous Senator became Secretary of the Interior. The target previously worked as a managing director for an investment company, chief of staff to a city mayor, and Superintendent of the city's Public Schools. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I wish that we had reclassified it just now. The regulatory agency just came out with a new regulation still calling it a Class 1 narcotic. I thought that was unfortunate. They did make it easier for universities and others to do research on marijuana, which I think is important. I think we can get it done either way. So we're going to continue to focus on Treasury and try to get them to do the right thing."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What about the impact on the state, specifically businesses, tourism?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I've never thought that we wanted our state to be a tourist destination for marijuana. We have lots of reasons why people want to come here, and they are coming here. It may be too late for some rental businesses and other things, but I think it'll be good for our state to have other states legalize this and not have us just be out there on our own."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "IT'S TOUGH TO BE A DESTINATION SPOT WHEN WE HAVE A TROUBLED HIGHWAY SYSTEM. WE KNOW THAT A LOT OF THE FUNDING FOR HIGHWAYS COME FROM FEDERAL GRANTS, MINUS WHAT WE HAVE IN THE STATE RIGHT NOW, WHICH IS A STRUGGLE TO PAY FOR WHAT WE NEED, LET ALONE ADDITIONAL NEEDS, LIKE EXPANDING THE INTERSTATE, FOR EXAMPLE. AND I KNOW THE STATE DEPARTMENT OF TRANSPORTATION JUST MISSED OUT ON SOME FEDERAL FUNDING FOR SOME GRANT THAT THEY APPLIED FOR. WHAT CAN WE DO FEDERALLY TO HELP WHAT WE HAVE RIGHT HERE IN OUR STATE?"
+      }
+    ],
+    "speakername": "Michael Bennet",
+    "ground_truth": "I was just up north of a major city with some folks from the region up there celebrating a $25 million grant that they'd gotten from the federal government with another Senator. He was there as well to begin the planning for the widening of the interstate. And we're clearly underinvesting in our infrastructure. I have had a bill for the last several years that would, which is bipartisan, a Senator from a midwestern state and four Democrats, four Republicans, and an Independent that would basically repatriate the cash that's stuck overseas because of corporate earnings and bring it back to the country and use some portion of that for infrastructure. My hope, given the emphasis that the presidential candidates have both put on infrastructure in the presidential campaign, my hope is that will be one of the very first things we'll work on when we get back. And I'll say this, even when I'm in the toughest town hall in the state and people are calling me names and saying they've come because they don't like me, they don't like something that I did, I say, well, I don't know about any of that, maybe it's true. But here's what I do know, because of something wrong in our politics in the capital, we don't have the decency right now to even maintain the assets and infrastructure, the roads and bridges that our parents and grandparents had the decency to build for us, much less build the infrastructure our kids are going to need to compete in this century.",
+    "bio": "[target] (born November 28, 1964) is an American businessman, lawyer, and politician serving as the senior United States Senator from a western state since 2009. A member of a major political party, he was appointed to the seat when another Senator became Secretary of the Interior. [target] previously worked as a managing director for an investment company, chief of staff to a city mayor, and Superintendent of a major city's Public Schools. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I've never thought that we wanted [state] to be a tourist destination for marijuana. We have lots of reasons why people want to come here, and they are coming here. It may be too late for some Airbnb businesses and other things, but I think it'll be good for [state] to have other states legalize this and not have us just be out there on our own."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "IT'S TOUGH TO BE A DESTINATION SPOT WHEN WE HAVE A TROUBLED HIGHWAY SYSTEM. WE KNOW THAT A LOT OF THE FUNDING FOR HIGHWAYS COME FROM FEDERAL GRANTS, MINUS WHAT WE HAVE IN [state] RIGHT NOW, WHICH IS A STRUGGLE TO PAY FOR WHAT WE NEED, LET ALONE ADDITIONAL NEEDS, LIKE EXPANDING [highway], FOR EXAMPLE. AND I KNOW [agency] JUST MISSED OUT ON SOME FEDERAL FUNDING FOR SOME GRANT THAT THEY APPLIED FOR. WHAT CAN WE DO FEDERALLY TO HELP WHAT WE HAVE RIGHT HERE IN [state]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was just up north of [city] with some folks from the region up there celebrating a $25 million grant that they'd gotten from the federal government with Senator [name]. He was there as well to begin the planning for the widening of [highway]. And we're clearly underinvesting in our infrastructure. I have had a bill for the last several years that would, which is bipartisan, [name] from [state] and four Democrats, four Republicans, and an Independent that would basically repatriate the cash that's stuck overseas because of corporate earnings and bring it back to the United States and use some portion of that for infrastructure. My hope, given the emphasis that [name] and [name] have both put on infrastructure in the presidential campaign, my hope is that will be one of the very first things we'll work on when we get back. And I'll say this, even when I'm in the toughest town hall in [state] and people are calling me names and saying they've come because they don't like me, they don't like something that I did, I say, well, I don't know about any of that, maybe it's true. But here's what I do know, because of something wrong in our politics in [city], we don't have the decency right now to even maintain the assets and infrastructure, the roads and bridges that our parents and grandparents had the decency to build for us, much less build the infrastructure our kids are going to need to compete in the 21st century. And that's what we need to do."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Because you know that's a huge frustration for a lot of people, particularly here in [state]. So as you travel our state, what's your biggest road construction headache that you encounter?"
+      }
+    ],
+    "speakername": "Michael Bennet",
+    "ground_truth": "So anytime I'm on [highway] or [highway] trying to get back into [city] from someplace, particularly on a Friday night, it is a nightmare. It's a nightmare.",
+    "bio": "[target] (born November 28, 1964) is an American businessman, lawyer, and politician serving as the senior United States Senator from [state] since 2009. A member of the Democratic Party, he was appointed to the seat when Senator [name] became Secretary of the Interior. [target] previously worked as a managing director for the [company] Investment Company, chief of staff to [city] Mayor [name], and Superintendent of [city] Public Schools. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was just up north of [Location] with some folks from the region up there celebrating a $25 million grant that they'd gotten from the federal government with Senator [Name]. He was there as well to begin the planning for the widening of [Highway]. And we're clearly underinvesting in our infrastructure. I have had a bill for the last several years that would, which is bipartisan, [Name] from [State] and four Democrats, four Republicans, and an Independent that would basically repatriate the cash that's stuck overseas because of corporate earnings and bring it back to the United States and use some portion of that for infrastructure. My hope, given the emphasis that [Name] and [Name] have both put on infrastructure in the presidential campaign, my hope is that will be one of the very first things we'll work on when we get back. And I'll say this, even when I'm in the toughest town hall in [State] and people are calling me names and saying they've come because they don't like me, they don't like something that I did, I say, well, I don't know about any of that, maybe it's true. But here's what I do know, because of something wrong in our politics in [Location], we don't have the decency right now to even maintain the assets and infrastructure, the roads and bridges that our parents and grandparents had the decency to build for us, much less build the infrastructure our kids are going to need to compete in the 21st century. And that's what we need to do."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Because you know that's a huge frustration for a lot of people, particularly here in [State]. So as you travel our state, what's your biggest road construction headache that you encounter?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So anytime I'm on [Highway] or [Highway] trying to get back into [City] from someplace, particularly on a Friday night, it is a nightmare. It's a nightmare."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And can you take that frustration to Congress?"
+      }
+    ],
+    "speakername": "Michael Bennet",
+    "ground_truth": "Yeah, I do take it to Congress. It is an absolute nightmare, and it's gotten far worse in the last several years because we've grown. I mean, this is the downside of our success. We've attracted lots of people to the state, lots of millennials to the state, and with that comes lots of congestion. On the other hand, I'll say that the metro area, because of the investment we've made in fast tracks, the investment we've made in bus rapid transit, I think we've actually established a model for the rest of the country. When I stand behind [Station] and I think to myself, you know, I look at that train station, which is sort of out of scale for [City] right now, and I think, I imagine somebody standing there 50 years from now saying, I'm glad those people thought about us, which is, I think, the standard we ought to be applying to Congress. You know, are we thinking 50 years in the future, or are we thinking just between television commercials on the cable television?",
+    "bio": "The speaker is an American businessman, lawyer, and politician serving as the senior United States Senator from [State] since 2009. A member of the Democratic Party, they were appointed to the seat when Senator [Name] became Secretary of the Interior. The speaker previously worked as a managing director for the [Company] Investment Company, chief of staff to [City] Mayor [Name], and Superintendent of [City] Public Schools. The speaker's MBTI type is INFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So anytime I'm on the highway or interstate trying to get back into the city from someplace, particularly on a Friday night, it is a nightmare. It's a nightmare."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And can you take that frustration to Congress?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I do take it to Congress. It is an absolute nightmare, and it's gotten far worse in the last several years because we've grown. I mean, this is the downside of our success. We've attracted lots of people to the state, lots of millennials to the state, and with that comes lots of congestion. On the other hand, I'll say that the metro area, because of the investment we've made in transit systems, the investment we've made in bus rapid transit, I think we've actually established a model for the rest of the country. When I stand behind the central station and I think to myself, you know, I look at that train station, which is sort of out of scale for our city right now, and I think, I imagine somebody standing there 50 years from now saying, I'm glad those people thought about us, which is, I think, the standard we ought to be applying to Congress. You know, are we thinking 50 years in the future, or are we thinking just between television commercials on the cable television?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, I think some would say that we are not thinking 50 years in the future when it comes to transportation here."
+      }
+    ],
+    "speakername": "Michael Bennet",
+    "ground_truth": "I would say that when it comes to transportation, higher education, immigration, a long list of things.",
+    "bio": "Born November 28, 1964, is an American businessman, lawyer, and politician serving as the senior United States Senator from a western state since 2009. A member of the Democratic Party, he was appointed to the seat when the previous Senator became Secretary of the Interior. [target] previously worked as a managing director for an investment company, chief of staff to a city Mayor, and Superintendent of public schools. The speaker's MBTI type is INFJ",
+    "split": "val"
+  }
+]

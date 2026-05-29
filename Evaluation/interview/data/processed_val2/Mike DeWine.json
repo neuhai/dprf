@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Governor [target], thank you so much for joining us here this afternoon. The state right now seeing a disturbing increase in coronavirus cases. Given that and the science that says mask wearing slows the spread, are you at all considering an executive order making masks mandatory in public spaces right now?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, before we would make anything mandatory, we certainly would talk to local officials, talk to the mayor, talk to the county commissioners, but we're not there yet. I mean, what we really need people to do is to wear masks. And if we get 80%, 90% of the people who are in public wearing a mask, that's very significant. So we've got to up our game there. We've got to keep the social distancing. We've got to wash hands. And we've got to increase testing. And we've seen in the city and county."
+      },
+      {
+        "speaker": "[target]",
+        "text": "an increase in testing in the last week is something that we're working on with the mayor and the county commissioners and the health directors we've had the national guard in so people have the opportunity to just show up get their test taken at no charge and we're urging people to to do that as we move forward we're going to really be focusing more on giving people the data from their individual zip code their individual county city and we think that's very very very important"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know here in the city we've seen bars we've seen restaurants closed because they've had an employee test positive for COVID-19. Is that the right thing for them to do and then also do these businesses specifically bars and restaurants have a responsibility to their customers to notify them if an employee test positive."
+      }
+    ],
+    "speakername": "Mike DeWine",
+    "ground_truth": "Well, they certainly do. They have an obligation to do that. And certainly, it's the right thing to do. Any resident who tests positive, I'm sure, wants to be helpful and let people know who they've come in contact with, who might, you know, might have been exposed. It's just the right thing to do. And it's a part, frankly, of us being able to control the spread of this virus.",
+    "bio": "The speaker is a politician and former attorney serving as the governor of a U.S. state. A member of the Republican Party, the speaker is a former United States Senator, elected in 1994 and re-elected in 2000. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "an increase in testing in the last week is something that we're working on with the mayor and the county commissioners and the health directors we've had the national guard in so people have the opportunity to just show up get their test taken at no charge and we're urging people to to do that as we move forward we're going to really be focusing more on giving people the data from their individual zip code their individual county city and we think that's very very very important"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know here in [city] we've seen bars we've seen restaurants closed because they've had an employee test positive for COVID-19. Is that the right thing for them to do and then also do these businesses specifically bars and restaurants have a responsibility to their customers to notify them if an employee test positive."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, they certainly do. They have an obligation to do that. And certainly, it's the right thing to do. Any resident who tests positive, I'm sure, wants to be helpful and let people know who they've come in contact with, who might, you know, might have been exposed. It's just the right thing to do. And it's a part, frankly, of us being able to control the spread of this virus."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Exactly right. Now, given the uptick in cases that we talked about just a moment ago, are you at all close to are you considering, you know, reinstituting that shelter in place order that we had seen earlier for people who are coming into the state from coronavirus hotspots across the country?"
+      }
+    ],
+    "speakername": "Mike DeWine",
+    "ground_truth": "Well, we would urge anyone who's coming in, we've not made an order yet, but we would urge anyone who is coming in from any hotspot state to quarantine. It certainly is the right thing to do. Someone comes in from [state]. You know, we had a case in the last few days. We had some young people who went to [state]. A number of them became infected. They came back. So that's what you worry about is that people are out partying. They're out in an area where, you know, the odds of getting the virus are pretty high. And then they come back to the state and then boom, here we are. And we've got it. You know, anybody they come in contact with in the state risk getting that. So, you know, if you've been in a state like [state], you've been in a state like [state], you're coming back. You know, unless you've been out hiking all by yourself, we would certainly urge you to quarantine.",
+    "bio": "The speaker is a politician and former attorney serving as the governor of a midwestern state. A member of a major political party, the speaker is a former United States Senator, elected in 1994 and re-elected in 2000. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, they certainly do. They have an obligation to do that. And certainly, it's the right thing to do. Any resident who tests positive, I'm sure, wants to be helpful and let people know who they've come in contact with, who might, you know, might have been exposed. It's just the right thing to do. And it's a part, frankly, of us being able to control the spread of this virus."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Exactly right. Now, given the uptick in cases that we talked about just a moment ago, are you at all close to are you considering, you know, reinstituting that shelter in place order that we had seen earlier for people who are coming into the state from coronavirus hotspots across the country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we would urge anyone who's coming in, we've not made an order yet, but we would urge anyone who is coming in from any hotspot state to quarantine. It certainly is the right thing to do. Someone comes in from [state]. You know, we had a case in the last few days. We had some young people who went to [state]. A number of them became infected. They came back. So that's what you worry about is that people are out partying. They're out in an area where, you know, the odds of getting the virus are pretty high. And then they come back to the state and then boom, here we are. And we've got it. You know, anybody they come in contact with in the state risk getting that. So, you know, if you've been in a state like [state], you've been in a state like [state], you're coming back. You know, unless you've been out hiking all by yourself, we would certainly urge you to quarantine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And Governor [target], I want to go back to mask just for one more moment here. You said you weren't ready to make it mandatory statewide. Do you think that you would at least encourage local jurisdictions like [county], where we're seeing this uptick, to maybe look at that on a local level and make it a mandatory policy on a countywide level right now?"
+      }
+    ],
+    "speakername": "Mike DeWine",
+    "ground_truth": "You know, I don't think we're there yet to make it mandatory in a city or in a county, but we are looking at this data now from a local perspective. We have good data. Local health departments have good data. We can break this down, you know, down into the zip code. We can tell, you know, who's getting it, not individuals, but we can tell that. But what we're looking at is trends. And so that is something that certainly is possible that we might do in conjunction with working with local elected officials. But for now, what we're asking people to do is look at these numbers. It ought to scare all of us. If we want this economy to move forward, if we want people to be able to work, if we want growth in jobs, then we have to stay tough with this virus. And the only way, there's two ways we stay tough with this virus. One is people staying away from other people, wearing masks, washing their hands. That's number one. Number two is more testing. And so those are the two things that you can do. Anybody who's watching this, go get a test. And at the same time, just be careful. Wear a mask in public, wash your hands, basic, basic things.",
+    "bio": "The speaker is a politician and former attorney serving as the governor of a state. A member of a major political party, the speaker is a former United States Senator, elected in 1994 and re-elected in 2000. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we would urge anyone who's coming in, we've not made an order yet, but we would urge anyone who is coming in from any hotspot state to quarantine. It certainly is the right thing to do. Someone comes in from [state]. You know, we had a case in the last few days. We had some young people who went to [state]. A number of them became infected. They came back. So that's what you worry about is that people are out partying. They're out in an area where, you know, the odds of getting the virus are pretty high. And then they come back to [state] and then boom, here we are. And we've got it. You know, anybody they come in contact with in [state] risk getting that. So, you know, if you've been in a state like [state], you've been in a state like [state], you're coming back. You know, unless you've been out hiking all by yourself, we would certainly urge you to quarantine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And [target], I want to go back to mask just for one more moment here. You said you weren't ready to make it mandatory statewide. Do you think that you would at least encourage local jurisdictions like [county], where we're seeing this uptick, to maybe look at that on a local level and make it a mandatory policy on a countywide level right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I don't think we're there yet to make it mandatory in a city or in a county, but we are looking at this data now from a local perspective. We have good data. Local health departments have good data. We can break this down, you know, down into the zip code. We can tell, you know, who's getting it, not individuals, but we can tell that. But what we're looking at is trends. And so that is something that certainly is possible that we might do in conjunction with working with local elected officials. But for now, what we're asking people to do is look at these numbers. It ought to scare all of us. If we want this economy to move forward, if we want people to be able to work, if we want growth in jobs, then we have to stay tough with this virus. And the only way, there's two ways we stay tough with this virus. One is people staying away from other people, wearing masks, washing their hands. That's number one. Number two is more testing. And so those are the two things that you can do. Anybody who's watching this, go get a test. And at the same time, just be careful. Wear a mask in public, wash your hands, basic, basic things."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And we're seeing more and more people in that age range between 20 and 30 years old right now testing positive. How do we get young people to take this virus seriously?"
+      }
+    ],
+    "speakername": "Mike DeWine",
+    "ground_truth": "My message to someone who's 20 to 30 is this, you know, you might think that you can get, if you catch it, you get through this okay. We certainly have had tragic examples of people in your age group who have not, who've gotten very sick, some have died. But if you don't worry about yourself, worry about your grandparents, worry about your parents, worry about anybody you might come in contact to at any age who might have a medical problem, because you've become a spreader. And you can spread it, you will spread it, and that is risking someone else's life. And there's none of us, I know none of you, would want to be responsible for someone getting really deathly sick.",
+    "bio": "The speaker is a politician and former attorney serving as the governor of a state. A member of a major political party, the speaker is a former United States Senator, elected in 1994 and re-elected in 2000. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And Governor [target], I want to go back to mask just for one more moment here. You said you weren't ready to make it mandatory statewide. Do you think that you would at least encourage local jurisdictions like [county], where we're seeing this uptick, to maybe look at that on a local level and make it a mandatory policy on a countywide level right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I don't think we're there yet to make it mandatory in a city or in a county, but we are looking at this data now from a local perspective. We have good data. Local health departments have good data. We can break this down, you know, down into the zip code. We can tell, you know, who's getting it, not individuals, but we can tell that. But what we're looking at is trends. And so that is something that certainly is possible that we might do in conjunction with working with local elected officials. But for now, what we're asking people to do is look at these numbers. It ought to scare all of us. If we want this economy to move forward, if we want people to be able to work, if we want growth in jobs, then we have to stay tough with this virus. And the only way, there's two ways we stay tough with this virus. One is people staying away from other people, wearing masks, washing their hands. That's number one. Number two is more testing. And so those are the two things that you can do. Anybody who's watching this, go get a test. And at the same time, just be careful. Wear a mask in public, wash your hands, basic, basic things."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And we're seeing more and more people in that age range between 20 and 30 years old right now testing positive. How do we get young people to take this virus seriously?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My message to someone who's 20 to 30 is this, you know, you might think that you can get, if you catch it, you get through this okay. We certainly have had tragic examples of people in your age group who have not, who've gotten very sick, some have died. But if you don't worry about yourself, worry about your grandparents, worry about your parents, worry about anybody you might come in contact to at any age who might have a medical problem, because you've become a spreader. And you can spread it, you will spread it, and that is risking someone else's life. And there's none of us, I know none of you, would want to be responsible for someone getting really deathly sick."
+      }
+    ],
+    "speakername": "Mike DeWine",
+    "ground_truth": "You know, national holiday is next week. Obviously, that's a big time for people to get together with friends and family. Do you think that it's the best policy here or best practice here? If you want to go to one of those gatherings, should people get tested before they go? And then what is your advice and what is your guidance to people who want to have these gatherings right now?",
+    "bio": "The target is an American politician and former attorney serving as the governor of a midwestern state. A member of the Republican Party, the target is a former United States Senator, elected in 1994 and re-elected in 2000. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

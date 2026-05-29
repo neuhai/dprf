@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Why? I think creating things from scratch means you're not inheriting all this sort of history and problems that come with buying something. If you create something from scratch, you can, generally speaking, get it right. What are you passionate about outside of the business and family? I'm passionate about creating things that will make a difference in the world because I think I've learned the skills of creating businesses, but now I create organizations to tackle different issues in this world, so whether it's climate change, whether it's conflict resolution issues, whether it's drug reform, whether it's trying to abolish the death penalty, you know, whether it's sort of monitoring the planetary boundaries of the Earth. What are you passionate about outside of the business? I think I've learned the skills of creating businesses, but now I create organizations"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "3, 2, 1."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Fire, fire"
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "So you must have a really strong value set."
+      }
+    ],
+    "speakername": "Richard Branson",
+    "ground_truth": "that you guide your life by? I hope so. I mean, I think one's reputation in life is all we have. And that's it, really.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This is a brand new ship, is it?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it'll knock [region] right between the eyes."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "This is the [ship name], the ship that will be based in [region]. 60,000 tonnes, 17 storeys and no kids or grandkids. You're beautiful."
+      }
+    ],
+    "speakername": "Richard Branson",
+    "ground_truth": "But what I wanted to do was create a cruise company that was like a luxury yacht, you know, for people to be able to go and use with the absolute best restaurants in the world on it, the best entertainment, the best crew, the best fun, fun crew. You know, just a cruise company with lots of magic on it.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_08",
+        "text": "This is his new luxury resort on a Mediterranean island in southern Europe."
+      },
+      {
+        "speaker": "[target]",
+        "text": "25 years ago, I was standing just up there looking down at an old ruin, which was here, and looking at three miles of this beautiful, pristine coastline with 15,000 olive groves and a vineyard and just something which was breathtakingly beautiful. And I decided that it would be incredible to try to rescue the ruin and turn it into a small boutique hotel. And the whole team are really proud of what they've created. It's really lovely. Hello, Holly. Can you hear me?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, it's good, isn't it?"
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "On the outside, you're this flamboyant, almost playboy-type image. But you've been with the same woman for 48 years."
+      }
+    ],
+    "speakername": "Richard Branson",
+    "ground_truth": "I mean, it's it's a relationship based on trust, you know, she'll have her way of expressing it as she'll let the lead out of it And then she knows exactly when to hook it back again And so, you know, we can we can we can have fun we can dance with other people But but but we've got you you've got that basic trust and and you know I just wouldn't want to cause any hurt and she wouldn't want to cause any hurt and and so it's worked. So we've been lucky This is specific fire. I think we're in serious trouble",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Facing death in a crisis situation, you just feel enormous, enormous loneliness, and you're scared. Not scared per se, I was determined to, as I always am in crisis like that, to do everything I could to get out of the situation. You know, I scribbled a note that I love them, love them very much, and then put my mind to the parachute jump into the cold sea. And I remember standing on top of the balloon, looking down at the swirling clouds below, realizing it was the last few seconds of my life, most likely, because, you know, parachuting into a freezing sea, the chance of survival was almost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "N-"
+      },
+      {
+        "speaker": "[target]",
+        "text": "video."
+      },
+      {
+        "speaker": "SPEAKER_10",
+        "text": "I'm four years older than my brother so I remember always sort of being the stronger one my brother would be in pieces crying all the time and I remember trying to be like like trying to be the strong one even though inside I was in turmoil about him about to do these big trips the life"
+      }
+    ],
+    "speakername": "Richard Branson",
+    "ground_truth": "The fifth boat has picked up [target] and the helicopter has taken him off and he's receiving medical attention.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "video."
+      },
+      {
+        "speaker": "SPEAKER_10",
+        "text": "I'm four years older than my brother so I remember always sort of being the stronger one my brother would be in pieces crying all the time and I remember trying to be like like trying to be the strong one even though inside I was in turmoil about him about to do these big trips the life"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The fifth boat has picked up [target] and the helicopter has taken him off and he's receiving medical attention."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We've all been lost in"
+      }
+    ],
+    "speakername": "Richard Branson",
+    "ground_truth": "Being affected to that extent by my ballooning and boating, I hadn't realized until you mentioned it. And anyway, hopefully he's over it now.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

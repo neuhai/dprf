@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I've never seen a person in any of my jobs who looked like me. But now I have received hundreds of cards from young trans and non-binary kids who say they can't wait to grow up to be a nuclear engineer. If that's the new stereotype, trans people are nuclear engineers, I'm okay with it. If we're gonna solve the climate crisis, we need to bring all of the tools to the table."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm Brittany Jones-Cooper, and this is Unmuted. Joining me today is [target], an openly gender-fluid person who's managing nuclear waste while making the world a safer place for LGBTQ youth. I know some reports are calling you the first openly gender-fluid person to work in federal government leadership, but what does that mean to you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "For me, it's the first openly gender fluid person is the most important word there being openly. A lot of people ask what in the world does your gender fluid identity have to do with nuclear waste? And I will respond with, I am given the opportunity to serve my country as I am. And that's a really important aspect of my work because I work on nuclear waste management where transparency and honesty and trust building are so critical. I get to be the person who changes the world and solves this really big grand environmental challenge because of my lived experiences."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That is such a powerful perspective that you showing up authentically empowers your work. So just tell me a little bit about young [target] growing up and your identity journey."
+      }
+    ],
+    "speakername": "Sam Brinton",
+    "ground_truth": "I am the child of missionaries, so when I came out I was placed in what's called conversion therapy, this idea that you can change a person's sexual orientation or gender identity to straight or cisgender. It didn't work. It never works. It never works, correct. Every major medical organization has called it out as just actively harmful. It caused a lot of suicidal ideation in my life, and I'm really proud to say that I spent time leading work and ending LGBT youth suicide. We passed more than 20 laws ending conversion therapy, protecting future generations from ever having to go through what I went through. It is still legal in more than half the country, and although I don't spend every day now working to end conversion therapy, it's still very near and dear to my heart, and I'm still really proud of the work. Removing this dangerous and discredited idea that we can ever change something we never chose.",
+    "bio": "The subject (born 1986/1987) is an American nuclear engineer and LGBTQ activist. They served as the deputy assistant secretary of Spent Fuel and Waste Disposition in the Office of Nuclear Energy from June to December 2022. The subject is no longer employed by the Office of Nuclear Energy after being charged with luggage theft twice. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "For me, it's the first openly gender fluid person is the most important word there being openly. A lot of people ask what in the world does your gender fluid identity have to do with nuclear waste? And I will respond with, I am given the opportunity to serve my country as I am. And that's a really important aspect of my work because I work on nuclear waste management where transparency and honesty and trust building are so critical. I get to be the person who changes the world and solves this really big grand environmental challenge because of my lived experiences."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That is such a powerful perspective that you showing up authentically empowers your work. So just tell me a little bit about young [target] growing up and your identity journey."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I am the child of missionaries, so when I came out I was placed in what's called conversion therapy, this idea that you can change a person's sexual orientation or gender identity to straight or cisgender. It didn't work. It never works. It never works, correct. Every major medical organization has called it out as just actively harmful. It caused a lot of suicidal ideation in my life, and I'm really proud to say that I spent time leading work and ending LGBT youth suicide. We passed more than 20 laws ending conversion therapy, protecting future generations from ever having to go through what I went through. It is still legal in more than half the country, and although I don't spend every day now working to end conversion therapy, it's still very near and dear to my heart, and I'm still really proud of the work. Removing this dangerous and discredited idea that we can ever change something we never chose."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Earlier this year, you were named the Deputy Assistant Secretary of Spent Fuel and Waste Disposition in the Office of Nuclear Energy for the [federal agency]. That is a big title."
+      }
+    ],
+    "speakername": "Sam Brinton",
+    "ground_truth": "The short version is, it's my job to manage the nation's nuclear waste. The climate is getting worse. We as a country and as a globe have to figure out ways to create clean electricity fast. One of the ways that we're doing that is with nuclear energy. Nuclear energy currently produces 20% of our electricity and half of our clean energy. Every energy source has waste. Even renewable energies have waste. And we need to be thinking about how we are going to be managing them. And all I ever do is talk about how amazing nuclear energy is at solving so many of our climate problems. We'll be able to make sure that the nuclear waste that we have around the country is adequately stored, adequately transported, and adequately disposed of by centering the needs of the communities themselves. The [federal agency] has failed in the past to adequately protect individuals. I need to recognize that history while I try to change the future. My country has... A long history of not providing individuals who look like me, who love like me, the adequate protections that we deserved. I am ready to sit in a conversation with someone who is wary of the past and wants a future where we can all be respected.",
+    "bio": "The subject (born 1986/1987) is an American nuclear engineer and LGBTQ activist. They served as the deputy assistant secretary of Spent Fuel and Waste Disposition in the Office of Nuclear Energy from June to December 2022. The subject is no longer employed by the Office of Nuclear Energy after being charged with luggage theft twice. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am the child of missionaries, so when I came out I was placed in what's called conversion therapy, this idea that you can change a person's sexual orientation or gender identity to straight or cisgender. It didn't work. It never works. It never works, correct. Every major medical organization has called it out as just actively harmful. It caused a lot of suicidal ideation in my life, and I'm really proud to say that I spent time leading work and ending LGBT youth suicide. We passed more than 20 laws ending conversion therapy, protecting future generations from ever having to go through what I went through. It is still legal in more than half the country, and although I don't spend every day now working to end conversion therapy, it's still very near and dear to my heart, and I'm still really proud of the work. Removing this dangerous and discredited idea that we can ever change something we never chose."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Earlier this year, you were named the Deputy Assistant Secretary of Spent Fuel and Waste Disposition in the Office of Nuclear Energy for the [government agency]. That is a big title."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The short version is, it's my job to manage the nation's nuclear waste. The climate is getting worse. We as a country and as a globe have to figure out ways to create clean electricity fast. One of the ways that we're doing that is with nuclear energy. Nuclear energy currently produces 20% of our electricity and half of our clean energy. Every energy source has waste. Even renewable energies have waste. And we need to be thinking about how we are going to be managing them. And all I ever do is talk about how amazing nuclear energy is at solving so many of our climate problems. We'll be able to make sure that the nuclear waste that we have around the country is adequately stored, adequately transported, and adequately disposed of by centering the needs of the communities themselves. The [government agency] has failed in the past to adequately protect individuals. I need to recognize that history while I try to change the future. My country has... A long history of not providing individuals who look like me, who love like me, the adequate protections that we deserved. I am ready to sit in a conversation with someone who is wary of the past and wants a future where we can all be respected."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Hot."
+      }
+    ],
+    "speakername": "Sam Brinton",
+    "ground_truth": "I want people to recognize that it is difficult to be one of these firsts, but I am so excited to say that there are going to be so many who will be solving these problems just by being themselves. A lot of folks, as they've been meeting me, have been saying, goodness, you sure have a lot of enthusiasm. And I was like, yeah, because I'm solving a problem I've wanted to solve for a really long time, and now I have the power and privilege to make a difference. I've gotten to end conversion therapy in parts around the country, and I've also gotten to now solve the nuclear waste challenges of the world, and those are both parts of my life. We can grow up to change as many parts of the world as possible with the gifts that we've been given.",
+    "bio": "The individual (born 1986/1987) is an American nuclear engineer and LGBTQ activist. They served as the deputy assistant secretary of Spent Fuel and Waste Disposition in the Office of Nuclear Energy from June to December 2022. The individual is no longer employed by the Office of Nuclear Energy after being charged with luggage theft twice. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am the child of missionaries, so when I came out I was placed in what's called conversion therapy, this idea that you can change a person's sexual orientation or gender identity to straight or cisgender. It didn't work. It never works. It never works, correct. Every major medical organization has called it out as just actively harmful. It caused a lot of suicidal ideation in my life, and I'm really proud to say that I spent time leading work and ending LGBT youth suicide. We passed more than 20 laws ending conversion therapy, protecting future generations from ever having to go through what I went through. It is still legal in more than half the country, and although I don't spend every day now working to end conversion therapy, it's still very near and dear to my heart, and I'm still really proud of the work. Removing this dangerous and discredited idea that we can ever change something we never chose."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Asha filed a lost luggage complaint with an airline company five years ago and hadn't received any new information until December while watching news media."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Former government department official [target]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The then-famous non-binary nuclear waste expert [target] arrested accused of stealing suitcases from baggage carousels in two major cities."
+      }
+    ],
+    "speakername": "Sam Brinton",
+    "ground_truth": "I googled everything and I saw my clothes, my jewellery, some of my jewellery, my blouses and the collection with the same prints.",
+    "bio": "The subject (born 1986/1987) is an American nuclear engineer and LGBTQ activist. They served as the deputy assistant secretary of Spent Fuel and Waste Disposition in a federal energy office from June to December 2022. The subject is no longer employed by the office after being charged with luggage theft twice. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Former government department official [target]."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The then-famous non-binary nuclear waste expert [target] arrested accused of stealing suitcases from baggage carousels in two major cities."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I googled everything and I saw my clothes, my jewellery, some of my jewellery, my blouses and the collection with the same prints."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Shocking side-by-side images show what Asha thinks are her missing clothes and jewelry on [target]. A missing bag of items she estimates cost $11,000 and a priceless piece of her work."
+      }
+    ],
+    "speakername": "Sam Brinton",
+    "ground_truth": "Maybe they like the designs and this and that, but why? Why somebody's clothes? And I don't know how they got those clothes.",
+    "bio": "The subject (born 1986/1987) is an American nuclear engineer and LGBTQ activist. They served as the deputy assistant secretary of Spent Fuel and Waste Disposition in a federal energy office from June to December 2022. The subject is no longer employed by the office after being charged with luggage theft twice. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

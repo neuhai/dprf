@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "There he is, the iconic, the legendary [target], founder of the community safety group. You can check him out every day on the local radio station. [target] and Juliet, 12 to 3 p.m. How you doing, my friend?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "good what uh gucci has culturally appropriated my red beret what are you talking about oh yeah all the fashionistas right in major fashion cities they all had styling and profiling the red break they're selling them for 350 bucks and they're not throwing no coin to the community group nobody's throwing off not even the hands of my chin chin chin okay by the way"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Was it 1979? 1979, 40 years ago. Excellent. And by the way, we're going into 2000 with this show as well. You had the..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "idea because..."
+      }
+    ],
+    "speakername": "Curtis Sliwa",
+    "ground_truth": "all the crime i mean the city had fallen into the abyss remember massive cutbacks we were on the brink of fiscal collapse that was when the administration said drop dead to the city right we're not bailing you out the mayor came in and he couldn't hire anyone in fact he had a layoff cops firefighters teachers social workers and there were no cops in the transit system and i was running a fast food restaurant up in the northern district that's right is when hip-hop came about and i decided you know what i'm single i'm able-bodied i'm just going to basically brainwash my closing crew and have the restaurant owner pay extra overtime to them so they could come patrol with me the transit line the muggers express that's how it happened yeah the owner never knew that he paid for that startup",
+    "bio": "[target] (born March 26, 1954) is an American activist, radio talk show host and founder and chief executive officer of a community safety organization, a nonprofit organization for unarmed crime prevention. [target] was the political nominee for the 2021 local mayoral election, which he lost to the Borough President. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Was it 1979? 1979, 40 years ago. Excellent. And by the way, we're going into 2000 with this show as well. You had the..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "idea because..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "all the crime i mean the city had fallen into the abyss remember massive cutbacks we were on the brink of fiscal collapse that was when the mayor said drop dead to our city right we're not bailing you out the new mayor came in and he couldn't hire anyone in fact he had a layoff cops firefighters teachers social workers and there were no cops in the subways and i was running a fast food restaurant up in the northern part of the city that's right is when hip-hop came about and i decided you know what i'm single i'm able-bodied i'm just going to basically brainwash my closing crew and have the restaurant owner pay extra overtime to them so they could come patrol with me the local train line the muggers express that's how it happened yeah he never knew that he paid for that startup"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Look up the restaurant owner online. You'll get it. Can we do some politics? Sure. By the way, set up the show. Describe the show every day so people can know what they're listening to on your show."
+      }
+    ],
+    "speakername": "Curtis Sliwa",
+    "ground_truth": "Well, unlike most talk radio, right, which is bombastic towards the former president, there's idolatry, you know, oh, it's the mashiach. I hate him, and my partner, Juliette, hates him. Juliette Huddy. But? There's no buts there. Yeah, we don't trash the guy every day. Not every day, but we take a beating. Because remember, I started out early on when he was the candidate, because I've known him. Yeah, I've had the love-hate relationship with him over the years. And I said, this is going to be like a controversial sports team owner of American politics. He's a manic, he's a depressive, he's a schoolboy and a crackpot, but he's not intellectually stupid, like a lot of the people who are running against him. He talks the language that makes love to a lot of Americans' ears. They like that language. And that's how he got into the executive office. It wasn't necessarily his opponent's failings. He took a little bit of that professional wrestling approach. He had the schmaltz. You know, he was... He was an entertainer. He did the stand-up. And he said things that people wanted to hear, unlike all the other politicians who would give you the mumbo-jumbo, you know, who were truly intellectually stupid.",
+    "bio": "[target] is an American activist, radio talk show host and founder and chief executive officer of a nonprofit organization for unarmed crime prevention. [target] was the Republican nominee for the 2021 major city mayoral election, which he lost to the borough president. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "all the crime i mean new york city had fallen into the abyss remember massive cutbacks we were on the brink of fiscal collapse that was when gerald ford said drop dead new york city right we're not bailing you out ed koch came in and he couldn't hire anyone in fact he had a layoff cops firefighters teachers social workers and there were no cops in the subways and i was running a mickey d's up in the boogie down bronx that's right is when hip-hop came about and i decided you know what i'm single i'm able-bodied i'm just going to basically brainwash my closing crew and have red ray kroc pay extra overtime to them so they could come patrol with me the number four train the muggers express that's how it happened yeah ray never knew that he paid for that startup"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Google Ray Kroc. You'll get it. Can we do some politics? Sure. By the way, set up the show. Describe the show every day so people can know what they're listening to on your show."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, unlike most talk radio, right, which is bombastic towards Trump, there's idolatry, you know, Trump, oh, it's the mashiach. I hate Trump, and my partner, Juliette, hates Trump. Juliette Huddy. But? There's no buts there. Yeah, we don't trash the guy every day. Not every day, but we take a beating. Because remember, I started out early on when he was the candidate, because I've known Trump. Yeah, I've had the love-hate relationship with him over the years. And I said, this is going to be the George Steinbrenner of American politics. He's a manic, he's a depressive, he's a schoolboy and a crackpot, but he's not intellectually stupid, like a lot of the people who are running against him. He talks the language that makes love to a lot of Americans' ears. They like that language. And that's how he got into the Oval Office. It wasn't necessarily Hillary's failings. He took a little bit of that WWE approach. He had the schmaltz. You know, he was... He was an entertainer. He did the stand-up. And he said things that people wanted to hear, unlike all the other politicians who would give you the mumbo-jumbo, you know, who were truly intellectually stupid."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So as we go into 2020, let the impeachment process play out. Sure. Let's make this more evergreen, if you will. Sure. Impressed by the field of Democratic candidates. We don't know what it's going to look like as we move forward. The caucuses will take place. There'll be the other primaries. Impressed by the field?"
+      }
+    ],
+    "speakername": "Curtis Sliwa",
+    "ground_truth": "I have no problem with the field. Bernie, the Alta Kaka Sanders, right? He's the ultimate warrior. How he got into the Democratic Party when he's never been a Democrat is the miracle of all miracles. But he is consistent. Elizabeth Warren is sort of like his new Jack student. So you get a variety amongst the Democrats. You get the moderates. You get the extremists. And now you get the billionaires. You know, Bloomberg with his bloomy dollars. What do you think about Bloomberg? Bloomberg, and I've known him well. I supported him for mayor. But there's a man who believes that every American has a price. And he can buy anybody or anything in America. And he's going to try to buy the presidency. Whoa. Oh, yeah. This is not a man with a great ideology. Remember, he's vacillated from one side to the next. Oh, I need the Democratic line. I'll buy it. I need the Republican line. I'll buy it. I'm an independent. I'm for term limits, but not for me. I'll take an extra four years. What about stop and frisk?",
+    "bio": "[target] (/ËsliwÉ/; born March 26, 1954) is an American activist, radio talk show host and founder and chief executive officer of the Guardian Angels, a nonprofit organization for unarmed crime prevention. Sliwa was the Republican nominee for the 2021 New York City mayoral election, which he lost to Brooklyn Borough President Eric Adams. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Google Ray Kroc. You'll get it. Can we do some politics? Sure. By the way, set up the show. Describe the show every day so people can know what they're listening to on your show."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, unlike most talk radio, right, which is bombastic towards Trump, there's idolatry, you know, Trump, oh, it's the mashiach. I hate Trump, and my partner, Juliette, hates Trump. Juliette Huddy. But? There's no buts there. Yeah, we don't trash the guy every day. Not every day, but we take a beating. Because remember, I started out early on when he was the candidate, because I've known Trump. Yeah, I've had the love-hate relationship with him over the years. And I said, this is going to be the George Steinbrenner of American politics. He's a manic, he's a depressive, he's a schoolboy and a crackpot, but he's not intellectually stupid, like a lot of the people who are running against him. He talks the language that makes love to a lot of Americans' ears. They like that language. And that's how he got into the Oval Office. It wasn't necessarily Hillary's failings. He took a little bit of that WWE approach. He had the schmaltz. You know, he was... He was an entertainer. He did the stand-up. And he said things that people wanted to hear, unlike all the other politicians who would give you the mumbo-jumbo, you know, who were truly intellectually stupid."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So as we go into 2020, let the impeachment process play out. Sure. Let's make this more evergreen, if you will. Sure. Impressed by the field of Democratic candidates. We don't know what it's going to look like as we move forward. The caucuses will take place. There'll be the other primaries. Impressed by the field?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have no problem with the field. Bernie, the Alta Kaka Sanders, right? He's the ultimate warrior. How he got into the Democratic Party when he's never been a Democrat is the miracle of all miracles. But he is consistent. Elizabeth Warren is sort of like his new Jack student. So you get a variety amongst the Democrats. You get the moderates. You get the extremists. And now you get the billionaires. You know, Bloomberg with his bloomy dollars. What do you think about Bloomberg? Bloomberg, and I've known him well. I supported him for mayor. But there's a man who believes that every American has a price. And he can buy anybody or anything in America. And he's going to try to buy the presidency. Whoa. Oh, yeah. This is not a man with a great ideology. Remember, he's vacillated from one side to the next. Oh, I need the Democratic line. I'll buy it. I need the Republican line. I'll buy it. I'm an independent. I'm for term limits, but not for me. I'll take an extra four years. What about stop and frisk?"
+      }
+    ],
+    "speakername": "Curtis Sliwa",
+    "ground_truth": "Stop and frisk. Oh, did he flip the script on that? Although... Give people some history on that. Where was he? Well, first off, stop and frisk was started when Rudy Giuliani first was elected. But it was used as a tool because he had guns running amok and homicides that were off the hook. By the time Bloomberg took over with his preferred police commissioner, Kelly, towards the end, it became a quota game. Imagine one out of every eight New Yorkers in the final years of Bloomberg's administration was getting stopped and frisked. They weren't your color. They weren't my color. They were blacks and Hispanics. That was totally unnecessary. And then all of a sudden, he does the mea culpa, the mea maxima culpa. I was wrong. Just before he announces... What's wrong with that, Curtis? Oh, come on.",
+    "bio": "[target] (/ËsliwÉ/; born March 26, 1954) is an American activist, radio talk show host and founder and chief executive officer of the Guardian Angels, a nonprofit organization for unarmed crime prevention. Sliwa was the Republican nominee for the 2021 New York City mayoral election, which he lost to Brooklyn Borough President Eric Adams. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So as we go into 2020, let the impeachment process play out. Sure. Let's make this more evergreen, if you will. Sure. Impressed by the field of Democratic candidates. We don't know what it's going to look like as we move forward. The caucuses will take place. There'll be the other primaries. Impressed by the field?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have no problem with the field. Bernie, the senior citizen Sanders, right? He's the ultimate warrior. How he got into the Democratic Party when he's never been a Democrat is the miracle of all miracles. But he is consistent. Elizabeth Warren is sort of like his new student. So you get a variety amongst the Democrats. You get the moderates. You get the extremists. And now you get the billionaires. You know, [person] with his dollars. What do you think about [person]? [person], and I've known him well. I supported him for mayor. But there's a man who believes that every American has a price. And he can buy anybody or anything in America. And he's going to try to buy the presidency. Whoa. Oh, yeah. This is not a man with a great ideology. Remember, he's vacillated from one side to the next. Oh, I need the Democratic line. I'll buy it. I need the Republican line. I'll buy it. I'm an independent. I'm for term limits, but not for me. I'll take an extra four years. What about stop and frisk?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Stop and frisk. Oh, did he flip the script on that? Although... Give people some history on that. Where was he? Well, first off, stop and frisk was started when [person] first was elected. But it was used as a tool because he had guns running amok and homicides that were off the hook. By the time [person] took over with his preferred police commissioner, [person], towards the end, it became a quota game. Imagine one out of every eight residents in the final years of [person]'s administration was getting stopped and frisked. They weren't your color. They weren't my color. They were blacks and Hispanics. That was totally unnecessary. And then all of a sudden, he does the mea culpa, the mea maxima culpa. I was wrong. Just before he announces... What's wrong with that, [target]? Oh, come on."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "he evolved he had new information he saw the light well yeah no you don't buy it"
+      }
+    ],
+    "speakername": "Curtis Sliwa",
+    "ground_truth": "all my pollsters told me I better do this if I'm going to win in the southern region where there are predominantly black Democratic voters. And remember, you're going to have people like [person], who are like vultures and buzzards, ready to go out there throughout America and warn everyone, this is the guy who implemented stop and frisk.",
+    "bio": "The speaker (born March 26, 1954) is an American activist, radio talk show host and founder and chief executive officer of a nonprofit organization for unarmed crime prevention. The speaker was the Republican nominee for the 2021 local mayoral election, which they lost to the Borough President. The speaker's MBTI type is ESTP",
+    "can_we_edit_these_transcripts": "yes",
+    "split": "val"
+  }
+]

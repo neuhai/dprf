@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "In the building, we got Yannis letting himself go. So we know who you are, brother, but please tell them who you are."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I'm just a normal guy, you know, like I went to university. I come from a family. It's not poor, not rich. You know, my dad worked very hard to give me a good education. Oh, yeah. So basically, I did the normal thing, you know, whatever the system tells you, you know, at the school, university. I was racing motorcycles on the side. This is in [country], right? You're from [country]. I'm from [country]. What part of [country] are you from? [city]. [city]. Okay. So I basically had this vision, this dream of being a motorcycle, you know, racer. We went all the way to world championship. We did a race with my dad, you know. We went far, but, you know, money ran out. My dad had a lot of loans, and we just literally, my dad went broke."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Was it to do model?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "G."
+      }
+    ],
+    "speakername": "Amadeo Llados",
+    "ground_truth": "or no yeah yeah to do that i did moto too who's your favorite uh racer uh [person] has to be but you know let me tell you why it's not because uh it's because the guy the person he is when he lost he was always smiling humble that's the thing you know i i see that in people like who he is you know he was a champion champion knows how to lose like winning is easy you know a real champion a real leader knows how to lose you know that bad day what's his face you know so that's why i like [person] you know",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Was it to do model?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "G."
+      },
+      {
+        "speaker": "[target]",
+        "text": "or no yeah yeah to do that i did moto too who's your favorite uh racer uh [generic name] has to be but you know let me tell you why it's not because uh it's because the guy the person he is when he lost he was always smiling humble that's the thing you know i i see that in people like who he is you know he was a champion champion knows how to lose like winning is easy you know a real champion a real leader knows how to lose you know that bad day what's his face you know so that's why i like [generic name] you know"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "person."
+      }
+    ],
+    "speakername": "Amadeo Llados",
+    "ground_truth": "yeah so yeah man you know uh i went to university i studied journalism and last year uh i dropped out just because uh i started really realizing like my teachers where they are you know wanting to buy a luxury car you know i just wanted a luxury car i didn't know how i didn't see luxury cars in [country] uh so i was about 20 years old and i had like a you know existential crisis uh how how um how old you know like how many years ago is this i'm 32 right okay so this is like 12 years ago okay so uh the thing is like life didn't make any sense for me you know that's why i really connect with people that don't have a vision a purpose and i really want to give them a purpose you know because at that time i didn't have so i was partying i was doing drugs you know the typical thing you know uh living for the weekend you know like that that's normal guy you know so i said how the hell i'm gonna buy a luxury car you know so i hit the gym i just touched the gym and just i just find a purpose you know this this was giving me flow state you know everything time i hit the gym i forgot about everything you know so i was like i have to do something about the gym so i quit university i i sold my car it was like around seven thousand dollars at that time i used all my savings i got a ticket away one way to [country] oh like that without telling my parents or anything like literally i did everything without asking anyone so why [country] because i [country] i was in a treadmill in the gym and this guy told me about his friend he was living in [country] it looked like a dream beachy's fitness finn is very big out there yeah so that's why was this during the z's era",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "okay so basically I went out there and I built up in as a visa student visa working construction working washing dishes I had two three jobs at that time"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know what's up?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "A major coastal city? I was in that city. You were in that city."
+      }
+    ],
+    "speakername": "Amadeo Llados",
+    "ground_truth": "a suburban area you know so i had two three jobs i went to school i started three four personal trainer my certification i started working as a pt before i finished my my you know my certification like in a in a very small uh gym i substituted a trainer that were left for holidays so after two months the trainer came back and everyone wanted to stay with me so i literally got like a full stack of clients from like one month to another one yeah so i built up i just don't want to go very extensive in my story you know but like in two years i went from like having no money you know i was making like a thousand bucks a month in spain you know like minimum minimum salary you know i could i was living with my parents i could not afford to live like in a house by myself yeah it's like here in a coastal city imagine you make 2k a month yeah how the fuck yeah but you're gonna pay rent you gotta be in the hood and then you just can't live you know so that was me in spain so i went from that in two years i built up to like maybe doing 15 grand a month okay in a foreign country it was crazy you know i was backed up eight sessions a day 100 bucks 150 bucks a session personal training you know they pay good there yeah but uh again i was like i i thought that was a dream right but i was again like i was unsatisfied i was unhappy you know i felt like lonely i didn't feel like i started feeling i didn't like the gym because i was counting reps it was repetitive i was not you know i was trapped so i left that city i went back",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "so it's funny like so 20 years old you you take the risk you go out to australia you grind you're 22 now yeah you're making 15k a month which is a lot yeah you're you're still going to school right"
+      },
+      {
+        "speaker": "[target]",
+        "text": "for people that are listening right now i know you guys you know want to help people with the business stuff"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just see how I escape the matrix."
+      }
+    ],
+    "speakername": "Amadeo Llados",
+    "ground_truth": "I drop alcohol, I drop party, I drop drugs, I stop seeing chicks, and I was waking up 4, 3 a.m., work, work, work, gym, gym, you know, do my meal prep, and that's how I did it. Yeah, for two years. For two years. And you made $15,000 a month doing that. Yeah, exactly. Grinding.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just see how I escape the matrix."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I drop alcohol, I drop party, I drop drugs, I stop seeing chicks, and I was waking up 4, 3 a.m., work, work, work, gym, gym, you know, do my meal prep, and that's how I did it. Yeah, for two years. For two years. And you made $15,000 a month doing that. Yeah, exactly. Grinding."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "doing that yeah exactly okay see the pattern monk mode yeah he took away all the vices"
+      }
+    ],
+    "speakername": "Amadeo Llados",
+    "ground_truth": "thing is that I'm student visa so this company takes like hundreds of people every year and the guy the guy that takes people he comes to say bro like how do you do it I'm like what it's like you still here after two years",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

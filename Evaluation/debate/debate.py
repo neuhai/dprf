@@ -32,6 +32,7 @@ class DebateEvaluator(BaseEvaluator):
                  data_dir="Evaluation/debate/data/processed", # Default relative to project root
                  num_examples_to_process=None, # Process all by default
                  custom_initial_persona_file=None,
+                 debate_data_file=None,
                  **kwargs): # Catches all generic args for BaseEvaluator
         
         if not os.path.isabs(data_dir):
@@ -40,6 +41,7 @@ class DebateEvaluator(BaseEvaluator):
             self.data_dir = data_dir
 
         self.num_examples_to_process = num_examples_to_process
+        self.debate_data_file = debate_data_file
 
         self.custom_initial_persona_content = None
         if custom_initial_persona_file:
@@ -69,7 +71,16 @@ class DebateEvaluator(BaseEvaluator):
         import random
         import wandb
         
-        examples_path = os.path.join(self.data_dir, "debate_examples.json")
+        if self.debate_data_file:
+            if os.path.isabs(self.debate_data_file):
+                examples_path = self.debate_data_file
+            else:
+                examples_path = os.path.join(project_root, self.debate_data_file)
+        elif os.path.isfile(self.data_dir):
+            examples_path = self.data_dir
+        else:
+            examples_path = os.path.join(self.data_dir, "debate_examples.json")
+
         if not os.path.exists(examples_path):
             raise FileNotFoundError(f"Debate examples file not found: {examples_path}")
 
@@ -125,7 +136,26 @@ class DebateEvaluator(BaseEvaluator):
             initial_persona = "You are a speaker in a formal debate setting." # Default for debate
             print(f"Using default initial persona!")
         
-        ground_truth = example_data["consolidated_statements"]
+        has_split_refs = (
+            isinstance(example_data.get("individual_utterances_train"), list)
+            and isinstance(example_data.get("individual_utterances_val"), list)
+        )
+
+        if has_split_refs:
+            train_refs = example_data["individual_utterances_train"]
+            val_refs = example_data["individual_utterances_val"]
+            if len(train_refs) == 0 or len(val_refs) == 0:
+                raise ValueError(
+                    "Variation debate sample must include non-empty individual_utterances_train and individual_utterances_val."
+                )
+            optimization_ground_truth = "\n\n".join(train_refs)
+            evaluation_ground_truth = "\n\n".join(val_refs)
+            ground_truth = evaluation_ground_truth
+        else:
+            ground_truth = example_data["consolidated_statements"]
+            optimization_ground_truth = ground_truth
+            evaluation_ground_truth = ground_truth
+
         bio_text = example_data.get("bio") # Will be None if not present
 
         task_specific_info = {
@@ -141,6 +171,8 @@ class DebateEvaluator(BaseEvaluator):
             "content": content,
             "initial_persona": initial_persona,
             "ground_truth": ground_truth,
+            "optimization_ground_truth": optimization_ground_truth,
+            "evaluation_ground_truth": evaluation_ground_truth,
             "bio_text": bio_text,
             "task_specific_info": task_specific_info,
             "example_id_for_filename": str(example_data["speaker_id"]) # Must be a string
@@ -151,6 +183,11 @@ def main():
     
     # Add generic arguments from BaseEvaluator
     BaseEvaluator.add_generic_args(parser)
+    parser.add_argument(
+        "--debate_data_file",
+        default=None,
+        help="Optional path to debate data JSON file (e.g., Evaluation/debate/data/processed/debate_variation.json)",
+    )
     
     args = parser.parse_args()
     start_time = datetime.now()
@@ -192,6 +229,7 @@ def main():
 
     evaluator = DebateEvaluator(
         data_dir=args.data_dir,
+        debate_data_file=args.debate_data_file,
         num_examples_to_process=args.length,
         custom_initial_persona_file=args.initial_persona_file,
         output_dir=args.output_dir,

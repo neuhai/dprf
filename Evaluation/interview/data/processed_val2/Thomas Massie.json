@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "In 2013, there was a coup underway, like there was a military overthrow of the Egyptian government. And we've been sending them $1.3 billion a year for as long as I can remember, and ever since I've been in Congress. Back in 2013, I thought, if we're not sure who's in charge of the Egyptian government, maybe we could hold off a year on that $1.3 billion until things sort themselves out, and we see who's got the name on the checks when it goes into their checking account over there in Egypt. So I offered an amendment, and I had a floor staffer come to me who was in charge of the Foreign Affairs Committee. And he said, we're under a lot of pressure not to let your amendment get a vote. And I said, well, who's pressuring you? And he said, the State Department and AIPAC. And I said, well, why don't they want to vote? And he said, well, they don't want it to look like there's any lack of support for this money going to Egypt. Like, they don't want members of Congress on record. That's what they told me. And I said, well, what's the deal here? And he said, well, if you'll just allow it to pass on a voice vote, then we will let it pass. And I'm like, but there's the Democrats over there. How do you know what they're going to do if I don't demand a recorded vote? And he said, oh, well, we've already worked out a deal with the Democrats. They'll let it go by voice vote, too. Well, I was green. I had not even been here a full year. It sounded like a pretty good deal to me. Let it go by voice vote, and it's unanimous. So it passed unanimously in the House. And guess what, though? They stripped it out of the final bill, the actual spending bill. It got taken out. And that's when I realized I had been played that if I had demanded a recorded vote, I would have some residue of something. But instead, I let it go by a voice vote, nobody's on record, and the spending still went to Egypt that year. And it was because AIPAC and the State Department, this is back when our GOP leadership would tell me what was actually going on. Since then, I've figured it out. But they said it was AIPAC, and they have so much influence up here on foreign aid, and they even you wouldn't think that AIPAC, the American-Israel Public Affairs Committee, you wouldn't think they would want $1.3 billion going to somebody who's ostensibly not their friend in the Middle East, what they do because they're trying to bribe them into a friendship, but they're using our money for it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is it true that AIPAC has a minder, a representative, a contact, whoever you want to describe this person, with nearly every member of the House of Representatives?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, that is my opinion. They've tried to establish some with me. Now, these aren't professional lobbyists. I don't even know that any of them are paid in any other way other than getting free trips, let's say, maybe to Israel or to Washington, D.C., but they're not paid. They're constituents, and most people think it's pretty reasonable to meet with the constituent. I do. In fact, I'll meet with people from my district who might be in AIPAC. I just tell them, you've got to take your badge off before you come into my office. I'll meet with you as a constituent, but I'm not going to meet with you as a representative of a lobby for a foreign country. Most of them don't want to take me up on that deal when I say I'm not going to accept foreign lobbying in this office."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Why is the Foreign Activities Registration Act not enforced against AIPAC? It's the biggest representative of foreign government in Washington, D.C."
+      }
+    ],
+    "speakername": "Thomas Massie",
+    "ground_truth": "Well, it absolutely should be. I mean, and recently, I think they've tried to convict people for not being registered lobbyists of foreign countries. Now, the first explanation you will hear somebody say is, well, everybody in AIPAC is an American citizen, but that doesn't exempt you from the Foreign Agent Registration Act. Like, if you're representing a foreign country, then, you know, there you go. It doesn't matter what country you're a citizen of. So I think people misunderstand the act, and I think they should absolutely be subjected to that. It's registration, it's transparency, and then you could know who's the person who is on the buddy system with each member of Congress.",
+    "bio": "Thomas Harold Massie (born January 13, 1971) is an American Republican politician who has been the United States Representative for Kentucky's 4th congressional district since 2012. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, that is my opinion. They've tried to establish some with me. Now, these aren't professional lobbyists. I don't even know that any of them are paid in any other way other than getting free trips, let's say, to [foreign country] or to [capital city], but they're not paid. They're constituents, and most people think it's pretty reasonable to meet with the constituent. I do. In fact, I'll meet with people from my district who might be in [organization]. I just tell them, you've got to take your badge off before you come into my office. I'll meet with you as a constituent, but I'm not going to meet with you as a representative of a lobby for a foreign country. Most of them don't want to take me up on that deal when I say I'm not going to accept foreign lobbying in this office."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Why is the Foreign Activities Registration Act not enforced against [organization]? It's the biggest representative of foreign government in [capital city]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it absolutely should be. I mean, and recently, I think they've tried to convict people for not being registered lobbyists of foreign countries. Now, the first explanation you will hear somebody say is, well, everybody in [organization] is an American citizen, but that doesn't exempt you from the Foreign Agent Registration Act. Like, if you're representing a foreign country, then, you know, there you go. It doesn't matter what country you're a citizen of. So I think people misunderstand the act, and I think they should absolutely be subjected to that. It's registration, it's transparency, and then you could know who's the person who is on the buddy system with each member of Congress."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can the President of the United States constitutionally undo legislation that Congress has enacted? I am speaking, of course, of some of the executive orders of [former president], the end result of which I think you and I agree with, but the process, in my view, is constitutionally dubious and ultimately dangerous. How do you stand on this?"
+      }
+    ],
+    "speakername": "Thomas Massie",
+    "ground_truth": "Well, for the listeners, parse the judge's words carefully. He said, can they do it constitutionally, not can they do it legally? And they like to throw those different terms around here. The law might allow it, but constitutionally, you really can't. And the courts may disagree with my opinion on that. That's okay. Look, I was elected by people. I was sworn to the Constitution. I read it, and I study it, and I don't have to agree with the court. When I vote on a bill, it's my decision whether it's constitutional or not. And so we had one of these issues come up where I actually agreed with the president's policy. He wanted to build a wall, but after he had signed at least a dozen spending bills that didn't have any money for a wall in it, he decided there was an emergency, the emergency being that he signed spending bills that didn't have a wall in it. He should have vetoed those bills. So he reappropriated money that we were going. He spent on the military and reappropriated that for a wall. I think that's unconstitutional. Some of it, I think, held up in court. Some of it didn't. I don't care if it held up in court. I still think it's unconstitutional. I get to be a judge of that as a member of Congress. When I vote on bills, I wish more of my colleagues would try to judge that. But more importantly, it's an erosion of the balance of power. And if you give up our power of the purse, you've basically given up the lynch. Pin of every right that underlies or supports every power that we have here in Congress, the oversight ability, everything. If you can't cut off their funding, then they'll just thumb their nose at you.",
+    "bio": "The target is an American Republican politician who has been the United States Representative for [state]'s 4th congressional district since 2012. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can the President constitutionally undo legislation that Congress has enacted? I am speaking, of course, of some of the executive orders of the previous administration, the end result of which I think you and I agree with, but the process, in my view, is constitutionally dubious and ultimately dangerous. How do you stand on this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, for the listeners, parse the judge's words carefully. He said, can they do it constitutionally, not can they do it legally? And they like to throw those different terms around here. The law might allow it, but constitutionally, you really can't. And the courts may disagree with my opinion on that. That's okay. Look, I was elected by people. I was sworn to the Constitution. I read it, and I study it, and I don't have to agree with the court. When I vote on a bill, it's my decision whether it's constitutional or not. And so we had one of these issues come up where I actually agreed with the president's policy. He wanted to build a wall, but after he had signed at least a dozen spending bills that didn't have any money for a wall in it, he decided there was an emergency, the emergency being that he signed spending bills that didn't have a wall in it. He should have vetoed those bills. So he reappropriated money that we were going. He spent on the military and reappropriated that for a wall. I think that's unconstitutional. Some of it, I think, held up in court. Some of it didn't. I don't care if it held up in court. I still think it's unconstitutional. I get to be a judge of that as a member of Congress. When I vote on bills, I wish more of my colleagues would try to judge that. But more importantly, it's an erosion of the balance of power. And if you give up our power of the purse, you've basically given up the lynch. Pin of every right that underlies or supports every power that we have here in Congress, the oversight ability, everything. If you can't cut off their funding, then they'll just thumb their nose at you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So Congress, Congress,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Congressman [target], should the Justice Department be scrutinizing the speech of those who support a Palestinian state? Should it be scrutinizing the speech of anybody in America?"
+      }
+    ],
+    "speakername": "Thomas Massie",
+    "ground_truth": "no it should not be uh and again i presume they're trying to use some law hopefully to to apply that scrutiny we've done a fairly poor job of defending the first amendment here in congress there was even a bill last year that uh made passages of the bible of the of the um new testament it would have made it illegal on campuses and the because they said it would be some of the things were anti-semitic and they to define anti-semitism they used the legislation instead of defining it in the bill they pointed to a website in the bill that's not even hosted in this country that gave examples of anti-semitism and i've never seen such a poor piece of legislation come to the floor in that instance even several of my conservative colleagues who are very you know pro-israel said i'm sorry this is too much we can't vote for this we can't make it illegal we can't make it a crime for people to say certain things",
+    "bio": "Born January 13, 1971, the speaker is an American politician who has been a Representative for a congressional district since 2012. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, that is my opinion. They've tried to establish some with me. Now, these aren't professional lobbyists. I don't even know that any of them are paid in any other way other than getting free trips, let's say, to [foreign location] or to [capital city]. But they're not paid. They're constituents. And most people think it's pretty reasonable to meet with the constituent. I do. In fact, I'll meet with people from my district who might be in APAC. I just tell them, you've got to take your badge off before you come into my office. I'll meet with you as a constituent. But I'm not going to meet with you as a representative of a lobby for a foreign country. And most of them don't want to take me up on that deal when I say I'm not going to accept foreign lobbying in this office."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why is the Foreign Activities Registration Act not enforced against AIPAC? It's the biggest representative of foreign government in [capital city]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it absolutely should be. I mean, and recently I think they've tried to convict people for not being registered lobbyists of foreign countries. Now, the first explanation you will hear somebody say is, well, everybody in AIPAC is an American citizen. But that doesn't exempt you from the Foreign Agent Registration Act. Like, if you're representing a foreign country, then, you know, there you go. It doesn't matter what country you're a citizen of. So I think people misunderstand the act, and I think they should absolutely be subjected to that. It's registration, it's transparency, and then you could know who's the person who is on the buddy system with each member of Congress."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Can the President of the United States constitutionally undo legislation that Congress has enacted? I am speaking, of course, of some of the executive orders of President Trump, the end result of which I think you and I agree with, but the process, in my view, is constitutionally dubious and ultimately dangerous. How do you stand on this?"
+      }
+    ],
+    "speakername": "Thomas Massie",
+    "ground_truth": "Well, for the listeners, parse the judge's words carefully. He said, can they do it constitutionally, not can they do it legally? And they like to throw those different terms around here. The law might allow it, but constitutionally, you really can't. And the courts may disagree with my opinion on that. That's okay. Look, I was elected by people. I was sworn to the Constitution. I read it, and I study it, and I don't have to agree with the courts. When I vote on a bill, it's my decision whether it's constitutional or not. And so we had one of these issues come up where I actually agreed with the president's policy. He wanted to build a wall, but after he had signed at least a dozen spending bills that didn't have any money for a wall in it, he decided there was an emergency, the emergency being that he signed spending bills that didn't have a wall in it. He should have vetoed those bills. So he reappropriated money that we were going to spend on the military and reappropriated that for a wall. I think that's unconstitutional. Some of it, I think, held up in court. Some of it didn't. I don't care if it held up in court. I still think it's unconstitutional. I get to be a judge of that as a member of Congress. When I vote on bills, I wish more of my colleagues would try to judge that. But more importantly, it's an erosion of the balance of power. And if you give up. Our power of the purse, you've basically given up the linchpin of every that underlies or supports every power that we have here in Congress, the oversight ability, everything. If you can't cut off their funding, then they'll just thumb their nose at you. It's been.",
+    "bio": "The speaker (born January 13, 1971) is an American Republican politician who has been the United States Representative for [state]'s 4th congressional district since 2012. The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, they're supposed to defend it from enemies, foreign and domestic. That I dislike, that my colleagues routinely disobey is the origination clause. All spending bills are supposed to originate in the House because we are up for election every two years. Right. But they commonly will take a bill. Maybe it's a bill to help homeless veterans that the House has passed. The Senate will pick it up and they'll take out every word and piece of punctuation in that bill and replace it with the spending bill and pass it and call it an amendment to a House spending bill and send it back. And they'll do entire omnibus bills that way. And then, you know, we could push back on that. But the leadership in the House, if you don't jealously guard the power you have, either the congressional offices against the executive or the House executive. Against the Senate, then you give them up. And so we basically the origination clause, it was violated to get healthcare reform done, for instance."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "if you're enjoying this video so far make sure you hit the like button and subscribe to my channel and if you really want to help support this channel we are one of the fastest growing channels on this subject about israel and palestine go become a member it's only 2.99 a month the link is in the description below now let's continue uh but you can't you can't have a"
+      },
+      {
+        "speaker": "[target]",
+        "text": "court contest on that because we're still doing it today."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "right this is yet another example frequently congress will give of its power to the president there's so many examples of that but this is an example of the house of representatives giving away its constitutional authority to the senate just so it can engage in this political chicanery i don't even know who would have standing to bring an action to get a federal court involved and i don't even know if the federal court would get involved because of the theory that each house does its own thing and writes its own rules"
+      }
+    ],
+    "speakername": "Thomas Massie",
+    "ground_truth": "Yeah, the federal courts are loathe to get involved in disputes between members of Congress or between representatives and the Senate. They almost just won't ever do it, even when there are cases of clear violations of the Constitution. Now, that's a double-edged sword, though. I like the Constitution because it has the speech or debate clause in it, which says that I can't be dragged in front of a national leader or the president for something I say or do on the floor of the House. I could call you a low-down miscreant, and every name in the book from the floor of the House, I could lie about you, and you can't do anything about it. And people might think that's wrong, but the founders knew that was important to put into our Constitution because they'd seen the leader violate that by harassing Parliament or... Or by private lawsuits against members of Congress. That's part of the Constitution that I really like. And so sometimes when the court won't get involved in these intra-congressional arguments, I'm torn. Yeah.",
+    "bio": "The speaker is a Republican politician who has been the United States Representative for a congressional district since 2012. The speaker's MBTI type is INTP",
+    "split": "val"
+  }
+]

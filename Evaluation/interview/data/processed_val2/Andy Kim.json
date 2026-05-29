@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Val-"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Culigated!"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so you're wondering what's wrong with the other 16%, right?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And they're just not that educated."
+      }
+    ],
+    "speakername": "Andy Kim",
+    "ground_truth": "NO, LOOK, I MEAN, WE HAVE TO, YOU KNOW, I BELIEVE THAT THE OPPOSITE OF DEMOCRACY IS APATHY. IT'S IF PEOPLE GIVE UP ON THIS, IT FEELS LIKE THEIR ELECTED OFFICIALS ARE NOT IN IT FOR THE RIGHT REASONS. SO I JUST, I FEEL LIKE AT THIS CRITICAL MOMENT, WE HAVE TO RESTORE A SENSE OF INTEGRITY BACK INTO OUR POLITICS AND TRY TO DO OUR BEST TO GIVE THE PEOPLE OF [state] A CHOICE. SURE.",
+    "bio": "A politician and former diplomat serving as the U.S. representative from [state]'s 3rd congressional district. The district stretches from [city]'s eastern suburbs to the coastal region. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so you're wondering what's wrong with the other 16%, right?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And they're just not that educated."
+      },
+      {
+        "speaker": "[target]",
+        "text": "NO, LOOK, I MEAN, WE HAVE TO, YOU KNOW, I BELIEVE THAT THE OPPOSITE OF DEMOCRACY IS APATHY. IT'S IF PEOPLE GIVE UP ON THIS, IT FEELS LIKE THEIR ELECTED OFFICIALS ARE NOT IN IT FOR THE RIGHT REASONS. SO I JUST, I FEEL LIKE AT THIS CRITICAL MOMENT, WE HAVE TO RESTORE A SENSE OF INTEGRITY BACK INTO OUR POLITICS AND TRY TO DO OUR BEST TO GIVE THE PEOPLE OF [state] A CHOICE. SURE."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, I mean, you... You're running in a district that, if I'm not wrong, voted for [politician] twice."
+      }
+    ],
+    "speakername": "Andy Kim",
+    "ground_truth": "Well, my congressional district, yeah. In 2018, I was part of the class of 2018 that flipped the legislative body, tried to, you know, take that away from [politician]. And I won a district that [politician] won. And in 2020, I was one of only seven members of my party in the entire country that won a district [politician] won. So, yes, it's been...",
+    "bio": "A politician and former diplomat serving as the representative from a coastal state's congressional district. The district stretches from a major city's eastern suburbs to the coastline. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, my district is 85% white, less than 3% Asian. When I was first elected, there were zero Korean Americans in Congress. And I had a lot of people tell me there's no way that an Asian American can win a district where the vast, vast majority can win."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "with it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "No, seriously, how the hell did you win? Because if you won it, then..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, what I'll say is... No offense, but... Yeah, I mean, no... No, look, I think what I learned is that, like, I'm not going to let other people determine what I am or am not capable of accomplishing simply because of the color of my skin and my last name. You know, this was..."
+      }
+    ],
+    "speakername": "Andy Kim",
+    "ground_truth": "This was, uh... This is the district where I, you know, I grew up. I did my entire kindergarten through 12 in the public school systems of my congressional district. I'm raising, you know, two little boys in that school system. Like, I have every bit as much right to represent that district as anybody else. And I have every bit as much right to represent my state as anybody else.",
+    "bio": "A politician and former diplomat serving as the U.S. representative from a regional congressional district. The district extends from suburban areas to the coastal region. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This was, uh... This is the district where I, you know, I grew up. I did my entire kindergarten through 12 in the public school systems of my congressional district. I'm raising, you know, two little boys in that school system. Like, I have every bit as much right to represent that district as anybody else. And I have every bit as much right to represent my state as anybody else."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I will say, that is... that is both inspiring to hear and a little gross. Uh, that's a lot of time in [state]. I just... I guess that's... Wow, that's... you're really [state]. Yeah. God bless. Well, I-I think you talk about this feeling in America right now. Uh, we feel very divided."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But in the House, you guys just had... You just passed this bipartisan bill. Uh, funding for Ukraine, Taiwan. We had the TikTok bill in there as well. Mike Johnson seemed to want to cross the aisle and work with you guys. What is this? Is this the beginning of some sort of bipartisan coalition, or is this a one-time spring fling?"
+      }
+    ],
+    "speakername": "Andy Kim",
+    "ground_truth": "No, look, I think what he realized is he has no other choice. He can either be a speaker that gets zero things done for the entire time that he is speaking, everything that he's done, whether it's passing our government funding or anything else, it's required us on the Democrat side to be there with him. Basically, you know, he and [Representative] are co-speakers of the House right now. There's nothing that the Speaker of the House, Johnson, can get done without [Representative] and the Democrats. And so, look, it's out of necessity in that way. I mean, you know, I hope that there are some places where we can find some agreement, but I'll be honest with you, like, I'm not holding my breath. We'll see where things go. But, I mean, you guys, you know, you all see it. I mean, I basically work in the world's worst reality TV show, you know, it's just like.",
+    "bio": "The speaker is a politician and former diplomat serving as the U.S. representative from a congressional district in the eastern region. The district stretches from a major city's eastern suburbs to the coastal area. The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But in the House, you guys just had... You just passed this bipartisan bill. Uh, funding for Ukraine, Taiwan. We had the TikTok bill in there as well. Uh, Mike Johnson seemed to want to cross the aisle and work with you guys. What is this? Is this the beginning of some sort of bipartisan coalition, or is this a one-time spring fling?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, look, I think what he realized is he has no other choice. He can either be a speaker that gets zero things done for the entire time that he is speaking, everything that he's done, whether it's passing our government funding or anything else, it's required us on the Democrat side to be there with him. Basically, you know, he and Hakeem Jeffries are co-speakers of the House right now. There's nothing that the Speaker of the House, Johnson, can get done without Hakeem Jeffries and the Democrats. And so, look, it's out of necessity in that way. I mean, you know, I hope that there are some places where we can find some agreement, but I'll be honest with you, like, I'm not holding my breath. We'll see where things go. But, I mean, you guys, you know, you all see it. I mean, I basically work in the world's worst reality TV show, you know, it's just like."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, speaking of that, I mean, you are-you are on the ground there. You-you know, you... Presumably, you talk with these people every day, if not all the time, you know? So I guess my question is, like, how is it different to what we're seeing on TV, your vibe on the ground in Congress? Is it as divisive as what we think it looks like on Instagram? Or is it... When you guys are in the same room, is it more like, -\"Hey,\" you know? Like... Like... -\"Finger guns, towel snaps.\" -\"All that kind of thing.\" -\"Yeah, yeah, yeah.\""
+      }
+    ],
+    "speakername": "Andy Kim",
+    "ground_truth": "DID YOU KNOW THAT'S EXACTLY WHAT IT'S LIKE NO I MEAN LOOK IT'S IT'S VERY FRUSTRATING I'M NOT GOING TO YOU KNOW AND I SAY THAT AS SOMEONE WHO'S NEVER THOUGHT THAT I'D BE IN POLITICS I DON'T ENJOY THAT ASPECT OF IT SO MUCH BUT I MEAN LOOK YOU KNOW ONE OF MY ONE OF MY COLLEAGUES I GUESS I CALL HIM THAT [REDACTED] FOR INSTANCE YOU KNOW HE HAS HIS LINE WHERE HE SAYS YOU KNOW IF YOU'RE NOT MAKING NEWS YOU'RE NOT GOVERNING AND I JUST THINK THAT THAT'S SO INDICATIVE WHAT'S WRONG WITH OUR POLITICS RIGHT NOW YOU KNOW IT'S THIS IDEA YOU KNOW I'M NOT GOING TO BE IN POLITICS I'M NOT GOING TO BE IN POLITICS I'M NOT GOING TO BE IN POLITICS",
+    "bio": "A politician and former diplomat serving as the U.S. representative from [state]'s 3rd congressional district. The district stretches from [city]'s eastern suburbs to the [region] Shore. The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

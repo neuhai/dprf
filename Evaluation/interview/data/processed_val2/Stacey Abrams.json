@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think the focus should be on protecting our democracy. We know that January 6th was the opening salvo in an attempt to roll us back to Jim Crow era. We are watching seven times the number of bills permeating across state legislatures than occurred in 2020 during election year. And we know that the U.S. Senate, much like the U.S. House, has the sole responsibility under the Elections Clause of the U.S. Constitution to regulate the time, place and manner of elections. That is something that we have to accomplish. It would be best if it was done in concert with Republicans, as we have in times past when we had to confront our demons and do better by our people. And my deep hope is that we can get it done. But I would say that an exemption to the filibuster for the purposes of protecting our democracy is not only logical, it is fundamental to who we are. Have you personally talked with?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Joe Manson or Kyrsten Sinema about this specific angle of suspending the filibuster?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have not, but I believe that these conversations are ongoing amongst the number of senators. Look, I understand wanting to protect the perquisites of an institution. I served as minority leader for seven years. But I also understand that there were times where we had to look at the fundamentals of our processes and do what was right. And we know the Senate has done so to suspend the filibuster for the purposes of judicial appointments, for cabinet appointments and for budget reconciliation. I would say protection of the fundamentals of our democracy, which we have seen bloodily debated through the January 6th insurrection, certainly counts. And when you look at the 253 bills moving through state legislature, sadly, 50 of them through Georgia itself, we know that now is the time for Congress to take up the role that it alone has, which is to regulate the time, place and manner of election."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to get you to respond to something Jennifer Rubin wrote in The Washington Post specifically about H.R. One, and she writes the legislation's only hope, and it is a slim one, rests with Democrats willingness to pare down the measure to match the nature of the current assault on voting rights. If Democrats remove issues that will be used as a pretext for opposition, they can make this a clear up or down issue on voter suppression. Are you for or against Jim Crow laws? And, you know, I will note you didn't directly answer my first question about H.R. One and about the decision. Should it be pared down? There are some other provisions in there that while noble and maybe good ideas are not are not as directly about the issue of access to the ballot box by individual voters. What do you think of that solution? Do you think Democrats should be thinking about a pared down version of this bill?"
+      }
+    ],
+    "speakername": "Stacey Abrams",
+    "ground_truth": "I believe the Democrats should do their level best to pass laws that protect our democracy. And I'm not being evasive. What I'm telling you is that we have to pay attention to the whole of our democracy and we have to defend and protect that democracy. That means doing the work necessary to ensure that every American who is eligible to vote can do so. I am not in the U.S. Senate. I have served in a body, a legislative body, where everything is up for grabs and everything is on the table. But I'm not going to presuppose anything other than the responsibility that Congress has because we have an a priori issue. The a priori issue is that the Senate has to believe it has the responsibility and the ability to act. And that is why my focus is on making certain that the exemption to the filibuster be the necessary front and center conversation so we can get something done to protect our democracy. If that doesn't happen.",
+    "bio": "Stacey Yvonne AbramsÂ (born December 9, 1973) is an American politician, lawyer,Â voting rightsÂ activist, and author who served in theÂ Georgia House of RepresentativesÂ from 2007 to 2017, serving asÂ minority leaderÂ from 2011 to 2017.Â A member of theÂ Democratic Party, Abrams foundedÂ Fair Fight Action, an organization to addressÂ voter suppression, in 2018. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have not, but I believe that these conversations are ongoing amongst the number of senators. Look, I understand wanting to protect the perquisites of an institution. I served as minority leader for seven years. But I also understand that there were times where we had to look at the fundamentals of our processes and do what was right. And we know the Senate has done so to suspend the filibuster for the purposes of judicial appointments, for cabinet appointments and for budget reconciliation. I would say protection of the fundamentals of our democracy, which we have seen bloodily debated through the January 6th insurrection, certainly counts. And when you look at the 253 bills moving through state legislature, sadly, 50 of them through Georgia itself, we know that now is the time for Congress to take up the role that it alone has, which is to regulate the time, place and manner of election."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to get you to respond to something Jennifer Rubin wrote in The Washington Post specifically about H.R. One, and she writes the legislation's only hope, and it is a slim one, rests with Democrats willingness to pare down the measure to match the nature of the current assault on voting rights. If Democrats remove issues that will be used as a pretext for opposition, they can make this a clear up or down issue on voter suppression. Are you for or against Jim Crow laws? And, you know, I will note you didn't directly answer my first question about H.R. One and about the decision. Should it be pared down? There are some other provisions in there that while noble and maybe good ideas are not are not as directly about the issue of access to the ballot box by individual voters. What do you think of that solution? Do you think Democrats should be thinking about a pared down version of this bill?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I believe the Democrats should do their level best to pass laws that protect our democracy. And I'm not being evasive. What I'm telling you is that we have to pay attention to the whole of our democracy and we have to defend and protect that democracy. That means doing the work necessary to ensure that every American who is eligible to vote can do so. I am not in the U.S. Senate. I have served in a body, a legislative body, where everything is up for grabs and everything is on the table. But I'm not going to presuppose anything other than the responsibility that Congress has because we have an a priori issue. The a priori issue is that the Senate has to believe it has the responsibility and the ability to act. And that is why my focus is on making certain that the exemption to the filibuster be the necessary front and center conversation so we can get something done to protect our democracy. If that doesn't happen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What is your next hope of trying to prevent some of these radical changes that are being proposed around the country?"
+      }
+    ],
+    "speakername": "Stacey Abrams",
+    "ground_truth": "I'm not going to give up hope that something will happen, but I will tell you that Fair Fight was born of a time when we knew nothing would happen at the federal level, and we were able to mitigate voter suppression across 20 states, in part by raising awareness amongst voters. As Lieutenant Governor Duncan said himself, right now these bills are trying to solve a problem that they have yet to identify. This is not about protecting the right to vote. The state of Georgia, the Secretary of State, and the governor spent great amounts of time and their political reputations defending the integrity of our elections, and therefore these bills are nothing more than a pretext for returning to Jim Crow and stopping voters they don't want to hear from. And my belief is that voters across this country, when they see that their right to vote is being thwarted, will do what they can to push back. But they shouldn't have to fight on their own. That's why we elected a Congress. That's why we have a Constitution. And that is why Congress should be held to account for defending our democracy.",
+    "bio": "Stacey Yvonne AbramsÂ (born December 9, 1973) is an American politician, lawyer,Â voting rightsÂ activist, and author who served in theÂ Georgia House of RepresentativesÂ from 2007 to 2017, serving asÂ minority leaderÂ from 2011 to 2017.Â A member of theÂ Democratic Party, Abrams foundedÂ Fair Fight Action, an organization to addressÂ voter suppression, in 2018. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I believe the Democrats should do their level best to pass laws that protect our democracy. And I'm not being evasive. What I'm telling you is that we have to pay attention to the whole of our democracy and we have to defend and protect that democracy. That means doing the work necessary to ensure that every American who is eligible to vote can do so. I am not in the national legislature. I have served in a body, a legislative body, where everything is up for grabs and everything is on the table. But I'm not going to presuppose anything other than the responsibility that Congress has because we have an a priori issue. The a priori issue is that the Senate has to believe it has the responsibility and the ability to act. And that is why my focus is on making certain that the exemption to the filibuster be the necessary front and center conversation so we can get something done to protect our democracy. If that doesn't happen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What is your next hope of trying to prevent some of these radical changes that are being proposed around the country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm not going to give up hope that something will happen, but I will tell you that Fair Fight was born of a time when we knew nothing would happen at the federal level, and we were able to mitigate voter suppression across 20 states, in part by raising awareness amongst voters. As Lieutenant Governor Duncan said himself, right now these bills are trying to solve a problem that they have yet to identify. This is not about protecting the right to vote. The state, the Secretary of State, and the governor spent great amounts of time and their political reputations defending the integrity of our elections, and therefore these bills are nothing more than a pretext for returning to discriminatory practices and stopping voters they don't want to hear from. And my belief is that voters across this country, when they see that their right to vote is being thwarted, will do what they can to push back. But they shouldn't have to fight on their own. That's why we elected a Congress. That's why we have a Constitution. And that is why Congress should be held to account for defending our democracy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "If the state legislature and these proposals get through the legislature and it's signed into law by the governor, if if these restrictions were put in place before 2020, would Democrats have carried the state in either the presidential or the two Senate races?"
+      }
+    ],
+    "speakername": "Stacey Abrams",
+    "ground_truth": "I will tell you that we would have worked just as hard to eliminate those acts of voter suppression as we did to eliminate the ones that existed in 2018. We were able to mitigate that harm in 2020, and we will continue to fight. The reality is voters, when they see that people are attacking their right to vote, we respond, and we respond with a fury that is born of urgency. We would not have the American Rescue Plan that's going to lift 171,000 children in our state out of poverty. We'll serve millions of Americans and lift them out of poverty. That's something that would not happen but for the right to vote. And so I refuse to countenance anything other than the deepest commitment to defending our democracy through FairFight.com and the work that other organizations are doing.",
+    "bio": "Born December 9, 1973, the target is a politician, lawyer, voting rights activist, and author who served in the state legislature from 2007 to 2017, serving as minority leader from 2011 to 2017. A member of the Democratic Party, the target founded a voting rights organization to address voter suppression in 2018. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm not going to give up hope that something will happen, but I will tell you that Fair Fight was born of a time when we knew nothing would happen at the federal level, and we were able to mitigate voter suppression across multiple states, in part by raising awareness amongst voters. As the Lieutenant Governor said himself, right now these bills are trying to solve a problem that they have yet to identify. This is not about protecting the right to vote. The state government, the Secretary of State, and the governor spent great amounts of time and their political reputations defending the integrity of our elections, and therefore these bills are nothing more than a pretext for returning to discriminatory practices and stopping voters they don't want to hear from. And my belief is that voters across this country, when they see that their right to vote is being thwarted, will do what they can to push back. But they shouldn't have to fight on their own. That's why we elected a Congress. That's why we have a Constitution. And that is why Congress should be held to account for defending our democracy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "If the state legislature and these proposals get through the legislature and it's signed into law by the governor, if if these restrictions were put in place before 2020, would Democrats have carried the state in either the presidential or the two Senate races?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I will tell you that we would have worked just as hard to eliminate those acts of voter suppression as we did to eliminate the ones that existed in 2018. We were able to mitigate that harm in 2020, and we will continue to fight. The reality is voters, when they see that people are attacking their right to vote, we respond, and we respond with a fury that is born of urgency. We would not have the American Rescue Plan that's going to lift 171,000 children in our state out of poverty. We'll serve millions of Americans and lift them out of poverty. That's something that would not happen but for the right to vote. And so I refuse to countenance anything other than the deepest commitment to defending our democracy through FairFight.com and the work that other organizations are doing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "This has become a big national fight for you. But I am curious, are you still thinking about running for governor in the state in 2022?"
+      }
+    ],
+    "speakername": "Stacey Abrams",
+    "ground_truth": "My focus is on making sure we have elections in 2022. And that means that we have to defend our democracy against all enemies, foreign and certainly the domestic enemies we see permeating and unfortunately populating our state legislatures, fighting hard to restrict access to the right to vote, trying to make certain that people of color and young people cannot participate fully in our democracy, which is the least patriotic thing I can imagine in this moment.",
+    "bio": "The target (born December 9, 1973) is an American politician, lawyer, voting rights activist, and author who served in the state legislature from 2007 to 2017, serving as minority leader from 2011 to 2017. A member of the Democratic Party, the target founded a voting rights organization to address voter suppression, in 2018. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm not going to answer that. And here's why, because we're early in the campaign. And I think part of what happens when campaigns start so quickly is that we only know what we hear from whichever show we happen to be watching at the moment. I do think that we're seeing credible, thoughtful policies coming out of most of those candidates. I think we're hearing good responses to queries. And by and large, I am happy with the entire field. I've had a chance to meet eight of them. I'm friends with or know a couple of others who are either running or thinking about running. And so I do think we've got the right field of candidates as of now, but we have to see what happens as the race plays out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, you mentioned the state legislature. Some state Democrats are waiting on the sidelines to see what you're going to do. When are you going to tell them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I've said to every candidate who's reached out to me or every potential candidate, please feel free to make your announcement. But it would be disingenuous for me to not recognize that were I to enter the race, that has an effect. I have infrastructure in place from the last campaign I ran, and I appreciate the recognition and respect. But my intention is to make a decision very quickly in the next few weeks. Part of what happened was when I initially decided to make a decision by the end of March, my publisher hadn't decided to release my paperback. And the last time my book came out, I did not do a great job of promoting it because I was running for governor. And so because this is my job right now, my responsibility is to make certain I'm promoting my book, and that's been my primary responsibility. But I am going to make a decision fairly soon."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Okay, I've watched a lot of interviews of you during this book tour, and it seems to me that you're much more excited about being an executive, a governor or president, than about being one of 100 senators. Is that a fair observation or not?"
+      }
+    ],
+    "speakername": "Stacey Abrams",
+    "ground_truth": "That's a fair observation that I've focused most of my work on the executive side, and I think that there is more immediate return on the work that I need to do. But having served in the legislative body, I understand how important a senator can be. And that's really what I'm grappling with, that a state senator has a very specific opportunity to articulate issues, to speak to a national audience, and to have effect to move legislation, but also to move issues. And so while I've never thought about the legislative process on a national level, I've never thought about running for the Senate, I have wanted to give myself time to really think about what that looks like. I'm a bit of a planner, and so part of my process has been really pushing through what would this look like? How would I leverage this position and this platform? But it is different. I've long been thinking about the executive side, not the legislative side.",
+    "bio": "Born December 9, 1973, [target] is an American politician, lawyer, voting rights activist, and author who served in the state legislature from 2007 to 2017, serving as minority leader from 2011 to 2017. A member of the Democratic Party, [target] founded a voting rights organization to address voter suppression in 2018. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

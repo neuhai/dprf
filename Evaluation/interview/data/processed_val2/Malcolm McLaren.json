@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, we're back. Over the past two decades, my next guest has made music history by creating a famous punk band. He's also produced albums by other rock bands. His latest CD is entitled Paris. It's right here. Get a look at it. Please welcome [target], everybody. We have to start. We'll get to the album in just a bit, but I have to ask you about the band. Maybe you're tired of talking about it, but we're probably talking about the most influential band probably the last 20 years, easily. You think so? I think so. Yes, I have a column in a major music magazine. You should check it out. I'm very influential in these matters. Now, I'm intrigued because I understand that you actually, it all came together, the band, all came together at a clothing store. Is that right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I had a kind of, I suppose what you call a dark hole in the middle of the street in a fashionable district. And I used to sell rock and roll records and I used to sell clothes. And I used to have to stop a hell of a lot of thievery. And in particular, there were two guys."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It drove me bloody mad."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "stealing stuff constantly."
+      }
+    ],
+    "speakername": "Malcolm McLaren",
+    "ground_truth": "I was just forever running down the bloody street. I was never in the store, and I, in the end, decided one day when they came into the store to immediately start talking to them and watch them. And they got talking to me, and they weren't starting to thieve this time. They just told me about the fact that they had a rock and roll band. I didn't believe them, really, but out of curiosity, I took a peek down their so-called den and studio, and when I arrived, it was like an Aladdin's cave. This equipment must have cost a minimum of $200,000 or more, and they couldn't play any of it.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I was just forever running down the street. I was never in the store, and I, in the end, decided one day when they came into the store to immediately start talking to them and watch them. And they got talking to me, and they weren't starting to thieve this time. They just told me about the fact that they had a rock and roll band. I didn't believe them, really, but out of curiosity, I took a peek down their so-called den and studio, and when I arrived, it was like an Aladdin's cave. This equipment must have cost a minimum of $200,000 or more, and they couldn't play any of it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and i i started to think is this their equipment or is this equipment that has come from somewhere else and then i suddenly realized it had come from a famous musician's stage it had come from another musician's back van in his studio it had come from raiding another rock star's house he isn't very attentive"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "about that stuff."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's it."
+      }
+    ],
+    "speakername": "Malcolm McLaren",
+    "ground_truth": "But alongside the equipment, there were TVs and fur coats. And then I realised the fur coat belonged to a rock star's girlfriend at the time.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I actually thought they must be very good at something."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And at that point, I decided to help them. It was a kind of a moment of madness, divine madness. You have occasionally, I'm sure you do."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Oh, I have that a lot, yeah."
+      }
+    ],
+    "speakername": "Malcolm McLaren",
+    "ground_truth": "I'm on a medication now. When you get those moments, you go for it, as they say. Now, these two were.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "one of them? No, no, no. He was a good boy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Who was it?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Steve Jones Steve Jones, okay, and Paul cook all right now. How did Johnny rotten and Sid vicious come into the whole thing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "where they would go as I seem to choose in a way when I stood in the store"
+      }
+    ],
+    "speakername": "Malcolm McLaren",
+    "ground_truth": "Desperately looking for two other people to help these two guys that couldn't play Manifest a group you needed someone who could play",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Who was it?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Steve Jones Steve Jones, okay, and Paul cook all right now. How did Johnny rotten and Sid vicious come into the whole thing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "where they would go as I seem to choose in a way when I stood in the store"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Desperately looking for two other people to help these two guys that couldn't play Manifest a group you needed someone who could play"
+      }
+    ],
+    "speakername": "Malcolm McLaren",
+    "ground_truth": "well one stroppy kid came in the store desperate to buy a pair of shoes and i just had a sort of hunch i looked at him and i sort of um asked him if he could sing looked at me as if i was totally mad and said no and i thought well can you play something maybe and he said i can play the violin but out of tune i thought he was a total perfect i thought i'll hire this guy",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

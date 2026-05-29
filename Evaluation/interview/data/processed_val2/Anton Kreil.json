@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hi, [target] here from the Institute of Trading and Portfolio Management. Welcome to [city], where I'm joined here today by one of our senior trading mentors, Dr. Christopher Caffey. How are you doing, Chris? Great, [target]. Cool, welcome."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Cheers."
+      },
+      {
+        "speaker": "[target]",
+        "text": "All right, this guy's got some..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "drip."
+      }
+    ],
+    "speakername": "Anton Kreil",
+    "ground_truth": "So, Chris, welcome to [city]. It's nice to be here. Thank you. Yeah, quite funny to be here, actually, because full disclosure, you and I used to work together at [investment_bank]. Yeah, about a mile over there. Yeah. So we're just over here. And now we're sitting here overlooking the city. I joined [investment_bank] in 2000. You were a trader on the pan-European equities trading desk. And I joined 2000, and you've been there for about seven years previously. I joined in 2000.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Absolutely fantastic."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We had some fun."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and we met"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "money"
+      }
+    ],
+    "speakername": "Anton Kreil",
+    "ground_truth": "Yeah, we caught a pretty amazing time in the financial markets, didn't we? Absolutely, absolutely fantastic. So obviously in the last 25 years or so, you've traded some incredible market moves.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, we caught a pretty amazing time in the financial markets, didn't we? Absolutely, absolutely fantastic. So obviously in the last 25 years or so, you've traded some incredible market moves."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "some fantastic moves to the opposite"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's like."
+      }
+    ],
+    "speakername": "Anton Kreil",
+    "ground_truth": "and to the downside so the last 25 years all the bull markets all bear markets and I guess from a risk perspective you've been there seen it done it all before",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "some fantastic moves to the opposite"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's like."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and to the downside so the last 25 years all the bull markets all bear markets and I guess from a risk perspective you've been there seen it done it all before"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Absolutely. The risk, obviously, progressing through my career, risk increased and increased. Obviously, a function of the marketplace as well. I tend to find more risk is taken in bull markets and then less risk in the bear market. In my experience, that doesn't necessarily seem to be the case. There's a general risk appetite out there. But yeah, trade at bull markets, trade at bear markets, taking risk in both, and made money."
+      }
+    ],
+    "speakername": "Anton Kreil",
+    "ground_truth": "So from a risk perspective, I think a really good thing to talk about might be, for example, when I joined the desk at [financial institution] in 2000, it was obviously the peak of a bull market at that time, as in the tech NASDAQ bubble. And we were sitting together on the trading desk. But I was just a kid at that time. So I was coming straight out of university, 21 years old. And I probably looked at the desk, well, not probably, definitely, I probably looked at the desk and the risk of the pan-European trading desk at [financial institution] through a different lens to the way you looked at it, because you'd been already there for seven years. So you were a senior guy on the desk. And in fact, you were one of my mentors over those four years I was at [financial institution]. The risk that you saw at that time, how did you see it? Because we probably saw it very differently.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "After about 16, 17 years? Yeah, 15, 16."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "16 years. Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "15, 16 bonuses. That's the way I think of it. Yeah, there you go."
+      }
+    ],
+    "speakername": "Anton Kreil",
+    "ground_truth": "So after 15, 16 bonuses, you left the professional side, basically retired, right? Yeah. And I think, is it right, between 2008 to 2013, you were basically not really doing much, just retired, relaxing, catching up? Right.",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Another businessman who's light on his feet and gets ahead, the last of the multi-millionaire movie moguls, [target]. You have heads being chopped off on camera. You have entrails being pulled out of bodies on camera. What do you do for an encore? Well, we just do it. [target] sits in this remote corner making what major studios would love to be doing, making a film every week of the year and a profit at the end of it. With his brother, he controls the world's largest privately owned studio and cinema circuit and an annual income of Â£100 million. Studios around the world decline and close, but last year his assembly line produced 52 ferocious films."
+      },
+      {
+        "speaker": "[target]",
+        "text": "People always want more, and when we first started this sort of play films, we have no blood, and people say it's not exciting enough, we're putting more blood, and then the audience wants more, we put more blood, and after so many years, they get a little tired of the blood, so we reduce, and I think in the very near future, we'll cut out all the blood."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and just action."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Just fighting? Just fighting. See, I've never seen such fights and they go on almost interminably, don't they? Don't the audiences ever get tired of this? I mean, they know the outcome, obviously, the man in black is going to win and the men in white are going to be dead."
+      }
+    ],
+    "speakername": "Run Run Shaw",
+    "ground_truth": "Well, I think people all over the world are like that. For instance, in North America, they used to produce Western pictures. And they make something like 200 or 300 Westerns a year for 20, 30 years. And I never heard that they are tired of the Westerns. All the Westerns are the same. I can guess what the people want better than most of the other producers. I guess wrong many times, but I guess a lot of times right.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I couldn't get any land. The region is so short of land. And then I went to the government. The government said, yes, if you want land, you see, those are the lands. Like this. Yeah. It's exactly like this. Yeah. And so I say, all right, let's have one. One what? Yes, one of this. One mountain? Mountain. Yes. And so we took one mountain, and then we took 60 feet top of the mountain to make these flat pieces here."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You chop the top off."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yes and then we started to build a good studio it was quite a gamble we made two first films cost us five million local dollars which is about 300,000 pounds i think and to our satisfaction people came to the theater and feel happy to see the local movie and then we started it to put on more stages and more of everything of course when we first started we were so short of technicians well local people they are hard working they're intelligent and in no time they learn all the tricks this gave us a lot of confidence that quality movie will pay"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You talk about quality films, but of course, by any other standard, your films are incredibly economic, are they not? They're very cheaply produced."
+      }
+    ],
+    "speakername": "Run Run Shaw",
+    "ground_truth": "not cheaply produced because the labor here compared with your part of the world is much cheaper if you look around our studio you see our settings are very expensively built the same setting if it is built in the studios in your country then it may cost 10 20 or 50 times i don't know",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "yes and then we started to build a good studio it was quite a gamble we made two first films cost us five million local dollars which is about 300 000 pounds i think and to our satisfaction people came to the theater and feel happy to see the local movie and then we started it to put on more stages and more of everything of course when we first started we were so short of technicians well local people they are hard working they're intelligent and in no time they learn all the tricks this gave us a lot of confidence that quality movie will pay"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "You talk about quality films, but of course, by any other standard, your films are incredibly economic, are they not? They're very cheaply produced."
+      },
+      {
+        "speaker": "[target]",
+        "text": "not cheaply produced because the labor here compared with your part of the world is much cheaper if you look around our studio you see our settings are very expensively built the same setting if it is built in the studios in your country then it may cost 10 20 or 50 times i don't know"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Your films have often been criticized as bloodthirsty potboilers. The formula so far has been no sex, but lots of blood and sadism. Now, is this a local appreciation of entertainment?"
+      }
+    ],
+    "speakername": "Run Run Shaw",
+    "ground_truth": "Local people I think that the youngsters all over the world they like sex and the local people cannot be exceptions but being in this part of the world we have certain restrictions",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Chinese I think that the youngsters all over the world they like sex and the Chinese cannot be exceptions but being in this region we have certain restrictions"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Your audience would be shocked by sex. Yes. But they're not shocked by an entrails being pulled out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I agree. I think that is the feeling at least I know."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It's strange that cinema audiences are falling off everywhere in the world except, it seems, for your films here in this region."
+      }
+    ],
+    "speakername": "Run Run Shaw",
+    "ground_truth": "Well, I think in your country, I'm just making comparison, you have so many things to do. You can drive out, you can have a water skiing, plenty of concerts, entertainment venues to go. While in this region, there are less places to go. And the only place that they can get entertained is the cinema.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I agree. I think that is the feeling at least I know."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It's strange that cinema audiences are falling off everywhere in the world except, it seems, for your films here in this part of the world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think in your country, I'm just making comparison, you have so many things to do. You can drive out, you can have a water skiing, plenty of concerts, dancing halls to go. While in this part of the world, there are less places to go. And the only place that they can get entertained is the cinema."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "What about good old television?"
+      }
+    ],
+    "speakername": "Run Run Shaw",
+    "ground_truth": "Well, for this region, the accommodations are so expensive, people cannot afford to have big rooms for their accommodation, and television occupies quite space in the room, so they have not enough space to put in their television set. People go to the cinemas, they either want to get excited or to be amused, so there you are, we have to give some kind of excitement. In order to give it a change, we inject some fantasy things in the movie.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

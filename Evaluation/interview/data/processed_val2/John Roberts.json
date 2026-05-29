@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Happy to be here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I wanted to ask you first of all, why should lawyers be fastidious with their use of language?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, language is the central tool of our trade. When we're looking at a statute, trying to figure out what it means, we're relying on the language. When we're construing the Constitution, we're looking at words. Those are the building blocks of the law. And so if we're not fastidious, as you put it, with language, it dilutes the effectiveness and clarity of the law. And so I think it's vitally important, whether it's a lawyer arguing a case and trying to explain his position, whether it's a legislator writing a law, whether it's a judge trying to construe it. At every stage, those lawyers have to be... The more careful they are with their language, I think the better job they're going to do in capturing in those words exactly what they want the law to do, in perceiving... Persuading a judge how to interpret it, and as a judge, in giving a good, clear explanation of what the law is."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think the profession could do better on that school?"
+      }
+    ],
+    "speakername": "John Roberts",
+    "ground_truth": "Yes, and I think we all can do better. You know, we read hundreds, thousands, thousands of briefs in the course of a year at the [federal court], and some are more effective than others. And it's just a different experience when you pick up a well-written brief. You kind of get a little bit swept along with the argument, and you can deal with it more clearly rather than trying to hack through. It's almost like hacking through a jungle with a machete to try to get to the point. You expend all your energy trying to figure out what the argument is as opposed to putting your arms around it and seeing if it works.",
+    "bio": "Born January 27, 1955 in a major city in the northeastern United States, but grew up in the midwest and was educated in a private school. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, language is the central tool of our trade. When we're looking at a statute, trying to figure out what it means, we're relying on the language. When we're construing the Constitution, we're looking at words. Those are the building blocks of the law. And so if we're not fastidious, as you put it, with language, it dilutes the effectiveness and clarity of the law. And so I think it's vitally important, whether it's a lawyer arguing a case and trying to explain his position, whether it's a legislator writing a law, whether it's a judge trying to construe it. At every stage, those lawyers have to be... The more careful they are with their language, I think the better job they're going to do in capturing in those words exactly what they want the law to do, in perceiving... Persuading a judge how to interpret it, and as a judge, in giving a good, clear explanation of what the law is."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think the profession could do better on that school?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, and I think we all can do better. You know, we read hundreds, thousands, thousands of briefs in the course of a year at the highest court, and some are more effective than others. And it's just a different experience when you pick up a well-written brief. You kind of get a little bit swept along with the argument, and you can deal with it more clearly rather than trying to hack through. It's almost like hacking through a jungle with a machete to try to get to the point. You expend all your energy trying to figure out what the argument is as opposed to putting your arms around it and seeing if it works."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "On some of the cases on which you grant cert, are you still, when you read the briefs, having to hack through with a machete?"
+      }
+    ],
+    "speakername": "John Roberts",
+    "ground_truth": "Well, sure. The quality of briefs varies greatly. We get some excellent briefs. We get a lot of very, very good briefs. And there are some where the first thing you can tell in many of them is that the lawyer really hasn't spent a lot of time on it, to be honest with you. You can tell that if they'd gone through a couple more drafts, it would be more effective. It would read better. And for whatever reason, they haven't devoted that energy to it. Well, that tells you a lot right there about that lawyer's devotion to his client's cause. And that's very frustrating because you're obviously dealing with very important issues. We depend heavily on the lawyers. Our chances of getting a case right improve to the extent the lawyers do a better job. And when you see something like bad writing, the first thing you think is, well, if he didn't have enough time to spend writing it well, how much time did he spend researching? How much time did he spend thinking out the ramifications of his position? You don't have a lot of confidence in the substance if the writing is bad.",
+    "bio": "Born January 27, 1955, [target] is the 17th and current Chief Justice of the highest court, serving in this role since 2005. [target] was born in a major city in upstate New York, but grew up in a midwestern state and was educated in a private school. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, and I think we all can do better. You know, we read hundreds, thousands, thousands of briefs in the course of a year at the national high court, and some are more effective than others. And it's just a different experience when you pick up a well-written brief. You kind of get a little bit swept along with the argument, and you can deal with it more clearly rather than trying to hack through. It's almost like hacking through a jungle with a machete to try to get to the point. You expend all your energy trying to figure out what the argument is as opposed to putting your arms around it and seeing if it works."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "On some of the cases on which you grant cert, are you still, when you read the briefs, having to hack through with a machete?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, sure. The quality of briefs varies greatly. We get some excellent briefs. We get a lot of very, very good briefs. And there are some where the first thing you can tell in many of them is that the lawyer really hasn't spent a lot of time on it, to be honest with you. You can tell that if they'd gone through a couple more drafts, it would be more effective. It would read better. And for whatever reason, they haven't devoted that energy to it. Well, that tells you a lot right there about that lawyer's devotion to his client's cause. And that's very frustrating because you're obviously dealing with very important issues. We depend heavily on the lawyers. Our chances of getting a case right improve to the extent the lawyers do a better job. And when you see something like bad writing, the first thing you think is, well, if he didn't have enough time to spend writing it well, how much time did he spend researching? How much time did he spend thinking out the ramifications of his position? You don't have a lot of confidence in the substance if the writing is bad."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you find it interesting that here in the capital city we have all these different mechanisms for mooting cases? Some people will have five moot courts before getting in to argue before you, and yet they probably don't subject their briefs to the same kind of editorial scrutiny."
+      }
+    ],
+    "speakername": "John Roberts",
+    "ground_truth": "Well, some do and some don't, but it's a very good point. You know, the oral argument is the tip of the iceberg, the most visible part of the process, but the briefs are more important. I don't think anybody would dispute that. And they should have as much time and energy devoted to them as the oral argument preparation.",
+    "bio": "Born January 27, 1955, the target is the 17th and current Chief Justice of the national high court, serving in this role since 2005. The target was born in a major city in the northeast United States, but grew up in the midwest and was educated in a private school. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, sure. The quality of briefs varies greatly. We get some excellent briefs. We get a lot of very, very good briefs. And there are some where the first thing you can tell in many of them is that the lawyer really hasn't spent a lot of time on it, to be honest with you. You can tell that if they'd gone through a couple more drafts, it would be more effective. It would read better. And for whatever reason, they haven't devoted that energy to it. Well, that tells you a lot right there about that lawyer's devotion to his client's cause. And that's very frustrating because you're obviously dealing with very important issues. We depend heavily on the lawyers. Our chances of getting a case right improve to the extent the lawyers do a better job. And when you see something like bad writing, the first thing you think is, well, if he didn't have enough time to spend writing it well, how much time did he spend researching? How much time did he spend thinking out the ramifications of his position? You don't have a lot of confidence in the substance if the writing is bad."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you find it interesting that here in [location] we have all these different mechanisms for mooting cases? Some people will have five moot courts before getting in to argue before you, and yet they probably don't subject their briefs to the same kind of editorial scrutiny."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, some do and some don't, but it's a very good point. You know, the oral argument is the tip of the iceberg, the most visible part of the process, but the briefs are more important. I don't think anybody would dispute that. And they should have as much time and energy devoted to them as the oral argument preparation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I've been listening to some of your oral arguments recently and generally breathtakingly good. What's it like being on the other side of the bench? It's easier, first of all."
+      }
+    ],
+    "speakername": "John Roberts",
+    "ground_truth": "at least at the oral argument stage, I enjoy the arguments very much. I mean, I always did when I was a lawyer. But, you know, as a lawyer, you've got to be prepared to answer a thousand questions. You might get 80, you might get 100, but you've got to be prepared to answer more than a thousand.",
+    "bio": "The speaker (born January 27, 1955) is the 17th and current Chief Justice of the United States, serving in this role since 2005. The speaker was born in [location], but grew up in [location] and was educated in a private school. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you find it interesting that here in [capital city] we have all these different mechanisms for mooting cases? Some people will have five moot courts before getting in to argue before you, and yet they probably don't subject their briefs to the same kind of editorial scrutiny."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, some do and some don't, but it's a very good point. You know, the oral argument is the tip of the iceberg, the most visible part of the process, but the briefs are more important. I don't think anybody would dispute that. And they should have as much time and energy devoted to them as the oral argument preparation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I've been listening to some of your oral arguments recently and generally breathtakingly good. What's it like being on the other side of the bench? It's easier, first of all."
+      },
+      {
+        "speaker": "[target]",
+        "text": "at least at the oral argument stage, I enjoy the arguments very much. I mean, I always did when I was a lawyer. But, you know, as a lawyer, you've got to be prepared to answer a thousand questions. You might get 80, you might get 100, but you've got to be prepared to answer more than a thousand."
+      }
+    ],
+    "speakername": "John Roberts",
+    "ground_truth": "As a justice, you just have to ask whatever you think might help you decide the case. So it's a lot more relaxed being on the asking side of the bench. But I remember saying when I was a lawyer, you hope to engage the court in some kind of a dialogue, and a dialogue among equals. So if it's going to be that, both the judge and the lawyer have to have devoted a sufficient amount of time to preparing for the argument. As a lawyer, you hope to be prepared for questions, to understand where they lead, to have thought several moves ahead so that you can answer correctly, rather than just sort of on the spur of the moment. And as a judge or a justice, you should have thought out why you need to know the answer to that question. Sometimes it comes up on the spur of the moment. Another justice asks a question and another thing occurs to you. It's not like you have to have studied it. You've studied it in advance, but you should know where you're going. Why are you asking that? What do you hope to find out? And so you do have to prepare as a judge as well. It's a lot less nerve-wracking, though, because you can ask stupid questions. It's a lot less harmful than giving stupid answers.",
+    "bio": "Born January 27, 1955, the target is the 17th and current Chief Justice of the country, serving in this role since 2005. The target was born in a major city in the northeastern state, but grew up in the midwest region and was educated in a private school. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

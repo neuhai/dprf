@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's correct. That is absolutely correct. And again, it is the media and the roadie Fed media that is putting out all this rubbish about what he... Human rights abuses, mass..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "torture. It's all nonsense. It's all nonsense."
+      },
+      {
+        "speaker": "[target]",
+        "text": "How do you know? It's absolute rubbish. How do you know? Well, because I happen to be on the ground in [country], and I know what is happening there. This is all media-inspired."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "who've been"
+      }
+    ],
+    "speakername": "Nicholas van Hoogstraten",
+    "ground_truth": "A lot of what are in fact simple, ordinary crimes are now being blamed on the party, being blamed on politicians.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "normal crimes and [country] is basically a crime-free country compared with the region in general."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], you're setting yourself against the bulk of world opinion that knows for a fact that this is a lawless regime that has tortured and intimidated its opponents, left, right and centre, and starved those, in fact, who don't support the ruling party."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Rubbish. It's a total media..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Blackwash you're alone in saying that I don't believe I'm a lot. You're a lone voice about from the government, which is Not exactly. Well, I happen to be one of the"
+      }
+    ],
+    "speakername": "Nicholas van Hoogstraten",
+    "ground_truth": "few people that know what the position is in [country], and I'm not known for saying things that are not true. You've got a whole history of me, and if anything, I'm known for saying what the truth is, and if I say, as I've said, that [political figure] is incorruptible, then that is a fact. You can stand on it, and I should know. And for the most part, that relates to most of his senior ministers, certainly the late Vice President, who was a long-standing friend of mine, [political figure], who died recently.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Rubbish. It's a total media..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Blackwash you're alone in saying that I don't believe I'm a lot. You're a lone voice about from the government, which is Not exactly. Well, I happen to be one of the"
+      },
+      {
+        "speaker": "[target]",
+        "text": "few people that know what the position is in the region, and I'm not known for saying things that are not true. You've got a whole history of me, and if anything, I'm known for saying what the truth is, and if I say, as I've said, that the president is incorruptible, then that is a fact. You can stand on it, and I should know. And for the most part, that relates to most of his senior ministers, certainly the late Vice President, who was a long-standing friend of mine, who died recently."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Cannot travel to certain countries, his bank accounts are frozen, it's just hype, it's just hype."
+      }
+    ],
+    "speakername": "Nicholas van Hoogstraten",
+    "ground_truth": "Isn't it? This is the West. And this all goes back to failing to honour the regional agreements. And the agreements included the fact that a large quantity, large acreages of land was supposed to be acquired for the landless peasants in the region, funded by foreign governments. That money has never been made available. You dismiss all the reports about his wrongdoings. How many years was the government going to put up with this? This continuing land monopoly down there. And let me tell you on the ground exactly what is happening in many cases down there. You have farmers there. They've got, for instance, 2,000 acres. Let's take 2,000 acres of land. They are using 300 acres of it. And the 1,700 acres is for exercising their dogs. That is what happens. And if a person wants to buy a piece of land, wants to buy an adjoining farm, they all used to get together, club together, and stop him from buying it by buying it themselves.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "few people that know what the position is in [country], and I'm not known for saying things that are not true. You've got a whole history of me, and if anything, I'm known for saying what the truth is, and if I say, as I've said, that [political figure] is incorruptible, then that is a fact. You can stand on it, and I should know. And for the most part, that relates to most of his senior ministers, certainly the late Vice President, who was a long-standing friend of mine, [senior official], who died recently."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Europe can't travel to [country], his bank accounts are frozen, it's just hype, it's just hype."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Isn't it? This is the West. And this all goes back to the West failing to honour the [agreement name] Agreements. And the [agreement name] Agreements included the fact that a large quantity, large acreages of land was supposed to be acquired for the landless peasants in [country], funded by the [country] and [country] governments. That money has never been made available. You dismiss all the reports about his wrongdoings. How many years was the government going to put up with this? This continuing land monopoly down there. And let me tell you on the ground exactly what is happening in many cases down there. You have farmers there. They've got, for instance, 2,000 acres. Let's take 2,000 acres of land. They are using 300 acres of it. And the 1,700 acres is for exercising their dogs. That is what happens. And if a black man wants to buy a piece of land, wants to buy an adjoining farm, they all used to get together, club together, and stop him from buying it by buying it themselves."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You don't mind that your support for [political figure] would be seen as absolute nonsense by the vast majority of people?"
+      }
+    ],
+    "speakername": "Nicholas van Hoogstraten",
+    "ground_truth": "least bit concerned if the rest of the world wants to think that what I'm saying is nonsense good luck to them but the proof of the pudding is in the eating you and consistently over the years I have been successful in what I've done and I've also been accurate in what I've done and to go back on to my recent conviction within a matter of days of my and I call it [location] conviction which happens to be the name of the major coal mining area in [country] my [location] conviction within days I knew it it couldn't be sustained and I had a high court so another high court I had a circuit judge actually right into me and say set out chapter and verse you've been wrongly convicted boom boom boom and gave me all the law on it as did a number of other lawyers okay so within days of that I then wrote to the judge the trial judge and said boy you up I wrote to the prosecution council and set it all out for them why did you do that why did he take 18 months for somebody to come along somebody of the status of [legal official] just to say exactly what I'd said 18 months earlier why did he take 18 months to sort this mess out",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Isn't it? This is the region. And this all goes back to failing to honour the regional agreements. And these agreements included the fact that a large quantity, large acreages of land was supposed to be acquired for the landless peasants in the country, funded by foreign governments. That money has never been made available. You dismiss all the reports about his wrongdoings. How many years was the government going to put up with this? This continuing land monopoly down there. And let me tell you on the ground exactly what is happening in many cases down there. You have farmers there. They've got, for instance, 2,000 acres. Let's take 2,000 acres of land. They are using 300 acres of it. And the 1,700 acres is for exercising their dogs. That is what happens. And if a local man wants to buy a piece of land, wants to buy an adjoining farm, they all used to get together, club together, and stop him from buying it by buying it themselves."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You don't mind that your support for the leadership would be seen as absolute nonsense by the vast majority of people?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "least bit concerned if the rest of the world wants to think that what I'm saying is nonsense good luck to them but the proof of the pudding is in the eating you and consistently over the years I have been successful in what I've done and I've also been accurate in what I've done and to go back on to my recent conviction within a matter of days of my and I call it local conviction which happens to be the name of the major coal mining area in the country my local conviction within days I knew it it couldn't be sustained and I had a high court so another high court I had a circuit judge actually right into me and say set out chapter and verse you've been wrongly convicted boom boom boom and gave me all the law on it as did a number of other lawyers okay so within days of that I then wrote to the judge the trial judge and said boy you up I wrote to the prosecution council and set it all out for them why did you do that why did he take 18 months for somebody to come along somebody of the status of the senior counsel just to say exactly what I'd said 18 months earlier why did he take 18 months to sort this mess out"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mr. [target], you're trained as a... That is corruption."
+      }
+    ],
+    "speakername": "Nicholas van Hoogstraten",
+    "ground_truth": "So don't talk about the country and what goes on down there because if I'm going to be tried under local justice or foreign justice, I'll have local justice.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

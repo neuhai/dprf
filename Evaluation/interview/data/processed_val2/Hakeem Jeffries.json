@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Very concerned and the situation is very disturbing. The mayor has a responsibility to convince the people of the major city that he will be able to continue to govern in a manner that puts their best interests first at all times and that he's not simply taking orders from an administration, a Department of Justice or officials who do not have the best interests of the city at heart."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Because this prosecution has been suspended, which means the Justice Department can renew the prosecution at any time if they don't like what the mayor is doing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's correct. Listen, this Department of Justice is not promoting law and order. It's promoting lawlessness and disorder. And that's been consistent with what we've seen from the administration from the very beginning, including but not limited to pardoning hundreds of violent felons who attacked and brutally beat police officers and then were released back into communities all across the country, threatening public safety. Many of these individuals who were pardoned, this was all facilitated, of course, by the Department of Justice. My Republican colleagues in the legislative body have said nothing about this. Or at worst, they continue to support what has occurred, this lawlessness and disorder. Many of these individuals who were pardoned, for instance, have extensive criminal records for things like domestic violence, weapons charges that are serious and rape. So this is not an administration that is committed to the safety of the American people. They continue to. Undermine it and flood the zone with chaos."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "More broadly, we're in four weeks in this second administration. What of all that we've seen play out over these four weeks most concerns you?"
+      }
+    ],
+    "speakername": "Hakeem Jeffries",
+    "ground_truth": "Well, the administration and Republicans consistently promised that they were going to lower the high cost of living. And they've done the exact opposite. They've shown no interest in lowering costs in the country, which are too high. Housing costs are too high. Grocery costs are too high. Child care costs are too high. Utility costs are too high. The cost of living is too high in this country. This country is too expensive. But they've broken their promise. They have no interest in improving the quality of life of hardworking taxpayers. Instead, what they're trying to do, while they distract the people, is to jam their tax plan down the throats of people all across this country, all in service of massive tax cuts for their billionaire donors and wealthy corporations. It's a toxic bait and switch that is underway, and we will continue to push back forcefully.",
+    "bio": "The politician and attorney has served as the Representative for their district since 2013. A member of the Democratic Party, their district covers parts of two major city boroughs. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's correct. Listen, this Department of Justice is not promoting law and order. It's promoting lawlessness and disorder. And that's been consistent with what we've seen from the administration from the very beginning, including but not limited to pardoning hundreds of violent felons who attacked and brutally beat police officers and then were released back into communities all across the country, threatening public safety. Many of these individuals who were pardoned, this was all facilitated, of course, by the Department of Justice. My Republican colleagues in the legislative body have said nothing about this. Or at worst, they continue to support what has occurred, this lawlessness and disorder. Many of these individuals who were pardoned, for instance, have extensive criminal records for things like domestic violence, weapons charges that are serious and rape. So this is not an administration that is committed to the safety of the American people. They continue to. Undermine it and flood the zone with chaos."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "More broadly, we're in four weeks in this second administration. What of all that we've seen play out over these four weeks most concerns you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the administration and Republicans consistently promised that they were going to lower the high cost of living. And they've done the exact opposite. They've shown no interest in lowering costs in the country, which are too high. Housing costs are too high. Grocery costs are too high. Child care costs are too high. Utility costs are too high. The cost of living is too high in this country. This country is too expensive. But they've broken their promise. They have no interest in improving the quality of life of hardworking American taxpayers. Instead, what they're trying to do, while they distract the American people, is to jam the GOP tax scam down the throats of people all across this country, all in service of massive tax cuts for their billionaire donors and wealthy corporations. It's a toxic bait and switch that is underway, and we will continue to push back forcefully."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But the administration's favorability rating is actually higher than it ever was the first time around. Let me ask you, a recent poll looked at several of the things that he has done or says that he is going to do, and 63% favor federal government's recognition of only two sexes, 60% favor deporting immigrants who entered the country illegally, 60% favor expanding oil and gas production, 59% favor declaring an emergency at the southern border. Is there anything you are seeing that the administration is doing that you are in favor of, that you think is the right thing?"
+      }
+    ],
+    "speakername": "Hakeem Jeffries",
+    "ground_truth": "Let me say, as it relates to all of those issues, we're just at the beginning. And the core promise that the administration made is that they're going to lower costs for everyday Americans. In fact, we were told that grocery prices would go down on day one. Costs aren't lower. In fact, costs are increasing. The price of eggs is skyrocketing out of control. Inflation is on the way up. That was the core promise that's been broken. With respect to immigration, listen, we have to secure the border. We have a broken immigration system, and we need to fix it in a comprehensive and bipartisan way. At the same period of time, as members of our party, we're going to protect dreamers, protect farm workers, and protect families who help our communities across the country thrive.",
+    "bio": "[target] is an American politician and attorney who has served as a Representative since 2013. A member of the Democratic Party, their district covers parts of a major metropolitan area. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Donald Trump and Republicans consistently promised that they were going to lower the high cost of living. And they've done the exact opposite. They've shown no interest in lowering costs in the country, which are too high. Housing costs are too high. Grocery costs are too high. Child care costs are too high. Utility costs are too high. The cost of living is too high in the country. This country is too expensive. But they've broken their promise. They have no interest in improving the quality of life of hardworking taxpayers. Instead, what they're trying to do, while they distract the people, is to jam the GOP tax scam down the throats of people all across this country, all in service of massive tax cuts for their billionaire donors and wealthy corporations. It's a toxic bait and switch that is underway, and we will continue to push back forcefully."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But Donald Trump's favorability rating is actually higher than it ever was the first time around. Let me ask you, a recent poll looked at several of the things that he has done or says that he is going to do, and 63% favor federal government's recognition of only two sexes, 60% favor deporting immigrants who entered the country illegally, 60% favor expanding oil and gas production, 59% favor declaring an emergency at the southern border. Is there anything you are seeing that Trump is doing that you are in favor of, that you think is the right thing?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Let me say, as it relates to all of those issues, we're just at the beginning. And the core promise that Donald Trump made is that he's going to lower costs for everyday Americans. In fact, we were told that grocery prices would go down on day one, on January 20th. Costs aren't lower. In fact, costs are increasing. The price of eggs is skyrocketing out of control. Inflation is on the way up. That was the core promise that's been broken. With respect to immigration, listen, we have to secure the border. We have a broken immigration system, and we need to fix it in a comprehensive and bipartisan way. At the same period of time, as Democrats, we're going to protect dreamers, protect farm workers, and protect families who help our communities across the country thrive."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So I'm sure you saw Speaker of the House Johnson say the Democratic Party has no leader right now. You might expect it from him to say something like that. But your colleague, Don Beyer, big supporter of yours in the House, basically said the same thing. He said, we're still looking for that national spokesperson. And it could be that [target], you, becomes that national voice. It hasn't happened yet. So are you effectively the leader of the Democratic Party nationally right now? The main spokesperson?"
+      }
+    ],
+    "speakername": "Hakeem Jeffries",
+    "ground_truth": "It's my honor to be House Democratic leader, and we're going to continue to work together in an all-hands-on-deck effort to push back against the far-right extremism that is being unleashed on this country with record philosophy. We've got to fight in the courts, push back in the Congress, and continue to push back in the community. And as House Democrats, we're doing just that, particularly as it relates to their efforts to not only jam these massive tax cuts down the throat to the American people for the wealthy, well-off, and well-connected, but they want to stick working-class Americans, middle-class Americans, and everyday Americans with the bill by effectively ending health care as we know it, hurting children, hurting women, hurting people with disabilities, hurting older Americans, hurting everyday Americans by slashing and burning Medicaid to the ground, effectively trying to stop the bill. We're trying to jam up the Affordable Care Act, and they're going to target Social Security and Medicare. We're pushing back forcefully against those efforts every day, every week, every month, every year, and that will continue.",
+    "bio": "The politician is an American politician and attorney who has served as the Representative for a district in a major northeastern state since 2013. A member of the Democratic Party, their district covers parts of a major city. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Let me say, as it relates to all of those issues, we're just at the beginning. And the core promise that the former president made is that he's going to lower costs for everyday Americans. In fact, we were told that grocery prices would go down on day one, on January 20th. Costs aren't lower. In fact, costs are increasing. The price of eggs is skyrocketing out of control. Inflation is on the way up. That was the core promise that's been broken. With respect to immigration, listen, we have to secure the border. We have a broken immigration system, and we need to fix it in a comprehensive and bipartisan way. At the same period of time, as Democrats, we're going to protect dreamers, protect farm workers, and protect families who help our communities across the country thrive."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So I'm sure you saw Speaker of the House Johnson say the Democratic Party has no leader right now. You might expect it from him to say something like that. But your colleague, Don Beyer, big supporter of yours in the House, basically said the same thing. He said, we're still looking for that national spokesperson. And it could be that [target], you, becomes that national voice. It hasn't happened yet. So are you effectively the leader of the Democratic Party nationally right now? The main spokesperson?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's my honor to be House Democratic leader, and we're going to continue to work together in an all-hands-on-deck effort to push back against the far-right extremism that is being unleashed on this country with record philosophy. We've got to fight in the courts, push back in the Congress, and continue to push back in the community. And as House Democrats, we're doing just that, particularly as it relates to their efforts to not only jam these massive tax cuts down the throat to the American people for the wealthy, well-off, and well-connected, but they want to stick working-class Americans, middle-class Americans, and everyday Americans with the bill by effectively ending health care as we know it, hurting children, hurting women, hurting people with disabilities, hurting older Americans, hurting everyday Americans by slashing and burning Medicaid to the ground, effectively trying to stop the bill. We're trying to jam up the Affordable Care Act, and they're going to target Social Security and Medicare. We're pushing back forcefully against those efforts every day, every week, every month, every year, and that will continue."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "continue. Government funding runs out in less than a month now. We've seen over the past two years, Republicans cannot or have not been able to pass government funding without Democratic support. Some of your supporters on the outside are saying you should use as leverage the possibility of a government shutdown to push back at some of what the administration is doing right now. What will you need from Mike Johnson and from the Republicans to agree to go along with efforts to fund the government? I don't know."
+      }
+    ],
+    "speakername": "Hakeem Jeffries",
+    "ground_truth": "Republicans have consistently shut down the government in the past, and it would be no surprise if they do just that this time around. As a Republican president, a Republican House, and a Republican Senate, they have a responsibility to make sure that government remains open and can function. As Democrats, with respect to any spending agreement, our view, our test is whether that spending agreement meets the needs of the American people in terms of their health, their safety, our national security, and certainly the economic well-being of everyday Americans. The top Democrat on the Appropriations Committee is in off-and-on conversations with their Republican colleague in the House, as well as our Republicans. We'll see how that unfolds over the next few weeks, but we are going to make sure that any agreement that is ultimately signed off on has to be one that meets the needs of the American people, and it has to be implemented fully in compliance with the law.",
+    "bio": "The politician has served as the U.S. Representative for a district since 2013. A member of the Democratic Party, their district covers parts of two major city boroughs. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's my honor to be House Democratic leader, and we're going to continue to work together in an all-hands-on-deck effort to push back against the far-right extremism that is being unleashed on this country with record philosophy. We've got to fight in the courts, push back in the Congress, and continue to push back in the community. And as House Democrats, we're doing just that, particularly as it relates to their efforts to not only jam these massive tax cuts down the throat to the American people for the wealthy, well-off, and well-connected, but they want to stick working-class Americans, middle-class Americans, and everyday Americans with the bill by effectively ending health care as we know it, hurting children, hurting women, hurting people with disabilities, hurting older Americans, hurting everyday Americans by slashing and burning Medicaid to the ground, effectively trying to stop the bill. We're trying to jam up the Affordable Care Act, and they're going to target Social Security and Medicare. We're pushing back forcefully against those efforts every day, every week, every month, every year, and that will continue."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "continue. Government funding runs out in less than a month now. We've seen over the past two years, Republicans cannot or have not been able to pass government funding without Democratic support. Some of your supporters on the outside are saying you should use as leverage the possibility of a government shutdown to push back at some of what the administration is doing right now. What will you need from Mike Johnson and from the Republicans to agree to go along with efforts to fund the government? I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Republicans have consistently shut down the government in the past, and it would be no surprise if they do just that this time around. As a Republican president, a Republican House, and a Republican Senate, they have a responsibility to make sure that government remains open and can function. As Democrats, with respect to any spending agreement, our view, our test is whether that spending agreement meets the needs of the American people in terms of their health, their safety, our national security, and certainly the economic well-being of everyday Americans. Rosa DeLauro is the top Democrat on the Appropriations Committee. She's in off-and-on conversations with her Republican colleague in the House, as well as our Republicans. We'll see how that unfolds over the next few weeks, but we are going to make sure that any agreement that is ultimately signed off on has to be one that meets the needs of the American people, and it has to be implemented fully in compliance with the law."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And just quickly before you go, have you had any conversations with the [government headquarters]? Have you talked to Chief of Staff Susie Wiles or the president about this?"
+      }
+    ],
+    "speakername": "Hakeem Jeffries",
+    "ground_truth": "I have not had any conversation with the [government headquarters], but I do expect that as we get closer and closer to March 14th, that those conversations will perhaps intensify. And at the end of the day, what we have been clear about is that this budget that is working its way through the House of Representatives is a non-starter. Every single Democrat opposed it a few days ago in the Budget Committee. And I believe that that will continue to be our position because it's out of control.",
+    "bio": "The target is an American politician and attorney who has served as the U.S. Representative for a district in [state] since 2013. A member of the Democratic Party, their district covers parts of an eastern metropolitan area. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

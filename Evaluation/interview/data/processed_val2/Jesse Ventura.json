@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Let's keep Cannabis local. Local companies, buy local. You'll see a local certification on all Cannabis. That means it's here, it's from our state. Buy it here, sell it here. Let's keep it all in our state. We don't need no help from no other state out there. Locally grown, locally used, and how can you think of a better local promoter than the 38th Governor?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And here he is, the 38th governor of our state. Normally, our producer Sandra and I write lead-ins for guests. We decided that you didn't need a lead-in. We just have you leading yourself in."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I guess I'll say thank you. I don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, Governor [target], tell us about your cannabis business that you're getting into."
+      }
+    ],
+    "speakername": "Jesse Ventura",
+    "ground_truth": "Well, I'm getting into the cannabis business first and foremost with Retro Bakery. First and foremost, I wanted them to be a bakery. I think it's important how the cannabis is delivered and the taste that you get from the delivery. And Retro Bakery is the best. They're locally owned. They're right in [local area]. I used to be mayor of [local area].",
+    "bio": "[target] (born James George Janos; July 15, 1951) is an American media personality, actor, author, former politician and retired professional wrestler, who served as the 38th Governor of [state] from 1999 to 2003. He was the first and only candidate of the Reform Party to win a major government position, but later joined the Green Party of the United States.\n\nHe embarked on a professional wrestling career from 1975 to 1986, taking the ring name [target] \"The Body\". He had a long tenure in the World Wrestling Federation (WWF) as a performer and color commentator, and was inducted into the WWE Hall of Fame class of 2004. In addition to wrestling, [target] pursued an acting career, appearing in films such as Predator and The Running Man (both 1987). The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I guess I'll say thank you. I don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, [target], tell us about your cannabis business that you're getting into."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm getting into the cannabis business first and foremost with [company name]. First and foremost, I wanted them to be a bakery. I think it's important how the cannabis is delivered and the taste that you get from the delivery. And [company name] is the best. They're locally owned. They're right in [location]. I used to be mayor of [location]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes, you did."
+      }
+    ],
+    "speakername": "Jesse Ventura",
+    "ground_truth": "And I love this. It's [state] all the way. We're promoting it all the way. And it's a fun time. And I'm in this business because cannabis saved my life.",
+    "bio": "The subject (born [birth name]; July 15, 1951) is an American media personality, actor, author, former politician and retired professional wrestler, who served as the 38th Governor of [state] from 1999 to 2003. They were the first and only candidate of the [political party] to win a major government position, but later joined the [political party].\n\nThey embarked on a professional wrestling career from 1975 to 1986, taking the ring name [stage name]. They had a long tenure in the [wrestling organization] as a performer and color commentator, and was inducted into the [organization] Hall of Fame class of 2004. In addition to wrestling, they pursued an acting career, appearing in films such as [film title] and [film title] (both 1987). The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm getting into the cannabis business first and foremost with a local bakery. First and foremost, I wanted them to be a bakery. I think it's important how the cannabis is delivered and the taste that you get from the delivery. And the bakery is the best. They're locally owned. They're right in a suburban area. I used to be mayor of a nearby city."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes, you did."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I love this. It's local all the way. We're promoting it all the way. And it's a fun time. And I'm in this business because cannabis saved my life."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, you testified to that. You're one of the big reasons why this is actually legal in this state because you put all your clout behind this at the legislature. Your wife had a terrible medical condition. We were talking about it earlier."
+      }
+    ],
+    "speakername": "Jesse Ventura",
+    "ground_truth": "She had developed epileptic seizure disorder at a late age. She was seizing two to three times a week. We went through the regular medical doctor system. They put her on four different pharma medications, one after the other, after the other. None of them worked in desperation.",
+    "bio": "The subject (born July 15, 1951) is an American media personality, actor, author, former politician and retired professional wrestler, who served as the governor of a midwestern state from 1999 to 2003. He was the first and only candidate of the Reform Party to win a major government position, but later joined the Green Party of the United States.\n\nHe embarked on a professional wrestling career from 1975 to 1986, taking a distinctive ring name. He had a long tenure in a major wrestling federation as a performer and color commentator, and was inducted into their Hall of Fame class of 2004. In addition to wrestling, the subject pursued an acting career, appearing in notable action films in 1987. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I love this. It's [state] all the way. We're promoting it all the way. And it's a fun time. And I'm in this business because cannabis saved my life."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, you testified to that. You're one of the big reasons why this is actually legal in [state] because you put all your clout behind this at the legislature. Your wife had a terrible medical condition. We were talking about it earlier."
+      },
+      {
+        "speaker": "[target]",
+        "text": "She had developed epileptic seizure disorder at a late age. She was seizing two to three times a week. We went through the regular medical doctor system. They put her on four different pharma medications, one after the other, after the other. None of them worked in desperation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "THE FIRST LADY THERE IN DESPERATION."
+      }
+    ],
+    "speakername": "Jesse Ventura",
+    "ground_truth": "we had to drive to [state] who had legalized and we had to illegally get it in [state] but the amazing thing was she seized in the motel the night before we got to [state] we got out there with our friends they went in three drops under the tongue of liquid my wife has not had a seizure since and this is over a decade ago",
+    "bio": "[target] (born [redacted]; July 15, 1951) is an American media personality, actor, author, former politician and retired professional wrestler, who served as the 38th Governor of [state] from 1999 to 2003. He was the first and only candidate of the Reform Party to win a major government position, but later joined the Green Party of the United States.\n\nHe embarked on a professional wrestling career from 1975 to 1986, taking the ring name [target]. He had a long tenure in the World Wrestling Federation (WWF) as a performer and color commentator, and was inducted into the WWE Hall of Fame class of 2004. In addition to wrestling, [target] pursued an acting career, appearing in films such as [film] and [film] (both 1987). The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "She had developed epileptic seizure disorder at a late age. She was seizing two to three times a week. We went through the regular medical doctor system. They put her on four different pharma medications, one after the other, after the other. None of them worked in desperation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "THE FIRST LADY THERE IN DESPERATION."
+      },
+      {
+        "speaker": "[target]",
+        "text": "we had to drive to [state] who had legalized and we had to illegally get it in [state] but the amazing thing was she seized in the motel the night before we got to [state] we got out there with our friends they went in three drops under the tongue of liquid my wife has not had a seizure since and this is over a decade ago"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That's wonderful. It's wonderful. It's so wonderful."
+      }
+    ],
+    "speakername": "Jesse Ventura",
+    "ground_truth": "And cannabis stopped them, stopped them dead cold when our medicine, traditional medicine, was helpless. And I don't want any family, especially a [state] family, to have to go through what we went through. I want it available to people. It should be available to people. And now it has the endorsement of the 38th governor. And I'm out there and, you know, you can call me what you want, but I proudly stand up for the use of cannabis. And look forward to it growing and excelling here in [state] and everybody having the opportunity to use it.",
+    "bio": "[target] (born [redacted]; July 15, 1951) is an American media personality, actor, author, former politician and retired professional wrestler, who served as the 38th Governor of [state] from 1999 to 2003. He was the first and only candidate of the Reform Party to win a major government position, but later joined the Green Party of the United States.\n\nHe embarked on a professional wrestling career from 1975 to 1986, taking the ring name [target] \"The Body\". He had a long tenure in the World Wrestling Federation (WWF) as a performer and color commentator, and was inducted into the WWE Hall of Fame class of 2004. In addition to wrestling, [target] pursued an acting career, appearing in films such as Predator and The Running Man (both 1987). The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

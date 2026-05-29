@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "hello everyone this is danny pena you're watching my youtube channel this is my latest video um interview with uh the former president of [Company] of america [target] i recorded this for gamertag radio 16th anniversary and i had a great conversation with him almost almost 50 minutes almost an hour actually and um great conversation about his life growing up growing up in [City] especially in the [District] um his career and i asked him a couple questions about [Company] and overall great interview great conversation and i can't wait to to hear your thoughts about it so whenever you get the chance post your thoughts under the comments below and make sure to share with your friends and uh yeah enjoy it can't wait for can't wait to hear your feedback about it right all right so let's go with the interview take care enjoy well first of all it's an honor to have [target] here on the show i if [target] you probably don't know about this but for so long to get you on the show uh when you used to work at [Company] and it was it was tough you're a tough guy to get on the show man book interviews you know during"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the [Company] days, you know, we had so many requests. So we would parse them out for the different executives."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And as you can expect, my list was long."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, yes."
+      }
+    ],
+    "speakername": "Reggie Fils-Aimé",
+    "ground_truth": "people who wanted to spend time with me so you know i'm glad we're able to do it now yes yes i've been enjoying listening to gamertag radio and and all the guests you've had so it's all good",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And as you can expect, my list was long."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "people who wanted to spend time with me so you know i'm glad we're able to do it now yes yes i've been enjoying listening to gamertag radio and and all the guests you've had so it's all good"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "cool cool now uh but let's let's take it back because i know you grew up in [city] i'm from [city] also uh i grew up in my hand uptown uh my dad also lived in [district] and i know you're from [district] too um how was it for you growing up in [city] man back in the early days"
+      }
+    ],
+    "speakername": "Reggie Fils-Aimé",
+    "ground_truth": "so you know uh born in [district] and i was there until i was eight years old and you know when you're a kid you you don't know what life is like other than your own little world your own little bubble and so for me and my brother you know life was all good we were we lived in a five-floor walk-up in [district] by [local park] and we had family living close by to us in [district] as well as other family in [district] and so you know as a kid it's uh it's all good until you see the uh the neighborhood uh deteriorate deteriorating around you and you know the things that you see as a kid you know one time my brother and i were mugged over 50 cents wow we would go we would go get the sunday paper for my dad we would uh go uh probably the paper was 35 cents so there'd be money left over we'd get some candy was it was the thing that my brother and i did and one day we were mugged for our 50 cents so imagine this right so now we go back up the five floor walk up and i tell this to my mother and she's incensed she's incensed that her boys were mugged so we walk back to this little corner store and uh my brother and i point out these these two you know they're probably in their teens who had mugged us for our 50 cents and then my mother proceeds to ask them for the money back and they run they take off and we proceed to follow them for about five blocks",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "people who wanted to spend time with me so you know i'm glad we're able to do it now yes yes i've been enjoying listening to gamertag radio and and all the guests you've had so it's all good"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "cool cool now uh but let's let's take it back because i know you grew up in [city] i'm from [city] also uh i grew up in my hand uptown uh my dad also lived in [neighborhood] and i know you're from [neighborhood] too um how was it for you growing up in [city] man back in the early days"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so you know uh born in [neighborhood] and i was there until i was eight years old and you know when you're a kid you you don't know what life is like other than your own little world your own little bubble and so for me and my brother you know life was all good we were we lived in a five-floor walk-up in [neighborhood] by [local] park and we had family living close by to us in [neighborhood] as well as other family in [neighborhood] and so you know as a kid it's uh it's all good until you see the uh the neighborhood uh deteriorate deteriorating around you and you know the things that you see as a kid you know one time my brother and i were mugged over 50 cents wow we would go we would go get the sunday paper for my dad we would uh go uh probably the paper was 35 cents so there'd be money left over we'd get some candy was it was the thing that my brother and i did and one day we were mugged for our 50 cents so imagine this right so now we go back up the five floor walk up and i tell this to my mother and she's incensed she's incensed that her boys were mugged so we walk back to this little corner store and uh my brother and i point out these these two you know they're probably in their teens who had mugged us for our 50 cents and then my mother proceeds to ask them for the money back and they run they take off and we proceed to follow them for about five blocks"
+      }
+    ],
+    "speakername": "Reggie Fils-Aimé",
+    "ground_truth": "They stop in front of a group of men, probably in their 20s and early 30s. And this whole drama plays out where we're asking for our 50 cents back. Long story short, we got our 50 cents back and went back to the house. But that was one clue that the neighborhood was beginning to deteriorate. And then the other clue, and I tell this story in a commencement address I delivered a few years back. In our five-floor walk-up, someone was stabbed on the roof of the building.",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "cool cool now uh but let's let's take it back because i know you grew up in [city] i'm from [city] also uh i grew up in my hand uptown uh my dad also lived in [district] and i know you're from [district] too um how was it for you growing up in [city] man back in the early days"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so you know uh born in [district] and i was there until i was eight years old and you know when you're a kid you you don't know what life is like other than your own little world your own little bubble and so for me and my brother you know life was all good we were we lived in a five-floor walk-up in [district] by [local park] and we had family living close by to us in [district] as well as other family in [district] and so you know as a kid it's uh it's all good until you see the uh the neighborhood uh deteriorate deteriorating around you and you know the things that you see as a kid you know one time my brother and i were mugged over 50 cents wow we would go we would go get the sunday paper for my dad we would uh go uh probably the paper was 35 cents so there'd be money left over we'd get some candy was it was the thing that my brother and i did and one day we were mugged for our 50 cents so imagine this right so now we go back up the five floor walk up and i tell this to my mother and she's incensed she's incensed that her boys were mugged so we walk back to this little corner bodega and uh my brother and i point out these these two you know they're probably in their teens who had mugged us for our 50 cents and then my mother proceeds to ask them for the money back and they run they take off and we proceed to follow them for about five blocks"
+      },
+      {
+        "speaker": "[target]",
+        "text": "They stop in front of a group of men, probably in their 20s and early 30s. And this whole drama plays out where we're asking for our 50 cents back. Long story short, we got our 50 cents back and went back to the house. But that was one clue that the neighborhood was beginning to deteriorate. And then the other clue, and I tell this story in a commencement address I delivered a few years back. In our five-floor walk-up, someone was stabbed on the roof of the building."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mmm."
+      }
+    ],
+    "speakername": "Reggie Fils-Aimé",
+    "ground_truth": "and proceeded to stumble out the building, leaving what started off as dime-shaped pools of blood, drops of blood. By the time the guy was on the fifth floor, it was half-dollar-sized drops of blood. The person survived, but these are all the clues that the neighborhood was going downhill. My father had been working a couple of jobs, and we moved out shortly thereafter, moved out to [suburban area]. I grew up in [town], [suburban area], so I'm a native of [city]. I think all of the learnings that I had as a kid and a teenager and young man, the tenacity, the aggressiveness, the drive, that all came from my upbringing in [district] and [suburban area].",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "They stop in front of a group of men, probably in their 20s and early 30s. And this whole drama plays out where we're asking for our 50 cents back. Long story short, we got our 50 cents back and went back to the house. But that was one clue that the neighborhood was beginning to deteriorate. And then the other clue, and I tell this story in a commencement address I delivered a few years back. In our five-floor walk-up, someone was stabbed on the roof of the building."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Mmm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and proceeded to stumble out the building, leaving what started off as dime-shaped pools of blood, drops of blood. By the time the guy was on the fifth floor, it was half-dollar-sized drops of blood. The person survived, but these are all the clues that the neighborhood was going downhill. My father had been working a couple of jobs, and we moved out shortly thereafter, moved out to the suburbs. I grew up in a suburban area, so I'm a native of the state. I think all of the learnings that I had as a kid and a teenager and young man, the tenacity, the aggressiveness, the drive, that all came from my upbringing in the city and suburbs."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. You know, when you mentioned about getting mugged, that happened to me one time at a young age too. And actually I was, I had a gaming device with me with a, with a lot of games and some, uh, some kids came up to me and, and, and they robbed me in the city too. And, uh, so hearing that story reminded me of that. Like I've been through a lot too in my life when I was living there and, um, and, but at the same time, like you said, like I learned a lot growing up there, uh, street smart business, um, networking with people. All that was because of the city, the culture, because my parents are Dominican. I know you're, you're, your family from Haiti, right? Haitian. Yeah. Yeah. So I learned a lot because of, because of the city, you know, so that's good that you brought that up. And, but also let me ask you this. Did you also discovered gaming while in the city or this was after you moved out of the city?"
+      }
+    ],
+    "speakername": "Reggie Fils-Aimé",
+    "ground_truth": "Yeah, for me, I discovered gaming when I was in the suburbs. So now, you know, I'm probably in my early teenage years. A buddy of mine had, you know, a gaming system. Another buddy had another gaming system. So early, early video games. As a teenager, I was certainly exposed to. When I went off to college, that's where I was playing a lot of pinball. You know, probably dropped a few quarters into an arcade machine here and there. But, you know, for me, in terms of console gaming, I didn't discover console gaming until I was in my late 20s, early 30s with a gaming system. That was my first home system. But, you know, played Friends system and certainly was exposed to a lot of video games. You know, in my young adult life.",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

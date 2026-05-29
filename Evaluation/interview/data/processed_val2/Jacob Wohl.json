@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "watching. I want to watch the news."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are you making headway at least?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is the news. Okay, ladies and gentlemen, I'm joined now by Doug, Doug Jones. He joins us here from [state], I believe. And he is a victim of a phenomenon known as gang stalking. He runs a channel on an online video platform where he has very many subscribers that he talks about this with and has been doing so for years now. Doug, it's great to have you on the show. Thanks so much for joining us."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Hey, appreciate you, [target]. It's great to be here, man."
+      }
+    ],
+    "speakername": "Jacob Wohl",
+    "ground_truth": "You bet. So first of all, I guess this is such a broad topic, but why don't you start at the beginning with what happened and what led you to be a victim of what's now taking place? Why don't you start at the beginning and just kind of go chronological as possible?",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "so a couple points just to that's that's a really good intro that was very in-depth uh so presumably in the mix of people who are uh who believe they're victims of gang stalking like anything else you could have a few people in there that are delusional would you agree with that"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Most definitely, yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you could definitely have some people in there that sadly, you know, think that something's happening to them. Maybe something is happening to them and maybe it's just not this even. Um, and that, that could, that could set them in the wrong direction. And then the other, the other part is you mentioned the period to 2010 and then 2010, you become aware of gang stalking."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Jacob Wohl",
+    "ground_truth": "And then there were other signs and symptoms, but then [redacted] comes out, [redacted] comes out in 2013 with all the documents and all of that.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you could definitely have some people in there that sadly, you know, think that something's happening to them. Maybe something is happening to them and maybe it's just not this even. Um, and that, that could, that could set them in the wrong direction. And then the other, the other part is you mentioned the period to 2010 and then 2010, you become aware of gang stalking."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then there were other signs and symptoms, but then [Person1] comes out, [Person1] comes out in 2013 with all the documents and all of that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Jacob Wohl",
+    "ground_truth": "that the intelligence agency basically taps into all emails, all just everything, everything that crosses the pipeline of the Internet. They plug right into the pipeline and they have it all. They don't have to decrypt it. They have backdoors given to them by all the big tech companies. What did that do for your understanding when when that all came out? How did that or maybe you and other people, because you actually have a big video platform channel and all that, so you don't speak for just yourself, but I'm sure you get hundreds of comments and all of that.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that the intelligence agency basically taps into all emails, all just everything, everything that crosses the pipeline of the Internet. They plug right into the pipeline and they have it all. They don't have to decrypt it. They have backdoors given to them by all the big tech companies. What did that do for your understanding when when that all came out? How did that or maybe you and other people, because you actually have a big online channel and all that, so you don't speak for just yourself, but I'm sure you get hundreds of comments and all of that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, what the whistleblower basically did, I mean, he really didn't expose the program. He exposed what our country is doing, which is collecting a lot of data on everyone. You know, they've got more data than they can even sift through. And this is said by the whistleblower and by a former intelligence officer. And they're using this information somehow or another, you know, to collect on everybody. So at one point, maybe they can get an AI to, you know, figure out what people may or may not do, who are good candidates for a mind control thing like this gang stalking is. But the whistleblower, he, you know, he definitely let us know that there's a lot going on."
+      },
+      {
+        "speaker": "[target]",
+        "text": "At least the machinery of the data collection, right, okay."
+      }
+    ],
+    "speakername": "Jacob Wohl",
+    "ground_truth": "So then you talk about this period. Now I have a good rough timeline with which we can work through. So at the beginning of this, when this first kicked off, what kind of things happened that you would characterize as the stocking? Because stocking can presumably take many forms. But what actually happened? How did you catch wind of it?",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So then you talk about this period. Now I have a good rough timeline with which we can work through. So at the beginning of this, when this first kicked off, what kind of things happened that you would characterize as the stocking? Because stocking can presumably take many forms. But what actually happened? How did you catch wind of it?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Stalking is not really a good term to use in this. It's really more or less sabotage. When this began, it began before I even knew it began, because what are the things that they do before they start, you know, honing in on you and doing all these crazy things to you is they do a profile. You know, it's like if you've got law enforcement that's got some guy under surveillance, they will send a guy out to that guy's home and like have a garbage truck that looks like the local garbage truck and the guys will have uniforms on that kind of matches the uniforms of local garbage truck. And on trash day, they will send that truck out going down that block and they'll pick up that target, that suspected criminal. They'll pick up this trash. It may be bad. They can pick up a few more people's trash and then they'll light out and they'll go back to headquarters and then they'll don masks, gloves, respirators and everything. And they will pick apart the target's trash, looking for DNA, looking for things that can help profile them like prescription bottles."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Anything that might be in your trash, presumably, yeah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "everything and that's a way to profile someone to get a broader picture of who it is that you're targeting and then once you find zero in on whatever it is you want to exploit whether it's a medical problem or a financial problem or a relationship problem they start honing in on these things and they'll run campaigns directed at those perceived weakness to exploit"
+      }
+    ],
+    "speakername": "Jacob Wohl",
+    "ground_truth": "Okay. And then you, so let's get in on, so this is the, now we've defined the timeline and what it can, can involve and how it begins. Um, and then the, the obvious question becomes, we're like going through, uh, what you would go through investigating a crime here. I'm just trying to figure out the fact patterns and, and go through. And then the next question is usually, okay, then what's the, uh, the motive and, and the motive has to be, uh, paid particular attention to, I think in this, because this is a, this would be a crime that it would involve a lot of resources. I mean, millions of dollars because in law enforcement investigation and, and I'm somebody myself, it's, it's well-documented who's been, uh, under investigation by law enforcement. In fact, a journalist did a freedom of information act request for my name. And law enforcement came back and said they had 24,000 documents and there was too many to even disclose. Unless they paid a $700 fee or something like that. So, so I I've, I've gotten a taste of this, but what, what, what happens is that they have a certain amount of resources they're willing to expend to do whatever it is they do, whether it's look through your trash or, or subpoena your emails or, uh, uh, conduct surveillance or what have you. And then a time comes where their supervisor comes to them and says, okay, did you find a crime? Yes or no. And if the answer is no, well, okay. Do you think you're going to find a crime soon? And if the answer is no to that, then, then they say, well, then you've got to move on because we can't keep expending money endlessly on an investigation. Um, so what, what about this warrants? Would you think, where are they coming from to want to stock slash investigate you for what is, uh, I guess would be almost approaching 20 years here pretty soon.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

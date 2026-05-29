@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'm doing well. Do you wanna start with the slide?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I'm just I guess I'll just kind of give context. These slides are really, really simple. So you don't have to think too much. Just want to give you a snapshot. So this is backstage. Capital started two and a half years ago from scratch, really started five years ago, but two and a half years ago is when I got my first investor to to join this crazy ride with me. You can find me at [target] on Twitter and Instagram. I just recently posted some photographs while I was sitting here that you might find interesting from my high school days. Okay. Oh, yeah. Yeah, this is I mean, this is my kind of tech. You know what I mean? It's a front and a back. So a small fund, but raised little by little over time and blood, sweat and tears. So raised $4 million and deployed that over 80 companies across the country in the last two and a half years. What's notable about that is that besides raising it from scratch, being the bootstrapped VC, which is almost unheard of. 78 of those companies have a woman, a person of color or an LGBT founder at the helm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that's after seeing twenty five hundred or so companies to get to that number. And that's some of them. So the people that have a backstage purple shirt on those are our team members, a crew part of them. And that's part of our portfolio. And so in the tech conference in March. So that you in photo is not very it's not what you'll find in other venture capital funds in major tech hubs or elsewhere. And I am very happy to non humbly brag about that."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Mm."
+      }
+    ],
+    "speakername": "Arlan Hamilton",
+    "ground_truth": "And then that's a picture of most of our crew in the same day. And that you will not see either in major tech hubs or elsewhere, where the crew, the team itself, including seven people in that group can make investment decisions.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Mm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then that's a picture of most of our crew in the same day. And that you will not see either in the tech hubs of the West Coast, East Coast, or elsewhere, where the crew, the team itself, including seven people in that group can make investment decisions."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So that's kind of different. So that's it, that's really it. I just like seeing those pictures. So I bring it. Follow me, stay in touch. I'll just, throughout this thing, I'll just have it on different pictures to make myself feel better about life. We'll start there."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I like to move them. I move them around."
+      }
+    ],
+    "speakername": "Arlan Hamilton",
+    "ground_truth": "I do once I learned cuz I was like I don't want I don't want slides I want to be at school no offense but I'll be at school I don't want to do anything that's like corporate man like here's four slides just take them with you and then I discovered the clicker powerful thing",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Tell me."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "how you got here. How did you dream up backstage? What was the process? What's your story?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "a big question."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's a lot. That's a story."
+      }
+    ],
+    "speakername": "Arlan Hamilton",
+    "ground_truth": "um well that um so i was raised in [city] grew up in grew up there single mother had a brother uh was always um i did well in school test wise and academically i was always honors and always head of the class and voted most likely to succeed and all that but i uh i guess what i was in high what i was in high school i should have been in college which i didn't go to which is i asked a lot of questions and i challenged uh things that were written and my question was always well just because it's written in this book why is it so and you know that's a good question for a [university] student but it's not necessarily a good question for your ninth grade",
+    "bio": " The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "how you got here. How did you dream up backstage? What was the process? What's your story?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "a big question."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's a lot. That's a story."
+      },
+      {
+        "speaker": "[target]",
+        "text": "um well that um so i was raised in [city] grew up in grew up there single mother had a brother uh was always um i did well in school test wise and academically i was always honors and always head of the class and voted most likely to succeed and all that but i uh i guess what i was in high what i was in high school i should have been in college which i didn't go to which is i asked a lot of questions and i challenged uh things that were written and my question was always well just because it's written in this book why is it so and you know that's a good question for a [university] student but it's not necessarily a good question for your ninth grade"
+      }
+    ],
+    "speakername": "Arlan Hamilton",
+    "ground_truth": "english class and the teacher just wants to get out of there right so i spent a lot of time outside so i kind of bounced around didn't go to college got accepted into some that's not cool i like that um and then um just was like this mad scientist for the first you know for the last 15 years so i um started a music magazine in my early 20s that turned into a magazine for women who like women",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Mm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it's hard for me to do all that. So I've never been a corporate type of person. It was never going to happen."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Um, so this is like, I've always tried to start my own thing. It was just, I didn't, it was always an island."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Mm."
+      }
+    ],
+    "speakername": "Arlan Hamilton",
+    "ground_truth": "You know what I mean? I didn't ever have like these groups or these networks of people that were working on something as well. I was always the odd person out.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

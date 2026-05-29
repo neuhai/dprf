@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, it says to me that Senator Sanders has run a vigorous primary campaign, that he's spent an enormous amount of time out here. He's advertised, spent his money out here."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "there's some it's striking a chord in some way correct it's striking some chord that yeah senator clinton is not doing"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I wouldn't say that. We're still winning."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "John Podesta",
+    "ground_truth": "As I said, you know, it's hard to say that she hasn't struck a chord when she's gotten three million more votes than he has. But he's run a vigorous campaign. He's done well, particularly with young people. And we're going to go back and try to convince those who have not yet voted between now and next Tuesday that they should vote for her and that, you know, she has something to offer about a future that will build an economy that's inclusive, that's taking on the interests that are locking up and rigging the economy and trying to open up opportunities for them. So that's our job. But I give him credit for, as I said, running a vigorous race and being, you know, and giving us a challenge. But we think we have met that challenge and we're going to win.",
+    "bio": "[target] (born January 8, 1949) is an American political consultant who served as Chief of Staff at the executive residence to President Clinton from October 20, 1998 until January 20, 2001 and as Counselor to President Obama from January 1, 2014 until February 13, 2015. Before that he served as the executive residence Staff Secretary and Deputy Chief of Staff for Operations for the Clinton Administration between January 20, 1993 until October 20, 1998. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I wouldn't say that. We're still winning."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "As I said, you know, it's hard to say that she hasn't struck a chord when she's gotten three million more votes than he has. But he's run a vigorous campaign. He's done well, particularly with young people. And we're going to go back and try to convince those who have not yet voted between now and next Tuesday that they should vote for her and that, you know, she has something to offer about a future that will build an economy that's inclusive, that's taking on the interests that are locking up and rigging the economy and trying to open up opportunities for them. So that's our job. But I give him credit for, as I said, running a vigorous race and being, you know, and giving us a challenge. But we think we have met that challenge and we're going to win."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "So regardless of the outcome on Tuesday Bernie Sanders has said he will stay in until the convention He will take this to the floor. I have two questions for you on that one Do you believe him and two if he does that does it hurt you?"
+      }
+    ],
+    "speakername": "John Podesta",
+    "ground_truth": "Well, look, I think that, you know, that's up to him. He can stay in. As you know, we had something of a preview of this in 2008 when the candidates went down to the wire, went to the last vote. Ultimately, he prevailed in pledged delegates. You were.",
+    "bio": "The target (born January 8, 1949) is an American political consultant who served as Chief of Staff at the executive residence to the President from October 20, 1998 until January 20, 2001 and as Counselor to the President from January 1, 2014 until February 13, 2015. Before that they served as the Staff Secretary and Deputy Chief of Staff for Operations between January 20, 1993 until October 20, 1998. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "As I said, you know, it's hard to say that she hasn't struck a chord when she's gotten three million more votes than he has. But he's run a vigorous campaign. He's done well, particularly with young people. And we're going to go back and try to convince those who have not yet voted between now and next Tuesday that they should vote for her and that, you know, she has something to offer about a future that will build an economy that's inclusive, that's taking on the interests that are locking up and rigging the economy and trying to open up opportunities for them. So that's our job. But I give him credit for, as I said, running a vigorous race and being, you know, and giving us a challenge. But we think we have met that challenge and we're going to win."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "So regardless of the outcome on Tuesday Bernie Sanders has said he will stay in until the convention He will take this to the floor. I have two questions for you on that one Do you believe him and two if he does that does it hurt you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, I think that, you know, that's up to him. He can stay in. As you know, we had something of a preview of this in 2008 when Senator Clinton and Senator Obama went down to the wire, went to the last vote. Ultimately, he prevailed in pledged delegates. You were."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "tithe on popular vote."
+      }
+    ],
+    "speakername": "John Podesta",
+    "ground_truth": "We were tied on popular vote. She understood the rules and she understood the stakes. And she, right after the last primaries, conceded the election, endorsed President Obama, asked that the convention nominate him by acclamation, campaigned hard for him because she knew that putting a Democrat in the [executive mansion] was going to be really critical. So Senator Sanders says he wants to do everything he can, seven days a week, to keep Donald Trump out of the [executive mansion]. I guess we take him at his word, but he'll have to make his decisions about what he's going to do between now and the convention. You also asked, does it hurt? I think we're going to do everything we can to unify the party. And we hope to have a partner in that. And I think we'll have other people who will work with us to try to unify the party. We hope he's one of them.",
+    "bio": "[target] (born January 8, 1949) is an American political consultant who served as [executive mansion] Chief of Staff to President Bill Clinton from October 20, 1998 until January 20, 2001 and as Counselor to President Barack Obama from January 1, 2014 until February 13, 2015. Before that he served as the [executive mansion] Staff Secretary and [executive mansion] Deputy Chief of Staff for Operations for the Clinton Administration between January 20, 1993 until October 20, 1998. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "And a bunch of people who look at that say it's because Bernie Sanders voters are right now not saying they will vote for [target]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think-"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "you will get them back."
+      }
+    ],
+    "speakername": "John Podesta",
+    "ground_truth": "Uh, yes, is the short answer to your question. I think how the longer answer to the question of on, on the polls is that, uh, Trump has consolidated, uh, his Republican side, uh, people have sort of, you know, with the exception of speaker Ryan have kind of fallen in line, uh, and decided that they, uh, you know, that, that they not withstanding everything terrible, they said about him for six months, they have to fall in line, uh, with him. Uh, in our case, I think that, uh, we, uh, both, I think, uh, need to embrace uh, what the arguments that have been successful with that group of, of, of Sanders voters, she's run a very progressive campaign. I think we can make the case strongly that the direction that she's putting forward on the economy, on education, on healthcare, et cetera, are consistent with, uh, the direction that, that, you know, we have differences, as I said, but, but they pale in comparison to the differences between, uh, secretary [target]. Uh, would you.",
+    "bio": "[target] (born January 8, 1949) is an American political consultant who served as [government building] Chief of Staff to President from October 20, 1998 until January 20, 2001 and as Counselor to President from January 1, 2014 until February 13, 2015. Before that he served as the [government building] Staff Secretary and [government building] Deputy Chief of Staff for Operations between January 20, 1993 until October 20, 1998. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Uh, yes, is the short answer to your question. I think how the longer answer to the question of on, on the polls is that, uh, Trump has consolidated, uh, his Republican side, uh, people have sort of, you know, with the exception of speaker Ryan have kind of fallen in line, uh, and decided that they, uh, you know, that, that they not withstanding everything terrible, they said about him for six months, they have to fall in line, uh, with him. Uh, in our case, I think that, uh, we, uh, both, I think, uh, need to embrace uh, what the arguments that have been successful with that group of, of, of Sanders voters, she's run a very progressive campaign. I think we can make the case strongly that the direction that she's putting forward on the economy, on education, on healthcare, et cetera, are consistent with, uh, the direction that, that, you know, we have differences, as I said, but, but they pale in comparison to the differences between, uh, secretary Clinton. Uh, would you."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Would you consider putting Bernie Sanders as a vice presidential candidate?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we're, you know, I think that I'm going to leave that to the candidate, but I think that"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "in that."
+      }
+    ],
+    "speakername": "John Podesta",
+    "ground_truth": "Look, I think there are a lot of really good choices for her, and I think we'll do what is necessary, first and foremost, to select someone who can both lead the country and help lead the country and help elect a Democratic ticket. The reason I'm asking is because it would be awfully bold.",
+    "bio": "The subject (born January 8, 1949) is an American political consultant who served as [government building] Chief of Staff to President from October 20, 1998 until January 20, 2001 and as Counselor to President from January 1, 2014 until February 13, 2015. Before that they served as the [government building] Staff Secretary and [government building] Deputy Chief of Staff for Operations between January 20, 1993 until October 20, 1998. The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

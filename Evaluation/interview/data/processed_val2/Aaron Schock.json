@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no well um you have to remember um people focus on congress but i actually was elected um when i was 19 to my local school board and i had served four years on the school board was elected to the state legislature when i was 22 as the youngest member there and served two terms there so by the time i was elected to congress at 27 i had already been in elected office for eight years and i was a little bit of used to people coming in and saying oh representative that was brilliant that was great you know and you start to you know get pretty good at seeing through the bs uh and recognizing that in politics it's a team sport everybody in the capital has an ego they ran for office they put their name out there they think pretty highly of themselves and i learned in the state legislature that the only way you pass a piece of legislation is you got to get a majority of those egos to agree with you and so you can't be the biggest ego in the room and you can't allow um you know the enemy the the the perfect to be the enemy the good you can't believe that like my idea is the best and i'm not going to be willing to modify at all or you won't ever get anything done"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You, do I get this right? You were in the state legislature."
+      },
+      {
+        "speaker": "[target]",
+        "text": "with [Senior Politician]? Yeah, he was a state senator and I was a state representative."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow. Did you know him well or no?"
+      }
+    ],
+    "speakername": "Aaron Schock",
+    "ground_truth": "I wouldn't say I knew him well. He did invite me when he was elected to the [National Legislature] to his swearing-in, and I went out there, attended the swearing-in, and then his swearing-in party, which was in one of the [National Library] buildings. And then when he was a [National Legislator] and he would travel to my legislative district as a state rep, he would invite me to join him at press conferences and the like. And then when he was elected president in 2008 and I was elected to the Congress at the same time in 2008, one of his first trips as president on [Presidential Aircraft] was promoting the stimulus bill, and he came to [Midwestern City], [State], my hometown, he came to [Corporate Headquarters] in my hometown, and he invited me to join him on [Presidential Aircraft] to fly back to my hometown, which was a pretty neat experience as a new member of Congress, really for anyone to fly with the president, but in that situation.",
+    "bio": "A former American politician who was Republican U.S. Representative for a [Midwestern State] congressional district from 2009 until 2015. He was the first member of the U.S. Congress born in the 1980s when he took his seat in 2009 and was the youngest member of Congress at that time. Previously, he had served two terms in the state legislature, also as its youngest member. He resigned from Congress in March 2015 amid a scandal involving his use of public and campaign funds. A subsequent congressional ethics investigation revealed that he used taxpayer money to fund lavish trips and events. He came out as gay in March 2020 despite having a voting record opposing LGBT rights. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "with [President]? Yeah, he was a state senator and I was a state representative."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow. Did you know him well or no?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I wouldn't say I knew him well. He did invite me when he was elected to the United States Senate to his swearing-in, and I went out there, attended the swearing-in, and then his swearing-in party, which was in one of the [government building] buildings. And then when he was a U.S. Senator and he would travel to my legislative district as a state rep, he would invite me to join him at press conferences and the like. And then when he was elected president in 2008 and I was elected to the Congress at the same time in 2008, one of his first trips as president on [presidential aircraft] was promoting the stimulus bill, and he came to [city], [state], my hometown, he came to [company] World Headquarters in my hometown, and he invited me to join him on [presidential aircraft] to fly back to my hometown, which was a pretty neat experience as a new member of Congress, really for anyone to fly with the president, but in that situation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, so for all you 27-year-olds out there wondering what you're doing with your life, what have you accomplished by the time you were 27? I'm mesmerized by the story. For those of you who don't know who we're talking to, Congressman [target], you served how long in Congress?"
+      }
+    ],
+    "speakername": "Aaron Schock",
+    "ground_truth": "So I was elected, first elected in 2008, and I was elected to four terms, and I quit in my fourth term, so six years and three months.",
+    "bio": "The [target] (born May 28, 1981) is a former American politician who was Republican U.S. Representative for [state]'s 18th congressional district from 2009 until 2015. He was the first member of the U.S. Congress born in the 1980s when he took his seat in 2009 and was the youngest member of Congress at that time. Previously, [target] had served two terms in the [state] House of Representatives, also as its youngest member.\n\nThe [target] resigned from Congress in March 2015 amid a scandal involving his use of public and campaign funds. A subsequent congressional ethics investigation \"revealed that he used taxpayer money to fund lavish trips and events\"\nHe came out as gay in March 2020 despite have a voting record opposing LGBT rights. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I wouldn't say I knew him well. He did invite me when he was elected to the [national legislature] to his swearing-in, and I went out there, attended the swearing-in, and then his swearing-in party, which was in one of the [government building] buildings. And then when he was a [national legislator] and he would travel to my legislative district as a state rep, he would invite me to join him at press conferences and the like. And then when he was elected president in 2008 and I was elected to the [national legislature] at the same time in 2008, one of his first trips as president on the presidential aircraft was promoting the stimulus bill, and he came to [hometown], my hometown, he came to [company] World Headquarters in my hometown, and he invited me to join him on the presidential aircraft to fly back to my hometown, which was a pretty neat experience as a new member of [national legislature], really for anyone to fly with the president, but in that situation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, so for all you 27-year-olds out there wondering what you're doing with your life, what have you accomplished by the time you were 27? I'm mesmerized by the story. For those of you who don't know who we're talking to, Congressman [target], you served how long in [national legislature]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So I was elected, first elected in 2008, and I was elected to four terms, and I quit in my fourth term, so six years and three months."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow, that's amazing. I'm kind of blown away by your story. And so I was kind of hoping we could talk about, this is a show about people who, you know, I like personally who have made something happen for themselves. Maybe they were self starters, or they didn't exactly have like a straight road to something. But you were a young entrepreneur, I want to kind of skip to the fact how you got elected the first time. I think it's a fascinating story. I wondered if you could tell it, kind of take your time telling that story. Because I think this is an example of thinking outside the box for those people who are young and in business and who are, you know, sometimes I get people that kind of feel a little sorry for themselves. I realized what you did was pretty amazing at a young age."
+      }
+    ],
+    "speakername": "Aaron Schock",
+    "ground_truth": "Well, I think what I find with successful people like yourself and businesses, sometimes we're just too stupid to think we could fail. And we're willing to push the limits and we're willing to see. And by the way, we fail, right? I mean, every successful person I know fails. And I think one of the problems some people have is they look at successful people and then they look at their own failures and think, well, I could never be that person because of the mistakes or the failures I've had. No, the difference between highly successful people and people who don't become highly successful is the people who are highly successful continue to learn from their failures, push through their failures, and never fail.",
+    "bio": "A former politician who was Republican representative for a [state] congressional district from 2009 until 2015. He was the first member of the [national legislature] born in the 1980s when he took his seat in 2009 and was the youngest member at that time. Previously, he had served two terms in the [state] legislature, also as its youngest member. He resigned from [national legislature] in March 2015 amid a scandal involving his use of public and campaign funds. A subsequent ethics investigation revealed that he used taxpayer money to fund lavish trips and events. He came out as gay in March 2020 despite having a voting record opposing LGBT rights. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So I was elected, first elected in 2008, and I was elected to four terms, and I quit in my fourth term, so six years and three months."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow, that's amazing. I'm kind of blown away by your story. And so I was kind of hoping we could talk about, this is a show about people who, you know, I like personally who have made something happen for themselves. Maybe they were self starters, or they didn't exactly have like a straight road to something. But you were a young entrepreneur, I want to kind of skip to the fact how you got elected the first time. I think it's a fascinating story. I wondered if you could tell it, kind of take your time telling that story. Because I think this is an example of thinking outside the box for those people who are young and in business and who are, you know, sometimes I get people that kind of feel a little sorry for themselves. I realized what you did was pretty amazing at a young age."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think what I find with successful people like yourself and businesses, sometimes we're just too stupid to think we could fail. And we're willing to push the limits and we're willing to see. And by the way, we fail, right? I mean, every successful person I know fails. And I think one of the problems some people have is they look at successful people and then they look at their own failures and think, well, I could never be that person because of the mistakes or the failures I've had. No, the difference between highly successful people and people who don't become highly successful is the people who are highly successful continue to learn from their failures, push through their failures, and never fail."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "give up yeah those people who know me know i've had some failures but it is a process of i agree with you of not giving up even when you have have failed temporarily right yeah it's a state a short-term and that's"
+      }
+    ],
+    "speakername": "Aaron Schock",
+    "ground_truth": "and that's really the the heart of my my first election story was i was an entrepreneur at heart i loved making money i loved starting businesses and i had all my high school credits a year early i was done with my my third year in high school all my high school credits i got accepted to the university of illinois accounting program i wanted to go to college early and my school board i went to public schools said i couldn't go because they were going to lose the money that our school system got in state aid which was about six thousand dollars and long story short i went to the public school board meeting i tried to write them a check for the six thousand dollars and the school system wouldn't take my money they made me take pe class my senior year i went to class for one hour to take my pe credit and i was so upset with the school board president coincidentally whose daughter was my age but and i went to middle school with but she was sending her daughter to a boarding school and in Indiana. So we weren't getting any money from the state aid for that. And it really stuck in my craw. And I thought it was, you know, a double standard that she could do for her daughter that she wouldn't do for me, which was allow me to advance in my education what was best for me. I ran against the school board president. You need petitions signed to get on the ballot. Nobody in my family had ever been in politics. My family's not a political family. And when I told my parents I was going to run for the school board, they said, you know, are you crazy? Come on, you know, stay focused on school. Don't get into politics. You're 19.",
+    "bio": "Aaron Jon Schock (born May 28, 1981) is a former American politician who was Republican U.S. Representative for Illinois's 18th congressional district from 2009 until 2015. He was the first member of the U.S. Congress born in the 1980s when he took his seat in 2009 and was the  youngest member of Congress at that time. Previously, Schock had served two terms in the Illinois House of Representatives, also as its youngest member.\\n\\nSchock resigned from Congress in March 2015 amid a scandal involving his use of public and campaign funds. A subsequent congressional ethics investigation \\\"revealed that he used taxpayer money to fund lavish trips and events\\\"\\nHe came out as gay in March 2020 despite have a voting record opposing LGBT rights. The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow, that's amazing. I'm kind of blown away by your story. And so I was kind of hoping we could talk about, this is a show about people who, you know, I like personally who have made something happen for themselves. Maybe they were self starters, or they didn't exactly have like a straight road to something. But you were a young entrepreneur, I want to kind of skip to the fact how you got elected the first time. I think it's a fascinating story. I wondered if you could tell it, kind of take your time telling that story. Because I think this is an example of thinking outside the box for those people who are young and in business and who are, you know, sometimes I get people that kind of feel a little sorry for themselves. I realized what you did was pretty amazing at a young age."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think what I find with successful people like yourself and businesses, sometimes we're just too stupid to think we could fail. And we're willing to push the limits and we're willing to see. And by the way, we fail, right? I mean, every successful person I know fails. And I think one of the problems some people have is they look at successful people and then they look at their own failures and think, well, I could never be that person because of the mistakes or the failures I've had. No, the difference between highly successful people and people who don't become highly successful is the people who are highly successful continue to learn from their failures, push through their failures, and never fail."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "give up yeah those people who know me know i've had some failures but it is a process of i agree with you of not giving up even when you have have failed temporarily right yeah it's a state a short-term and that's"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and that's really the the heart of my my first election story was i was an entrepreneur at heart i loved making money i loved starting businesses and i had all my high school credits a year early i was done with my my third year in high school all my high school credits i got accepted to the university of illinois accounting program i wanted to go to college early and my school board i went to public schools said i couldn't go because they were going to lose the money that our school system got in state aid which was about six thousand dollars and long story short i went to the public school board meeting i tried to write them a check for the six thousand dollars and the school system wouldn't take my money they made me take pe class my senior year i went to class for one hour to take my pe credit and i was so upset with the school board president coincidentally whose daughter was my age but and i went to middle school with but she was sending her daughter to a boarding school and in Indiana. So we weren't getting any money from the state aid for that. And it really stuck in my craw. And I thought it was, you know, a double standard that she could do for her daughter that she wouldn't do for me, which was allow me to advance in my education what was best for me. I ran against the school board president. You need petitions signed to get on the ballot. Nobody in my family had ever been in politics. My family's not a political family. And when I told my parents I was going to run for the school board, they said, you know, are you crazy? Come on, you know, stay focused on school. Don't get into politics. You're 19."
+      }
+    ],
+    "speakername": "Aaron Schock",
+    "ground_truth": "so they weren't going to help me so i went door to door by myself i got 250 signatures you need 200 to get it on the ballot i filed them myself a week later a sheriff's deputy shows up on my doorstep with a summons to appear in court and i thought what i get myself into the school board president had hired an attorney to challenge my petitions on the basis of people using ditto marks so the husband would sign one two three main street city peoria state of illinois the wife would sign one two three and they put ditto marks under state of illinois whatever election",
+    "bio": "Aaron Jon Schock (born May 28, 1981) is a former American politician who was Republican U.S. Representative for Illinois's 18th congressional district from 2009 until 2015. He was the first member of the U.S. Congress born in the 1980s when he took his seat in 2009 and was the  youngest member of Congress at that time. Previously, Schock had served two terms in the Illinois House of Representatives, also as its youngest member.\\n\\nSchock resigned from Congress in March 2015 amid a scandal involving his use of public and campaign funds. A subsequent congressional ethics investigation \\\"revealed that he used taxpayer money to fund lavish trips and events\\\"\\nHe came out as gay in March 2020 despite have a voting record opposing LGBT rights. The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm going to start"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It was good."
+      },
+      {
+        "speaker": "[target]",
+        "text": "thought I would like"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "i don't i my this is my valuation not his so just don't it's probably worth 10 15 billion dollars at least"
+      }
+    ],
+    "speakername": "Nikhil Kamath",
+    "ground_truth": "I mean, it depends on how optimistic or pessimistic one is. I am very optimistic, sir. You can be a hundred. Our business is such that we are very cyclical and if the markets do not do well, we don't do well as well. So we keep it at like, you know, maybe half of what you're saying.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I have that much... Siddhism. Siddhi Patriot."
+      },
+      {
+        "speaker": "[target]",
+        "text": "country of its own i think it would find very many loyalists out there [city] has given us so much and it's just such a lovely place to kind of like people are not as money-minded in [city] as they are in many other cities in india i think on a relative basis it's a society where everybody cares about being conscientious kind of like contributing if you look at all the philanthropy that is done in india i don't know the number for sure but i'm certain a vast majority would probably come from [city]"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So been in [city] for 28 years"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "When you were 7 years old, which school did you go to?"
+      }
+    ],
+    "speakername": "Nikhil Kamath",
+    "ground_truth": "Initially in [state], I went to [school name], came back to [city], joined a school called the [school name].",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Till now, there was no, like, you were also expected to maximum do what? Become doctor, engineer, CA."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So we're from a traditional family, both parents are from the same community, all our cousins are, you know, like PhDs and MS and I mean, if somebody is just an engineer would probably be a bad thing. Oh, yeah. I mean, the engineer would probably be looked on upon on a relative sense."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Went to school in a southern city, was never really good at academics."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How many students were there in your class? Do you remember the rank of the report card?"
+      }
+    ],
+    "speakername": "Nikhil Kamath",
+    "ground_truth": "like in around 7th 8th 9th i remember i quit school very early i didn't finish after the 10th i did not go to school i started working i tried a bunch of things i went to a school where i had a friend from a business community so we started a medical store",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I mean what was happening? Were you telling them in grade 8 and 9 that I don't want to do this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I wasn't saying it, but I think my teachers were telling them, they were saying"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "What did you eat?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I don't think, I was always very naughty, playing pranks. You? Yeah."
+      }
+    ],
+    "speakername": "Nikhil Kamath",
+    "ground_truth": "You're so soft spoken and so gentleman like. You were naughty. I mean, I think we all at some level believe we are naughty. On a relative basis, I might not really have been. No, but the teacher is telling the parents.",
+    "bio": "The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "had to go through, then, you know, people said, what are you doing? The boy has gone mad. I mean, literally, that's what people will say. Have you gone mad?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, literally, that's what people will say, have you gone mad? Yeah, from what I can remember, normally when kids go to like first POC, that's what they call it in [state], but like 11th grade in [city], that's when somewhere in between that grade is when I got my full time job at a call centre. That was after, you know, I used to sell you cell phones, that pharmacy I told you about, laundry store I told you about, all of that was done. It might sound like hard to believe today, but 8000 rupees back then was a lot of money."
+      },
+      {
+        "speaker": "[target]",
+        "text": "for a 17 year old boy or 18 year old boy where you don't have to pay house rent and you don't really have very many expenses outside of the petrol your phone bill and you know your basic eating and stuff like that eight thousand rupees was a lot of money uh this was the time when call centers were really booming yes [city] was the hub which"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "17 years back right, early 2000s, I wrote that book one night at a call centre because it was such a big thing"
+      }
+    ],
+    "speakername": "Nikhil Kamath",
+    "ground_truth": "yeah so i joined this call center which was called [company] in a road called [location] in [city] when i joined it had x number of employees and the two two and a half years i spent there the employee strength multiplied you know like 10 times 20 times so not by virtue of skill but by virtue of being in the right place in a way they promoted you and your salary went up i mean it didn't go up tremendously but 8 000 at the end of maybe a couple of years two two and a half years had become 30 000 40 000 by then in my parents you know like it's a strange thing to say but somebody goes to a medical college i'm talking not about today but of that era of that era 18 years ago a doctor would get paid 30 40 000 an engineer would get paid at 30 40 000 a bank employer would get paid 30 40 000 a bank employer would get paid 30 40 000 a bank employer senior one a government employee would get paid the same so i think at some level beyond that time when i was 19 when i turned 20 because i was making a certain amount of money and my classmates from school they were still in college and i would console myself thinking once they become doctors they will come out and anyways they'll earn the same money when i look back at it probably a stupid way to look at it because you know i have a ceiling and they did not and that's just the starting pay that that profession begins in yeah but it began like that i had started trading at age 17 when i got my call center job i used to do the uk shift so that's like 5 p.m to 1 30 a.m i would sell accidental health insurance for a company called [company] it's a really funny job you walk in they would try to teach you how to sound british then they would accent training yeah",
+    "bio": " The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

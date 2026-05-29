@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I see. Thank you. So I stand corrected. Okay. So at this stage, I would like you to say a few words about your early life. Okay. And we can take it from there. Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "As you just indicated, I was born in [major city] and lived my early life in [major city]. When I was seven, my father and mother separated, which is not so common in those days. Both my brother and I were brought up by my grandmother, who played a very significant role in my early life. I continued to go to school in [major city]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and when I graduated from high school I went to the U.S. and I was in the U.S. for about 10 years. I went to [university] from where I graduated as an architect and then moved to [west coast city] because I never got used to the cold weather."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Ratan Tata",
+    "ground_truth": "Moved to [west coast city] and worked there in an architect's office for about three years. And then came back to [country] because my grandmother was ill and that changed my whole life.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So, I was going to come back to that. Your history starting from the college, we can come back to that."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But I wanted to spend a little more time on your childhood. As you mentioned, you were raised by your grandmother. What was your childhood like and what were, were there any mentors and special teachers that you remember?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "As I mentioned, my grandmother was probably the most influential force that existed at that time. We lived in a large house which my grandfather built but never lived to see finished. He had a hobby of collecting art. The house was meant to be his private museum. But as he didn't finish it, most of his collections are in a major city museum. My grandmother was a very interesting person. She was a titled lady. She was a very disciplined person, very intent on making sure that she lived a life with dignity. She made my brother and me follow the same stringent codes, if you might. I see. We were often... ...ashamed of some of the trippings that we had as the two sons of a very affluent family. Yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I remember, for example, when going to school in the city, my grandmother used to have a huge luxury car, which was quite old at that time, and it would embarrass my brother and me to be seen in that, so we'd walk home and the car would follow us."
+      }
+    ],
+    "speakername": "Ratan Tata",
+    "ground_truth": "because it was so ostentatious so we had many issues like that in my early days that they were very happy days because she was very understanding and and yet very demanding so we lived a life of luxury we went spent three or four months in in a foreign country they she and her husband had a huge estate in a major city which I have promised the local Council which now owns the place to go and visit but have not as yet done so",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, to sum up, it was a very nice and reminiscent of good times, childhood that we had. I see. And she was probably the most significant force at that time."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So in terms of it is such a fantastic legacy of the [target]'s, were you exposed to the values of the [target]'s in your early life?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I can't answer that consciously, but I am sure we were exposed to it, because they, my father, my grandmother and everybody lived by those standards, but it was not consciously imposed on us. The legacy of being fair to all, tremendously strong legacy of equality among, we were never a family that shouted at our servants or treated them like dirt or, there was a great deal of equity in terms of how we treated them and most of the people that worked for my grandmother and my father. Served them for 40 years or 50 years as the case might be."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Bye."
+      }
+    ],
+    "speakername": "Ratan Tata",
+    "ground_truth": "So, I would imagine the underlying thing was never to do anything that would bring shame to the family.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I can't answer that consciously, but I am sure we were exposed to it, because they, my father, my grandmother and everybody lived by those standards, but it was not consciously imposed on us. The legacy of being fair to all, tremendously strong legacy of equality among, we were never a family that shouted at our servants or treated them like dirt or, there was a great deal of equity in terms of how we treated them and most of the people that worked for my grandmother and my father. Served them for 40 years or 50 years as the case might be."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Bye."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, I would imagine the underlying thing was never to do anything that would bring shame to the family."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So when were you exposed to, for example, the life of [target's ancestor]? Do you remember when you learned about his contributions and his legacy?"
+      }
+    ],
+    "speakername": "Ratan Tata",
+    "ground_truth": "My grandmother would have been the only person that, when we were young, who had met and lived in the presence of [target's ancestor], because [family member] was his younger son. So she, in her early days of marriage, they lived in [historic house], which is [target's ancestor]'s home.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, I would imagine the underlying thing was never to do anything that would bring shame to the family."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So when were you exposed to, for example, the life of [historical figure]? Do you remember when you learned about his contributions and his legacy?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My grandmother would have been the only person that, when we were young, who had met and lived in the presence of [historical figure], because [family member] was his younger son. So she, in her early days of marriage, they lived in [historic mansion], which is [historical figure]'s home."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yes."
+      }
+    ],
+    "speakername": "Ratan Tata",
+    "ground_truth": "And she used to talk of [historical figure] at some length but somewhat superficially. The only thing I remember was that she said you couldn't take your eyes away from his eyes. She kept on saying that he had penetrating eyes and apart from that she didn't talk very much. I suppose in those days a young bride was a young bride and not much interface.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

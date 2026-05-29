@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "With this kind of entertainment, how many days a year do you get at home?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I get home now, since I've been in the capital city, on average once a month. I try to get home at least once to one weekend a month."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], one reporter who took a very long look at [target] suggested that in a choice between power and money, you'd always choose power. Was he right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Not for myself, I would not, I don't need any additional power than I have."
+      }
+    ],
+    "speakername": "Jimmy Hoffa",
+    "ground_truth": "But if it came a question of power as against money, certainly I would select power. Because out of having additional power, it gives us the ability to get for our members additional economic gains. Nobody in this country respects what's weak. You believe me. If you see a beggar on a corner with his hat in his hand, nobody respects him. Dress the same man up. Give him an air of dignity, and he can command respect. The same thing applies to this union. If we lived in a basement instead of this magnificent building here, and we were broke and had no money instead of the money we have today, employers would be prone to fight us. But because we are financially solid, because we do have an organization that is equipped to handle any situation that we face. And it comes in front of us.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "All right, what's your..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "now."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The man don't have an ego. He don't have any money and he doesn't have any ambition. Certainly I got an ego."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How large of an ego? Ego-maniacs?"
+      }
+    ],
+    "speakername": "Jimmy Hoffa",
+    "ground_truth": "to do the job that I want to do, which means you have to have an imagination. And if you don't have an imagination, then you'll be working for somebody the rest of your life. Imagination goes in our business, the middle business, as the innovations of new ideas for the labor unions, like pension, welfare, general eyeglass, the whole shot. When you talk about feisty, of course, what the hell do you think? Somebody's going to push me? I don't get pushed. And if that's feisty, of course, if somebody argues with me, I take them on. If somebody wants to wrestle with me, I take them on, too. How old are you now? Sixty.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to do the job that I want to do, which means you have to have an imagination. And if you don't have an imagination, then you'll be working for somebody the rest of your life. Imagination goes in our business, the middle business, as the innovations of new ideas for the labor unions, like pension, welfare, general eyeglass, the whole shot. When you talk about feisty, of course, what the hell do you think? Somebody's going to push me? I don't get pushed. And if that's feisty, of course, if somebody argues with me, I take them on. If somebody wants to wrestle with me, I take them on, too. How old are you now? Sixty."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Sixty-two. Sixty-two. You think in the last 20 years you've become feistier?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Mellow?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Back in the residential area here."
+      }
+    ],
+    "speakername": "Jimmy Hoffa",
+    "ground_truth": "You've mellowed it with old age. No, I wouldn't say I've mellowed it. I would just say I've got more common sense than I have before. I used to like anybody. Now I select who I take on.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Mellow?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Back in the [location] here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You've mellowed it with old age. No, I wouldn't say I've mellowed it. I would just say I've got more common sense than I have before. I used to like anybody. Now I select who I take on."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "In 1963, when Playboy interviewed you in the [organization] in [location], they asked you how much you were worth. They never interviewed me. Yeah, they didn't. October of 63, the interview appeared. I can't remember anything. And your comment was, that's what [name] trying to find out, and you laughed. No. You were talking about your wife."
+      }
+    ],
+    "speakername": "Jimmy Hoffa",
+    "ground_truth": "I would say I won't add on if I have a tag day. I think I'll be able to eat, live comfortable for the rest of my life, but so far as what I have, let it speak for itself, it's been in the purse.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "In 1963, when a magazine interviewed you in the government office in the capital, they asked you how much you were worth. They never interviewed me. Yeah, they didn't. October of 63, the interview appeared. I can't remember anything. And your comment was, that's what the president's trying to find out, and you laughed. No. You were talking about your wife."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I would say I won't add on if I have a tag day. I think I'll be able to eat, live comfortable for the rest of my life, but so far as what I have, let it speak for itself, it's been in the purse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "millionaire"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I would say."
+      }
+    ],
+    "speakername": "Jimmy Hoffa",
+    "ground_truth": "Billionaire? I don't care to comment on it. Zillionaire? I don't care to comment on it. That's one of your favorite terms, isn't it? Just say that I have sufficient money.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

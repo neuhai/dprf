@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "SPEAKER_01, how did that come about? Well, he was on my show a few times and he made good brownies and"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wait, wait, wait a minute."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Introduce me to..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "with SPEAKER_01"
+      }
+    ],
+    "speakername": "Martha Stewart",
+    "ground_truth": "Oh, I did. Yeah, green ones. And he was very pleasant and an intelligent man. I had no idea how old SPEAKER_01 was until I started the show with him. Somebody's brilliant idea in the entertainment industry that SPEAKER_01 and [target] would get an interesting audience on a music channel, which we have. We've just been renewed, I think, for our third season. But he was like 45 years old when I started the show with him. I thought he was like 60, because he's like an old soul. And he's very funny.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Introduce me to..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "with snoop"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I did. Yeah, green ones. And he was very pleasant and an intelligent man. I had no idea how old Snoop was until I started the show with him. Somebody's brilliant idea in the entertainment industry that Snoop and [target] would get an interesting audience on a music channel, which we have. We've just been renewed, I think, for our third season. But he was like 45 years old when I started the show with him. I thought he was like 60, because he's like an old soul. And he's very funny."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "From the first time you met him?"
+      }
+    ],
+    "speakername": "Martha Stewart",
+    "ground_truth": "We always, I hit it off with all the rappers. I don't, I like rap and I also like to, I like to know about a lot of things. I'm a curious person. So I have learned a tremendous amount about [local area] growing up out there and we've driven through [local area].",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "with snoop"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I did. Yeah, green ones. And he was very pleasant and an intelligent man. I had no idea how old Snoop was until I started the show with him. Somebody's brilliant idea in a major entertainment city that Snoop and [target] would get an interesting audience on VH1, which we have. We've just been renewed, I think, for our third season. But he was like 45 years old when I started the show with him. I thought he was like 60, because he's like an old soul. And he's very funny."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "From the first time you met him?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We always, I hit it off with all the rappers. I don't, I like rap and I also like to, I like to know about a lot of things. I'm a curious person. So I have learned a tremendous amount about [urban area] growing up out there and we've driven through [urban area]."
+      }
+    ],
+    "speakername": "Martha Stewart",
+    "ground_truth": "I made him take me to where he was born, and you get to learn a lot. It's a culture merge, really, the whole show.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "From the first time you met him?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We always, I hit it off with all the rappers. I don't, I like rap and I also like to, I like to know about a lot of things. I'm a curious person. So I have learned a tremendous amount about [location] growing up out there and we've driven through [location]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I made him take me to where he was born, and you get to learn a lot. It's a culture merge, really, the whole show."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I feel like that's what you are about, though. You're very curious, and I feel like whether you're cooking, gardening, whatever."
+      }
+    ],
+    "speakername": "Martha Stewart",
+    "ground_truth": "Yeah, very curious, I wanna know a lot. And I never stop reading, I never stop investigating, I never stop asking questions and trying new things. And this is a new thing.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I made him take me to where he was born, and you get to learn a lot. It's a culture merge, really, the whole show."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I feel like that's what you are about, though. You're very curious, and I feel like whether you're cooking, gardening, whatever."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, very curious, I wanna know a lot. And I never stop reading, I never stop investigating, I never stop asking questions and trying new things. And this is a new thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Here's a pretty impressive number. Your brand reaches about 100 million consumers across all media and merchandising platforms each month. More than 4 million Twitter followers, 1.7 million on Instagram. There's the [target] blog. There's so much out there. When you started out, go back to the 1970s in [location] and your catering company, did you have any idea that you wanted to build a brand?"
+      }
+    ],
+    "speakername": "Martha Stewart",
+    "ground_truth": "I think every entrepreneur in the room would know that you don't know what it's really going to turn out to be when you start it, unless it's a family-owned business that already has a momentum. So you don't know when you start what it's going to actually be. And I had no idea that [target] would become this, you know, synonymous with a brand. And living a brand is, my brand is me and I'm the brand. And so it's kind of a, you know, it's just now it's a simple thing. I just assume that everybody knows me by my name. And it's true. I walk down the street from the back and the back of my head doesn't matter. Hi, [target], you know, and driving through any neighborhood, I will be recognized.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

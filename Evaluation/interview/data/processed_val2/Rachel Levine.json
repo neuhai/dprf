@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We certainly think that she's doing a great job increasing testing, working on appropriate isolation and contact tracing and quarantine, but also completely agree with her and the county commissioners in terms of the alcohol ban in restaurants and bars in order to do a targeted mitigation to prevent the spread."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "There's some complaint, as you might imagine, from the restaurant community doesn't feel that banning alcoholic drinks at table is an appropriate step. Your opinion?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we agree with everything that Dr. Bogan with the county commissioners have done. We feel that it's actually quite a surgical mitigation effort, as opposed to a widespread going back to yellow or something like that. So we think it was well done, and we are hopeful it will be effective."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Do you believe that we can stay in the green phase and still arrest this virus if the populace follows the safety protocols of washing, masking, and maintaining social distance?"
+      }
+    ],
+    "speakername": "Rachel Levine",
+    "ground_truth": "Yes, although I want to emphasize the if. It is very important, very important for people to take this very seriously, to stay alert and to stay vigilant. We need everyone to wear these masks when they go outside. If they're going to be in the public in any way, so they are on the street, they need to wear masks. If they're in a business, they need to wear masks. If they're in a park where there's other people about, even though it's outside, they need to wear a mask. They need to practice social distancing and stay six feet apart. They need to wash their hands and use hand sanitizer. From the data that Dr. Bogan has and that we have, really this outbreak is being driven by particularly young people who were out at night and they were out and socializing without masks, without social distancing. And that is, as we've seen, extremely dangerous and is leading to this outbreak that we're seeing. We need people to change their behavior.",
+    "bio": "The speaker (born 1957) is an American pediatrician who has served as a state Secretary of Health since 2017. They are a Professor of Pediatrics and Psychiatry at a state medical college, and previously served as the state Physician General (2015-2017). They've been nominated by the administration to be Assistant Secretary for Health. The speaker would be the first openly transgender federal official to be confirmed by the Senate. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you for inviting me. I'm pleased to be here."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I do want to give them a plug, [target], because I think you would agree that I've lived and worked in other states, and I think that we have some of the finest health care systems. When you talk about getting the state out in front of this thing, out in front of this pandemic, how much has that contributed? Having regional medical centers, having state health systems, how much has that helped us stay ahead where maybe other states have fallen behind?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, right now, of course, at the federal health department, we're focusing on health equity. Healthy People 2030 defines health equity as the highest attainment of health for all people. And that really informs, under the Secretary, much of our work at the department. So we are working, for example, on the impacts of climate change on health with a new Office of Climate Change and Health Equity. We're working on environmental justice. The impacts of long COVID on communities and populations, again, with that health equity lens. Food and nutrition security, and much more."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are there other issues that you want to tackle that you think should be really something that we should focus on?"
+      }
+    ],
+    "speakername": "Rachel Levine",
+    "ground_truth": "Well, we are absolutely focusing on the impacts of climate change on health. And we have seen that in the United States and around the world. That can be extreme heat. It can be fires with the resulting smoke that we saw for the first time ever in major metropolitan areas, sea level rise, and storms that are exacerbated by climate change. And of course the health impacts are with those same vulnerable communities that have health disparities in terms of other issues. So our new Office of Climate Change and Health Equity with its sister office, Environmental Justice, is looking at that at the department and really working across the government. We're going to the international climate conference in the Middle East to work on this globally as well.",
+    "bio": "Born in 1957, the speaker is an American pediatrician who has served as a state Secretary of Health since 2017. They are a Professor of Pediatrics and Psychiatry at a state medical college, and previously served as the state Physician General (2015-2017). They've been nominated by the President to be Assistant Secretary for Health. The speaker would be the first openly transgender federal official to be confirmed by the Senate. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, right now, of course, at the federal health department, we're focusing on health equity. Healthy People 2030 defines health equity as the highest attainment of health for all people. And that really informs, under the Secretary, much of our work at the department. So we are working, for example, on the impacts of climate change on health with a new Office of Climate Change and Health Equity. We're working on environmental justice. The impacts of long COVID on communities and populations, again, with that health equity lens. Food and nutrition security, and much more."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are there other issues that you want to tackle that you think should be really something that we should focus on?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we are absolutely focusing on the impacts of climate change on health. And we have seen that in the country and around the world. That can be extreme heat. It can be fires with the resulting smoke that we saw for the first time ever in two major east coast cities, sea level rise, and storms that are exacerbated by climate change. And of course the health impacts are with those same vulnerable communities that have health disparities in terms of other issues. So our new Office of Climate Change and Health Equity with its sister office, Environmental Justice, is looking at that at the department and really working across the government. We're going to the climate conference in the Middle East to work on this globally as well."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And so as being here at the public health meeting and expo, is that one of the reasons why you're here is really to raise awareness about this, but also to collaborate with others?"
+      }
+    ],
+    "speakername": "Rachel Levine",
+    "ground_truth": "That's exactly right. So the public health association is such a fantastic organization and its meeting is so large with thousands and thousands of members. It's a great opportunity to collaborate, to talk about these type of ideas. And during the opening session, I talked about a program that we're advancing called People and Places Thriving. People and Places Thriving. And it really looks at many of the issues we're looking at with a new lens, a new lens of the vital conditions of wellbeing and justice. And this is something that's across the department, but actually across the federal government. And I was very pleased to introduce this topic and this program and initiative.",
+    "bio": "The speaker (born 1957) is an American pediatrician who has served as a state Secretary of Health since 2017. They are a Professor of Pediatrics and Psychiatry at a state medical college, and previously served as the state Physician General (2015-2017). They've been nominated by the President to be Assistant Secretary for Health. The speaker would be the first openly transgender federal official to be confirmed by the Senate. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And so as being here at the professional health association meeting and expo, is that one of the reasons why you're here is really to raise awareness about this, but also to collaborate with others?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's exactly right. So the professional health association is such a fantastic organization and its meeting is so large with thousands and thousands of members. It's a great opportunity to collaborate, to talk about these type of ideas. And during the opening session, I talked about a program that we're advancing called People and Places Thriving. People and Places Thriving. And it really looks at many of the issues we're looking at with a new lens, a new lens of the vital conditions of wellbeing and justice. And this is something that's across the health department, but actually across the federal government. And I was very pleased to introduce this topic and this program and initiative."
+      },
+      {
+        "speaker": "[target]",
+        "text": "at the professional health association today."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So that's amazing that you were able to introduce it here. And I imagine that that's something that, like you said, you're gonna focus on and you want to make that a priority, right?"
+      }
+    ],
+    "speakername": "Rachel Levine",
+    "ground_truth": "We do, that is going to be a priority for our office of the Assistant Secretary for Health, but working across the health department.",
+    "bio": "The speaker (born 1957) is an American pediatrician who has served as a state Secretary of Health since 2017. They are a Professor of Pediatrics and Psychiatry at a state medical college, and previously served as the state Physician General (2015-2017). They've been nominated by the President to be Assistant Secretary for Health. The speaker would be the first openly transgender federal official to be confirmed by the Senate. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "at public health conference today."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So that's amazing that you were able to introduce it here. And I imagine that that's something that, like you said, you're gonna focus on and you want to make that a priority, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We do, that is going to be a priority for our office of the Assistant Secretary for Health, but working across the health department."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And so, do you have anything you want to say to those that are in the public health sector or those that may watch this? What do they need to know about anything going forward?"
+      }
+    ],
+    "speakername": "Rachel Levine",
+    "ground_truth": "Well, the impacts of COVID-19 have been so significant and the acute impacts of COVID-19. And they have shown us the depth and breadth of the health disparities that exist in our nation, particularly for communities of color, but also for other communities, for example, the LGBTQI plus community. And so, you know, we have to address those health disparities. We have to take this health equity lens. I'm a positive and optimistic person, and I think working together with federal, state, local public health officials, internationally as well, that we can address the challenges that we face now and in the future.",
+    "bio": "The speaker (born 1957) is an American pediatrician who has served as a state Secretary of Health since 2017. They are a Professor of Pediatrics and Psychiatry at a state medical college, and previously served as the state Physician General (2015-2017). They've been nominated by the administration to be Assistant Secretary for Health. The speaker would be the first openly transgender federal official to be confirmed by the Senate. The speaker's MBTI type is INFP",
+    "split": "val"
+  }
+]

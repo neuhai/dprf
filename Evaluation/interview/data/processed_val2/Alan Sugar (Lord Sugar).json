@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You liked it when I first had an idea."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Ah, no."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I know this is not for me. I'm got no first of all. I haven't got the patience secondly. I would be I would definitely whack the interviewer"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That might be a popular platform to stand on, wouldn't it?"
+      }
+    ],
+    "speakername": "Alan Sugar (Lord Sugar)",
+    "ground_truth": "No, he's a nice enough fella, but he would just wind me up and I would whack him, mate. I don't think that is the way you would go about it. No, that's not the way. This is not for me.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I know this is not for me. I'm got no first of all. I haven't got the patience secondly. I would be I would definitely whack the interviewer"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That might be a popular platform to stand on, wouldn't it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, he's a nice enough fella, but he would just wind me up and I would whack him, mate. I don't think that is the way you would go about it. No, that's not the way. This is not for me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I know you know yourself, and you know what you want to do, and that's part of what's made you such a success. The show is back, kind of. It's not back... The full show isn't back just yet. This is a new version we have. Now, before we talk about this thing, this has been delayed because of the election. Is that right? That seems weird. What was the story there? What's going on there? I can see you like talking about it."
+      }
+    ],
+    "speakername": "Alan Sugar (Lord Sugar)",
+    "ground_truth": "Now, this is really, you know, it just winds me up talking about this. Look, there's some bloke... When it was announced that I was going to go into the government chamber and become a government adviser, not a minister or anything to do with that, there's some fellow from the political party, a politician... LAUGHTER He... LAUGHTER He comes from... Well-placed, sir. Well-pronounced. No, from what I know, he comes from a long line of similar names, I think.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, he's a nice enough fella, but he would just wind me up and I would whack him, mate. I don't think that is the way you would go about it. No, that's not the way. This is not for me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I know you know yourself, and you know what you want to do, and that's part of what's made you such a success. The TV show is back, kind of. It's not back... The full show isn't back just yet. This is a new version we have. Now, before we talk about this thing, this has been delayed because of the election. Is that right? That seems weird. What was the story there? What's going on there? I can see you like talking about it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now, this is really, you know, it just winds me up talking about this. Look, there's some bloke... When it was announced that I was going to go into the government chamber and become a government adviser, not a minister or anything to do with that, there's some fellow from the political party, Jeremy Hunt... LAUGHTER He... LAUGHTER He comes from... Well-placed, sir. Well-pronounced. No, from what I know, he comes from a long line of Hunts, I think."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We'll be right back."
+      }
+    ],
+    "speakername": "Alan Sugar (Lord Sugar)",
+    "ground_truth": "Oh, there's no question of that. I mean, the fact that he's been able to get an audience with people like the buyers at major supermarket chains and all that stuff, the fact that he's associated with me, you know, will get him an audience with those people. So, yeah, it has been useful, yeah. Yeah, absolutely.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Now, this is really, you know, it just winds me up talking about this. Look, there's some bloke... When it was announced that I was going to go into the legislative chamber and become a government adviser, not a minister or anything to do with that, there's some fellow from the political party, [Person]... LAUGHTER He... LAUGHTER He comes from... Well-placed, sir. Well-pronounced. No, from what I know, he comes from a long line of [Person]s, I think."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, there's no question of that. I mean, the fact that he's been able to get an audience with people like the buyers at [Store1] and [Store2] and all that stuff, the fact that he's associated with me, you know, will get him an audience with those people. So, yeah, it has been useful, yeah. Yeah, absolutely."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in a similar way to [Person] in The Source, in The Source it says."
+      }
+    ],
+    "speakername": "Alan Sugar (Lord Sugar)",
+    "ground_truth": "yeah i mean there's a there's a bit of a funny story there i think which uh saucy story so to speak i don't think that actually went as well as people would like you to believe or the broadcasting company would like you to believe i think he got i think the truth of the matter is he got legged over in the end and and and it's got nothing to do with him anymore",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, there's no question of that. I mean, the fact that he's been able to get an audience with people like the buyers at [retail chain] and [retail chain] and all that stuff, the fact that he's associated with me, you know, will get him an audience with those people. So, yeah, it has been useful, yeah. Yeah, absolutely."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in a similar way to [business person] in The Source, in The Source it says."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah i mean there's a there's a bit of a funny story there i think which uh saucy story so to speak i don't think that actually went as well as people would like you to believe or the [media company] would like you to believe i think he got i think the truth of the matter is he got legged over in the end and and and it's got nothing to do with him anymore"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "If you would give up your day job and if the [political party] won the next election and made you Prime Minister, what would you do to get this country back on its feet?"
+      }
+    ],
+    "speakername": "Alan Sugar (Lord Sugar)",
+    "ground_truth": "I mean, I've spent the last three years or four years as a Lord in the [government institution] and I've understood what I've learned there is that there are some very, very clever people in there, very, very clever people in there that come from all different walks of life. The [government institution] is made up of people who are expert in the law, in education, in business, in foreign affairs and all this type of stuff and they've spent years in there and that's what they're doing in the [government institution], which brings me round to saying that you need to spend your whole life in politics to understand how to run a country. You can't just take a bloke like [target] or so-and-so, you're quite a sensible fellow, you take over the country because I wouldn't know where to start, to be perfectly frank with you, right? It's like asking me to go into the operating theatre of [hospital name]. Say [hospital name] and can conduct brain surgery on a three-year-old child. That's the kind of analogy that I would make to it. I would not know where to start. One has to have an upbringing through politics and I don't just mean learning how to lie.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Fire away."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "Are you opposed to the death penalty?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We just want to review the practices, and we worked closely with the Attorney General's Office in this decision to issue this executive order and appoint this commissioner. Recent executions have been embroiled in controversy. I mean, the death penalty is a controversial issue to begin with. We just want to make sure the practices are sound and that we don't end up with botched executions like we've seen recently."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Governor, is it your personal feeling that capital funds is appropriate for some people and then some"
+      }
+    ],
+    "speakername": "Katie Hobbs",
+    "ground_truth": "I don't think that my personal opinion matters in this issue. We just want to review the practices and make sure that if we are conducting executions that they're done as humanely and transparently and as consistently with the law as possible.",
+    "bio": "A politician and social worker who is the governor-elect of [state], and the Secretary of State of [state] since January 2019. A member of the Democratic Party, they were a state senator representing the 24th district from 2013 to 2019 and a state representative representing the 15th district from 2011 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We just want to review the practices, and we worked closely with the Attorney General's Office in this decision to issue this executive order and appoint this commissioner. Recent executions have been embroiled in controversy. I mean, the death penalty is a controversial issue to begin with. We just want to make sure the practices are sound and that we don't end up with botched executions like we've seen recently."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Governor, is it your personal feeling that capital funds is appropriate for some people and then some"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think that my personal opinion matters in this issue. We just want to review the practices and make sure that if we are conducting executions that they're done as humanely and transparently and as consistently with the law as possible."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "The timeline I've been talking about, I'm just wondering, like naming the commissioner, who will do that? Will it be your new director of corrections or the attorney general? How do you envision this plan of yours working?"
+      }
+    ],
+    "speakername": "Katie Hobbs",
+    "ground_truth": "Uh, we will, our office will name the commissioner and we don't have someone in mind yet. It will not, were you asking if the director of corrections would name the commissioner or, oh no, it'll be our office and we'll probably work in conjunction with the attorney general in naming that person.",
+    "bio": "An American politician and social worker who is the governor-elect of [State], and the Secretary of State of [State] since January 2019. A member of the Democratic Party, they served as state senator representing the 24th district from 2013 to 2019 and as state representative representing the 15th district from 2011 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Governor, is this report going to be made public? We in the media sued the state several years ago to try to find out, for example, where these drugs were coming from. Do you have plans to make the commissioner's report public?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I believe, yes, but even if we didn't have plans to, it's law, it would be a public record, but yes, it will be public."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "The more specific question is, when we have tried to find out where the state is getting the drugs to kill people, we have been told none of your business, so to the state court, the state court says, strictly speaking, none of your business. Will your administration ensure that we know where the state is getting the drugs?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      }
+    ],
+    "speakername": "Katie Hobbs",
+    "ground_truth": "I don't necessarily think that's relevant here. We just want to make sure that we're studying the practices.",
+    "bio": "An American politician and social worker who is the governor-elect of [state], and the Secretary of State of [state] since January 2019. A member of the Democratic Party, they served as state senator representing the 24th district from 2013 to 2019 and state representative representing the 15th district from 2011 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Don't make me use this boot."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "My question was with the drugs, which is the Department of Corrections, now DOCCR or whatever that's called, has said, well, if companies' names are made public, we won't be able to get the drugs because they don't want to be associated with their chemicals being used to put people to death. Even then, you still believe the people of this state are entitled to know where those drugs come from?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If the state is executing people in the name of its citizens, they deserve transparency around that process."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Do you see the state resuming the process of executing inmates under your administration?"
+      }
+    ],
+    "speakername": "Katie Hobbs",
+    "ground_truth": "um it that is not up to me it's up to the attorney general uh and we are um conducting or we're we're appointing this independent commissioner to review practices",
+    "bio": "A politician and social worker who is the governor-elect of their state, and the Secretary of State since January 2019. A member of the Democratic Party, they served as a state senator representing the 24th district from 2013 to 2019 and a state representative representing the 15th district from 2011 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I have consistently said, not just since I've been in this office, but on the campaign trail, that I'm willing to work with anyone who is going to focus on the issues that matter to the state residents. I believe our budget is a reflection of what voters told us they wanted in this last election. And we know that with a divided government, there has to be compromise. And I can guarantee you the compromise is not just going to come from the administrative office. Um, the legislature led individual legislators have told us they understand they need to work with us to get some of their priorities across the finish line. Um, and, uh, we're, we're going to have to work together to find a budget that we can all agree on. I have the final say on the budget."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "They have said, though, that some of the things in your budget, the school vouchers, ESAs, is a non-starter. Absolutely not. They won't even consider it. So why is it in there?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is a the budget process is a process of negotiation and compromise and what we proposed is a starting point"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Can you talk a little bit about how you are working with the legislature? And so, for example, have you met with Republican legislative leaders more than once? And more than the, or can you compare that to how many times you've met with the Democratic legislative leaders and how it's going?"
+      }
+    ],
+    "speakername": "Katie Hobbs",
+    "ground_truth": "I've had probably equivalent number of conversations with both sets of leaders and in those conversations There's acknowledgment of needing to compromise and work together and tackle the issues that state residents are focused on and I've been very clear that I'm Not going to entertain conspiracy theories eroding residents' rights I said that in my inaugural address I said it again in the state address and I've said that with in individual conversations with legislators",
+    "bio": "The subject (born December 28, 1969) is an American politician and social worker who is the governor-elect of their state, and the Secretary of State since January 2019. A member of the Democratic Party, they served as state senator representing the 24th district from 2013 to 2019 and state representative representing the 15th district from 2011 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

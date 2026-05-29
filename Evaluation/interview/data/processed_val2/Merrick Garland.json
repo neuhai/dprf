@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "FY25 request is for $37.8 million."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "one I'm asking."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What's your current budget?"
+      }
+    ],
+    "speakername": "Merrick Garland",
+    "ground_truth": "It's 3.5% less than that, so I can take out my calculator and do the math, but I don't have it in front of me.",
+    "bio": "The individual is an American attorney and jurist who serves as a circuit judge of the Appeals Court for a major federal circuit. They have served on that court since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's 3.5% less than that, so I can take out my calculator and do the math, but I don't have it in front of me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "All right. Well, let me put it another way. You're asking for an extra $467 million. Is that right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "In the increased amount of money that we're asking for, that's approximately right, yes. Okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "To your knowledge, in the past, let's say, 40 years, has the Department of Justice ever come before Congress and said, we don't need any more, we're going to make it with what we've got in light of the fiscal circumstances in the country?"
+      }
+    ],
+    "speakername": "Merrick Garland",
+    "ground_truth": "I normally wouldn't want to speculate, but in this case, I can't imagine that the Department of Justice facing increasing threats every year, violent crime, threats for national security, drug trafficking threats would-",
+    "bio": "The subject is an American attorney and jurist who serves as a federal judge of a major appellate court. They have served on that court since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "In the increased amount of money that we're asking for, that's approximately right, yes. Okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "To your knowledge, in the past, let's say, 40 years, has the federal justice department ever come before Congress and said, we don't need any more, we're going to make it with what we've got in light of the fiscal circumstances in the country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I normally wouldn't want to speculate, but in this case, I can't imagine that the federal justice department facing increasing threats every year, violent crime, threats for national security, drug trafficking threats would-"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Merrick Garland",
+    "ground_truth": "I don't know the answer, but I think it would be surprising if the department ever asked for less money. I think that would be not responsible.",
+    "bio": "[target] is an American attorney and jurist who serves as a federal circuit judge of the federal appeals court. He has served on that court since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, in the end, I suppose it does in the end come down to trust, but it's not just me. It's decades of the norms of this department that are part of the DNA of the career prosecutors who are running the investigation and supervising the investigations that you're talking about."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Former President faces two federal trials, one for allegedly hoarding classified documents and covering it up, the other for allegedly conspiring to seize power after the 2020 election. Attorney General [target] has said little about this, and we wanted to understand"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Why?"
+      }
+    ],
+    "speakername": "Merrick Garland",
+    "ground_truth": "Well, I think the first thing to understand is because these are pending cases, because there are two federal indictments, the longstanding rule in the [department] is that we can't comment about pending cases. Where does that rule come from? What's the point? One reason is to protect the privacy and civil liberties of the person who's under investigation. It's to protect witnesses who also may or may not become public later in an investigation. And then finally, it's to protect the investigation itself. Investigations proceed in many different directions, eventually coming to a fruition, a decision to charge or not charge about a particular thing or not. And if witnesses and potential subjects knew everything that the investigators had previously looked at and were about to look at, it could well change testimony. It could well make witnesses unavailable to us.",
+    "bio": "The target is an American attorney and jurist who serves as a circuit judge of the federal appeals court. They have served on that court since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Why?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the first thing to understand is because these are pending cases, because there are two federal indictments, the longstanding rule in the Justice Department is that we can't comment about pending cases. Where does that rule come from? What's the point? One reason is to protect the privacy and civil liberties of the person who's under investigation. It's to protect witnesses who also may or may not become public later in an investigation. And then finally, it's to protect the investigation itself. Investigations proceed in many different directions, eventually coming to a fruition, a decision to charge or not charge about a particular thing or not. And if witnesses and potential subjects knew everything that the investigators had previously looked at and were about to look at, it could well change testimony. It could well make witnesses unavailable to us."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And this is not peculiar to the investigations."
+      }
+    ],
+    "speakername": "Merrick Garland",
+    "ground_truth": "This is a rule for all investigations. This is part of what we call our justice manual. It's been there for probably at least 30 years and probably longer than that.",
+    "bio": "An American attorney and jurist who serves as a circuit judge of the Appeals Court for a major federal circuit. They have served on that court since 1997. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

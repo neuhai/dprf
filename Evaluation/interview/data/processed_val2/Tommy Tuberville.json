@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm sure he thought knew it was coming. You know when you do that to the president pretty much quit on him and stab him in the back and and he turned loose to 200 liberal lawyers on him for three years. I think anybody would be a little bit mad at somebody that did that to him. But you know, the president's been on my team now for about three months and we've got a pretty good lead and I think that's kind of getting to my opponent a little bit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You know, your opponent has challenged you to several debates around the state. What are your thoughts on that challenge?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, he hadn't debated anybody since 2002, and he's turned down debates himself. I tell people I've been doing this for 16 months, going around all over the state, shaking hands and telling people why I'm doing this, what I'm going to do when I get to the capital, how I'm going to help the people of the state. And so I've been doing it hand-to-hand, and I haven't seen him. He hasn't been out. And, you know, I'm not going to go on TV and let him get up there and try to get an advantage when he hadn't been out there doing the legwork I've been doing. So there's no reason to do it. Again, we've got a good double-digit lead. I've got a new quarterback on my team. It's the president, who's helping me campaign. And so it's going well. So we'll let him run his race, and we'll run ours."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me ask you this coach. Do you think you would be open to participating in a debate? Maybe here at our station at some point in the future?"
+      }
+    ],
+    "speakername": "Tommy Tuberville",
+    "ground_truth": "No, not in this race we would, maybe in the future, but not in this race. This race is only, I think we're 48 days away, and it's one of those situations where, hey, we've got to lead, we're going to keep running the football, and we're going to go out and keep telling people how we're going to do it, why we're going to do it, and keep building strength, keep building our votes. And so I think that's the best way for us to go out and get the job done and win.",
+    "bio": "The target is an American retired football coach, former football player, and politician serving as the junior United States senator from his state since 2021. He was the head football coach at several major universities from 1995 to 2016, including stints at multiple prominent institutions in the South and Midwest. He was one of 8 U.S. Senators who objected to counting the electoral votes from both two states in the 2020 U.S. Presidential Election. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, he hadn't debated anybody since 2002, and he's turned down debates himself. I tell people I've been doing this for 16 months, going around all over the state, shaking hands and telling people why I'm doing this, what I'm going to do when I get to [capital city], how I'm going to help the people of [state]. And so I've been doing it hand-to-hand, and I haven't seen him. He hasn't been out. And, you know, I'm not going to go on TV and let him get up there and try to get an advantage when he hadn't been out there doing the legwork I've been doing. So there's no reason to do it. Again, we've got a good double-digit lead. I've got a new quarterback on my team. It's the President, who's helping me campaign. And so it's going well. So we'll let him run his race, and we'll run ours."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let me ask you this coach. Do you think you would be open to participating in a debate? Maybe here at our station at some point in the future?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, not in this race we would, maybe in the future, but not in this race. This race is only, I think we're 48 days away, and it's one of those situations where, hey, we've got to lead, we're going to keep running the football, and we're going to go out and keep telling people how we're going to do it, why we're going to do it, and keep building strength, keep building our votes. And so I think that's the best way for us to go out and get the job done and win."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is there anything you want the public to know as this race tends to wind down at this point?"
+      }
+    ],
+    "speakername": "Tommy Tuberville",
+    "ground_truth": "Well, one of the reasons I'm running is this country is in trouble. We've got a lot of problems. We've let these queer politicians, like the guy I'm running against, and [capital city], run this country on the ground. And look at the problems we've got right now. Twenty-five trillion dollars in debt. Our health care system is broken. Immigration system is a disaster. We just now found out that [foreign country] owns almost everything that we buy. And we've been in wars for 20 years. And that's because of the people, like, I'm running against. We don't get anything done in [capital city]. And I'm not a swamp guy. I'm an outsider. I'm not taking a salary. My salary is going to the veterans of the state of [state]. We're going to win this race. And we're going to win it because I'm going to represent the people of [state] and support the President. And it's going to be a lot of fun getting it done, but we've got a lot of work to do.",
+    "bio": "The target is an American retired football coach, former football player, and politician serving as the junior United States senator from [state] since 2021. The target was the head football coach at several major universities from 1995 to 2016, including positions at four different institutions. The target was one of 8 U.S. Senators who objected to counting the electoral votes from both [state1] and [state2] in the 2020 U.S. Presidential Election. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Object. Object. And with that, object."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Republican Senator [target] of [state] objects every time Democrats try to approve promotions for generals and admirals. In parliamentary terms, it's called a hold, and it's caused a backup of more than 250 military nominations. What would it take?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "for you to lift your hold on all these nominations. All they need to do is change it back to where it was."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "[target] is demanding that Defense Secretary rescind this memo, authorizing paid leave and transportation costs for service members to travel to states where abortion is legal. Otherwise, [target] will keep his hold on promotions to major commands around the world, as well as the heads of the armed services. Aren't you?"
+      }
+    ],
+    "speakername": "Tommy Tuberville",
+    "ground_truth": "Dragging the military into politics. I want to keep politics out of military. It is ruining our military",
+    "bio": "The subject is an American retired football coach, former football player, and politician serving as the junior United States senator from [state] since 2021. He was the head football coach at [university 1] from 1995 to 1998, [university 2] from 1999 to 2008, [university 3] from 2010 to 2012, and [university 4] from 2013 to 2016.\n\nThe subject was one of 8 U.S. Senators who objected to counting the electoral votes from both [state 1] and [state 2] in the 2020 U.S. Presidential Election. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "The discussion over the last year or so, guys, has been name-image likeness off the field. We know that Commissioner Sankey, Paul, you and I chatted with him at SEC Media Days. He was on Capitol Hill recently meeting with senators, meeting with those in the House, and trying to come up with an idea and a structure of what federal legislation might look like. Well, we have Senator [target] on the line, former head coach at Auburn, at Ole Miss, Cincinnati, and Texas Tech. And now he is fronting a bipartisan legislation to help try to get us down the path of guardrails for name-image likeness. Coach Tuberville, great to have you on. Good morning. How are y'all? We are very well. And you did tell us, hey, still call me coach. I appreciate that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, please do. That's what they call me up here. So after 40 years, I guess I've earned that."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I know you have talked with Coach Saban, with Greg Sankey, with the Pac-12, and many others. Is the feedback and the ideas that you have heard and that you have brought to the table virtually all the same, where everyone's just trying to come up with an idea that everyone can get behind? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know"
+      }
+    ],
+    "speakername": "Tommy Tuberville",
+    "ground_truth": "I hate that the federal government has to get involved in this. We've stayed out of it, or I have. You know, I know quite a bit about it, obviously. The Commerce Committee, who is oversight for this, obviously has been involved. I'm on the Education Committee, which we have not really had a lot of discussions on because we've left it to the Commerce. A lot of people try to get involved. Yes, I've talked to committees in the NCAA. I've talked to coaches. I've talked to players, former players. I've talked to commissioners, athletic directors. And I was hoping that they could come up with something, but you can't get a consensus. You know, everybody wants it their way, and it's not possible. So I sat down with my staff. We talked about it, you know, the direction we would go. You can't do anything here in Washington, D.C., unless you have a bipartisan approach. It's not going to happen. Joe Manchin has got a lot of power up here. He's on the Democratic side. He and I sat down one day, and we got together, and we both came to the conclusion we've got to do something. We've got to help. He thinks that he can deliver people on the left. I hopefully can deliver people on the right, try to get this done. Now, we're not into the money part, you know, we're not trying to limit what people can do. What we want to do, at the end of the day, is come up with some standards and rules for all 50 states. That's what we can do in the federal government. We can pass a bill, and it takes 60 votes to pass a bill, then it'd have to go to the House, that all 50 states have to go by these guidelines. Right now, there is no guidelines. It is a... It's a disaster, just listening to coaches, and what's going on, and parents and players, you know, getting involved, which, fine, but at the end of the day, we want it fair for everybody in 50 states, and we want to make sure that we look out for two things, the student-athlete and their education. Those two have to be involved. So, we're not here to invent a wheel. Again, we're going to do our due diligence. Joe Manchin and I sent out a letter to a lot of people last few weeks, all over the country. Some people are saying, well, this is just the SEC deal. No, it's not. I don't know where they got that from, but this is a proposal that we will possibly put into law that can help and guideline everybody in all 50 states in this country. And at the end of the day, I hope we can do it. We might not be able to pull this off.",
+    "bio": "Thomas Hawley Tuberville is an American retired football coach, former football player, and politician serving as the junior United States senator from Alabama since 2021. Tuberville was the head football coach at the University of Mississippi from 1995 to 1998, Auburn University from 1999 to 2008, Texas Tech University from 2010 to 2012, and the University of Cincinnati from 2013 to 2016.\\n\\nTuberville was one of 8 U.S. Senators who objected to counting the electoral votes from both Arizona and Pennsylvania in the 2020 U.S. Presidential Election. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I've always been for players making money. I wish there was a way that we can make it equal for everybody, men and women, and all sports to do this. But the one thing I do not want to happen is for us to not have something, whether the NCAA does it, the commissioners does it, or we do it here in federal government. I do not want us to start losing financing for Olympic sports, women's sports, the so-called sports that have to use money that's built up by the big sports. We need to make it to where everybody can be satisfied and make it equal for everybody and still be able to have the country that we know we have in terms of college athletics. Because it is something that we, most of us, hang our hat on every year to watch and take pride in."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Would you like to see it go to what seems to be the original intent that it's for athletes once they're on campus being able to then make money? Or are you okay with the idea that it's used as a recruiting tool to lure kids to campus?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, one of the biggest complaints that I'm hearing from coaches all over the country, assistant coaches and head coaches and athletic directors, is the possibility that some coaches are going out and offering inducements to players in their homes or whatever, making a certain amount of money for the first year, second year, third, and fourth year. And they can't really back that up. I know the collectives, the groups across the country that are being hired by some of the universities are really the ones that are supposed to do that. But we've got to get that out of a recruiting inducement. Again, once they get there, they should be able, like the Supreme Court says, make money off of their name, image, and likeness, but not for a recruiting inducement to what school that they're going to go to. The other problem we're having is, while this thing is originated in the last couple of years, the years of the NIL, now we have the transfer portal. And you put those two together, you're asking for huge problems down the line. So we're not only working with name, image, and likeness, but we're also looking at this transfer portal of how to make everybody, as many people as we can, happy to make it fair for everybody to be able to recruit and possibly keep players on their campus, number one, where they can stay and get an education. Because, say, you get 40 hours, at one school and you transfer, you might lose all those hours. And you have to start over. And there's no way you're going to get a degree after that. It doesn't happen in college sports. So we've got to look at the degree, we've got to look at the education, and we've got to look at the well-being of the student athlete."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Coach, you had mentioned that you'd rather the federal government not be involved in this and that your desire would be for the NCAA, all of college sports to come together on a consensus to figure this out without you being involved. But you also said you're going to go to all 50 states and try to gain a consensus from those 50 states to make your decision, where ultimately this could come down to the working relationship with you and Senator Manchin coming together on an agreement of what that consensus may be. So how is the relationship with you and Senator Manchin in terms of coming to an agreement after taking in all that input and figuring out what's best for the college athlete?"
+      }
+    ],
+    "speakername": "Tommy Tuberville",
+    "ground_truth": "Yeah, we might not be able to get a consensus once we get all the information in that after this letter we sent out. And again, people, they want to put their two cents worth in. That's fine. Now, we're going to have between his staff and my staff and some of the committee staff, we'll probably have over 100 people working on this from Washington, D.C. That's how it happens up there. You don't write a bill and a couple of people write this up. It is complex to get it done. And then you have to sell it through committee. And then you have to sell it to the individual senators across the country representing their states. And so if we plan on getting anything passed, there's going to have to be a lot of a lot of salesmanship to where Joe Manchin, who played college football, he understands sports. Myself being the only one up here that's that's that's, you know, work with NCAA, work with commissioners, work with athletic directors. And. You know, we've just got to do the right right thing for everybody, but it's not going it's not going to be easy to put that together. You know, Joe and I talk pretty much every day and we've got a pretty good relationship over the last year or so. People are going to trust him on the left. Hopefully people trust me on the right that we're doing it for the right thing. We're not we're not trying to we're not trying to pull the wool over anybody's eyes. And as I said at the very beginning. I wish we didn't have to do this, but the NCAA looks like that they're afraid of lawsuits and they can't get everybody on board. We're not going to be able to get everybody on board, but we're going to do the best we possibly can if we get get a consensus, if we think we can do the right thing.",
+    "bio": "Thomas Hawley Tuberville is an American retired football coach, former football player, and politician serving as the junior United States senator from Alabama since 2021. Tuberville was the head football coach at the University of Mississippi from 1995 to 1998, Auburn University from 1999 to 2008, Texas Tech University from 2010 to 2012, and the University of Cincinnati from 2013 to 2016.\\n\\nTuberville was one of 8 U.S. Senators who objected to counting the electoral votes from both Arizona and Pennsylvania in the 2020 U.S. Presidential Election. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

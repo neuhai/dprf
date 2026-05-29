@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I am doing great. It's good to be in person."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's so good to have you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "studio."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, thank you. It's new. It really is new. It's about two months old, this one. So we're glad to have you here for it, but we do have to talk now about what we just saw yesterday. Just yesterday, your reaction to, look, we know a lot of states have these bans ready to go, but this is the most restrictive one we've seen. What's your response or your reaction to seeing what [state] did yesterday?"
+      }
+    ],
+    "speakername": "Ilhan Omar",
+    "ground_truth": "Yeah, I mean, we we knew it was coming. Republicans are interested in controlling every aspect of a woman's life and we can't let it stand. Abortion is health care. We productive rights need to be protected. And I believe that the women of this country and everyone who stands with them should reject what's happening in [state] and the decision that might probably come down from the [judicial body].",
+    "bio": "The speaker is a naturalized American politician serving as a U.S. Representative for a congressional district since 2019. The district includes a major metropolitan area and some of its suburbs in the northern United States. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "studio."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, thank you. It's new. It really is new. It's about two months old, this one. So we're glad to have you here for it, but we do have to talk now about what we just saw yesterday. Just yesterday, your reaction to, look, we know a lot of states have these bans ready to go, but this is the most restrictive one we've seen. What's your response or your reaction to seeing what this state did yesterday?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, we we knew it was coming. Republicans are interested in controlling every aspect of a woman's life and we can't let it stand. Abortion is health care. We productive rights need to be protected. And I believe that the women of this country and everyone who stands with them should reject what's happening in this state and the decision that might probably come down from the high court."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And Congresswoman, I know that there have been a few attempts to try and protect this legal precedent, to protect the rights of women, to have access to abortion. At this point, though, honestly, what can Congress, what is Congress willing to do to protect those rights as we await this day?"
+      }
+    ],
+    "speakername": "Ilhan Omar",
+    "ground_truth": "decision. I just want to say how heartbreaking it is, right? Many of us thought that this was settled. There are women of my generation and generations before us that believed that this was settled. Many of us are going to have to raise a generation that doesn't have access to the same rights as we did. And so we have to do everything that we can. We are really proud of the fact that we passed law to codify this precedent into statute. We're hoping that maybe with a few more senators that can get done in the Senate and the president can sign it into law. It's also going to be really important for every governor in every state that is possible and able to step up and to pass laws to protect women's right to choice.",
+    "bio": "The speaker is a politician serving as a U.S. Representative for a congressional district since 2019. The district includes a major city and some of its suburbs. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, we we knew it was coming. Republicans are interested in controlling every aspect of a woman's life and we can't let it stand. Abortion is health care. We productive rights need to be protected. And I believe that the women of this country and everyone who stands with them should reject what's happening in [state] and the decision that might probably come down from the [federal court]."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And Congresswoman, I know that there have been a few attempts to try and protect [case name], to protect the rights of women, to have access to abortion. At this point, though, honestly, what can Congress, what is Congress willing to do to protect those rights as we await this day?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "decision. I just want to say how heartbreaking it is, right? Many of us thought that this was settled. There are women of my generation and generations before us that believed that this was settled. Many of us are going to have to raise a generation that doesn't have access to the same rights as we did. And so we have to do everything that we can. We are really proud of the fact that we passed law to codify [case name] into statute. We're hoping that maybe with a few more senators that can get done in the Senate and the president can sign it into law. It's also going to be really important for every governor in every state that is possible and able to step up and to pass laws to protect women's right to choice."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "though you said you were hopeful do you believe that could and will actually happen"
+      }
+    ],
+    "speakername": "Ilhan Omar",
+    "ground_truth": "I mean, we are set to pick up a seat in [state], so I am excited about the potential of us not only maintaining the House, but also winning some seats in the Senate. I also just have to remind people that we currently have [federal court] justices who lied, as how I would say it. Some of the senators will say they were misled about what their intentions were in regards to [case name]. This is a [federal court] that has six justices that were appointed by presidents that did not win the popular vote. Republicans have only had one president win a Republican vote since 1988, and they've had the opportunity to appoint six. That questions legitimacy of the president. And so court reform is going to be necessary. It's going to be important for us to expand it. It's going to be important for them to be held to the similar ethics standards that, you know, us members of Congress are held to.",
+    "bio": "The speaker is a foreign-born American politician serving as the U.S. Representative for a congressional district since 2019. The district includes a major metropolitan area and some of its suburbs. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "decision. I just want to say how heartbreaking it is, right? Many of us thought that this was settled. There are women of my generation and generations before us that believed that this was settled. Many of us are going to have to raise a generation that doesn't have access to the same rights as we did. And so we have to do everything that we can. We are really proud of the fact that we passed law to codify this case into statute. We're hoping that maybe with a few more senators that can get done in the Senate and the president can sign it into law. It's also going to be really important for every governor in every state that is possible and able to step up and to pass laws to protect women's right to choice."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "though you said you were hopeful do you believe that could and will actually happen"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, we are set to pick up a seat in a northeastern state, so I am excited about the potential of us not only maintaining the House, but also winning some seats in the Senate. I also just have to remind people that we currently have Supreme Court justices who lied, as how I would say it. Some of the senators will say they were misled about what their intentions were in regards to this case. This is a Supreme Court that has six justices that were appointed by presidents that did not win the popular vote. Republicans have only had one president win a Republican vote since 1988, and they've had the opportunity to appoint six. That questions legitimacy of the president. And so court reform is going to be necessary. It's going to be important for us to expand it. It's going to be important for them to be held to the similar ethics standards that, you know, us members of Congress are held to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But you remember, you mentioned expanding the Supreme Court there, but you expand it to get maybe what you want. Because you talked about, you just talked about, you thought it was settled law. So you expand the court, and then maybe things go back the direction you want. And then next thing you know, you've got a Republican Senate and a Republican House and a Republican president, and then it goes back the other way. Does it ever get settled? Why is expanding the court the solution if things can sway and maybe not your direction down the road?"
+      }
+    ],
+    "speakername": "Ilhan Omar",
+    "ground_truth": "I mean, that's a way to look at it. I don't think of it that way. If we think about the Supreme Court, the number of justices is not given to us in the Constitution. There's not a specific number. The court has been expanded seven times in our nation's history. And in this particular time, given the fact that we have overwhelming majority of the justices being appointed by presidents that did not reflect the will of the people, they didn't win the popular vote, I think it's really important for us to have justices that are a reflection of the American people and their opinions.",
+    "bio": "The speaker is a politician serving as the U.S. Representative for a midwestern congressional district since 2019. The district includes a major metropolitan area and some of its suburbs. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I mean, we are set to pick up a seat in [state], so I am excited about the potential of us not only maintaining the legislative body, but also winning some seats in the Senate. I also just have to remind people that we currently have Supreme Court justices who lied, as how I would say it. Some of the senators will say they were misled about what their intentions were in regards to the landmark case. This is a Supreme Court that has six justices that were appointed by presidents that did not win the popular vote. Republicans have only had one president win a Republican vote since 1988, and they've had the opportunity to appoint six. That questions legitimacy of the president. And so court reform is going to be necessary. It's going to be important for us to expand it. It's going to be important for them to be held to the similar ethics standards that, you know, us members of Congress are held to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But you remember, you mentioned expanding the Supreme Court there, but you expand it to get maybe what you want. Because you talked about, you just talked about, you thought it was settled law. So you expand the court, and then maybe things go back the direction you want. And then next thing you know, you've got a Republican Senate and a Republican House and a Republican president, and then it goes back the other way. Does it ever get settled? Why is expanding the court the solution if things can sway and maybe not your direction down the road?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, that's a way to look at it. I don't think of it that way. If we think about the Supreme Court, the number of justices is not given to us in the Constitution. There's not a specific number. The court has been expanded seven times in our nation's history. And in this particular time, given the fact that we have overwhelming majority of the justices being appointed by presidents that did not reflect the will of the people, they didn't win the popular vote, I think it's really important for us to have justices that are a reflection of the American people and their opinions."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You sound like you're calling them an illegitimate court."
+      }
+    ],
+    "speakername": "Ilhan Omar",
+    "ground_truth": "There is a question to the legitimacy of it, and it's an important conversation for us to have. I mean, think about it. If you had a president that doesn't win a popular vote and, you know, majority of the American people, as we know, support the landmark case saying the law of the land and they are going against the will of the people. And I think that questions the legitimacy of the people that we have there currently and how necessary it's going to be for us to create important reforms.",
+    "bio": "The speaker (born October 4, 1982) is a naturalized American politician serving as the U.S. Representative for a congressional district since 2019. The district includes a major metropolitan area and some of its suburbs. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

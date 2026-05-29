@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah so my that's a perception right that's a general thing like we all think i wanted to"
+      },
+      {
+        "speaker": "[target]",
+        "text": "make 5000 mark back then 5000 mark per month that was like super rich for me wow and then uh so then i thought which doctors and uh i said you know what aesthetic plastic surgeon you'll not believe it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Being a plastic surgeon."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know i did so much so basically i worked at a hospital at a plastic surgery i applied i worked for free did you study it no no before you're allowed to study you actually have to do an internship in the hospital okay so i applied at a plastic surgery"
+      }
+    ],
+    "speakername": "Saygin Yalcin",
+    "ground_truth": "and i got accepted oh my god so anyway so i did that and i was so bad at it like i wasn't even a doctor i was just an intern helping out in medical stuff helping helping the patients giving them breakfast coffee tea whatever okay and then i got fired right like 10 weeks later why did they fire you she said literally the nurse said you would be the worst doctor in the world but probably one of the best businessmen oh and i said why she said because you you're not the doctor she sees in terms of i couldn't see blood i couldn't see like pus coming out wounds like this wasn't me i couldn't and i was thinking this aesthetic plastic surgeons they're usually like the glamorous red carpet guy whatever that was my that was just one side of it right",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "just playing football and at the side of the tournament there was a guy who was DJing"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and um because it was the music for the football tournament so i say hey what are you doing he's like i'm making the music or i'm playing the music and i saw it and i was like wow that's really nice let me try and then i just did that and learned and learned and learned and when i moved to [major city] i started i mean i wanted to learn english that's why i went to school right but i also wanted to play in the biggest events in [major city] right but i'm just a young guy who doesn't know anyone there so i had to come up with a business idea which makes it work so that was my first kind of business venture beyond the freelancing part of djing okay so i went there and i saw there were 600 students at the language school okay which gave me an eight-year visa to the [country]"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Kind of business venture beyond the freelancing part of DJing, right? Okay. So I went there and I saw that there were 600 students at the language school. Okay."
+      }
+    ],
+    "speakername": "Saygin Yalcin",
+    "ground_truth": "oh wow so i was like okay um how do i make it work so i went to the uh event organizers and how do i got to them so i collected 200 flyers of events all over [major city] anywhere i went i collected the flyers i looked at the organizers names and phone numbers and i called all of them",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. Like that's smart."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's because that's how I..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You would find them, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "on flyers"
+      }
+    ],
+    "speakername": "Saygin Yalcin",
+    "ground_truth": "always what I do is if I want to get into an industry and I want to actually master it I want to know who the decision makers of these industries are so for example or the authorities when I wanted to become an aesthetic plastic surgeon where did I go I went to the library and asked the librarian give me the the books written by regional aesthetic plastic surgeons I looked at all the names and I called them up and I said hey I don't I'm not a patient but I'm a guy who wants to decide about his life can you help me with two questions one are you rich",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You would find them, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "on flyers"
+      },
+      {
+        "speaker": "[target]",
+        "text": "always what I do is if I want to get into an industry and I want to actually master it I want to know who the decision makers of these industries are so for example or the authorities when I wanted to become an aesthetic plastic surgeon where did I go I went to the library and asked the librarian give me the the books written by European aesthetic plastic surgeons I looked at all the names and I called them up and I said hey I don't I'm not a patient but I'm a guy who wants to decide about his life can you help me with two questions one are you rich"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's straightforward. Are you rich?"
+      }
+    ],
+    "speakername": "Saygin Yalcin",
+    "ground_truth": "and two is like is your life glamorous and whatever is this the real image of uh is this the re is the image i have the reality and they totally told me they are not rich in terms of billionaires and they're also not kind of having this glamorous life a young kid like me was thinking so i ignored it i still did it and failed so that was the first learning for me do i really love the job or do i really love the role and you have to love the job not only the role people see yeah right anyway so i went and collected all these flyers and then i knew who these decision makers were so i called them up i said hi can i be your dj for your event right and the questions i always was getting through my empirical research pretty much was how many people can you draw",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "bring when I told them I just moved to [city] they knew it's not gonna really work so I said I can bring 25 people"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Are you serious?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "so i just said it and then they said okay then you can play in the small room and by the way if you buy the tickets um then i give you um 15 discount sorry uh 20 discount in the first if you bought the tickets yourself yes"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "If you bought the tickets yourself and then sold them. Yes. Okay."
+      }
+    ],
+    "speakername": "Saygin Yalcin",
+    "ground_truth": "said okay what if i brought five fifty people they said okay then you get 20 discount okay so it was 15 20 and then i said what if i bring a hundred people they said okay we'll give you 30 discount and you can play in the main hall because they couldn't really believe yeah",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

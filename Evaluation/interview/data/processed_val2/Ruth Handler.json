@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "For dollhouses, yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and then came the ukadoodle and then a plastic piano and then a burp gun and and then of course"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Tell me if you will, okay, let it all out. We'll get to the Barbie story in a minute. But tell if you will how the company jumped in leaps and bounds. I mean, the grosses each year were unbelievable. I mean, it didn't go from one million to two million to three million to four million. It just went crazy, didn't it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Our first year, we did $100,000, and our second year... What year was that?"
+      }
+    ],
+    "speakername": "Ruth Handler",
+    "ground_truth": "1945 yeah our second year we did $100,000 but got slapped in the face because competition came in heavily and then we went to a half a million a million three and five million nine million fourteen and a half million nineteen million twenty six million forty nine million seventy six ninety six that's true year after year if you try to figure it out I don't know how it happened where did it peak where did it go it went well over it I left the company somewhere between 300 and 400 million did you just sell out say that's it oh no we had some very severe business reverses and I left whoops somewhat unwillingly really yeah",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It happened, interestingly enough, we were making things like musical instruments and toys. And it was time to diversify into another kind of a product. And we decided we had to get into the doll business. And we never copied anyone in anything we ever did."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're led."
+      },
+      {
+        "speaker": "[target]",
+        "text": "we led always and we felt that if you and incidentally this is an important formula for anybody who wants to go into business the product has to be have a reason to be otherwise you shouldn't be in it so when we decided we should go into the doll business the question is how could we be different i had observed my own daughter playing with paper dolls through the years when she was growing up saturdays were my day with her and we used to go into the store and buy paper dolls and she would always choose the teen or the adult type paper dolls never the 10 year olds or the baby paper dolls and i would watch her play with the paper dolls and she was role playing her dream of her teenage years and she was also with her friends projecting her vision of the adult world around her and i used to think my goodness if you could three-dimensionalize that play pattern you'd have something so when it became time for us to go in the doll business there were fashion dolls on the market but they were flat chested and they didn't have really good looking clothes with lots of detail and they didn't have the accessories for teenage projection and how do you play grown up with a flat chested full belly 10 year old type doll you don't so i said let's make a doll with a dress and narrow waist and narrow ankles and let's make her look like a teenager we had once seen a caricature typed all of that general type in a foreign country but not really like our doll anyway we did it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did the customers, were they thrilled? There's different stores."
+      }
+    ],
+    "speakername": "Ruth Handler",
+    "ground_truth": "no they thought it would be a total dud we went to toy show took us three years from concept i think we started to design the doll when my daughter was about 10. by the time we brought it to market she was like 13 or 14. um we brought it to market and took it to toy show and the buyers just turned us off they weren't interested not more than 50 of the buyers bought our doll they regretted it later because when we delivered the thing just ran away sold out",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "we led always and we felt that if you and incidentally this is an important formula for anybody who wants to go into business the product has to be have a reason to be otherwise you shouldn't be in it so when we decided we should go into the doll business the question is how could we be different i had observed my own daughter playing with paper dolls through the years when she was growing up saturdays were my day with her and we used to go into the store and buy paper dolls and she would always choose the teen or adult type paper dolls never the 10 year olds or the baby paper dolls and i would watch her play with the paper dolls and she was role playing her dream of her teenage years and she was also with her friends projecting her vision of the adult world around her and i used to think my goodness if you could three-dimensionalize that play pattern you'd have something so when it became time for us to go in the doll business there were fashion dolls on the market but they were flat chested and they didn't have really good looking clothes with lots of detail and they didn't have the accessories for teenage projection and how do you play grown up with a flat chested full belly 10 year old type doll you don't so i said let's make a doll with a dress and narrow waist and narrow ankles and let's make her look like a teenager we had once seen a caricature typed all of that general type in europe but not really like our doll anyway we did it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did the customers, were they thrilled? There's different stores."
+      },
+      {
+        "speaker": "[target]",
+        "text": "no they thought it would be a total dud we went to toy show took us three years from concept i think we started to design the doll when my own daughter was about 10. by the time we brought it to market she was like 13 or 14. um we brought it to market and took it to toy show and the buyers just turned us off they weren't interested not more than 50 of the buyers bought our doll they regretted it later because when we delivered the thing just ran away sold out"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "story."
+      }
+    ],
+    "speakername": "Ruth Handler",
+    "ground_truth": "Oh, the consumer knew what she wanted and appreciated what we were giving. And we could never catch up with the demand for millions. Where was our doll made?",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "no they thought it would be a total dud we went to toy show took us three years from concept i think we started to design the doll when my own daughter was about 10. by the time we brought it to market she was like 13 or 14. um we brought it to market and took it to toy show and the buyers just turned us off they weren't interested not more than 50 of the buyers bought the product they regretted it later because when we delivered the thing just ran away sold out"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "story."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, the consumer knew what she wanted and appreciated what we were giving. And we could never catch up with the demand for millions. Where was the product made?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "America."
+      }
+    ],
+    "speakername": "Ruth Handler",
+    "ground_truth": "No, we went to [country]. That was our first venture. Many toy manufacturers had started going to [country], and we had not yet gone there. And everybody told me in our place, you can't make the product with the details and the fingernails and all that stuff that we put on her with the zippers and the buttons. They said, you can't do it in [country] and sell it at a price. Well, we had been wanting to go to [country], as others were doing, because costs were getting higher. And we realized that this product would have to sell too high in price. At that time, $3. No, $1.50, forgive me. Anyway, but that was too high in those days.",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "power. Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's a man's world."
+      },
+      {
+        "speaker": "[target]",
+        "text": "better believe"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right. How'd you function?"
+      }
+    ],
+    "speakername": "Ruth Handler",
+    "ground_truth": "Well, remember I started with my husband so that I functioned. I really didn't know initially that women weren't supposed to do all this stuff. And I kind of rode roughshod over the men that I associated with on the outside. And I worked every day of my life to earn the respect of the individuals who worked for me.",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

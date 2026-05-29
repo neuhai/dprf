@@ -1,0 +1,13 @@
+Here is an initial persona:
+
+{persona}
+
+Here is the task:
+
+{content}
+
+Here is the target individual's actual response:
+
+{ground_truth}
+
+Based on this information, rewrite the persona to better match this individual. The refined persona should start with 'You are' and be written in second person.

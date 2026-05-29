@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "hello and welcome to the youtube studio here at the security conference i'm jack kelly from tldr news and we're about to have a conversation about the situation in russia and the war in ukraine um and i'm really excited that you're here to kind of give us some more insight into that thanks for joining us thank you so the war in ukraine has been going on for nearly a year now and it looks unlikely to end anytime soon so how and when do you think the war will eventually end and what do you think it means for both russia and ukraine after the war"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The war will end when the current regime falls."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Until that time, it's possible to have a ceasefire, but the war will not end until then. There are some people I hear say around here that in order for Ukraine to win the war, Russia needs to lose the war. I don't fully agree with that. The current leader needs to lose. If he loses, both Ukraine and Russia win."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yesterday, you described the invasion of Ukraine as the leader's war, not the people's war. Do you consider the Russian people responsible at all for the war in Ukraine? What do you think of sanctions that have been targeted not at the government, but the Russian people?"
+      }
+    ],
+    "speakername": "Mikhail Khodorkovsky",
+    "ground_truth": "those russian people that are able to understand and to feel do feel a certain sense of responsibility for what is going on people like that myself included understand that we need to bear some of the cost of that today and will need to pay the price later as well but i really don't like it when i hear talk about collective responsibility because not only does that transform the leader's war into a war of all of russia but it also uh dissipates uh makes the picture much fuzzier about who the beneficiaries of this war are",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yesterday, you described the invasion as a leader's war, not the people's war. Do you consider the citizens responsible at all for the war? What do you think of sanctions that have been targeted not at the government, but the people?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "those people that are able to understand and to feel do feel a certain sense of responsibility for what is going on people like that myself included understand that we need to bear some of the cost of that today and will need to pay the price later as well but i really don't like it when i hear talk about collective responsibility because not only does that transform this leader's war into a war of all citizens but it also uh dissipates uh makes the picture much fuzzier about who the beneficiaries of this war are"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And it suggests that a very broad number of people are beneficiaries of the war. People such as, for example, for myself, I've been fighting against this regime for 20 years already, and I'm not benefiting from this war."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "opinion polling suggests that a majority of people still support both their leader and the invasion. Is that polling that you trust? And if not, what do you think the people truly feel? To start with, I"
+      }
+    ],
+    "speakername": "Mikhail Khodorkovsky",
+    "ground_truth": "would certainly not trust any polling that takes place in a dictatorship, let alone in a dictatorship during the time of war. You yourself can imagine what sorts of people agree to answer a sociologist pollsters questions when they see in that pollster a representative of the authorities. But I will agree that a large number of citizens support the war or at least support their government.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "whether it's waging war or or conducting peace talks they support the government but there's two kinds of support here one kind is yes i support my government but"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't really want to go fight. And the other kind is, I need to defend my home, my family, because if we lose this war, bad things will come to my family and my home. And I'm calling for people not to support the leader, not to turn that first kind of support into the second. Because with the first kind of support, he had difficulty mobilizing 300,000 soldiers, while during World War II, the state, which at that time had a population roughly similar to today's population, was able to mobilize 32 million soldiers."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Could you tell us a bit more about the divides that are forming within society on this issue? It must be affecting different groups, different families as people form different opinions. What's it like for ordinary citizens in the country, do you think?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "This is actually"
+      }
+    ],
+    "speakername": "Mikhail Khodorkovsky",
+    "ground_truth": "it looks quite horrible. I'll never forget a video I saw on social media that was shown in the first days of the war. There was a woman with her child in the capital city talking with her mom who was in another major city. And she's saying on the phone to her mom, she goes, mom, they're like, they're shooting at us. They're killing us here. And the mom says, that can't be, that's propaganda. And the woman responds, mama, who do you believe, me or TV? And it seems like mom believed TV. This dividing line took place at a generation slightly, or at an age group slightly younger than my generation. Those 50 and older support the government en masse. 30 and younger don't support en masse. And that gives me hope.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "This is actually"
+      },
+      {
+        "speaker": "[target]",
+        "text": "it looks quite horrible. I'll never forget a video I saw on social media that was shown in the first days of the war. There was a woman with her child in a major city talking with her mom who was in another city. And she's saying on the phone to her mom, she goes, mom, they're like, they're shooting at us. They're killing us here. And the mom says, that can't be, that's propaganda. And the woman responds, mama, who do you believe, me or TV? And it seems like mom believed TV. This dividing line took place at a generation slightly, or at an age group slightly younger than my generation. Those 50 and older support the government en masse. 30 and younger don't support en masse. And that gives me hope."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Speaking of which, how much longer do you think the public will continue tolerating the war? And do you think that the leader still has enough support for another wave of mobilization?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, when the war started, myself and other people who have studied the region and have been"
+      }
+    ],
+    "speakername": "Mikhail Khodorkovsky",
+    "ground_truth": "interested in this question said that support for the war but let me say that in a different way tolerance for the toleration for the war would last maybe two years this this is a number is reached from looking at historical examples one place where i made a mistake in my judgment was that i thought",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Of course, for this country, this has become a sort of point of no return."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But it's behind."
+      },
+      {
+        "speaker": "[target]",
+        "text": "us now and the government that will be solving the issue of the territory will need the people's permission"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The problem of the territory should be sanctioned by the society, and this can only happen..."
+      }
+    ],
+    "speakername": "Mikhail Khodorkovsky",
+    "ground_truth": "only happen after the first fair elections. Once fair elections are held, a new government has a mandate given to it by its people, then that government will have to solve the problem.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

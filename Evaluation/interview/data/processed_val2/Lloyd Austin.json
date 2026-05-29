@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We've known for several weeks that they were revamping their policy on the use of nuclear weapons. I don't see an indication that there's an imminent intent to use nuclear weapons."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is he bluffing with this change?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "He has rattled his nuclear saber quite a bit, and this is dangerous behavior."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In his first interview since [redacted] was elected again and chose media personality and veteran [redacted] to take over the [government institution], [target] addressed some of [redacted]'s views. Your possible successor has said that women should not serve in combat roles and they make fighting more complicated."
+      }
+    ],
+    "speakername": "Lloyd Austin",
+    "ground_truth": "Do you agree? I have spent 41 years in uniform, and everywhere I went on the battlefield, there were women in our formation. I would tell you that, you know, our women are the finest troops in the world.",
+    "bio": "Born August 8, 1953, is an American retired military four-star general who, since his appointment on January 22, 2021, has served as the 28th secretary of defense. He is the first African American to serve in this role. He previously served as the 12th commander of a major military command from 2013 to 2016. He was the 33rd vice chief of staff from January 2012 to March 2013, and the last commanding general of military forces in a major overseas operation, which ended in December 2011. In 2013, he was appointed as the first Black commander of this command by the then-President. He retired from the armed services in 2016 and joined the boards of several major corporations and a university. On December 7, 2020, he was nominated for defense secretary by the then-President-elect. He was confirmed by the legislative body on January The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "He has rattled his nuclear saber quite a bit, and this is dangerous behavior."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In his first interview since the former president was elected again and chose media personality and veteran to take over the [government department], the secretary addressed some of the successor's views. Your possible successor has said that women should not serve in combat roles and they make fighting more complicated."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Do you agree? I have spent 41 years in uniform, and everywhere I went on the battlefield, there were women in our formation. I would tell you that, you know, our women are the finest troops in the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you have any concern that women impact readiness of these units?"
+      }
+    ],
+    "speakername": "Lloyd Austin",
+    "ground_truth": "they do impact readiness. They make us better. They make us stronger. This is not hyperbole. This is fact. I'm just telling you what I've seen.",
+    "bio": "Born in 1953, this retired four-star general has served as the 28th secretary of defense since 2021. He is the first African American to serve in this role. He previously served as the 12th commander of a major military command from 2013 to 2016. He was the 33rd vice chief of staff of the military branch from January 2012 to March 2013, and the last commanding general of forces in a Middle Eastern operation, which ended in December 2011. In 2013, he was appointed as the first Black commander of the command by the then-President. He retired from the armed services in 2016 and joined the boards of several major corporations and a university. In December 2020, he was nominated for his current position by the then-President-elect. He was confirmed by the legislative body the following month. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Do you agree? I have spent 41 years in uniform, and everywhere I went on the battlefield, there were women in our formation. I would tell you that, you know, our women are the finest troops in the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you have any concern that women impact readiness of these units?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "they do impact readiness. They make us better. They make us stronger. This is not hyperbole. This is fact. I'm just telling you what I've seen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your likely successor has also said recently the U.S. has to fire the chairman of the Joint Chiefs because of his support for diversity initiatives. How would Captain [target] have felt about a statement like that out of the incoming secretary of defense?"
+      }
+    ],
+    "speakername": "Lloyd Austin",
+    "ground_truth": "You know, Captain [target] would be very concerned. Courtney, I think it's important that young officers, young soldiers, young sergeants be able to see themselves in our senior leadership. This is the third time that I've served with General Brown directly. He's one of the most competent officers I've ever worked with.",
+    "bio": "Born August 8, 1953, is an American retired military four-star general who, since his appointment on January 22, 2021, has served as the 28th secretary of defense. He is the first African American to serve in this role. He previously served as the 12th commander of military central command from 2013 to 2016. He was the 33rd vice chief of staff from January 2012 to March 2013, and the last commanding general of forces in a major overseas operation, which ended in December 2011. In 2013, he was appointed as the first Black commander of central command by the President. He retired from the armed services in 2016 and joined the boards of several major corporations and a university. On December 7, 2020, he was nominated for defense secretary by the then-President-elect. He was confirmed by the Senate on January. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "they do impact readiness. They make us better. They make us stronger. This is not hyperbole. This is fact. I'm just telling you what I've seen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your likely successor has also said recently the country has to fire the chairman of the Joint Chiefs because of his support for diversity initiatives. How would [target] have felt about a statement like that out of the incoming secretary of defense?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, [target] would be very concerned. Courtney, I think it's important that young officers, young soldiers, young sergeants be able to see themselves in our senior leadership. This is the third time that I've served with General Brown directly. He's one of the most competent officers I've ever worked with."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "David, it's pretty remarkable because there were eyewitnesses to this balloon. You know, the whole country was really watching as it continued to move over our territory. And we understand that it wasn't just this balloon and it wasn't just this country that has experienced something like this. What did you ask the secretary about other incidents that may have been similar to this that he's aware of?"
+      }
+    ],
+    "speakername": "Lloyd Austin",
+    "ground_truth": "[Political Figure], President of the country, Well, it turns out that China has a fleet of these high-altitude surveillance balloons, and they have been flying them all over the world and violating airspace on five continents, according to a government official. Obviously, the immediate concern is other flights over our country. So I asked him about those other flights over our country.",
+    "bio": "[Target] (born August 8, 1953) is an American retired military four-star general who, since his appointment on January 22, 2021, has served as the 28th secretary of defense. He is the first African American to serve as the secretary of defense. [Target] previously served as the 12th commander of military central command from 2013 to 2016. [Target] was the 33rd vice chief of staff of the military from January 2012 to March 2013, and the last commanding general of forces in a foreign operation, which ended in December 2011. In 2013, [target] was appointed as the first Black commander of central command by the President. He retired from the armed services in 2016 and joined the boards of several major corporations and a university. On December 7, 2020, he was nominated for defense secretary by then-President-elect. He was confirmed by the Senate on January The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Hello, I'm Tara Kopp, Senior Military Correspondent for a defense publication. I'm honored today to be joined by Defense Secretary [target] for our annual Summit Outlook 2022. Secretary [target], it seemed very appropriate to me as we are in a presidential library to start with one of the tenets of the security strategy, peace through strength. We have seen this mantra challenged on two fronts by both Russia and China of late. And so I wanted to start with China, particularly since you just got back from your third trip in the region and you just started a forced posture review that will ultimately shift resources from other theaters and send them west. And as you know, some of your predecessors also tried to do this shift west, but ultimately there were too many competing priorities in the Middle East, and that shift didn't really happen. So I was just wondering now, how is this moment different? And what is driving the sense of urgency to really get us reoriented into the Pacific?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "First, I'd like to point out, Tara, that a new administration coming in, one of the first things that you'd expect for us to do is take inventory of where all of our capabilities or all of our forces are, and we want to make sure that our footprint matches our priorities. But it's not just forces, it's capability."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I think we have to remember that we have capability in all warfighting domains, air, land, sea, and also space and cyber, and undersea capability as well. And so as we look to make sure that we have the right capabilities in the right place, we're really allocating resources in all of those domains. For the last 20-plus years, Tara, we've been focused on fighting or countering transnational terrorism. And while we were heavily involved in that fight, the Chinese have been very busy modernizing their military and developing capabilities, in some cases that I think could be considered destabilizing in the region. But it's not just that. We've seen behaviors from the Chinese that are somewhat disturbing and don't really comport with what we believe in, in terms of making sure that the Indo-Pacific region remains open and free and promotes international commerce and that sort of stuff. So as we've seen, China coerces neighbors and really... conducts some malign activities that's been very concerning to us. The pace at which China is developing capabilities and their activities really caused us to be a bit concerned, because they're on a trajectory to really begin to compete in a more meaningful way in the out years. And so that's why you've heard me describe them as our pacing challenge. And they will remain our pacing challenge for the foreseeable future."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did that sense of urgency and the rapid modernization become one of the points in the argument that it was time to draw down forces in Iraq and Afghanistan to be able to really do this shift?"
+      }
+    ],
+    "speakername": "Lloyd Austin",
+    "ground_truth": "Well, again, it's not just the forces, it's the capability in all of those domains. Certainly, you know, the president made his decisions for exiting Afghanistan based on a number of things. And while that was not the driving factor, it certainly provides us additional opportunities to use some of those capabilities in the Indo-Pacific.",
+    "bio": "Born in 1953, the subject is a retired four-star general who, since 2021, has served as the 28th Secretary of Defense. They are the first African American to serve in this role. Previously served as commander of a major military command from 2013 to 2016, and held various senior military leadership positions. After retiring from military service in 2016, joined the boards of several major corporations and an educational institution. Was nominated for the current position in December 2020 and confirmed by the Senate in January 2021. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

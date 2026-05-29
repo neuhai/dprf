@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you say it's not going to launch until January. From now until then, have you been in conversations with investors from the region? Are you looking to sell a stake, potentially?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're absolutely trying to be strategic. So we're looking for partners who want to grow with us. And obviously this region we're about to open our first office here. So we'll be doing that also at the start of the year. So I think the combination of the excitement that's going on here. We believe that this is going to be one of the most important places in the world over the next several decades. So the combination of being able to develop the relationships here. And also build businesses together. We've been in business with many people in the region for a long time."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and now we want to continue to extend and expand those relationships."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Well, you talk about opening offices here. That's also in the press release. You have offices all around the world, but also have plans to open up an office in [location]. Why [location]?"
+      }
+    ],
+    "speakername": "Todd Boehly",
+    "ground_truth": "We believe that the region is extremely important and we think [location] is a great first place to put our first Eldridge office, but we have plans to continue to develop our offices in the region and have a much bigger presence on site.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "and now we want to continue to extend and expand those relationships."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. Well, you talk about opening offices here. That's also in the press release. You have offices all around the world, but also have plans to open up an office in [region_capital]. Why [region_capital]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We believe that the region is extremely important and we think [region_capital] is a great first place to put our first Eldridge office, but we have plans to continue to develop our offices in the region and have a much bigger presence on site."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. [Middle_Eastern_country] potentially. I know lots of investors are having conversations about opening up a regional headquarters there. So potentially something for the future too."
+      }
+    ],
+    "speakername": "Todd Boehly",
+    "ground_truth": "Absolutely. I think if you look at where the big opportunities are, I think developing sports and entertainment and infrastructure and media, those are all big opportunities in the region and in particular in [Middle_Eastern_country] because they have so much infrastructure to build.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We believe that the region is extremely important and we think [location] is a great first place to put our first [company] office, but we have plans to continue to develop our offices in the region and have a much bigger presence on site."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah. [location] potentially. I know lots of investors are having conversations about opening up a regional headquarters there. So potentially something for the future too."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. I think if you look at where the big opportunities are, I think developing sports and entertainment and infrastructure and media, those are all big opportunities in the region and in particular in [location] because they have so much infrastructure to build."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What goes wrong? If you think about the next six to 12 months, there's a lot of concern that these prolonged higher for, these prolonged interest rates will start to create serious cracks in the market. Where are you starting to see them?"
+      }
+    ],
+    "speakername": "Todd Boehly",
+    "ground_truth": "Well, there are definitely places where, you know, there's been, I think, if you look at the liability management exercises that are going on, you know, there's been something like 30 or 35 of them. And 14 or so have been kind of what we'll call repeat offenders, where the borrowers have already done a liability management exercise, so they didn't end up kind of solving their problem. They just kind of kicked the can down the road. So I think it's specific to industry, right? If you go back and you look at defaults, defaults ripple through industry, right? So generally, there's something going on in an industry. So defaults generally spike, you know, in an industry. You know, I think everyone obviously talks about the real estate stuff. I've never found that anyone has been able to predict the thing that's been the problem, right? Generally, the thing that is the problem is a surprise. So, you know, I think we're going to see this sort itself out would be what I would bet. But obviously, you know, I think we're also, we're living in a world where, you know, a four and a quarter tenure people think is high. If you go back and look at time, you know, a tenure at four and a quarter is not high, right? So I think we'll see over time the front end of the curve come down and, you know, the back end of the curve will kind of stay where it is. But I just don't see that, you know, the higher for longer, you know, is necessarily going to be the thing that, you know, crushes us.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. I think if you look at where the big opportunities are, I think developing sports and entertainment and infrastructure and media, those are all big opportunities in the region and in particular in [location] because they have so much infrastructure to build."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What goes wrong? If you think about the next six to 12 months, there's a lot of concern that these prolonged higher for, these prolonged interest rates will start to create serious cracks in the market. Where are you starting to see them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, there are definitely places where, you know, there's been, I think, if you look at the liability management exercises that are going on, you know, there's been something like 30 or 35 of them. And 14 or so have been kind of what we'll call repeat offenders, where the borrowers have already done a liability management exercise, so they didn't end up kind of solving their problem. They just kind of kicked the can down the road. So I think it's specific to industry, right? If you go back and you look at defaults, defaults ripple through industry, right? So generally, there's something going on in an industry. So defaults generally spike, you know, in an industry. You know, I think everyone obviously talks about the real estate stuff. I've never found that anyone has been able to predict the thing that's been the problem, right? Generally, the thing that is the problem is a surprise. So, you know, I think we're going to see this sort itself out would be what I would bet. But obviously, you know, I think we're also, we're living in a world where, you know, a four and a quarter tenure people think is high. If you go back and look at time, you know, a tenure at four and a quarter is not high, right? So I think we'll see over time the front end of the curve come down and, you know, the back end of the curve will kind of stay where it is. But I just don't see that, you know, the higher for longer, you know, is necessarily going to be the thing that, you know, crushes us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So moving from credit to equity for a moment here, because you do at [company] have a very interesting portfolio that is very diverse across industries you play in. And if you think about kind of the topic du jour, artificial intelligence, very, very curious on how artificial intelligence is impacting your portfolio companies. Where are you seeing the most promise?"
+      }
+    ],
+    "speakername": "Todd Boehly",
+    "ground_truth": "Yeah, so the first thing I would say is that when management and ownership are significantly overlapped, right, the ability to be on the front foot is very different than when management and ownership are completely disconnected. So just take the media industry, for example. [company] is a company that we founded in 2012. You know, two years ago, they were the first studio to ever clean sweep all big six of the [event]. Best picture, best actor, best director, best actress, best supporting actor, best supporting actress. So they clean sweep all six. They're significantly owned by their founders. So they're in a position to figure out how are we going to use AI in order to make our content faster, better, quicker, cheaper. And at the same time... They have the credibility to bring the actors and actresses with them on, you know, the journey. So, because let's face it, it's coming, right? So, you know, you have to be able to figure out how do we win collectively, you know, in this journey. You look at what's going on in, you know, kind of large publicly traded media companies, and I think they're on the back foot playing defense because management and ownership really don't wear the same hat. Right? They have a very disconnected view of the world.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, there are definitely places where, you know, there's been, I think, if you look at the liability management exercises that are going on, you know, there's been something like 30 or 35 of them. And 14 or so have been kind of what we'll call repeat offenders, where the borrowers have already done a liability management exercise, so they didn't end up kind of solving their problem. They just kind of kicked the can down the road. So I think it's specific to industry, right? If you go back and you look at defaults, defaults ripple through industry, right? So generally, there's something going on in an industry. So defaults generally spike, you know, in an industry. You know, I think everyone obviously talks about the real estate stuff. I've never found that anyone has been able to predict the thing that's been the problem, right? Generally, the thing that is the problem is a surprise. So, you know, I think we're going to see this sort itself out would be what I would bet. But obviously, you know, I think we're also, we're living in a world where, you know, a four and a quarter tenure people think is high. If you go back and look at time, you know, a tenure at four and a quarter is not high, right? So I think we'll see over time the front end of the curve come down and, you know, the back end of the curve will kind of stay where it is. But I just don't see that, you know, the higher for longer, you know, is necessarily going to be the thing that, you know, crushes us."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So moving from credit to equity for a moment here, because you do at Eldridge Industries have a very interesting portfolio that is very diverse across industries you play in. And if you think about kind of the topic du jour, artificial intelligence, very, very curious on how artificial intelligence is impacting your portfolio companies. Where are you seeing the most promise?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, so the first thing I would say is that when management and ownership are significantly overlapped, right, the ability to be on the front foot is very different than when management and ownership are completely disconnected. So just take the media industry, for example. A24 is a company that we founded in 2012. You know, two years ago, they were the first studio to ever clean sweep all big six of the Academy Awards. Best picture, best actor, best director, best actress, best supporting actor, best supporting actress. So they clean sweep all six. They're significantly owned by their founders. So they're in a position to figure out how are we going to use AI in order to make our content faster, better, quicker, cheaper. And at the same time... They have the credibility to bring the actors and actresses with them on, you know, the journey. So, because let's face it, it's coming, right? So, you know, you have to be able to figure out how do we win collectively, you know, in this journey. You look at what's going on in, you know, kind of large publicly traded media companies, and I think they're on the back foot playing defense because management and ownership really don't wear the same hat. Right? They have a very disconnected view of the world."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Is what you're saying that this makes a difference in terms of how they invest in technology?"
+      }
+    ],
+    "speakername": "Todd Boehly",
+    "ground_truth": "I think it makes a difference on whether they're on the front foot or the back foot and how they, you know, kind of come to grips with we have to embrace this, you know, and figure out how to tackle it and figure out how to do it so we're all going to be on the same page going forward. But the reality is it's coming, right? So I think if you look at, you know, insurance and how we're thinking about how it's going to affect insurance, you know, processing of insurance, you know, call centers, right? You know, we're now using AI in all of our call centers to service our insurance policies and it's just a better experience, right? We used to have to monitor, you know, calls to figure out how the call center operators were doing. How many calls can you actually monitor, right? 50 basis points of all the calls? Now we basically get full transcripts of every call. When you hear tension rising, when you hear certain words, it automatically kicks that transcript. To a manager who can then decide. And of course, what also was happening is every call center employee would have to give a summary of the call. So they'd have to take the call, write down the call, the description of the call. And as you can imagine, no call ever went wrong.",
+    "bio": " The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

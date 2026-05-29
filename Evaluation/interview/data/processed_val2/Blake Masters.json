@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you. Thanks for having me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Let's get right to it, since we're short on time. Rather surprisingly, the Supreme Court's ruling on the constitutional case has sparked a renewed debate regarding abortion rights here in this state. Based on what we've observed in the primary to now, you've seemingly softened your stance a bit on the subject. At this moment, where do you stand on the issue? Do you support a total ban on abortion, or is there a gray area here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I've been consistent actually throughout the whole primary, consistent now. I did think that the constitutional case needed to be overturned. I'm glad it was, right? Send this issue back to the states. The state legislatures will wrestle with it. The western state will make different decisions than our state. It should probably make different decisions than the southern state, right? So I think that's appropriate. I've come out in favor of our state's 15-week law. I think most people in our state support that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As a lifelong resident of this state, as I am, clearly border security is a big subject. It's also very, very complex. There is no one way or the other. What I'd like to know is how will you work in the Senate to reform federal immigration laws and improve processes for those seeking asylum or those seeking a better life here in the United States?"
+      }
+    ],
+    "speakername": "Blake Masters",
+    "ground_truth": "I find it outrageous that the opponent is pretending to be concerned about border security when he has voted no less than five times to keep our border wide open. Once I'm in the Senate, I will not vote for a single thing that the current administration wants, not a single piece of legislation, not a single piece of funding or a single appointee, unless and until we get some border security. This election is the most stark contrast you could ever have between two candidates on this issue. I think that when someone tries to break into our country illegally, they should be apprehended, turned over to federal authorities and deported, either back to their home country or a different country, whatever country wants to take them. The opponent doesn't. He thinks that, when someone comes in, they should be resettled into towns and cities across the state. I think that's just crazy. He's welcoming unauthorized immigrants. He and the administration have welcomed more than five million into our country in the last two years. So he'll hem and haw about being tough on border security. No, you talk to Border Patrol agents who have endorsed me, they just find the opponent to be completely absent. He's just lying to people.",
+    "bio": "The speaker (born August 5, 1986) is an American venture capitalist and president of a prominent foundation. They co-wrote a book about startups and building the future with a well-known tech entrepreneur in 2014, based on notes taken at a prestigious law school in 2012. The speaker is seeking their party's nomination in the 2022 U.S. Senate election in a southwestern state, facing the state Attorney General and a solar businessman. Throughout their campaign, they have aligned themselves with a former president, who endorsed them in June 2022. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I've been consistent actually throughout the whole primary, consistent now. I did think that Roe v. Wade needed to be overturned. I'm glad it was, right? Send this issue back to the states. The state legislatures will wrestle with it. California will make different decisions than Arizona. It should probably make different decisions than Texas, right? So I think that's appropriate. I've come out in favor of Arizona's 15-week law. I think most people in Arizona support that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As a lifelong Arizonan, as I am, clearly border security is a big subject. It's also very, very complex. There is no one way or the other. What I'd like to know is how will you work in the Senate to reform federal immigration laws and improve processes for those seeking asylum or those seeking a better life here in the United States?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I find it outrageous that Mark Kelly is pretending to be concerned about border security when he has voted no less than five times to keep our border wide open. Once I'm in the Senate, I will not vote for a single thing that Joe Biden wants, not a single piece of legislation, not a single piece of funding or a single appointee, unless and until we get some border security. This election is the most stark contrast you could ever have between two candidates on this issue. I think that when someone tries to break into our country illegally, they should be apprehended, turned over to ICE and deported, either back to their home country or a different country, whatever country wants to take them. Mark Kelly doesn't. He thinks that, when someone comes in, they should be resettled into towns and cities across Arizona. I think that's just crazy. He's welcoming illegal aliens. He and Biden have welcomed more than five million into our country in the last two years. So he'll hem and haw about being tough on border security. No, you talk to Border Patrol agents who have endorsed me, they just find Mark Kelly to be completely absent. He's just lying to people."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The growth in Arizona over the past few decades has been incredible. Huge opportunities for big businesses bringing themselves here, but inflation continues to hamper what I would call the American dream. We have lots of people who are wondering if they're gonna be able to own their own home, their first home. You have families wondering how they're gonna raise their kids with income disparities that we're seeing throughout our communities. How will you give us the best chance to be successful?"
+      }
+    ],
+    "speakername": "Blake Masters",
+    "ground_truth": "Great question. We have to stop this crippling inflation. I talked to so many families around Arizona who are just getting crushed. I had a business owner. Actually, he's doing reasonably well. He's got his own business. It's been good. But he told me today, I'm sorry, Blake, I can't donate to your campaign because the inflation is crushing my businesses and my customers, his working class customers. They don't have discretionary income in this Joe Biden, Mark Kelly economy. So first, we need to reverse Biden and Mark Kelly's war on fossil fuels. They declared war on American energy production. Well, when you declare war on oil and gas in a country that's still mostly powered by oil and gas, you send energy prices to the moon. And that's why gas went from $2 to $5. Now they want a metal because it's back down closer to $4. It's like, no, it's still double what it was just two or three short years ago. So we need to produce energy here in this country. That means oil, gas. I think it means nuclear, right? And then we need to stop spending so much money. They printed $6 trillion in 18 months. Do you think that's going to cause some inflation? Yeah. That's going to cause some inflation. Every trillion dollars that the government spends, it just makes every dollar in your wallet worth less and less, right? It sends prices at the supermarket just skyrocketing. It sends rent prices skyrocketing.",
+    "bio": "Blake Gates Masters (born August 5, 1986) is an American venture capitalist and president of the Thiel Foundation. Masters co-wrote Zero to One: Notes on Startups, or How to Build the Future with Peter Thiel in 2014, based on notes Masters had taken at Stanford Law School in 2012.\\n\\nMasters is seeking the Republican Party nomination in the 2022 U.S. Senate election in Arizona, facing state Attorney General Mark Brnovich and solar businessman Jim Lamon. Throughout his campaign, he has aligned himself with Donald Trump, who endorsed him in June 2022. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The President has removed all of these great pro-veteran policies and now he's struggling to find health care, right? It's a travesty."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, I know you were saying in there, like, how do we fix the VA? Like, what would you do in this situation to fix the VA?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The first step is to, like, literally reimplement all the policies that the previous administration had implemented. Like, I grew up watching my grandfather, who was a World War II veteran, struggle with the VA. It would take him weeks to get an appointment for his phantom limb pain. And then the previous administration put in place a rule that says, hey, if you can't get an appointment at a certain amount of time in the VA, then you can immediately go to any private clinic you want, fully comped, right, which is great. And now the current administration just took that away. It's like, why would you take that away from our veterans, right? So to immediately make it better is easy. And then long term, you've got to work and study the system. But we really can't prioritize that enough. Like, veterans have put on the cloth of the nation and are willing to fight and in some cases die for this country. And we just have to take better care of them. I'm sick of how it works right now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to get codified in the legislature and that way it's not an executive thing anymore they can't change it it's the law that's right um another piece i wanted to talk to you about which i've also interviewed your opponents about is infrastructure you talked in there about being pro-nuclear what is your view of a balanced energy grid do we just see like nuclear solar like the mix of it or what what's like your preferred energy i'm an oil and gas guy okay you know like jim"
+      }
+    ],
+    "speakername": "Blake Masters",
+    "ground_truth": "I think a little bit like the opponent, a little bit not like him because he made his career in solar, right? But he's, you know, soon, soon going to be irrelevant.",
+    "bio": "Born in 1986, [target] is an American venture capitalist and president of a prominent foundation. He co-wrote a book about startups and future-building with a prominent tech investor in 2014, based on notes he had taken at a prestigious law school in 2012. He is seeking a major party nomination in a 2022 Senate election in a southwestern state, facing the state Attorney General and a solar businessman. Throughout his campaign, he has aligned himself with a former president, who endorsed him in June 2022. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, I know you were saying in there, like, how do we fix the government healthcare system? Like, what would you do in this situation to fix it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The first step is to, like, literally reimplement all the policies that the previous administration had implemented. Like, I grew up watching my grandfather, who was a World War II veteran, struggle with the government healthcare system. It would take him weeks to get an appointment for his phantom limb pain. And then a rule was put in place that says, hey, if you can't get an appointment at a certain amount of time, then you can immediately go to any private clinic you want, fully comped, right, which is great. And now the current administration just took that away. It's like, why would you take that away from our veterans, right? So to immediately make it better is easy. And then long term, you've got to work and study the system. But we really can't prioritize that enough. Like, veterans have put on the cloth of the nation and are willing to fight and in some cases die for this country. And we just have to take better care of them. I'm sick of how it works right now."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to get codified in the legislature and that way it's not an executive thing anymore they can't change it it's the law that's right um another piece i wanted to talk to you about which i've also interviewed your opponents about is infrastructure you talked in there about being pro-nuclear what is your view of a balanced energy grid do we just see like nuclear solar like the mix of it or what what's like your preferred energy i'm an oil and gas guy okay you know like jim"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think a little bit like Jim, a little bit not like Jim because he made his career in solar, right? But he's, you know, soon going to be irrelevant."
+      }
+    ],
+    "speakername": "Blake Masters",
+    "ground_truth": "I'm an oil and gas guy, though. So to the extent we have incredible natural resources, we need to be used. We need to be drilling. We need to be exploring new oil leases. We need to be fracking, right? The fracking revolution has been phenomenal. So oil and gas, absolutely. I'm more skeptical of wind and solar and these sort of alternative energy projects. That's the sort of environmental portfolio, right? The stuff that tends to need to be subsidized heavily to work. So I'd skip over those. Do the oil and gas, skip over those and then go straight to nuclear. Like nuclear is cheap. It's safe. It's cheap. It's clean. Right here in this county, we have a Nuclear Generating Station. Things been producing safe and clean nuclear power for like 30 years.",
+    "bio": "An American venture capitalist and foundation president born in 1986. He co-wrote a book about startups and future-building with a prominent tech investor in 2014, based on notes taken at a prestigious law school in 2012. He is seeking a political party nomination in a 2022 Senate election, competing against a state Attorney General and a solar businessman. Throughout his campaign, he has aligned himself with a former president, who endorsed him in June 2022. The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm an oil and gas guy, though. So to the extent he like God bless this country with incredible natural resources. We need to be used. We need to be drilling. We need to be exploring new oil leases. We need to be fracking, right? The fracking revolution has been phenomenal. So oil and gas, absolutely. I'm more skeptical of wind and solar and these sort of left wing boondoggles. That's the sort of Green New Deal portfolio, right? The stuff that tends to need to be subsidized heavily to work. So I'd skip over those. Do the oil and gas, skip over the left wing stuff and then go straight to nuclear. Like nuclear is cheap. It's safe. It's cheap. It's clean. Right here in this county, we have the local Nuclear Generating Station. Things been producing safe and clean nuclear power for like 30 years."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and we got to renew it. Unfortunately, I studied up on this recently. It's going to take seven years of hard work to even get the permits to renew that thing for another couple of decades."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's crazy. And we look at putting in like new reactors, like small modular reactors, anything like that. Yup. I believe that's the future. And that was actually one thing your opponent, and that's why I brought up Jim on that was, you know, he's a former fossil fuel exec, and when I asked him about energy"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "He was totally dismissive of nuclear, although the cost has to go down, everything else, right? But looking at regulation, I mean, is that a part of it? Have you researched that enough?"
+      }
+    ],
+    "speakername": "Blake Masters",
+    "ground_truth": "Yeah. In fact, so before I ran for Senate, I was an investor, invested in technology companies, and very, I won't say very often, but two or three times we found really talented nuclear scientists who wanted to start a startup, and we wanted to invest, right, because they would come up with some small modular reactor design that they could mathematically prove wasn't going to lead to runaway chain reactions. And the problem is, you know, you get to the final stage of diligence, and ultimately, in good faith, with a fiduciary duty, you couldn't invest in these companies because there's no regulatory pathway, right? The NRC, literally, its whole job, apparently, is to just say, no, no, no, no, you can't test this, you can't build this, and we haven't built a new nuclear facility in this country for a long time. So we've actually criminalized innovation, even though I know there are safe regulatory pathways that we can develop to get these small modular reactors. So it's one thing I want to focus on in the Senate, absolutely. And to the extent, you know, naysayers like Jim, he's the past, he's the past. I'm depressed.",
+    "bio": "The speaker (born August 5, 1986) is an American venture capitalist and president of a prominent foundation. They co-wrote a book about startups and building the future with a well-known entrepreneur in 2014, based on notes taken at a prestigious law school in 2012. The speaker is seeking the Republican Party nomination in a 2022 Senate election in a southwestern state, facing the state Attorney General and a solar businessman. Throughout their campaign, they have aligned themselves with a former president, who endorsed them in June 2022. The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

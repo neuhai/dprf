@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, thank you. Pleased to be here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So let's begin with this wonderful resume of your work and all of the things that you've accomplished throughout your career. Who or what influenced your work?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I it was my family, my mother and father in particular, but all of my siblings also contributed as we grew up and as models and role models for me. That was important. What contributed was the fact that we we had a joyful fun loving. curious. caring family environment and we had a ball. At the same time, we were expected and encouraged to achieve and to be successful in our goals to have goals, so it was that combination. That. really made it possible, but then a couple things happened in particular that, as we were succeeding, I had friends who look like me, who were just as smart and just as able as anybody in our. racially integrated school. And yet many of them, despite their abilities. went on a downhill course yeah and that question was why, what was the difference I couldn't see it. And eventually, as I trained I began to see the kind of experiences that children need that I had that they didn't receive even though their parents were good people who wanted them to succeed, it was that desire and intention. Instead their parents were good on it did not want to see their families grow on that struggle for the better. All I can say is, on that side of the it there was a place where my rational effort on the part of my parents to focus on our development, they understood development intuitively. All I have in common with my parents was this commitment of not letting take any responsibility out of us, I believe. Because the first thing you know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "James Comer",
+    "ground_truth": "And it was the focus on development that really made the difference. Both the caring, the love, the excitement in the family, the things that we did, that was a big part of it. But then it was also the guidance and the sanctions and the things they did not want to happen. All of that got conveyed to us in indirect, but very powerful kinds of ways. And I've come to believe that that's the critical difference between success and difficulty for children. And it's that when the parents can provide that kind of support, and if not the parents, the neighborhood, the schools, the communities, whatever kinds of activities they're in, but it's... Everybody together has to provide experiences that help children grow, develop, and be able to express themselves and solve problems in a way that works for them and the people around them.",
+    "bio": "The speaker is an American politician from a southern state who represents the state's 1st congressional district in the national legislature. A member of a major political party, they have served in Congress since 2016, during the 114th United States Congress. They previously served in their state's House of Representatives and also served as the Agriculture Commissioner of their state. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And yet we're getting the kinds of results we wanted because the structure of the school schools didn't permit it and the preparation of the teachers before they got there and all the other people in schools. It was not what was required to create a culture in school. So you could have a culture at home that supports development, but if it doesn't follow into the school, you then have a problem. And so we had to create a culture in school that worked to support the development of children, which means that all of the participants in the school had to understand something about children and had to understand how all of the pieces of the school program have to work and work with each other. The pieces have to interact well. And the overall system has to be a culture that works for the adults and all the participants and works to support development of kids."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "absolutely and it seems to me that what you know you use the word pieces and it seems to me that what the model has done is to bring them together and to create this holistic environment or to create that culture can you share a little bit about what the sdp model is what are the components and how does it create this culture for shared decision making and for parent involvement and all the kinds of things that your parents and your family gave you the opportunity to experience during your childhood how do you recreate that in the school"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "it carefully."
+      }
+    ],
+    "speakername": "James Comer",
+    "ground_truth": "the uh when it exploded when the program exploded because you know it was we were under pressure it was the 1960s and [prominent civil rights leader] had just been assassinated and everybody wanted everything to happen right away and it didn't we weren't ready and it exploded then we had to figure out how do you put it back together again in a way that addressed all the things i've just said were important and the most important thing was to have a governance and management team made up of all of the participants in the school representative of all the participants so that the team didn't have everybody it had people selected or selected or themselves or voted or however we selected to serve on the team and we had parents uh we had the educators uh the professional child developer people and so everybody in the school all the stakeholders were represented school planning and management team and eventually as we moved along we created a nine element process model in which all of the participants had a stake in and helped to change the way the school worked and uh created a culture that then worked for the children and worked for all the adults around the children and that uh that nine element structure wasn't off the top of our heads we had as incidents occurred we figured out that we create this school planning and management team but then once there there's a question of how do you how do you carry out the academic program and and so that school planning and management team uh we created the comprehensive school plan um that was both academic and uh social and so you we took all of the activities at schools more or less sometimes and sometimes they do it because they want to please the children sometimes they do it because they want to punish the whole variety of reasons that we do things in schools we developed a social calendar um throughout and and we designed the social calendar so that they created exciting activities throughout the year for the children and for the adults and we planned and organized what we were doing within that social calendar uh and within the academic program and integrated those wherever possible uh and staff development so that they could uh and staff development so that they could uh and staff development so that they could uh and staff development so that they could develop the skills develop the skills develop the skills necessary to carry out necessary to carry out",
+    "bio": "A politician from [state] who represents the state's 1st congressional district in the national legislature. A member of the Republican Party, they have served in Congress since 2016, during the 114th Congress. They previously served in the [state] House of Representatives and also served as the Agriculture Commissioner of [state]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "it carefully."
+      },
+      {
+        "speaker": "[target]",
+        "text": "the uh when it exploded when the program exploded because you know it was we were under pressure it was the 1960s and civil rights leader had just been assassinated and everybody wanted everything to happen right away and it didn't we weren't ready and it exploded then we had to figure out how do you put it back together again in a way that addressed all the things i've just said were important and the most important thing was to have a governance and management team made up of all of the participants in the school representative of all the participants so that the team didn't have everybody it had people selected or selected or themselves or voted or however we selected to serve on the team and we had parents uh we had the educators uh the professional child developer people and so everybody in the school all the stakeholders were represented school planning and management team and eventually as we moved along we created a nine element process model in which all of the participants had a stake in and helped to change the way the school worked and uh created a culture that then worked for the children and worked for all the adults around the children and that uh that nine element structure wasn't off the top of our heads we had as incidents occurred we figured out that we create this school planning and management team but then once there there's a question of how do you how do you carry out the academic program and and so that school planning and management team uh we created the comprehensive school plan um that was both academic and uh social and so you we took all of the activities at schools more or less sometimes and sometimes they do it because they want to please the children sometimes they do it because they want to punish the whole variety of reasons that we do things in schools we developed a social calendar um throughout and and we designed the social calendar so that they created exciting activities throughout the year for the children and for the adults and we planned and organized what we were doing within that social calendar uh and within the academic program and integrated those wherever possible uh and staff development so that they could uh and staff development so that they could uh and staff development so that they could uh and staff development so that they could develop the skills develop the skills develop the skills necessary to carry out necessary to carry out"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "James Comer",
+    "ground_truth": "As we went along to see whether it was working or not make adjustment the school planning and management team was in charge of making that happen, they had the responsibility for that, but the principal usually led the team, but that was an option. But that was the basic I say that the core. Of the nine elements those two but. Getting people to work together.",
+    "bio": "The target (/ËkoÊmÉr/ KOH-mÉr; born August 19, 1972) is an American politician from a southern state who represents the state's 1st congressional district in the national legislature. A member of the Republican Party, they have served in Congress since 2016, during the 114th United States Congress. They previously served in the state House of Representatives and also served as the Agriculture Commissioner of their state. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to trust each other, to like each other, if that was the hardest work."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Carter."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That's what I'm saying."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So to create that kind of environment, you had to have some guidelines for interactions, and we had three major guidelines. No fault problem solving. We didn't spend all our time blaming somebody and try to find who was responsible for this or that. We focused on solving that problem. Then there was consensus decision making. Well, we've talked together about how to solve things. We had to come to a consensus, not vote, because if you vote, somebody wins and somebody loses."
+      }
+    ],
+    "speakername": "James Comer",
+    "ground_truth": "and the person who loses says well you won you do it now we we wanted a consensus and the question was can you live with this approach and if you could then we'd go along with they would go along even though they didn't like it but what usually happened was that it either worked and they liked it or they discovered another way as they were working and found that that was better than any of the ways discussed and so it was in that give and take away with an open and with a commitment to trying to find a solution rather than to try to paralyze and try to punish people and so it was that consensus and then to work collaboratively to get together not paralyze each other or of the system those ideas then permeated everything that the teams in the school did and eventually they automatically began to think no fault consensus and collaboration and they as they worked and carried out that comprehensive school plan uh they they felt success and they they helped design the program and and therefore it belonged to them and when they succeeded it was this",
+    "bio": "The target is an American politician from [state] who represents the state's 1st congressional district in the national legislature. A member of the Republican Party, they have served in Congress since 2016, during the 114th Congress. They previously served in the [state] House of Representatives and also served as the Agriculture Commissioner of [state]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Carter."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That's what I'm saying."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So to create that kind of environment, you had to have some guidelines for interactions, and we had three major guidelines. No fault problem solving. We didn't spend all our time blaming somebody and try to find who was responsible for this or that. We focused on solving that problem. Then there was consensus decision making. Well, we've talked together about how to solve things. We had to come to a consensus, not vote, because if you vote, somebody wins and somebody loses."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and the person who loses says well you won you do it now we we wanted a consensus and the question was can you live with this approach and if you could then we'd go along with they would go along even though they didn't like it but what usually happened was that it either worked and they liked it or they discovered another way as they were working and found that that was better than any of the ways discussed and so it was in that give and take away with an open and with a commitment to trying to find a solution rather than to try to paralyze and try to punish people and so it was that consensus and then to work collaboratively to get together not paralyze each other or of the system those ideas then permeated everything that the teams in the school did and eventually they automatically began to think no fault consensus and collaboration and they as they worked and carried out that comprehensive school plan uh they they felt success and they they helped design the program and and therefore it belonged to them and when they succeeded it was this"
+      }
+    ],
+    "speakername": "James Comer",
+    "ground_truth": "And it was everybody's success. If they didn't succeed, then they had to fix it. And they had to find another way to do it so that it was the ownership and the sense that we can, I can do this, we can do this, we can make this happen. One of the funny stories was the years later when I received an award and they got a video, they came back and they were taking a picture of the video and you brought the parent members of the team back and they were having a great ball and thinking about what had happened. And the videographer said, well, what did [target] do? And they looked at each other, they couldn't remember. That was a compliment. I didn't do it. I suggested that this might be a way, and this was a structure in which they could use to figure out how to manage, but I didn't do it, they did. And so they were empowered through this process to do things that they didn't think they could do and have successes that they hadn't been experiencing before. And that was, that made the difference. And that creates, even now, people who are, who are a part of it, have these fond memories of the times they did it.",
+    "bio": "[target] (born August 19, 1972) is an American politician from [state] who represents the state's 1st congressional district in the national legislature. A member of the Republican Party, he has served in Congress since 2016, during the 114th Congress. He previously served in the [state] House of Representatives and also served as the Agriculture Commissioner of [state]. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

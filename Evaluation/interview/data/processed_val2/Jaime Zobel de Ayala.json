@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Sure, thanks for having me by the way. My name is [target]. I'm part of the eighth generation of the family. I currently work at the corporation. I head the business development unit within the corporation, the holding company, but I wear many hats. I also have some governance roles in EC Energy, telecommunications, and some of the subsidiaries as well."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I see, okay. So maybe you can tell us more about the organization specifically. What is the organization's stewardship purpose? And how has an organisation like this has stand the test of time? Through good times and bad, of course."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, our organization's stewardship purpose has been, I think, articulated in a lot of different ways over the course of its history. But really the binding thread amongst them has been this commitment to deploy resources towards solving important challenges in the national economy. And our latest purpose statement is we will be the most relevant, innovative and enduring business group that enables shared value and prosperity for all stakeholders. And we have that purpose statement, not just for the sake of having it, but really because we want to communicate to all our stakeholders who we are and what they can expect from us. That's important because we want to be accountable to that proposition to them. And over time, if we deliver on that proposition more often than not, I think what happens is we generate trust with those stakeholders. And trust is one of the most important currencies needed for an enduring institution. For the good times, but particularly for the bad times as well. Trust is what gives you the license to be able to service all those stakeholders over the period of time. So I think when we consider what has made our organization endure during good times and bad, I think it's the trust that we generate from the relationships we have with our stakeholders."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you know, right now, our society is facing increasingly dire challenges. For example, climate change, income inequality and so many more. So, for an organisation like yours, who has endured the worst across generations, what role do you see a corporation like yours playing in safeguarding our society today?"
+      }
+    ],
+    "speakername": "Jaime Zobel de Ayala",
+    "ground_truth": "Well, I think first and foremost, we have to confront the reality that a single corporation doesn't have, does not have the resources to solve all those problems or challenges completely on their own. It will take collaboration with a lot of different stakeholders and different partners, whether that be public or private institutions. And I think a company like ours can contribute to the solution of those challenges in a couple of ways. We can align ourselves with other like-minded institutions, whether that be government or other private sector institutions that want to focus on solving those challenges together, whether that be lowering the cost of financial transactions, making housing more affordable for certain segments of the population, or making healthcare more accessible to the population as well. When interests between different institutions converge, a corporation like ours can do that. A corporation like ours can allocate their resources to solve the problems in the best way that they can. So I think that's one way that a corporation like ours can help with that. Second is that I think a corporation like ours, which within its DNA incorporates the interests of as many stakeholders as possible, I think what we can do is we can demonstrate that there is a model for corporations to generate value over the long term in addressing those problems for all stakeholders. So one way to think about it is that our shareholders certainly want us to be solving a lot of these big pain points because there's tremendous opportunities if we execute it effectively. The communities that we serve certainly want us to be cognizant of how our business decisions impact the individuals in that community but also the environment in which they live in. And so I think a corporation like ours can serve as a model that taking into account the interests of all those stakeholders can generate value. Thank you. Thank you. Thank you.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, Ayala's stewardship purpose has been, I think, articulated in a lot of different ways over the course of its history. But really the binding thread amongst them has been this commitment to deploy resources towards solving important challenges in the national economy. And our latest purpose statement is Ayala will be the most relevant, innovative and enduring Philippine-based business group that enables shared value and prosperity for all stakeholders. And we have that purpose statement, not just for the sake of having it, but really because we want to communicate to all our stakeholders who we are and what they can expect from us. That's important because we want to be accountable to that proposition to them. And over time, if we deliver on that proposition more often than not, I think what happens is we generate trust with those stakeholders. And trust is one of the most important currencies needed for an enduring institution. For the good times, but particularly for the bad times as well. Trust is what gives you the license to be able to service all those stakeholders over the period of time. So I think when we consider what has made Ayala endure during good times and bad, I think it's the trust that we generate from the relationships we have with our stakeholders."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you know, right now, our society is facing increasingly dire challenges. For example, climate change, income inequality and so many more. So, for an organisation like Ayala, who has endured the worst across generations, what role do you see a corporation like Ayala playing in safeguarding our society today?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think first and foremost, we have to confront the reality that a single corporation doesn't have, does not have the resources to solve all those problems or challenges completely on their own. It will take collaboration with a lot of different stakeholders and different partners, whether that be public or private institutions. And I think a company like Ayala can contribute to the solution of those challenges in a couple of ways. We can align ourselves with other like-minded institutions, whether that be government or other private sector institutions that want to focus on solving those challenges together, whether that be lowering the cost of financial transactions, making housing more affordable for certain segments of the population, or making healthcare more accessible to the population as well. When interests between different institutions converge, a corporation like Ayala can do that. A corporation like Ayala can allocate their resources to solve the problems in the best way that they can. So I think that's one way that a corporation like Ayala can help with that. Second is that I think a corporation like Ayala, which within its DNA incorporates the interests of as many stakeholders as possible, I think what we can do is we can demonstrate that there is a model for corporations to generate value over the long term in addressing those problems for all stakeholders. So one way to think about it is that our shareholders certainly want us to be solving a lot of these big pain points because there's tremendous opportunities if we execute it effectively. The communities that we serve certainly want us to be cognizant of how our business decisions impact the individuals in that community but also the environment in which they live in. And so I think a corporation like Ayala can serve as a model that taking into account the interests of all those stakeholders can generate value. Thank you. Thank you. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So as a young business leader in IALA, how has your perspective from your generation changed how IALA does things? And also, as you mentioned earlier, there are a lot of values that IALA follows. So do some of these values need to be updated through time or how has your perspective changed things?"
+      }
+    ],
+    "speakername": "Jaime Zobel de Ayala",
+    "ground_truth": "My view is that the values stay constant, they remain over succeeding generations. We have four core values at Ayala, which is integrity, long-term orientation, empowering leadership and commitment to national development. Those values have been sustained, I believe, through the course of our history and through succeeding generations, but really what has changed is the application of those values to the current interests of the stakeholders that we serve. And I think that's the perspective that perhaps my generation might be able to offer relative to other generations. Right now, we live in a world that is increasingly more complex, markets are more volatile, technology is accelerating at an ever fast pace, and I think the perspective that our generation needs to have is how do we adapt and implement business models that take into account the nuances of the current generation. There are significant issues that this current generation does face. One of the things that I do think that we can offer right now is a perspective on how the digital economy can resolve some of the challenges that society faces right now. And I think from our perspective, there's tremendous value in providing products and services. The value of digital economy, it provides scale, it provides affordability and accessibility in a mass market, and I think that's a nuanced perspective considering the circumstances of the current environment.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think first and foremost, we have to confront the reality that a single corporation doesn't have, does not have the resources to solve all those problems or challenges completely on their own. It will take collaboration with a lot of different stakeholders and different partners, whether that be public or private institutions. And I think a company like Ayala can contribute to the solution of those challenges in a couple of ways. We can align ourselves with other like-minded institutions, whether that be government or other private sector institutions that want to focus on solving those challenges together, whether that be lowering the cost of financial transactions, making housing more affordable for certain segments of the population, or making healthcare more accessible to the population as well. When interests between different institutions converge, a corporation like Ayala can do that. A corporation like Ayala can allocate their resources to solve the problems in the best way that they can. So I think that's one way that a corporation like Ayala can help with that. Second is that I think a corporation like Ayala, which within its DNA incorporates the interests of as many stakeholders as possible, I think what we can do is we can demonstrate that there is a model for corporations to generate value over the long term in addressing those problems for all stakeholders. So one way to think about it is that our shareholders certainly want us to be solving a lot of these big pain points because there's tremendous opportunities if we execute it effectively. The communities that we serve certainly want us to be cognizant of how our business decisions impact the individuals in that community but also the environment in which they live in. And so I think a corporation like Ayala can serve as a model that taking into account the interests of all those stakeholders can generate value. Thank you. Thank you. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So as a young business leader in IALA, how has your perspective from your generation changed how IALA does things? And also, as you mentioned earlier, there are a lot of values that IALA follows. So do some of these values need to be updated through time or how has your perspective changed things?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "My view is that the values stay constant, they remain over succeeding generations. We have four core values at Ayala, which is integrity, long-term orientation, empowering leadership and commitment to national development. Those values have been sustained, I believe, through the course of our history and through succeeding generations, but really what has changed is the application of those values to the current interests of the stakeholders that we serve. And I think that's the perspective that perhaps my generation might be able to offer relative to other generations. Right now, we live in a world that is increasingly more complex, markets are more volatile, technology is accelerating at an ever fast pace, and I think the perspective that our generation needs to have is how do we adapt and implement business models that take into account the nuances of the current generation. There are significant issues that this current generation does face. One of the things that I do think that we can offer right now is a perspective on how the digital economy can resolve some of the challenges that society faces right now. And I think from our perspective, there's tremendous value in providing products and services. The value of digital economy, it provides scale, it provides affordability and accessibility in a mass market, and I think that's a nuanced perspective considering the circumstances of the current environment."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "this event we have talked about a lot of things about steward leadership and like how steward leadership is going to influence business decisions moving forward so what i'm interested to know is that like when your personal perspective like when you are met with a challenging decision um how do you usually resolve these challenges and if there's any example that you can share with us that would be great"
+      }
+    ],
+    "speakername": "Jaime Zobel de Ayala",
+    "ground_truth": "Well, I think when you have a proposition like we do at Ayala, which is to incorporate the interests of all the stakeholders into decisions that you make, you're going to face challenges on prioritization, challenges on how to address the interests of all of them. I think that is an inherent challenge that Ayala will have to face and one that succeeding generations will have to confront. I'm 32 years old, so I still have a lot of learnings to do. But one of the major learnings that I've had at this age right now is that you probably want to focus on attacking the larger problems first. And once you attack the larger problems and break them into smaller, more manageable problems, then you can deal with them in a little bit more of an easier manner. So I don't think that there's a limit. I don't think there's any sort of golden rule or solution on how you do it. But I do think that having an approach of breaking down large problems into smaller problems is certainly a great first step.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "My view is that the values stay constant, they remain over succeeding generations. We have four core values at our company, which is integrity, long-term orientation, empowering leadership and commitment to national development. Those values have been sustained, I believe, through the course of our history and through succeeding generations, but really what has changed is the application of those values to the current interests of the stakeholders that we serve. And I think that's the perspective that perhaps my generation might be able to offer relative to other generations. Right now, we live in a world that is increasingly more complex, markets are more volatile, technology is accelerating at an ever fast pace, and I think the perspective that our generation needs to have is how do we adapt and implement business models that take into account the nuances of the current generation. There are significant issues that this current generation does face. One of the things that I do think that we can offer right now is a perspective on how the digital economy can resolve some of the challenges that society faces right now. And I think from our perspective, there's tremendous value in providing products and services. The value of digital economy, it provides scale, it provides affordability and accessibility in a mass market, and I think that's a nuanced perspective considering the circumstances of the current environment."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "this event we have talked about a lot of things about steward leadership and like how steward leadership is going to influence business decisions moving forward so what i'm interested to know is that like when your personal perspective like when you are met with a challenging decision um how do you usually resolve these challenges and if there's any example that you can share with us that would be great"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think when you have a proposition like we do at our company, which is to incorporate the interests of all the stakeholders into decisions that you make, you're going to face challenges on prioritization, challenges on how to address the interests of all of them. I think that is an inherent challenge that we will have to face and one that succeeding generations will have to confront. I'm 32 years old, so I still have a lot of learnings to do. But one of the major learnings that I've had at this age right now is that you probably want to focus on attacking the larger problems first. And once you attack the larger problems and break them into smaller, more manageable problems, then you can deal with them in a little bit more of an easier manner. So I don't think that there's a limit. I don't think there's any sort of golden rule or solution on how you do it. But I do think that having an approach of breaking down large problems into smaller problems is certainly a great first step."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So in today's world, there have been a lot of criticism towards business leaders. I mean, some particular business leaders in general, in that they often put short-term or their own selfish ambition when they manage a company, like short-term prioritisation or just profit-making in general. So from your own perspective, why is steward leadership or stewardship important in safeguarding against business leaders who may dabble or who are in this kind of category?"
+      }
+    ],
+    "speakername": "Jaime Zobel de Ayala",
+    "ground_truth": "Of course. Well, I think the principle of stewardship and holding the values of stewardship are important in creating long-term value. That's a belief that we have at our corporation and I think that's been a belief that's been ingrained with the founding generations of our family, but more importantly it's been reinforced and I think validated with the value that the contributing professionals have had in our organization. I think the reason why stewardship is an important principle to generate long-term value is because you ingrain yourself in the relevance of all stakeholders, whether that be shareholders, communities, strategic partners, all kinds of stakeholders. When you ingrain yourself in the relevance of them, you can contribute to their problems and solve their issues. I think the way I would approach any tension between short-term profits and long-term profitability or long-term value is that making the strategic trade-offs for long-term value will help a corporation over time and that's a belief that we hold at our company.",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Lance, thank you again for joining us here today. It's a great opportunity to listen a little bit to your life story, get some learnings. But maybe let's just go back in time, Lance. You know, you ended up..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "up at [private school] I think. I was at [private school] since nursery all the way up to second year high school. I finished the last two years of my secondary school in the [international school] in [Asian country] then subsequently I went to [university]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You always kind of had a dream that you wanted to go to the [country] for college, Lance?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah, I think we just wanted to explore the world and be in a place where you can meet all sorts of people and maybe develop an identity outside the [country]. But what was the environment like? I think, first of all, it's really, when you go to, I guess, the major schools in the [country], they really have a very diverse student body and inevitably that creates different perspectives. The second is from having a very coddled life in the [country] where, you know, somebody picks up after you, does your laundry, your food's all prepared. You have to do your own laundry there, Lance? You learn how to pick."
+      }
+    ],
+    "speakername": "Jaime Zobel de Ayala",
+    "ground_truth": "clothes that don't require ironing. So talk about the real world, Lance. You finish, you do well, you come with new knowledge, you enter the [country], and you join a family business. Where did you start, Lance?",
+    "bio": " The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

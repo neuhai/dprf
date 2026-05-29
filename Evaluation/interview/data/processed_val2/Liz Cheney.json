@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to be here."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, it's great to see you. Let's start right where I left off with House Speaker Mike Johnson. And I'll put it this way. President Biden has said that he doesn't know if there will be a peaceful transfer of power in 2025. You just heard how the House speaker answered my questions about whether he would certify the election results. Do you have faith that this election will be free and fair and that there will be a peaceful transfer of power?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I do not have faith that Mike Johnson will fulfill his constitutional obligations. And if you just look at what he did in 2020, he knew and he knew with specificity that the claims of fraud that Donald Trump was making and that he was repeating, he knew those to be false. We had very clear and specific conversations about that. He knew that courts had specifically found that those claims were false. He knew they weren't true. He also knew that what he was urging Congress do in terms of throwing out the votes of millions of Americans, he knew with specificity that that was unconstitutional. He was told that not only in discussions with me, but also by the House Republican Council. He signed his name to a brief filed with the Supreme Court that made those claims he knew to be false. So he has a record repeatedly of doing things that he knows to be wrong, that he knows to be unconstitutional in order to placate Donald Trump. And frankly, you know, you saw that sycophancy just now on display. So I think that it is it's very concerning. I do think that Donald Trump has consistently said again and again and again, you know, in the last few months that this election, you know, is going to be rigged and that if he loses, that's why. So I think it's very important that that the Republicans not be in the majority in the House come January 2025. And when it comes to the possibility."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "of a peaceful transfer of power? Are you optimistic that there will be?"
+      }
+    ],
+    "speakername": "Liz Cheney",
+    "ground_truth": "Yeah, look, I think that Donald Trump is not currently in the federal executive building, so he does not have the ability to exercise the control he did in 2020 and 2021. I hear repeatedly from people like Mike Johnson, like J.D. Vance, this claim that somehow we had a peaceful transfer of power. Donald Trump sat and watched for over three hours while our legislative building was brutally attacked by a mob that he sent there, while police officers were brutally beaten, and Donald Trump refused to tell them to go home for over three hours. So anybody who is interested in the truth ought to go look at those videos. We did not have a peaceful transfer of power in 2021.",
+    "bio": "An American attorney and politician serving as the U.S. Representative for a western state's at-large congressional district since 2017. [target] was until very recently the House Republican Conference Chair, the third-highest position in the House Republican leadership. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I do not have faith that Mike Johnson will fulfill his constitutional obligations. And if you just look at what he did in 2020, he knew and he knew with specificity that the claims of fraud that Donald Trump was making and that he was repeating, he knew those to be false. We had very clear and specific conversations about that. He knew that courts had specifically found that those claims were false. He knew they weren't true. He also knew that what he was urging Congress do in terms of throwing out the votes of millions of Americans, he knew with specificity that that was unconstitutional. He was told that not only in discussions with me, but also by the House Republican Council. He signed his name to a brief filed with the United States Supreme Court that made those claims he knew to be false. So he has a record repeatedly of doing things that he knows to be wrong, that he knows to be unconstitutional in order to placate Donald Trump. And frankly, you know, you saw that sycophancy just now on display. So I think that it is it's very concerning. I do think that Donald Trump has consistently said again and again and again, you know, in the last few months that this election, you know, is going to be rigged and that if he loses, that's why. So I think it's very important that that the Republicans not be in the majority in the House come January 2025. And when it comes to the possibility."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "of a peaceful transfer of power? Are you optimistic that there will be?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, look, I think that Donald Trump is not currently in the [government building], so he does not have the ability to exercise the control he did in 2020 and 2021. I hear repeatedly from people like Mike Johnson, like J.D. Vance, this claim that somehow we had a peaceful transfer of power. Donald Trump sat and watched for over three hours while our [national building] was brutally attacked by a mob that he sent there, while police officers were brutally beaten, and Donald Trump refused to tell them to go home for over three hours. So anybody who is interested in the truth ought to go look at those videos. We did not have a peaceful transfer of power in 2021."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Just this week, Senator J.D. Vance was asked five different times if Donald Trump lost the election. He refused to say yes. Polls show that millions of Republicans share that same view. How do you really reach those voters, those Republicans?"
+      }
+    ],
+    "speakername": "Liz Cheney",
+    "ground_truth": "Yeah, I mean, I think, Kristen, when people write the history of this period, the Republican elected officials who know it's false, who continue to spread the lie, will be among those who are shown to just be really complicit in this attempt to unravel the republic. And so they are spreading this lie. They know it isn't true. If we are going to be a nation of laws, we abide by the rulings of the courts. And Donald Trump had the opportunity. 61 out of 62 courts ruled against him. And he was told repeatedly throughout this period that what he was saying was false. So the fact that now you've got the Republican Party, the leaders of the party who are are in the grips of, you know, it seems to me just to be cowardice that they are afraid of Donald Trump, but that they are willing to perpetuate his lies at the expense of their duty. The Constitution tells you something about about the real damage that's been done to the Republican Party.",
+    "bio": "An American attorney and politician serving as the U.S. Representative for a state's at-large congressional district since 2017. [target] was until very recently the House Republican Conference Chair, the third-highest position in the House Republican leadership. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, look, I think that Donald Trump is not currently in the federal executive building, so he does not have the ability to exercise the control he did in 2020 and 2021. I hear repeatedly from people like Mike Johnson, like J.D. Vance, this claim that somehow we had a peaceful transfer of power. Donald Trump sat and watched for over three hours while our legislative building was brutally attacked by a mob that he sent there, while police officers were brutally beaten, and Donald Trump refused to tell them to go home for over three hours. So anybody who is interested in the truth ought to go look at those videos. We did not have a peaceful transfer of power in 2021."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Just this week, Senator J.D. Vance was asked five different times if Donald Trump lost the election. He refused to say yes. Polls show that millions of Republicans share that same view. How do you really reach those voters, those Republicans?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, I think, Kristen, when people write the history of this period, the Republican elected officials who know it's false, who continue to spread the lie, will be among those who are shown to just be really complicit in this attempt to unravel the republic. And so they are spreading this lie. They know it isn't true. If we are going to be a nation of laws, we abide by the rulings of the courts. And Donald Trump had the opportunity. 61 out of 62 courts ruled against him. And he was told repeatedly throughout this period that what he was saying was false. So the fact that now you've got the Republican Party, the leaders of the party who are are in the grips of, you know, it seems to me just to be cowardice that they are afraid of Donald Trump, but that they are willing to perpetuate his lies at the expense of their duty. The Constitution tells you something about about the real damage that's been done to the Republican Party."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You told my colleague Savannah Guthrie last year, quote, a vote for Donald Trump may mean the last election that you ever get to vote in. That is an incredibly dire warning. Congresswoman, what exactly did you mean by that?"
+      }
+    ],
+    "speakername": "Liz Cheney",
+    "ground_truth": "You know, I think people really need to look very carefully at what Donald Trump will do if he were ever to be in the executive office again. The extent to which that, you know, and he has said repeatedly that, you know, he believes he will be immune. Certainly the Supreme Court ruling, whatever they thought they were doing, Donald Trump believes he will be immune for anything he does once he's in office. He will not respect the rulings of our courts. And people have to realize our courts can't enforce their own rulings. So if a president refuses to carry out his obligation to do so, then we are no longer a nation of laws. Donald Trump will ignore Congress. He will appoint people, people like Mike Flynn, for example, who just, you know, 36 hours ago, Mike Flynn was at an event where he was asked whether or not the president's opponents should be executed.",
+    "bio": "The speaker is an American attorney and politician serving as the U.S. Representative for a western state's at-large congressional district since 2017. The speaker was until very recently the House Republican Conference Chair, the third-highest position in the House Republican leadership. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Just this week, Senator J.D. Vance was asked five different times if Donald Trump lost the election. He refused to say yes. Polls show that millions of Republicans share that same view. How do you really reach those voters, those Republicans?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, I think, Kristen, when people write the history of this period, the Republican elected officials who know it's false, who continue to spread the lie, will be among those who are shown to just be really complicit in this attempt to unravel the republic. And so they are spreading this lie. They know it isn't true. If we are going to be a nation of laws, we abide by the rulings of the courts. And Donald Trump had the opportunity. 61 out of 62 courts ruled against him. And he was told repeatedly throughout this period that what he was saying was false. So the fact that now you've got the Republican Party, the leaders of the party who are are in the grips of, you know, it seems to me just to be cowardice that they are afraid of Donald Trump, but that they are willing to perpetuate his lies at the expense of their duty. The Constitution tells you something about about the real damage that's been done to the Republican Party."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You told my colleague Savannah Guthrie last year, quote, a vote for Donald Trump may mean the last election that you ever get to vote in. That is an incredibly dire warning. Congresswoman, what exactly did you mean by that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, I think people really need to look very carefully at what Donald Trump will do if he were ever to be in the [government headquarters] again. The extent to which that, you know, and he has said repeatedly that, you know, he believes he will be immune. Certainly the Supreme Court ruling, whatever they thought they were doing, Donald Trump believes he will be immune for anything he does once he's in office. He will not respect the rulings of our courts. And people have to realize our courts can't enforce their own rulings. So if a president refuses to carry out his obligation to do so, then we are no longer a nation of laws. Donald Trump will ignore Congress. He will appoint people, people like Mike Flynn, for example, who just, you know, 36 hours ago, Mike Flynn was at an event where he was asked whether or not the president's opponents should be executed."
+      }
+    ],
+    "speakername": "Liz Cheney",
+    "ground_truth": "And he basically said, listen, yes, I'm going to unleash the gates of hell. These are the kinds of people that Donald Trump will be putting in place. The people that stopped him from his worst desires last time around won't serve again.",
+    "bio": "An American attorney and politician serving as the U.S. Representative for a western state's at-large congressional district since 2017. The speaker was until very recently a high-ranking member in the House Republican leadership. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, I do. And I think that, you know, we've now actually seen him carry that out. And so for, you know, certainly people after what he did on January 6th to act as though you can have confidence in him, you know, that that that simply is just not credible. The other thing I think people have to realize is what he did on January 6th, you know, watching that brutal attack. That's that's depravity. And it's just also fundamentally cruel. It's the same kind of thing that drives him to lie to people about whether where they can get hurricane relief. I mean, think about the fact our fellow citizens are in dire straits. They're in dire needs. People's lives are at risk. And he's lying to them for his own political gain about where they can get relief. That kind of cruelty makes somebody unfit for this office."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And the [Federal Court] has now ruled that he has immunity for official acts that were taken while in office. I'm curious, Congresswoman, do you still have faith and confidence in the [Federal Court]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, I think that the court took far too long to issue that ruling. I think that they should have taken this up when [legal official] asked them to initially, and I think they got it wrong. And I think that Justice [name] and her dissent in the description that she gives of the danger that [former president] poses, she got it right. Now, you know, I'm a conservative. I'm somebody who has supported those [Federal Court] justices in the past. Many of them are friends of mine. You know, actually, Justice [name] was one of my professors in law school. My favorite professor in law school. But I know the conservative justices, too. But I am deeply concerned about things like the role that [name] played and [name]'s continued refusal to say that she accepts the rulings of the courts. So and I'm also concerned about, you know, the flag flying upside down at Justice [name]'s home. I think that's indefensible."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "LOST FAITH IN THEM THOUGH, CONGRESSWOMAN?"
+      }
+    ],
+    "speakername": "Liz Cheney",
+    "ground_truth": "I think it's very important that the court stand apart from politics. I do have some real concerns about recent activities and rulings, but I think we need our courts, both our [Federal Court] as well as the lower courts, to play the kind of role that we've seen, frankly, the vast majority of judges play since January 6th.",
+    "bio": "The speaker is an attorney and politician serving as the U.S. Representative for a western state's at-large congressional district since 2017. The speaker was until very recently the House Republican Conference Chair, the third-highest position in the House Republican leadership. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

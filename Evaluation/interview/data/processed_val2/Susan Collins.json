@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "We're good? Okay. So thank you for joining us here today. We're glad that you're here in [state] and that we get to spend some time with you. I wanna get right to some of the newer issues that have popped up in our area, starting with the [location] Fire Department. They experienced a catastrophic accidental fire a short time ago. And we know that recent federal funding has afforded other rural departments the opportunity to either renovate or build new facilities. So what help is available for [location] right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first let me say that my heart goes out to the firefighters and other staff at the fire department. I can't imagine how devastating it must have been to watch the fire. I have been successful in securing funding for fire departments, fire stations all over the state."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That cycle has finished, and we're in the midst of a new cycle."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We'll be right back."
+      }
+    ],
+    "speakername": "Susan Collins",
+    "ground_truth": "But we would be very happy to work with [location] to prepare what's called a congressionally directed spending request for next year. Unfortunately, the window is closed for this year, but we'll also explore whether there are any federal grant programs or any other way of getting them the assistance that I know they desperately need.",
+    "bio": "A politician (born December 7, 1952) serving as the senior United States Senator for [state]. A member of a major political party, the speaker has served in the Senate since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Have you had any contact with them thus far, or do they just need to reach out to your office?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We will be in touch with them. I had just learned about the fire just recently, and my staff will be reaching out to them."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Great. I want to shift focus. A lawsuit has come up recently filed in [location] Court to do with social media. The lawsuit is from a patient of [healthcare provider] alleging that the Metapixel and other digital trackers like it were implemented in a healthcare system's website and that they tracked patient activity and then transmitted it to [social media company] and [tech company] and potentially other third-party sites. Should these trackers be allowed to be used by healthcare systems in any capacity considering their capabilities, what they can be used for? Let's start with that part of the question."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Federal law, known as HIPAA, already protects personal medical information of patients. I was surprised to read about this lawsuit, and obviously I don't know about the merits. [healthcare provider] has denied the allegations. It certainly is serious if personal medical information..."
+      }
+    ],
+    "speakername": "Susan Collins",
+    "ground_truth": "is shared with a commercial entity without the patient's permission, express permission, because that's what's required under current federal law.",
+    "bio": "The speaker (born December 7, 1952) is an American politician serving as the senior United States Senator for [location]. A member of a major political party, the speaker has served in the Senate since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "a federal data privacy law. I'm not sure of the implications of that, but that's what came to mind."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "It could be worth exploring."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "this certainly isn't the first time that social media has come under fire recently, including Facebook and Meta. And so in your view, do you feel like these technology and social media giants are being adequately regulated and are showing the proper accountability? Or is there more work?"
+      }
+    ],
+    "speakername": "Susan Collins",
+    "ground_truth": "do there there is more work to do for example i am a co-sponsor of a bipartisan bill that says that if you use a deep fake in other words if we took your image and put words in your mouth that you never said and put it on the internet and it wasn't clearly satire",
+    "bio": "The speaker (born December 7, 1952) is an American politician serving as the senior United States Senator for a northeastern state. A member of a major political party, the speaker has served in the Senate since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'm worried how that's going to be used in election campaigns where they could make a candidate appear to say something that the candidate did not, that was not obviously a funny satire."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That was not obviously a funny satire. Yeah, we already had that robocall that caused issues in [state]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. Yeah. Exactly. So I think you're going to see increasing problems because the technology is so advanced now that you simply cannot tell the difference."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I want to shift gears somewhat dramatically and talk for a little while about the [city] mass shooting. Just an absolute tragedy for our state, for our country, as are all of these types of events. And you personally are seeking to draft legislation that will require military services to report to authorities when service members pose a threat to themselves or others, or could. We know that that is one element of what happened in [city]. So can you say a little bit more about how you're hoping that legislation might work?"
+      }
+    ],
+    "speakername": "Susan Collins",
+    "ground_truth": "I have been waiting for the [military branch] Reserve and the [military branch] Inspector General to complete their investigation. And just recently, I questioned the Secretary of Defense and the Secretary of the [military branch].",
+    "bio": "A politician serving as the senior United States Senator for [state]. A member of a major political party, [target] has served in the Senate since 1997. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That was not obviously a funny satire. Yeah, we already had that Joe Biden robocall that caused issues in [location]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. Yeah. Exactly. So I think you're going to see increasing problems because the technology is so advanced now that you simply cannot tell the difference."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I want to shift gears somewhat dramatically and talk for a little while about the [location] mass shooting. Just an absolute tragedy for our state, for our country, as are all of these types of events. And you personally are seeking to draft legislation that will require military services to report to authorities when service members pose a threat to themselves or others, or could. We know that that is one element of what happened in [location]. So can you say a little bit more about how you're hoping that legislation might work?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I have been waiting for the Army Reserve and the Army Inspector General to complete their investigation. And just recently, I questioned the Secretary of Defense and the Secretary of the Army."
+      }
+    ],
+    "speakername": "Susan Collins",
+    "ground_truth": "and solicited their cooperation, not only for completing these studies, which are extensive, the Secretary of Navy told me, or the Secretary of the Army told me that they are 3,000 pages of interviews and other evidence, so I think they're going to be very comprehensive.",
+    "bio": "The speaker (born December 7, 1952) is an American politician serving as the senior United States Senator for [location]. A member of a major political party, the speaker has served in the Senate since 1997. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

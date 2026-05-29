@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Nobody better."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So thank you for letting me do this, but I'd love to, so a major magazine came out with the 10 best images of 2018 and there was a picture of you that was pretty great that they called the man in the middle. And so I'd love for you to kind of talk about what it was like to be the man in the middle in the capital."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, sometimes it's no fun because you're getting hit from all sides. And the picture describes in the nomination hearings when I asked for a one-week delay to have the federal investigation. And that was really the man in the middle at that point. The problem right now in the capital is that every incentive is for elected officials to, when a big issue comes along, whether it's debt and deficit or climate change or gun policy or nomination, anything like that, is to rush to your corner to get with your tribe and never indicate at all that you might be persuadable or that a hearing that you might be holding or an investigation that's going on might influence or inform your vote. Because if you indicate that, then you're the man in the middle and everybody is going after you. And it's not. It's not a comfortable position to be in. So everybody now just rushes to their corners. And that's part of the problem we have right now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, I think we saw this in the capital, I think this was just about two years ago, when you guys were playing baseball. A bunch of congressmen playing baseball, and there was a shooting, a gunman shot, I think over 100 shots, a representative was wounded, along with maybe some others. Talk to us a little bit about that experience. You were on the field."
+      }
+    ],
+    "speakername": "Jeff Flake",
+    "ground_truth": "That was an awful, awful day, obviously. I was between home plate and first base when that first shot rang out. And we didn't know what it was until a few seconds later, a volley of shots rang out. And our third baseman said, there's a shooter, shooter. And I just remember the enduring image I'll have is turning toward the dugout and just running, the only cover I could find, and seeing the bullets pitch off the gravel in front of me. And I was thinking at that time, why us? How could somebody look at a bunch of middle-aged men playing baseball and see the enemy? And that's where our politics are right now. This man had been ginned up by talk radio and everything else. And he died on the scene. And they found on his body. A list of officials that he was going after. And it was a terrible scene. I had to rush out to the wounded representative and plug up the wound with my batting glove and then get his phone and call his wife so she wouldn't learn from television that her husband had been shot. So that's where our politics have gone. And we've got to get it back.",
+    "bio": "The speaker (born December 31, 1962) is an American politician who served as a Senator from a southwestern state from 2013 to 2019. A member of a major political party, the speaker served in the House of Representatives from 2001 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That was an awful, awful day, obviously. I was between home plate and first base when that first shot rang out. And we didn't know what it was until a few seconds later, a volley of shots rang out. And our third baseman said, there's a shooter, shooter. And I just remember the enduring image I'll have is turning toward the dugout and just running, the only cover I could find, and seeing the bullets pitch off the gravel in front of me. And I was thinking at that time, why us? How could somebody look at a bunch of middle-aged men playing baseball and see the enemy? And that's where our politics are right now. This man had been ginned up by talk radio and everything else. And he died on the scene. And they found on his body. A list of politicians that he was going after. And it was a terrible scene. I had to rush out to a colleague and plug up the wound with my batting glove and then get his phone and call his wife so she wouldn't learn from television that her husband had been shot. So that's where our politics have gone. And we've got to get it back."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Yeah. I know that you and I both share a love for survival trips."
+      },
+      {
+        "speaker": "[target]",
+        "text": "jealous of some of yours."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've done some good ones, so I'd love, you go to some pretty extreme measures, so I'd love to hear you talk a little bit about the extreme measures you've gone to promote bipartisanship."
+      }
+    ],
+    "speakername": "Jeff Flake",
+    "ground_truth": "Well, I did my first survival trip 10 years ago. I love reading books about survival. Sailing adventures gone bad, that's my favorite genre. So I went alone for seven days and seven nights with no food or water, just marooned on an island in the Pacific Islands just to see if I could survive. I did, and a couple years later, I took our two youngest sons back to the islands, just a different island across the lagoon. And then when I got to the Senate, you know, the partisanship was so bad at that time, I thought, we'll go to extreme lengths. And so I got up with a Democratic senator from a southwestern state. And we decided to maroon ourselves on an island for a week and to prove to our colleagues that we could get along. So we went there with just basically a machete between us, no food, no water. The Discovery Channel came along. They wanted to film it. They did. This was not naked and afraid. Afraid, yes. But anyway, we did survive. It was a great experience. We got back and went on the circuit to talk about, you know, this bipartisanship. I remember we went on late-night shows, and then a TV host ran a clip of us, you know, Spear and Fist. And he said, [target] proved once and for all that Republicans and Democrats can get along if death is the only option. So for what it's worth, we've empirically proven it. But it was a great experience, and it's not out of my system yet. So stay tuned.",
+    "bio": "The speaker (born December 31, 1962) is an American politician who served as a United States Senator from a southwestern state from 2013 to 2019. A member of the Republican Party, the speaker served in the United States House of Representatives from 2001 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "jealous of some of yours."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've done some good ones, so I'd love, you go to some pretty extreme measures, so I'd love to hear you talk a little bit about the extreme measures you've gone to promote bipartisanship."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I did my first survival trip 10 years ago. I love reading books about survival. Sailing adventures gone bad, that's my favorite genre. So I went alone for seven days and seven nights with no food or water, just marooned on an island in a Pacific island nation just to see if I could survive. I did, and a couple years later, I took our two youngest sons back to the islands, just a different island across the lagoon. And then when I got to the Senate, you know, the partisanship was so bad at that time, I thought, we'll go to extreme lengths. And so I got up with [Person A], seen in this picture here. [Person A]'s a Democratic senator from a southwestern state. And we decided to maroon ourselves on an island for a week and to prove to our colleagues that we could get along. So we went there with just basically a machete between us, no food, no water. The Discovery Channel came along. They wanted to film it. They did. This was not naked and afraid. Afraid, yes. But anyway, we did survive. It was a great experience. We got back and went on the circuit to talk about, you know, this bipartisanship. I remember we went on [Show A], and then we went on, well, [Show B] ran a clip of us, you know, Spear and Fist. And he said, [target] and [Person A] proved once and for all that Republicans and Democrats can get along if death is the only option. So for what it's worth, we've empirically proven it. But it was a great experience, and it's not out of my system yet. So stay tuned."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Last year we watched some pretty high profile hearings in the capital with tech leaders. What's in store for us in the tech space with regulation?"
+      }
+    ],
+    "speakername": "Jeff Flake",
+    "ground_truth": "Well, certainly I think that the social media platform hearings were kind of a turning point that we've crossed now, and Congress feels much more of a need to regulate and to get ahead of the curve. During that particular hearing, you know, Congress is not well equipped to do this, certainly. One of the late-night comics pointed out after that hearing that at least five of the senators grilling the tech CEO, their e-mail password is still password. So it may indicate where we are at Congress in terms of level of sophistication on these issues. But I will say that there is a real need for the tech community to get ahead of the curve here.",
+    "bio": "The speaker (born December 31, 1962) is an American politician who served as a United States Senator from a southwestern state from 2013 to 2019. A member of the Republican Party, the speaker served in the United States House of Representatives from 2001 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've done some good ones, so I'd love, you go to some pretty extreme measures, so I'd love to hear you talk a little bit about the extreme measures you've gone to promote bipartisanship."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I did my first survival trip 10 years ago. I love reading books about survival. Sailing adventures gone bad, that's my favorite genre. So I went alone for seven days and seven nights with no food or water, just marooned on an island in a Pacific island nation just to see if I could survive. I did, and a couple years later, I took our two youngest sons back to the islands, just a different island across the lagoon. And then when I got to the Senate, you know, the partisanship was so bad at that time, I thought, we'll go to extreme lengths. And so I got up with Martin, seen in this picture here. Martin's a Democratic senator from a southwestern state. And we decided to maroon ourselves on an island for a week and to prove to our colleagues that we could get along. So we went there with just basically a machete between us, no food, no water. The Discovery Channel came along. They wanted to film it. They did. This was not naked and afraid. Afraid, yes. But anyway, we did survive. It was a great experience. We got back and went on the circuit to talk about, you know, this bipartisanship. I remember we went on several late night shows, and then we went on, well, a popular host ran a clip of us, you know, Spear and Fist. And he said, [target] and Martin proved once and for all that Republicans and Democrats can get along if death is the only option. So for what it's worth, we've empirically proven it. But it was a great experience, and it's not out of my system yet. So stay tuned."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Last year we watched some pretty high profile hearings in the capital with tech leaders. What's in store for us in the tech space with regulation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, certainly I think that the social media hearings were kind of a Rubicon that we've crossed now, and Congress feels much more of a need to regulate and to get ahead of the curve. During that particular hearing, you know, Congress is not well equipped to do this, certainly. One of the late-night comics pointed out after that hearing that at least five of the senators grilling the CEO, their e-mail password is still password. So it may indicate where we are at Congress in terms of level of sophistication on these issues. But I will say that there is a real need for the tech community to get ahead of the curve here."
+      }
+    ],
+    "speakername": "Jeff Flake",
+    "ground_truth": "and to make sure that this mood to regulate, which is both bipartisan and bicameral right now, doesn't end up in some kind of European-style regulations that would really stifle innovation. And I think we are one data breach away, or one big privacy violation away from Congress moving in, moving quickly, and passing legislation which, even if it doesn't affect your specific business here, the knock-on effects may. And so I think there's a real need for the tech community here and everywhere to one, differentiate, to explain why their business is different, perhaps, from some of the bad actors, or those issues don't apply to them. And two, to educate, to educate members of Congress, their staff, the regulators who are tasked with imposing, or I'm sorry, interpreting the laws and imposing this regulation. So it's important because we don't wanna stifle innovation.",
+    "bio": "The speaker (born December 31, 1962) is an American politician who served as a United States Senator from a southwestern state from 2013 to 2019. A member of the Republican Party, the speaker served in the United States House of Representatives from 2001 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Last year we watched some pretty high profile hearings in [location] with tech leaders. What's in store for us in the tech space with regulation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, certainly I think that the Facebook hearings were kind of a Rubicon that we've crossed now, and Congress feels much more of a need to regulate and to get ahead of the curve. During that particular hearing, you know, Congress is not well equipped to do this, certainly. One of the late-night comics pointed out after that hearing that at least five of the senators grilling Mark Zuckerberg, their e-mail password is still password. So it may indicate where we are at Congress in terms of level of sophistication on these issues. But I will say that there is a real need for the tech community to get ahead of the curve here."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and to make sure that this mood to regulate, which is both bipartisan and bicameral right now, doesn't end up in some kind of GDPR-style regulations that would really stifle innovation. And I think we are one data breach away, or one big privacy violation away from Congress moving in, moving quickly, and passing legislation which, even if it doesn't affect your specific business here, the knock-on effects may. And so I think there's a real need for the tech community here and everywhere to one, differentiate, to explain why their business is different, perhaps, from some of the bad actors, or those issues don't apply to them. And two, to educate, to educate members of Congress, their staff, the regulators who are tasked with imposing, or I'm sorry, interpreting the laws and imposing this regulation. So it's important because we don't wanna stifle innovation."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You married a wonderful woman. Cheryl is fantastic, but I've never seen her so happy as I have the last few weeks. Talk to us a little bit about the decision you made in October, I think it was 2017, when you made the announcement that you were not going to run for re-election."
+      }
+    ],
+    "speakername": "Jeff Flake",
+    "ground_truth": "Yeah, I decided at that time that there really wasn't much of a path for a Republican like me in a party like this right now. And I just knew that to win a Republican primary in [location], I would have to adopt positions that I just can't adopt or condone behavior that I can't condone and ultimately would have to. Ultimately, I would have to be on a campaign stage with the president when people are shouting, lock her up and things like that. And I just couldn't do it. So I gave that speech in October of 2017, and that photo was Cheryl and me walking away from the [location] with the press all in tow. But the look on Cheryl's face, and she calls it the look of relief. And so there is quite a bit. There are good people involved. In [location], we need good people to run for office. And I hope that this fever does cool.",
+    "bio": "The speaker is an American politician who served as a United States Senator from [location] from 2013 to 2019. A member of the Republican Party, the speaker served in the [location] from 2001 to 2013. The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

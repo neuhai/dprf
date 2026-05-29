@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah. Met recently. Yeah. We spoke for 0.2 seconds."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Maybe. Yeah."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "we followed each other on instagram and we were like let's do this thing so we don't have much of like a connection we just don't"
+      }
+    ],
+    "speakername": "Jalal Abuimweis جلال أبو مويس",
+    "ground_truth": "We were like let's do this thing. Yeah, we don't have much of like a connection. We just don't know each other We don't know you wanted to do a lunch",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We were like let's do this thing. Yeah, we don't have much of like a connection. We just don't know each other We don't know you wanted to do a lunch"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "I did. I wanted to do it. I was like. He said no. No, dude. I asked him on a date. He told me no."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Imagine."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Wow."
+      }
+    ],
+    "speakername": "Jalal Abuimweis جلال أبو مويس",
+    "ground_truth": "I don't know how fucking badass I am. No, because here's what I think. A lot of those first conversations before a present, to your word,",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think they're great conversations. So let's just have them on here"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "I like it. Yeah. So excuse us in advance because. So this."
+      },
+      {
+        "speaker": "[target]",
+        "text": "This is like an online date, right?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "a virtual date okay so introduce yourself for my audience please"
+      }
+    ],
+    "speakername": "Jalal Abuimweis جلال أبو مويس",
+    "ground_truth": "So my name is [target]. I would like to bet I'm the first Middle Eastern Arab on this podcast. So I'm actually born and raised in [country], came to [country] in 2010, learned English here. Another [country] story from going pretty much from being homeless to building my business today, which is a real estate investment firm. I am the sole owner of it. It's called the [company name]. If you are in real estate, you definitely know who we are. If not, it's my fault. Now you do. And I just turned 30 years old, going through [city], been in [city] since 2015. And not my favorite cup of tea, but I like the business here.",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This is like an online date, right?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "a virtual date okay so introduce yourself for my audience please"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So my name is [target]. I would like to bet I'm the first Middle Eastern Arab on this podcast. So I'm actually born and raised in [location], came to America in 2010, learned English here. Another American story from going pretty much from being homeless to building my business today, which is a real estate investment firm. I am the sole owner of it. It's called [company name]. If you are in real estate, you definitely know who we are. If not, it's my fault. Now you do. And I just turned 30 years old, going through [location], been in [location] since 2015. And not my favorite cup of tea, but I like the business here."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And."
+      }
+    ],
+    "speakername": "Jalal Abuimweis جلال أبو مويس",
+    "ground_truth": "That's overall who I am. And to know more, obviously, you just got to check my social media, [social media handle].",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So my name is [target]. I would like to bet I'm the first Middle Eastern Arab on this podcast. So I'm actually born and raised in [Middle Eastern country], came to [country] in 2010, learned English here. Another [country] story from going pretty much from being homeless to building my business today, which is a real estate investment firm. I am the sole owner of it. It's called [company name]. If you are in real estate, you definitely know who we are. If not, it's my fault. Now you do. And I just turned 30 years old, going through [city], been in [city] since 2015. And not my favorite cup of tea, but I like the business here."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "And."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's overall who I am. And to know more, obviously, you just got to check my Instagram, [social media handle]."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "And you have a tick tock, but you speak mostly that's Arabic Arabic. Yes. Okay. Yeah Yeah, so you have videos that you do in English as well"
+      }
+    ],
+    "speakername": "Jalal Abuimweis جلال أبو مويس",
+    "ground_truth": "yeah of course so my instagram is all english of course arabic is all on tiktok which is it's a funny story how my new blow up back home which has only started in february",
+    "bio": "This is [target]. The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

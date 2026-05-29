@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "welcome to uncommon knowledge i'm peter robinson raised in southern new jersey [target] spent eight summers supplementing the family income by picking blueberries and was so successful that at the age of 20 she became the world champion blueberry picker mrs conway received a ba in political science from a private college and a jd from a prominent law school in 1995 she started her own company the polling company where her corporate clients included major corporations and her political clients included prominent political figures this past august donald trump named mrs conway his campaign manager and this coming january 20th two events will take place her client will take the oath of office as the 45th president of the united states and mrs conway will celebrate her 50th birthday [target] welcome"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thank you, Peter."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Two quotations, CBS correspondent Leslie Stahl appearing recently on Charlie Rose, she's discussing her 60 Minutes interview with Donald Trump, quote, I saw a man who was having the weight of what he's getting into hitting him. He is the leader of the free world and there's no question that he's feeling it. No question. That's number one. Here's number two, David Remnick in the New Yorker reporting on the president-elect's meeting with the media on November 22nd, quote, Trump showed no signs of having been sobered or changed by the elevation to the country's highest office. Rather, said one attendee, he is the same kind of blustering blowhard as he was during the campaign, close quote. Describe to us the state of the president-elect's mind as we come down to a small number of weeks before he takes the oath of office."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the president-elect of the United States is very focused, very engaged, very excited to take that oath of office and be our nation's president. Peter, this country just did what it said it wanted to do for a number of decades, which is to put into office a true outsider, someone who owes no one anything in the capital, and someone who's really a non-politician. And you saw that as he built his campaign. It was not a typical political campaign because he's not a typical politician. It was a movement."
+      }
+    ],
+    "speakername": "Kellyanne Conway",
+    "ground_truth": "And I have to agree with Ms. Stahl on the following point. He does understand the gravity of this office. He's been preparing for this for a number of years. And most recently, during transition, he and Vice President-elect Mike Pence have been talking to, I think now they're up to about 75 or 80 potential advisors or opinion leaders, men and women, some of whom will end up in the Cabinet or in his senior staff, but all of whom are coming to him with their ideas and their experiences and their vision. Donald Trump is a master listener and learner. He takes the counsel of a number of people, but there is no question that he is the ultimate decision maker. And he is brilliant. The man is brilliant. He's a great negotiator, a very decisive leader, and somebody who executes and delivers, you know, somebody who's held accountable for the results. I coordinated that media meeting. I was going to say, you must want to.",
+    "bio": "[target] (born January 20, 1967) is an American pollster, political consultant, and pundit who serves as counselor to the president in the administration of U.S. President Donald Trump. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Two quotations, major network correspondent Leslie Stahl appearing recently on a talk show, she's discussing her interview with the president-elect, quote, I saw a man who was having the weight of what he's getting into hitting him. He is the leader of the free world and there's no question that he's feeling it. No question. That's number one. Here's number two, a journalist in a major publication reporting on the president-elect's meeting with the media on November 22nd, quote, he showed no signs of having been sobered or changed by the elevation to the country's highest office. Rather, said one attendee, he is the same kind of blustering blowhard as he was during the campaign, close quote. Describe to us the state of the president-elect's mind as we come down to a small number of weeks before he takes the oath of office."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the president-elect of the United States is very focused, very engaged, very excited to take that oath of office and be our nation's president. Peter, this country just did what it said it wanted to do for a number of decades, which is to put into office a true outsider, someone who owes no one anything in the capital, and someone who's really a non-politician. And you saw that as he built his campaign. It was not a typical political campaign because he's not a typical politician. It was a movement."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I have to agree with Ms. Stahl on the following point. He does understand the gravity of this office. He's been preparing for this for a number of years. And most recently, during transition, he and the Vice President-elect have been talking to, I think now they're up to about 75 or 80 potential advisors or opinion leaders, men and women, some of whom will end up in the Cabinet or in his senior staff, but all of whom are coming to him with their ideas and their experiences and their vision. The president-elect is a master listener and learner. He takes the counsel of a number of people, but there is no question that he is the ultimate decision maker. And he is brilliant. The man is brilliant. He's a great negotiator, a very decisive leader, and somebody who executes and delivers, you know, somebody who's held accountable for the results. I coordinated that media meeting. I was going to say, you must want to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "talk back to the journalist's account."
+      }
+    ],
+    "speakername": "Kellyanne Conway",
+    "ground_truth": "The journalist was not in the room, I, I sat right next to the president-elect. It was a healthy conversation between the main street, the media and our president elect whom I like to say, we'll be sharing the custody of the country for the next four to eight years. And so it's important that that relationship flourish and be a little bit more honest and open than perhaps it has been. Uh, I think quantitatively, well, quantitatively, Peter, my goodness, I mean, has anybody ever been criticized?",
+    "bio": "The speaker (born January 20, 1967) is an American pollster, political consultant, and pundit who serves as counselor to the president in the administration. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "A little bit of self-denial, be a giver, not a taker. That your family, your name, and your family are really all that we have. And it's the most important thing that you can protect and that you can enhance throughout your life is your name and your family. And that's been true my whole life. And I try to pass it on to my own four children. But Peter, it was also because I came from a family of small business owners. Emphasis on small. But they were self-reliant and they were industrious. And they were gritty and determined. And they sent you to pick blue?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "for eight summers in a row."
+      },
+      {
+        "speaker": "[target]",
+        "text": "did and yes I did and that I learned a lot on that blueberry farm I learned negotiation I learned the honest days work for honest days pay for an honest days work I learned collegiality and teamwork I also learned really the value of the value of money at a young age because we didn't have a lot of it but I never knew that the other thing is that I'm sure I know that all the women in my household voted for a prominent politician you know he's handsome and Catholic and they were Democrats but as time went on I was very inspired by another prominent leader in 1980 and that does not make me unique but it makes me very blessed because I was in 1984 I was assigned by my high school to write for the local newspaper and I was going into my senior year I was not old enough to vote for this leader I missed it by a few months but I was in charge of watching the two national conventions and writing about it and I was really excited to know that a notable politician a woman in an Italian Right. a woman in an Italian woman"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Right, right, well spoken, impressive."
+      }
+    ],
+    "speakername": "Kellyanne Conway",
+    "ground_truth": "in a house of Italian women, wonderful woman, God rest her soul, that she was going to, she was chosen to be the vice presidential running mate for a presidential candidate. So I was really excited to watch that National Convention and they went first, party out of power. And I thought she was great, but as I listened to all of the speeches, I was a little astonished. A lot of government, a lot of things, a lot of pie in the sky promises, I just didn't think were realistic. But then I heard another prominent leader the next week. And here is a man who was literally four times my age. I was 17, he was 68, I believe, maybe older.",
+    "bio": "[target] (born January 20, 1967) is an American pollster, political consultant, and pundit who serves as counselor to the president in the administration of a U.S. President. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "did and yes I did and that I learned a lot on that blueberry farm I learned negotiation I learned the honest days work for honest days pay for an honest days work I learned collegiality and teamwork I also learned really the value of the value of money at a young age because we didn't have a lot of it but I never knew that the other thing is that I'm sure I know that all the women in my household voted for a prominent political figure you know he's handsome and Catholic and they were Democrats but as time went on I was very inspired by another president in 1980 and that does not make me unique but it makes me very blessed because I was in 1984 I was assigned by my high school to write for the local newspaper and I was going into my senior year I was not old enough to vote for that president I missed it by a few months but I was in charge of watching the two national conventions and writing about it and I was really excited to know that Geraldine Ferraro a woman in an Italian Right. a woman in an Italian woman"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Right, right, well spoken, impressive."
+      },
+      {
+        "speaker": "[target]",
+        "text": "in a house of Italian women, wonderful woman, God rest her soul, that she was going to, she was chosen to be the vice presidential running mate for Walter Mondale. So I was really excited to watch that Democratic National Convention and they went first, party out of power. And I thought she was great, but as I listened to all of the speeches, I was a little astonished. A lot of government, a lot of things, a lot of pie in the sky promises, I just didn't think were realistic. But then I heard that president the next week. And here is a man who was literally four times my age. I was 17, he was 68, I believe, maybe older."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "All right."
+      }
+    ],
+    "speakername": "Kellyanne Conway",
+    "ground_truth": "And he was from a different coast, obviously a different gender, and he spoke to me because it was aspirational and uplifting. And it was pro-America and American and her allies and her interests abroad. And I think in many ways that's what you ended up hearing from [target] this year. You heard him make the case. He had a very simple slogan. He never left it. Make America great again. Some people tried to read cynicism in there. All he meant was very simple. You could take from it what you want, that you're protecting America, American workers, American interests, patriotism. The idea that a country has to have borders and sovereignty. The idea that we should be looking out for each other and for our nation here and abroad. So it's a wonderful way of growing up. It's a gift that keeps on giving. And in many ways it prepared me for this moment because to remain calm and to remain a little self-deprecating, a little self-denying, and humble. I was raised with tremendous humility. And maybe others refuse to say it. But there was, you know, for all his strength and all his toughness and all his brilliance, [target] is very humbled by being elected President. I see it. He's very aware. How do you see it? How does it come out?",
+    "bio": "[target] (née Fitzpatrick; born January 20, 1967) is an American pollster, political consultant, and pundit who serves as counselor to the president in the administration of the president. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Right, right, well spoken, impressive."
+      },
+      {
+        "speaker": "[target]",
+        "text": "in a house of Italian women, wonderful woman, God rest her soul, that she was going to, she was chosen to be the vice presidential running mate for Walter Mondale. So I was really excited to watch that Democratic National Convention and they went first, party out of power. And I thought she was great, but as I listened to all of the speeches, I was a little astonished. A lot of government, a lot of things, a lot of pie in the sky promises, I just didn't think were realistic. But then I heard Ronald Reagan the next week. And here is a man who was literally four times my age. I was 17, he was 68, I believe, maybe older."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "All right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And he was from a different coast, obviously a different gender, and he spoke to me because it was aspirational and uplifting. And it was pro-America and American and her allies and her interests abroad. And I think in many ways that's what you ended up hearing from [target] this year. You heard him make the case. He had a very simple slogan. He never left it. Make America great again. Some people tried to read cynicism in there. All he meant was very simple. You could take from it what you want, that you're protecting America, American workers, American interests, patriotism. The idea that a country has to have borders and sovereignty. The idea that we should be looking out for each other and for our nation here and abroad. So it's a wonderful way of growing up. It's a gift that keeps on giving. And in many ways it prepared me for this moment because to remain calm and to remain a little self-deprecating, a little self-denying, and humble. I was raised with tremendous humility. And maybe others refuse to say it. But there was, you know, for all his strength and all his toughness and all his brilliance, [target] is very humbled by being elected President of the United States. I see it. He's very aware. How do you see it? How does it come out?"
+      }
+    ],
+    "speakername": "Kellyanne Conway",
+    "ground_truth": "He's very aware because he wants to listen, he wants to take the counsel of many people. He's been incredibly gracious, if not magnanimous, to so many people who attacked him mercilessly. Dinner last night with [target].",
+    "bio": "[target] (née Fitzpatrick; born January 20, 1967) is an American pollster, political consultant, and pundit who serves as counselor to the president in the administration of U.S. President [target]. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "How are you doing? Wow, you're dressing like a pimp. What's going on?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "new line of business is this hollywood [target] we're looking at right now"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Like."
+      }
+    ],
+    "speakername": "Sean Spicer",
+    "ground_truth": "Apparently, the first time I did this, not with you, but went out, I had a little issue with the suit, so. Yeah, right. Yeah, yeah, right.",
+    "bio": "[target] (born September 23, 1971) is an American political aide who served as the 28th [government building] Press Secretary and as [government building] Communications Director under President in 2017. [target] was communications director of the [political organization] from 2011 to 2017, and its chief strategist from 2015 to 2017. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Like."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Apparently, the first time I did this, not with you, but went out, I had a little issue with the suit, so. Yeah, right. Yeah, yeah, right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "How you doing? Everything all right? Great, thank you. Are you happy to be out of there? Are you adjusting to life on the outside? I am. You are, yeah. When you wake up in the morning,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "It's later. You look at Twitter."
+      }
+    ],
+    "speakername": "Sean Spicer",
+    "ground_truth": "Do you have just a feeling of great relief and calm wash over you? It's, I take a long time before I get to the tweets, yes. You do, it does take a little while. And do you ever look at them and you ever go like, this is how I would handle this? Nope. No. You've just blocked it all completely out of your mind. Correct. You still talk to the president, you said, yes? I do, yeah.",
+    "bio": "The subject (born September 23, 1971) is an American political aide who served as the 28th Press Secretary and as Communications Director at a major government institution under the President in 2017. The subject was communications director of a major political party committee from 2011 to 2017, and its chief strategist from 2015 to 2017. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, and I think that part of what I pride myself on to some degree is that all of the people that I've worked for, the one quality that I think all of them would agree on is that I've been a loyal person to them. I don't believe that you can have a job like that, share with them your private counsel, and then go out and talk about it. So I think most of the people that I've worked for in various capacities have always said, hey, look, this is a guy that... But what about this? Huh? That's about me. That's my life."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That's not. Yeah, no, I do feel like you could have got into a lot of stuff that you didn't get into. And this is not a tell all. It's a tell some book, right? Tell me book. Yeah. And you keep the tell all stuff for maybe another book somewhere down the line? No. Or just to make sure the president doesn't have you rubbed out? No."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm pretty confident that I'm OK. Is the president the best boss you ever had? I've been honored to work for a lot of great people. So no, he's not."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "That's not what I said. My wife, I will say this, my wife is the best boss that I've ever worked for. How's that? I'm on pretty safe ground."
+      }
+    ],
+    "speakername": "Sean Spicer",
+    "ground_truth": "Did he ever, and I know this is going to seem like a joke, but did he ever make you cry? No. Never did? No. Even when he went home, he just was like, oh, my god. What have I gotten into? My world is falling down around me.",
+    "bio": "[target] (born September 23, 1971) is an American political aide who served as the 28th National Press Secretary and as National Communications Director under the President in 2017. [target] was communications director of the National Political Committee from 2011 to 2017, and its chief strategist from 2015 to 2017. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Not, not, not, there's a lot of emotions, but. But never tears. Never tears."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "The president wanted to make sure that the record got set straight."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And why is he so concerned with size? Have you ever seen the president naked?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I have not. You have not? No, no. Okay. But, look, I said it at the time, and I believe it, that I think in all seriousness that, again, whether or not you voted for him or not, the president won the election. He faced a lot of headwinds. And I think there was a faction of people out there that didn't want to give him the credit that he rightly deserved. And I think he takes a lot of that sometimes personally. Some of us who worked very hard to get him elected felt as though a lot of folks in the media in particular constantly sought to undermine the validity of that election. And so you have to understand it sometimes from that perspective."
+      }
+    ],
+    "speakername": "Sean Spicer",
+    "ground_truth": "The answer is you always have to go out and maintain your credibility in the truth, yes. So that would take precedent over the first year.",
+    "bio": "[target] (born September 23, 1971) is an American political aide who served as the 28th [government building] Press Secretary and as [government building] Communications Director under President in 2017. [target] was communications director of the [political organization] from 2011 to 2017, and its chief strategist from 2015 to 2017. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And why is he so concerned with size? Have you ever seen the president naked?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I have not. You have not? No, no. Okay. But, look, I said it at the time, and I believe it, that I think in all seriousness that, again, whether or not you voted for him or not, the president won the election. He faced a lot of headwinds. And I think there was a faction of people out there that didn't want to give him the credit that he rightly deserved. And I think he takes a lot of that sometimes personally. Some of us who worked very hard to get him elected felt as though a lot of folks in the media in particular constantly sought to undermine the validity of that election. And so you have to understand it sometimes from that perspective."
+      },
+      {
+        "speaker": "[target]",
+        "text": "The answer is you always have to go out and maintain your credibility in the truth, yes. So that would take precedent over the first year."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Did you always go out and maintain your credibility in the..."
+      }
+    ],
+    "speakername": "Sean Spicer",
+    "ground_truth": "I think there are times when I went out and expressed what the president believed or a view that he had that people didn't agree with or that they were offering, they were saying that that was not true and would blame me for the fact that I was communicating a view or a belief that he had.",
+    "bio": "Born September 23, 1971, is an American political aide who served as the 28th Press Secretary and as Communications Director under the President in 2017. The individual was communications director of the national political committee from 2011 to 2017, and its chief strategist from 2015 to 2017. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

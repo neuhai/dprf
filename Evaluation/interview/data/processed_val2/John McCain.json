@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "It's very flat."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and obviously they've forgotten some aspects of my career in the legislative body, but it's very flattering, it's very moving. After I gave a speech in the legislative chamber about the need for us to work together and be together, to have every senator at his and her desk and receive the affection as well as appreciation was one of the most rewarding experiences of my life. There is nothing more important than the approval of one's peers and that's the first time I have ever seen every senator sit at their desk to hear another senator speak. It was deeply moving, I'll never forget it, and I can tell you that it not only came from my friends"
+      },
+      {
+        "speaker": "[target]",
+        "text": "but also from my enemies."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you know I've gone through"
+      }
+    ],
+    "speakername": "John McCain",
+    "ground_truth": "various iterations of how to address this issue of [prominent political figure], not only in his campaign but as the president, and I've decided that the best way for me is to do my job, number one. Number two, work with the people that he has around him that are old friends of mine, that are great on national security, General [advisor], General [advisor], others that are really top-notch. I work with them, I work with them well. And as far as a number of the other things that he has done, such as the pardoning of [law enforcement official] or these other things, I make a statement and then I move on. My job, my job after 30-some years in the legislative body, is to do everything I can to help the men and women of the military defend this nation under what is in many ways unprotected. It's unprecedented challenge.",
+    "bio": "[Target] (August 29, 1936 - August 25, 2018) was a politician and naval officer who served as a Senator from [state] from 1987 until his death. He previously served two terms in the legislative body and was the party nominee for President in the 2008 election, which he lost to [opponent]. [Target] graduated from the military academy in 1958 and followed his father and grandfather—both four-star admirals—into the military service. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "but also from my enemies."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "you know I've gone through"
+      },
+      {
+        "speaker": "[target]",
+        "text": "various iterations of how to address this issue of [public figure], not only in his campaign but as the president, and I've decided that the best way for me is to do my job, number one. Number two, work with the people that he has around him that are old friends of mine, that are great on national security, [military official], [military official], others that are really top-notch. I work with them, I work with them well. And as far as a number of the other things that he has done, such as the pardoning of [public official] or these other things, I make a statement and then I move on. My job, my job after 30-some years in the [national legislature], is to do everything I can to help the men and women of the military defend this nation under what is in many ways unprotected. It's unprecedented challenge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "lunges."
+      }
+    ],
+    "speakername": "John McCain",
+    "ground_truth": "clue I had was that I came for a physical and I was driving up here and the doctor my doctor called and said you've got to get turn around and come back you've got a problem and I said well can it was on Friday can't wait till Monday she said no you got to come back that was really the first indication and I'm very grateful to [medical center] I'm very grateful to all the wonderful caregivers but most of all I'm so grateful for the cards and the letters and the phone calls that not just appreciation but affection and it's deeply deeply moving and I think I understand given my family's history and giving my experiences the important thing is to celebrate a life well lived lived to celebrate the fact that I was able to make some contribution to the betterment of this nation not to look back and figure out all the things I should have done and there's a lot of things that I should have done and there's a lot of There's lots of those. But to look back with gratitude that I've had the opportunity to serve in the military, to serve in the [legislative body], to serve in the [national legislature], and almost serve as [head of state]. It's been a life well lived. You have interviewed and will continue to talk to some of the greatest people in the world. You will never talk to anyone that is as fortunate as [target].",
+    "bio": "[target] (August 29, 1936 - August 25, 2018) was an [nationality] politician and naval officer who served as a [national legislature] member from [state] from 1987 until his death. He previously served two terms in the [legislative body] and was the [political party] nominee for [head of state] in the 2008 election, which he lost to [public figure]. [target] graduated from the [military academy] in 1958 and followed his father and grandfather—both four-star admirals—into the military. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, you said we've got."
+      },
+      {
+        "speaker": "[target]",
+        "text": "to we've got to operate because we've got to remove what that is at first they weren't sure what type of cancer it was and i said fine i said i trust you let's go do whatever we need to do and let's explore other options and what needs to be done and understand that this is a very vicious form of this disease but to celebrate and not to commiserate you know i my family goes back all the way to the revolutionary war in military for this country and my father was a submarine commander in world war ii in the pacific my grandfather was the commander of the aircraft carriers in the pacific under admiral [name] so when the war was over my father brought his submarine into [location] bay and my grandfather they hadn't seen each other obviously came in on the aircraft carrier and they met the day of the peace signing and my grandfather said to my father he said it's much better to die for the things you believe in in the country you love and my grandfather then after the peace signing flew home to [location] the day he got home there was a bunch of people that came over and he went upstairs and died and to me my grandfather epitomizes of what he said he said he said he said he said he said he said he said he said he said he said he said"
+      },
+      {
+        "speaker": "[target]",
+        "text": "service to the country."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "all about. Well, I love the doctors."
+      }
+    ],
+    "speakername": "John McCain",
+    "ground_truth": "at [medical center], and I think they're wonderful people, but they, their recommendation was that I not take the trip because there could be complications from it. And with respect, I said to them, I said, look, there's men and women out there as we speak that are risking their lives and perhaps even getting killed or wounded, and they depend on me to guide the defense bill through the [legislative body], and I just have to go back. I have to go back, and then I will come back and do whatever you want, but this work I have in the [legislative body] is for the men and women, including my own children, that I need to do. So they agreed, and I flew back and arrived when the [healthcare act] bill was on the floor, as you know, and I gave a speech saying the importance of us working together. Of my role models, ranging from [name] to [name], and the importance of us working for the American people, which we are not doing. I also said at the time that I would not vote for that version of the [healthcare act], whatever that was. So I happened to arrive on the floor. It was 1.30 in the morning, and they'd been told that I would give a speech, and I did, and the reception was, frankly, overwhelming. And I was grateful for not just the appreciation, but the real affection. There wasn't hardly a senator in the [legislative body] that didn't come over to hug me. That's pretty interesting in an artifact.",
+    "bio": "[target] (August 29, 1936 – August 25, 2018) was an American politician and naval officer who served as a United States Senator from [state] from 1987 until his death. He previously served two terms in the [legislative body] and was the Republican nominee for President of the United States in the 2008 election, which he lost to [name]. [target] graduated from the [military academy] in 1958 and followed his father and grandfather—both four-star admirals—into the U.S. Navy. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "at the medical center, and I think they're wonderful people, but they, their recommendation was that I not take the trip because there could be complications from it. And with respect, I said to them, I said, look, there's men and women out there as we speak that are risking their lives and perhaps even getting killed or wounded, and they depend on me to guide the defense bill through the Senate, and I just have to go back. I have to go back, and then I will come back and do whatever you want, but this work I have in the Senate is for the men and women, including my own children, that I need to do. So they agreed, and I flew back and arrived when the healthcare bill was on the floor, as you know, and I gave a speech saying the importance of us working together. Of my role models, ranging from former presidents and senators, and the importance of us working for the people, which we are not doing. I also said at the time that I would not vote for that version of the healthcare act, whatever that was. So I happened to arrive on the floor. It was 1.30 in the morning, and they'd been told that I would give a speech, and I did, and the reception was, frankly, overwhelming. And I was grateful for not just the appreciation, but the real affection. There wasn't hardly a senator in the Senate that didn't come over to hug me. That's pretty interesting in an artifact."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "official town."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And I just said."
+      },
+      {
+        "speaker": "[target]",
+        "text": "comes down."
+      }
+    ],
+    "speakername": "John McCain",
+    "ground_truth": "And that, after, none of that was particularly planned. I had planned on voting against it, and I had announced it. But they sent the vice president over. The president called me. Everybody was calling me. And I said, look, I will do anything I can to help, but I cannot vote for this, and I think you understand it. But they wanted to talk to me. The president wanted to talk to me. And so while the vote was extended vote, I just said, look, it's time for me to vote. And I went on the floor and got the attention of the clerk and gave a thumbs down. And the reaction was really phenomenal from both sides.",
+    "bio": "The target (born August 29, 1936 - died August 25, 2018) was an American politician and naval officer who served as a Senator from a southwestern state from 1987 until his death. He previously served two terms in the House of Representatives and was his party's nominee for President in the 2008 election. He graduated from a prestigious military academy in 1958 and followed his father and grandfather—both four-star admirals—into military service. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And I just said."
+      },
+      {
+        "speaker": "[target]",
+        "text": "comes down."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that, after, none of that was particularly planned. I had planned on voting against it, and I had announced it. But they sent the vice president over. The president called me. Everybody was calling me. And I said, look, I will do anything I can to help, but I cannot vote for this, and I think you understand it. But they wanted to talk to me. The president wanted to talk to me. And so while the vote was extended vote, I just said, look, it's time for me to vote. And I went on the floor and got the attention of the clerk and gave a thumbs down. And the reaction was really phenomenal from both sides."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "tides. I was born..."
+      }
+    ],
+    "speakername": "John McCain",
+    "ground_truth": "the 29th of August 1936 at a military base in a territory zone on the western end which by the way is now a foreign container port or but and in those days the military was very small because of the depression and the shrinkage of the forces and there was a submarine base there submarine division there and my mother and father were there and they I was born at the hospital there and interestingly enough there was some question about my citizenship because the territory was not a state and guess whose case had been decided that and that was another politician who was born in a western territory when it was a territory there's a bit of trivia and the that it was a happy time for all of those brave people but honest to God in the depression the military did not get what they needed which accounted for to a large degree a lack of readiness when December 7 1940",
+    "bio": "[target] (August 29, 1936 – August 25, 2018) was an American politician and naval officer who served as a United States Senator from a southwestern state from 1987 until his death. He previously served two terms in the United States House of Representatives and was the Republican nominee for President of the United States in the 2008 election, which he lost to his opponent. [target] graduated from the national naval academy in 1958 and followed his father and grandfather—both four-star admirals—into the military. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

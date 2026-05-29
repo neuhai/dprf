@@ -69,9 +69,6 @@ class InterviewEvaluator(BaseEvaluator):
         Randomly selects length JSON files and loads all 5 examples from each file.
         Total examples = length * 5
         """
-        import random
-        import time
-        
         # Get all JSON files in the directory
         json_files = [f for f in os.listdir(self.data_dir) if f.endswith(".json")]
         
@@ -80,23 +77,27 @@ class InterviewEvaluator(BaseEvaluator):
         
         print(f"Found {len(json_files)} JSON files in {self.data_dir}")
         
-        # If num_examples_to_process is None or 0, use all files
+        from few_shot import select_items
+
+        json_files = sorted(json_files)
+
         if self.num_examples_to_process is None or self.num_examples_to_process <= 0:
             print(f"Processing all {len(json_files)} files")
             files_to_process = json_files
         else:
-            # num_examples_to_process now represents the number of JSON files to select
-            num_files_to_select = min(self.num_examples_to_process, len(json_files))
-            
-            # Randomly select files
-            time_seed = int(time.time())
-            random.seed(time_seed)
-            print(f"Using time seed: {time_seed}")
-            
-            files_to_process = random.sample(json_files, num_files_to_select)
-            print(f"Randomly selected {len(files_to_process)} JSON files using time seed {time_seed}")
-            print(f"Expected total examples: {len(files_to_process)} files × 5 examples/file = {len(files_to_process) * 5} examples")
-            print(f"Selected files: {', '.join(files_to_process)}")
+            files_to_process = select_items(
+                json_files,
+                self.num_examples_to_process,
+                self.example_select,
+                seed=self.seed,
+            )
+            print(
+                f"Selected {len(files_to_process)} JSON files "
+                f"(mode={self.example_select}, length={self.num_examples_to_process})"
+            )
+            print(f"Expected total examples: {len(files_to_process)} files × ~5 examples/file")
+            if len(files_to_process) <= 10:
+                print(f"Selected files: {', '.join(files_to_process)}")
         
         # Load examples from selected files
         all_examples = []
@@ -114,7 +115,15 @@ class InterviewEvaluator(BaseEvaluator):
         if not all_examples:
             raise FileNotFoundError(f"No interview examples found in selected files from {self.data_dir}")
         
-        print(f"Total loaded: {len(all_examples)} interview examples from {len(files_to_process)} files")
+        train_count = sum(1 for ex in all_examples if ex.get("split") == "train")
+        val_count = sum(1 for ex in all_examples if ex.get("split") == "val")
+        if train_count or val_count:
+            print(
+                f"Loaded split examples: {train_count} train, {val_count} val "
+                f"({len(all_examples)} total from {len(files_to_process)} files)"
+            )
+        else:
+            print(f"Total loaded: {len(all_examples)} interview examples from {len(files_to_process)} files")
         
         return all_examples
 
@@ -146,6 +155,17 @@ class InterviewEvaluator(BaseEvaluator):
         
         # Ground truth is the expected response
         ground_truth = example_data.get("ground_truth", "")
+        split = example_data.get("split")
+        if split == "train":
+            optimization_ground_truth = ground_truth
+            evaluation_ground_truth = ground_truth
+        elif split == "val":
+            optimization_ground_truth = ""
+            evaluation_ground_truth = ground_truth
+        else:
+            optimization_ground_truth = ground_truth
+            evaluation_ground_truth = ground_truth
+
         bio_text = "You are a composed and well-informed interviewee participating in a interview. " + bio # Interview examples have bio text
 
         # Generate ID from index if not present
@@ -153,13 +173,17 @@ class InterviewEvaluator(BaseEvaluator):
         
         task_specific_info = {
             "id": example_id,
-            "speakername": speaker_name
+            "speakername": speaker_name,
+            "split": split,
         }
 
         return {
             "content": content,
             "initial_persona": initial_persona,
-            "ground_truth": ground_truth,
+            "ground_truth": evaluation_ground_truth or ground_truth,
+            "optimization_ground_truth": optimization_ground_truth or ground_truth,
+            "evaluation_ground_truth": evaluation_ground_truth or ground_truth,
+            "split": split,
             "bio_text": bio_text,
             "task_specific_info": task_specific_info,
             "example_id_for_filename": str(example_id) # Must be a string
@@ -170,7 +194,8 @@ def main():
     
     # Add generic arguments from BaseEvaluator
     BaseEvaluator.add_generic_args(parser)
-    
+    parser.set_defaults(data_dir="Evaluation/interview/data/processed")
+
     args = parser.parse_args()
 
     # Load model_kwargs from JSON string or file
@@ -223,6 +248,8 @@ def main():
         refinement_prompt_file=args.refinement_prompt_file,
         bedrock_region_name=args.bedrock_region,
         model_kwargs=parsed_model_kwargs,
+        few_shot_examples_file=args.few_shot_examples_file,
+        example_select=args.example_select,
         wandb_project=args.wandb_project,
         wandb_run_name=f"interview_{args.task_model.replace('/', '-')}",
         wandb_notes=args.wandb_notes or "Interview evaluation run (DPRF2 Structure)"

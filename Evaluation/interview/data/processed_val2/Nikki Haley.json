@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "morning. Thank you for having me."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "All is good. I can't complain. Listen, [state] is still proud of you. Keep doing what you're doing."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Thank you very much. I appreciate that. I read recently that you got swatted twice. Twice, yes. Since the end of December. Twice. They were targeting high profile."
+      }
+    ],
+    "speakername": "Nikki Haley",
+    "ground_truth": "Politicians? Yeah, and you know the hard part about that is I wasn't home, but we take care of my parents. They're 87 and 90.",
+    "bio": "Born January 20, 1972, is an American politician who served as the ambassador to the [international organization] from 2017 to 2018. They served as the governor of [state] and is a former member of the [state] House of Representatives. They were the first female governor of [state] and the second [ethnic]-American, after fellow Republican [name], to serve as a governor in the United States. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The state is big."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "They didn't know. Wow."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "How did that make you feel?"
+      }
+    ],
+    "speakername": "Nikki Haley",
+    "ground_truth": "Look, the reason I'm doing this, I don't want my kids to live like this. I know we're better than this. I grew up in a small rural town, and we took care of each other. It was neighbors taking care of neighbors. And there was just something simple about it, and there was just something that was good. You genuinely wanted to take care of people, and we've lost that. I mean, right now you see hatred, you see division, you see anger. I mean, you see these things where they're trying to, like, undercut people, and it's just, you know, it was exacerbated after COVID. But it's all the more reason why we need to go back and say, wait a minute, stop taking all this so personally. This isn't personal. This is just about getting our country back on track.",
+    "bio": "Born January 20, 1972, is an American politician who served as a senior diplomat from 2017 to 2018. Previously served as a state governor and is a former member of the state legislature. Was the first female governor of their state and the second Indian-American to serve as a governor in the country. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "They didn't know. Wow."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "How did that make you feel?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Look, the reason I'm doing this, I don't want my kids to live like this. I know we're better than this. I grew up in a small rural town, and we took care of each other. It was neighbors taking care of neighbors. And there was just something simple about it, and there was just something that was good. You genuinely wanted to take care of people, and we've lost that. I mean, right now you see hatred, you see division, you see anger. I mean, you see these things where they're trying to, like, undercut people, and it's just, you know, it was exacerbated after COVID. But it's all the more reason why we need to go back and say, wait a minute, stop taking all this so personally. This isn't personal. This is just about getting our country back on track."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "A swatting is personal, though. If I call somebody's house, if I say, hey, this is going down at this house, that was personal."
+      }
+    ],
+    "speakername": "Nikki Haley",
+    "ground_truth": "Well, I mean, it's personal from a political perspective. Yeah, I mean, it's a blood sport to run for office these days. But, yeah, I mean, it is. But it goes to show why, and it's why I'm so determined to finish this.",
+    "bio": "The speaker (born January 20, 1972) is an American politician who served as a senior diplomat from 2017 to 2018. They served as state governor and is a former member of their state legislature. The speaker was the first female governor of their state and the second person of their ethnic background to serve as a governor in the country. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I mean, it's personal from a political perspective. Yeah, I mean, it's a blood sport to run for office these days. But, yeah, I mean, it is. But it goes to show why, and it's why I'm so determined to finish this."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "is because I know America's better than this."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "you lose the love for it right you just told us some of the reasons why you want to do this right and then you talk about some of the sides that are against that right you want to do it because you said you want to help people you want to be the person that you know what you grew up on and what you wanted to see but then you talk about them swatting your house which is making your life miserable and your parents like your parents could have had a heart attack you know then you talk about donald trump attacking you the way that he's attacking you i mean they dive into your personal life they dive into an alleged affair they dive into anything that you've ever done or allegedly have ever done into your life and it's when does it get to the point you'd be like excuse part of my friends but fuck this i don't want to do this anymore"
+      }
+    ],
+    "speakername": "Nikki Haley",
+    "ground_truth": "I mean, it's all lies. But what they don't realize is politics is the art of distraction. The more they do that, the more motivated I get because it's everything that's wrong with politics. It's everything that's wrong in this country that we have to clean up. So I do this. I'll take the pain. I'll take whatever it is. I'm a tough girl. I can handle it. This is politics is not personal for me. This is about the fact that we can't be OK with our country like this. We can't be OK with two 80 year olds running for president. We can't be OK with the fact that, look, the 75 percent of Americans are saying they don't want a Trump Biden rematch. The majority of Americans disprove of Trump and disprove of Biden.",
+    "bio": "Nimrata \\\"Nikki\\\" Haley (nÃ©e Randhawa, born January 20, 1972) is an American politician who served as the 29th United States Ambassador to the United Nations from 2017 to 2018. She served as the 116th governor of South Carolina and is a former member of the South Carolina House of Representatives. Haley was the first female governor of South Carolina and the second Indian-American, after fellow Republican Bobby Jindal, to serve as a governor in the United States. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "is because I know this country is better than this."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "you lose the love for it right you just told us some of the reasons why you want to do this right and then you talk about some of the sides that are against that right you want to do it because you said you want to help people you want to be the person that you know what you grew up on and what you wanted to see but then you talk about them swatting your house which is making your life miserable and your parents like your parents could have had a heart attack you know then you talk about them attacking you the way that they're attacking you i mean they dive into your personal life they dive into an alleged affair they dive into anything that you've ever done or allegedly have ever done into your life and it's when does it get to the point you'd be like excuse part of my friends but fuck this i don't want to do this anymore"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, it's all lies. But what they don't realize is politics is the art of distraction. The more they do that, the more motivated I get because it's everything that's wrong with politics. It's everything that's wrong in this country that we have to clean up. So I do this. I'll take the pain. I'll take whatever it is. I'm a tough girl. I can handle it. This is politics is not personal for me. This is about the fact that we can't be OK with our country like this. We can't be OK with two 80 year olds running for president. We can't be OK with the fact that, look, the 75 percent of Americans are saying they don't want a rematch. The majority of Americans disprove of both candidates."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We can't."
+      }
+    ],
+    "speakername": "Nikki Haley",
+    "ground_truth": "Both these fellas put us trillions of dollars in debt that our kids are never going to forgive them for. At what point do we not say, you know what, maybe we need to go with a new generational leader? These older guys don't want to let go of the power. That's what this has always been. But the problem is, look at what happened after the state election. So we got 43%. We started with 14 candidates in the race. You know, one by one, we got rid of the fellas, right? So then it's me going in. I started with 2% in the first state. I ended up with 20%. We go to the next state, we get 43%. Now, the way to look at that is the incumbent didn't get 43%. He's so upset, he throws a temper tantrum on stage and talks about revenge. Then the next day, he says anybody that supports [target] is not going to be part of their movement. If you're running for president, this is a story of addition. You should. You want everybody. You shouldn't push anybody away. And so, you know, we had fun. We've always had fun with it. So we did these barred permanently T-shirts. We sold 15,000 T-shirts.",
+    "bio": "The speaker (born January 20, 1972) is an American politician who served as the Ambassador to the United Nations from 2017 to 2018. They served as a state governor and is a former member of their state House of Representatives. They were the first female governor of their state and the second Indian-American to serve as a governor in the country. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

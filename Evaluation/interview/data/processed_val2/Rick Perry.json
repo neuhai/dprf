@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Good morning, George. How are you?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm doing well. Thank you. Less than a week to go in [state]. You're still lagging far behind. To borrow a metaphor from your home state, has [state] become your [historical site]?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think so, but, you know, we get out every day and go take our message of job creation and, you know, we're the most consistent physical conservative and social conservative in the race and that's our message both on the airways and out on the campaign trail. So, you know, the retail politics in [state] have been awesome."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But as you know, Governor, that big group of social conservatives meeting in [state] yesterday decided you are not the conservative alternative to [candidate]. They want [candidate] to have that mantle. You didn't even make the final ballot."
+      }
+    ],
+    "speakername": "Rick Perry",
+    "ground_truth": "Well, that's what they said about [former president] as well, that, you know, he was unelectable. He was not the one that they wanted to pick. But [state] citizens said, you know what, he is. So we'll wait and see Saturday what the people of [state] say.",
+    "bio": "A prominent American politician who served as the 14th United States Secretary of Energy in a presidential administration. Prior to his cabinet position, he served as the 47th Governor of a southern state from December 2000 to January 2015. Before being governor, he was elected Lieutenant Governor in 1998 and assumed the governorship in December 2000 when the previous Governor resigned to become president. He was the longest-serving governor in his state's history. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think so, but, you know, we get out every day and go take our message of job creation and, you know, we're the most consistent physical conservative and social conservative in the race and that's our message both on the airways and out on the campaign trail. So, you know, the retail politics in [state] have been awesome."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But as you know, Governor, that big group of social conservatives meeting in [state] yesterday decided you are not the conservative alternative to [politician]. They want [politician] to have that mantle. You didn't even make the final ballot."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that's what they said about [former president] as well, that, you know, he was unelectable. He was not the one that they wanted to pick. But [state] citizens said, you know what, he is. So we'll wait and see Saturday what the people of [state] say."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What's your message this final week?"
+      }
+    ],
+    "speakername": "Rick Perry",
+    "ground_truth": "Well, it's all about jobs and getting this country back working again. I'm 11 years of executive governing experience that has created a million jobs in my home state, the 13th largest economy in the world. Keep the taxes low, the regulatory climate fair and predictable, a legal system that doesn't allow for over-suing. And in a state that's got quite a military history and a lot of veterans here, I think they're looking for a president who not only has wore the uniform of the country, but also been the commander-in-chief of 20,000 plus [military organization] troops that have been deployed multiple times. And they know my commitment to the men and women of the military and will stand with them and support them over the course of the years.",
+    "bio": "The speaker (born March 4, 1950) is an American politician who is the 14th United States Secretary of Energy, serving in the [government institution]. Prior to the cabinet position, the speaker served as governor of a southern state from December 2000 to January 2015. Before being governor, the speaker was elected lieutenant governor in 1998 and assumed the governorship in December 2000 when the previous governor resigned to become president. The speaker was the longest-serving governor in state history. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, that's what they said about [public figure] as well, that, you know, he was unelectable. He was not the one that they wanted to pick. But [state] citizens said, you know what, he is. So we'll wait and see Saturday what the people of [state] say."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What's your message this final week?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it's all about jobs and getting this country back working again. I'm 11 years of executive governing experience that has created a million jobs in my home state, the 13th largest economy in the world. Keep the taxes low, the regulatory climate fair and predictable, a legal system that doesn't allow for over-suing. And in a state that's got quite a military history and a lot of veterans here, I think they're looking for a president who not only has wore the uniform of the country, but also been the commander-in-chief of 20,000 plus National Guard troops that have been deployed multiple times. And they know my commitment to the men and women of the military and will stand with them and support them over the course of the years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Governor, as you know, you've taken some heat this week from many Republicans for your attacks on [person] as a vulture capitalist during his time at [company]. I want to read some of them here. [person] said it almost sounds like [organization]. [person] said, it's ignorant and dumb. Senator [person] of [state], it really gives the Democrats a lot of fodder. Any regrets for using that phrase?"
+      }
+    ],
+    "speakername": "Rick Perry",
+    "ground_truth": "Well, I think the issue is not a new phrase. It was used by [person], who's one of [person]'s consultants against [person]. So I think the issue for everyone is, look, this is not something that we knew wasn't coming up, and it's better to be talking about it here in January in [state] than it is in September and October with a nominee. So if it is a fatal flaw, then we need to talk about it now. So the issue has been about who's best prepared and who has the background of creating jobs, and that's what those comments were always about was that who is the job creator that's on that stage. And I will submit to you that my job creation record is incomparable when it comes to the other candidates on that stage.",
+    "bio": "The speaker (born March 4, 1950) is an American politician who is the 14th United States Secretary of Energy, serving in the Cabinet of a former president. Prior to the cabinet position, the speaker served as a state governor from December 2000 to January 2015. Before being governor, the speaker was elected Lieutenant Governor in 1998 and assumed the governorship in December 2000 when the previous governor resigned to become president. The speaker was the longest-serving governor in that state's history. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it's all about jobs and getting this country back working again. I'm 11 years of executive governing experience that has created a million jobs in my home state, the 13th largest economy in the world. Keep the taxes low, the regulatory climate fair and predictable, a legal system that doesn't allow for over-suing. And in a state that's got quite a military history and a lot of veterans here, I think they're looking for a president who not only has wore the uniform of the country, but also been the commander-in-chief of 20,000 plus National Guard troops that have been deployed multiple times. And they know my commitment to the men and women of the military and will stand with them and support them over the course of the years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Governor, as you know, you've taken some heat this week from many Republicans for your attacks on [target] as a vulture capitalist during his time at [company]. I want to read some of them here. [person1] said it almost sounds like [movement]. [person2], it's ignorant and dumb. Senator [person3] of [state], it really gives the Democrats a lot of fodder. Any regrets for using that phrase?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the issue is not a new phrase. It was used by [person4], who's one of [target]'s consultants against [person5]. So I think the issue for everyone is, look, this is not something that we knew wasn't coming up, and it's better to be talking about it here in January in [state] than it is in September and October with a nominee. So if it is a fatal flaw, then we need to talk about it now. So the issue has been about who's best prepared and who has the background of creating jobs, and that's what those comments were always about was that who is the job creator that's on that stage. And I will submit to you that my job creation record is incomparable when it comes to the other candidates on that stage."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you don't buy [target]'s argument that at [company] he created more than 100,000 jobs?"
+      }
+    ],
+    "speakername": "Rick Perry",
+    "ground_truth": "Well, I think the issue is what's the total? It's just like [person6]. When [person6] asked that question, she said, you know, that's really what this issue is all about, not whether or not the [company] is a job creator or not, but did they really create that many jobs? So, yeah, I think the question's out there, and it's a good conversation to have. Now, we're going to get tested by [person7] and his group, so you better have all of these answers done early. No surprises in September and October.",
+    "bio": "The speaker served as a state governor from December 2000 to January 2015. Prior to this, they were elected as lieutenant governor in 1998 and assumed the governorship in December 2000 when the previous governor resigned to become president. They became the longest-serving governor in their state's history. The speaker later served as the Secretary of Energy in a presidential cabinet. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the issue is not a new phrase. It was used by Stuart Stevens, who's one of Mitt Romney's consultants against Meg Whitman. So I think the issue for everyone is, look, this is not something that we knew wasn't coming up, and it's better to be talking about it here in January in [state] than it is in September and October with a nominee. So if it is a fatal flaw, then we need to talk about it now. So the issue has been about who's best prepared and who has the background of creating jobs, and that's what those comments were always about was that who is the job creator that's on that stage. And I will submit to you that my job creation record is incomparable when it comes to the other candidates on that stage."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So you don't buy Mitt Romney's argument that at Bain he created more than 100,000 jobs?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think the issue is what's the total? It's just like Sarah Palin. When Sarah asked that question, she said, you know, that's really what this issue is all about, not whether or not the Bain Capital is a job creator or not, but did they really create that many jobs? So, yeah, I think the question's out there, and it's a good conversation to have. Now, we're going to get tested by Obama and his group, so you better have all of these answers done early. No surprises in September and October."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But I think what a lot of Republicans are worried about is that they're going to see that phrase, vulture capitalism, coming out of your mouth from President Obama and the Democrats in the fall."
+      }
+    ],
+    "speakername": "Rick Perry",
+    "ground_truth": "Well, the issue is about job creation, and as I said, I think if this is a fatal flaw, it needs to be talked about now rather than in September. So, you know, we're talking about it, and the people of [state] will decide whether or not that's a problem or not.",
+    "bio": "The subject (born March 4, 1950) is an American politician who is the 14th United States Secretary of Energy, serving in the federal government. Prior to this position, the subject served as the state governor from December 2000 to January 2015. Before being governor, the subject was elected Lieutenant Governor in 1998 and assumed the governorship in December 2000 when the previous governor resigned to become president. The subject was the longest-serving governor in the state's history. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

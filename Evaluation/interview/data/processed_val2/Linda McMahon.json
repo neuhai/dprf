@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Moments ago, the Education Department started sweeping layoffs. The department is expected to cut 50% of its workforce. Before these layoffs, the U.S. Education Department employed about 4,400 workers. United States Secretary of Education [target] joins me, and I probably should have you explain it in case I got the facts wrong. Did I get it essentially right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thank you very much, Senator, for that question. First of all, let me say that I believe that teaching is one of the most noble professions that we have in our country, and we have so many good, dedicated teachers to help our students. I do think that we are trapping students often in low-performing schools, and that's why the president has such a strong policy towards school choice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But you will agree, I don't mean to interrupt you, but you will agree that you can't just look at education. The truth is that middle class, upper middle class public schools in America generally do pretty well. But if you are homeless, if you were a homeless person and you had kids, the odds of your kids doing pretty well are not good. I'm just asking you, what do you think about the massive level of income and wealth inequality, the fact that we have the highest rate of childhood poverty? Is that something you think you might want to pay attention to?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "they get their notices tonight? They did. Was it just emailed to them?"
+      }
+    ],
+    "speakername": "Linda McMahon",
+    "ground_truth": "Well, it was e-mailed. Yes, we wanted to make sure that everybody got it, you know, before they left, but their department heads and everyone we met with this afternoon, both career folks and political folks, to fully discuss with them, to explain, you know, I have done restructuring the private sector. And, you know, as humanitarian as you want to make it for those folks, you know, who are leaving, it's always difficult.",
+    "bio": "The speaker is an American political executive and former professional wrestling executive who served as the 25th Administrator of a federal agency from 2017 to 2019. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But you will agree, I don't mean to interrupt you, but you will agree that you can't just look at education. The truth is that middle class, upper middle class public schools generally do pretty well. But if you are homeless, if you were a homeless person and you had kids, the odds of your kids doing pretty well are not good. I'm just asking you, what do you think about the massive level of income and wealth inequality, the fact that we have the highest rate of childhood poverty? Is that something you think you might want to pay attention to?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "they get their notices tonight? They did. Was it just emailed to them?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it was e-mailed. Yes, we wanted to make sure that everybody got it, you know, before they left, but their department heads and everyone we met with this afternoon, both career folks and political folks, to fully discuss with them, to explain, you know, I have done restructuring the private sector. And, you know, as humanitarian as you want to make it for those folks, you know, who are leaving, it's always difficult."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But that's what I was going to ask you about, because I've been fired once, and it is really tough. Now, these people go home to their children and say, you know, we don't have a job, but whatever. But are they getting, you know, is there any sort of, are they getting any money for a while? Because earlier it was planned to pay some until September. Is there anything that they get or is it they cut off?"
+      }
+    ],
+    "speakername": "Linda McMahon",
+    "ground_truth": "No, they're getting 90 days of, you know, paid leave. And then, after that, there are severance packages, which is complete and commensurate with what other government layoffs would be, and that is that they get a week's pay for every year. They have served up to 10 years, and then, after that, they get two weeks' pay for the next five years. So, if you have worked, you know, 15 years, that's a pretty good package for you.",
+    "bio": "The subject (born October 4, 1948) is an American political executive and former professional entertainment executive who served as the 25th Administrator of a federal agency from 2017 to 2019. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it was e-mailed. Yes, we wanted to make sure that everybody got it, you know, before they left, but their department heads and everyone we met with this afternoon, both career folks and political folks, to fully discuss with them, to explain, you know, I have done restructuring the private sector. And, you know, as humanitarian as you want to make it for those folks, you know, who are leaving, it's always difficult."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But that's what I was going to ask you about, because I've been fired once, and it is really tough. Now, these people go home to their children and say, you know, we don't have a job, but whatever. But are they getting, you know, is there any sort of, are they getting any money for a while? Because earlier it was planned to pay some until September. Is there anything that they get or is it they cut off?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, they're getting 90 days of, you know, paid leave. And then, after that, there are severance packages, which is complete and commensurate with what other government layoffs would be, and that is that they get a week's pay for every year. They have served up to 10 years, and then, after that, they get two weeks' pay for the next five years. So, if you have worked, you know, 15 years, that's a pretty good package for you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And do you get unemployment beyond that? Are you eligible for unemployment after that?"
+      }
+    ],
+    "speakername": "Linda McMahon",
+    "ground_truth": "No, then that's pretty much where you are, except that, you know, in the government, you can carry over sick leave and other leave, and you get paid for that time as well. So it's, compared to the private sector, it's a pretty generous package.",
+    "bio": "A political executive and former business executive (born October 4, 1948) is an American executive who served as the 25th Administrator of a federal agency from 2017 to 2019. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, they're getting 90 days of, you know, paid leave. And then, after that, there are severance packages, which is complete and commensurate with what other government layoffs would be, and that is that they get a week's pay for every year. They have served up to 10 years, and then, after that, they get two weeks' pay for the next five years. So, if you have worked, you know, 15 years, that's a pretty good package for you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And do you get unemployment beyond that? Are you eligible for unemployment after that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, then that's pretty much where you are, except that, you know, in the government, you can carry over sick leave and other leave, and you get paid for that time as well. So it's, compared to the private sector, it's a pretty generous package."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I imagine as much as it's part of the president's agenda, and I realize everyone who goes into the cabinet and into the government with a new administration does it because it believes in the president's agenda, but it must be tough."
+      }
+    ],
+    "speakername": "Linda McMahon",
+    "ground_truth": "Well, I can tell you that when we looked across, you know, all of all the Department of Education and we have been working with those, you know, the audit that they came in and showed us a lot of the programs that were duplicative. I mean, when you looked at like 130 departments that each had their H.R. and I.T. and and managers, office managers, sometimes in an office that only had five people. So we've consolidated a lot of that. This is not going to do anything to affect our outward facing programs, our Pell grants, our loans. You know, the appropriations that are coming from Congress, all of that will continue to be fulfilled. This is really internal bureaucracy. It is moving people out of a couple of other buildings in [location], consolidating them. So we're freeing up real estate and we're going to save about five hundred million dollars a year just just on what we've done so far.",
+    "bio": "An American political executive and former professional wrestling executive who served as the 25th Administrator of the Small Business Administration from 2017 to 2019. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, then that's pretty much where you are, except that, you know, in the government, you can carry over sick leave and other leave, and you get paid for that time as well. So it's, compared to the private sector, it's a pretty generous package."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I imagine as much as it's part of the president's agenda, and I realize everyone who goes into the cabinet and into the government with a new administration does it because it believes in the president's agenda, but it must be tough."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I can tell you that when we looked across, you know, all of all the Department of Education and we have been working with those, you know, the audit that they came in and showed us a lot of the programs that were duplicative. I mean, when you looked at like 130 departments that each had their H.R. and I.T. and and managers, office managers, sometimes in an office that only had five people. So we've consolidated a lot of that. This is not going to do anything to affect our outward facing programs, our Pell grants, our loans. You know, the appropriations that are coming from Congress, all of that will continue to be fulfilled. This is really internal bureaucracy. It is moving people out of a couple of other buildings in the capital, consolidating them. So we're freeing up real estate and we're going to save about five hundred million dollars a year just just on what we've done so far."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "is the department of education i told you we sat down i worked for a short time with the civil aeronautics board which went on the chopping block nobody even knows that the civil aeronautics board is except for me but is the is department of education ultimately on the chopping block before the end of this administration"
+      }
+    ],
+    "speakername": "Linda McMahon",
+    "ground_truth": "Well, clearly, I think the president made it very clear that he thought that the Department of Education, you know, should totally go away, and he said that my successful job will be to put myself out of a job. So I'm working to fulfill that mandate that he gave to me, and that's the directive. But in the meantime, we want to make sure that the programs, everything that is put in place continues to operate in a more efficient way.",
+    "bio": "The speaker (born October 4, 1948) is an American political executive and former professional wrestling executive who served as the 25th Administrator of a federal agency from 2017 to 2019. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "to see you too."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So I want to talk to you about your new book, Cheaper, Faster, Better, How We Will Win the Climate War. Now, you've been concerned about climate change for a long time. What's different now? Why are you writing this book for this moment?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm writing this book to try and change the way people perceive the climate issue. I'd say the two big memes around climate are, one, this economy is run on fossil fuels and always will be. I don't believe that for a second. And secondly, we're in a doomsday scenario. There's nothing we can do but throw up our hands. I don't believe that for a second. I think what's true is that we have a very serious problem, and the means to solve that problem are here. And, in fact, we will solve this problem. We will do it successfully. The question is how fast. But if we understand that this is an opportunity for us to build our economy and create a much healthier, safer future for all of us, I think it's a chance for us to look at this as an opportunity and really to think, okay, we have to pull up our socks and do something, so let's pull up our socks and get to work."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There's a couple of facets here that are intriguing in that some people say it's not the private sector's job, it's the government's job, number one. And then number two, yeah, if you want to get involved, it's just a money pit. Don't think of this as a place to make money. Can you address both of those issues?"
+      }
+    ],
+    "speakername": "Tom Steyer",
+    "ground_truth": "Yes. In terms of the private sector and the public sector, I mean, one of the myths in America is there's such a thing as a free market. In fact, the public sector governments, all markets have rules. And so the rules that a government puts in place, it used to be possible in the country to employ a 12-year-old for a 14-hour day and pay him less than a buck. Now that's illegal because society decided that's not okay. So in every one of these instances, the rules about what is permissible, what is good for society, are set by the government. But having said that, what scales in this world is profits, businesses. That's actually the engine for solving problems across our society, and that's really what capitalism is. And that is what's going to solve this problem. It's going to be people creating cheaper, faster, better products that other companies and people want to buy. And so we change our society because, in fact, we're producing better stuff that people like.",
+    "bio": " The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I'm writing this book to try and change the way people perceive the climate issue. I'd say the two big memes around climate are, one, this economy is run on fossil fuels and always will be. I don't believe that for a second. And secondly, we're in a doomsday scenario. There's nothing we can do but throw up our hands. I don't believe that for a second. I think what's true is that we have a very serious problem, and the means to solve that problem are here. And, in fact, we will solve this problem. We will do it successfully. The question is how fast. But if we understand that this is an opportunity for us to build our economy and create a much healthier, safer future for all of us, I think it's a chance for us to look at this as an opportunity and really to think, okay, we have to pull up our socks and do something, so let's pull up our socks and get to work."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There's a couple of facets here that are intriguing in that some people say it's not the private sector's job, it's the government's job, number one. And then number two, yeah, if you want to get involved, it's just a money pit. Don't think of this as a place to make money. Can you address both of those issues?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes. In terms of the private sector and the public sector, I mean, one of the myths in this country is there's such a thing as a free market. In fact, the public sector governments, all markets have rules. And so the rules that a government puts in place, it used to be possible in this country to employ a 12-year-old for a 14-hour day and pay him less than a buck. Now that's illegal because society decided that's not okay. So in every one of these instances, the rules about what is permissible, what is good for society, are set by the government. But having said that, what scales in this world is profits, businesses. That's actually the engine for solving problems across our society, and that's really what capitalism is. And that is what's going to solve this problem. It's going to be people creating cheaper, faster, better products that other companies and people want to buy. And so we change our society because, in fact, we're producing better stuff that people like."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right. Now people talk about sustainability, though, and this sort of addresses my second question, which you addressed a little bit, but I want to go further. Sustainability. What about sustainable profits for green businesses? That's what you're talking about, right?"
+      }
+    ],
+    "speakername": "Tom Steyer",
+    "ground_truth": "Absolutely. Look, if a business isn't profitable, it's not going to succeed. You're not going to change a global problem with a business that doesn't make a lot of money. So the idea that we're doing something nice, no, I don't believe there's a trade off at all between impact and returns. In fact, I think this transition is a gigantic tailwind to build companies because we have to. But having said that, this is an investment business about making money. That's what I've done for over 40 years of my life, looked at businesses and figured out which ones are going to make money, which ones are going to grow, which ones are going to be really valuable. That is investing and that's business. And that's what's going to make this change happen. And that is what's going to make the investors who do a disciplined work with knowledge of this area a lot of money.",
+    "bio": " The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Right. Now people talk about sustainability, though, and this sort of addresses my second question, which you addressed a little bit, but I want to go further. Sustainability. What about sustainable profits for green businesses? That's what you're talking about, right?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. Look, if a business isn't profitable, it's not going to succeed. You're not going to change a global problem with a business that doesn't make a lot of money. So the idea that we're doing something nice, no, I don't believe there's a trade off at all between impact and returns. In fact, I think this transition is a gigantic tailwind to build companies because we have to. But having said that, this is an investment business about making money. That's what I've done for over 40 years of my life, looked at businesses and figured out which ones are going to make money, which ones are going to grow, which ones are going to be really valuable. That is investing and that's business. And that's what's going to make this change happen. And that is what's going to make the investors who do a disciplined work with knowledge of this area a lot of money."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've raised a billion dollars, I think, for a fund, Galvanize Climate Solution, to invest in these types of companies. Can you give us some examples of some of these businesses that you either invested in already or are targeting?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I can, but let me take a step back if you don't mind, Andy. Sure. We're a multi-strategy firm."
+      }
+    ],
+    "speakername": "Tom Steyer",
+    "ground_truth": "Yes, we are doing venture and growth, which is the fund that you're talking about. We're also doing real estate. We also have a public market strategy and we will be coming up with in the very short term other investment strategies, which we will hire teams for and raise money for.",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You've raised a billion dollars, I think, for a fund, [Investment Fund Name], to invest in these types of companies. Can you give us some examples of some of these businesses that you either invested in already or are targeting?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I can, but let me take a step back if you don't mind, Andy. Sure. We're a multi-strategy firm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, we are doing venture and growth, which is the fund that you're talking about. We're also doing real estate. We also have a public market strategy and we will be coming up with in the very short term other investment strategies, which we will hire teams for and raise money for."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are these all pertaining to sustainability or some not at all?"
+      }
+    ],
+    "speakername": "Tom Steyer",
+    "ground_truth": "[Investment Fund Name] solutions. It's a multi-strategy firm. Okay completely focused on this energy transition Got it. I think the ease I'm gonna give you a realist",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, we are doing venture and growth, which is the fund that you're talking about. We're also doing real estate. We also have a public market strategy and we will be coming up with in the very short term other investment strategies, which we will hire teams for and raise money for."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Are these all pertaining to sustainability or some not at all?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Galvanize climate solutions. It's a multi-strategy firm. Okay completely focused on this energy transition Got it. I think the ease I'm gonna give you a realist"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "estate piece would be under that umbrella as well?"
+      }
+    ],
+    "speakername": "Tom Steyer",
+    "ground_truth": "The real estate concept is buy buildings, get them to net zero, and make more money doing it that way than any other way to show the world, yeah, a big part of the issue here in emissions is buildings. Let's show that having net zero buildings are more valuable and more profitable than other buildings.",
+    "bio": "The speaker's MBTI type is ENFJ",
+    "split": "val"
+  }
+]

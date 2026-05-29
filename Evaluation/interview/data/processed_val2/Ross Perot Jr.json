@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. I mean, Richard, these prices bring the oil industry back in this state. This is a free market state. Price comes back. You see people go to work. The problem now is with shortage of fracking crews, shortage of labor like we have throughout industries in this country. So it'll take a little while, but you'll see the oil production come back that should help stabilize global pricing."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The problem with oil in fracking is that it is totally market driven. So the moment the price drops as it did in 2020, it becomes unproductive. We saw bankruptcies, ancillary companies went out of business. Now that's almost impossible for an oil industry to plan around."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is. But this is what the entrepreneurs do. This is what the risk capital does. When it's time to drill, we drill. But then in this state, we have a tendency to overdo it. Too much money comes in. Oil price will drop. Great for the consumer. Bad for the industry. We slow down. Price comes back. But now, Richard, it's the politics. You've got that negative political tone on oil and gas that's keeping money out. In a normal market, hundreds of billions would be pouring into the industry. We get oil. We'd have affordability. You're now going to have expensive oil for a while because it's going to take a while to get the industry back."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And do you think, I mean, oil and gas, is it a dirty phrase?"
+      }
+    ],
+    "speakername": "Ross Perot Jr",
+    "ground_truth": "Again, politically, I mean, politically. Well, maybe certain politicians worry about it, but you look what's going on. We need oil and gas. We need clean oil and gas produced in the Western world where you have environmental standards. So that's what you have in this state are good standards. We have good oil. We're going to need oil for another 30 or 40 years, Richard. 100 million barrels a day is what the world's going to need.",
+    "bio": "The subject (born June 27, 1930 - died July 9, 2019) was an American business magnate and former politician. As the founder of a major data processing company, they became a billionaire. They ran an independent presidential campaign in 1992 and a third party campaign in 1996, establishing a reform-focused political party in the latter election. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It is. But this is what the entrepreneurs do. This is what the risk capital does. When it's time to drill, we drill. But then in this state, we have a tendency to overdo it. Too much money comes in. Oil price will drop. Great for the consumer. Bad for the industry. We slow down. Price comes back. But now, Richard, it's the politics. You've got that negative political tone on oil and gas that's keeping money out. In a normal market, hundreds of billions would be pouring into the industry. We get oil. We'd have affordability. You're now going to have expensive oil for a while because it's going to take a while to get the industry back."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And do you think, I mean, oil and gas, is it a dirty phrase?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Again, politically, I mean, politically. Well, maybe certain politicians worry about it, but you look what's going on. We need oil and gas. We need clean oil and gas produced in the Western world where you have environmental standards. So that's what you have in this state are good standards. We have good oil. We're going to need oil for another 30 or 40 years, Richard. 100 million barrels a day is what the world's going to need."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I heard a lovely phrase to describe what's going on here, this state. Now, this is people coming from the West Coast and the Pacific Northwest, even the East Coast coming to this state. Land prices have gone through the roof. You've just done some very big deals in the billions."
+      }
+    ],
+    "speakername": "Ross Perot Jr",
+    "ground_truth": "Yes, yes. This is the high growth region now in the United States. We're adding 375 people a day into this metropolitan area. We'll pass [major midwest city] in 10 years to be the third largest metropolitan area. [major east coast city], [major west coast city] and [this metropolitan area]. And Richard, what makes us unique, there are no barriers to growth. We can grow in 360 degrees. We're adding millions of people and we'll continue to add millions of people every decade.",
+    "bio": "The subject (June 27, 1930 – July 9, 2019) was an American business magnate and former politician. As the founder of a major data processing company, he became a billionaire. He ran an independent presidential campaign in 1992 and a third party campaign in 1996, establishing the Reform Party in the latter election. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Again, politically, I mean, politically. Well, maybe certain politicians worry about it, but you look what's going on. We need oil and gas. We need clean oil and gas produced in the Western world where you have environmental standards. So that's what you have in this state are good standards. We have good oil. We're going to need oil for another 30 or 40 years, Richard. 100 million barrels a day is what the world's going to need."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I heard a lovely phrase to describe what's going on here, this state. Now, this is people coming from the West Coast and the Pacific Northwest, even the East Coast coming here. Land prices have gone through the roof. You've just done some very big deals in the billions."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes, yes. This is the high growth region now in the country. We're adding 375 people a day into this metropolitan area. We'll pass another major city in 10 years to be the third largest metropolitan area. Two other major cities and our area. And Richard, what makes us unique, there are no barriers to growth. We can grow in 360 degrees. We're adding millions of people and we'll continue to add millions of people every decade."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is there a bubble building up in here in property here? Not real."
+      }
+    ],
+    "speakername": "Ross Perot Jr",
+    "ground_truth": "I mean, we've been we're better behaved this time. The bank, the banks, the banks have been kept disciplined in the market. And so we are not overbuilt. And right at this moment, all the product types are full. I lived through the financial crisis. I saw I saw. Yes. How about that for old history?",
+    "bio": "An American business magnate and former politician (June 27, 1930 - July 9, 2019). As the founder of a major data processing company, he became a billionaire. He ran an independent presidential campaign in 1992 and a third party campaign in 1996, establishing a new political party in the latter election. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes, yes. This is the high growth region now in the United States. We're adding 375 people a day into [major city]. We'll pass [major city] in 10 years to be the third largest metropolitan area. [major city], [major city] and [major city]. And Richard, what makes us unique, there are no barriers to growth. We can grow in 360 degrees. We're adding millions of people and we'll continue to add millions of people every decade."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is there a bubble building up in here in property here? Not real."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, we've been we're better behaved this time. The bank, the banks, the banks have been kept disciplined in the market. And so we are not overbuilt. And right at this moment, all the product types are full. I lived through the financial crisis. I saw I saw. Yes. How about that for old history?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I remember the financial crisis and the bailouts and then 2008 and the bailout."
+      }
+    ],
+    "speakername": "Ross Perot Jr",
+    "ground_truth": "That's right. But remember, in 08, [state] wasn't bad. We were not that overbuilt in 08. We went down a little, but we were the first back in the recovery of the 08 crisis.",
+    "bio": "A prominent American business magnate and former politician (June 27, 1930 - July 9, 2019). As the founder of a major data processing company, he became a billionaire. He ran an independent presidential campaign in 1992 and a third party campaign in 1996, establishing a new political party in the latter election. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I see we've got about six minutes left. Do you want to open up for questions or any questions?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I'm very impressed by everything you guys are saying and all the things that are happening, and I certainly agree with you. The one thing we're not saying is something I heard this morning from our Nobel Laureate panel was we're having trouble attracting people here because of the state of our education system. Now we're not talking about the higher education system."
+      },
+      {
+        "speaker": "[target]",
+        "text": "which we all agree is fantastic, and we're doing great things in this state."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But I'm worried because if it weren't for two southern states, when it comes to the health of our population, when it comes to the education of our population in general, we are at the bottom."
+      }
+    ],
+    "speakername": "Ross Perot Jr",
+    "ground_truth": "Let me challenge part of what you say, and let me tell you, I want to correct one factor in what you said, because I've lived this cycle, and we turn downward. Let me tell you the glass half full, and that is from 1983, when his father started working on K-12, to 2011. In 2011, this state led, not the southern states, but led the country in increase of academic achievement of the African American and Hispanic population, and the white population. Now, that came from a low base of about 48, but we moved up to 25th in the entire country in a relatively short period of time. In 2011, the state took $5 billion out of the K-12 education system funding, and decreased standards in 2011 by decreasing math and science requirements. So, beginning in 2011 to 2016, we began to decline again. That's one of the reasons that we started the state improvement effort, is because we believe we must rebuild the momentum that was created, really, by his father. But I think there is a growing awareness in the state that we took the foot off the pedal, and we, as I said earlier, we're in a race to see if we can turn around, again, our K-12 system, because if we don't, we're not going to be able to fill these jobs that are going to be needed in the future. So, I agree with part of what you said, but I don't think it's an impossible task, because we've done it once before. And it takes a long time. The education pipeline is long, but we've just expanded, for instance, early childhood education, made a major new investment in that. That's critical. But there's more to be done on the education front, trust me. If you looked at... If I looked at one summary of the issue the state faces over the next 20 years, it is we need a large, employable workforce. Large means we have to keep migration growing. Employable means we have to continue to improve the education system and health care outcomes. Right now, we have 1.2 million unfilled jobs in the state, and only 500,000 unemployed people. And those 500,000 do not qualify for the 1,200,000 unfilled jobs. So, yes, we have our challenges. But believe me, we're not behind like our competitor states are. And again, I wouldn't trade places with other states, given looking across the state. And part of what our state improvement initiative has done is measure our state against all the other 49 states, because we believe any enterprise must be looking at what are the strategic challenges you face down the road. And we face many challenges down the road, and a particular one is health care costs, health care outcomes, and we face a tremendous issue in terms of access to health care and affordability of health care.",
+    "bio": "The target (born June 27, 1930 - died July 9, 2019) was an American business magnate and former politician. As the founder of a major data systems company, he became a billionaire. He ran an independent presidential campaign in 1992 and a third party campaign in 1996, establishing a new political party in the latter election. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

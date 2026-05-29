@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes. There we are. Yeah, probably."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Great, sure, thanks. We have seven minutes, is that right? That's correct. Good. Welcome to [city], first of all. It's good to be here. Yeah, yeah. I'm going to start right away with the tough stuff that you're expecting, you know. Ask away. Right. This is on [person] first."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "big announcement yesterday one of your most trusted senior advisors resigned he's adding his voice to a number of career diplomats who've expressed frustration over what they see as your failure to stand up for government servants and servants like ambassador [person] have been caught up in the ukraine controversy did you do enough to defend the ambassador privately and publicly against the smear campaign that was being waged against her and will you speak to that now"
+      },
+      {
+        "speaker": "[target]",
+        "text": "well, ma'am, you have some of your facts wrong, so you should be careful about things you assert as facts before you state them. But more importantly, I'm incredibly proud of the work that I've done, along with my team, other senior leaders at the [government department], to make sure that this institution was functional, preserved, and delivering on behalf of America. And I think the results that we've achieved, I've been the Secretary of State now for about a year and a half, I think the results that we've achieved stand on their own."
+      }
+    ],
+    "speakername": "Mike Pompeo",
+    "ground_truth": "And the career people who work at the [government department], the civil servants who work at the [government department], the political people who work at the [government department] are all part of one team focused on a singular mission to deliver on behalf of America. And I think we have done that, are doing it today, and will continue to do it during my time in leadership.",
+    "bio": "The speaker (born December 30, 1963) is an American politician, diplomat, businessman, and attorney who, since April 2018, has been serving as 70th Secretary of State. They are a former military officer and were Director of a federal intelligence agency from January 2017 until April 2018. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And the career people who work at the federal department, the civil servants who work at the federal department, the political people who work at the federal department are all part of one team focused on a singular mission to deliver on behalf of the country. And I think we have done that, are doing it today, and will continue to do it during my time in leadership."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can you speak to Michael McKinley's resignation?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't talk about personal matters."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did he speak to you personally about it as he resigned?"
+      }
+    ],
+    "speakername": "Mike Pompeo",
+    "ground_truth": "I don't talk about personnel matters. It wouldn't be appropriate, ma'am, to do that. You wouldn't want me to talk about an employee that we terminated or an employee that left or an employee that had to depart for personal reasons. You wouldn't want me to do that. It wouldn't be appropriate for me to speak about a personnel matter, and so I have consistently not done that, not only for the Secretary's sake, but in all the previous roles that I've had. I appreciate your inquiry a great deal, but it just wouldn't be appropriate.",
+    "bio": "The subject (born December 30, 1963) is an American politician, diplomat, businessman, and attorney who, since April 2018, has been serving as a senior government official. They are a former military officer and were director of a federal intelligence agency from January 2017 until April 2018. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't talk about personnel matters. It wouldn't be appropriate, ma'am, to do that. You wouldn't want me to talk about an employee that we terminated or an employee that left or an employee that had to depart for personal reasons. You wouldn't want me to do that. It wouldn't be appropriate for me to speak about a personnel matter, and so I have consistently not done that, not only for the Secretary's sake, but in all the previous roles that I've had. I appreciate your inquiry a great deal, but it just wouldn't be appropriate."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Did you support the ambassador being recalled months before her tenure was up?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "supported every mission that the State Department's been engaged in and will continue to do that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to ask you a question about the Kurdish population. Here we have very â we have a lot of Kurds here, and this is a question on Syria. A senior State Department official told reporters yesterday that among the deepest concerns about Turkey's incursion is indiscriminate firing on civilians and even ethnic cleansing. [Location] has a large Kurdish population. What do you say to the worried families here?"
+      }
+    ],
+    "speakername": "Mike Pompeo",
+    "ground_truth": "So the [Country], under the President, did enormous work to support the Kurds in taking down the caliphate in the predominantly Kurdish regions of [Location]. ISIS had infected their region. You remember the people in cages, heads being cut off, and you watched under the President's leadership the support that we provided to the Kurdish people there in the region to take down the caliphate inside of northeast [Location] where the majority of these Kurdish people live. So I'm very proud of what we've done in support of the Kurds. We're working diligently, even as I sit here today, our team is working diligently on the ground to convince the foreign leader it's not in anyone's best interest to engage in behavior that puts civilians at risk inside of [Location].",
+    "bio": "The individual (born December 30, 1963) is an American politician, diplomat, businessman, and attorney who, since April 2018, has been serving as [Position] of [Country]. He is a former military officer and was Director of [Agency] from January 2017 until April 2018. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "supported every mission that the [Government Department]'s been engaged in and will continue to do that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to ask you a question about the Kurdish population. Here we have very - we have a lot of Kurds here, and this is a question on Syria. A senior [Government Department] official told reporters yesterday that among the deepest concerns about Turkey's incursion is indiscriminate firing on civilians and even ethnic cleansing. [City] has a large Kurdish population. What do you say to the worried families here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So the [Country], under the President, did enormous work to support the Kurds in taking down the caliphate in the predominantly Kurdish regions of Syria. ISIS had infected their region. You remember the people in cages, heads being cut off, and you watched under the President's leadership the support that we provided to the Kurdish people there in the region to take down the caliphate inside of northeast Syria where the majority of these Kurdish people live. So I'm very proud of what we've done in support of the Kurds. We're working diligently, even as I sit here today, our team is working diligently on the ground to convince President Erdogan it's not in anyone's best interest to engage in behavior that puts civilians at risk inside of Syria."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And for the Kurds who are here in [City], do you see why they're so worried?"
+      }
+    ],
+    "speakername": "Mike Pompeo",
+    "ground_truth": "been incredibly supportive, and we will continue to support them. You have to remember - and I'm sure the people in this region would know that the Kurds exist not only in Syria, they exist in many places, and the [Country] has been and will continue to be incredibly supportive to protect them. We've made a real centerpiece of the [Government Department]'s work during my time of protecting people all around the world - marginalized communities, religious minorities, religious freedom, all the things that I know that the Kurdish people that live right here in this region care so deeply about will continue to do that.",
+    "bio": "The speaker (born December 30, 1963) is an American politician, diplomat, businessman, and attorney who, since April 2018, has been serving as a senior government official. They are a former military officer and were director of a major intelligence agency from January 2017 until April 2018. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So the United States, under President Trump, did enormous work to support the Kurds in taking down the caliphate in the predominantly Kurdish regions of Syria. ISIS had infected their region. You remember the people in cages, heads being cut off, and you watched under President Trump's leadership the support that we provided to the Kurdish people there in the region to take down the caliphate inside of northeast Syria where the majority of these Kurdish people live. So I'm very proud of what we've done in support of the Kurds. We're working diligently, even as I sit here today, our team is working diligently on the ground to convince President Erdogan it's not in anyone's best interest to engage in behavior that puts civilians at risk inside of Syria."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And for the Kurds who are here in Nashville, do you see why they're so worried?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "been incredibly supportive, and we will continue to support them. You have to remember â and I'm sure the people in this region would know that the Kurds exist not only in Syria, they exist in many places, and the United States has been and will continue to be incredibly supportive to protect them. We've made a real centerpiece of the State Department's work during my time of protecting people all around the world â marginalized communities, religious minorities, religious freedom, all the things that I know that the Kurdish people that live right here in this region care so deeply about will continue to do that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Thank you. In mid-February, you were in Warsaw, and so was Rudy Giuliani. During your time there, did you meet with Giuliani?"
+      }
+    ],
+    "speakername": "Mike Pompeo",
+    "ground_truth": "you know, I don't talk about who I meet with. I went to Warsaw for a particular purpose. It was an important mission. We brought together people all across the world to take down the world's largest state sponsor of terror, the Islamic Republic, Iran. That's what I worked on on that mission.",
+    "bio": "Michael Richard PompeoÂ (born December 30, 1963) is an American politician, diplomat, businessman, and attorney who, since April 2018, has been serving asÂ 70thÂ United States Secretary of State. He is a formerÂ United States ArmyÂ officer and wasÂ Director of the Central Intelligence AgencyÂ from January 2017 until April 2018. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

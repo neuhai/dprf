@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, the wealth tax, which is like 25% of the appreciation of things that you own privately, it's going to bankrupt every startup. No one will ever start a business in this country anymore, right? Because, you know, God forbid someone puts money in your company at a billion dollar valuation, and if you own half the company, you owe $100 million in taxes that year. You know, those kinds of taxes, I think, are destructive. You don't have a tax policy that destroys the economy."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], I am so excited for this. I've heard so many great things. I just told you I was messaging with Jackie, but I heard so many wonderful things. So thank you so much for joining me today. Well, I'm delighted to be here. I would love to start. I've listened to many of your interviews before. And bluntly, I wanted to ask different questions. And so I want to start with, you went to business school and then you founded your company. How was raising the first fund?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was fun. It was a bit like blind dating. A lot of blind dates, not much success. But we had, I think we eventually saw well over 100 people, and we had six people ultimately say yes and give us money. And the six people totaled $3.1 million. Actually, $3 million. And my partner and I put up $100 million together."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What worked? What didn't work? 100 meetings. There must have been some lessons."
+      }
+    ],
+    "speakername": "Bill Ackman",
+    "ground_truth": "So what was interesting is anyone who knew me as a kid wouldn't give us money. And the same went true for my partner because they thought of me, their perspective was me as a high school kid or an elementary school kid or whatever. So I had no success with anyone I knew. But of the original six, four of the six were in the 400 wealthiest people in the country. So we went to people who were worth $400 million. We asked them for like a half a million bucks. And that was a good strategy, actually. And what was interesting is the people who were entrepreneurs really liked the idea of backing a couple of young guys who were entrepreneurs. And I think that was a big part of the connection. And the pitch we made, we said, look, we're not doing venture capital. We're investing in public companies. We're doing detailed due diligence. We have no track record, but we have a strategy that has an excellent track record. You know, we're following a successful investor's approach. We're going to work with his devotees and we said, look, we're putting all of our collective networks in. We're, you know, missing out on the opportunity to go work at major consulting or investment firms to do this. We've been successful up to date and everything we've done, you know, we've",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Bill, I am so excited for this. I've heard so many great things. I just told you I was messaging with Jackie Reeses, but I heard so many wonderful things. So thank you so much for joining me today. Well, I'm delighted to be here. I would love to start. I've listened to many of your interviews before. And bluntly, I wanted to ask different questions. And so I want to start with, you went to HBS and then you founded Gotham. How was raising the first fund?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was fun. It was a bit like blind dating. A lot of blind dates, not much success. But we had, I think we eventually saw well over 100 people, and we had six people ultimately say yes and give us money. And the six people totaled $3.1 million. Actually, $3 million. And my partner and I put up $100 million together."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What worked? What didn't work? 100 meetings. There must have been some lessons."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So what was interesting is anyone who knew me as a kid wouldn't give us money. And the same went true for my partner because they thought of me, their perspective was me as a high school kid or an elementary school kid or whatever. So I had no success with anyone I knew. But of the original six, four of the six were in the 400 wealthiest people in America. So we went to people who were worth $400 million. We asked them for like a half a million bucks. And that was a good strategy, actually. And what was interesting is the people who were entrepreneurs really liked the idea of backing a couple of young guys who were entrepreneurs. And I think that was a big part of the connection. And the pitch we made, we said, look, we're not doing venture capital. We're investing in public companies. We're doing detailed due diligence. We have no track record, but we have a strategy that has an excellent track record. You know, we're Warren Buffett. We're going to work with Warren Buffett devotees and we said, look, we're putting all of our collective networks in. We're, you know, missing out on the opportunity to go work at McKinsey or Goldman Sachs to do this. We've been successful up to date and everything we've done, you know, we've"
+      }
+    ],
+    "speakername": "Bill Ackman",
+    "ground_truth": "Whatever, I did well in high school, went to a good college, did well there. You know, got into Harvard Business School, had success in my job prior to business school. So we sold them on track record of life success, no experience, a lot of moxie. And you know what? If we fail, you're not going to lose all your money because we don't use leverage. We're buying real companies at a discount to what they're worth, you know, reasonably concentrated. And I think the psychic, actually, one of the interesting things that happened is my partner, David Berkowitz, said, Bill, unless we raise $3 million, I'm not going forward with you. And so we were stubbornly stuck at like $2.6. And it's like February. And we're like, look, if we don't launch by March 1, we're done. And when we went to see people, we actually wrote up a number of investment ideas. And we wrote up four companies. And one of the guys. We went to see was the heir of a famous New York City real estate family. And he turned us down. But he invested in all the ideas. One of them was up 90% between the time we saw him. One was up 50. You know, one like doubled. And like the short, we recommended and plowed it. And it was like an incredible thing. And he calls us up sheepishly. And he says, look, I invested in your ideas. And I felt it was morally wrong for me not to invest with you guys. And he gave us a half a million bucks. And that was like the increment that got us over the $3 million mark when we started.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What worked? What didn't work? 100 meetings. There must have been some lessons."
+      },
+      {
+        "speaker": "[target]",
+        "text": "So what was interesting is anyone who knew me as a kid wouldn't give us money. And the same went true for my partner because they thought of me, their perspective was me as a high school kid or an elementary school kid or whatever. So I had no success with anyone I knew. But of the original six, four of the six were in the 400 wealthiest people in America. So we went to people who were worth $400 million. We asked them for like a half a million bucks. And that was a good strategy, actually. And what was interesting is the people who were entrepreneurs really liked the idea of backing a couple of young guys who were entrepreneurs. And I think that was a big part of the connection. And the pitch we made, we said, look, we're not doing venture capital. We're investing in public companies. We're doing detailed due diligence. We have no track record, but we have a strategy that has an excellent track record. You know, we're Warren Buffett. We're going to work with Warren Buffett devotees and we said, look, we're putting all of our collective networks in. We're, you know, missing out on the opportunity to go work at McKinsey or Goldman Sachs to do this. We've been successful up to date and everything we've done, you know, we've"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Whatever, I did well in high school, went to a good college, did well there. You know, got into Harvard Business School, had success in my job prior to business school. So we sold them on track record of life success, no experience, a lot of moxie. And you know what? If we fail, you're not going to lose all your money because we don't use leverage. We're buying real companies at a discount to what they're worth, you know, reasonably concentrated. And I think the psychic, actually, one of the interesting things that happened is my partner, David Berkowitz, said, Bill, unless we raise $3 million, I'm not going forward with you. And so we were stubbornly stuck at like $2.6. And it's like February. And we're like, look, if we don't launch by March 1, we're done. And when we went to see people, we actually wrote up a number of investment ideas. And we wrote up four companies. And one of the guys. We went to see was the heir of a famous New York City real estate family. And he turned us down. But he invested in all the ideas. One of them was up 90% between the time we saw him. One was up 50. You know, one like doubled. And like the short, we recommended and plowed it. And it was like an incredible thing. And he calls us up sheepishly. And he says, look, I invested in your ideas. And I felt it was morally wrong for me not to invest with you guys. And he gave us a half a million bucks. And that was like the increment that got us over the $3 million mark when we started."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And we made it to 3.1 with that check. I learned a lot from my first partnership. You mentioned David there. What did you learn about great partnerships from that first partnership with David?"
+      }
+    ],
+    "speakername": "Bill Ackman",
+    "ground_truth": "So David was a great partner, and we remain really great friends. We don't see each other as much as I would like. Actually, at the very, very beginning, we lived together. Kind of a funny story. I had worked for a company called General Atlantic Real Estate, which was the real estate private equity subsidiary of the well-known kind of venture firm. It's something they disbanded over time. I worked there for the summer, and I got an apartment. They gave me a good deal on an apartment in a building at the address of 360 East 88th Street. And we shared the apartment, keeping costs down at the very, very beginning of time. And kind of the funny story is, many, many years later, my daughter, my youngest daughter, was in the building with the nanny on a way to a play date. And she said she was here to see. It was Elwes Ackman here to see some other child in the building. And the doorman said, or the concierge or whatever they called it, said, Oh, Ackman. There used to be someone named Ackman who lived in this building, you know, like, you know, maybe eight or nine years ago. And is it, would it be [target]? And she said, yeah, [target]. And the guy laughed and laughed and laughed. Is he married? And she said, yes. He said, to a woman? She said, yes. So the two of us living together, we were a couple because the building didn't allow singles to share apartments. But because I had worked for the landlord, they made the exception. Anyway, I don't know if it's relevant for your particular podcast, but I thought it was kind of a funny story.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Whatever, I did well in high school, went to a good college, did well there. You know, got into Harvard Business School, had success in my job prior to business school. So we sold them on track record of life success, no experience, a lot of moxie. And you know what? If we fail, you're not going to lose all your money because we don't use leverage. We're buying real companies at a discount to what they're worth, you know, reasonably concentrated. And I think the psychic, actually, one of the interesting things that happened is my partner, David Berkowitz, said, Bill, unless we raise $3 million, I'm not going forward with you. And so we were stubbornly stuck at like $2.6. And it's like February. And we're like, look, if we don't launch by March 1, we're done. And when we went to see people, we actually wrote up a number of investment ideas. And we wrote up four companies. And one of the guys. We went to see was the heir of a famous New York City real estate family. And he turned us down. But he invested in all the ideas. One of them was up 90% between the time we saw him. One was up 50. You know, one like doubled. And like the short, we recommended and plowed it. And it was like an incredible thing. And he calls us up sheepishly. And he says, look, I invested in your ideas. And I felt it was morally wrong for me not to invest with you guys. And he gave us a half a million bucks. And that was like the increment that got us over the $3 million mark when we started."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And we made it to 3.1 with that check. I learned a lot from my first partnership. You mentioned David there. What did you learn about great partnerships from that first partnership with David?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So David was a great partner, and we remain really great friends. We don't see each other as much as I would like. Actually, at the very, very beginning, we lived together. Kind of a funny story. I had worked for a company called General Atlantic Real Estate, which was the real estate private equity subsidiary of the well-known kind of venture firm. It's something they disbanded over time. I worked there for the summer, and I got an apartment. They gave me a good deal on an apartment in a building at the address of 360 East 88th Street. And we shared the apartment, keeping costs down at the very, very beginning of time. And kind of the funny story is, many, many years later, my daughter, my youngest daughter, was in the building with the nanny on a way to a play date. And she said she was here to see. It was Elwes Ackman here to see some other child in the building. And the doorman said, or the concierge or whatever they called it, said, Oh, Ackman. There used to be someone named Ackman who lived in this building, you know, like, you know, maybe eight or nine years ago. And is it, would it be [target]? And she said, yeah, [target]. And the guy laughed and laughed and laughed. Is he married? And she said, yes. He said, to a woman? She said, yes. So the two of us living together, we were a couple because the building didn't allow singles to share apartments. But because I had worked for the landlord, they made the exception. Anyway, I don't know if it's relevant for your particular podcast, but I thought it was kind of a funny story."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think it's hilarious that the doorman for probably a year thought that you were and David were romantically involved."
+      }
+    ],
+    "speakername": "Bill Ackman",
+    "ground_truth": "My point is, we spent a lot of time together. We originally officed out of that little apartment while we were raising money, and then we eventually got a real office. And the key thing is picking someone that you totally trust. And David is one of the trustees or executors of trust, et cetera, and I do the same for his kids. So if you can work together, succeed together, go through some challenging times together, and still rely on the other for the most trusted things, that's a pretty good sign. So choose your partners carefully, but choose someone you totally trust.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So David was a great partner, and we remain really great friends. We don't see each other as much as I would like. Actually, at the very, very beginning, we lived together. Kind of a funny story. I had worked for a company called General Atlantic Real Estate, which was the real estate private equity subsidiary of the well-known kind of venture firm. It's something they disbanded over time. I worked there for the summer, and I got an apartment. They gave me a good deal on an apartment in a building at a residential complex. And we shared the apartment, keeping costs down at the very, very beginning of time. And kind of the funny story is, many, many years later, my daughter, my youngest daughter, was in the building with the nanny on a way to a play date. And she said she was here to see. It was Elwes [target] here to see some other child in the building. And the doorman said, or the concierge or whatever they called it, said, Oh, [target]. There used to be someone named [target] who lived in this building, you know, like, maybe eight or nine years ago. And is it, would it be [target]? And she said, yeah, [target]. And the guy laughed and laughed and laughed. Is he married? And she said, yes. He said, to a woman? She said, yes. So the two of us living together, we were a couple because the building didn't allow singles to share apartments. But because I had worked for the landlord, they made the exception. Anyway, I don't know if it's relevant for your particular podcast, but I thought it was kind of a funny story."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think it's hilarious that the doorman for probably a year thought that you were and David were romantically involved."
+      },
+      {
+        "speaker": "[target]",
+        "text": "My point is, we spent a lot of time together. We originally officed out of that little apartment while we were raising money, and then we eventually got a real office. And the key thing is picking someone that you totally trust. And David is one of the trustees or executors of trust, et cetera, and I do the same for his kids. So if you can work together, succeed together, go through some challenging times together, and still rely on the other for the most trusted things, that's a pretty good sign. So choose your partners carefully, but choose someone you totally trust."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I've had my trust broken before and it's very damaging and hurtful. Can I ask you, do you start from full trust and it's there to be lost or do you start from none and it's there to be gained?"
+      }
+    ],
+    "speakername": "Bill Ackman",
+    "ground_truth": "Uh, probably, probably neither. Um, but I would say I form a view of a person's, um, character pretty quickly. And the vast majority of the time I've been right, uh, with only a few disappointments, I would say. And the disappointments have been cases in most cases, and there haven't been many where my spidey sense had a little bit of concern, but I chose to ignore the, the, the gut instinct, right? The gut is actually part of your brain, uh, as we've come to learn, I think over time. And I think it's important to, to listen to it. And I've learned to listen to it a little more carefully, but by the way, it depends on what you're trusting someone with, right? Degree of trust required for someone to take care of a child or a parent versus someone to invest with a small sum, a large sum.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

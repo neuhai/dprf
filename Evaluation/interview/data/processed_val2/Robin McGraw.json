@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Because you know too much."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "on me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, I don't know. I don't know."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "the edit button, I could cut you right out."
+      }
+    ],
+    "speakername": "Robin McGraw",
+    "ground_truth": "Well, honestly, I say, oh, no, they only have brilliant people who have something to offer. And really, I've said that. But I don't know. I just thought, oh, not me. And who knows what we're going to say when we're together with the equipment. But I'm so thrilled. No one else could do this right here today to celebrate something like this with you. So I am thrilled to be here and very excited. I'm a little nervous, though. You have three different tablets and computers with their backs to me.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Oh, I don't know. I don't know."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "the edit button, I could cut you right out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, honestly, I say, oh, no, he only has brilliant people who have something to offer. And really, I've said that. But I don't know. I just thought, oh, not me. And who knows what we're going to say when we're together with Mike's. But I'm so thrilled. No one else could do this right here today to celebrate something like this with you. So I am thrilled to be here and very excited. I'm a little nervous, though. You have three different tablets and computers with their backs to me."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Yeah, you don't know anything that's on them."
+      }
+    ],
+    "speakername": "Robin McGraw",
+    "ground_truth": "And I have no idea about anything that's going to happen today. This is a surprise for me. He only asked me two days ago to do this.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Yes, yes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "plan."
+      },
+      {
+        "speaker": "[target]",
+        "text": "at the time, and that's what you wanted to do. Yes."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Do you remember how it came about that you started coming to the shows?"
+      }
+    ],
+    "speakername": "Robin McGraw",
+    "ground_truth": "Yes, I do. And we had moved out here. [Name1] was the only one at home still. [Name2] was off at law school. Well, I have to think about that. Maybe he was still in college. But [Name1] was here, summertime, and you started taping the shows. And so, of course, we all wanted to come, but I thought, I've got to come and support you. So I came to that very first taping.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Actually, yes."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "show on television? What did you think was going to happen? I didn't think that."
+      },
+      {
+        "speaker": "[target]",
+        "text": "but I'm not surprised at it I didn't think that but"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "you think we'd do this for a while or forever or what'd you think"
+      }
+    ],
+    "speakername": "Robin McGraw",
+    "ground_truth": "really thought we'd be here forever. I thought this was a positive change in our life. I've always trusted you. I've always known that whatever you set out to do, it would be a success. And listen, we started out with nothing. So I've always known that whatever we did together, whatever you started, whatever path we took, we would feel like successes. I knew we would be happy and we would stick with it. So I never thought that we would not be here for the rest of our lives.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "up"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "So this is home."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "By 50%, we've lived here longer even than [location]."
+      }
+    ],
+    "speakername": "Robin McGraw",
+    "ground_truth": "Yes. And you know, I've always told you that growing up, one goal in my life was to never have regret, to do everything with the purpose of not having regret. So I don't know if maybe that helped that. We're going to do this and we're going to be successful. And I've never doubted you that you're going to make it successful. And I guess that is because I've always felt safe. And I've always known that you would take care of me and our children.",
+    "bio": "The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

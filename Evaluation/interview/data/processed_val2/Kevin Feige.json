@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "This is a panel called The Celebration of Life. Why is it called The Celebration of Life, you ask? Because Ryan thought it'd be weird. It'd be funny. It is the opening day. We think people have their tickets to go see the movie, and we wanted to acknowledge that fact and bring the, and the character was not gonna be a part of our Saturday panel, so we wanted to have this extra panel so people could see the cast before they go see the movie."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Every movie obviously has spoilers in it, and some are larger than others. How would you rank this movie in terms of the level of stuff that's going to happen that might affect the franchise, spoilers versus some of the other movies?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know, Steve, I don't know what the criteria is or what the levels are that you're talking about. I will say there's lots of stuff that happens in it. The most important things that happen in it happen between the characters. And that's what the whole movie is about, is that emotional journey between the two of them and some friends they meet along the way."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Cassandra is a character that many people have been waiting to see, and I'm curious, because Cassandra could be a major antagonist-level character in terms of power. What is that character's power level, if you will, compared to some of the other characters?"
+      }
+    ],
+    "speakername": "Kevin Feige",
+    "ground_truth": "She is extremely powerful, and when we meet her in this movie, I'm not sure she's ever encountered anybody that she couldn't swat away. She, as you say, is very, very powerful.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't know, Steve, I don't know what the criteria is or what the levels are that you're talking about. I will say there's lots of stuff that happens in it. The most important things that happen in it happen between the characters. And that's what the whole movie is about, is that emotional journey between the two of them and some friends they meet along the way."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Cassandra is a character that many people have been waiting to see, and I'm curious, because Cassandra could be a significant antagonist-level character in terms of power. What is that character's power level, if you will, compared to some of the other characters?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "She is extremely powerful, and when we meet her in this movie, I'm not sure she's ever encountered anybody that she couldn't swat away. She, as you say, is very, very powerful."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The future of Ryan and Hugh in the franchise, is there any sort of talk about, like, do you even know what might happen with them in the future? Or is it sort of like, let's get through this and then?"
+      }
+    ],
+    "speakername": "Kevin Feige",
+    "ground_truth": "It's definitely, let's get through this, but as we sit here talking, and the movie comes out in a week, and the movie's been finished for a couple of weeks, there's certainly been a lot of discussions of, that was fun, what should we do next?",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is it next year?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, so it's something in the future. Yes. Okay something I'd heard a rumor about for a long time And I've been waiting to ask you I had heard a lot of the contracts on characters with the production company like expired in 2025 And that was one of the reasons why we were waiting a little while to get certain characters and other characters Is there any truth to that or has it just been the actor contracts? What do you know like producer contracts? I'd heard a lot of people were like sort of attached to things in 2025 is when contracts sort of expire"
+      }
+    ],
+    "speakername": "Kevin Feige",
+    "ground_truth": "No, I don't even know all the contracts. I mean, there are people who do have—who are attached for much longer than 2025 and will be a part of them, but I don't think that was any magic year.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, so it's something in the future. Yes. Okay something I'd heard a rumor about for a long time And I've been waiting to ask you I had heard a lot of the contracts on certain characters with the company like expired in 2025 And that was one of the reasons why we were waiting a little while to get certain characters and others Is there any truth to that or has it just been the actor contracts? What do you know like producer contracts? I'd heard a lot of people were like sort of attached to things in 2025 is when contracts sort of expire"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I don't even know all the contracts. I mean, there are people who do have—who are attached for much longer than 2025 and will be a part of them, but I don't think that was any magic year."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One of the things the last few years has seen, what have the last few years done to impact the company's future in terms of how have plans changed as a result of the last few years? Or have they not changed and everything is still status the way it was?"
+      }
+    ],
+    "speakername": "Kevin Feige",
+    "ground_truth": "I think they've changed. The release cadence has changed because of the pandemic and because of the strike. The upcoming film being our only movie this year was never initially the plan. I think that ended up working out pretty well, and I think I like the notion of all of this attention on one movie and a movie that's going to be able to carry that attention, because it's quite, quite good. And it's always been—I've said that building a fictional narrative, whether it's been in the comics over 85 years or in the entertainment franchise over the last 16, 17 years, is a living, breathing, evolving thing. And I love the idea that people think we have a plan that is set in granite, and then we just follow it. We have a plan that's set in sand, and then we modify it.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I don't even know all the contracts. I mean, there are people who do have—who are attached for much longer than 2025 and will be a part of them, but I don't think that was any magic year."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "One of the things the last few years has seen, what have the last few years done to impact the studio's future in terms of how have plans changed as a result of the last few years? Or have they not changed and everything is still status the way it was?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think they've changed. The release cadence has changed because of the pandemic and because of the strike. The upcoming superhero film being our only movie this year was never initially the plan. I think that ended up working out pretty well, and I think I like the notion of all of this attention on one movie and a movie that's going to be able to carry that attention, because it's quite, quite good. And it's always been—I've said that building a fictional narrative, whether it's been in the comics over 85 years or in the studio over the last 16, 17 years, is a living, breathing, evolving thing. And I love the idea that people think we have a plan that is set in granite, and then we just follow it. We have a plan that's set in sand, and then we modify it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, at this point right now, how far in the future, like, do you have the next four years figured out or is it still very much we're figuring it out?"
+      }
+    ],
+    "speakername": "Kevin Feige",
+    "ground_truth": "We have our hopes and dreams for the next five years figured out, you know, and we will adapt as reality adapts us. But with the superhero teams and with all those thousands of characters we got from the previous studio, that really did help us chart out with excitement and enthusiasm, you know, decades of potential blue sky ideas, what we could do. And the response to the animated series, which the animation team did such a great job on, only reinvigorated us to say the superhero drama has been done very well in certain movies in the past, but we really think is an untapped reservoir of amazing emotional story.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

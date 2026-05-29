@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_05",
+        "text": "That's tough. But you got great kids. I'm friends with your son, Pat. I know, I know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm friends."
+      },
+      {
+        "speaker": "[target]",
+        "text": "with your son, Pat. I know, I know."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "And even you got that brand new son-in-law, [public figure]."
+      }
+    ],
+    "speakername": "Arnold Schwarzenegger",
+    "ground_truth": "Yeah, he's fantastic. I mean, we're very lucky to have such a great, great man coming into our family. And [family member] is very happy about this. She's really in love with him and they're now expecting a second baby. I don't know exactly what it's going to be a boy or girl, but eventually they will tell me all they don't know and they will just find out when the baby arrives, you know. So.",
+    "bio": "[target] (born 1947) is a European-American actor, filmmaker, businessman, author, activist, politician, and former professional bodybuilder and powerlifter. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_07",
+        "text": "at balancing bodybuilding and emotional stuff and all that entire range of versatility? Or do you have to work to get to a point where you can get emotional and paint hearts?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It is not so much emotional, it's just that when you have children,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "Arnold Schwarzenegger",
+    "ground_truth": "All of a sudden you say to yourself, do I want to buy Christmas cards? Do I want to go out and buy birthday cards? Or can I go and paint the Santa Claus? I remember from my days when I was in elementary school and in middle school in [country], we painted. So I said, maybe I should just get some colors and start painting my Christmas cards and my Valentine's cards and my Easter cards and birthdays and all of those things and make an effort. And so I started getting into painting only because of my kids, not because of emotions or anything like this. It was just the kids. And so one thing inspires the other thing. And so then you discover that there's a feminine side in you, there's a masculine side in you, there's an artistic side in you, there's a giving side, there's a selfish side, there's a powerful side, there's a weak side, there's a vulnerable side, there's a leadership side. You discover all those different things.",
+    "bio": "[target] (born 1947) is a [country]-American actor, filmmaker, businessman, author, activist, politician, and former professional bodybuilder and powerlifter. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It's not, it's not the whole movie of Junior. So what happened was, as I was saying and [TV Show Host] the other day, I was like explaining that [Co-star] pulled a trick on me. You know, we were smoked, we both smoked cigars. And then after lunch, he gave me a stogie, a long, beautiful [Cigar Brand]. And after I smoked it, we went back to the set and we continued our scene. And all of a sudden I forgot all my lines and I forgot that I even did the scene in the morning. When they said to me, he says, [target], it's a continuation of the scene we did in the morning. I said, I cannot remember what they did in the morning either. I said, I don't remember anything. And so I realized after an hour and a half later, I finally got got my memory back and I started remembering now the lines. And I said, OK, I'm ready now to do my close up. I said, let's switch the camera around and all this. And I saw [Director]."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "I said I don't remember."
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh who sadly passed away last night i have to say they're really really depressed about that yeah terrible he was 75 years old i don't know what happened there but i mean in any case um"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "press the"
+      }
+    ],
+    "speakername": "Arnold Schwarzenegger",
+    "ground_truth": "He and [Co-star] were always kind of smirking and going like, and I said, what's going on between those two? Well, obviously, [Director] was in on the whole thing and I felt kind of like terrible that I didn't remember my lines, that I'm wasting everyone's time. And but, you know, they were perfectly fine. And we just switched around and [Co-star] did his close up first and all this. And then I realized that [Co-star] put some marijuana in front of the cigar, stuffed it in there. I had some visual effects guys or some of the people, the prop guys on the set do it for him. And so I got loaded and I was just forgot everything. So it was one of those things. So it was not the whole movie was this one moment is one afternoon for an hour and a half that I had absolutely no memory.",
+    "bio": "[target] (born 1947) is an [European]-American actor, filmmaker, businessman, author, activist, politician, and former professional bodybuilder and powerlifter. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, I think that overall, I don't want to pick a movie because to me, the action movies were as important as the comedies were. And I was very fortunate that I could show that I am really good in the action genre and that I also could cross over and do comedy. That's very hard to do because, as you know, it's very it's but I mean, to cross over no matter what is, you know, the second I always said seeing [actor] playing [movie character] won't happen. Right. Because it's not believable. So the trick of it is how do you make it believable that you as this action guy can actually be funny or the circumstances can be funny? And so that to me, I think I was the proudest that I was able to do that. And that's why I'm so upset about [director], the director of the movie [movie] and [movie] and all this movie, [movie] and [movie] and [movie]. And. All this stuff that he passed away because it was [director] that was in [location] with me when we was up just skiing. And one night we sat together with [actor] and [actor] and him said to me."
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "All right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Uh, you're really funny, [target]. I didn't know that side of you. And then I said, well, I said, you know, because in the movies you just see the serious [target] that says, I'll be back. And I was, you know, putting the knife through the heart and saying, stick around."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "than saying"
+      }
+    ],
+    "speakername": "Arnold Schwarzenegger",
+    "ground_truth": "uh and all those things you know or kill someone and just just say he says please don't disturb him he's dead tired you know and uh all this kind of blind says i mean this is so i said myself this is what [director] knew this is what [actor] knew of me",
+    "bio": "[target] (born 1947) is an Austrian-American actor, filmmaker, businessman, author, activist, politician, and former professional bodybuilder and powerlifter. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh and all those things you know or kill someone and just just say he says please don't disturb him he's dead tired you know and uh all this kind of blind says i mean this is so i said myself this is what [generic director] knew this is what [generic actor] knew of me"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I think, you know, or kill someone and just just say, please don't disturb him. He's dead tired, you know?"
+      },
+      {
+        "speaker": "SPEAKER_08",
+        "text": "And, uh,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "but they didn't know the other [target]. And so he then suggests, he says, you should do comedy. And I said, if you write one for me and if you direct it, I could go and do this. I said, but I need the help and I need the push. And I need someone that pushes me along with this and convinces the studios that that's what we should do. Because the studios kept saying to me, says, I'm not going to give you a comedy because we make so much money on action movies. Why would we always set and change? Don't fix what isn't broken. Right, right. So [generic director] then helped me. And that's how we did then the first project, which was [generic movie]. And that's when I broke into the comedies. And [generic actor] was extremely helpful also. And we had a good time. So I'm proud of that. But I think that the key thing is, is I think that"
+      }
+    ],
+    "speakername": "Arnold Schwarzenegger",
+    "ground_truth": "you have this in you that desire to grow or you don't because that's where it all begins. You know, we can talk about the details from here to eternity. And I think that's why I'm also sitting here today and doing this podcast because I admire you guys. Thank you. No, I really do. Because I always say to the guys, everyone is it. This is so great. These are ordinary guys from [generic state] that go and says, we want to be special. We don't want to just be ordinary guys. And we are willing to put the effort into it. We are willing to make the sacrifices. We're willing to fight for it and to go and work for it and train for it and do all of this kind of stuff. And which takes hours and hours and hours every day and discipline. And you guys don't just talk about it, you do it. And so I was it's so refreshing to have guys like this come on the scene, especially the day with the social media and with the way things work to kind of to do things in a different way than everyone else. And that's what I did. I did my my my whole way and road in my life was always different than everyone else's. And that's why I could relate to you and your brother so well that you do things differently than everyone else does. You know, I love that. It's really refreshing. So here we are sitting here, you know, I admire you guys. And you guys are really fantastic, dude. Yeah.",
+    "bio": "[target] (born 1947) is a European-American actor, filmmaker, businessman, author, activist, politician, and former professional bodybuilder and powerlifter. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I'll stay quiet for the very beginning, and then I'll start talking. Five, four, three, two, one. Liftoff to the rocket. So this was such an important moment for the company. With our first rocket and now the larger one, we can launch into orbit any payload that has previously been conceived or is conceived right now. We've got a couple of launches of our larger rocket later this year, so this had to go right. It was the first time we flew it. And the star of the show, of course, brother and sister side boosters landing. I was excited. Thank you, my team. By the way, there's maybe 1,000 people standing around me right there. And our test payload. The test payload did not steal the show, though. The boosters did."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "there had to be some payload, why not put an electric car into space?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Exactly. It's perfect."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], let's wind the clock back. I mean, how did you end up an engineer and president of the company? Were you super nerdy as a girl?"
+      }
+    ],
+    "speakername": "Gwynne Shotwell",
+    "ground_truth": "I don't think I was nerdy, but I was definitely doing the things that the girls weren't doing. I asked my mom, who was an artist, when I was in third grade, how a car worked. So she had no idea, so she gave me a book, and I read it. And sure enough, my first job out of my mechanical engineering degree was with an automotive company in the automotive industry. But I actually got into engineering not because of that book, but because my mom took me to a Society of Women Engineers event, and I fell in love with the mechanical engineer that spoke. She was doing really critical work, and I loved her suit. And that's what a 15-year-old girl connects with. And I used to shy away from telling that story, but if that's what caused me to be an engineer, hey, I think we should talk about that.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Exactly. It's perfect."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "[target], let's wind the clock back. I mean, how did you end up an engineer and president of a space company? Were you super nerdy as a girl?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't think I was nerdy, but I was definitely doing the things that the girls weren't doing. I asked my mom, who was an artist, when I was in third grade, how a car worked. So she had no idea, so she gave me a book, and I read it. And sure enough, my first job out of my mechanical engineering degree was with a major automotive company in the automotive industry. But I actually got into engineering not because of that book, but because my mom took me to a Society of Women Engineers event, and I fell in love with the mechanical engineer that spoke. She was doing really critical work, and I loved her suit. And that's what a 15-year-old girl connects with. And I used to shy away from telling that story, but if that's what caused me to be an engineer, hey, I think we should talk about that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Sixteen years ago, you became employee number seven at the company. And then over the next years, you somehow built a multibillion-dollar relationship with a government space agency, despite the fact that the company's first three launches blew up. I mean, how on earth did you do that?"
+      }
+    ],
+    "speakername": "Gwynne Shotwell",
+    "ground_truth": "So actually, selling rockets is all about relationships and making a connection with these customers. When you don't have a rocket to sell, what's really important is selling your team, selling the business savvy of your CEO. That's not really hard to sell these days. And basically making sure that any technical issue that they have or any concern you can address right away. So I think it was helpful for me to be an engineer. I think it was helpful to my role as running sales for the CEO.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't think I was nerdy, but I was definitely doing the things that the girls weren't doing. I asked my mom, who was an artist, when I was in third grade, how a car worked. So she had no idea, so she gave me a book, and I read it. And sure enough, my first job out of my mechanical engineering degree was with a major automotive company in the automotive industry. But I actually got into engineering not because of that book, but because my mom took me to a Society of Women Engineers event, and I fell in love with the mechanical engineer that spoke. She was doing really critical work, and I loved her suit. And that's what a 15-year-old girl connects with. And I used to shy away from telling that story, but if that's what caused me to be an engineer, hey, I think we should talk about that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Sixteen years ago, you became employee number seven at a private space company. And then over the next years, you somehow built a multibillion-dollar relationship with a government space agency, despite the fact that the company's first three launches blew up. I mean, how on earth did you do that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So actually, selling rockets is all about relationships and making a connection with these customers. When you don't have a rocket to sell, what's really important is selling your team, selling the business savvy of your CEO. That's not really hard to sell these days. And basically making sure that any technical issue that they have or any concern you can address right away. So I think it was helpful for me to be an engineer. I think it was helpful to my role as running sales for our CEO."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Currently, a big focus of the company is, I guess, kind of a race with another aerospace company to be the first to provide the service to the government space agency of actually putting humans into orbit. Safety considerations obviously come to the fore here. How are you sleeping?"
+      }
+    ],
+    "speakername": "Gwynne Shotwell",
+    "ground_truth": "I actually sleep really well, I'm a good sleeper, that's my best thing. But I think the days leading up to our flying crew will probably be a little sleepless. But really, fundamentally, safety comes in the design of the system that you're going to fly people on. And so we've been working for years, actually almost a decade, on this technology. We're taking the cargo spaceship and we're upgrading it to be able to carry crew. And as I said, we've been engineering in these safety systems for quite some time.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I actually sleep really well, I'm a good sleeper, that's my best thing. But I think the days leading up to our flying crew will probably be a little sleepless. But really, fundamentally, safety comes in the design of the system that you're going to fly people on. And so we've been working for years, actually almost a decade, on this technology. We're taking the Dragon cargo spaceship and we're upgrading it to be able to carry crew. And as I said, we've been engineering in these safety systems for quite some time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "So there's one system that actually allows instant escape if there's a problem."
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's right, it's called the Launch Escape System."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think we have that. Let's show that. We've got a video of us."
+      }
+    ],
+    "speakername": "Gwynne Shotwell",
+    "ground_truth": "of a test that we ran in 2015. So this simulated having a really bad day on the pad. Basically, you want the capsule to get out of dodge. You want it to get away from the rocket that had a bad day right below it. This is if there was an issue on the pad. We also will be doing another demonstration later this year on if we have an issue with a rocket during flight.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's right, it's called the Launch Escape System."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think we have that. Let's show that. We've got a video of us."
+      },
+      {
+        "speaker": "[target]",
+        "text": "of a test that we ran in 2015. So this simulated having a really bad day on the pad. Basically, you want the capsule to get out of dodge. You want it to get away from the rocket that had a bad day right below it. This is if there was an issue on the pad. We also will be doing another demonstration later this year on if we have an issue with a rocket during flight."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And those rockets have another potential function as well, eventually."
+      }
+    ],
+    "speakername": "Gwynne Shotwell",
+    "ground_truth": "Yeah, so the launch escape system for Dragon is pretty unique. It's an integrated launch escape system. It's basically a pusher, so the propellant system and the thrusters are integrated into the capsule, and so if it detects a rocket problem, it pushes the capsule away. Capsule safety systems in the past have been like tractor pullers, and the reason we didn't want to do that is that puller needs to come off before you can safely reenter that capsule. So we wanted to eliminate, in design, that possibility of failure.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

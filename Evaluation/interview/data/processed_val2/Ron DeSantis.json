@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, one of the things I've done as governor of [state] was respond to the [school] shooting that happened before I was governor, and so we got recommendations, report, and we've done over a billion dollars for school security, and it involves a lot of different things. But as the father of three young kids who are in school, first grade, kindergarten, and pre-K, we want as parents to have safety in the school, so we've put a lot of emphasis on this. We're still getting the details about what happened here in [county], but my sense was that there was a pretty robust response, and if that's the case, hats off to law enforcement for doing that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you, as you mentioned, are a parent. What can you say to [state] parents right now who are afraid, who are watching this news? You know, these school shootings keep happening, who are worried about sending their kids to public schools."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, look, I mean, you know, we obviously, you know, have a responsibility to create safe environments. Federal government's probably not going to be leading that effort. I think it is more of a local and state issue. But we've shown how it's done in [state]. The things that we've done have been very, very effective. But we also just have to look at, for whatever reason, there are people in our society that really get a kick out of doing this. And you have people that put it online and do all that. And that's an underlying sickness in society. And I think that involves things like mental health. [state], we've worked hard to identify some of these folks because the shooter at [school], everyone knew he was the one who did it before that had even been reported because there were so many warning signs. We'll see what happens in this [county]. That may not be the case here, but in a lot of it, it is the case."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you're right, you have been through these situations before. Have you had a chance to reach out to Governor [name] and offer any advice about how to move forward with this?"
+      }
+    ],
+    "speakername": "Ron DeSantis",
+    "ground_truth": "I actually did speak with her earlier this morning. She's all over it, got a great handle on it. I know she's going to be doing, she told me she'd do a press conference in the afternoon. And so I think that the folks have responded very well.",
+    "bio": "The subject (born September 14, 1978) is an American attorney, naval officer and politician serving as the 46th and current governor of [state] since 2019. A member of the Republican Party, they previously represented [state]'s 6th congressional district in the legislative body from 2013 to 2018. After graduating from [university1] and [university2], the subject served as an officer and attorney in the Judge Advocate General's Corps (JAG). The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, look, I mean, you know, we obviously, you know, have a responsibility to create safe environments. Federal government's probably not going to be leading that effort. I think it is more of a local and state issue. But we've shown how it's done in [state]. The things that we've done have been very, very effective. But we also just have to look at, for whatever reason, there are people in our society that really get a kick out of doing this. And you have people that put it online and do all that. And that's an underlying sickness in society. And I think that involves things like mental health. [state], we've worked hard to identify some of these folks because the shooter at [school], everyone knew he was the one who did it before that had even been reported because there were so many warning signs. We'll see what happens in this [location]. That may not be the case here, but in a lot of it, it is the case."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And you're right, you have been through these situations before. Have you had a chance to reach out to Governor [name] and offer any advice about how to move forward with this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I actually did speak with her earlier this morning. She's all over it, got a great handle on it. I know she's going to be doing, she told me she'd do a press conference in the afternoon. And so I think that the folks have responded very well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "After the shooting in [state] last year, you told my colleague [name] on Meet the Press that you do not advocate for stronger background checks. You also pointed to liberal soft-on-crime policies as part of the problem. And yet this can also happen in conservative [state], clearly. Is there any change from the current federal policy that you would support to make mass shootings like this less common?"
+      }
+    ],
+    "speakername": "Ron DeSantis",
+    "ground_truth": "What I said about the soft on crime, though, was I said I didn't address it in terms of the [state] shooting. What I said was there are shootings that happen in places like [city] routinely that the media doesn't cover the way they cover some of those other ones. The reason why you have those in a lot of the inner cities is because these are repeat offenders who are not held accountable when they could have when they're committing crimes that are of less gravity. We know what works and we know what doesn't work. And the policies that have been placed in those cities, they have universally failed when they've been tried. So that's on that.",
+    "bio": "The target (born September 14, 1978) is an American attorney, naval officer and politician serving as the current governor of [state] since 2019. A member of the Republican Party, they previously represented [state]'s 6th congressional district in the United States House of Representatives from 2013 to 2018. After graduating from [university] and [university], the target served as an officer and attorney in the Judge Advocate General's Corps, U.S. Navy (JAG). The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I actually did speak with her earlier this morning. She's all over it, got a great handle on it. I know she's going to be doing, she told me she'd do a press conference in the afternoon. And so I think that the folks have responded very well."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "After the shooting in [state] last year, you told my colleague Kristen Welker on a national news program that you do not advocate for stronger background checks. You also pointed to liberal soft-on-crime policies as part of the problem. And yet this can also happen in conservative [state], clearly. Is there any change from the current federal policy that you would support to make mass shootings like this less common?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "What I said about the soft on crime, though, was I said I didn't address it in terms of the [state] shooting. What I said was there are shootings that happen in places like [city] routinely that the media doesn't cover the way they cover some of those other ones. The reason why you have those in a lot of the inner cities is because these are repeat offenders who are not held accountable when they could have when they're committing crimes that are of less gravity. We know what works and we know what doesn't work. And the policies that have been placed in those cities, they have universally failed when they've been tried. So that's on that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "at the federal level to make something like this less frequent."
+      }
+    ],
+    "speakername": "Ron DeSantis",
+    "ground_truth": "But here's the thing. This person was already a prohibited possessor of firearms in [state]. And that's the point I made, that that was already against the law for whatever reason. You know, that wasn't something that was activated. Clearly, people that are convicted felons under current law and people that have mental adjudications, that's the law and that should be enforced.",
+    "bio": "The individual (born September 14, 1978) is an American attorney, naval officer and politician serving as the 46th and current governor of [state] since 2019. A member of the Republican Party, they previously represented [state]'s 6th congressional district in the United States House of Representatives from 2013 to 2018. After graduating from [university] and [university], they served as an officer and attorney in the Judge Advocate General's Corps, U.S. Navy (JAG). The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What I said about the soft on crime, though, was I said I didn't address it in terms of the main shooting. What I said was there are shootings that happen in places like [city] routinely that the media doesn't cover the way they cover some of those other ones. The reason why you have those in a lot of the inner cities is because these are repeat offenders who are not held accountable when they could have when they're committing crimes that are of less gravity. We know what works and we know what doesn't work. And the policies that have been placed in those cities, they have universally failed when they've been tried. So that's on that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "at the federal level to make something like this less frequent."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But here's the thing. This person was already a prohibited possessor of firearms in [state]. And that's the point I made, that that was already against the law for whatever reason. You know, that wasn't something that was activated. Clearly, people that are convicted felons under current law and people that have mental adjudications, that's the law and that should be enforced."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So there's no change that you would advocate for at the federal level?"
+      }
+    ],
+    "speakername": "Ron DeSantis",
+    "ground_truth": "support infringing the rights of law-abiding citizens with respect to the ability to exercise their constitutional rights. I know these things can be used to try to target things and a lot of the things that are proposed would not have even prevented any of these things and that's typically I think what we've seen in these cycles but people can count on me to hold criminals accountable, be very serious about holding accountable people that represent a danger to society but at the same time protecting their constitutional rights. For example like I don't support what [other politician] has advocated taking people's guns and then going through due process. That turns due process on its head. I mean the whole purpose of due process is you have the right to property not just firearms any property they have to go the government has to go through due process before they can deprive you. So there's a difference I think between the two of us on that.",
+    "bio": "The speaker (born September 14, 1978) is an American attorney, naval officer and politician serving as the 46th and current governor of [state] since 2019. A member of the Republican Party, they previously represented [state]'s 6th congressional district in the United States House of Representatives from 2013 to 2018. After graduating from [university 1] and [university 2], they served as an officer and attorney in the Judge Advocate General's Corps, U.S. Navy (JAG). The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But here's the thing. This person was already a prohibited possessor of firearms in [state]. And that's the point I made, that that was already against the law for whatever reason. You know, that wasn't something that was activated. Clearly, people that are convicted felons under current law and people that have mental adjudications, that's the law and that should be enforced."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So there's no change that you would advocate for at the federal level?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "support infringing the rights of law-abiding citizens with respect to the ability to exercise their constitutional rights. I know these things can be used to try to target things and a lot of the things that are proposed would not have even prevented any of these things and that's typically I think what we've seen in these cycles but people can count on me to hold criminals accountable, be very serious about holding accountable people that represent a danger to society but at the same time protecting their constitutional rights. For example like I don't support what [other politician] has advocated taking people's guns and then going through due process. That turns due process on its head. I mean the whole purpose of due process is you have the right to property not just firearms any property they have to go the government has to go through due process before they can deprive you. So there's a difference I think between the two of us on that."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "For example, I don't support what [other politician] has advocated, taking people's guns and then going through due process. That turns due process on its head. I mean, the whole purpose of due process is you have the right to property, not just firearms, any property. The government has to go through due process before they can deprive you. So there's a difference, I think, between the two of us on that. Well, to that point, how do you square that position with your call for more institutionalization for people with mental illness? What about their right to due process? You do have due process. Oh, yeah."
+      }
+    ],
+    "speakername": "Ron DeSantis",
+    "ground_truth": "Absolutely. Like in [state], we have something called the [Act]. It's not just willy-nilly picking people up and putting them in an institution. Of course there's due process. But what you find in some of these people is clearly they have trouble functioning in society. There's massive warning signs. Of course there needs to be due process before you would do that. But that used to be done in this country with much higher frequency. And I'm not saying you go back to where we were in like the 50s, but I think that we've gone so far in a direction. You see some of the homeless that are on the street in some of these cities. That's a mental health problem. It's not a lack of housing. It's a mental health problem, and that hasn't been addressed for both. Some people are going to do better in an institutional setting, but you would never give government the authority to do that without adequate due process.",
+    "bio": "[target] (born September 14, 1978) is an American attorney, naval officer and politician serving as the 46th and current governor of [state] since 2019. A member of the Republican Party, he previously represented [state]'s 6th congressional district in the [legislative body] from 2013 to 2018. After graduating from [university1] and [university2], [target] served as an officer and attorney in the Judge Advocate General's Corps (JAG). The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

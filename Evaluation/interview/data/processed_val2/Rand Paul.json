@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Up next, [Speaker_02] has a stunning prediction for the Democratic Party. Stay tuned."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We have to do something about the debt. I think we've been fiscally irresponsible for a generation or more here. And the one thing about the political movement that's interesting is it really is equal parts chastisement to both parties. You know, Republicans doubled the debt when we were in charge and then Democrats are tripling the debt. And I've said this over and over again. It's not about political party, but it is about fiscally trying to do something to balance our budget."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, we've all seen and we've followed the campaign and there was a lot of talk, a lot of slogans and platitudes about cutting the debt, balancing the budget, cutting the deficit. But there has not been any."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Direct information on how you're going to do that. No specifics. It was fairly content free the platform So where are you going to cut in order to make a meaningful change?"
+      }
+    ],
+    "speakername": "Rand Paul",
+    "ground_truth": "Well, some of it has to be procedural in the sense that we need to balance our budget by law. If you force legislators to balance it at the end of the day, if it has to be balanced, then they step up and they become legislators and can find out where to cut.",
+    "bio": "Born January 7, 1963, is an American politician and physician serving as a junior United States Senator from a southern state since 2011. The speaker is the son of a former U.S. Representative. Born in a major northeastern city, the speaker attended a private university and is a graduate of a prestigious medical school. The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, some of it has to be procedural in the sense that we need to balance our budget by law. If you force legislators to balance it at the end of the day, if it has to be balanced, then they step up and they become legislators and can find out where to cut."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "for a balanced budget amendment."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. And short of that, we need a rule. It takes a while to get an amendment to the Constitution. Let's have a rule, but let's obey our rule. They pass pay as you go and they break it in the first three weeks they have it. So we need rules."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay."
+      }
+    ],
+    "speakername": "Rand Paul",
+    "ground_truth": "and we need to obey the rules. The second thing you need is, and I don't see things in terms of political parties, so I think this can be something where I can work across the aisle, but the second thing you need is a compromise on where the spending cuts come from. Republicans traditionally say, oh, we'll cut domestic spending, but we won't touch the military. The liberals, the ones who are good, will say, oh, we'll cut the military, but we won't cut domestic spending. All right. Well, let's ask you. Bottom line is, you have to look at everything across the board. All right. Where?",
+    "bio": "Born January 7, 1963, the speaker is an American politician and physician serving as a junior United States Senator from a southern state since 2011. The speaker is a graduate of a prominent southern university's School of Medicine. The speaker's MBTI type is ISTP.",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. And short of that, we need a rule. It takes a while to get an amendment to the Constitution. Let's have a rule, but let's obey our rule. They pass pay as you go and they break it in the first three weeks they have it. So we need rules."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and we need to obey the rules. The second thing you need is, and I don't see things in terms of political parties, so I think this can be something where I can work across the aisle, but the second thing you need is a compromise on where the spending cuts come from. Republicans traditionally say, oh, we'll cut domestic spending, but we won't touch the military. The liberals, the ones who are good, will say, oh, we'll cut the military, but we won't cut domestic spending. All right. Well, let's ask you. Bottom line is, you have to look at everything across the board. All right. Where?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "then? Military? Would you cut the military? Yes. By how much? Obviously Admiral [redacted] has made some suggestions."
+      }
+    ],
+    "speakername": "Rand Paul",
+    "ground_truth": "numbers. But I think one thing that's concerning, you know, recently Admiral [redacted] said that the interest on the debt now is going to approach in the next couple of years. Just the interest on the debt will approach what we spend in the national defense budget. So, I mean, that should alarm us all. [redacted] says the debt is unsustainable. We need to do something about it.",
+    "bio": "Born January 7, 1963, [target] is an American politician and physician serving as the junior United States Senator from [state] since 2011. Born in [city], [state], they attended [university] and graduated from [university] School of Medicine. The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "numbers. But I think one thing that's concerning, you know, recently Admiral [name] said that the interest on the debt now is going to approach in the next couple of years. Just the interest on the debt will approach what we spend in the defense budget. So, I mean, that should alarm us all. [name] says the debt is unsustainable. We need to do something about it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The question again is exactly what, because, again, the party members in the campaign have come up with $50 billion here, $100 billion there, a lot to you and me."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But in terms of reducing a $1.3 trillion deficit, how does the maths add up? Are you going to cut entitlements?"
+      }
+    ],
+    "speakername": "Rand Paul",
+    "ground_truth": "to be everything across the board. Entitlements? You have to look at entitlements. Social security? What I would say is not the people who are currently on it and not those approaching retirement but the sooner we fix it the better. So it may be 55 and under but that should be this year we should look in at 55 and under. What do we do to change the system to make it more sustainable?",
+    "bio": "Born January 7, 1963, is an American politician and physician serving as the junior Senator from a southeastern state since 2011. They serve alongside a senior Senator who is the Minority Leader. They are the child of a former U.S. Representative from a southwestern state. Born in a major northeastern city, they attended a private university in the south and graduated from a prestigious medical school in the southeast. The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Right."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But in terms of reducing a $1.3 trillion deficit, how does the maths add up? Are you going to cut entitlements?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "to be everything across the board. Entitlements? You have to look at entitlements. Social security? What I would say is not the people who are currently on it and not those approaching retirement but the sooner we fix it the better. So it may be 55 and under but that should be this year we should look in at 55 and under. What do we do to change the system to make it more sustainable?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "raise the retirement age?"
+      }
+    ],
+    "speakername": "Rand Paul",
+    "ground_truth": "You may have to. They're already talking about it. I mean, there's a bipartisan commission here talking about raising age, graduating the benefits, maybe having means testing. You have to look at all of these things. They need to be on the table. But what you have to get to to get there is you have to take it out of campaign mode. Exactly. Everybody in the campaign mode. How long have we been running Mediscare ads? Representatives have run against each other for years saying, we're going to take away your grandmother's Social Security. We're not going to do that, but we need to fix it because we have too many people retiring.",
+    "bio": "Born January 7, 1963, this American politician and physician has been serving as a United States Senator since 2011. The individual is a graduate of a prominent southern university and received their medical degree from a prestigious east coast university's School of Medicine. The speaker's MBTI type is ISTP",
+    "split": "val"
+  }
+]

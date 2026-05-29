@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you. It's good to be with you, Buck, and congratulations on the new program."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Thank you very much. So immigration, central to what this administration has been talking about from the very beginning. And there's been a lot of reporting recently about immigration policy as it affects our southern borders specifically. Can you tell us, is there a major change in policy now from justice in regards to how women who are fleeing domestic abuse and or individuals in general who are fleeing gang violence, how they're being treated? Because I know this has been reported on recently."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We're really returning to the classical understanding of what asylum is. Asylum is not a claim that you've suffered a specific act of private violence or any other crime of that nature. It's really a systemic problem in which a group of people based on ethnicity or race or nationality or other such factors are oppressed in a given country and can't have a legitimate life as a result of that. So that's what asylum is about. So we've tried to move it back a bit to the classical definition, a legitimate definition, I believe, of asylum."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And as you know, there's been a lot of reporting as well about separation of families and people have been comparing the policies from the Department of Justice under the previous administration to what's going on now. What is the truth, the reality of what is happening right now when minors arrive at the border accompanied by adults? What's happening to those to those individuals?"
+      }
+    ],
+    "speakername": "Jeff Sessions",
+    "ground_truth": "Well, what's happened is pretty dramatic at our border. Four years ago, we had 15,000 families, adults with children, enter the country without proper papers. Now it's 75,000. It's increased five-fold. It's a real problem. The word has gotten out to around the world that if you come with your family, what will happen is, and has been happening, is that you are admitted into the country, set for some court date in the distant future, and you may or may not come back for that date, depending on your own choice, but you're released into the country. And so it's an effective way to enter the country unlawfully. So we've saying, the law says, if you come as an adult unlawfully into the country, you're subject to prosecution, and to the extent possible, you will be prosecuted. And we don't take, we don't take children to the short-term detention with the adults, so they're kept essentially with the Department of Health and Human Services in a most decent and fair and careful program in which they have education, good food, healthcare, and schooling. So it's a, we think that we have to go forward with that because right now, nothing is happening. You're getting in successfully, and that's why we've had this five-fold, five-fold increase in numbers.",
+    "bio": "The speaker (born December 24, 1946) is an American politician and lawyer who served as the 84th Attorney General from 2017 to 2018. A member of a major political party, the speaker previously served as Senator from a southern state from 1997 to 2017, resigning from the position in order to serve in the administration. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We're really returning to the classical understanding of what asylum is. Asylum is not a claim that you've suffered a specific act of private violence or any other crime of that nature. It's really a systemic problem in which a group of people based on ethnicity or race or nationality or other such factors are oppressed in a given country and can't have a legitimate life as a result of that. So that's what asylum is about. So we've tried to move it back a bit to the classical definition, a legitimate definition, I believe, of asylum."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And as you know, there's been a lot of reporting as well about separation of families and people have been comparing the policies from the Department of Justice under the previous administration to what's going on now. What is the truth, the reality of what is happening right now when minors arrive at the border accompanied by adults? What's happening to those to those individuals?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, what's happened is pretty dramatic at our border. Four years ago, we had 15,000 families, adults with children, enter the country without proper papers. Now it's 75,000. It's increased five-fold. It's a real problem. The word has gotten out to around the world that if you come with your family, what will happen is, and has been happening, is that you are admitted into the country, set for some court date in the distant future, and you may or may not come back for that date, depending on your own choice, but you're released into the country. And so it's an effective way to enter the country unlawfully. So we've saying, the law says, if you come as an adult unlawfully into the country, you're subject to prosecution, and to the extent possible, you will be prosecuted. And we don't take, we don't take children to the short-term detention with the adults, so they're kept essentially with the Department of Health and Human Services in a most decent and fair and careful program in which they have education, good food, healthcare, and schooling. So it's a, we think that we have to go forward with that because right now, nothing is happening. You're getting in successfully, and that's why we've had this five-fold, five-fold increase in numbers."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned individuals who stay beyond when they're supposed to because they don't show up for mandated court appearances once they've arrived at the southern border. How can that problem be tackled? Is this an issue of interior enforcement on the law enforcement side, or does this just cry out for a legislative fix, one that, as we all know, we have not had yet?"
+      }
+    ],
+    "speakername": "Jeff Sessions",
+    "ground_truth": "We need legislation. It's really, really gotten complicated. Court rulings, we have a 20-year-old consent decree that's just driving the border enforcement agency crazy and frustrating so much of what we really need to do, and we can't seem to get that changed. So, yes, we do need legislation, but we're going to use the laws on the books. We're going to proceed in a lawful and fair way. We're going to treat children carefully and help in a nice way, but adults who bring children here should not do so. What I've been pleading with the world is, if you want to come to this country, make your claim and wait your turn. Don't bring children across this border through these dangerous conditions unlawfully. You will not be protected from prosecution, and if you don't have a good basis, to claim asylum or legal entry in the country, you'll be deported.",
+    "bio": "The speaker (born December 24, 1946) is an American politician and lawyer who served as the 84th Attorney General from 2017 to 2018. A member of their political party, they previously served as Senator from their state from 1997 to 2017, resigning from the position in order to serve in the administration. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, what's happened is pretty dramatic at our border. Four years ago, we had 15,000 families, adults with children, enter the country without proper papers. Now it's 75,000. It's increased five-fold. It's a real problem. The word has gotten out to around the world that if you come with your family, what will happen is, and has been happening, is that you are admitted into the country, set for some court date in the distant future, and you may or may not come back for that date, depending on your own choice, but you're released into the United States. And so it's an effective way to enter the country unlawfully. So we've saying, the law says, if you come as an adult unlawfully into the country, you're subject to prosecution, and to the extent possible, you will be prosecuted. And we don't take, we don't take children to the short-term detention with the adults, so they're kept essentially with the Department of Health and Human Services in a most decent and fair and careful program in which they have education, good food, healthcare, and schooling. So it's a, we think that we have to go forward with that because right now, nothing is happening. You're getting in successfully, and that's why we've had this five-fold, five-fold increase in numbers."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You mentioned individuals who stay beyond when they're supposed to because they don't show up for mandated court appearances once they've arrived at the southern border. How can that problem be tackled? Is this an issue of interior enforcement on the law enforcement side, or does this just cry out for a legislative fix, one that, as we all know, we have not had yet?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We need legislation. It's really, really gotten complicated. Court rulings, we have a 20-year-old consent decree that's just driving the Border Patrol crazy and frustrating so much of what we really need to do, and we can't seem to get that changed. So, yes, we do need legislation, but we're going to use the laws on the books. We're going to proceed in a lawful and fair way. We're going to treat children carefully and help in a nice way, but adults who bring children here should not do so. What I've been pleading with the world is, if you want to come to America, make your claim and wait your turn. Don't bring children across this border through these dangerous conditions unlawfully. You will not be protected from prosecution, and if you don't have a good basis, to claim asylum or legal entry in the United States, you'll be deported."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As you know, there's a much anticipated Inspector General report that people are saying will be released within a matter of days. There are a lot of people who are saying this will be a reckoning for some former senior administration officials. A lot of people are saying this will be a moment of truth when we'll finally get some transparency as to what had transpired prior to your time here as Attorney General. What can you tell us just about how you view these issues overall? Is this a necessary process for the American people to have full faith in the institutions like the Justice Department that they need to be functioning properly and honestly?"
+      }
+    ],
+    "speakername": "Jeff Sessions",
+    "ground_truth": "We have a high duty to the American people. People expect a great deal out of the Department of Justice, and they are right to do so. We are accountable to the people, we are accountable to Congress, and we intend to meet high standards. So this investigation actually began, I think, before I became Attorney General, not I think. It did start then, and it's gone through quite a lot of effort. I think it will be a lengthy report and a careful report. It will be released soon, and I think it will help us better fix any problems that we have and reassure the American people that some of the concerns that have been raised are not true.",
+    "bio": "Jefferson Beauregard Sessions III (born December 24, 1946) is an American politician and lawyer who served as the 84th United States Attorney General from 2017 to 2018. A Republican, Sessions previously served as United States Senator from Alabama from 1997 to 2017, resigning from the position in order to serve in the Trump administration. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We need legislation. It's really, really gotten complicated. Court rulings, we have a 20-year-old consent decree that's just driving the Border Agency crazy and frustrating so much of what we really need to do, and we can't seem to get that changed. So, yes, we do need legislation, but we're going to use the laws on the books. We're going to proceed in a lawful and fair way. We're going to treat children carefully and help in a nice way, but adults who bring children here should not do so. What I've been pleading with the world is, if you want to come to this country, make your claim and wait your turn. Don't bring children across this border through these dangerous conditions unlawfully. You will not be protected from prosecution, and if you don't have a good basis, to claim asylum or legal entry in this country, you'll be deported."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "As you know, there's a much anticipated Inspector General report that people are saying will be released within a matter of days. There are a lot of people who are saying this will be a reckoning for some former senior administration officials. A lot of people are saying this will be a moment of truth when we'll finally get some transparency as to what had transpired prior to your time here as Attorney General. What can you tell us just about how you view these issues overall? Is this a necessary process for the people to have full faith in the institutions like the Department of Justice that they need to be functioning properly and honestly?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We have a high duty to the people. People expect a great deal out of the Department of Justice, and they are right to do so. We are accountable to the people, we are accountable to Congress, and we intend to meet high standards. So this investigation actually began, I think, before I became Attorney General, not I think. It did start then, and it's gone through quite a lot of effort. I think it will be a lengthy report and a careful report. It will be released soon, and I think it will help us better fix any problems that we have and reassure the people that some of the concerns that have been raised are not true."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have notably recused yourself from anything having to do with the Russia investigation and election interference. Just wanted to ask, given that it seems that the deputy attorney general may have been involved in the decision to fire the former FBI director, how is it that he hasn't seen it fit to recuse himself from some of these ongoing investigations and processes?"
+      }
+    ],
+    "speakername": "Jeff Sessions",
+    "ground_truth": "Well, that decision really fell to me, ultimately, on the matter. That's not a disqualifying thing. The recommendations we made on the dismissal resulted to his handling of certain cases that were laid out in his recommendation to me and my recommendation to the President. I think it was the right thing to do, and the facts were pretty clear on it. He made a big mistake, and he testified only a few weeks before that termination that he would do it again if he had the opportunity. So we felt like there was a serious breach of discipline within the department if we allowed him to continue.",
+    "bio": "The speaker (born December 24, 1946) is an American politician and lawyer who served as the 84th United States Attorney General from 2017 to 2018. A member of his political party, he previously served as United States Senator from his home state from 1997 to 2017, resigning from the position in order to serve in the administration. The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We have a high duty to the people. People expect a great deal out of the Department, and they are right to do so. We are accountable to the people, we are accountable to Congress, and we intend to meet high standards. So this investigation actually began, I think, before I became head of the department, not I think. It did start then, and it's gone through quite a lot of effort. I think it will be a lengthy report and a careful report. It will be released soon, and I think it will help us better fix any problems that we have and reassure the people that some of the concerns that have been raised are not true."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You have notably recused yourself from anything having to do with the investigation and election interference. Just wanted to ask, given that it seems that the deputy, may have been involved in the decision to fire the director, how is it that he hasn't seen it fit to recuse himself from some of these ongoing investigations and processes?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, that decision really fell to me, ultimately, on that matter. That's not a disqualifying thing. The recommendations we made on the dismissal resulted to his handling of certain cases that were laid out in his recommendation to me or his analysis to me and my recommendation to the president. I think it was the right thing to do, and the facts were pretty clear on it. He made a big mistake, and he testified only a few weeks before that termination that he would do it again if he had the opportunity. So we felt like there was a serious breach of discipline within the department if we allowed him to continue."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Are you confident that any disciplinary infractions unearthed in this upcoming report will in fact result in due consequences for individuals who may have stepped outside the bounds of their authority, who may have even acted in an unethical fashion? Because I think a lot of people right now are starting to worry that there is a protection ring of senior government officials prior to the administration that feel like they're covering each other's backs more than they're looking for real honesty and transparency."
+      }
+    ],
+    "speakername": "Jeff Sessions",
+    "ground_truth": "Well, let's discuss that. Yes, we did have a report from the inspector, who will be making this report, about the deputy director at the time. And I did act on that, and he was terminated. And if anyone else shows up in this report to have done something that requires termination, we will do so. But I have to say to you, people need to know we've got a great new man, head of the bureau, the director. He's a man of integrity and great ability who served in the Department before, but has been in private practice for a number of years. We've got a new deputy director. We've got a new chief of staff. We've got a new legal counsel. We've got a new communications director. The top people in the bureau have been changed now for months, and they are committed. They are committed to affirming the high standards. I know they are preparing to respond to any criticism that the inspector's report will make, and I know they are working to have improvements in the way the bureau operates. Overwhelmingly, the personnel are fabulous patriots. They serve their country every day. They are highly talented and well-trained, but we can't tolerate errors and impropriety, and we will not do so.",
+    "bio": "The subject (born December 24, 1946) is an American politician and lawyer who served as a senior government official from 2017 to 2018. A member of his party, he previously served as Senator from a southern state from 1997 to 2017, resigning from the position in order to serve in the administration. The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_06",
+        "text": "You're gonna be, you're gonna be, you, you, hey!"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Amen."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "Thank you so much!"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thank you so much. You are the best. And we'll see you next time. I said your baby girl. I said your baby girl."
+      }
+    ],
+    "speakername": "Joan Grande",
+    "ground_truth": "Come on, watch a movie with me. [generic film], a place all modern, that's true. It's a normal place, but to me, I got a feeling for you. I'm not gonna get bored of surveying you in a venture. So let me come and see you.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_07",
+        "text": "Everything about her, her clothes, everything, because also Ariana is like a girly."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, frills and heels and skirts."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And that hair is usually associated with like tougher more rock and roll. Yeah, you know"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "I don't know."
+      }
+    ],
+    "speakername": "Joan Grande",
+    "ground_truth": "Mom, what were you saying? You're about to sing the song from your favorite animated movie ever. You learned it in French and Spanish and English and Italian. And it's your favorite song ever. Thank you. I like [movie title].",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_07",
+        "text": "What was..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I miss my everything. I miss... Mom, I do all... And they did choreography with their little hands were together. And they did a circle and it was the greatest thing."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was like, yeah, yeah, yeah, yeah, try. Why try, Miss? Why try?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "text": "what is the song something one something one only one"
+      }
+    ],
+    "speakername": "Joan Grande",
+    "ground_truth": "better left unsaid it's my favorite one of my favorites greatest dance number best anthem in the world get everybody dancing just magnificent i love it",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_06",
+        "text": "what is the song something one something one only one"
+      },
+      {
+        "speaker": "[target]",
+        "text": "better left unsaid it's my favorite one of my favorites greatest dance number best anthem in the world get everybody dancing just magnificent i love it"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "That was a really good song."
+      },
+      {
+        "speaker": "[target]",
+        "text": "It's a great song."
+      }
+    ],
+    "speakername": "Joan Grande",
+    "ground_truth": "That's true! Doesn't anyone miss tattooed heart? I miss it. I love that album. I think it's magnificent.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Here's your mom's reaction, this is genuine. Oh my god, who's heard that? Has everyone heard that? No, no. Whoa! Oh my god! Whoa! No, Ariana! I'm not kidding! That's the best song I ever heard! Oh! Oh my god! Holy shit! Oh my god, I almost vomited! I can't believe it!"
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "Hey mom, what kind of dumb shit is the Supreme Court saying now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the majority of them are brilliant. Yeah, well, yeah."
+      },
+      {
+        "speaker": "SPEAKER_09",
+        "text": "all right the other four go hold on let me do this again the other four"
+      }
+    ],
+    "speakername": "Joan Grande",
+    "ground_truth": "The other four should be ashamed of themselves. They're quoting 300-year-old men. We should just ask.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

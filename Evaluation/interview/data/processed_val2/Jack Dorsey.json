@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thank you so much. Thank you."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "If we go back and kick off with [company], who is now, of course, renamed [company], where did the idea come from?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh well it was a long time in the making um when i was a kid i was i was always fascinated by um how cities worked just how these things that were so large to me at the time actually like functions and i got into um maps and just i would obsess over them and stare at them and try to understand what was happening in any one particular neighborhood or area and that led me to um programming because my dad brought home a computer one time and i wanted to draw a map on the screen so that i could start playing with it and if you know i taught myself how to do that i figured it out and little by little i worked my way to a field called dispatch so dispatching taxi cabs and ambulances and police cars and it was a way to put information on the map information about the city and i eventually ended up working at the largest firm in [city] and i had this very rich map of everything happening in [city] but it was missing one thing which were the people and what they were doing where they were and that's really the question that started [company] was if i could see and visualize what the people were doing and what they were thinking or where they were going uh it would help me understand the the city a little bit more and it took probably about 10 15 years for the right time the right technology to to really make the idea something worth pursuing but in 2006 it did and i was working at a podcasting company that kind of lost its way because it suddenly became competitive with [company] when [company] decided to get into podcasting and um we had this great team we started a hack week i brought up for this thing that you could update from your phone and other people could follow it and see what you're doing and what you're thinking where are you going and we i was given another programmer in two weeks and we built it and we fell in love with it and little by little we took more and more resources of the other company and we eventually spun out and took venture capital"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What was your vision at the time? What did you think you could become?"
+      }
+    ],
+    "speakername": "Jack Dorsey",
+    "ground_truth": "didn't really have a vision i wanted to play with it i mean ultimately i wanted to understand what was happening in the city that was the original question and i thought this was a way to answer the question but um i just wanted to use it i wanted to be able to see what my friends were doing i wanted to share what i was doing um sms was just becoming big in the us you all in europe had it for 10 years prior but the us because of our different protocols for carriers [company] and [company] gsm versus cdma we didn't have text messages that actually worked together so we didn't have text for quite some time um but when we did that was the technology like oh you can uh i could have this cheap little [product] device and i could send a message and it would fan out to all the people that cared about what i was doing saying or what i was doing that was super cool and we um we just launched it and we invited our friends and they invited their friends and so on and so forth and then it could continue to roll and we decided as people were using it that there's something that resonates here there's something interesting and now it's up to us to like really pull the thread on what that is and what's interesting about [company] is it wasn't really us who determined where it went it was the people using it we saw them try to converse with each other and address one another and i took three days over breakfast and i wrote or three three hours and i i wrote some code anytime someone tried to address someone else it would be linked and it would be filtered into a reply step that's what i called it and that started conversation on [company] and this public conversation where whereas i originally was thinking oh this is just a way to update my friends or what i'm doing see what they're doing but people wanted to talk and they invented this syntax the at symbol to talk",
+    "bio": "The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "If we go back and kick off with Twitter, who is now, of course, renamed X, where did the idea come from?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh well it was a long time in the making um when i was a kid i was i was always fascinated by um how cities worked just how these things that were so large to me at the time actually like functions and i got into um maps and just i would obsess over them and stare at them and try to understand what was happening in any one particular neighborhood or area and that led me to um programming because my dad brought home a computer one time and i wanted to draw a map on the screen so that i could start playing with it and if you know i taught myself how to do that i figured it out and little by little i worked my way to a field called dispatch so dispatching taxi cabs and ambulances and police cars and it was a way to put information on the map information about the city and i eventually ended up working at the largest firm in new york and i had this very rich map of everything happening in new york city but it was missing one thing which were the people and what they were doing where they were and that's really the question that started twitter was if i could see and visualize what the people were doing and what they were thinking or where they were going uh it would help me understand the the city a little bit more and it took probably about 10 15 years for the right time the right technology to to really make the idea something worth pursuing but in 2006 it did and i was working at a podcasting company that kind of lost its way because it suddenly became competitive with apple when apple decided to get into podcasting and um we had this great team we started a hack week i brought up for this thing that you could update from your phone and other people could follow it and see what you're doing and what you're thinking where are you going and we i was given another programmer in two weeks and we built it and we fell in love with it and little by little we took more and more resources of the other company and we eventually spun out and took venture capital"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What was your vision at the time? What did you think you could become?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "didn't really have a vision i wanted to play with it i mean ultimately i wanted to understand what was happening in the city that was the original question and i thought this was a way to answer the question but um i just wanted to use it i wanted to be able to see what my friends were doing i wanted to share what i was doing um sms was just becoming big in the us you all in europe had it for 10 years prior but the us because of our different protocols for carriers verizon and att gsm versus cdma we didn't have text messages that actually worked together so we didn't have text for quite some time um but when we did that was the technology like oh you can uh i could have this cheap little nokia device and i could send a message and it would fan out to all the people that cared about what i was doing saying or what i was doing that was super cool and we um we just launched it and we invited our friends and they invited their friends and so on and so forth and then it could continue to roll and we decided as people were using it that there's something that resonates here there's something interesting and now it's up to us to like really pull the thread on what that is and what's interesting about twitter is it wasn't really us who determined where it went it was the people using it we saw them try to converse with each other and address one another and i took three days over breakfast and i wrote or three three hours and i i wrote some code anytime someone tried to address someone else it would be linked and it would be filtered into a reply step that's what i called it and that started conversation on twitter and this public conversation where whereas i originally was thinking oh this is just a way to update my friends or what i'm doing see what they're doing but people wanted to talk and they invented this syntax the at symbol to talk"
+      }
+    ],
+    "speakername": "Jack Dorsey",
+    "ground_truth": "And then they invented another syntax, the hash, for grouping tweets by topics. And then they invented another thing called the retweet, which is rebroadcasting someone they're following to their following, to the people following them. So little by little, as we observed what people were doing with it and we made it easier, it spread and it made the service much bigger because more and more people got value out of it. And it was just an interesting way to co-create with the people that are using your product, and I learned a lot from it.",
+    "bio": " The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What was your vision at the time? What did you think you could become?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "didn't really have a vision i wanted to play with it i mean ultimately i wanted to understand what was happening in the city that was the original question and i thought this was a way to answer the question but um i just wanted to use it i wanted to be able to see what my friends were doing i wanted to share what i was doing um sms was just becoming big in the us you all in europe had it for 10 years prior but the us because of our different protocols for carriers verizon and att gsm versus cdma we didn't have text messages that actually worked together so we didn't have text for quite some time um but when we did that was the technology like oh you can uh i could have this cheap little device and i could send a message and it would fan out to all the people that cared about what i was doing saying or what i was doing that was super cool and we um we just launched it and we invited our friends and they invited their friends and so on and so forth and then it could continue to roll and we decided as people were using it that there's something that resonates here there's something interesting and now it's up to us to like really pull the thread on what that is and what's interesting about the platform is it wasn't really us who determined where it went it was the people using it we saw them try to converse with each other and address one another and i took three days over breakfast and i i wrote some code anytime someone tried to address someone else it would be linked and it would be filtered into a reply step that's what i called it and that started conversation on the platform and this public conversation where whereas i originally was thinking oh this is just a way to update my friends or what i'm doing see what they're doing but people wanted to talk and they invented this syntax the at symbol to talk"
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then they invented another syntax, the hash, for grouping messages by topics. And then they invented another thing called the repost, which is rebroadcasting someone they're following to their following, to the people following them. So little by little, as we observed what people were doing with it and we made it easier, it spread and it made the service much bigger because more and more people got value out of it. And it was just an interesting way to co-create with the people that are using your product, and I learned a lot from it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's amazing. So the way it developed, what does it tell us about people's needs? What does it tell us about people generally?"
+      }
+    ],
+    "speakername": "Jack Dorsey",
+    "ground_truth": "uh i i think um people don't want to just consume they want to help participation means creation and um and they want to they want to leave some mark um they may not intend to do that but when you use something like the platform you develop this feeling for it and you want it to last you want it to succeed and you you become very emotional about any changes that are made that you think go against the way it should be or the way it's used and we saw so many of those when we tried to do a thing that we thought was important the network just like threw up on it and uh and said it was wrong and as we observed what they were trying to do we had much better insight into what the platform wanted to be um as we got more new audiences and audience types we would you know that density of information would would grow even further so",
+    "bio": "The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And then they invented another syntax, the hash, for grouping tweets by topics. And then they invented another thing called the retweet, which is rebroadcasting someone they're following to their following, to the people following them. So little by little, as we observed what people were doing with it and we made it easier, it spread and it made the service much bigger because more and more people got value out of it. And it was just an interesting way to co-create with the people that are using your product, and I learned a lot from it."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's amazing. So the way it developed, what does it tell us about people's needs? What does it tell us about people generally?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh i i think um people don't want to just consume they want to help participation means creation and um and they want to they want to leave some mark um they may not intend to do that but when you use something like twitter you develop this feeling for it and you want it to last you want it to succeed and you you become very emotional about any changes that are made that you think go against the way it should be or the way it's used and we saw so many of those when we tried to do a thing that we thought was important the network just like threw up on it and uh and said it was wrong and as we observed what they were trying to do we had much better insight into what twitter wanted to be um as we got more new audiences and audience types we would you know that density of information would would grow even further so"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When did you realise that he was really taking off?"
+      }
+    ],
+    "speakername": "Jack Dorsey",
+    "ground_truth": "When the President was elected 100 days after he took office, he got up in front of the country and did the State address 100 days after. And we had a number of senators and congresspeople on the platform already, and I was watching the speech and the camera panned around and there were people on their phones. And in that moment, I got a message. My pocket buzzed. I pulled on my phone. I got a message from my senator from [state]. I'm from [state]. And she was tweeting about the President giving his first address to the nation. I was like, whoa, like, fast. I'm watching this thing unfold in front of me and I'm feeling it physically in my pocket. And it just really shortened the distance between something that can be very abstract and feel far away, which is how our government operates and works. To it now being in my hand and having this sense of like, wow, this tangible humanity. Someone typed this out. It buzzed my phone and now I'm reading it and I saw it and you know, they're thousands of miles away.",
+    "bio": " The speaker's MBTI type is ISTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh i i think um people don't want to just consume they want to help participation means creation and um and they want to they want to leave some mark um they may not intend to do that but when you use something like social media you develop this feeling for it and you want it to last you want it to succeed and you you become very emotional about any changes that are made that you think go against the way it should be or the way it's used and we saw so many of those when we tried to do a thing that we thought was important the network just like threw up on it and uh and said it was wrong and as we observed what they were trying to do we had much better insight into what the platform wanted to be um as we got more new audiences and audience types we would you know that density of information would would grow even further so"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "When did you realise that he was really taking off?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "When the president was elected 100 days after he took office, he got up in front of the country and did the State of the Union 100 days after. And we had a number of senators and congresspeople on the platform already, and I was watching the speech and the camera panned around and there were people on their phones. And in that moment, I got a message. My pocket buzzed. I pulled on my phone. I got a message from my senator from my home state. I'm from that state. And she was posting about the president giving his first address to the nation. I was like, whoa, like, fast. I'm watching this thing unfold in front of me and I'm feeling it physically in my pocket. And it just really shortened the distance between something that can be very abstract and feel far away, which is how our government operates and works. To it now being in my hand and having this sense of like, wow, this tangible humanity. Someone typed this out. It buzzed my phone and now I'm reading it and I saw it and you know, they're thousands of miles away."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What did you feel then?"
+      }
+    ],
+    "speakername": "Jack Dorsey",
+    "ground_truth": "I felt excited. I got back to work right away because it was like, oh man, this feels great. I mean, that's what you want in terms of building any product. You want to see people use it in a way that you can see that there's value and you can feel it. It feels electric and you feel like tingly and you're like, oh, I'm going to keep going. I'm going to keep going.",
+    "bio": "The speaker's MBTI type is ISTP",
+    "split": "val"
+  }
+]

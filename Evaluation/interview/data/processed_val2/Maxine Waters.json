@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, about time. As a matter of fact, Michael Flynn has a reputation as being a liar and someone that cannot be trusted. I was just looking over some of his background and I was reminded about him getting security clearance for his son and then lying about it. So I've always believed that there's been collusion between the administration here and Russia and the government. And so I think this is the tip of the iceberg, that there's more to come."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think that Michael Flynn did this on his own, or did he get orders from somebody else to talk to the ambassador about the sanctions? And if so, who might it have been?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, let me just say this. I think that the strategy and the plot to defend Russia and to work with Russia is part of who the administration and their organization is. This is what they're all about. Of course he knew. He didn't just think about this one day and decide that he was going to have this conversation. This is a part of what they have decided they wanted to do. And so, yes, I believe that the President knew about this call and that he supported Flynn in making the call."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think there should be an FBI investigation of the connections between the administration and Russia?"
+      }
+    ],
+    "speakername": "Maxine Waters",
+    "ground_truth": "Oh, absolutely. As a matter of fact, I have a concurrent resolution that says with this investigation that is going on, I didn't want it to be an investigation that's whitewashed. I want them to get at certain things that will lead us to understanding how it took place, what this collusion was, what it was all about, because it's long past due. I mean, the campaign was in November, and now we're in February. We knew that they hacked and all of that. We knew that Manafort was the campaign manager to the administration, who also was on the payroll of the president of a foreign nation, and that president is tied closely to the Russian leadership. I mean, come on. I mean, it's there to be seen, and certainly with the right investigation, we can connect the dots.",
+    "bio": "The speaker (born August 15, 1938) is an American politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, the speaker is currently in their 15th term in the House, having served since 1991. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, let me just say this. I think that the strategy and the plot to defend the foreign country and to work with them is part of who the president and his organization is. This is what they're all about. Of course he knew. He didn't just think about this one day and decide that he was going to have this conversation. This is a part of what they have decided they wanted to do. And so, yes, I believe that the president knew about this call and that he supported the official in making the call."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you think there should be a federal investigation of the connections between the administration and the foreign country?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Oh, absolutely. As a matter of fact, I have a concurrent resolution that says with this investigation that is going on, I didn't want it to be an investigation that's whitewashed. I want them to get at certain things that will lead us to understanding how it took place, what this collusion was, what it was all about, because it's long past due. I mean, the campaign was in November, and now we're in February. We knew that they hacked and all of that. We knew that the campaign manager was the campaign manager to the president, who also was on the payroll of the president of the eastern European country, and that president is tied closely to the foreign leader. I mean, come on. I mean, it's there to be seen, and certainly with the right investigation, we can connect the dots."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Really excited to talk with you this afternoon. Thank you for taking the time. So [target] wrote you a letter in support after your national newspaper op-ed, your really wonderful national newspaper op-ed this fall. And I'm wondering if you can speak a bit about what it meant to receive that letter from her. And then [target], if you can speak a little bit about what moved you to send that letter."
+      }
+    ],
+    "speakername": "Maxine Waters",
+    "ground_truth": "Just to receive any type of recognition from the wonderful [target], it really blew my mind because I know that it's me being a young black woman in my generation, the things that I fight for, the things that I talk about every day, it seems new for us because we're just now going through it. But to be recognized by a woman that has always spoke out about these issues and has always been an advocate for black women and just the whole black community, I felt overwhelmed. I felt seen. I just felt very appreciative because I'm like, okay, it's hard to feel like you're doing something new. It's hard to feel like I'm speaking about something for the first time because I've never done it before. And I'm seeing the things that people are saying to me and how some people may not agree with what I'm saying. They feel like it's controversial and all I'm saying is protect black women. And now people are taking it like it's... I'm sorry. I'm saying something crazy. So just to be supported by another black woman who sends the same message, I feel like, you know what, I am doing the right thing and I'm going to keep doing it because [target] said I can.",
+    "bio": "A prominent American politician serving as the U.S. Representative for a congressional district since 2013. A member of the Democratic Party, the representative is currently in their 15th term in the House, having served since 1991. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Just to receive any type of recognition from the wonderful Ms. Waters, it really blew my mind because I know that it's me being a young black woman in my generation, the things that I fight for, the things that I talk about every day, it seems new for us because we're just now going through it. But to be recognized by a woman that has always spoke out about these issues and has always been an advocate for black women and just the whole black community, I felt overwhelmed. I felt seen. I just felt very appreciative because I'm like, okay, it's hard to feel like you're doing something new. It's hard to feel like I'm speaking about something for the first time because I've never done it before. And I'm seeing the things that people are saying to me and how some people may not agree with what I'm saying. They feel like it's controversial and all I'm saying is protect black women. And now people are taking it like it's... I'm sorry. I'm saying something crazy. So just to be supported by another black woman who sends the same message, I feel like, you know what, I am doing the right thing and I'm going to keep doing it because [target] said I can."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "That's great. That's great. Well, let me just tell you that I was moved by your article. And I was so pleased that you wrote the article for a lot of reasons. Oftentimes, particularly happens with entertainers, they put you in a box. And somehow they don't see you as a person who has a life that includes family, that includes interactions, decisions that you have to make that has nothing to do with your performance. And so they don't see you as thinking about the plight, for example, of black women or civil rights or any of these issues. So that's why I was very pleased that you wrote it. And so when we saw it, we thought, wow, this is great. And I'm so pleased. Let's, let's write her. Let's, let's let her know that we think that that she's doing a great thing and has done a great thing uh and i want you to know that when you you know speak of yourself and you say maybe you know people think you're being too controversial etc etc pay that no attention for some people who don't have courage and don't have confidence they don't understand it when they see it in other people so uh you should be proud of that you should be proud of whom you are and i know you are and not only your talent but your person who what do you care about and and what is it you you're doing that is not only good for you but it's good for others so thank you very much and i'm pleased to be with you"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Wonderful. Thank you so much. That sort of brings me to my next question, which is,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you, what's the biggest lesson you hope that young black women can sort of learn from this current moment that we're in?"
+      }
+    ],
+    "speakername": "Maxine Waters",
+    "ground_truth": "Well, you know, I think that because Black women have not been respected in ways that will help them to feel good about themselves, and they looked to others, and particularly men, in order to get approval, then, you know, we need to say to Black women, first of all, concentrate on whom you are, and what you think, and what you care about. And approval does not always have to come from others. Other people's opinions do not make you, and the opinion of men do not determine who you are. And so, we want women to have the kind of confidence that we're talking about today, that you have, Megan. And so, I think if there's anything that we can say to other Black women is that get grounded. Get grounded. You have an opinion. And you're thinking, and you're taking charge of your life, rather than have everybody else telling you what you can do, what you should do, what you shouldn't do. And so, building confidence is the most important lesson that we can share.",
+    "bio": "Maxine Moore Waters (nÃ©e Carr, August 15, 1938) is an American politician serving as the U.S. Representative for California's 43rd congressional district since 2013. A member of the Democratic Party, Waters is currently in her 15th term in the House, having served since 1991. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Wonderful. Thank you so much. That sort of brings me to my next question, which is,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you, what's the biggest lesson you hope that young black women can sort of learn from this current moment that we're in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, I think that because Black women have not been respected in ways that will help them to feel good about themselves, and they looked to others, and particularly men, in order to get approval, then, you know, we need to say to Black women, first of all, concentrate on whom you are, and what you think, and what you care about. And approval does not always have to come from others. Other people's opinions do not make you, and the opinion of men do not determine who you are. And so, we want women to have the kind of confidence that we're talking about today, that you have, Megan. And so, I think if there's anything that we can say to other Black women is that get grounded. Get grounded. You have an opinion. And you're thinking, and you're taking charge of your life, rather than have everybody else telling you what you can do, what you should do, what you shouldn't do. And so, building confidence is the most important lesson that we can share."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wonderful. So happy to be here. That brings me also to my next question, which is how do you build community with other black women? You know, what I'm seeing right now between the two of you is like, it's like an example of how you build community, which is showing words of affirmation for another person saying, I see you when I see you. So I'm just wondering how you build those sorts of communities, what sort of actions you do to build community with other black women."
+      }
+    ],
+    "speakername": "Maxine Waters",
+    "ground_truth": "First of all, we have to take people where they are, and we have to be honest with people about whom we are. And we have to be honest in ways that will help people to open up and be honest with you. And so if we put ourselves high on a pedestal somewhere, and we're talking about, I'm your role model, and you gotta do this, and you gotta act this way, and you gotta dress this way, and you should be doing this, et cetera. First of all, we're not being honest. And secondly, we have people who address issues in different ways. We have people certainly who have different thoughts, things that we don't even think about or know about. And we have people who don't accept what is considered the tradition. And we have to respect that. And we have to take people where they are. And when we approach people, it is not trying to have them believe that somehow you are more pure, you are more knowledgeable, you are more anything. Accept people where they are, and they'll accept you where you are. So when I see someone, and I'm talking with them, I'm looking at them, and I'm listening to them. I don't care what they have on. I don't care about anything else but what this person is expressing. And I'm not judging them on anything else except what they are sharing with me. And for me, that is a way that you connect with others. That is a way you build community. That is where you get trust. And that is where you come to other people's aid when people need you. You come to their aid. I'm talking about just having the ability to have someone listen to you that's hearing what you're saying, or you are sharing a moment. And so that's how you build community. You respect people. You respect people. You respect people. You respect people. You take them where they are, and you come to their aid when they need you.",
+    "bio": "The speaker is a politician serving as a U.S. Representative for a congressional district since 2013. A member of a major political party, the speaker is currently in their 15th term in the House, having served since 1991. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What do you, what's the biggest lesson you hope that young black women can sort of learn from this current moment that we're in?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, I think that because Black women have not been respected in ways that will help them to feel good about themselves, and they looked to others, and particularly men, in order to get approval, then, you know, we need to say to Black women, first of all, concentrate on whom you are, and what you think, and what you care about. And approval does not always have to come from others. Other people's opinions do not make you, and the opinion of men do not determine who you are. And so, we want women to have the kind of confidence that we're talking about today, that you have, Megan. And so, I think if there's anything that we can say to other Black women is that get grounded. Get grounded. You have an opinion. And you're thinking, and you're taking charge of your life, rather than have everybody else telling you what you can do, what you should do, what you shouldn't do. And so, building confidence is the most important lesson that we can share."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Wonderful. So happy to be here. That brings me also to my next question, which is how do you build community with other black women? You know, what I'm seeing right now between the two of you is like, it's like an example of how you build community, which is showing words of affirmation for another person saying, I see you when I see you. So I'm just wondering how you build those sorts of communities, what sort of actions you do to build community with other black women."
+      },
+      {
+        "speaker": "[target]",
+        "text": "First of all, we have to take people where they are, and we have to be honest with people about whom we are. And we have to be honest in ways that will help people to open up and be honest with you. And so if we put ourselves high on a pedestal somewhere, and we're talking about, I'm your role model, and you gotta do this, and you gotta act this way, and you gotta dress this way, and you should be doing this, et cetera. First of all, we're not being honest. And secondly, we have people who address issues in different ways. We have people certainly who have different thoughts, things that we don't even think about or know about. And we have people who don't accept what is considered the tradition. And we have to respect that. And we have to take people where they are. And when we approach people, it is not trying to have them believe that somehow you are more pure, you are more knowledgeable, you are more anything. Accept people where they are, and they'll accept you where you are. So when I see someone, and I'm talking with them, I'm looking at them, and I'm listening to them. I don't care what they have on. I don't care about anything else but what this person is expressing. And I'm not judging them on anything else except what they are sharing with me. And for me, that is a way that you connect with others. That is a way you build community. That is where you get trust. And that is where you come to other people's aid when people need you. You come to their aid. I'm talking about just having the ability to have someone listen to you that's hearing what you're saying, or you are sharing a moment. And so that's how you build community. You respect people. You respect people. You respect people. You respect people. You take them where they are, and you come to their aid when they need you."
+      }
+    ],
+    "speakername": "Maxine Waters",
+    "ground_truth": "All my life, I was raised by women. I had my mother, my grandmother, and my great-grandmother, and my aunt. Growing up, they always taught me, Megan, you can do whatever you want to do. Be whoever you want to be. As long as you're a woman who knows at the end of the day you don't have to depend on anybody else, get out here in the world and make it yours. So I never knew that, I never grew up thinking, oh my gosh, I can't do this. Oh my gosh, I'm not Megan, and I'm not beautiful, and I'm not amazing. Like, I always grew up thinking so highly of myself that when obstacles came towards me, I'm like, I'm gonna beat this or I'm gonna get over it because I'm Megan, and I'm awesome, and my mom said I was great, so I must be amazing. So nobody else can tell me any different. So when I grow up and I start becoming aware of everybody else, because I was in my own little bubble. I'm the only child. But when I started growing up and realizing that everybody might not have had the same household as me, I realized that other women may not have been told all their life that they're so beautiful and that they are amazing and you can grow up and you can be whatever you choose to be. Don't let anybody put you in this box, girl, be you. And when I realized that a lot of my friends didn't have that, like, I really was like, you know what, Megan? Maybe God put these women in your life so you could be in other women's life and you can uplift them the way that the women that I gave you uplifted you. So now that I'm in a position to where I took my mindset and turned my situation into this, I felt like I have to give back to my community, my women. I want everybody to feel the way that I felt growing up. I am currently still in school. I remember what it was like to be a freshman on campus. And I'm like, oh my God, my mom said she is not paying my student loans. What is Sally made? I was so confused about everything. And I just remember that it was a real struggle. When I got in a position to do that for other women, I was like, I'm definitely doing that. Because girl, I know what it felt like to be confused and struggling and you didn't want to give up on your dream. So you just worked super hard to like stay there. And I really want to be a part of other women's story where they're like, I was going to give up. I couldn't do it. But guess what? Megan Thee Stallion said I could, so I did. And she really helped me. So it really makes me feel good. Everything is not going to come easy, but I know that if I can make it easy for somebody, I want to do that.",
+    "bio": "Maxine Moore Waters (nÃ©e Carr, August 15, 1938) is an American politician serving as the U.S. Representative for California's 43rd congressional district since 2013. A member of the Democratic Party, Waters is currently in her 15th term in the House, having served since 1991. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

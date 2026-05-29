@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Hey, thank you for having me."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I am so conflicted by this segment. I want to believe everything you say, and I don't believe anything you say. But let's try this out for size. There really is a secret, a secret to being financially successful?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. And it's the root cause of financial success. It's the root cause of anything else, of course. And it's the way you think. In the book, I say, give me five minutes and I can predict your financial future for the rest of your life. How? By identifying what's called your money blueprint. Each of us has a personal money blueprint already ingrained in our subconscious mind. And Tony, it is this blueprint more than anything else that will determine your financial life. So you can be the best at your job, the best at your business. You can know everything about stocks and bonds and real estate. But if your subconscious money blueprint isn't preset for a high level of success, you will never amass a large amount of money. And if by chance you do, you'll somehow manage to lose it. Can I give you an example? Yeah, give me an example. All right. We've all heard of the fellow with the big hair, great guy, [business person]. Yeah. Now here's this multi-billionaire. He loses everything and more. And two years later, he's got it all back again and more. Why? His money blueprint is set for high. On the other side of the coin, we've all heard the stories of lottery winners, right? Yeah. They win 5, 10, 50, 100 million dollars. Five years later, virtually half of them are right back to where they started. Why? Because their money blueprint is set for low."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, [target], are you essentially saying that our minds tend to get in the way of our, that we stand in the way of our own success?"
+      }
+    ],
+    "speakername": "T. Harv Eker",
+    "ground_truth": "Well, you know, there's a formula for the results of your life, and it's very simple. Your thoughts lead to your feelings, which lead to your actions, which lead to your results. So your results are originated in the way you think. And most people, well, most of us, we were all taught how to do money. And most of us were taught by people who didn't either have a lot of money or they had a lot of emotional issues around it. Their ways of thinking and being and habits became our ways, and we just take them for granted as the way we do things now. And we just normally think in ways that for most people are a little bit unsupportive to success. All right, let me break this down.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Absolutely. And it's the root cause of financial success. It's the root cause of anything else, of course. And it's the way you think. In the book, I say, give me five minutes and I can predict your financial future for the rest of your life. How? By identifying what's called your money blueprint. Each of us has a personal money blueprint already ingrained in our subconscious mind. And Tony, it is this blueprint more than anything else that will determine your financial life. So you can be the best at your job, the best at your business. You can know everything about stocks and bonds and real estate. But if your subconscious money blueprint isn't preset for a high level of success, you will never amass a large amount of money. And if by chance you do, you'll somehow manage to lose it. Can I give you an example? Yeah, give me an example. All right. We've all heard of the fellow with the big hair, great guy, [masked name]. Yeah. Now here's this multi-billionaire. He loses everything and more. And two years later, he's got it all back again and more. Why? His money blueprint is set for high. On the other side of the coin, we've all heard the stories of lottery winners, right? Yeah. They win 5, 10, 50, 100 million dollars. Five years later, virtually half of them are right back to where they started. Why? Because their money blueprint is set for low."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Well, [target], are you essentially saying that our minds tend to get in the way of our, that we stand in the way of our own success?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, there's a formula for the results of your life, and it's very simple. Your thoughts lead to your feelings, which lead to your actions, which lead to your results. So your results are originated in the way you think. And most people, well, most of us, we were all taught how to do money. And most of us were taught by people who didn't either have a lot of money or they had a lot of emotional issues around it. Their ways of thinking and being and habits became our ways, and we just take them for granted as the way we do things now. And we just normally think in ways that for most people are a little bit unsupportive to success. All right, let me break this down."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is it your belief that all of us, all of us watching you this morning, can change our thinking?"
+      }
+    ],
+    "speakername": "T. Harv Eker",
+    "ground_truth": "and become wealthy it's the only way what else are you gonna do you know people work hard all the time people change their job people you know take different classes which are and they're all good",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, there's a formula for the results of your life, and it's very simple. Your thoughts lead to your feelings, which lead to your actions, which lead to your results. So your results are originated in the way you think. And most people, well, most of us, we were all taught how to do money. And most of us were taught by people who didn't either have a lot of money or they had a lot of emotional issues around it. Their ways of thinking and being and habits became our ways, and we just take them for granted as the way we do things now. And we just normally think in ways that for most people are a little bit unsupportive to success. All right, let me break this down."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Is it your belief that all of us, all of us watching you this morning, can change our thinking?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "and become wealthy it's the only way what else are you gonna do you know people work hard all the time people change their job people you know take different classes which are and they're all good"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "everyone is not going to be wealthy t and you know it you can think it you can believe it if i believe it i can achieve it but not everyone in this society can change their mindset do the work that you're going to suggest here and become wealthy there there's randomness to this there is well what do you think"
+      }
+    ],
+    "speakername": "T. Harv Eker",
+    "ground_truth": "I agree, not everyone's going to become wealthy because they don't think in terms of wealth. They think in terms of old conditioned beliefs, non-supportive ways of thinking. Let me give you an example if that's okay. Most people, believe it or not, what they actually do is they actually resent rich people. What did we hear? Filthy rich. Rich people are greedy. It's very simple, Tony. If you think that rich people are bad in any way, shape, or form, and you want to be a good person, then you can never be rich. How could you be something that you resent? Another belief that people have is that most people, they play the money game on defense versus offense. Their big intention is to have enough to pay the bills, or just get by, or just earn a decent living, or just be comfortable. Literally, you have to have an intention like anything else. You had an intention to have your job. You've got it. You worked hard for it. You got it. If you don't have an intention, I want everyone to have an intention to become a multi-millionaire.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "everyone is not going to be wealthy t and you know it you can think it you can believe it if i believe it i can achieve it but not everyone in this society can change their mindset do the work that you're going to suggest here and become wealthy there there's randomness to this there is well what do you think"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I agree, not everyone's going to become wealthy because they don't think in terms of wealth. They think in terms of old conditioned beliefs, non-supportive ways of thinking. Let me give you an example if that's okay. Most people, believe it or not, what they actually do is they actually resent rich people. What did we hear? Filthy rich. Rich people are greedy. It's very simple, Tony. If you think that rich people are bad in any way, shape, or form, and you want to be a good person, then you can never be rich. How could you be something that you resent? Another belief that people have is that most people, they play the money game on defense versus offense. Their big intention is to have enough to pay the bills, or just get by, or just earn a decent living, or just be comfortable. Literally, you have to have an intention like anything else. You had an intention to have your job. You've got it. You worked hard for it. You got it. If you don't have an intention, I want everyone to have an intention to become a multi-millionaire."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But this society and capitalism in general depends on a permanent underclass to do the bidding of the rich."
+      }
+    ],
+    "speakername": "T. Harv Eker",
+    "ground_truth": "industrialists. True, but that may be true, but you don't have to be one of them. You can be on the opposite side of the fence. And let me just say this. Why get rich? Well, one of the reasons, of course, is for yourself. But the other reason is that, you know, you can't give what you don't got. There's a saying that says that. And literally, I believe this, that if you have the wherewithal to get rich, it is your duty to do so, so you can help other people who just do not have that wherewithal.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "But this society and capitalism in general depends on a permanent underclass to do the bidding of the rich."
+      },
+      {
+        "speaker": "[target]",
+        "text": "industrialists. True, but that may be true, but you don't have to be one of them. You can be on the opposite side of the fence. And let me just say this. Why get rich? Well, one of the reasons, of course, is for yourself. But the other reason is that, you know, you can't give what you don't got. There's a saying that says that. And literally, I believe this, that if you have the wherewithal to get rich, it is your duty to do so, so you can help other people who just do not have that wherewithal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "saying is money is the root"
+      }
+    ],
+    "speakername": "T. Harv Eker",
+    "ground_truth": "of all evil. Well, if you believe that, you're certainly not going to have any, are you? You know, I believe that money only makes you more of what you already are. It's a tool. It's a, you know, if people say, you know, well, it's not as important as love.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

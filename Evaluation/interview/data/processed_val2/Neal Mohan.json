@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "done."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Good morning everyone and thank you [target] for the first ever creator summit in this country. So guys having a leader from our background finally helps. I hope all of us get like 2-3 million subscribers as a celebration gift."
+      },
+      {
+        "speaker": "[target]",
+        "text": "done."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "make it happen we'll make sure the global office doesn't know about it [target] we know that you have a special connection with this country you know a part of your youth you've spent here what are some of the striking differences that you've seen uh you know over the years when it comes to this country"
+      }
+    ],
+    "speakername": "Neal Mohan",
+    "ground_truth": "That's a great question. So first of all, Kamya, thank you for having me. Thank you, everybody, for being here. I was born and grew up in the central region of the country for a bunch of my childhood. And then I moved back to this country for high school. And that was many decades ago. Not to show my age here, but the world has obviously changed dramatically. And I would say the overwhelming impression really for the last few days for me here, as you and I were talking about a little bit backstage, is how incredibly vibrant our creator ecosystem is here. And I mean all of you as creators, the up and coming creators, musicians, artists, all of the people that we work with, all the brands that many of you will get a chance to interact with later today. It's just so vibrant in every conversation I have. It's really about the future. Where can we take things to the next level? As you all know, this country is our platform's largest market, fastest growing market. And I think we're just getting started. So it's super exciting.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That's a great question. So first of all, Kamya, thank you for having me. Thank you, everybody, for being here. I was born and grew up in the central region of the U.S. for a bunch of my childhood. And then I moved back to south Asia for high school. And that was many decades ago. Not to show my age here, but the world has obviously changed dramatically. And I would say the overwhelming impression really for the last few days for me here, as you and I were talking about a little bit backstage, is how incredibly vibrant our creator ecosystem is here. And I mean all of you as creators, the up and coming creators, musicians, artists, all of the people that we work with, all the brands that many of you will get a chance to interact with later today. It's just so vibrant in every conversation I have. It's really about the future. Where can we take things to the next level? As you all know, this region is YouTube's largest market, fastest growing market. And I think we're just getting started. So it's super exciting."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, we as content creators or YouTubers, every morning when we wake up, the first thing we check is the number of subscribers we got and the dollars we earned yesterday. No pressure."
+      },
+      {
+        "speaker": "[target]",
+        "text": "on all the product people in the room here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I wanna know how or rather what does the CEO of YouTube check the first thing in the morning as a part of your daily routine?"
+      }
+    ],
+    "speakername": "Neal Mohan",
+    "ground_truth": "That's a good question. Well, I happen to be a sports nut, so it's probably some sports score from overnight from whatever sport that I'm watching. But I think I would say more generally to kind of expand your question, I really focus on a couple of things in my role. The first, and I think the most exciting part of my job is to get to meet our awesome YouTubers like you. And just as we were talking about earlier, just understanding your journey, your business, what you're focused on, what your needs are. I always say this, and all the people on my team here will know this, because they've heard it from me a million times, is our YouTubers know our product and our service better than anybody. And so that is where I get a lot of my inspiration and insights from. And I have a product background myself, so I still am very involved in a lot of the key product decisions we make, you know, features, new products and those types of things. And that's really the weekly cadence of a lot of how I spend my time.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "on all the product people in the room here."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I wanna know how or rather what does the CEO of [social media platform] check the first thing in the morning as a part of your daily routine?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "That's a good question. Well, I happen to be a sports nut, so it's probably some sports score from overnight from whatever sport that I'm watching. But I think I would say more generally to kind of expand your question, I really focus on a couple of things in my role. The first, and I think the most exciting part of my job is to get to meet our awesome content creators like you. And just as we were talking about earlier, just understanding your journey, your business, what you're focused on, what your needs are. I always say this, and all the people on my team here will know this, because they've heard it from me a million times, is our content creators know our product and our service better than anybody. And so that is where I get a lot of my inspiration and insights from. And I have a product background myself, so I still am very involved in a lot of the key product decisions we make, you know, features, new products and those types of things. And that's really the weekly cadence of a lot of how I spend my time."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Okay, so you just mentioned about how you've been involved in building the product. How have you seen the creator economy really evolve?"
+      }
+    ],
+    "speakername": "Neal Mohan",
+    "ground_truth": "The creator economy, just in the last decade, has grown at a pace that I couldn't have even imagined. I mean, [name] mentioned the number earlier, but $70 billion paid out to the creator ecosystem over the last three years. Of course, we are an ad supported business. That's a big part. Brands really do want to be in the middle of the connection between all of you and your audiences all over the world. But we have introduced subscription services. So we're an SVOD business as well. And that I think is a big economic opportunity for our creators. And then we want to continue to layer on top of that. So direct to consumer models like fan funding, related options like channel membership, Super Chat, Super Stickers, and a lot of things that we're working on there. And I'm excited about building further on top of that. Many of you I know work with brands and sponsors around branded content, sponsored content. What are the ways that [social media platform] can support that, both in terms of generating demand, but also helping fulfill that demand? And then finally, in an area where I really think [country] will lead is in the area of video commerce and shopping. And so I think the creator economy has grown dramatically in the last nine years, but I think we're just getting started again. I think these new business models will layer on top of the various economic, business opportunities we provide on the platform.",
+    "bio": " The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "You know, you could have asked that same question 10 years ago and look at what's happened to the ecosystem. And I think that 10 years from now, we will all be surprised at how big it's gotten. I mean, I remember when I first started at the video platform in [country], the number of channels that had more than 1 million subs was 11. 11 channels had more than a million subscribers. Today, that number is over 11,000. And that's just."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "in [country]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Just in [country]. And as you know, as I said, this is our largest market. Some of our most successful creators in the world are here. But 11,000 to 11,000 is remarkable. I, even as the eternal optimist on the future of the video platform, would not have been able to predict that. And I imagine that it will only grow from here. And despite that growth, you could call that crowded, look at all the opportunity that's been afforded to all of our creators here. And so I really think that that's the way to think about it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow. So 11,000 content creators with 1 million plus subscribers, and we have the top 100 creators right here. So if anything happens to the room, the creator economy is definitely going to be shaken up."
+      }
+    ],
+    "speakername": "Neal Mohan",
+    "ground_truth": "I was in a meeting earlier and I think one of my colleagues said that there's probably about a billion subscribers worth of audience in here, so no pressure on all of you.",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Just in this region. And as you know, as I said, this is our largest market. Some of our most successful creators in the world are here. But 11,000 to 11,000 is remarkable. I, even as the eternal optimist on the future of our platform, would not have been able to predict that. And I imagine that it will only grow from here. And despite that growth, you could call that crowded, look at all the opportunity that's been afforded to all of our creators here. And so I really think that that's the way to think about it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Wow. So 11,000 content creators with 1 million plus subscribers, and we have the top 100 creators right here. So if anything happens to the room, the creator economy is definitely going to be shaken up."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was in a meeting earlier and I think one of my colleagues said that there's probably about a billion subscribers worth of audience in here, so no pressure on all of you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "With that large number, I want to know what is the platform's overall vision and strategy going forward and where does this region stack up there?"
+      }
+    ],
+    "speakername": "Neal Mohan",
+    "ground_truth": "our mission is to give everyone a voice and show them the world that's really uh when you meet somebody who works at our platform that's what we get up in the morning and that's what we're thinking about uh and so in so my vision and i think that that's sort of the shared vision across our platform is to be the best streaming platform for uh you're creating sharing and watching video whether that's a 15 second short to a 15 minute vod to a 15 hour live stream that is really what we aspire to and everything that we're building and every type of service that we provide to all of you is really oriented around that type of a goal first of all it's the pioneer in terms of lots of trends that might start here that become global many of you do that in terms of new types of creativity and content but this is also a market where we actually bring our products to first so our short-form video feature launched first in this region four years ago was a product that was built for the internet internet is one of the biggest age-old brands that's been in and is usually used this audience in mind and now it has trillions of views thanks to all of you so it's really amazing yeah",
+    "bio": "The speaker's MBTI type is INTJ",
+    "split": "val"
+  }
+]

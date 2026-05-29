@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "It was messy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Messy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "WELL, NOW, I KNOW THAT YOU'VE GOT A CHARITABLE ENDEAVOR, AND YOU'RE ACTUALLY, HOWEVER MUCH HAVOC YOU REAPED WHEN YOU WERE YOUNGER, YOU'RE DOING SOMETHING NICE TO HELP PEOPLE RIGHT NOW. TELL ME ABOUT THE WORK YOU'RE DOING WITH THE VETERANS ORGANIZATIONS."
+      }
+    ],
+    "speakername": "Joe Walsh",
+    "ground_truth": "yeah uh i've always paid attention to the vets and the vet situation and uh my father died in active duty when i was about 20 months old he was a flight instructor and they didn't have it then but now it's called the gold star family or a gold star kid but i grew up always wondering what he would have been like and i spent a lot of time trying to do something that would make him proud of me and uh had some buddies in the war and they either came back shattered or didn't come back and i have noticed in my travels in touring that there besides the big national organizations there are some small county small town vets organizations that are really in the trenches and really doing wonderful work and so i have started a an organization called vets aid and uh i want to help and take it up a notch because",
+    "bio": "[target] (born December 27, 1961) is an American politician, conservative media host, and former social worker who served one term in the national legislature representing a district in a midwestern state. A member of a major political party, [target] is currently making a primary challenge to the incumbent for the party's nomination for President of the United States in the upcoming election. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Messy."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "WELL, NOW, I KNOW THAT YOU'VE GOT A CHARITABLE ENDEAVOR, AND YOU'RE ACTUALLY, HOWEVER MUCH HAVOC YOU REAPED WHEN YOU WERE YOUNGER, YOU'RE DOING SOMETHING NICE TO HELP PEOPLE RIGHT NOW. TELL ME ABOUT THE WORK YOU'RE DOING WITH THE VETERANS ORGANIZATIONS."
+      },
+      {
+        "speaker": "[target]",
+        "text": "yeah uh i've always paid attention to the vets and the vet situation and uh my father died in active duty when i was about 20 months old he was a flight instructor and they didn't have it then but now it's called the gold star family or a gold star kid but i grew up always wondering what he would have been like and i spent a lot of time trying to do something that would make him proud of me and uh had some buddies in the vietnam war and they either came back shattered or didn't come back and i have noticed in my travels in touring that there besides the big national organizations there are some small county small town vets organizations that are really in the trenches and really doing wonderful work and so i have started a an organization called vets aid and uh i want to help and take it up a notch because"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're doing a concert in support of this, aren't you?"
+      }
+    ],
+    "speakername": "Joe Walsh",
+    "ground_truth": "On September 20th, we're going to play in [location], at a venue called the [arena name]. Now, that's not the bank, but that's just. Ron Charles, Jr.: The bank. Ron Charles, Jr.: That's the name of it. Ron Charles, Jr.: That's the name of the place.",
+    "bio": "#[target] (born December 27, 1961) is an American politician, #conservative talk #radiohost, and former social worker who served one term in the national legislature representing a district in [location]. A member of a major political party, [target] is currently making a primary challenge to the incumbent for the party nomination for President of the United States in the #election. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're doing a concert in support of this, aren't you?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "On September 20th, we're going to play in [location], at a venue called the Arena. Now, that's not the bank, but that's just. Ron Charles, Jr.: The bank. Ron Charles, Jr.: That's the name of it. Ron Charles, Jr.: That's the name of the place."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "YOU GUYS COULD SUE, PROBABLY, THOUGH. YEAH. WELL, YEAH. IF IT'S YOU, WHO ELSE IS GOING TO BE IN THE CONCERT?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Thurban."
+      }
+    ],
+    "speakername": "Joe Walsh",
+    "ground_truth": "It's gonna come. The [performer] Band, [performer], and that's a good list of guitar players. And guess what? They're gonna let me play, too.",
+    "bio": "#[target] (born December 27, 1961) is an American politician, #conservative talk #radiohost, and former social worker who served one term in the [legislative body] representing [location] congressional district. A member of the #political party, [target] is currently making a primary challenge to incumbent [politician] for the party nomination for President of the United States in the #election. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And they moved to [location]. And [person]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yes, this is your producer for many years. Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And then you, well, he got you. Isn't it true that he got you into the [band]? No, I got him to produce the [band]."
+      },
+      {
+        "speaker": "[target]",
+        "text": "They were produced by, this is before I was in the band, but they were produced by [person]. One of the great British record producers. It just was not working."
+      }
+    ],
+    "speakername": "Joe Walsh",
+    "ground_truth": "and don and glenn wanted to go a little more r and b they were painting themselves in the corner with the country rock hits yes and they they wanted a rock and roll element to the [band] yeah and they asked me who should produce it and i said",
+    "bio": "#[person] (born December 27, 1961) is an American politician, #conservative talk #radiohost, and former social worker who served one term in the [government institution] representing [location] 8th congressional district. A member of the #[political party], [person] is currently making a primary challenge to incumbent #[person] for the [political party] nomination for President of the United States in the #[year] election. The speaker's MBTI type is ESFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yes, this is your producer for many years. Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And then you, well, he got you. Isn't it true that he got you into the group? No, I got him to produce the group."
+      },
+      {
+        "speaker": "[target]",
+        "text": "They were produced by, this is before I was in the band, but they were produced by a well-known British record producer. It just was not working."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and the band leaders wanted to go a little more r and b they were painting themselves in the corner with the country rock hits yes and they they wanted a rock and roll element to the group yeah and they asked me who should produce it and i said"
+      }
+    ],
+    "speakername": "Joe Walsh",
+    "ground_truth": "without a doubt a specific producer right and he came through they said will you ask him and i called him in that and i said they want you to produce him he said why in the world would i do that and i said trust me on this yeah really you need to produce them good yeah and then but you you weren't in the band no no but that theme",
+    "bio": "The individual (born December 27, 1961) is an American politician, conservative media personality, and former social worker who served one term in the national legislature representing a district in a midwestern state. A member of a major political party, the individual is currently making a primary challenge to the incumbent for the party's nomination for national leadership in an upcoming election. The speaker's MBTI type is ESFJ",
+    "split": "val"
+  }
+]

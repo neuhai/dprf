@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Mm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "but enough time to get, he knew what I could do and what I couldn't do. He exposed me to this little 75-person approximately management company and $145 million in assets when I walked in the door."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And it was probably the, let me say, the seventh largest firm in the business."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Mm."
+      }
+    ],
+    "speakername": "John C. Jack Bogle",
+    "ground_truth": "and the largest balance fund. That was our stock and trade. All we offered was the balance fund in those days. But those were great times, happy times. He was an extraordinary man, a pillar of integrity.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Mm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and the largest balance fund. That was our stock and trade. All we offered was the balance fund in those days. But those were great times, happy times. He was an extraordinary man, a pillar of integrity."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Very much a renaissance man."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      }
+    ],
+    "speakername": "John C. Jack Bogle",
+    "ground_truth": "He was interested in all aspects of the business. He was also an outdoorsman. He went hunting and fishing and all those kind of things. You just couldn't have found a more thoughtful, well, man who lived a great life. So I was glad to be a little part of it.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Very much a renaissance man."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He was interested in all aspects of the business. He was also an outdoorsman. He went hunting and fishing and all those kind of things. You just couldn't have found a more thoughtful, well, man who lived a great life. So I was glad to be a little part of it."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Now, in 1960, you published an article under the pen name [target], and this was perhaps the beginning of your thoughts regarding indexation. Can you talk a bit about that?"
+      }
+    ],
+    "speakername": "John C. Jack Bogle",
+    "ground_truth": "Yeah, actually, the beginning of my thoughts go all the way back to the thesis. Sure. And I do explain why the index and how it works.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "He was interested in all aspects of the business. He was also an outdoorsman. He went hunting and fishing and all those kind of things. You just couldn't have found a more thoughtful, well, man who lived a great life. So I was glad to be a little part of it."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "text": "Now, in 1960, you published an article under the pen name John Armstrong, and this was perhaps the beginning of your thoughts regarding indexation. Can you talk a bit about that?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, actually, the beginning of my thoughts go all the way back to the thesis. Sure. And I do explain why the index and how it works."
+      }
+    ],
+    "speakername": "John C. Jack Bogle",
+    "ground_truth": "When I say that mutual funds can make no claim to superiority, it's a little superficial. We didn't have the kind of database we have today, probably just as well.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Mm."
+      },
+      {
+        "speaker": "[target]",
+        "text": "in an industry which is playing everything down the middle and no they're not winning by anything because they have costs and we didn't have a big performance race but it was a kind of a slow-moving conservative industry and if you put your money into a mutual fund by and large you are not going to get hurt"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And then we have, and that's when I wrote the article."
+      }
+    ],
+    "speakername": "John C. Jack Bogle",
+    "ground_truth": "The math didn't work, and then I did comparisons. The funds had actually done better than the market index, and better, I think, than another major index. I did have a couple of other data points, and then everything changes.",
+    "bio": "This is [target]. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, sure."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Let's just start with the super basic. Before you go take on the Democrats in November, you have to get past Matt McCaul. Why should somebody vote for you over Matt McCaul?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "When voters look, they see a candidate that has a very strong proven track record who's been in the trenches fighting alongside conservatives they trust to represent them in the capital versus somebody who doesn't. And I think that's the basic. We don't have any time to get this wrong. We got to get this right."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your supporters have also brought [Political Figure] into the race, comparing Matt McCaul somewhat to [Political Figure]. Do you share those views, or is that just your supporters' opinion?"
+      }
+    ],
+    "speakername": "Chip Roy",
+    "ground_truth": "Well, you know, as you know, there's a lot of different groups that comment on races from outside, and I'm not legally allowed to engage with most of those groups. We're staying focused on a positive election. We're staying focused on putting out my narrative, what I stand for, what I believe, my track record of experience in standing up and fighting for border security, standing up and fighting to reduce spending, standing up to stop a gun registry bill in 2013, and doing what people know that I will do if I get to the capital, which is fight for them. They don't have to wonder whether I'll stand up to the powers that be, to the administrative center, if you want to use the president's vernacular. And, you know, what outside groups do is what outside groups do.",
+    "bio": "The representative (born August 7, 1972) is an American attorney and politician serving as the U.S. representative for a congressional district in a southern state. A member of the Republican Party, the representative took office on January 3, 2019. Before election to Congress, served as chief of staff to a Senator and as first assistant attorney general of the state. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "When voters look, they see a candidate that has a very strong proven track record who's been in the trenches fighting alongside conservatives they trust to represent them in the capital versus somebody who doesn't. And I think that's the basic. We don't have any time to get this wrong. We got to get this right."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Your supporters have also brought [senior political figure] into the race, comparing [opponent] somewhat to [senior political figure]. Do you share those views, or is that just your supporters' opinion?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, as you know, there's a lot of different groups that comment on races from outside, and I'm not legally allowed to engage with most of those groups. We're staying focused on a positive election. We're staying focused on putting out my narrative, what I stand for, what I believe, my track record of experience in standing up and fighting for border security, standing up and fighting to reduce spending, standing up to stop a gun registry bill in 2013, and doing what people know that I will do if I get to the capital, which is fight for them. They don't have to wonder whether I'll stand up to the powers that be, to the establishment, if you want to use the president's vernacular. And, you know, what outside groups do is what outside groups do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Would you compare him to [senior political figure]?"
+      }
+    ],
+    "speakername": "Chip Roy",
+    "ground_truth": "Well, I don't think that that's a relevant conversation with respect to what I'm doing and focusing on my campaign. What other groups are doing is saying outside that's what they're doing. You know, and I think some groups are focusing, I think, rightly on which candidate can win. And I think if you look at the core of what those groups are focusing on, in particular the ad you're referring to, they're trying to see which candidate can win. Is it a candidate who has run twice and lost as sort of a professional candidate, or is it a candidate who has been standing up for the people of the state with a proven track record as a conservative and that's what they've got in [target]?",
+    "bio": "The subject (born August 7, 1972) is an American attorney and politician serving as the U.S. representative for a congressional district in a southern state. A member of the Republican Party, the representative took office on January 3, 2019. Before election to Congress, they served as chief of staff to a Senator and as first assistant attorney general of their state. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I still haven't seen the articles of impeachment. I'd like to see those this week. They're going to the committee on Wednesday. I think they're going to call some witnesses, a few constitutional scholars or something along those lines. So I'll listen to what they have to say at the committee, see what articles of impeachment they put out, and then I'll have something to say publicly about it because I think it's important to look at it and see what they put forward in the articles of impeachment. But, look, it's a political process. The Democrats have been trying to get rid of the president for a long time. They've been seeking to do this. I think we've got a fairly weak showing so far in terms of what I've seen from witnesses that have come forward. But I'm going to wait for a little bit longer to see the articles of impeachment before I come out fully."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Homelessness, you've been real vocal about homeless issues, particularly in this region and in this area. What is your assessment of how the city and the state have responded to some of these issues with people experiencing homelessness?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, this is coming off the Thanksgiving weekend, heading into the Christmas holidays. We want to make sure that anybody who doesn't have a home has a chance to have a home. I think you best do that by getting the prices of housing down, make housing affordable. But make sure that we've got the kinds of places set up where people can go help people. We've got so many generous people in this region who want to help those in need. Free that up. Let that happen. But creating tent cities harms the city, harms those involved. And I don't think there's many people in the city who believe it's a good idea other than the city council. I've basically run into nobody when I talk to people in the city who think that's a good plan. I think the state and the governor has done a great job trying to step in to deal with the problem. Producing the land, five acres or whatever it is, up off the highway. And I think that's a good step. We ought to continue to figure out how to solve the problem. But you do it best by driving down the prices and encouraging the ability for the nonprofit sector and the caring people of this community to step forward."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to ask you about border security. It's something that you have talked a lot about. Why is it important for you to keep the spotlight on border issues right now?"
+      }
+    ],
+    "speakername": "Chip Roy",
+    "ground_truth": "Well, at the moment right now where people say, well, gosh, the numbers are down a little bit from where they were earlier this year, the numbers are still pretty high, and we should remember that. And we should remember that cartels have operational control of our border, and that's something that we, the greatest and freest nation in the world, should never allow. They're abusing migrants on the journey coming here, and that's unconscionable that we let that happen. So I introduced legislation calling on our State Department to designate cartels as foreign terrorist organizations. I think we should treat them as those. They're moving dangerous fentanyl, dangerous heroin, dangerous cocaine. They're targeting Americans in the border region. They're targeting law enforcement. They're targeting local politicians. They've killed 200,000-some-odd people over the last decade. It's completely ridiculous that we're allowing that to happen in our backyard. So we should deal with it, deal with it immediately, and guess what? Create a vibrant Western hemisphere to compete against China. Have free flow of goods and services. And you know what would help do that? If Democrats would stop playing politics and would pass the trade agreement instead of sitting on their laurels and not doing their job.",
+    "bio": "The representative (born August 7, 1972) is an American attorney and politician serving as the U.S. representative for a congressional district in their state. A member of the Republican Party, the representative took office on January 3, 2019. Before election to Congress, they served as chief of staff to a Senator and as first assistant attorney general of their state. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, first of all, this is coming off the Thanksgiving weekend, heading into the Christmas holidays. We want to make sure that anybody who doesn't have a home has a chance to have a home. I think you best do that by getting the prices of housing down, make housing affordable. But make sure that we've got the kinds of places set up where people can go help people. We've got so many generous people in Austin, Texas who want to help those in need. Free that up. Let that happen. But creating tent cities harms the city, harms those involved. And I don't think there's many people in the city who believe it's a good idea other than the city council. I've basically run into nobody when I talk to people in the city who think that's a good plan. I think the state and the governor has done a great job trying to step in to deal with the problem. Producing the land, five acres or whatever it is, up off 183. And I think that's a good step. We ought to continue to figure out how to solve the problem. But you do it best by driving down the prices and encouraging the ability for the nonprofit sector and the caring people of this community to step forward."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I want to ask you about border security. It's something that you have talked a lot about. Why is it important for you to keep the spotlight on border issues right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, at the moment right now where people say, well, gosh, the numbers are down a little bit from where they were earlier this year, the numbers are still pretty high, and we should remember that. And we should remember that cartels have operational control of our border, and that's something that we, the greatest and freest nation in the world, should never allow. They're abusing migrants on the journey coming here, and that's unconscionable that we let that happen. So I introduced legislation calling on our State Department to designate cartels as foreign terrorist organizations. I think we should treat them as those. They're moving dangerous fentanyl, dangerous heroin, dangerous cocaine. They're targeting Americans in Mexico and Americans in the Rio Grande Valley. They're targeting Mexican police. They're targeting Mexican politicians. They've killed 200,000-some-odd people over the last decade. It's completely ridiculous that we're allowing that to happen in our backyard. So we should deal with it, deal with it immediately, and guess what? Create a vibrant Western hemisphere to compete against China. Have free flow of goods and services. And you know what would help do that? If Democrats would stop playing politics and would pass the USMCA instead of sitting on their laurels and not doing their job."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Something that we've seen a lot of in terms of, you know, the polling of constituents is that, you know, Republicans tend to prioritize the immigration and the border security and Democrats prioritizing education and health care. Of course, there's some spillover, but, you know, your district is split among Republicans and Democrats. How do you balance those priorities and what are you hearing from constituents right now?"
+      }
+    ],
+    "speakername": "Chip Roy",
+    "ground_truth": "Well, the whole nation has a lot of Democrats and Republicans, whether it's California or Texas or Texas 21. We've got a very conservative district here who believes in personal responsibility and self-reliance and creating wealth and opportunity. A thousand people a day move to Texas, and a big chunk of those are moving to central Texas. We're concerned about all the issues. We're concerned about health care. We're concerned about education. I happen to believe education is better accomplished right here in Austin, Texas, right here in Texas. I believe that, you know, look, we put a man on the moon in 1969, a full decade before the Department of Education was ever created in 1979. We're fully capable of doing that here in Texas. We're the 10th biggest economy in the world. We can take care of that problem. Border security is a fundamentally federal issue. It's their job to deal with immigration and border security. So we should do it, and we should do it in a way that creates the free flow of goods and services across the border that benefits Texas 21 and the state of Texas and the whole country, but does so without worrying about dangerous terrorists coming across the border. Or cartels harming the people in this community, San Antonio, or throughout the state of Texas. We can do all of those things. We just need to do our job instead of playing politics in D.C. where the swamp keeps being the swamp.",
+    "bio": "Charles Eugene \\\"Chip\\\" Roy (born August 7, 1972) is an American attorney and politician serving as the U.S. representative for Texas' 21st congressional district. A member of the Republican Party, Roy took office on January 3, 2019. Before his election to Congress, he served as chief of staff to Senator Ted Cruz and as first assistant attorney general of Texas. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, at the moment right now where people say, well, gosh, the numbers are down a little bit from where they were earlier this year, the numbers are still pretty high, and we should remember that. And we should remember that cartels have operational control of our border, and that's something that we, the greatest and freest nation in the world, should never allow. They're abusing migrants on the journey coming here, and that's unconscionable that we let that happen. So I introduced legislation calling on our State Department to designate cartels as foreign terrorist organizations. I think we should treat them as those. They're moving dangerous fentanyl, dangerous heroin, dangerous cocaine. They're targeting Americans in Mexico and Americans in the Rio Grande Valley. They're targeting Mexican police. They're targeting Mexican politicians. They've killed 200,000-some-odd people over the last decade. It's completely ridiculous that we're allowing that to happen in our backyard. So we should deal with it, deal with it immediately, and guess what? Create a vibrant Western hemisphere to compete against China. Have free flow of goods and services. And you know what would help do that? If Democrats would stop playing politics and would pass the USMCA instead of sitting on their laurels and not doing their job."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Something that we've seen a lot of in terms of, you know, the polling of constituents is that, you know, Republicans tend to prioritize the immigration and the border security and Democrats prioritizing education and health care. Of course, there's some spillover, but, you know, your district is split among Republicans and Democrats. How do you balance those priorities and what are you hearing from constituents right now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the whole nation has a lot of Democrats and Republicans, whether it's California or Texas or Texas 21. We've got a very conservative district here who believes in personal responsibility and self-reliance and creating wealth and opportunity. A thousand people a day move to Texas, and a big chunk of those are moving to central Texas. We're concerned about all the issues. We're concerned about health care. We're concerned about education. I happen to believe education is better accomplished right here in Austin, Texas, right here in Texas. I believe that, you know, look, we put a man on the moon in 1969, a full decade before the Department of Education was ever created in 1979. We're fully capable of doing that here in Texas. We're the 10th biggest economy in the world. We can take care of that problem. Border security is a fundamentally federal issue. It's their job to deal with immigration and border security. So we should do it, and we should do it in a way that creates the free flow of goods and services across the border that benefits Texas 21 and the state of Texas and the whole country, but does so without worrying about dangerous terrorists coming across the border. Or cartels harming the people in this community, San Antonio, or throughout the state of Texas. We can do all of those things. We just need to do our job instead of playing politics in D.C. where the swamp keeps being the swamp."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You know, we've seen some IRS data that's indicating that Americans have cut charitable deductions by like several billion dollars. Any thoughts on what might be impacting folks' charitable giving? I mean, is it like stock market uncertainty maybe? Or the tax code overhaul from last year to the year before? Any thoughts on what might be attributing to that?"
+      }
+    ],
+    "speakername": "Chip Roy",
+    "ground_truth": "I haven't studied the current state of charitable giving and where it stands historically. I know I did some research on this when I was in school about looking at charitable giving over time. And what you see is a strong correlation to people of faith who tithe and give a standard amount of giving over time. And I think what you see is, you know, we saw about $100 million being donated by I think Bezos the last week. You see a decent amount of charity that's flowing in the state of Texas on a regular basis in the wake of Hurricane Harvey and so forth. Mattress Mac opened up his stores and let people sleep in his rooms. And look, there is no end to what the good-hearted people of Texas and around the country will do when they're given the opportunity. I think if you want to see charitable giving go up, stop putting so many demands and constraints on the American people. Free them up to do what they do best. Create jobs, create opportunity, and use their hearts and their dollars to go help others.",
+    "bio": "Charles Eugene \\\"Chip\\\" Roy (born August 7, 1972) is an American attorney and politician serving as the U.S. representative for Texas' 21st congressional district. A member of the Republican Party, Roy took office on January 3, 2019. Before his election to Congress, he served as chief of staff to Senator Ted Cruz and as first assistant attorney general of Texas. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

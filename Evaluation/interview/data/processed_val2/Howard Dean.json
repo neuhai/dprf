@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, it turned out to be a great idea."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know, there was,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "fairly high risk on the part of the president. I thought it paid off. He clearly had command of the facts. He was able to debunk some of the Republican myths. And I think he was able to show that there really was common ground between the Republicans and the Democrats, which means essentially by implication that the Republicans just weren't interested in having a bill. Now, having said that, I don't think the Republicans did badly either. I think the Republicans in the room did well. The problem with the Republicans was that their people out of the room were giving interviews that were sort of whacking the heart and talking to hard-nosed talking points and all this stuff. So it was they for once, which is unusual for them."
+      }
+    ],
+    "speakername": "Howard Dean",
+    "ground_truth": "and we're not on message of the president of course was that's that's interesting because outside [redacted] and a couple of others if they did seem to engage in policy to some degree you know there wasn't a lot of i think that's right i think that's",
+    "bio": "The target is an American physician, author, and retired politician who served as governor of a northeastern state from 1991 to 2003 and Chair of a major political party committee from 2005 to 2009 and works as a political consultant and commentator. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "you know, there was,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "fairly high risk on the part of the president. I thought it paid off. He clearly had command of the facts. He was able to debunk some of the Republican myths. And I think he was able to show that there really was common ground between the Republicans and the Democrats, which means essentially by implication that the Republicans just weren't interested in having a bill. Now, having said that, I don't think the Republicans did badly either. I think the Republicans in the room did well. The problem with the Republicans was that their people out of the room were giving interviews that were sort of whacking the heart and talking to hard-nosed talking points and all this stuff. So it was they for once, which is unusual for them."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and we're not on message of the president of course was that's that's interesting because outside john bainer and a couple of others if they did seem to engage in policy to some degree you know there wasn't a lot of i think that's right i think that's"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "right so and that was refreshing so i agree and i think it turned out pretty well all things considered but you know there's a downside possible downside of that common ground idea that you were just talking about the republicans come out and say hey listen will look at all these things we agree on so why don't we only do things that we agree on"
+      }
+    ],
+    "speakername": "Howard Dean",
+    "ground_truth": "Well, because politics is the art of compromise, and if you only do what the Republicans want to do, then you don't have health care reform. So you have to do the idea is to do some things the Republicans want to do and some things the Democrats want to do. I have a wonderful compromise suggestion. Get rid of the mandate. You don't really need it. And use and expand Medicare to those over 55 so you can have some people get immediately into the plan as soon as the president signs it. You can do that through reconciliation. The Republicans have made a huge step forward by getting rid of the mandate. The Democrats have made a huge step forward by having a form of a public option, which is what their base really wants.",
+    "bio": "A physician, author, and retired politician who served as governor of a northeastern state from 1991 to 2003 and Chair of a major political party committee from 2005 to 2009 and works as a political consultant and commentator. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "alright you were always excited uh... right uh... all right so we had a health care summit last seven and a half hours uh... need to get something positive out of it do you think it was a good idea by then"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, it turned out to be a great idea."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you know, there was,"
+      }
+    ],
+    "speakername": "Howard Dean",
+    "ground_truth": "fairly high risk on the part of the president. I thought it paid off. He clearly had command of the facts. He was able to debunk some of the myths. And I think he was able to show that there really was common ground between the two parties, which means essentially by implication that one side just wasn't interested in having a bill. Now, having said that, I don't think the opposition did badly either. I think their representatives in the room did well. The problem was that their people out of the room were giving interviews that were sort of whacking the heart and talking to hard-nosed talking points and all this stuff. So it was they for once, which is unusual for them.",
+    "bio": "The target is an American physician, author, and retired politician who served as state governor from 1991 to 2003 and Chair of a major national party committee from 2005 to 2009 and works as a political consultant and commentator. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "That was Senator Clinton's position during the campaign. The president didn't agree with it at that time. The president was right the first time. Here's how I know this stuff. We've done almost everything in the bill, and the truth is, in Vermont, 16 years ago when we did all this, we did it much better than what's in the bill now. And one of the things we did in the bill was eliminate the ability of insurance companies to turn anyone down for any reason other than nonpayment of premium. And we let them charge 20% more than their cheapest patient, which the Senate lets them charge three times as much as their cheapest patient. And we've had this system in place for 16 years. There's no mandate. It's true that we still have an uninsured rate of about 9.5%, which is actually low compared to most states. But we also have a vibrant insurance market, and so it really doesn't hurt the insurance market. So from kind of an intellectual point of view, you'd like a mandate, but you don't have to have one. You have to make the system work. And the mandate is not popular with anybody, because no American would like to be told what to do by the government."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "it you know that of course that's it interesting point and not you have got that people agree with you on the left and the right but is any of this realistic given that uh... uh... president obama did not even have a public option let alone a medicare buying in his proposal on monday"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, but the House does have a public option, and Medicare buy-in almost passes Senate. Had it been not for Joe Lieberman, there would have been 59 votes for a Medicare buy-in. Medicare buy-in is what you really need from a political point of view, because in order to make this thing work and not have bad political consequences for the Democrats, you've got to have a significant number of people be able to get insurance after the bill is signed, not in 2013. And Medicare and Medicaid expansion is the only way to do that, because it's the existing system."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you know it's when i brought up medicare buy-in with some uh... folks in the senate uh... one of their concerns was that you're gonna have uh... the sick uh... by in first okay because they're gonna wanna government protection right uh... whether whether they're pre-existing condition is set aside and a young and a healthy are going to still stick with private insurance and so you can get a weeded out and then the medicare buy-in that is going to be more costly do you think that's a a real concern there no uh... i'll tell you why that again"
+      }
+    ],
+    "speakername": "Howard Dean",
+    "ground_truth": "You're getting, the senators are thinking like insurance company executives. If you look at, you have to look at the overall amount of money that we spend on health care and whether it's going to be better controlled with a Medicare buy-in or not. And the answer is yes. Right now, let's just suppose they're right. And the people who take advantage of the Medicare buy-in are people with extra health needs. First of all, they're under 55, so in general their extra health needs are already less than the over-65 population. Secondly, those people are being paid for anyway. They're being paid for very inefficiently by going to emergency rooms, by getting community care often paid for by the taxpayers. So if you look at the whole system, the Medicare buy-in makes a lot of sense, even though it may have a situation where people who are sicker get it. It may skew the population. In the overall scheme of things, A, you get those people into insurance. Many of them are over 55 and can't get insurance because they don't have jobs and can't get jobs because the employers don't want to give them insurance. And B, they rationalize a system which is totally irrational now that is there in an organized system of health care.",
+    "bio": "Howard Brush Dean III is an American physician, author, and retired politician who served as Governor of Vermont from 1991 to 2003 and Chair of the Democratic National Committee from 2005 to 2009 and works as a political consultant and commentator. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, but the House does have a public option, and Medicare buy-in almost passes Senate. Had it been not for Joe Lieberman, there would have been 59 votes for a Medicare buy-in. Medicare buy-in is what you really need from a political point of view, because in order to make this thing work and not have bad political consequences for the Democrats, you've got to have a significant number of people be able to get insurance after the bill is signed, not in 2013. And Medicare and Medicaid expansion is the only way to do that, because it's the existing system."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you know it's when i brought up medicare buy-in with some uh... folks in the senate uh... one of their concerns was that you're gonna have uh... the sick uh... by in first okay because they're gonna wanna government protection right uh... whether whether they're pre-existing condition is set aside and a young and a healthy are going to still stick with private insurance and so you can get a weeded out and then the medicare buy-in that is going to be more costly do you think that's a a real concern there no uh... i'll tell you why that again"
+      },
+      {
+        "speaker": "[target]",
+        "text": "You're getting, the senators are thinking like insurance company executives. If you look at, you have to look at the overall amount of money that we spend on health care and whether it's going to be better controlled with a Medicare buy-in or not. And the answer is yes. Right now, let's just suppose they're right. And the people who take advantage of the Medicare buy-in are people with extra health needs. First of all, they're under 55, so in general their extra health needs are already less than the over-65 population. Secondly, those people are being paid for anyway. They're being paid for very inefficiently by going to emergency rooms, by getting community care often paid for by the taxpayers. So if you look at the whole system, the Medicare buy-in makes a lot of sense, even though it may have a situation where people who are sicker get it. It may skew the population. In the overall scheme of things, A, you get those people into insurance. Many of them are over 55 and can't get insurance because they don't have jobs and can't get jobs because the employers don't want to give them insurance. And B, they rationalize a system which is totally irrational now that is there in an organized system of health care."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "right now you might you're almost certainly right about the overall cost of the system because a lot of those people if they don't have insurance one of the emergency room adding the cost a set of what i guess one of my concerns is that the price of the premiums because the medicare buying we would have to by into it and pay a premium wouldn't those premiums obviously be not necessarily obviously but would they be higher uh... than the private insurance premiums which could just select a the healthier uh... people that are between fifty five sixty five probably not for two reasons"
+      }
+    ],
+    "speakername": "Howard Dean",
+    "ground_truth": "First of all, people, they could be higher for higher-income people, but remember, if you offered this through the exchange, which is the right way to do it, the cost would be subsidized for people who are of less means, so they wouldn't be higher than anybody else's. Secondly, private insurance is incredibly inefficient. In the individual market, about 27% of every dollar goes to these huge CEO salaries that we heard about this week, anthem, testimony, advertising, corporate jets, and mostly return on equity to the shareholders. Well, Medicare doesn't have to pay for any of that. So Medicare is much, much more efficient than the private sector. That's just a fact. Now, Medicare certainly has its problems. It's not perfectly run, but their overhead is 4% instead of 27%, so it's unlikely. This is why the private health insurance system hates any kind of public option so much. It's unlikely that they could compete in their present business mode, which takes a ton of money out of people's pockets and puts it in their own pockets.",
+    "bio": "Howard Brush Dean III is an American physician, author, and retired politician who served as Governor of Vermont from 1991 to 2003 and Chair of the Democratic National Committee from 2005 to 2009 and works as a political consultant and commentator. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

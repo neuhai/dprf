@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What was it like growing up and spending time outside of the United States and particularly in Iran?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I was born in Iran."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And everybody always says, well, why on earth were you born in Iran? And other than the fact that my parents were there, which is the obvious reason, the story is a little complicated, but I guess it boils down to this. My father, who was a physician, and I had, after finishing his residency, joined the Army. And after a couple years in the Army, he was looking for a job at a major academic teaching institution in the United States. He wanted to do research in his specialty of pathology and genetics. And he could not find a job comparable to his white counterparts. And so he and my mom, who, let's say, very interested in doing things outside their comfort zone, decided to look for job opportunities outside of the United States. And my father landed a job offer at the Namazi Hospital, which was a brand new hospital, hadn't even opened up yet, in Shiraz, Iran, chairing the Department of Pathology. So a job that was not available to him. And he was living in his own country. And so he and my mom picked up and went halfway across the world. And I was the second baby born in the Namazi Hospital. They practiced on some other baby firsts. I can't tell you how that went, but it went okay with me. And we lived there until I was five. And from there, my father started doing research in Iran. And it caught the attention of some folks at the Galton Labs at University College of London. And my parents were beginning to think it was time to start going back home. My mom was there. My father was there. My mother was there. She was homesick for her family. And I think they both missed the United States. And they thought, well, why not take advantage of this job offer to go to the Galton Labs for a year? So off he went there. And from there, he started doing research again. And his research got the attention at some international conference of the dean of the University of Chicago Medical Center. And so he landed a tenured track physician in my mother's hometown in the same neighborhood where my grandmother and her other daughter and our whole extended family lived. And my father used to always say to me growing up that sometimes the shortest distance to where you really want to go means you better be prepared to take the long way around. And they sure did take that long way around. And that's where we lived. But for me, coming to the United States was like going to a foreign country. And I was already kind of shaken up going to London. And then here, my parents are so excited about going back home. But it wasn't familiar to me. And thank goodness I have this large extended family that you know so well. Very, yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "that made me, in short order, feel like it was home. But I will say this, and I say this to people who have, at some point in their life, felt like the other, the only, that when I was plopped out of this public school in my neighborhood, and I had a British accent, it only takes one year to develop a British accent, and I'm speaking Farsi, French, and English, and I got red hair, and freckles, and light skin, and I was two years ahead of myself in school. Well, I used to get beat up every day, every single day, for any one of those reasons, and so what did I do? I stopped speaking Farsi, I lost that British accent the first week, and I stopped telling my story about being born in Iran. And the first, I would say, 20 plus years of my life, no one had heard of Iran, and then after President Carter went through the hostage crisis, everyone had heard of Iran, and it kind of went downhill from there to today. And so, for a long time, I just shied away from"
+      }
+    ],
+    "speakername": "Valerie Jarrett",
+    "ground_truth": "You talk about we're going to have a coalition that will do that. The President Obama set a deadline for President Ahmadinejad of Iran at the end of 2009. We're now about a quarter of the way through 2010, still no major international cooperation putting pressure on Iran. You know a little bit about Iranian culture. Don't you think that this in some ways conveys weakness or the inability to rally international support?",
+    "bio": "Valerie June Jarrett (nÃ©e Bowman; born November 14, 1956) is an American businesswoman and former government official. She served as the senior advisor to U.S. President Barack Obama and assistant to the president for public engagement and intergovernmental affairs from 2009 to 2017. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "When are we going to see sanctions in the international organization?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, we'll see. As I said, we have a START treaty. That's good progress. We have a number of countries, 44 countries, coming to our nation at the request of the president to focus on nuclear proliferation. And as we begin to forge those relations and relationships and they strengthen, that will enable us to put the pressure we believe is necessary on Iran."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "OK, turning to the president's big achievement of the last week, health care reform. Let me show you some numbers from today's national newspaper that indicates that 50 percent of the American people oppose this new law. Forty six percent support it. Those can't be numbers that you're happy about for the president's major domestic legislation."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, look, the fact of the matter is this has been a long and challenging process. There's been a lot of negative rhetoric that we've heard around the country. But what we are sure of is that as the American people begin to understand what's in this package, when they begin to see the benefits, when small businesses are able to take tax deductions and hire new employees as opposed to having to struggle to make ends meet, as mothers who have children with preexisting conditions are now going to be covered and not be discriminated against by their insurance companies, as we begin to put in more practices so that the premium costs don't escalate and the out-of-pocket costs come down, not to mention the enormous way that we're going to bring down the national deficit as a result of health care reform, we are confident that the American people will support this. It's good for them. As you go around and you start talking about the individual components of this bill, we're seeing overwhelming support."
+      }
+    ],
+    "speakername": "Valerie Jarrett",
+    "ground_truth": "Let me show you some other numbers, because in recent days, some companies have announced they're going to have to take significant write-downs because of the new health care law, specifically the change in what companies can deduct because of the Medicare prescription drug benefit. Major telecommunications company says they're going to have to take down a write-down of a billion dollars. Agricultural equipment company, $150 million. Construction equipment manufacturer, $100 million. Industrial corporation, up to $90 million. Steel producer, $31 million. Are you concerned at all about the impact this could have on job creation?",
+    "bio": "Born November 14, 1956, the target is a businesswoman and former government official. They served as the senior advisor to the president and assistant to the president for public engagement and intergovernmental affairs from 2009 to 2017. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Let me show you some other numbers, because in recent days, some companies have announced they're going to have to take significant write-downs because of the new health care law, specifically the change in what companies can deduct because of the Medicare prescription drug benefit. AT&T says they're going to have to take down a write-down of a billion dollars. Deere and Company, $150 million. Caterpillar, $100 million. 3M, up to $90 million. AK Steel, $31 million. Are you concerned at all about the impact this could have on job creation?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, and let me tell you why, and I'm glad that you brought it up. First of all, what they are going to have to write off is nothing compared to the enormous financial benefits to those very same companies by health insurance reform. It will bring down their costs substantially. The Congressional Budget Office has said that, as well as independent consultants that have been hired by the same companies that you just mentioned. But let's talk about what that is exactly. Companies are allowed to deduct the amount that they spend on prescription drugs. So if you spend $100, a company does, they're allowed to deduct it. In 2003, Congress passed a law that said we were going to provide a subsidy to those very same companies, $0.28 on a dollar, for every dollar that they spend. But we still allow them to deduct the entire dollar. And so what we're saying now is that you're not going to be able to both take the $0.28 subsidy from the federal government and deduct the entire amount. And so I think it's fair, and I think if you look at the other ways that they're helping business, there's going to be a $5 billion pool for reinsurance. We're taking a number of measures that will dramatically reduce the cost of business. So on balance, business will come out way ahead. And that was one of the president's objectives. And a final point on this is we had many conversations with the Business Roundtable, a group that represents the 200 largest companies in the country. They said, look, would you mind if you, could you push it back another year so that the effective date is in 2013, not 12? And we did that. But keep in mind, I mean, where I come from, a billion dollars is still a lot of money. But the fact of the matter is AT&T is, that's the amount that's calculated that they would pay beginning in 2013 over a 30-year period."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay, this is a very large and bold and wide-reaching piece of legislation, and obviously CBO, the Congressional Budget Office, and others can predict what's going to happen, but we don't really know what's going to happen. Is the president willing to go back and fine-tune or change parts of the legislation if there are side effects, if there are things that don't work out the way we want them to work out?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, look, let's try what we've put in place. As a past practice, the Congressional Budget Office tends to be very conservative, and usually the cost savings are even greater. But as with any big piece of legislation, down the line, if we want to make refinements and be flexible, of course. But I think a lot of hard work has gone into this plan. It's been an arduous process. The president has listened to all voices. We have made numerous improvements to the plan as a result of that process. Now let's let it work."
+      }
+    ],
+    "speakername": "Valerie Jarrett",
+    "ground_truth": "In the wake of the health care reform legislation, there have been threats of violence and some acts of violence against members of Congress. And in this fund-raising solicitation I want to ask you about, this is from the president's political arm, Organizing for America, used to be Obama for America. Mitch Stewart, the director, writes, in this fund-raising solicitation, a conservative blogger posted the home address of Congressman Tom Perriello urging Tea Partiers to drop by. Other members have had death threats. Democratic offices have been vandalized. Please chip in $5 or more to defend health reform and those in Congress who fought to make it possible. Obviously, those threats and the acts of violence should be condemned. They're not appropriate. But is it appropriate for Democrats to try to raise money off of those threats?",
+    "bio": "Valerie June Jarrett (nÃ©e Bowman; born November 14, 1956) is an American businesswoman and former government official. She served as the senior advisor to U.S. President Barack Obama and assistant to the president for public engagement and intergovernmental affairs from 2009 to 2017. The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, look, let's try what we've put in place. As a past practice, the federal budget office tends to be very conservative, and usually the cost savings are even greater. But as with any big piece of legislation, down the line, if we want to make refinements and be flexible, of course. But I think a lot of hard work has gone into this plan. It's been an arduous process. The president has listened to all voices. We have made numerous improvements to the plan as a result of that process. Now let's let it work."
+      },
+      {
+        "speaker": "[target]",
+        "text": "In the wake of the health care reform legislation, there have been threats of violence and some acts of violence against members of Congress. And in this fund-raising solicitation I want to ask you about, this is from the president's political arm, a national organizing group. The director writes, in this fund-raising solicitation, a conservative blogger posted the home address of a Congressman urging protesters to drop by. Other members have had death threats. Democratic offices have been vandalized. Please chip in $5 or more to defend health reform and those in Congress who fought to make it possible. Obviously, those threats and the acts of violence should be condemned. They're not appropriate. But is it appropriate for Democrats to try to raise money off of those threats?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Look, let's go back to the threats for the second. I think that what's great about our country is that we're able to have an open and free debate about issues and ideas. And then once a decision is made, we always come together and move forward. And what the president is interested in doing is moving forward. This is a major accomplishment. Right."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But what about trying to raise money off of the threats? Is that appropriate?"
+      }
+    ],
+    "speakername": "Valerie Jarrett",
+    "ground_truth": "You know, I can't comment on what the political arms are doing. What I can tell you is where the president is, and what the president is interested in doing is moving forward with our next challenge. Health care was a huge accomplishment, but we still have many challenges ahead of us. We signed a jobs bill last week. That's really important to provide tax credits to small business. We now have the president will be signing, as a result of the reconciliation bill for health care and education, providing help for kids to go to college. We want to increase the number of children who are able to graduate from college and funds for.",
+    "bio": "A prominent American businesswoman and former government official. Born November 14, 1956, she served as senior advisor to the president and assistant to the president for public engagement and intergovernmental affairs from 2009 to 2017. The speaker's MBTI type is ENTJ",
+    "highlights": [],
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How would you advise those who have the voice but are just deathly afraid of the unknown?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, one of the things that I've been doing is I've been doing this for a long time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "of the things that motivate"
+      },
+      {
+        "speaker": "[target]",
+        "text": "me to act on it was I was miserable so there's nothing like being very miserable in fact I often think well what if I had been just like a little miserable"
+      }
+    ],
+    "speakername": "Valerie Jarrett",
+    "ground_truth": "might i have stayed in either the marriage or in the um in the law firm so i was good and miserable and i think it was my friend pushing me and we all need a nudge sometimes and so but you that means you have to open up and tell your friends how you feel and your family how you feel you can't just pretend like i've got this and everything is perfect if inside of you",
+    "bio": "The subject (born November 14, 1956) is an American businesswoman and former government official. They served as the senior advisor to a former U.S. President and assistant to the president for public engagement and intergovernmental affairs from 2009 to 2017. The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]

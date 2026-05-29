@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And so she had to come with me. I was promoting a book. And so we're doing a radio interview. And I said, OK, mom, you're not being interviewed. We're like in the waiting room. Then I had to go to the bathroom and then I come back and I go, where's my mom? And she's being interviewed and she's going, Alan got an 800 on a set."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Within 20 seconds, you pulled that out. Within 20 seconds."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. Wow."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "text": "Okay, so seriously, so you're a math whiz or a brainiac? I mean, what is that about?"
+      }
+    ],
+    "speakername": "Al Franken",
+    "ground_truth": "No, I was just good at math and up to a point. I mean, I I was just I peaked at, you know, Algebra two. I mean, I was not I took calculus freshman year and I went, what? I have no idea what this is useful for. I don't like it. And then I became a comedian.",
+    "bio": "The subject (born May 21, 1951) is an American comedian, writer, producer, author, and politician who served as a United States Senator from a midwestern state from 2009 to 2018. They became well known in the 1970s and 1980s as a performer on a major network late-night comedy show. After decades as a comedic actor and writer, they became a prominent liberal political activist, hosting their own show on a progressive radio network. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "got that thing i i there was a thing called [theater name] which was like [performance group] it was like essie in fact [person] taught tom was in tom was in their troop tom was in okay and i'll give you an example of you know tom davis and i uh met in high school and we started performing together at this theater and we went to like an open what there weren't mics it was a little theater and um"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "[performance group]. It was like, in fact, [person] taught her time."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Tom was in."
+      },
+      {
+        "speaker": "[target]",
+        "text": "we were able to get on and the the owner liked us and we were able to do shows there and tom i went off to college and tom became a member of the troop and got the training the improv training and anyone who's interested in comedy i would do that because i'll give you one example of where it really came in handy remember julia chow bleeding to death that okay so uh tom and i wrote that we're looking for an end and in improv you're taught to look for objects because you're out there on the stage with nothing and you're improvising and one of the techniques is to find objects and at the end we were looking for a blow for the scene and tom said the phone"
+      }
+    ],
+    "speakername": "Al Franken",
+    "ground_truth": "know there's there's the kitchen phone and so you know danny as julia child is going like um oh the phone and uh in an emergency call 9-1-1 and then and danny picks it up and starts to dial he goes it's a prop phone and throws it down and then dies essentially and that was like you know it was really you know tom and i as a team each kind of complemented each other in certain ways that was one of the ways he did so people who are listening are to your to this broadcast uh podcaster are really interested in comedy and and young people ask me all the time should i do improv class and go yeah yeah yeah",
+    "bio": "[target] (born May 21, 1951) is a Jewish American comedian, writer, producer, author, and politician who served as a United States Senator from [state] from 2009 to 2018. He became well known in the 1970s and 1980s as a performer on the television comedy show [TV show] ([TV show acronym]). After decades as a comedic actor and writer, he became a prominent liberal political activist, hosting The [target] Show on [radio network]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "That was one of the top, top, most memorable sketches. Well, that was one that..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "peaked on air you know how you know how you knew you had something and you were just going like oh please peak on air please and we that was one of the you guys will attest to this"
+      },
+      {
+        "speaker": "[target]",
+        "text": "if something worked in dress, it was in there. Right. And that worked in dress. And it was [Actor] as the host. But we didn't have the blood quite right. And we held it because we didn't have the blood quite right. It's still kind of killed. But and here's the thing is that that it was an insecticide sprayer."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Underneath"
+      }
+    ],
+    "speakername": "Al Franken",
+    "ground_truth": "the counter and the special effects guy was running it and because tom and i had written it and we went to the special effects guy and said can tom run this the",
+    "bio": "Born May 21, 1951, the speaker is an American comedian, writer, producer, author, and politician who served as a United States Senator from [State] from 2009 to 2018. They became well known in the 1970s and 1980s as a performer on a major television comedy show. After decades as a comedic actor and writer, they became a prominent liberal political activist, hosting their own show on [Radio Network]. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "if something worked in dress, it was in there. Right. And that worked in dress. And it was Walter Matthau as the host. But we didn't have the blood quite right. And we held it because we didn't have the blood quite right. It's still kind of killed. But and here's the thing is that that it was an insecticide sprayer."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "text": "Underneath"
+      },
+      {
+        "speaker": "[target]",
+        "text": "the counter and the special effects guy was running it and because tom and i had written it and we went to the special effects guy and said can tom run this the"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Right, because it's like part of the joke, you gotta"
+      }
+    ],
+    "speakername": "Al Franken",
+    "ground_truth": "get it right and and the guy you know he it's a union job because now but but they love love tom and so tom did it so tom and danny time those spurts and and that's you know and then you know it's one of those things where you're going like oh please get it all on on on air and it does and you go yay yay",
+    "bio": "Born May 21, 1951, the speaker is an American comedian, writer, producer, author, and politician who served as a United States Senator from their state from 2009 to 2018. They became well known in the 1970s and 1980s as a performer on a major network television comedy show. After decades as a comedic actor and writer, they became a prominent liberal political activist, hosting their own show on radio. The speaker's MBTI type is ENTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, for the West Coast, for the repeats. Yeah, sometimes."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah. And now they do, of course. And so."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "[target], when we were there, let's say 91 to 96 was."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "i i mean i think we did tape just i never really saw them i never really they didn't really do anything with them but maybe they did tape them i don't remember"
+      }
+    ],
+    "speakername": "Al Franken",
+    "ground_truth": "No, I think I think certainly in the repeats, I don't think they change it for the West Coast unless something.",
+    "bio": "The speaker (born May 21, 1951) is an American comedian, writer, producer, author, and politician who served as a United States Senator from a midwestern state from 2009 to 2018. They became well known in the 1970s and 1980s as a performer on a major late-night television comedy show. After decades as a comedic actor and writer, they became a prominent liberal political activist, hosting their own show on a progressive radio network. The speaker's MBTI type is ENTP",
+    "split": "val"
+  }
+]

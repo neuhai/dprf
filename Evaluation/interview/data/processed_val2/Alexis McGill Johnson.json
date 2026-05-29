@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "like rat out on me and they get paid and then they have control over my body"
+      },
+      {
+        "speaker": "[target]",
+        "text": "So, to surveil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "about that assessment, let me know."
+      }
+    ],
+    "speakername": "Alexis McGill Johnson",
+    "ground_truth": "No, I mean, you're right, because you actually understand how a body works, right? I paid attention, I paid attention. You know that, like, you know, like you start counting your period, you know, like day one, right? So four weeks is literally the earliest that you could even, you know, most people would have a missed period. And then you're talking, so say you're diligent or vigilant about kind of tracking your cycle. Now you have two weeks, basically, actually even a little bit less than that, to get an appointment, to get into a clinic. To have two ultrasounds, right, two transvaginal ultrasounds, like talk about invasion, 24 hours apart. That would, you know, essentially, and if a technician hears something or even mistakes the ultrasound machine for a, you know, the electrical impulse that they are saying is a heartbeat, that means you no longer have access to abortion in the state. It means you have to get into, you know, like I said, get in your car. You know, maybe with your child and drive thousands of miles to a neighboring state to see a provider, right? I mean, it just is insane.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "So, to surveil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "about that assessment, let me know."
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I mean, you're right, because you actually understand how a body works, right? I paid attention, I paid attention. You know that, like, you know, like you start counting your period, you know, like day one, right? So four weeks is literally the earliest that you could even, you know, most people would have a missed period. And then you're talking, so say you're diligent or vigilant about kind of tracking your cycle. Now you have two weeks, basically, actually even a little bit less than that, to get an appointment, to get into a clinic. To have two ultrasounds, right, two transvaginal ultrasounds, like talk about invasion, 24 hours apart. That would, you know, essentially, and if a technician hears something or even mistakes the ultrasound machine for a, you know, the electrical impulse that they are saying is a heartbeat, that means you no longer have access to abortion in the state. It means you have to get into, you know, like I said, get in your car. You know, maybe with your child and drive thousands of miles to another state to see a provider, right? I mean, it just is insane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And the critics say, well, you could just go out of state. You know, this is a state and we have the majority and the state legislatures have passed this. I think it's important for people to know that not everyone has the resources. There's a pandemic. Not everyone has a health care provider, right? There are people who come from low income communities. There are people who come from rural communities, right? And like you said, some people have kids. They have jobs. They can't just pack up and just leave the state and like, oh, I'm going to go. It's like some lighthearted trip. I'm just going to go get an abortion out of state."
+      }
+    ],
+    "speakername": "Alexis McGill Johnson",
+    "ground_truth": "There's a pandemic. Not everyone has a health care provider, right? There are people who come from low-income communities. There are people who come from rural communities, right? And like you said, some people have kids. They have jobs. They can't just pack up and just leave the state and like, oh, I'm going to go. It's like some lighthearted trip. I'm just going to go get an abortion out of state. Like road trip.",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, I mean, you're right, because you actually understand how a body works, right? I paid attention, I paid attention. You know that, like, you know, like you start counting your period, you know, like day one, right? So four weeks is literally the earliest that you could even, you know, most people would have a missed period. And then you're talking, so say you're diligent or vigilant about kind of tracking your cycle. Now you have two weeks, basically, actually even a little bit less than that, to get an appointment, to get into a clinic. To have two ultrasounds, right, two transvaginal ultrasounds, like talk about invasion, 24 hours apart. That would, you know, essentially, and if a technician hears something or even mistakes the ultrasound machine for a, you know, the electrical impulse that they are saying is a heartbeat, that means you no longer have access to abortion in the state. It means you have to get into, you know, like I said, get in your car. You know, maybe with your child and drive thousands of miles to see a provider, right? I mean, it just is insane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And the critics say, well, you could just go out of state. You know, this is a state and we have the majority and the state legislatures have passed this. I think it's important for people to know that not everyone has the resources. There's a pandemic. Not everyone has a health care provider, right? There are people who come from low income communities. There are people who come from rural communities, right? And like you said, some people have kids. They have jobs. They can't just pack up and just leave the state and like, oh, I'm going to go. It's like some lighthearted trip. I'm just going to go get an abortion out of state."
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's a pandemic. Not everyone has a health care provider, right? There are people who come from low-income communities. There are people who come from rural communities, right? And like you said, some people have kids. They have jobs. They can't just pack up and just leave the state and like, oh, I'm going to go. It's like some lighthearted trip. I'm just going to go get an abortion out of state. Like road trip."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, yeah. And so, I mean, the impact on this is profound on 51% of the population. And as you're sitting here as a healthcare organization, you're like, is there a part of you that says, we should have saw this coming? We should have some, I mean, no, hindsight's 20-20. We could have done something different. Do you sit here and I'm sure you're like, what could we have done to maybe stop this moment? And maybe that's a tough question, an unfair question."
+      }
+    ],
+    "speakername": "Alexis McGill Johnson",
+    "ground_truth": "No, it's I mean, it's a fair question that people are just waking up to understand, right, that we are literally six months into this crisis in this state is now having a ripple effect across the country. We have the high court decision looming and people are waking up and they're saying, wait a minute, I thought this protection was secured. Right. It's a constitutional right. It's been here for 49 years. Wait a minute. What happened?",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "80% backing right there is no state in the union where banning abortion is popular right so even"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "in the reddest of the red states."
+      },
+      {
+        "speaker": "[target]",
+        "text": "in [state_1], in [state_2], in [state_3]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "In [state_2], if you don't mind me asking, and we'll get to [state_3] in a second, what's the favorability rate, if you will, for [case_name] to keep it?"
+      }
+    ],
+    "speakername": "Alexis McGill Johnson",
+    "ground_truth": "I don't have a majority. Yes, it's still majority. Right. And so so literally, like when I say there's no state, there is no state. And so so in hindsight, what could we have done differently? I mean, essentially what the reason we are here today is because what we've seen at every turn over the last decade is the opposition claim power in state houses, in the courts right through over the last four years under the previous administration, remaking the judiciary all the way up to the [highest_court] and and then allowing these bills to flourish outside of the you know, where their their constituents are. And so the reality is the courts can't save us. Right. Our legislatures are the only place that where we can stop these horrific bans. And they are incredibly gerrymandered because these are also the states that are taking away our voting rights. These are also the states that are increasing restriction and the people who are most impacted by these, you know, as you mentioned, low income BIPOC folks. But there are also people who are undocumented. Right. They can't travel outstate. You know, we I heard about a patient yesterday who was in foster care. Right. A child, literally 14 year old, not able to travel outside of the state to get access. So we're really going to force a 14 year old into into parenthood. Like it just makes. No sense.",
+    "bio": " The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "In which a woman with an ectopic pregnancy, which, by the way, that's not viable at all, right? Essentially, the bill says you have two choices. You either carry this ectopic pregnancy, which you won't be able to carry, which will result most likely in your death or serious harm."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You go to jail. Am I making, am I, I got there."
+      },
+      {
+        "speaker": "[target]",
+        "text": "100% right about that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "It's an ectopic pregnancy, which is not going to..."
+      }
+    ],
+    "speakername": "Alexis McGill Johnson",
+    "ground_truth": "is in your fallopian tube but it's not even made it to your uterus right that's what makes it ectopic right so it's not even um you know in a place where it will get nourishment to to to thrive we're talking about it can it rupture your you know your tube and actually make you um",
+    "bio": "The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

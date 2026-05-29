@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "As you know, this is a When I Was 25 column for POV, and we ask people to kind of reminisce about their formative days, and I just wanted you to paint a picture for me about [target]. You were about 25 or so, and you met him. What was that like?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "We'll be right back."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um,"
+      }
+    ],
+    "speakername": "Dave Thomas",
+    "ground_truth": "When I first heard of him, I thought, who is this guy? You know, why would he dress up with a funny-looking suit and vest?",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Can you give me an example of something that happens?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Do you remember an incident?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the big thing was that he didn't want people dumping his chicken, and I dumped it. You know, I mean, he wanted you to ladle out from the pots. So he wanted it ladled out piece by piece. He wanted it ladled out. He didn't want me to dump it. But for productivity, it's faster, obviously. Yeah, and it was a lot better."
+      }
+    ],
+    "speakername": "Dave Thomas",
+    "ground_truth": "But he couldn't see that. I mean, he told me not to open up this restaurant. You know, if I was going to dump chicken, don't use that system. And he said, if you do, don't ever talk to me again. So I did. I mean, I opened it up, and he was really mad about it. I mean, I used to be real close with him. You know, I used to travel with him and everything else. And our relationship was strained after that because, I mean, I had to do what I had to do. You really couldn't reason with him. Now, you've got to remember, he was probably, at that time, he was close to 80. You know, and he still was working. And the guy worked hard. I mean, he traveled, drove. He didn't fly very much. He just drove. And when you really work super hard all the time, it gets kind of grouchy. Tell me about, in your childhood, what attracted you to restaurants. My biological mother, you know, I'd never seen her.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Tell me, how are you influencing the colonel? He was telling you how to fry the chicken back in [location]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "The colonel was a man of course."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Now, as far as operations and as far as delegation, we're not alike at all. He wouldn't delegate."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You know, he didn't really trust people."
+      }
+    ],
+    "speakername": "Dave Thomas",
+    "ground_truth": "The colonel didn't trust anyone. I mean, when a colonel run the company, when he left the office, no one made a move until he got back. Now, he wasn't a great production guy, and if you want to do volume and you want to...",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "what not to do by the"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I did. I learned one not to do."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and I learned some things to do. Did you help persuade him?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "to appear in the television commercials."
+      }
+    ],
+    "speakername": "Dave Thomas",
+    "ground_truth": "I had him talking to everybody on TV and radio and doing interviews when he'd come to town, and it was something I thought I would never have to do. Really? I would never.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Hellish mess hall, why did you want to go back to food?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I wanted to go back different. I mean, there's masses, and I just never, you know, I was more of a short-order cook. Well, why did you enroll in the Cook and Baker School to begin with?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "because I had the experience in the restaurant and I wanted to stay in that field."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "You got married at like 22?"
+      }
+    ],
+    "speakername": "Dave Thomas",
+    "ground_truth": "Yeah, I think it's 22 or 21 or 22, yeah. Where did that figure in to everything? I met her at the restaurant in [city]. You did? Tell me about how you met her.",
+    "bio": "The speaker's MBTI type is ENFP",
+    "split": "val"
+  }
+]

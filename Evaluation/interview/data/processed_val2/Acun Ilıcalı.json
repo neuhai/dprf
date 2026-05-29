@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I cannot explain how happy I am because this was my dream long ago and now my dreams came true and I can say that now I'm over the clouds."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You've mentioned before that it has always been your dream to own a club in England. When did you first have that dream and when did you decide that [club name] would be the club?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, of course, you cannot dream when you are a kid to own a club in England because it's too far from the point you are. But I can say that after my success in the world, in my production company, I just believed that I can do something outside of [country]. So getting the success one to another made me believe in myself. So after feeling that confidence, I just started to think how it would be so good if I can have a club in England. Actually, this dream is like I believe in myself. I have always been successful in my profession. So my job is, you know, the media business is not far away from football. We just want to make people happy in media so that they can just watch us. And football, I think, is the best. If you make the good team, good vibe, you're going to be successful and it's going to work in the same way."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're a big celebrity in [country], you've got a massive following on social media. Are you hoping that those fans of football in [country] will come and follow [club name] as their team in England?"
+      }
+    ],
+    "speakername": "Acun Ilıcalı",
+    "ground_truth": "Everything is natural. We'll see on the way. Of course, there are so many fans interested about [club name] at the moment in [country]. It's getting bigger and bigger. In social media, they are just talking about [club name]. I read them. I'm very proud of it. But we have to just show the success and get them bigger and bigger. What I think is, actually, we want to make a good club, a better and better club, so that people from [country] get more involved and more involved. I know they love me. I'm so proud of it. I cannot walk in the streets in [country] because of this love they show to me. But, of course, I want everything to be natural. So we will first succeed, then wait for them to come more and more.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, of course, you cannot dream when you are a kid to own a club in this country because it's too far from the point you are. But I can say that after my success in the world, in my production company, I just believed that I can do something outside of my home country. So getting the success one to another made me believe in myself. So after feeling that confidence, I just started to think how it would be so good if I can have a club here. Actually, this dream is like I believe in myself. I have always been successful in my profession. So my job is, you know, the media business is not far away from football. We just want to make people happy in media so that they can just watch us. And football, I think, is the best. If you make the good team, good vibe, you're going to be successful and it's going to work in the same way."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You're a big celebrity in your country, you've got a massive following on social media. Are you hoping that those fans of football in your country will come and follow this team as their team here?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Everything is natural. We'll see on the way. Of course, there are so many fans interested about the team at the moment in my country. It's getting bigger and bigger. In social media, they are just talking about the team. I read them. I'm very proud of it. But we have to just show the success and get them bigger and bigger. What I think is, actually, we want to make a good club, a better and better club, so that people from my country get more involved and more involved. I know they love me. I'm so proud of it. I cannot walk in the streets in my country because of this love they show to me. But, of course, I want everything to be natural. So we will first succeed, then wait for them to come more and more."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The takeover was announced before the game. You were unveiled on the pitch ahead of kick-off. The fans gave you a fantastic reception. How did that feel?"
+      }
+    ],
+    "speakername": "Acun Ilıcalı",
+    "ground_truth": "Yeah, I mean, it was just, believe me, it was just like a dream, you know, because it happened in three, four minutes that I just came near the pitch. Then when I walked, I heard the sounds of people, just big sounds, which, of course, I was expecting, but you expect something. When it happens, of course, it makes you feel so good. The energy, the vibe of the stadium made me motivated more and more for the success I'm full of desiring.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Everything is natural. We'll see on the way. Of course, there are so many fans interested about the team at the moment in the country. It's getting bigger and bigger. In social media, they are just talking about the team. I read them. I'm very proud of it. But we have to just show the success and get them bigger and bigger. What I think is, actually, we want to make a good club, a better and better club, so that people get more involved and more involved. I know they love me. I'm so proud of it. I cannot walk in the streets in my country because of this love they show to me. But, of course, I want everything to be natural. So we will first succeed, then wait for them to come more and more."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The takeover was announced before the game. You were unveiled on the pitch ahead of kick-off. The fans gave you a fantastic reception. How did that feel?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, it was just, believe me, it was just like a dream, you know, because it happened in three, four minutes that I just came near the pitch. Then when I walked, I heard the sounds of people, just big sounds, which, of course, I was expecting, but you expect something. When it happens, of course, it makes you feel so good. The energy, the vibe of the stadium made me motivated more and more for the success I'm full of desiring."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The head coach has been brought in as the head coach. What was the reasoning behind his appointment?"
+      }
+    ],
+    "speakername": "Acun Ilıcalı",
+    "ground_truth": "If you ask me, one word, intelligence. The coach, for me, is a very intelligent person. Very successful in his career of football. And in the coaching, he made very good things, good games. He made the teams play when he was the coach in the country. So I would say that I like offensive football. I like many positions. I prefer to lose the game 4-3 instead of getting a draw 0-0, nil-nil. So he is absolutely, when I watched his teams, I said, this game I want it. And I was so lucky that I caught him in the moment where he was free. So I just made the offer to him, and he accepted. And it was, I think, five, six months ago. Then we just decided to go this journey together.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I mean, it was just, believe me, it was just like a dream, you know, because it happened in three, four minutes that I just came near the pitch. Then when I walked, I heard the sounds of people, just big sounds, which, of course, I was expecting, but you expect something. When it happens, of course, it makes you feel so good. The energy, the vibe of the stadium made me motivated more and more for the success I'm full of desiring."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Shota Avaladi has been brought in as the head coach. What was the reasoning behind his appointment?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "If you ask me, one word, intelligence. Shota, for me, is a very intelligent person. Very successful in his career of football. And in the coaching, he made very good things, good games. He made the teams play when he was the coach in Turkey. So I would say that I like offensive football. I like many positions. I prefer to lose the game 4-3 instead of getting a draw 0-0, nil-nil. So Shota is absolutely, when I watched his teams, I said, this game I want it. And I was so lucky that I caught him in the moment where he was free. So I just made the offer to him, and he accepted. And it was, I think, five, six months ago. Then we just decided to go this journey together."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "how much involvement on a day-to-day basis are you looking to have with the club"
+      }
+    ],
+    "speakername": "Acun Ilıcalı",
+    "ground_truth": "Yeah, and now everybody around me is complaining because I'm just a little far away from my other businesses. Of course, this time is like the beginning of this journey. I have to be full focused on it. If I can explain you my schedule of flying now, you will say that I think it's too much. Maybe you are talking not real. But I'm just having the production base in [location]. So my life is in [location]. I'm in business life. So now I have two lives, [location] and [location]. So I'm going to be in the triangle, [location], [location], [location], [location], [location], [location], [location].",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "If you ask me, one word, intelligence. Shota, for me, is a very intelligent person. Very successful in his career of football. And in the coaching, he made very good things, good games. He made the teams play when he was the coach in [country]. So I would say that I like offensive football. I like many positions. I prefer to lose the game 4-3 instead of getting a draw 0-0, nil-nil. So Shota is absolutely, when I watched his teams, I said, this game I want it. And I was so lucky that I caught him in the moment where he was free. So I just made the offer to him, and he accepted. And it was, I think, five, six months ago. Then we just decided to go this journey together."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "how much involvement on a day-to-day basis are you looking to have with the club"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, and now everybody around me is complaining because I'm just a little far away from my other businesses. Of course, this time is like the beginning of this journey. I have to be full focused on it. If I can explain you my schedule of flying now, you will say that I think it's too much. Maybe you are talking not real. But I'm just having the production base in [location]. So my life is in [city]. I'm in business life. So now I have two lives, [city] and [city2]. So I'm going to be in the triangle, [location], [city2], [country], [city2], [location], [city2], [country]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "You went to the training ground yesterday to meet the players and the backroom staff. What was that like?"
+      }
+    ],
+    "speakername": "Acun Ilıcalı",
+    "ground_truth": "I was seeing this team like a family when I was watching the games, so I was very happy to be the father of this family, so I felt like the father of the family, and the guys were so warm, and I can understand what people think when they look at me, you know? I'm an expert of eyes, when I look at the eye, I mean, I understand what people think, so eyes analysing, sorry for the English, so I can say that I see the light, I saw the light in the eyes of our players, which will take us to good success.",
+    "bio": "This is [target]. The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

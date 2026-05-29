@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the president hadn't made any decision on the military strike. I was asked to make the case for why we needed to take action, but the president always maintained the prerogative as to when or what he might decide to do. And I think the president's made a very courageous and right, correct decision with respect to asking the Congress to weigh in because the United States is much stronger when we act in unity."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "And are you comfortable with Congress waiting until next week for a vote and confident the war resolution will pass?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Really?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I'm sure it is. How can you guarantee us that you will stay on track and see all these policies through, some of which are presidential executive authority, like the car rules, if another candidate or another party wins in 2024?"
+      }
+    ],
+    "speakername": "John Kerry",
+    "ground_truth": "I don't contemplate that. I think the stakes are just really too high here. I mean, let me just tell you what is happening each day as we go by. I can tell you today, Sunday, that we now have evidence from hair and blood samples from first responders in the affected region, the people who came to help. We have signatures of sarin in their hair and blood samples. So the case is growing stronger by the day. And I believe that as we go forward here in the next days, the Congress will recognize that we cannot allow this action to continue with impunity. If the United States is unwilling to lead a coalition of people who are prepared to stand up for the international norm with respect to chemical weapons that's been in place since 1925, if we are unwilling to do that, we will be granting a blanket license for this to continue. And we will send a terrible message to other nations who might be trying to read how serious is America about enforcing its nonproliferation counter nuclear weapons initiatives. This goes to the core of American credibility in foreign policy. And I believe the Congress of the United States will understand that and do the right thing.",
+    "bio": "Born in 1943, the speaker is an American politician who served as a senior government official from 2013 to 2017. A member of the Democratic Party, they previously represented a northeastern state in the United States Senate from 1985 to 2013. They were their party's nominee in the 2004 presidential election. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Really?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, I'm sure it is. How can you guarantee us that you will stay on track and see all these policies through, some of which are presidential executive authority, like the car rules, if another candidate or another party wins in 2024?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I don't contemplate that. I think the stakes are just really too high here. I mean, let me just tell you what is happening each day as we go by. I can tell you today, Sunday, that we now have evidence from hair and blood samples from first responders in a major city district, the people who came to help. We have signatures of sarin in their hair and blood samples. So the case is growing stronger by the day. And I believe that as we go forward here in the next days, the Congress will recognize that we cannot allow the leader to be able to gas people with impunity. If our country is unwilling to lead a coalition of people who are prepared to stand up for the international norm with respect to chemical weapons that's been in place since 1925, if we are unwilling to do that, we will be granting a blanket license to continue to gas. And we will send a terrible message to other nations who might be trying to read how serious is our country about enforcing its nonproliferation counter nuclear weapons initiatives. This goes to the core of our national credibility in foreign policy. And I believe the Congress will understand that and do the right thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, you don't contemplate a loss, but what if the votes aren't there? Will the president act anyway?"
+      }
+    ],
+    "speakername": "John Kerry",
+    "ground_truth": "The president has the right, as you know, the president has the right to take this action, doesn't have to go to Congress, but he does so with the belief, and this is why I think it's courageous, the president knows that our country is stronger when we act in unity. And I think if each member of Congress looks at this case carefully, as they will, and makes judgments about what has happened, and then measured it against the stakes for our allies, against our interests with respect to neighboring nations, our interests with respect to regional groups, with respect to other nations, nonproliferation, enforcement of a almost 100-year-old prohibition on the use of chemical weapons, as our nation weighs, as the Congress weighs the potential damage to our national credibility in the world. I think the members of Congress will choose to do the right thing, and so does the president.",
+    "bio": "Born in 1943, the target is a prominent politician who served as the Secretary of State from 2013 to 2017. A member of one of the major political parties, the target previously represented a northeastern state in the United States Senate from 1985 to 2013. The target was a presidential nominee in the 2004 election. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I don't contemplate that. I think the stakes are just really too high here. I mean, let me just tell you what is happening each day as we go by. I can tell you today, Sunday, that we now have evidence from hair and blood samples from first responders in a major city district, the people who came to help. We have signatures of sarin in their hair and blood samples. So the case is growing stronger by the day. And I believe that as we go forward here in the next days, the Congress will recognize that we cannot allow the leader to be able to gas people with impunity. If our nation is unwilling to lead a coalition of people who are prepared to stand up for the international norm with respect to chemical weapons that's been in place since 1925, if we are unwilling to do that, we will be granting a blanket license to continue to gas. And we will send a terrible message to other nations who might be trying to read how serious is our country about enforcing its nonproliferation counter nuclear weapons initiatives. This goes to the core of our national credibility in foreign policy. And I believe the Congress will understand that and do the right thing."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "No, you don't contemplate a loss, but what if the votes aren't there? Will the president act anyway?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "The president has the right, as you know, the president has the right to take this action, doesn't have to go to Congress, but he does so with the belief, and this is why I think it's courageous, the president knows that our country is stronger when we act in unity. And I think if each member of Congress looks at this case carefully, as they will, and makes judgments about what has happened, and then measured it against the stakes for our regional allies, against our interests with respect to neighboring countries, our interests with respect to various international organizations, with respect to nonproliferation, enforcement of a almost 100-year-old prohibition on the use of chemical weapons, as our nation weighs, as the Congress weighs the potential damage to our credibility in the world. I think the members of Congress will choose to do the right thing, and so does the president."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But if I hear you correctly, you're saying the president is going to act no matter what."
+      }
+    ],
+    "speakername": "John Kerry",
+    "ground_truth": "Well, I said the president has the right to act. So will he? And, we are not going to lose this vote. The president is committed to securing the unity of purpose that he believes strengthens our nation, and I believe the Congress will see that that's the responsible thing to do here.",
+    "bio": "The speaker (born 1943) is an American politician who served as a senior cabinet member from 2013 to 2017. A member of a major political party, the speaker previously represented a northeastern state in the national legislature from 1985 to 2013. They were their party's nominee in the 2004 presidential election. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The president has the right, as you know, George, the president of the United States has the right to take this action, doesn't have to go to Congress, but he does so with the belief, and this is why I think it's courageous, the president knows that America is stronger when we act in unity. And I think if each member of Congress looks at this case carefully, as they will, and makes judgments about what has happened, and then measured it against the stakes for our ally [COUNTRY], against our interests with respect to [COUNTRY], our interests with respect to [ORGANIZATION], with respect to [COUNTRY], nonproliferation, enforcement of a almost 100-year-old prohibition on the use of chemical weapons, as America weighs, as the Congress weighs the potential damage to America's credibility in the world. I think the members of Congress will choose to do the right thing, and so does the president."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But if I hear you correctly, you're saying the president is going to act no matter what."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I said the president has the right to act. So will he? And, George, we are not going to lose this vote. The president of the United States is committed to securing the unity of purpose that he believes strengthens America, and I believe the Congress will see that that's the responsible thing to do here."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "They are already declaring victory in [COUNTRY] this morning, the [PERSON] regime."
+      }
+    ],
+    "speakername": "John Kerry",
+    "ground_truth": "[PERSON] has said a lot of things in the course of this. I think the more he stands up and crows, the more he will help this decision to be made correctly. I'm very, very confident that as this case is made to people, the Congress will recognize and the American people will come to see. The president is talking about a military action geared to deter the use of chemical weapons and geared to diminish [PERSON]'s capacity to degrade his capacity to be able to carry out those strikes. The president is not talking about taking over this civil war. The president is not talking about boots on the ground. But the president is talking about doing something that upholds this international norm and I think makes it clear to [PERSON] that much worse could happen if he were to continue to use these weapons. The alternative for the Congress and for the world is that you grant [PERSON] and people like him complete impunity and you totally tear down the entire international process of accountability that has been built up over all these years. I do not believe that any of the members of Congress or other countries believe that's in anybody's interest.",
+    "bio": "A prominent American politician who served as the 68th United States Secretary of State from 2013 to 2017. A member of the Democratic Party, they previously represented a northeastern state in the United States Senate from 1985 to 2013. They were the Democratic nominee in the 2004 presidential election, losing to the Republican incumbent. The speaker's MBTI type is INFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "The leader has said a lot of things in the course of this. I think the more he stands up and crows, the more he will help this decision to be made correctly. I'm very, very confident that as this case is made to people, the Congress will recognize and the American people will come to see. The president is talking about a military action geared to deter the use of chemical weapons and geared to diminish the leader's capacity to degrade his capacity to be able to carry out those strikes. The president is not talking about taking over this civil war. The president is not talking about boots on the ground. But the president is talking about doing something that upholds this international norm and I think makes it clear to the leader that much worse could happen if he were to continue to use these weapons. The alternative for the Congress and for the world is that you grant the leader and people like him complete impunity and you totally tear down the entire international process of accountability that has been built up over all these years. I do not believe. I do not believe that any of the members of Congress or other countries believe that's in anybody's interest."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Um,"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, I didn't."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "fly private while i was in this job uh oh okay it's just a misnomer i've had one maybe two private flights which were u.s military flights in order to get to a foreign country during covid where we were forced into that but i fly commercially"
+      }
+    ],
+    "speakername": "John Kerry",
+    "ground_truth": "The reason I bring that up is private aviation is an example of something where people are starting to pay more attention, but when people who go to international conferences to talk about climate change fly private, it seems like they don't want to make...",
+    "bio": "Born in 1943, the target is an American politician who served as the 68th Secretary of State from 2013 to 2017. A member of the Democratic Party, the target previously represented a northeastern state in the United States Senate from 1985 to 2013. The target was the Democratic nominee in the 2004 presidential election, losing to the Republican incumbent. The speaker's MBTI type is INFP",
+    "split": "val"
+  }
+]

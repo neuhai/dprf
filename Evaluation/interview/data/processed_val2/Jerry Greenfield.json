@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And you're here as part of the university's Cultural Enhancement Series featured speaker. You'll be speaking tonight as we tape this program. But let's get started. I mean, there's so much I want to talk to you about. And I've had so many people ask me to ask you things, which doesn't normally happen with a guest. But how you got started in the ice cream biz. You're the co-founder of the ice cream company. You and your business partner are still friends, have been friends since you were teenagers, age 13."
+      },
+      {
+        "speaker": "[target]",
+        "text": "We met in seventh grade in junior high school. We met in gym class. We were the two slowest, fattest kids in the class, and we met running around the track together."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And the rest, as they say, so you're... We were in the back of the pack, as you might have imagined."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But so you start this friendship, it goes on into, and you were going to go to med school, I read. Well."
+      }
+    ],
+    "speakername": "Jerry Greenfield",
+    "ground_truth": "I applied to medical schools but I did not get accepted to medical schools and my business partner has a more checkered educational history than I do. He dropped out of several colleges and we were kind of failing at everything we were trying to do and so we decided to see if we could open up a little homemade ice cream shop.",
+    "bio": "The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And the rest, as they say, so you're... We were in the back of the pack, as you might have imagined."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But so you start this friendship, it goes on into, and you were going to go to med school, I read. Well."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I applied to medical schools but I did not get accepted to medical schools and Ben has a more checkered educational history than I do. He dropped out of several colleges and we were kind of failing at everything we were trying to do and so we decided to see if we could open up a little homemade ice cream shop."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "Well, where does one, you know, you're sitting around one day, maybe eating some ice cream, going, Hey, this stuff's good. We can do this. Was it that kind of thing?"
+      }
+    ],
+    "speakername": "Jerry Greenfield",
+    "ground_truth": "Well, we always like to eat quite a bit, and so when we thought about starting some kind of venture, we thought about different foods, we thought about bagels, we thought about homemade ice cream. We picked ice cream, didn't know anything about it. We learned how to make ice cream from a correspondence course from a state university, and we just kind of figured we were ready to make ice cream.",
+    "bio": "The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, we always like to eat quite a bit, and so when we thought about starting some kind of venture, we thought about different foods, we thought about bagels, we thought about homemade ice cream. We picked ice cream, didn't know anything about it. We learned how to make ice cream from a correspondence course from a state university, and we just kind of figured we were ready to make ice cream."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "This is part of the legacy and lore of the ice cream franchise. The fact that, indeed, you paid $5, and from the way I read it, you two were so broke, you had to each pitch in the $2.50 for the $5 to take a correspondence course in how to make ice cream."
+      },
+      {
+        "speaker": "[target]",
+        "text": "but we got A's on all the open book tests."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you take this course and you go, okay, we can do this. And then a little more to it, because you had to get some backers, at least some money to get started in the beginning. And so you had friends, relatives pitching in? Yeah, Ben and I."
+      }
+    ],
+    "speakername": "Jerry Greenfield",
+    "ground_truth": "had each saved $4,000. So we had $8,000 together. We tried to get a loan from a bank that was going to be guaranteed by a government business agency and that fell through. So we got another $4,000 to go with our $8,000. So in 1978, we opened up this ice cream parlor in an abandoned gas station and we were making ice cream with a five-gallon rock salt and ice ice cream freezer.",
+    "bio": "The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "but we got A's on all the open book tests."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So you take this course and you go, okay, we can do this. And then a little more to it, because you had to get some backers, at least some money to get started in the beginning. And so you had friends, relatives pitching in? Yeah, Ben and I."
+      },
+      {
+        "speaker": "[target]",
+        "text": "had each saved $4,000. So we had $8,000 together. We tried to get a loan from a bank that was going to be guaranteed by the Small Business Administration and that fell through. So we got another $4,000 to go with our $8,000. So in 1978, we opened up this ice cream parlor in an abandoned gas station and we were making ice cream with a five-gallon rock salt and ice ice cream freezer."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So there you go. You're grinning as you're thinking back to this, huh? So you remember day one, you opened those doors and who knew?"
+      }
+    ],
+    "speakername": "Jerry Greenfield",
+    "ground_truth": "I remember day one very clearly because we weren't really supposed to be open on the day we opened, but Ben decided to put an ad in the local newspaper and he put the wrong date on, so he was a week off. It was a great way to start.",
+    "bio": "The speaker's MBTI type is ISFJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "We had six, you know, [company name] is known for all these flavors now, but we started with vanilla, chocolate, strawberry, coffee, just real basic flavors."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "And did you, you know, was there a secret to that initial recipe? Was there something that you had from the get-go that the other guys didn't?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "It was very good quality ice cream. It was a lot of cream, so it was very creamy. It didn't have much air, so it was very rich. So it was mostly high quality, but it was not, you know, the flavor combinations that you think of for [company name] now."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "So did you, after day one, you shut the doors, you go, people came, we sold ice cream, and then was there a point at which you said we need to tweak, maybe we need to look at different flavors, changing the formula?"
+      }
+    ],
+    "speakername": "Jerry Greenfield",
+    "ground_truth": "There was actually a point, not so much about the ice cream, but we closed our doors after a few weeks to see if we could figure out how to pay our bills because neither my partner nor I has any financial training. And we were not really that interested in financial things. So after a while, we just had to shut the door and put a little sign up on the front of the door. Sorry, we're closed. We're trying to figure out if we can stay in business.",
+    "bio": "The speaker's MBTI type is ISFJ",
+    "split": "val"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When the former president asked a foreign president to investigate the [target]s, no evidence of wrongdoing has been found against either one. How did you react to learning that the former president called the foreign president in a phone call asking him to investigate you and your father?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I was like every other American. I was shocked."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Did you call your dad and say, oh, my gosh, can you believe this?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh no yeah but look my dad and i talk about we don't live in this like political bubble i picked up the phone and the first thing he said to me is you know maisie's love in her classes at you know uh i said yeah dad i know she's a pen now we had that discussion before first before you talked about for real and that's not a joke it's not like anybody um has to have any discussion beyond that and i'll let"
+      }
+    ],
+    "speakername": "Hunter Biden",
+    "ground_truth": "Congress handle that. And I'll let you guys in the media handle that. And I'll let my dad's campaign handle that. And the only thing that I'm looking to handle is to make certain that I get up every day and do the next right thing. We're going to an event to meet with a bunch of young and influential people here in the metropolitan area. It's just always good to be together.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "as much as i can i mean look i live in [city] and it's not necessarily that accessible to [state1] [state2] [state3] [state4] but the balance is is this is if my dad's going to talk about the things that really really do matter to the american people i don't want them also talking about me i just don't want to be a distraction to what he wants to tell the american people right now"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Do you think you're a distraction right now to your father's campaign?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "No, personally, myself, I'm not necessarily a distraction to his campaign. I'm never a distraction to my dad. But this is not a family business. My dad has a job. But that does not mean that I had any plans to go do rallies and, you know, talk about [political figure]'s kids. And I never will. You know, that's not what we do. It just isn't. It's just not my dad's nature. Once you make it personal, you basically go down the same rabbit hole that they're trying to leave everybody down. And so that's the distraction that I don't want to be. I mean, there's so many things that the American people right now are so much more concerned about than, you know, whether [target] is going to show up with his dad at the state fair in [state1]."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When you're out and about, especially with all of this 24-7 news coverage, do people come up to you? Are you able to maintain your privacy? Yeah."
+      }
+    ],
+    "speakername": "Hunter Biden",
+    "ground_truth": "There's a lot more interesting and relevant people in [city] than me. And you know what? Most people respect privacy in that way, at least from my experience.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No, personally, myself, I'm not necessarily a distraction to his campaign. I'm never a distraction to my dad. But this is not a family business. My dad has a job. But that does not mean that I had any plans to go do rallies and, you know, talk about political opponents' kids. And I never will. You know, that's not what our family does. It just isn't. It's just not my dad's nature. Once you make it personal, you basically go down the same rabbit hole that they're trying to leave everybody down. And so that's the distraction that I don't want to be. I mean, there's so many things that the American people right now are so much more concerned about than, you know, whether I'm going to show up with my dad at a state event."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When you're out and about, especially with all of this 24-7 news coverage, do people come up to you? Are you able to maintain your privacy? Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "There's a lot more interesting and relevant people in the city than me. And you know what? Most people respect privacy in that way, at least from my experience."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "In his first interview since becoming the focal point of the political news cycle, [target] did want to address allegations once and for all. No topic was off the table. I wanna get to the heart of it. Did you and your father ever discuss that foreign matter?"
+      }
+    ],
+    "speakername": "Hunter Biden",
+    "ground_truth": "No. As I said, the only time it was after a news account, and it wasn't a discussion in any way. There's no but to this. No, we never did.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "No. As I said, the only time it was after a news account, and it wasn't a discussion in any way. There's no but to this. No, we never did."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Your dad said, I hope you know what you're doing. I hope you know what you're doing. I do."
+      },
+      {
+        "speaker": "[target]",
+        "text": "And I said, I do. And that was literally the end of our discussion."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why?"
+      }
+    ],
+    "speakername": "Hunter Biden",
+    "ground_truth": "Because my dad was a senior government official. There's literally nothing as a young man or as a full-grown adult that my father in some way hasn't had influence over because it does not serve either one of us.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "And I said, I do. And that was literally the end of our discussion."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Why?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Because my dad was a high-ranking government official. There's literally nothing as a young man or as a full-grown adult that my father in some way hasn't had influence over because it does not serve either one of us."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "When he said, I hope you know what you're doing, what did he think you were doing?"
+      }
+    ],
+    "speakername": "Hunter Biden",
+    "ground_truth": "Well, he read the press reports that I joined the board of an Eastern European natural gas company. There's been a lot of misinformation about me, not about my dad. Nobody buys that. But it buys this idea that I was unqualified to be on the board.",
+    "bio": "The speaker's MBTI type is ESFP",
+    "split": "val"
+  }
+]

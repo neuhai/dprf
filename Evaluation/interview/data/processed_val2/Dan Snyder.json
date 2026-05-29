@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "[target]",
+        "text": "[target], talk to me about the writer's room."
+      },
+      {
+        "speaker": "[target]",
+        "text": "From what I saw,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Not cool."
+      }
+    ],
+    "speakername": "Dan Snyder",
+    "ground_truth": "No, no. And I don't mean to cut you off, but if I can cut right to the chase, let me just say, no writer should ever feel uncomfortable in any writer's room ever, period, the end, no excuses. Most TV writers, comedy writers have been in writer's rooms and they are aware that a lot of times there are inappropriate jokes made and inappropriate topics come up. But the fact that I participated in that, especially when I was leading the room, it embarrasses me. I shouldn't have done it. And I can tell you why it hurts really bad for me. I remember very clearly my early experiences, my first experiences in the entertainment business. I was green. I was scared. I was excited. It meant the world to me that I was getting those opportunities. And I went in and I got lucky because they were great. My first couple of experiences were fantastic. And the fact that I didn't pay that forward to every employee that walked through my door. Yeah. Yeah. It hurts my heart because I should have. And I wish I could go back and fix that. In the writer's room, there's no doubt that sometimes those jokes went beyond the pale. And I said things that went too far or made practical jokes that went too far. And that was wrong. And that was because, you know, I was an inexperienced producer. I was immature. Wouldn't happen today. But I'm just really sorry it happened. . . . . . . . . . . . . . . . . .",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Speak directly to the people who did not have a good experience with you."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I'd like to."
+      }
+    ],
+    "speakername": "Dan Snyder",
+    "ground_truth": "speak to those people because I hate that anybody worked for me and didn't have a good time you know me you've been on my sets look I've had some employees that have worked for me for 10 years some more than 20 years who would work with me again but not everybody there's a still a significant number that didn't have a great time working for me so my batting average isn't nearly high enough in that area and the way they wouldn't get the best of me is that I would let the pressure of doing 40 or even more episodes per year I would let that pressure get to me which a good boss should never ever do because there's specific things that you were doing sure I would snap at people sometimes I would be snarky when I could have given them a nicer answer I would not give people the time that they needed I would be in too big a hurry to get on to the next thing I had to do and watching that show it made me there were so many times I wanted to pick up a phone and call some of those people and say I know you're a good boss you're a good boss you're a good boss you're a good boss I'm so sorry and let's talk about it and I wish you'd had a better time and I wish I could have shown you a better experience",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "All these jokes that you're speaking of, that the show covered over the past two nights, every one of those jokes was written for a kid audience because kids thought they were funny and only funny, okay? Now we have some adults looking back at them 20 years later through their lens and they're looking at them and they're saying, I don't think that's appropriate for a kid show. And I have no problem with that. If that's how anyone feels, let's cut those jokes out of the show. Just like I would have done 20 years ago or 25 years ago. I cut it. I want my shows to be popular. I want everyone to like it. The more people who like the shows, the happier I am. So if there's anything in a show that needs to be cut because it's upsetting somebody, let's cut it. So."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I think it's big for you to say with your work, if it's viewed as that today, you don't have a problem. Cut it. Cut."
+      },
+      {
+        "speaker": "[target]",
+        "text": "it i mean that's a solution the last thing i want to ever do is put any content in a show that's going to upset my audience and make them want to turn off the tv why would i ever want to do that"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I want to give you an opportunity to kind of elaborate on something, okay? the thought process from the series is you had the power to just write a joke and No matter what it's going on TV. You just had that type of power. Is that true?"
+      }
+    ],
+    "speakername": "Dan Snyder",
+    "ground_truth": "the the notion that i had the power to just produce whatever i wanted and have it is completely false okay there were many many levels of scrutiny okay we had executives in coastal city A we had executives in coastal city B so two coasts two coasts of approval yes and by the way approval at every stage really and i'm talking about wardrobe i'm talking about makeup sound sets dialogue jokes everything now when you say approval these",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "What do you think of that? I think that some of the on-air dares went too far. I think they pushed the envelope too far. Not all of them, not most of them, but some did. A major children's network wanted to do their version of a popular stunt show. At the time we were shooting a youth comedy series, so I was tasked with doing these on-air dares with the cast. So we'd get with the writers and we'd come up with all these ideas, and it's hard to do because we don't have the budget of that show, and we can't put the kids in dangerous situations like the adults are put in, so it was hard to, yeah, hard to come up with stuff. But we would come up with all these ideas of dares they could do, we would give them to the network, and they would say, tell us the ones that were okay. Those are the ones we shot, those are the ones that aired. At the time, I had no indication that any kid ever had a problem with them. But when I was watching the show over the past two nights, I now know that there were kids who did have problems with the on-air dares. And it breaks my heart, and I'm so sorry. I am so sorry to any kid who ever had to do a dare or anything that they didn't want to do or weren't comfortable doing. We went out of our way to make sure they were safe and that everything was done properly, but if a kid was scared and didn't want to do it, kids shouldn't have had to do it. Period, the end. And if I had known at the time, I would have changed it on the spot."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Now we also saw the series highlight two former writers of yours, two women, who spoke about a wage discrepancy. I know that you don't divvy out salaries."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Talk to me about that part. Well, you're correct. I have nothing to do with paying writers. I never have. I've never made a writer's deal. And of all the writers I've been in a writer's room with, I never even knew how much most of them were getting paid. Yeah, but we saw these two women who were writers for you sharing one salary. How does that happen?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "happen."
+      }
+    ],
+    "speakername": "Dan Snyder",
+    "ground_truth": "it's very simple there's a common practice in television when hiring writers if you have a spot for a new writer sometimes you'll go to two writers and say hey if you two new writers for your first job are willing to share a salary you can both have the job they have the opportunity to say yes that sounds good or no no thank you in this case it was two women writers i've done another show where that teaming was done with two male writers and they split a salary i did another show where it was a male and a female writer and they split a salary so these are all first-time writers all first-time writers looking for their first gig got it",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yes. And the reason for that is diversity has always been very important to me in my shows. If you go back to the very first children's network show I ever made, that's very evident, as it is in the second one. And then the first movie I ever made for that network, which starred two actors. And every show I did after that had a lead black actor in it. I'm very proud of that. It's very important to me. And not only am I proud that they were in my shows, I'm exceptionally proud of the achievements they've had beyond my shows. And they've gone on to bigger and better things, and that gives me a great sense of pride."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Well, something that really kind of bothered me was how they depicted your relationship with the cast. Yeah, it bothered me, too. Yeah, just me being there, I knew the dynamic was trust. I understood that in situations where they may have had turmoil, whether it be with their families, whether it be other castmates, they came to you, versus how they made you look. With that said, a certain actress was brought up in the series. And her emancipation, and how you were involved in that. Can you talk to us about it a bit? Sure."
+      },
+      {
+        "speaker": "[target]",
+        "text": "She was between the ages of 16 and 17, and she wanted to get emancipated from her parents, which was a fairly common thing with successful young actors, at least at the time. And she wanted that for herself. So she turned to her team, which included her lawyer, her agent, her manager, her publicist, me, because she included me as part of her team, thought of me that way. We supported her. She tried to get emancipated and it ended up not working out."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "She didn't. Well, since we're here, let's stay here for a moment. There was also an incident where she had ran away from home, if you would. Yes. Can you talk to us a little bit, just to clear the air of exactly what happened in that situation?"
+      }
+    ],
+    "speakername": "Dan Snyder",
+    "ground_truth": "Yes. One night, it was very late, well after midnight, one or two in the morning, phone rang. I answered. It was the young actress. She was upset. She was in distress. She had had some conflict with her parents, I think her father, and she called me. I was immediately concerned about her safety. I called someone who I knew was fairly nearby. That person was able to go and pick her up. Then I knew she was safe. I felt better. She ended up being taken to the police.",
+    "bio": "The speaker's MBTI type is ISTJ",
+    "split": "val"
+  }
+]

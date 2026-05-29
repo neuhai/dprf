@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Man, that sounds important. You're putting a lot of pressure on me right at the top. I don't know if I can handle it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "yeah so so we're gonna go and there's gonna be even a lot more pressure on you because uh most of your interviews have been focused on the here and now and we're going to back all the way up to uh your adolescence and i'm going to ask you to tell us a bit about your life as a child"
+      },
+      {
+        "speaker": "[target]",
+        "text": "uh let me see so i i grew up uh you know kind of lower middle class uh environment um my dad worked at mass mutual which is an insurance company uh out of springfield massachusetts my parents grew up in uh kind of new york and niagara falls uh area my mom on the canadian side my dad on the u.s side and um and so my dad worked at an insurance company in the 60s when i was born and into the 70s but then he started his own business um he dealt in uh rare coins and rare antiquities like egyptian uh funeral masks and uh you know uh all sorts of you know kind of crazy cool stuff like that uh and and so um you know and so once he had his own uh but he was he was always into like like he handed me napoleon hill's think and grow rich book when i was 12 years old he's like hey study this forget all that stuff they're teaching you in school this is what you need to know you know so i i always and i was i'm a big italian family um and i was the i'm the oldest um i had a middle sister uh and then my younger brother about you know like on my mother's side she was the she was the uh youngest of three and i was the youngest of three and i was the youngest of three and i was the 13 brothers and sisters so i have over like 250 cousins just on that side and i'm 100 italian so all four of my grandparents came off the boat uh from italy uh in the 19 teens right before you know as world war one was going down they kind of a lot of italians had gotten out of uh italy at that time because italy a lot of people may not remember but they were actually aligned with germany at that time even in world war ii with mussolini was aligned with hitler so um you know uh the italian people didn't like it um but but you know mussolini and and and the government was kind of aligned so so anyway a lot of the folks got out of italy at that time and um and when they came to america you know my grandparents always used to tell me look they they want they the only thing they ever want from america is opportunity um you know my grandfather never stood in bread lines or when he when he could have you know in the depressed stuff like that he is hard working he he would always tell me and my dad you know um look i up everything i knew my whole life my parents family thing i left it and left everything i know and he didn't speak any english when he came here um he says he left everything better life for anyone he didn't say that as a thing he said that you know like oh but he just wanted us to to know and to understand how important you know working hard and and please don't squander this opportunity that that the country of america gives us um and that was something that that always you know very uh you know it's very emotional to me you know and and and and you know what italian grandparents they instill a lot of passion and sure"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I do, as a half Italian myself."
+      }
+    ],
+    "speakername": "Tommy Tallarico",
+    "ground_truth": "you know you know right and and and it's and it's about creativity and love and family and uh passion and it's a very kind of italian thing especially a italian grandparent and and you see all of these things that i incorporate into in television amico i mean the word amico is the italian word for friend and and so um so yeah so you know that's that's kind of so i grew up in a very um close-knit family that played games together we weren't rich we weren't poor um and when i got that in television machine in 1980 um you know we played together as a family some of my greatest childhood memories are are playing video games with my parents and my my younger brother so uh",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "uh let me see so i i grew up uh you know kind of lower middle class uh environment um my dad worked at mass mutual which is an insurance company uh out of springfield massachusetts my parents grew up in uh kind of new york and niagara falls uh area my mom on the canadian side my dad on the u.s side and um and so my dad worked at an insurance company in the 60s when i was born and into the 70s but then he started his own business um he dealt in uh rare coins and rare antiquities like egyptian uh funeral masks and uh you know uh all sorts of you know kind of crazy cool stuff like that uh and and so um you know and so once he had his own uh but he was he was always into like like he handed me napoleon hill's think and grow rich book when i was 12 years old he's like hey study this forget all that stuff they're teaching you in school this is what you need to know you know so i i always and i was i'm a big italian family um and i was the i'm the oldest um i had a middle sister uh and then my younger brother about you know like on my mother's side she was the she was the uh youngest of three and i was the youngest of three and i was the youngest of three and i was the 13 brothers and sisters so i have over like 250 cousins just on that side and i'm 100 italian so all four of my grandparents came off the boat uh from italy uh in the 19 teens right before you know as world war one was going down they kind of a lot of italians had gotten out of uh italy at that time because italy a lot of people may not remember but they were actually aligned with germany at that time even in world war ii with mussolini was aligned with hitler so um you know uh the italian people didn't like it um but but you know mussolini and and and the government was kind of aligned so so anyway a lot of the folks got out of italy at that time and um and when they came to america you know my grandparents always used to tell me look they they want they the only thing they ever want from america is opportunity um you know my grandfather never stood in bread lines or when he when he could have you know in the depressed stuff like that he is hard working he he would always tell me and my dad you know um look i up everything i knew my whole life my parents family thing i left it and left everything i know and he didn't speak any english when he came here um he says he left everything better life for anyone he didn't say that as a thing he said that you know like oh but he just wanted us to to know and to understand how important you know working hard and and please don't squander this opportunity that that the country of america gives us um and that was something that that always you know very uh you know it's very emotional to me you know and and and and you know what italian grandparents they instill a lot of passion and sure"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I do, as a half Italian myself."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know you know right and and and it's and it's about creativity and love and family and uh passion and it's a very kind of italian thing especially a italian grandparent and and you see all of these things that i incorporate into in television amico i mean the word amico is the italian word for friend and and so um so yeah so you know that's that's kind of so i grew up in a very um close-knit family that played games together we weren't rich we weren't poor um and when i got that in television machine in 1980 um you know we played together as a family some of my greatest childhood memories are are playing video games with my parents and my my younger brother so uh"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So specifically, you know, you kind of go into something that we really want to know about, and that is your first introduction to video games. And I'd like to know what your first, the first video game you remember ever playing was, what the first system is that you ever owned, and what your first arcade experience was and continued to be throughout your early life."
+      }
+    ],
+    "speakername": "Tommy Tallarico",
+    "ground_truth": "I'm so glad you're asking these questions because these are questions that typically people never ask me because they always, you know, they want to know about the new machine or my music career. But this stuff's very important and I think really sets the foundry, the foundation of why we're doing what we're doing now within television. But so this is a story I've never told publicly. I've alluded to it, but I've never actually named names. And now I'm going to name some names because it's pretty interesting. So, like I said, my dad worked at Mass Mutual and he became friends with a famous baseball player by the name of Mike Andrews. Mike Andrews was he played for the Oakland A's, but he was he was a big second baseman on the Red Sox as well. And so after leaving New York, when I was I was born in Springfield, Massachusetts, so my dad had already started working at Mass Mutual. And so Mike Andrews, after he retired from his baseball career, very popular baseball career with the Red Sox, he kind of worked for Mass Mutual as well. Him and my dad ended up becoming very good friends. And so we were we had took a trip, a family trip, and we stayed with Mike. And so we were we had took a trip, a family trip, and we stayed with Mike. Andrews and his family and he had kids. Him and my dad were about the same age. His kids and my siblings were the same age. So we would and so we were over his house and it must have been 1975. So I would about I would have been about seven years old. I was born in 68. And he had a Coleco Telstar machine there. And that was the very first time. I had. Ever seen a video game that I remember seeing a video game and and me and my dad were just totally blown away and we were at his house and it was he was around the Boston area and that was the first time I ever saw it. And so it's kind of cool that this, you know, second baseman for the Red Sox and Oakland A's introduced us, you know, it's kind of a kind of a weird thing. But and he was a super nice guy and talented. So so we. Once we got home, my dad went straight out and bought a Coleco Telstar because it was a group of people all in the basement, you know, enjoying this thing like it was magic because a lot of times people don't remember if you grew up in the 70s or even early 80s, maybe. But but mostly in the 70s, you know, if you were alive during that area, you have to understand we didn't even have remote controls for our television. Right. You wanted to change that. You know who the remote control was in our family? Me. You know, you're you know, my dad would be like, hey, change a channel. Yeah, sure. Yeah. Yes, sir. You know, and.",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I do, as a half Italian myself."
+      },
+      {
+        "speaker": "[target]",
+        "text": "you know you know right and and and it's and it's about creativity and love and family and uh passion and it's a very kind of italian thing especially a italian grandparent and and you see all of these things that i incorporate into in television amico i mean the word amico is the italian word for friend and and so um so yeah so you know that's that's kind of so i grew up in a very um close-knit family that played games together we weren't rich we weren't poor um and when i got that in television machine in 1980 um you know we played together as a family some of my greatest childhood memories are are playing video games with my parents and my my younger brother so uh"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So specifically, you know, you kind of go into something that we really want to know about, and that is your first introduction to video games. And I'd like to know what your first, the first video game you remember ever playing was, what the first system is that you ever owned, and what your first arcade experience was and continued to be throughout your early life."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm so glad you're asking these questions because these are questions that typically people never ask me because they always, you know, they want to know about the new machine or my music career. But this stuff's very important and I think really sets the foundry, the foundation of why we're doing what we're doing now within television. But so this is a story I've never told publicly. I've alluded to it, but I've never actually named names. And now I'm going to name some names because it's pretty interesting. So, like I said, my dad worked at Mass Mutual and he became friends with a famous baseball player by the name of Mike Andrews. Mike Andrews was he played for the Oakland A's, but he was he was a big second baseman on the Red Sox as well. And so after leaving New York, when I was I was born in Springfield, Massachusetts, so my dad had already started working at Mass Mutual. And so Mike Andrews, after he retired from his baseball career, very popular baseball career with the Red Sox, he kind of worked for Mass Mutual as well. Him and my dad ended up becoming very good friends. And so we were we had took a trip, a family trip, and we stayed with Mike. And so we were we had took a trip, a family trip, and we stayed with Mike. Andrews and his family and he had kids. Him and my dad were about the same age. His kids and my siblings were the same age. So we would and so we were over his house and it must have been 1975. So I would about I would have been about seven years old. I was born in 68. And he had a Coleco Telstar machine there. And that was the very first time. I had. Ever seen a video game that I remember seeing a video game and and me and my dad were just totally blown away and we were at his house and it was he was around the Boston area and that was the first time I ever saw it. And so it's kind of cool that this, you know, second baseman for the Red Sox and Oakland A's introduced us, you know, it's kind of a kind of a weird thing. But and he was a super nice guy and talented. So so we. Once we got home, my dad went straight out and bought a Coleco Telstar because it was a group of people all in the basement, you know, enjoying this thing like it was magic because a lot of times people don't remember if you grew up in the 70s or even early 80s, maybe. But but mostly in the 70s, you know, if you were alive during that area, you have to understand we didn't even have remote controls for our television. Right. You wanted to change that. You know who the remote control was in our family? Me. You know, you're you know, my dad would be like, hey, change a channel. Yeah, sure. Yeah. Yes, sir. You know, and."
+      }
+    ],
+    "speakername": "Tommy Tallarico",
+    "ground_truth": "uh and of course back then you only had four tv stations abc nbc cbs and pbs and that was it so you had four and then you had maybe some you know locals but but that was it so you just had to turn the knob you wanted to and so so even remote control like magic radio frequencies moving through the air was like magic that didn't even exist yet right i mean in for for a normal television and so to see you could turn a knob and a paddle would move on screen you have to understand to anyone alive back then no matter young or old that's magic that's like what the hell is going on here and so you can imagine the excitement of seeing that for the first time that'll never be repeated ever in history like that moment right where where you're you're you're for the first time because televisions were only to watch things on but to move a dial and see something move was mind-blowing and so um so my dad went out and he bought a clique hotel star right away and i can yeah well here actually hold on one second guys",
+    "bio": " The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So specifically, you know, you kind of go into something that we really want to know about, and that is your first introduction to video games. And I'd like to know what your first, the first video game you remember ever playing was, what the first system is that you ever owned, and what your first arcade experience was and continued to be throughout your early life."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I'm so glad you're asking these questions because these are questions that typically people never ask me because they always, you know, they want to know about the new machine or my music career. But this stuff's very important and I think really sets the foundry, the foundation of why we're doing what we're doing now within television. But so this is a story I've never told publicly. I've alluded to it, but I've never actually named names. And now I'm going to name some names because it's pretty interesting. So, like I said, my dad worked at an insurance company and he became friends with a famous baseball player by the name of [retired player]. [retired player] played for a professional baseball team, but he was a big second baseman for another team as well. And so after leaving one city, when I was I was born in [city], so my dad had already started working at the insurance company. And so [retired player], after he retired from his baseball career, very popular baseball career, he kind of worked for the insurance company as well. Him and my dad ended up becoming very good friends. And so we took a family trip, and we stayed with [retired player] and his family and he had kids. Him and my dad were about the same age. His kids and my siblings were the same age. So we would and so we were over his house and it must have been 1975. So I would about I would have been about seven years old. I was born in 68. And he had a gaming console there. And that was the very first time I had ever seen a video game that I remember seeing a video game and me and my dad were just totally blown away and we were at his house and it was around the regional area and that was the first time I ever saw it. And so it's kind of cool that this second baseman introduced us, you know, it's kind of a weird thing. But and he was a super nice guy and talented."
+      },
+      {
+        "speaker": "[target]",
+        "text": "and uh and of course back then you only had four tv stations and that was it so you had four and then you had maybe some locals but but that was it so you just had to turn the knob you wanted to and so so even remote control like magic radio frequencies moving through the air was like magic that didn't even exist yet right i mean in for for a normal television and so to see you could turn a knob and a paddle would move on screen you have to understand to anyone alive back then no matter young or old that's magic that's like what the hell is going on here and so you can imagine the excitement of seeing that for the first time that'll never be repeated ever in history like that moment right where where you're you're you're for the first time because televisions were only to watch things on but to move a dial and see something move was mind-blowing and so um so my dad went out and he bought a gaming console right away and i can yeah well here actually hold on one second guys"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "You bet. He's going to get it."
+      }
+    ],
+    "speakername": "Tommy Tallarico",
+    "ground_truth": "first time ever appearing on film this is my original gaming console from back then this is you know you had to get the compartment in the back for batteries and was it d or c i don't think they're d",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_02",
+        "text": "But."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, it might have been C, I don't know. But, but this is it. This is actually my machine that my dad bought that day in 75. So, and, and so that's the Telstar. And then, um, and then I bought a, uh, I was interested, you know, in, in computers as well, but, um, and so like the first computer, my parents bought me was called a Timex Sinclair 1000. I have one."
+      },
+      {
+        "speaker": "[target]",
+        "text": "You had one of those."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "I have one now. I found one at Goodwill recently."
+      }
+    ],
+    "speakername": "Tommy Tallarico",
+    "ground_truth": "I bought one off an online marketplace. Yeah, I bought one off an online marketplace and, and, you know, there was no real keyboard. I mean, it was a key, but it wasn't, you know, it was just a straight pad that you had to, and it had 2K of memory. And then we really splurged.",
+    "bio": "The speaker's MBTI type is ESTP",
+    "split": "val"
+  }
+]

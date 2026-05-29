@@ -1,0 +1,123 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I think it's a worthy fight for him to take on for two reasons. One, because it's who he is, right? If you look at his philosophy over 30 years, there's not a ton of consistency. But one area where he has been consistent for 30 years is on trade. And I think, listen, we all we kind of acknowledge that they've done all these things. We acknowledge they steal IP with impunity. We acknowledge that they take unfair advantage of the trade situation. And everyone says, you know, but when they get better, they get bigger, they'll be better. Well, they haven't been. They just continued the same course. So someone needed to stand up to them."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "The question, though, that I would ask is, I think almost everybody agrees that it's worthy to take on this issue and try to deal with these issues. I think the question is, how do you deal with it, and whether this..."
+      },
+      {
+        "speaker": "[target]",
+        "text": "approach is the right one. Well, we've tried almost every other approach, Andrew, that hasn't worked, right? Now he's trying the confrontational approach. And quite frankly, it's the right time to take this approach and to try it because our economy domestically is so strong. If we weren't as strong domestically as we are, we couldn't afford this fight."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How do you think this is playing throughout the country and specifically in the real swing states that mattered him most?"
+      }
+    ],
+    "speakername": "Chris Christie",
+    "ground_truth": "I think it's playing well for him. I think it's one of his real political advantages because people do feel like they have treated us unfairly. And they want someone who's willing to stand up to that and to fight for them. And I think most of those folks feel like he's fighting for them on this issue. There's a lot of other issues where it's harder for him without in the country. And you see some of that in some of the polling that you see. But on this issue, I think it's good.",
+    "bio": "Born September 6, 1962, the speaker is an American politician, former federal prosecutor, and political commentator who served as the governor of a northeastern state from 2010 to 2018. During his governorship, he chaired a national commission on substance abuse in 2017. The speaker became a major news network contributor in 2018 after leaving office. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "approach is the right one. Well, we've tried almost every other approach, Andrew, that hasn't worked, right? Now he's trying the confrontational approach. And quite frankly, it's the right time to take this approach and to try it because our economy domestically is so strong. If we weren't as strong domestically as we are, we couldn't afford this fight."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How do you think this is playing throughout the country and specifically in the real swing states that mattered him most?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it's playing well for him. I think it's one of his real political advantages because people do feel like the Chinese have treated us unfairly. And they want someone who's willing to stand up to that and to fight for them. And I think most of those folks feel like he's fighting for them on this issue. There's a lot of other issues where it's harder for him without in the country. And you see some of that in some of the polling that you see. But on this issue, I think it's good."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "perspective has to happen ahead of the election on this issue. And how do you think the Chinese on the other end are trying to play it? Well, the Chinese are going to try to wait it out."
+      }
+    ],
+    "speakername": "Chris Christie",
+    "ground_truth": "I mean, if you're the Chinese, why wouldn't you try to wait it out? Does the president need or want a deal ahead of the election? I think the president wants the right deal ahead of the election. I think he's willing to forego a deal. Listen, this is what I mean about philosophically. You know, the president has been in a whole bunch of different spots philosophically in politics over 30 years.",
+    "bio": "The speaker (born September 6, 1962) is an American politician, former federal prosecutor, and political commentator who served as the governor of a northeastern state from 2010 to 2018. During his governorship, he chaired the Opioid and Drug Abuse Commission in 2017. The speaker became a major news network contributor in 2018 after leaving office. The speaker's MBTI type is ESTJ",
+    "url": "",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "How do you think this is playing throughout the country and specifically in the real swing states that mattered him most?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I think it's playing well for him. I think it's one of his real political advantages because people do feel like the Chinese have treated us unfairly. And they want someone who's willing to stand up to that and to fight for them. And I think most of those folks feel like he's fighting for them on this issue. There's a lot of other issues where it's harder for him without in the country. And you see some of that in some of the polling that you see. But on this issue, I think it's good."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "perspective has to happen ahead of the election on this issue. And how do you think the Chinese on the other end are trying to play it? Well, the Chinese are going to try to wait it out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, if you're the Chinese, why wouldn't you try to wait it out? Does the president need or want a deal ahead of the election? I think the president wants the right deal ahead of the election. I think he's willing to forego a deal. Listen, this is what I mean about philosophically. You know, Donald Trump's been in a whole bunch of different spots philosophically in politics over 30 years."
+      }
+    ],
+    "speakername": "Chris Christie",
+    "ground_truth": "But this is this one place he has been there, whether it was with [Country 1] in the 80s or now with [Country 2] then in the 90s and now with [Country 3] in the in the 2000s. He's been in the same spot. I don't think he can afford to back off now.",
+    "bio": "The speaker (born September 6, 1962) is an American politician, former federal prosecutor, and political commentator who served as the 55th Governor of [State] from 2010 to 2018. During his governorship, he chaired the Opioid and Drug Abuse Commission in 2017. The speaker became a major news network contributor in 2018 after leaving office. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "perspective has to happen ahead of the election on this issue. And how do you think the Chinese on the other end are trying to play it? Well, the Chinese are going to try to wait it out."
+      },
+      {
+        "speaker": "[target]",
+        "text": "I mean, if you're the Chinese, why wouldn't you try to wait it out? Does the president need or want a deal ahead of the election? I think the president wants the right deal ahead of the election. I think he's willing to forego a deal. Listen, this is what I mean about philosophically. You know, the former president's been in a whole bunch of different spots philosophically in politics over 30 years."
+      },
+      {
+        "speaker": "[target]",
+        "text": "But this is this one place he has been there, whether it was with Asian countries in the 80s or now with neighboring countries then in the 90s and now with China in the in the 2000s. He's been in the same spot. I don't think he can afford to back off now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "got to ride this out. And how do you think the Democrats play this? Because one of the things that's so interesting is watching the other candidate, as we talked about, almost move right of him on China."
+      }
+    ],
+    "speakername": "Chris Christie",
+    "ground_truth": "Listen, this is why it's a good political issue for him, because the opposition cannot provide contrast. They can't say, oh, no, no, no, we'd go easier on China. Their private sector union supporters would go crazy over that. You know that. They can't afford to go anywhere to the left of the former president on this. So that's why it's both a good political issue for him and, I believe, the right issue from a trade perspective to do. Now, we have to come to an agreement at some point, but I don't think the president should give this away. And I think people believe he's fighting for the right cause. They believe, on this issue, he's not just fighting to fight. He's fighting for something that's more important.",
+    "bio": "The speaker (born September 6, 1962) is an American politician, former federal prosecutor, and political commentator who served as the governor of a northeastern state from 2010 to 2018. During his governorship, he chaired the Opioid and Drug Abuse Commission in 2017. The speaker became a major news network contributor in 2018 after leaving office. The speaker's MBTI type is ESTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "But this is this one place he has been there, whether it was with Japan in the 80s or now with Mexico then in the 90s and now with China in the in the 2000s. He's been in the same spot. I don't think he can afford to back off now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "got to ride this out. And how do you think the Democrats play this? Because one of the things that's so interesting is watching Elizabeth Warren, as we talked about, almost move right of him on China."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Listen, this is why it's a good political issue for him, because the Democrats cannot provide contrast. They can't say, oh, no, no, we'd go easier on China. Their private sector union supporters would go crazy over that. You know that. They can't afford to go anywhere to the left of Trump on this. So that's why it's both a good political issue for him and, I believe, the right issue from a trade perspective to do. Now, we have to come to an agreement at some point, but I don't think the president should give this away. And I think people believe he's fighting for the right cause. They believe, on this issue, he's not just fighting to fight. He's fighting for something that's more important."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We are loath to discuss pure politics, obviously. But when I woke up this morning, I checked the futures based on some of the whistle-blower events from yesterday and based on the latest news report revelation that the aid to Ukraine a week before the phone call, that the aid was put on hold, however many million it is. So, I looked at the futures. And the futures do not indicate a constitutional crisis as of yet. Do you think this is a problem, A, for Donald Trump? And does Vice President Biden emerge a winner from this brouhaha, or are they both damaged from this?"
+      }
+    ],
+    "speakername": "Chris Christie",
+    "ground_truth": "Well, listen, I think for Biden, it's a short-term win and a long-term problem, right? So in the short term, anytime you get a bunch of Democrats in a contested Democratic primary who have to stand up for the frontrunner and say this is awful what Trump is doing to Biden, that's good for Biden because it helps to bring some more people to him. And to the extent that he can look victimized by this, this is helpful to him.",
+    "bio": "The speaker (born September 6, 1962) is an American politician, former federal prosecutor, and political commentator who served as the 55th Governor of a northeastern state from 2010 to 2018. During his governorship, he chaired the Opioid and Drug Abuse Commission in 2017. The speaker became a major news network contributor in 2018 after leaving office. The speaker's MBTI type is ESTJ",
+    "split": "val"
+  }
+]

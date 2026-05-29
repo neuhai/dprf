@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Thanks for having me today. I imagine a lot of Americans are wanting to hear from candidates outside of the two-party system after last night."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "We certainly think so. Give us your reaction to what you saw on the debate stage last night."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think what we saw was, you know, Donald Trump doing his standard Donald Trump thing, and then Joe Biden being very underwhelming. I think the lowered expectations, you know, I honestly went into this debate saying, I think Republicans are making a mistake by lowering the expectations so much that as long as Biden doesn't trip over his own feet, he'll be seen as successful. He cleared, he did not clear that bar. He went way under even the expectations Republicans were throwing at him. And I think Democrats are panicking right now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What issues do you think the Libertarian Party and your candidacy bring that were not covered in the debate last night?"
+      }
+    ],
+    "speakername": "Chase Oliver",
+    "ground_truth": "Well, you know, I don't think we saw anybody speaking up for the innocent people in [region1] who have died from the results of the airstrikes that we saw. You know, I support [region2]'s right to respond to a terrorist attack on October 7th. But I think what they've done and the way they've done it has created a lot of casualties that were not mentioned last night when discussing the [region2]-[region1] war. And I really think, you know, on the issue of being pro-choice, which I am, Joe Biden really dropped the ball. He had a chance to get an easy layup to talk to his base. And he couldn't do that. Instead, he wandered off into talking about Lincoln Riley.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, I think what we saw was, you know, [politician1] doing his standard [politician1] thing, and then [politician2] being very underwhelming. I think the lowered expectations, you know, I honestly went into this debate saying, I think Republicans are making a mistake by lowering the expectations so much that as long as [politician2] doesn't trip over his own feet, he'll be seen as successful. He cleared, he did not clear that bar. He went way under even the expectations Republicans were throwing at him. And I think Democrats are panicking right now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What issues do you think the Libertarian Party and your candidacy bring that were not covered in the debate last night?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, I don't think we saw anybody speaking up for the innocent people in [region1] who have died from the results of the airstrikes that we saw. You know, I support [region2]'s right to respond to a terrorist attack on October 7th. But I think what they've done and the way they've done it has created a lot of casualties that were not mentioned last night when discussing the [region2]-[region1] war. And I really think, you know, on the issue of being pro-choice, which I am, [politician2] really dropped the ball. He had a chance to get an easy layup to talk to his base. And he couldn't do that. Instead, he wandered off into talking about [person3]."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "were you surprised by the democratic reaction and the reaction from the liberal media i mean we saw major news network in full on panic mode last night van jones david axelrod talking about how much they love the president but it might be time for him to step aside frankly it sounded like an intervention"
+      }
+    ],
+    "speakername": "Chase Oliver",
+    "ground_truth": "Yeah, I think, you know, what has happened with a lot of the capital city insiders is they've been trying to deny themselves over and over again, saying he's just stuttering. It's just, you know, it's fine. He's fine. And then when it was brought in for the American people, like we now see loud and clear that there is a real, real need for some change in the Democratic Party. And I would not be surprised if there's a huge movement to get [politician2] to step down.",
+    "bio": " The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, you know, I don't think we saw anybody speaking up for the innocent people in the conflict region who have died from the results of the airstrikes that we saw. You know, I support the country's right to respond to a terrorist attack on October 7th. But I think what they've done and the way they've done it has created a lot of casualties that were not mentioned last night when discussing the regional conflict. And I really think, you know, on the issue of being pro-choice, which I am, the president really dropped the ball. He had a chance to get an easy layup to talk to his base. And he couldn't do that. Instead, he wandered off into talking about other topics."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "were you surprised by the democratic reaction and the reaction from the liberal media i mean we saw major news network in full on panic mode last night van jones david axelrod talking about how much they love the president but it might be time for him to step aside frankly it sounded like an intervention"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I think, you know, what has happened with a lot of the capital insiders is they've been trying to deny themselves over and over again, saying he's just stuttering. It's just, you know, it's fine. He's fine. And then when it was brought in for the American people, like we now see loud and clear that there is a real, real need for some change in the Democratic Party. And I would not be surprised if there's a huge movement to get the president to step down."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "They were both asked questions about the national debt, the economic situation of the country. Obviously, both Republicans and Democrats are responsible for contributing to that problem. I saw in some of the counter-programming that RFK Jr. was doing during the debate, he really highlighted that issue, how, again, both Republicans and Democrats are responsible for this. What did you make of their answers on the debt subject?"
+      }
+    ],
+    "speakername": "Chase Oliver",
+    "ground_truth": "I just think, of course, they're weak on that subject because they have no real defense for the fact that they've been adding trillions and trillions of dollars to our debt. The former president added more than any other president in a four-year period. So the idea of fiscal conservatism got totally tossed out the window. I think this is why it's important to have a libertarian voice who's reminding people that, hey, the first way we start paying down the debt and deficit is to balance the budget and to start getting our economy under control and stop with the inflation that we're all feeling. And nobody addressed that, the fact that our debt and deficits are actually driving the inflation we feel. Because when we print trillions of dollars out of thin air, it devalues the dollar everybody has in their pocket or their bank account. And that's affecting American families right here, right now. And they're feeling the crunch.",
+    "bio": " The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Yeah, I think, you know, what has happened with a lot of the government insiders is they've been trying to deny themselves over and over again, saying he's just stuttering. It's just, you know, it's fine. He's fine. And then when it was brought in for the American people, like we now see loud and clear that there is a real, real need for some change in the Democratic Party. And I would not be surprised if there's a huge movement to get Biden to step down."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": "They were both asked questions about the national debt, the economic situation of the country. Obviously, both Republicans and Democrats are responsible for contributing to that problem. I saw in some of the counter-programming that RFK Jr. was doing during the debate, he really highlighted that issue, how, again, both Republicans and Democrats are responsible for this. What did you make of their answers on the debt subject?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "I just think, of course, they're weak on that subject because they have no real defense for the fact that they've been adding trillions and trillions of dollars to our debt. Donald Trump added more than any other president in a four-year period. So the idea of fiscal conservatism got totally tossed out the window. I think this is why it's important to have a libertarian voice who's reminding people that, hey, the first way we start paying down the debt and deficit is to balance the budget and to start getting our economy under control and stop with the inflation that we're all feeling. And nobody addressed that, the fact that our debt and deficits are actually driving the inflation we feel. Because when we print trillions of dollars out of thin air, it devalues the dollar everybody has in their pocket or their bank account. And that's affecting American families right here, right now. And they're feeling the crunch."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What is the case you make to voters coming out of last night, which I think some people expected Joe Biden to perform the way he did, some people maybe expected Trump to perform the way he did. But I still think it shocked the nation to see their mental state, well, Biden's mental state and to see Trump sort of speaking in hyperbole, but very seriously. What do you tell voters about the potential future of a multi-party system and its possibility now?"
+      }
+    ],
+    "speakername": "Chase Oliver",
+    "ground_truth": "Well, I think voters right now got to see loud and clear as to why the two-party system is broken, why we continue to get lesser and lesser candidates because of the way the system is set up. And right now, voters are really dissatisfied. And I wouldn't be surprised if we have the most number of independent votes outside of the two-party system in this election in the last 20 years. Like, this is a huge sea change. It's a great chance for libertarians and others to really put their name out there. And I'm looking forward to reaching out to voters and saying, you know, I was jokingly saying, I'm under 70. I speak in complete sentences. I'm not a convicted felon. I'm your man. But a lot of people are like, wow, that is a bar we need to clear. And neither of the candidates on stage last night were doing that.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "I just think, of course, they're weak on that subject because they have no real defense for the fact that they've been adding trillions and trillions of dollars to our debt. The former president added more than any other president in a four-year period. So the idea of fiscal conservatism got totally tossed out the window. I think this is important to have a libertarian voice who's reminding people that, hey, the first way we start paying down the debt and deficit is to balance the budget and to start getting our economy under control and stop with the inflation that we're all feeling. And nobody addressed that, the fact that our debt and deficits are actually driving the inflation we feel. Because when we print trillions of dollars out of thin air, it devalues the dollar everybody has in their pocket or their bank account. And that's affecting American families right here, right now. And they're feeling the crunch."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "What is the case you make to voters coming out of last night, which I think some people expected the current president to perform the way he did, some people maybe expected the former president to perform the way he did. But I still think it shocked the nation to see their mental state, well, the current president's mental state and to see the former president sort of speaking in hyperbole, but very seriously. What do you tell voters about the potential future of a multi-party system and its possibility now?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, I think voters right now got to see loud and clear as to why the two-party system is broken, why we continue to get lesser and lesser candidates because of the way the system is set up. And right now, voters are really dissatisfied. And I wouldn't be surprised if we have the most number of independent votes outside of the two-party system in this election in the last 20 years. Like, this is a huge sea change. It's a great chance for libertarians and others to really put their name out there. And I'm looking forward to reaching out to voters and saying, you know, I was jokingly saying, I'm under 70. I speak in complete sentences. I'm not a convicted felon. I'm your man. But a lot of people are like, wow, that is a bar we need to clear. And neither of the candidates on stage last night were doing that."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "What did you make of the two candidates' attitudes toward foreign policy? The former president, of course, has been one of the least interventionist Republicans in modern history. He's moved the party away from its very neoconservative bent. But where do you differ from him specifically on your foreign policy stances?"
+      }
+    ],
+    "speakername": "Chase Oliver",
+    "ground_truth": "I think his foreign policy is quite erratic. He talks about how he didn't start any new wars, but he also drone bombed more in four years than the previous administration did in eight. And so he still exported our values militarily through the drone bomb all over the world. He talks about not starting new wars, but then he brags about selling arms to Middle Eastern allies, who's persecuting a war against people right now in nearby regions. And so it's a very erratic foreign policy that's not really based in principle. Libertarians, we support being non-interventionists because we know the best way to export our values is through diplomacy, free trade, and voluntary exchange, and not trying to militarize the world. And he talks a good game, but he still drone bombs all over the world when he was president.",
+    "bio": "The speaker's MBTI type is INTP",
+    "split": "val"
+  }
+]

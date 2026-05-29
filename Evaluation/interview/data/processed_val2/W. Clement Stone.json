@@ -1,0 +1,122 @@
+[
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "welcome [target], businessman, speaker, author, philanthropist, and really the list just goes on and on, but perhaps the best way that people identify you is Mr. P.M.A. Does that, do you like to be identified as P.M.A.?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Absolutely, because the very fact that a person mentions it indicates that they are somewhat involved with positive mental attitude. And the more they mention it, the better it is subconsciously for them and the better it is for those who hear them."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I've heard you refer to PMA as, I believe, you feel it is a major discovery you made in your life and a very important one."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the major discovery that I made, which I call my great discovery in the last few years, are two principles. One, how to recognize, relate, assimilate, and apply principles from what you see, hear, read, think, and experience, and from other disciplines so as to achieve any goal whatsoever. Now, what does that mean? That means achieving the impossible, provided the goal or the method of achieving it doesn't violate universal law, the law of God and the rights of your fellow men. So I train persons to set very, very high impossible goals and how to achieve them. And that is done through repetition, repetition, repetition by keeping one's mind on the goal. You see, the computer was designed as to function similar to the function of the brain of an individual, their human computer. However, with the electronic computer, when it's all set, you can work out problems. With accuracy and a short space of time, but you'll never get out of that computer, the electronic computer, more than you took the time to put into it."
+      }
+    ],
+    "speakername": "W. Clement Stone",
+    "ground_truth": "With the human computer, it's endless, and that is handled through repetition, repetition, repetition, repetition. A child, for example, is taught to walk the first step they may fall, but through repetition, repetition, repetition, the child walks, runs, etc., and so it is with everything else.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "I've heard you refer to PMA as, I believe, you feel it is a major discovery you made in your life and a very important one."
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the major discovery that I made, which I call my great discovery in the last few years, are two principles. One, how to recognize, relate, assimilate, and apply principles from what you see, hear, read, think, and experience, and from other disciplines so as to achieve any goal whatsoever. Now, what does that mean? That means achieving the impossible, provided the goal or the method of achieving it doesn't violate universal law, the law of God and the rights of your fellow men. So I train persons to set very, very high impossible goals and how to achieve them. And that is done through repetition, repetition, repetition by keeping one's mind on the goal. You see, the computer was designed as to function similar to the function of the brain of an individual, their human computer. However, with the electronic computer, when it's all set, you can work out problems. With accuracy and a short space of time, but you'll never get out of that computer, the electronic computer, more than you took the time to put into it."
+      },
+      {
+        "speaker": "[target]",
+        "text": "With the human computer, it's endless, and that is handled through repetition, repetition, repetition, repetition. A child, for example, is taught to walk the first step they may fall, but through repetition, repetition, repetition, the child walks, runs, etc., and so it is with everything else."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Dr. When you talk about a positive mental attitude and how important it is for a person to have it, why do you suppose more people don't have it or don't realize the importance of it?"
+      }
+    ],
+    "speakername": "W. Clement Stone",
+    "ground_truth": "Well, the first place to see throughout the history of education, you could get a diploma at any elementary school or high school merely by using your memory. Cram for an exam and get 100. You get a degree at any university in the behavioral sciences or at any seminary by merely using your memory. And a person all of his lifetime may never figuratively have the true riches of life and the wealth of the world in the palm of his hands. And so that's the field I'm in. Training persons on every continent because everyone has that human computer, a brain and nervous system, but they were never taught how to use it. So it makes no difference whether I'm in regional locations or wherever I am, or wherever I have an instructor. They are taught how to use that human computer to achieve any goal. Makes no difference what it is, provided, again, it doesn't violate universal law.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "With the human computer, it's endless, and that is handled through repetition, repetition, repetition, repetition. A child, for example, is taught to walk the first step they may fall, but through repetition, repetition, repetition, the child walks, runs, etc., and so it is with everything else."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Dr. When you talk about a positive mental attitude and how important it is for a person to have it, why do you suppose more people don't have it or don't realize the importance of it?"
+      },
+      {
+        "speaker": "[target]",
+        "text": "Well, the first place to see throughout the history of education, you could get a diploma at any elementary school or high school merely by using your memory. Cram for an exam and get 100. You get a degree at any university in the behavioral sciences or at any seminary by merely using your memory. And a person all of his lifetime may never figuratively have the true riches of life and the wealth of the world in the palm of his hands. And so that's the field I'm in. Training persons on every continent because everyone has that human computer, a brain and nervous system, but they were never taught how to use it. So it makes no difference whether I'm in generic_location_1, generic_location_2, or wherever I am, or wherever I have an instructor. They are taught how to use that human computer to achieve any goal. Makes no difference what it is, provided, again, it doesn't violate universal law."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "DR. So you're talking about the first important discovery that you made is what might be called the R2A2 or the recognized relate."
+      }
+    ],
+    "speakername": "W. Clement Stone",
+    "ground_truth": "assimilate R2A2 you recognize something you relate it to yourself assimilate it and then you apply it",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "Well, the first place to see throughout the history of education, you could get a diploma at any elementary school or high school merely by using your memory. Cram for an exam and get 100. You get a degree at any university in the behavioral sciences or at any seminary by merely using your memory. And a person all of his lifetime may never figuratively have the true riches of life and the wealth of the world in the palm of his hands. And so that's the field I'm in. Training persons on every continent because everyone has that human computer, a brain and nervous system, but they were never taught how to use it. So it makes no difference whether I'm in any region of the world, or wherever I am, or wherever I have an instructor. They are taught how to use that human computer to achieve any goal. Makes no difference what it is, provided, again, it doesn't violate universal law."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "DR. So you're talking about the first important discovery that you made is what might be called the R2A2 or the recognized relate."
+      },
+      {
+        "speaker": "[target]",
+        "text": "assimilate R2A2 you recognize something you relate it to yourself assimilate it and then you apply it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you're saying that is a different educational process for a person's mind than what the typical person is programmed through. And that's what makes it different."
+      }
+    ],
+    "speakername": "W. Clement Stone",
+    "ground_truth": "achieve that by having their mind on a goal the important thing is to aim for a goal and when you go to religious institution or when you're in conversation or if you read something you because you have your mind on that big impossible goal in the minds of others you will be alerted to something that might help you achieve it",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "train"
+  },
+  {
+    "background": [
+      {
+        "speaker": "[target]",
+        "text": "assimilate R2A2 you recognize something you relate it to yourself assimilate it and then you apply it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "And you're saying that is a different educational process for a person's mind than what the typical person is programmed through. And that's what makes it different."
+      },
+      {
+        "speaker": "[target]",
+        "text": "achieve that by having their mind on a goal the important thing is to aim for a goal and when you go to church or when you're in conversation or if you read something you because you have your mind on that big impossible goal in the minds of others you will be alerted to something that might help you achieve it"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "Dr. Then you say the next step is repetition, repetition, repetition."
+      }
+    ],
+    "speakername": "W. Clement Stone",
+    "ground_truth": "That's right. Whether it's walking or whether it's developing a technique in sports or whether it's trying to solve a problem, the subconscious will come up with the answer because the subconscious operates 24 hours a day. If it weren't for the unconscious, your heart wouldn't be beating, et cetera, et cetera.",
+    "bio": "The speaker's MBTI type is ENTJ",
+    "split": "val"
+  }
+]
