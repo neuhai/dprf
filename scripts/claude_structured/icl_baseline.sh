@@ -1,24 +1,20 @@
 #!/bin/bash
 # ICL Baseline: persona rewrite on TRAIN, evaluate on TRAIN + VAL separately.
-# Data: debate_variation.json, interview processed_val2
-# Outputs per dataset: evaluation_results_train.csv, evaluation_results_val.csv
 
-BEDROCK_CLAUDE_MODEL_ID=
-BEDROCK_AWS_REGION=us-east-1
-LENGTH=100
-SEED=42
-MAX_CONCURRENCY=20
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck source=config.sh
+source "${SCRIPT_DIR}/config.sh"
 
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 BASE_DIR="results/icl_baseline_${TIMESTAMP}"
 mkdir -p "${BASE_DIR}"
 
 COMMON_ARGS=(
-  --length "${LENGTH}"
-  --seed "${SEED}"
+  --length "${ICL_LENGTH}"
+  --seed "${ICL_SEED}"
   --model "${BEDROCK_CLAUDE_MODEL_ID}"
   --bedrock_region "${BEDROCK_AWS_REGION}"
-  --max_concurrency "${MAX_CONCURRENCY}"
+  --max_concurrency "${ICL_MAX_CONCURRENCY}"
 )
 
 echo "ICL Baseline (debate + interview) -> ${BASE_DIR}"

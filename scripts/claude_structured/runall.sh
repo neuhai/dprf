@@ -1,5 +1,6 @@
 #!/bin/bash
 # Launch rebuttal / ICL / few-shot experiments in parallel.
+# Fill scripts/claude_structured/config.sh once, then run this script.
 # Logs: results/runall_<timestamp>/logs/<script>.log
 
 set -u
@@ -7,6 +8,20 @@ set -u
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(cd "${SCRIPT_DIR}/../.." && pwd)"
 cd "${PROJECT_ROOT}"
+
+# shellcheck source=config.sh
+source "${SCRIPT_DIR}/config.sh"
+
+if [ -z "${BEDROCK_CLAUDE_MODEL_ID}" ]; then
+  echo "Error: set BEDROCK_CLAUDE_MODEL_ID in ${SCRIPT_DIR}/config.sh"
+  exit 1
+fi
+
+export AWS_ACCOUNT_ID BEDROCK_CLAUDE_MODEL_ID BEDROCK_AWS_REGION MODEL_KWARGS_JSON
+export ICL_LENGTH ICL_SEED ICL_MAX_CONCURRENCY
+if [ -n "${WANDB_API_KEY:-}" ]; then
+  export WANDB_API_KEY
+fi
 
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 RUN_DIR="results/runall_${TIMESTAMP}"
@@ -22,6 +37,7 @@ SCRIPTS=(
 )
 
 echo "Run-all: ${#SCRIPTS[@]} jobs in parallel"
+echo "Model: ${BEDROCK_CLAUDE_MODEL_ID}  Region: ${BEDROCK_AWS_REGION}"
 echo "Project root: ${PROJECT_ROOT}"
 echo "Logs: ${LOG_DIR}"
 echo ""

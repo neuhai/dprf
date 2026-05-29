@@ -1,12 +1,13 @@
 #!/bin/bash
-AWS_ACCOUNT_ID=
-BEDROCK_CLAUDE_MODEL_ID=
-BEDROCK_AWS_REGION=
-MODEL_KWARGS_JSON='{"claude_temperature": 0.6, "claude_max_tokens": 2000, "bedrock_max_attempts": 100, "claude_top_p": 0.95}'
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck source=config.sh
+source "${SCRIPT_DIR}/config.sh"
+
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 OUTPUT_DIR="results/fewshot_depression_claude_${TIMESTAMP}"
 mkdir -p "${OUTPUT_DIR}"
-export WANDB_API_KEY="2c389cc27b41b9449eb11d8a0cd28723808e1df7"
+if [ -n "${WANDB_API_KEY:-}" ]; then export WANDB_API_KEY; fi
+
 echo "Few-shot depression: eval on FIRST 100 posts, shots from LAST 100 pool..."
 python Evaluation/depression/depression.py \
   --task_model_type bedrock \
