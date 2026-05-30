@@ -27,6 +27,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 sys.path.insert(0, str(PROJECT_ROOT / "Evaluation"))
 
 from core.token_usage import TokenUsageTracker, record_bedrock_usage
+from core.utils import build_bedrock_inference_config
 from icl_baseline.data_loaders import (
     DATASET_REGISTRY,
     load_dataset_units,
@@ -77,11 +78,14 @@ class BedrockGenerator:
                 request = {
                     "modelId": self.model_id,
                     "messages": [{"role": "user", "content": [{"text": prompt}]}],
-                    "inferenceConfig": {
-                        "maxTokens": self.max_tokens,
-                        "temperature": self.temperature,
-                        "topP": self.top_p,
-                    },
+                    "inferenceConfig": build_bedrock_inference_config(
+                        self.max_tokens,
+                        model_kwargs={
+                            "claude_max_tokens": self.max_tokens,
+                            "claude_temperature": self.temperature,
+                        },
+                        temperature=self.temperature,
+                    ),
                 }
                 response = await client.converse(**request)
                 record_bedrock_usage(self.token_usage, response, source=source)

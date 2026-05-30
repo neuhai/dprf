@@ -5,7 +5,7 @@ AWS_ACCOUNT_ID=
 BEDROCK_CLAUDE_MODEL_ID=
 BEDROCK_AWS_REGION=us-east-1
 
-MODEL_KWARGS_JSON='{"claude_temperature": 0.6, "claude_max_tokens": 2000, "bedrock_max_attempts": 100, "claude_top_p": 0.95}'
+MODEL_KWARGS_JSON='{"claude_temperature": 0.6, "claude_max_tokens": 2000, "bedrock_max_attempts": 100}'
 
 WANDB_API_KEY=
 

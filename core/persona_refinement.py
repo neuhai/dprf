@@ -4,6 +4,8 @@ Implements the two-step persona refinement process.
 """
 
 from typing import Dict, List, Any, Optional, Tuple, Callable
+
+from .utils import build_bedrock_inference_config
 import re
 import os
 import logging
@@ -623,13 +625,12 @@ class PersonaRefiner:
                 # Convert message format
                 transformed_messages = [self._transform_bedrock_message(msg) for msg in messages]
                 
-                # Extract Claude-specific parameters from model_kwargs, or use default values
-                inference_config = {
-                    "maxTokens": self.model_kwargs.get('claude_max_tokens', self.max_tokens),
-                    "temperature": self.model_kwargs.get('claude_temperature', self.temperature),
-                    "topP": self.model_kwargs.get('claude_top_p', self.top_p),
-                    # "stopSequences": self.model_kwargs.get('claude_stop_sequences', []) # Claude's stop sequences
-                }
+                inference_config = build_bedrock_inference_config(
+                    self.max_tokens,
+                    model_kwargs=self.model_kwargs,
+                    temperature=self.temperature,
+                    top_p=self.top_p,
+                )
                 api_messages = transformed_messages
                 system_prompt_text = self.model_kwargs.get('bedrock_system_prompt', None) # Allow passing system prompts through model_kwargs
 

@@ -166,4 +166,24 @@ Your review should:
 5. Suggest specific areas for improvement
 6. Provide an overall recommendation (Accept/Minor Revision/Major Revision/Reject)
 
-Base your assessment on scientific standards for research papers, considering originality, significance, validity, and clarity.""" 
+Base your assessment on scientific standards for research papers, considering originality, significance, validity, and clarity."""
+
+
+def build_bedrock_inference_config(
+    max_tokens: int,
+    *,
+    model_kwargs: Optional[Dict[str, Any]] = None,
+    temperature: float = 0.7,
+    top_p: float = 0.9,
+) -> Dict[str, Any]:
+    """Build Bedrock Converse inferenceConfig (temperature and topP are mutually exclusive)."""
+    model_kwargs = model_kwargs or {}
+    config: Dict[str, Any] = {
+        "maxTokens": model_kwargs.get("claude_max_tokens", max_tokens),
+    }
+    sampling = model_kwargs.get("bedrock_sampling", "temperature")
+    if sampling == "top_p":
+        config["topP"] = model_kwargs.get("claude_top_p", top_p)
+    else:
+        config["temperature"] = model_kwargs.get("claude_temperature", temperature)
+    return config 

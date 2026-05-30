@@ -72,7 +72,8 @@ from .utils import (
     load_json,   
     save_json,  
     format_persona_prompt,  
-    format_peer_review_instruction  
+    format_peer_review_instruction,
+    build_bedrock_inference_config,
 )
 from .token_usage import (
     TokenUsageTracker,
@@ -1033,11 +1034,12 @@ class DPRFAgent:
             messages_for_bedrock.append({"role": "user", "content": user_message_content})
 
             try:
-                inference_config = {
-                    "maxTokens": max_output_tokens or self.max_tokens,
-                    "temperature": self.model_kwargs.get('claude_temperature', self.temperature),
-                    "topP": self.model_kwargs.get('claude_top_p', self.top_p),
-                }
+                inference_config = build_bedrock_inference_config(
+                    max_output_tokens or self.max_tokens,
+                    model_kwargs=self.model_kwargs,
+                    temperature=self.temperature,
+                    top_p=self.top_p,
+                )
 
                 # Call Bedrock asynchronously
                 response = await self._call_bedrock_async(

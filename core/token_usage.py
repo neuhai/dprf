@@ -104,13 +104,21 @@ def record_bedrock_usage(tracker: Optional[TokenUsageTracker], response: Any, so
     if tracker is None or not isinstance(response, dict):
         return
     usage = response.get("usage") or {}
-    input_tokens = usage.get("inputTokens", 0)
-    output_tokens = usage.get("outputTokens", 0)
+    input_tokens = (
+        usage.get("inputTokens")
+        or usage.get("input_tokens")
+        or 0
+    )
+    output_tokens = (
+        usage.get("outputTokens")
+        or usage.get("output_tokens")
+        or 0
+    )
     if not input_tokens and not output_tokens:
         return
     tracker.record(
-        input_tokens,
-        output_tokens,
+        int(input_tokens),
+        int(output_tokens),
         source=source,
         metadata={"provider": "bedrock"},
     )
