@@ -51,7 +51,10 @@ for script in "${SCRIPTS[@]}"; do
   name="${script%.sh}"
   log_file="${LOG_DIR}/${name}.log"
   echo "  -> ${script} (log: ${log_file})"
-  bash "${SCRIPT_DIR}/${script}" > "${log_file}" 2>&1 &
+  (
+    bash "${SCRIPT_DIR}/${script}" 2>&1 | tee "${log_file}"
+    exit "${PIPESTATUS[0]}"
+  ) &
   PIDS+=($!)
   NAMES+=("${name}")
 done
