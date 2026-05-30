@@ -1,20 +1,23 @@
 #!/bin/bash
-AWS_ACCOUNT_ID=
-BEDROCK_CLAUDE_MODEL_ID=
-BEDROCK_AWS_REGION=
-MODEL_KWARGS_JSON='{"claude_temperature": 0.6, "claude_max_tokens": 2000, "bedrock_max_attempts": 100, "claude_top_p": 0.95}'
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck source=config.sh
+source "${SCRIPT_DIR}/config.sh"
+
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 OUTPUT_DIR="results/interview_claude_${TIMESTAMP}"
 mkdir -p "${OUTPUT_DIR}"
-export WANDB_API_KEY="2c389cc27b41b9449eb11d8a0cd28723808e1df7" 
-echo "Starting Python script for Bedrock (Claude 3.7) on Interview task..."
+if [ -n "${WANDB_API_KEY:-}" ]; then export WANDB_API_KEY; fi
+
+echo "DPRF Interview (full processed, ${DPRF_LENGTH} speakers, ${DPRF_ITERATIONS} iterations)..."
 python Evaluation/interview/interview.py \
   --task_model_type bedrock \
   --refiner_model_type bedrock \
   --task_model "${BEDROCK_CLAUDE_MODEL_ID}" \
   --refiner_model "${BEDROCK_CLAUDE_MODEL_ID}" \
   --output_dir "${OUTPUT_DIR}" \
-  --iterations 20 \
+  --length "${DPRF_LENGTH}" \
+  --seed "${DPRF_SEED}" \
+  --iterations "${DPRF_ITERATIONS}" \
   --analysis_prompt_file prompts/analysis_structured.txt \
   --refinement_prompt_file prompts/refinement.txt \
   --instruction_prompt_file Evaluation/interview/prompts/instruction.txt \

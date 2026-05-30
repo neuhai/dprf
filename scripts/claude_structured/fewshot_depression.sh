@@ -15,10 +15,10 @@ python Evaluation/depression/depression.py \
   --task_model "${BEDROCK_CLAUDE_MODEL_ID}" \
   --refiner_model "${BEDROCK_CLAUDE_MODEL_ID}" \
   --output_dir "${OUTPUT_DIR}" \
-  --length 100 \
+  --length "${DPRF_LENGTH}" \
   --example_select first \
-  --seed 42 \
-  --iterations 20 \
+  --seed "${DPRF_SEED}" \
+  --iterations "${DPRF_ITERATIONS}" \
   --analysis_prompt_file prompts/analysis_structured.txt \
   --refinement_prompt_file prompts/refinement.txt \
   --instruction_prompt_file Evaluation/depression/prompts/instruction_few_shot.txt \

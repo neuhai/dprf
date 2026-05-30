@@ -15,8 +15,9 @@ python Evaluation/interview/interview.py \
   --task_model "${BEDROCK_CLAUDE_MODEL_ID}" \
   --refiner_model "${BEDROCK_CLAUDE_MODEL_ID}" \
   --output_dir "${OUTPUT_DIR}" \
-  --length 100 \
-  --iterations 20 \
+  --length "${DPRF_LENGTH}" \
+  --seed "${DPRF_SEED}" \
+  --iterations "${DPRF_ITERATIONS}" \
   --analysis_prompt_file prompts/analysis_structured.txt \
   --refinement_prompt_file prompts/refinement.txt \
   --instruction_prompt_file Evaluation/interview/prompts/instruction.txt \

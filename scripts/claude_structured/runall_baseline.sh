@@ -1,7 +1,7 @@
 #!/bin/bash
-# Launch rebuttal / ICL / few-shot experiments in parallel.
+# Launch full-data DPRF baselines (debate / interview / depression) in parallel.
 # Fill scripts/claude_structured/config.sh once, then run this script.
-# Logs: results/runall_<timestamp>/logs/<script>.log
+# Logs: results/runall_baseline_<timestamp>/logs/<script>.log
 
 set -u
 
@@ -19,25 +19,22 @@ fi
 
 export AWS_ACCOUNT_ID BEDROCK_CLAUDE_MODEL_ID BEDROCK_AWS_REGION MODEL_KWARGS_JSON
 export DPRF_LENGTH DPRF_ITERATIONS DPRF_SEED
-export ICL_LENGTH ICL_SEED ICL_MAX_CONCURRENCY
 if [ -n "${WANDB_API_KEY:-}" ]; then
   export WANDB_API_KEY
 fi
 
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
-RUN_DIR="results/runall_${TIMESTAMP}"
+RUN_DIR="results/runall_baseline_${TIMESTAMP}"
 LOG_DIR="${RUN_DIR}/logs"
 mkdir -p "${LOG_DIR}"
 
 SCRIPTS=(
-  rebuttal_debate.sh
-  rebuttal_interview.sh
-  icl_baseline.sh
-  fewshot_interview.sh
-  fewshot_depression.sh
+  debate.sh
+  interview.sh
+  depression.sh
 )
 
-echo "Run-all: ${#SCRIPTS[@]} jobs in parallel"
+echo "Run-all baseline: ${#SCRIPTS[@]} jobs in parallel"
 echo "Model: ${BEDROCK_CLAUDE_MODEL_ID}  Region: ${BEDROCK_AWS_REGION}"
 echo "Length: ${DPRF_LENGTH}  Iterations: ${DPRF_ITERATIONS}  Seed: ${DPRF_SEED}"
 echo "Project root: ${PROJECT_ROOT}"
@@ -73,9 +70,9 @@ done
 
 echo ""
 if [ "${failed}" -eq 0 ]; then
-  echo "All ${#SCRIPTS[@]} jobs finished successfully."
+  echo "All ${#SCRIPTS[@]} baseline jobs finished successfully."
   exit 0
 else
-  echo "${failed}/${#SCRIPTS[@]} jobs failed."
+  echo "${failed}/${#SCRIPTS[@]} baseline jobs failed."
   exit 1
 fi
