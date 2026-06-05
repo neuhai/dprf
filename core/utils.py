@@ -150,6 +150,74 @@ REFINED PERSONA: [The updated persona description]
 """
 
 
+def format_analysis_refinement_prompt(
+    persona: str,
+    content: str,
+    generated_response: str,
+    ground_truth: str,
+) -> str:
+    """
+    Combined prompt: uses analysis dimensions as thinking guidance but asks the model
+    to directly output the refined persona without producing a separate analysis text.
+    """
+    return f"""I need to refine a persona description based on comparing a generated response with the ground truth.
+
+PERSONA DESCRIPTION:
+{persona}
+
+CONTENT:
+{content}
+
+GENERATED RESPONSE (using the persona):
+{generated_response}
+
+GROUND TRUTH RESPONSE (desired response):
+{ground_truth}
+
+When refining, consider the following dimensions:
+1. Specific viewpoints, perspectives, or stances that the persona is missing
+2. Reasoning patterns or analytical frameworks that differ
+3. Areas where the persona's knowledge or expertise seems insufficient
+4. Tonal or stylistic differences that impact the effectiveness
+5. Structural elements or organization that differ significantly
+
+Based on these dimensions, directly output the refined persona. Do not produce a separate analysis section.
+
+Format your response as:
+REFINED PERSONA: [The updated persona description]
+"""
+
+
+def format_direct_refinement_prompt(
+    persona: str,
+    content: str,
+    generated_response: str,
+    ground_truth: str,
+) -> str:
+    """
+    Direct refinement prompt: no analysis dimensions, four raw inputs, direct persona output.
+    """
+    return f"""I need to refine a persona description so that it produces responses more aligned with the ground truth.
+
+CURRENT PERSONA:
+{persona}
+
+CONTENT:
+{content}
+
+GENERATED RESPONSE (using current persona):
+{generated_response}
+
+GROUND TRUTH RESPONSE (desired response):
+{ground_truth}
+
+Please create a refined version of the persona that would better produce responses aligned with the ground truth.
+
+Format your response as:
+REFINED PERSONA: [The updated persona description]
+"""
+
+
 def format_peer_review_instruction() -> str:
     """
     Returns a standardized instruction for the peer review task.

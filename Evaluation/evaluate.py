@@ -53,6 +53,7 @@ class BaseEvaluator:
         instruction_prompt_file=None, # Add file path for instruction template
         analysis_prompt_file=None, # Add file path for analysis template
         refinement_prompt_file=None, # Add file path for refinement template
+        direct_refinement_prompt_file=None, # Variant A or B: skip analysis step
         bedrock_region_name: str = 'us-east-1',
         model_kwargs: dict = None,
         bert_score_device=None,
@@ -192,6 +193,27 @@ class BaseEvaluator:
         else:
             self.active_refinement_formatter = None
             print("Using default refinement formatter.")
+
+        final_direct_refinement_template_str = ''
+        if direct_refinement_prompt_file and os.path.exists(direct_refinement_prompt_file):
+            try:
+                with open(direct_refinement_prompt_file, 'r') as f:
+                    final_direct_refinement_template_str = f.read()
+                print(f"Using direct refinement prompt from: {direct_refinement_prompt_file} (analysis step will be skipped)")
+            except Exception as e:
+                print(f"Warning: Failed to load direct refinement prompt template: {e}")
+
+        self.active_direct_refinement_formatter = None
+        if final_direct_refinement_template_str:
+            def custom_direct_refinement_formatter(persona, content, generated_response, ground_truth):
+                return final_direct_refinement_template_str.format(
+                    persona=persona,
+                    content=content,
+                    generated_response=generated_response,
+                    ground_truth=ground_truth
+                )
+            self.active_direct_refinement_formatter = custom_direct_refinement_formatter
+            print("Direct refinement formatter created. Analysis step will be skipped.")
 
         # Store DPRFAgent parameters for later initialization
         self.agent_params = {
@@ -356,7 +378,8 @@ class BaseEvaluator:
                 ground_truth=optimization_ground_truth,
                 persona_formatter=self.active_instruction_formatter,
                 analysis_formatter=self.active_analysis_formatter,
-                refinement_formatter=self.active_refinement_formatter
+                refinement_formatter=self.active_refinement_formatter,
+                direct_refinement_formatter=self.active_direct_refinement_formatter,
             )
             all_iteration_details = refined_results_package.get("iterations", [])
             final_persona_after_refinement = refined_results_package.get("final_persona", initial_persona)
@@ -750,7 +773,8 @@ class BaseEvaluator:
                 persona_formatter=self.active_instruction_formatter,
                 analysis_formatter=self.active_analysis_formatter,
                 refinement_formatter=self.active_refinement_formatter,
-                interview_mode=True
+                interview_mode=True,
+                direct_refinement_formatter=self.active_direct_refinement_formatter,
             )
             
             final_persona = refined_results_package.get("final_persona", initial_persona)
@@ -1189,6 +1213,7 @@ class BaseEvaluator:
         
         group.add_argument("--analysis_prompt_file", help="Path to custom analysis prompt template")
         group.add_argument("--refinement_prompt_file", help="Path to custom refinement prompt template")
+        group.add_argument("--direct_refinement_prompt_file", help="Path to direct refinement prompt (skips analysis step; use prompts/analysis_refinement.txt or prompts/direct_refinement.txt)")
 
         return parser
 

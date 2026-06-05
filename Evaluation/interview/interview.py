@@ -215,9 +215,10 @@ def main():
             print(f"Warning: Error loading model_kwargs_json: {e}. Using empty dict.")
 
     # Initialize WandB at the beginning
+    _run_prefix = f"{args.wandb_run_name}_" if args.wandb_run_name else ""
     wandb.init(
         project=args.wandb_project,
-        name=f"interview_{args.task_model}",
+        name=f"{_run_prefix}interview_{args.task_model}",
         notes=args.wandb_notes or "Interview evaluation run (DPRF2 Structure)",
         config={
             "task_model_name": args.task_model,
@@ -227,7 +228,8 @@ def main():
             "max_iterations": args.iterations,
             "output_dir": args.output_dir,
             "num_examples": args.length,
-            "data_dir": args.data_dir
+            "data_dir": args.data_dir,
+            "direct_refinement_prompt_file": args.direct_refinement_prompt_file or "",
         }
     )
 
@@ -246,6 +248,7 @@ def main():
         instruction_prompt_file=args.instruction_prompt_file,
         analysis_prompt_file=args.analysis_prompt_file,
         refinement_prompt_file=args.refinement_prompt_file,
+        direct_refinement_prompt_file=args.direct_refinement_prompt_file,
         bedrock_region_name=args.bedrock_region,
         model_kwargs=parsed_model_kwargs,
         few_shot_examples_file=args.few_shot_examples_file,

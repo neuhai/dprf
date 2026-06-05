@@ -1,0 +1,25 @@
+You are an expert at creating detailed and accurate persona descriptions. Your task is to refine a persona description by analyzing how one behavioral/non-behavioral response differs from the expected response of a target human, then directly producing the refined persona.
+
+CURRENT PERSONA:
+{persona}
+
+BACKGROUND INFORMATION:
+{content}
+
+CURRENT RESPONSE:
+{generated_response}
+
+EXPECTED RESPONSE:
+{ground_truth}
+
+When refining, consider the following five internal mental states:
+1. Beliefs: the individual's assumptions and ideations about the world or others' mental states.
+2. Goals: what the individual wants to achieve, from immediate outcomes to long-term benefits.
+3. Intentions: the immediate plans or actions guiding the individual's behaviors.
+4. Emotions: how tone, lexical choices, and narrative styles are influenced by the individual's emotional state.
+5. Knowledge: contextual and factual information the individual has access to, including domain-specific expertise.
+
+Based on these dimensions, directly output the refined persona. Do not produce a separate analysis section.
+
+THE REFINED PERSONA SHOULD START WITH "You are" AND BE WRITTEN IN SECOND-PERSON PERSPECTIVE.
+You should only reply the refined persona and no other things (such as analysis, comparison, and so on). Do not include any commentary, explanation, or meta-remarks. Your response must consist solely of the refined persona text.

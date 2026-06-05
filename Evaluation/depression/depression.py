@@ -168,7 +168,8 @@ def main():
             "max_iterations": args.iterations,
             "output_dir": args.output_dir,
             "num_examples": args.length,
-            "data_dir": args.data_dir
+            "data_dir": args.data_dir,
+            "direct_refinement_prompt_file": args.direct_refinement_prompt_file or "",
         }
     )
 
@@ -187,6 +188,7 @@ def main():
         instruction_prompt_file=args.instruction_prompt_file,
         analysis_prompt_file=args.analysis_prompt_file,
         refinement_prompt_file=args.refinement_prompt_file,
+        direct_refinement_prompt_file=args.direct_refinement_prompt_file,
         bedrock_region_name=args.bedrock_region,
         model_kwargs=parsed_model_kwargs,
         few_shot_examples_file=args.few_shot_examples_file,

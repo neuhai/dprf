@@ -1,5 +1,5 @@
 #!/bin/bash
-# Launch rebuttal / ICL / few-shot experiments in parallel.
+# Launch Variant A and Variant B experiments in parallel.
 # Fill scripts/claude_structured/config.sh once, then run this script.
 # Logs: results/runall_<timestamp>/logs/<script>.log
 
@@ -30,11 +30,8 @@ LOG_DIR="${RUN_DIR}/logs"
 mkdir -p "${LOG_DIR}"
 
 SCRIPTS=(
-  rebuttal_debate.sh
-  rebuttal_interview.sh
-  icl_baseline.sh
-  fewshot_interview.sh
-  fewshot_depression.sh
+  variant_a.sh
+  variant_b.sh
 )
 
 echo "Run-all: ${#SCRIPTS[@]} jobs in parallel"

@@ -36,7 +36,12 @@ except ImportError:
     LLAMA_CPP_AVAILABLE = False
 
 # Import the utility functions from local utils.py
-from .utils import format_analysis_prompt, format_refinement_prompt
+from .utils import (
+    format_analysis_prompt,
+    format_refinement_prompt,
+    format_analysis_refinement_prompt,
+    format_direct_refinement_prompt,
+)
 from .token_usage import (
     TokenUsageTracker,
     record_bedrock_usage,
@@ -388,7 +393,29 @@ class PersonaRefiner:
         )
         
         return refined_persona, analysis
-    
+
+    async def refine_persona_no_analysis(
+        self,
+        persona: str,
+        content: str,
+        generated_response: str,
+        ground_truth: str,
+        direct_refinement_formatter: Callable[[str, str, str, str], str],
+    ) -> Tuple[str, str]:
+        """
+        Skip the analysis step and refine the persona in a single model call.
+
+        The formatter determines which variant is used:
+          - format_analysis_refinement_prompt  → Variant A (analysis dimensions as guidance)
+          - format_direct_refinement_prompt    → Variant B (no analysis at all)
+
+        Returns (refined_persona, "") — analysis field is empty string.
+        """
+        prompt = direct_refinement_formatter(persona, content, generated_response, ground_truth)
+        refined_persona_text = await self._generate_text(prompt)
+        refined_persona = self._extract_refined_persona(refined_persona_text)
+        return refined_persona if refined_persona else persona, ""
+
     async def _generate_analysis(
         self,
         persona: str,
@@ -432,8 +459,6 @@ class PersonaRefiner:
         )
         
         analysis = await self._generate_text(analysis_prompt)
-        analysis_tokens = self.count_tokens(analysis)
-        # print("step 2-analysis_tokens: ", analysis_tokens)
         return analysis
     
     async def _generate_refined_persona(
@@ -475,12 +500,7 @@ class PersonaRefiner:
             persona=persona,
             analysis=analysis
         )
-        refinement_tokens = self.count_tokens(refinement_prompt)
-        # print("step 3-refinement_input_tokens: ", refinement_tokens)
-
         refined_persona_text = await self._generate_text(refinement_prompt)
-        refined_persona_tokens = self.count_tokens(refined_persona_text)
-        # print("step 3-refined_persona_output_tokens: ", refined_persona_tokens)
         
         # Extract the persona from the response
         refined_persona = self._extract_refined_persona(refined_persona_text)

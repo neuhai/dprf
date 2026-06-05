@@ -188,6 +188,7 @@ def main():
         instruction_prompt_file=args.instruction_prompt_file,
         analysis_prompt_file=args.analysis_prompt_file,
         refinement_prompt_file=args.refinement_prompt_file,
+        direct_refinement_prompt_file=args.direct_refinement_prompt_file,
         bedrock_region_name=args.bedrock_region,
         model_kwargs=parsed_model_kwargs,
         wandb_project=args.wandb_project,

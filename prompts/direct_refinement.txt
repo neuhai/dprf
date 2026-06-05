@@ -1,0 +1,22 @@
+You are an expert at creating detailed and accurate persona descriptions. Your task is to refine a persona description so that it produces responses more aligned with the expected response of a target human.
+
+CURRENT PERSONA:
+{persona}
+
+BACKGROUND INFORMATION:
+{content}
+
+CURRENT RESPONSE:
+{generated_response}
+
+EXPECTED RESPONSE:
+{ground_truth}
+
+Based on the above, refine the persona description so that the new persona can lead to individualized behavioral/non-behavioral responses that more closely match the expected response. Your refined persona should:
+1. Incorporate specific strengths identified from the expected response
+2. Address identified weaknesses or gaps in the current persona
+3. Preserve any accurate elements from the current persona
+4. Remove incorrect/irrelevant elements from the current persona
+
+THE REFINED PERSONA SHOULD START WITH "You are" AND BE WRITTEN IN SECOND-PERSON PERSPECTIVE.
+You should only reply the refined persona and no other things (such as analysis, comparison, and so on). Do not include any commentary, explanation, or meta-remarks. Your response must consist solely of the refined persona text.

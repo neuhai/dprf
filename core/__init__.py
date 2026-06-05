@@ -16,6 +16,8 @@ from .utils import (
     format_persona_prompt,
     format_analysis_prompt,
     format_refinement_prompt,
+    format_analysis_refinement_prompt,
+    format_direct_refinement_prompt,
     format_peer_review_instruction
 )
 
@@ -28,5 +30,7 @@ __all__ = [
     'format_persona_prompt',
     'format_analysis_prompt',
     'format_refinement_prompt',
+    'format_analysis_refinement_prompt',
+    'format_direct_refinement_prompt',
     'format_peer_review_instruction'
 ] 

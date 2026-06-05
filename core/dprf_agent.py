@@ -1160,39 +1160,45 @@ class DPRFAgent:
         """   
         return await self.persona_refiner._generate_text(prompt)   
     
-    async def run_iterations(  
-        self,  
-        initial_persona: str,  
-        content: Union[str, List[str]],  
-        ground_truth: Union[str, List[str]],  
-        persona_formatter: Optional[Callable] = None,  
-        analysis_formatter: Optional[Callable] = None,  
+    async def run_iterations(
+        self,
+        initial_persona: str,
+        content: Union[str, List[str]],
+        ground_truth: Union[str, List[str]],
+        persona_formatter: Optional[Callable] = None,
+        analysis_formatter: Optional[Callable] = None,
         refinement_formatter: Optional[Callable] = None,
         response_max_tokens: int = 2500,
         pre_generated_response: Optional[Union[str, List[str]]] = None,  # Support pre-generated responses
-        interview_mode: bool = False  # Interview mode flag
-    ) -> Dict[str, Any]:  
-        """  
-        Run iterations of the DPRF process to refine the persona.  
-        
-        Args:  
-            initial_persona: Initial description of the persona  
-            content: Text content to process (single string or list for interview mode)  
-            ground_truth: Ground truth response (single string or list for interview mode)  
-            persona_formatter: Optional custom formatter for persona prompt  
-            analysis_formatter: Optional custom formatter for analysis  
-            refinement_formatter: Optional custom formatter for refinement  
+        interview_mode: bool = False,  # Interview mode flag
+        direct_refinement_formatter: Optional[Callable] = None,  # Variant A or B: skip analysis step
+    ) -> Dict[str, Any]:
+        """
+        Run iterations of the DPRF process to refine the persona.
+
+        Args:
+            initial_persona: Initial description of the persona
+            content: Text content to process (single string or list for interview mode)
+            ground_truth: Ground truth response (single string or list for interview mode)
+            persona_formatter: Optional custom formatter for persona prompt
+            analysis_formatter: Optional custom formatter for analysis
+            refinement_formatter: Optional custom formatter for refinement
             pre_generated_response: Optional pre-generated response(s)
             interview_mode: If True, handles multiple data points with batch generation and unified refinement
-            
-        Returns:  
-            Dictionary with results of the DPRF process  
-        """  
-        # Log custom formatters if provided  
-        if analysis_formatter:  
-            print("Using custom analysis_formatter") 
-        if refinement_formatter:  
-            print("Using custom refinement_formatter") 
+            direct_refinement_formatter: If provided, skips the analysis step and uses this formatter
+                to refine the persona in a single call. Pass format_analysis_refinement_prompt for
+                Variant A or format_direct_refinement_prompt for Variant B.
+
+        Returns:
+            Dictionary with results of the DPRF process
+        """
+        # Log custom formatters if provided
+        if analysis_formatter:
+            print("Using custom analysis_formatter")
+        if refinement_formatter:
+            print("Using custom refinement_formatter")
+        if direct_refinement_formatter:
+            print("Using direct_refinement_formatter (analysis step skipped)")
 
         if interview_mode:
             return await self._run_interview_mode_iterations(
@@ -1203,7 +1209,8 @@ class DPRFAgent:
                 analysis_formatter=analysis_formatter,
                 refinement_formatter=refinement_formatter,
                 response_max_tokens=response_max_tokens,
-                pre_generated_responses=pre_generated_response if isinstance(pre_generated_response, list) else ([pre_generated_response] if pre_generated_response else None)
+                pre_generated_responses=pre_generated_response if isinstance(pre_generated_response, list) else ([pre_generated_response] if pre_generated_response else None),
+                direct_refinement_formatter=direct_refinement_formatter,
             )
         else:
             return await self._run_standard_mode_iterations(
@@ -1214,7 +1221,8 @@ class DPRFAgent:
                 analysis_formatter=analysis_formatter,
                 refinement_formatter=refinement_formatter,
                 response_max_tokens=response_max_tokens,
-                pre_generated_response=pre_generated_response if isinstance(pre_generated_response, str) else (pre_generated_response[0] if pre_generated_response else None)
+                pre_generated_response=pre_generated_response if isinstance(pre_generated_response, str) else (pre_generated_response[0] if pre_generated_response else None),
+                direct_refinement_formatter=direct_refinement_formatter,
             )
 
     async def _run_interview_mode_iterations(
@@ -1226,7 +1234,8 @@ class DPRFAgent:
         analysis_formatter: Optional[Callable] = None,
         refinement_formatter: Optional[Callable] = None,
         response_max_tokens: int = 2500,
-        pre_generated_responses: Optional[List[str]] = None
+        pre_generated_responses: Optional[List[str]] = None,
+        direct_refinement_formatter: Optional[Callable] = None,
     ) -> Dict[str, Any]:
         """
         Run DPRF iterations in interview mode: batch generate -> unified refine -> batch generate again
@@ -1285,14 +1294,23 @@ class DPRFAgent:
             
             # Step 3: Unified refinement based on all data points
             self.logger.info("Performing unified persona refinement based on all data points")
-            refined_persona, analysis = await self.persona_refiner.refine_persona(
-                persona=current_persona,
-                content=combined_content,
-                generated_response=combined_response,
-                ground_truth=combined_ground_truth_trimmed,
-                analysis_formatter=analysis_formatter,
-                refinement_formatter=refinement_formatter
-            )
+            if direct_refinement_formatter is not None:
+                refined_persona, analysis = await self.persona_refiner.refine_persona_no_analysis(
+                    persona=current_persona,
+                    content=combined_content,
+                    generated_response=combined_response,
+                    ground_truth=combined_ground_truth_trimmed,
+                    direct_refinement_formatter=direct_refinement_formatter,
+                )
+            else:
+                refined_persona, analysis = await self.persona_refiner.refine_persona(
+                    persona=current_persona,
+                    content=combined_content,
+                    generated_response=combined_response,
+                    ground_truth=combined_ground_truth_trimmed,
+                    analysis_formatter=analysis_formatter,
+                    refinement_formatter=refinement_formatter,
+                )
             
             # Store iteration result
             iteration_result = {
@@ -1377,7 +1395,8 @@ class DPRFAgent:
         analysis_formatter: Optional[Callable] = None,
         refinement_formatter: Optional[Callable] = None,
         response_max_tokens: int = 2500,
-        pre_generated_response: Optional[str] = None
+        pre_generated_response: Optional[str] = None,
+        direct_refinement_formatter: Optional[Callable] = None,
     ) -> Dict[str, Any]:
         """
         Run DPRF iterations in standard mode (original logic)
@@ -1409,15 +1428,24 @@ class DPRFAgent:
                 )
             ground_truth_trimmed = ground_truth
             
-            # Refine persona based on comparison with ground truth  
-            refined_persona, analysis = await self.persona_refiner.refine_persona(  
-                persona=current_persona,  
-                content=content,  
-                generated_response=generated_response,  
-                ground_truth=ground_truth_trimmed,
-                analysis_formatter=analysis_formatter,
-                refinement_formatter=refinement_formatter
-            )  
+            # Refine persona based on comparison with ground truth
+            if direct_refinement_formatter is not None:
+                refined_persona, analysis = await self.persona_refiner.refine_persona_no_analysis(
+                    persona=current_persona,
+                    content=content,
+                    generated_response=generated_response,
+                    ground_truth=ground_truth_trimmed,
+                    direct_refinement_formatter=direct_refinement_formatter,
+                )
+            else:
+                refined_persona, analysis = await self.persona_refiner.refine_persona(
+                    persona=current_persona,
+                    content=content,
+                    generated_response=generated_response,
+                    ground_truth=ground_truth_trimmed,
+                    analysis_formatter=analysis_formatter,
+                    refinement_formatter=refinement_formatter,
+                )
             
             # Store results for this iteration  
             iteration_result = {  
