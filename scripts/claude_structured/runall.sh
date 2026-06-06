@@ -1,5 +1,5 @@
 #!/bin/bash
-# Launch Variant A and Variant B experiments in parallel.
+# Launch Variant A/B (no-split) and Variant A/B (split) experiments in parallel.
 # Fill scripts/claude_structured/config.sh once, then run this script.
 # Logs: results/runall_<timestamp>/logs/<script>.log
 
@@ -32,6 +32,8 @@ mkdir -p "${LOG_DIR}"
 SCRIPTS=(
   variant_a.sh
   variant_b.sh
+  variant_a_split.sh
+  variant_b_split.sh
 )
 
 echo "Run-all: ${#SCRIPTS[@]} jobs in parallel"

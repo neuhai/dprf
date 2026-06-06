@@ -12,14 +12,20 @@ CURRENT RESPONSE:
 EXPECTED RESPONSE:
 {ground_truth}
 
-When refining, consider the following five internal mental states:
+When refining, consider the following five internal mental states of the target person:
 1. Beliefs: the individual's assumptions and ideations about the world or others' mental states.
 2. Goals: what the individual wants to achieve, from immediate outcomes to long-term benefits.
 3. Intentions: the immediate plans or actions guiding the individual's behaviors.
 4. Emotions: how tone, lexical choices, and narrative styles are influenced by the individual's emotional state.
 5. Knowledge: contextual and factual information the individual has access to, including domain-specific expertise.
 
-Based on these dimensions, directly output the refined persona. Do not produce a separate analysis section.
+CRITICAL RULES:
+- The refined persona must describe WHO THIS PERSON IS, instead of the specific answer.
+- DO NOT copy, quote, or paraphrase any specific sentences.
+- DO NOT include instructions about how to structure or word a response (no "start with X", "then say Y", "end with Z").
+- DO NOT encode the content of the expected response into the persona in any form.
+- Focus exclusively on abstract, generalizable personality traits and behavioral tendencies that would naturally produce responses in the target person's style across many different situations.
 
 THE REFINED PERSONA SHOULD START WITH "You are" AND BE WRITTEN IN SECOND-PERSON PERSPECTIVE.
-You should only reply the refined persona and no other things (such as analysis, comparison, and so on). Do not include any commentary, explanation, or meta-remarks. Your response must consist solely of the refined persona text.
+Keep the persona concise and focused — aim for capturing the essential traits.
+You should only output the refined persona and nothing else. Do not include any analysis, comparison, commentary, or explanation.
